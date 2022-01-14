@@ -2,7 +2,7 @@ const devices = Deno.readTextFile('./devices.json');
 const port = 4269;
 async function handleHttp(conn: Deno.Conn) {
 	for await (const e of Deno.serveHttp(conn)) {
-		if (new URL(e.request.url).pathname == 'roms') {
+		if (new URL(e.request.url).pathname == '/roms') {
 			const roms = Deno.readTextFile('./roms.json');
 			const r = new Response(await roms, {
 				headers: {
