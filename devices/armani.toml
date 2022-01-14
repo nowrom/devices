@@ -1,0 +1,7 @@
+codename = "armani"
+name = "HM 1S"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "TG_DEVICE_MAINTAINER"

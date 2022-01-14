@@ -1,0 +1,29 @@
+brand = "Xiaomi"
+name = "Mi 9"
+codename = "cepheus"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_cepheus","kernel_xiaomi_cepheus","vendor_xiaomi_cepheus","vendor_xiaomi-firmware"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = ""
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = ""
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = ""
+stable = true
+deprecated = false
+
+[[roms]]
+id = "arrowos"
+maintainer = "lamjiidii1"

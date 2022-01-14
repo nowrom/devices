@@ -1,0 +1,19 @@
+brand = "Motorola"
+name = "Moto G6"
+codename = "ali"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_motorola_ali","device_motorola_msm8953-common","vendor_motorola_ali","vendor_motorola_msm8953-common","kernel_motorola_msm8953"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-moto-g6-pixelexperience-aosp.4223579"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-moto-g6-pixelexperience-aosp.4223579"
+stable = true
+deprecated = true

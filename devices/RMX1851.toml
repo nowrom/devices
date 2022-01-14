@@ -1,0 +1,20 @@
+brand = "Realme"
+name = "Realme 3 Pro"
+codename = "RMX1851"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_realme_RMX1851","kernel_realme_sdm710","vendor_realme_RMX1851"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+stable = true
+deprecated = true
+
+[[roms]]
+id = "dotos"

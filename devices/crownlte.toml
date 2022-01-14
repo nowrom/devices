@@ -1,0 +1,7 @@
+codename = "crownlte"
+name = "SM-N960F"
+brand = "samsung"
+
+[[roms]]
+id = "arrowos"
+maintainer = "Baddar90"

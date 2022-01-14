@@ -1,0 +1,33 @@
+brand = "Xiaomi"
+name = "Redmi 6 Pro"
+codename = "sakura"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_sakura","kernel_xiaomi_msm8953","vendor_xiaomi_sakura"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = true
+deprecated = false
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Soumyajit_Paul"
+github = "https://github.com/soumyajit007-creator"
+donation_link = "https://www.paypal.com/paypalme/penetrator007"
+photo = "https://avatars.githubusercontent.com/u/76956886?v=4"

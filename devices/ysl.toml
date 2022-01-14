@@ -1,0 +1,14 @@
+brand = "Xiaomi"
+name = "Redmi S2/Y2"
+codename = "ysl"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "AYUSH"
+github = "https://github.com/MIUI56"
+donation_link = ""
+photo = "https://avatars.githubusercontent.com/u/47271737?v=4"

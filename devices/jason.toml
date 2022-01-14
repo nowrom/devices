@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Mi Note 3"
+codename = "jason"
+
+[[roms]]
+id = "dotos"

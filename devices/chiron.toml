@@ -1,0 +1,10 @@
+codename = "chiron"
+name = "Mi Mix 2"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "TG_DEVICE_MAINTAINER"
+
+[[roms]]
+id = "dotos"

@@ -1,0 +1,7 @@
+[rom]
+name = "ArrowOs"
+id = "arrowos"
+about = "ArrowOS is an AOSP based project started with the aim of keeping things simple, clean and neat. We added just the right and mostly used stuff that will be actually USEFUL at the end of the day, aiming to deliver smooth performance with better battery life."
+website = "https://arrowos.net/"
+wiki = "https://blog.arrowos.net/"
+download = "https://arrowos.net/download"

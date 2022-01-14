@@ -1,0 +1,10 @@
+brand = "Realme"
+name = "Realme X3 / SuperZoom"
+codename = "x3"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Patriot06"
+github = "https://github.com/Patriot-06"
+donation_link = "https://www.paypal.me/patriot235"

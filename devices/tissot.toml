@@ -1,0 +1,35 @@
+brand = "Xiaomi"
+name = "Mi A1"
+codename = "tissot"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_tissot","device_xiaomi_msm8953-common","kernel_xiaomi_tissot","vendor_xiaomi_tissot","vendor_xiaomi_msm8953-common"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-0-tissot-pixel-experience-aosp.4193737"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-0-tissot-pixel-experience-aosp.4193737"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-tissot-pixelexperience-aosp-beta.4351515"
+deprecated = false
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Answer35"
+github = "https://github.com/answer35"
+donation_link = ""
+photo = "https://avatars.githubusercontent.com/u/26594746?v=4"

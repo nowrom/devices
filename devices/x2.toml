@@ -1,0 +1,11 @@
+brand = "LeEco"
+name = "LeMax2"
+codename = "x2"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "CrisBalGreece"
+github = "https://github.com/CBG-leeco"
+donation_link = ""
+photo = "https://avatars.githubusercontent.com/u/74150843?v=4"

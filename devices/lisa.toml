@@ -1,0 +1,8 @@
+codename = "lisa"
+name = "Xiaomi 11 Lite NE"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "TG_DEVICE_MAINTAINER"
+changelog = "- Fix issues related to audio.\r\n- Misc changes."

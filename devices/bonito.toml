@@ -1,0 +1,25 @@
+brand = "Google"
+name = "Pixel 3a XL"
+codename = "bonito"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_google_bonito","vendor_google_bonito","kernel_google_msm-4.9"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = false
+deprecated = false
+
+[[roms]]
+id = "dotos"

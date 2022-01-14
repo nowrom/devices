@@ -1,0 +1,19 @@
+brand = "OnePlus"
+name = "8"
+codename = "instantnoodle"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_oneplus_instantnoodle","device_oneplus_sm8250-common","vendor_oneplus_instantnoodle","vendor_oneplus_sm8250-common","kernel_oneplus_sm8250"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/oneplus-8/development/rom-pixel-experience-t4168203"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/oneplus-8/development/rom-pixel-experience-t4168203"
+stable = true
+deprecated = true

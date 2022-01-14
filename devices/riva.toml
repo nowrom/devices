@@ -1,0 +1,12 @@
+brand = "Xiaomi"
+name = "Redmi 5A"
+codename = "riva"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_riva","kernel_xiaomi_riva","vendor_xiaomi_riva"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-0-riva-pixelexperience-aosp-official.4206805/"
+deprecated = true

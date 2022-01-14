@@ -1,0 +1,32 @@
+brand = "Motorola"
+name = "Moto G 7 Plus"
+codename = "lake"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_motorola_lake","device_motorola_sdm660-common","vendor_motorola_lake","vendor_motorola_sdm660-common","kernel_motorola_msm8998"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-lake-pixelexperience-normal-plus-aosp.4247259/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-lake-pixelexperience-normal-plus-aosp.4247259/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = false
+deprecated = false
+
+[[roms]]
+id = "legionos"
+active = false
+maintainer = "VitorSSSouza"
+github = "https://github.com/VitorSSSouza"
+donation_link = ""
+photo = "https://avatars.githubusercontent.com/u/78888873?v=4"

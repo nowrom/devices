@@ -1,0 +1,11 @@
+brand = "Xiaomi"
+name = "Redmi 8/8A/8A Dual"
+codename = "olives"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "skittels15"
+github = "https://github.com/skittels15"
+donation_link = "https://ko-fi.com/beerdmann"
+photo = "https://avatars.githubusercontent.com/u/50242333?v=4"

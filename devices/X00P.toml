@@ -1,0 +1,11 @@
+brand = "ASUS"
+name = "Zenfone Max M1"
+codename = "X00P"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_asus_X00P","kernel_asus_X00P","vendor_asus_X00P"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+deprecated = true

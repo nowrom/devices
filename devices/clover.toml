@@ -1,0 +1,8 @@
+codename = "clover"
+name = "MI PAD 4"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "TH779"
+changelog = "-"

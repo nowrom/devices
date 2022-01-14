@@ -1,0 +1,33 @@
+brand = "Xiaomi"
+name = "Redmi Note 7/7s"
+codename = "lavender"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_lavender","kernel_xiaomi_lavender","vendor_xiaomi_lavender"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = ""
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = ""
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = ""
+stable = true
+deprecated = false
+
+[[roms]]
+id = "arrowos"
+maintainer = "Ratoriku, Hazama25"
+changelog = "- Switch to Pixel Thermal\r\n- Adapt Dynamic Thermal Profile to Pixel thermal-engine\r\n- Switch back to QTI bluetooth stack\r\n- Switch to new ANT stack\r\n- Optimize shutdown time\r\n- Optimize UI performance\r\n- Update sepolicy for S requirement\r\n- Fixed upload speed for traffic indicator\r\n- kernel: Upstream to 4.4.296\r\n- kernel: Dropped duplicated kernel-side pocketmode\r\n- kernel: Add back avb and SafetyNet Patches(SafetyNet still passed without them)\r\n- Other fixes and improvements"
+
+[[roms]]
+id = "dotos"

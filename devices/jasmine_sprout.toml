@@ -1,0 +1,27 @@
+brand = "Xiaomi"
+name = "Xiaomi Mi A2"
+codename = "jasmine_sprout"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_jasmine_sprout","kernel_xiaomi_jasmine_sprout","vendor_xiaomi_jasmine_sprout"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+deprecated = true
+
+[[roms]]
+id = "arrowos"
+maintainer = "Immanuel_Raj"
+changelog = "Fixed Fingerprint not working issues"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Immanuel Raj"
+github = "https://github.com/Immanuel44"
+donation_link = "https://paypal.me/immanuelr44?locale.x=en_GB"
+photo = "https://avatars.githubusercontent.com/u/26855364?v=4"

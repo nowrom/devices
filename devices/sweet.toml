@@ -1,0 +1,33 @@
+brand = "Xiaomi"
+name = "Redmi Note 10 Pro/Pro Max"
+codename = "sweet"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_sweet","device_xiaomi_sm6150-common","device_xiaomi_sm6150-extras","kernel_xiaomi_sweet","vendor_xiaomi_sweet","vendor_xiaomi_sm6150-common","vendor_xiaomi_sweet-vendor"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-sweet-sweetin-pixel-experience-official-aosp.4267135/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-sweet-sweetin-pixel-experience-official-aosp.4267135/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-sweet-sweetin-pixel-experience-official-aosp.4267135/"
+stable = true
+deprecated = false
+
+[[roms]]
+id = "arrowos"
+maintainer = "daniml3"
+changelog = "12/11/2021\r\n• Improved power management\r\n• Switched back to schedutil governor\r\n• Cleaned unneeded vendor libraries\r\n\r\n28/10/2021\r\n• Fixed cutout color being inverted with the \"Force dark theme\" setting\r\n• Fixed minimum frequency being 1248MHz\r\n• Fixed WFD\r\n• Added Spanish translations to the device specific settings"
+
+[[roms]]
+id = "dotos"

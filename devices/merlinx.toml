@@ -1,0 +1,15 @@
+brand = "Xiaomi"
+name = "Redmi Note 9 / Redmi 10X 4g"
+codename = "merlinx"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_merlinx","device_xiaomi_mt6768-common","kernel_xiaomi_mt6768","vendor_xiaomi_merlinx","vendor_xiaomi_mt6768-ims"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = false
+deprecated = false
+
+[[roms]]
+id = "dotos"

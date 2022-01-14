@@ -1,0 +1,7 @@
+codename = "RMX1801"
+name = "Realme 2 Pro"
+brand = "oppo"
+
+[[roms]]
+id = "arrowos"
+maintainer = "Baibhab"

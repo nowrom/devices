@@ -1,0 +1,18 @@
+brand = "google"
+name = "Pixel 3 XL"
+codename = "crosshatch"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_google_crosshatch","kernel_google_bluecross","vendor_google_crosshatch"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = ""
+stable = true
+deprecated = false
+
+[[roms]]
+id = "arrowos"
+maintainer = "ReallySnow"
+changelog = "Add AOSP RCS packages\r\nRemove split permissions"

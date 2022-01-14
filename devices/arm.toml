@@ -1,0 +1,6 @@
+brand = "Android"
+name = "GSI - ARM"
+codename = "arm"
+
+[[roms]]
+id = "dotos"

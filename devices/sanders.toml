@@ -1,0 +1,35 @@
+brand = "Motorola"
+name = "Moto G (5S) Plus"
+codename = "sanders"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_motorola_sanders","device_motorola_msm8953-common","vendor_motorola_sanders","vendor_motorola_msm8953-common","kernel_motorola_msm8953"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-sanders-pixelexperience-normal-plus-aosp.4247243/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-sanders-pixelexperience-normal-plus-aosp.4247243/"
+stable = true
+deprecated = true
+
+[[roms]]
+id = "arrowos"
+maintainer = "Ashwatthama"
+changelog = "Clean flash must (kindly backup your data before flashing)\r\nimproved  performance\r\nEnabled ZRAM by default\r\nTuned ZRAM for better performance\r\nCompiled with hwui for better performance\r\nSwitched to Mad Kernel 2.0"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Lucas Ponez"
+github = "https://github.com/lucasponez"
+donation_link = "https://tinyurl.com/donatetopintos"
+photo = "https://avatars.githubusercontent.com/u/47693195?v=4"

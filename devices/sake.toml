@@ -1,0 +1,7 @@
+codename = "sake"
+name = "ZenFone 8"
+brand = "asus"
+
+[[roms]]
+id = "arrowos"
+maintainer = "TG_DEVICE_MAINTAINER"

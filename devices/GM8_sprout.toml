@@ -1,0 +1,8 @@
+codename = "GM8_sprout"
+name = "GM 8"
+brand = "GM"
+
+[[roms]]
+id = "arrowos"
+maintainer = "noonlord"
+changelog = "Switched to libperfmgr for better performance, battery and less heating.\r\nSome stability improvements."

@@ -1,0 +1,40 @@
+brand = "Xiaomi"
+name = "POCO X3 Pro"
+codename = "vayu"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_vayu","kernel_xiaomi_vayu","vendor_xiaomi_vayu"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = ""
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = ""
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = true
+deprecated = false
+
+[[roms]]
+id = "arrowos"
+maintainer = "kubersharma001"
+changelog = "Please check <a href=\"https://github.com/ArrowOS-Devices/android_device_xiaomi_vayu/commits/arrow-12.0\">Device</a>,<a href=\"https://github.com/ArrowOS-Devices/android_vendor_xiaomi_vayu/commits/arrow-12.0\">Vendor</a>,<a href=\"https://github.com/ArrowOS-Devices/android_kernel_xiaomi_vayu/commits/arrow-12.0\">Kernel</a>\r\nsources and <a href=\"https://arrowos.net/changelog.php\">ROM changelogs</a> for actual changes.<br>You can join <a href=\"https://t.me/kubersharma001chat\">support chat</a> for more help.<br><br><b>You can donate to maintainer via:</b> <a href=\"https://www.paypal.com/paypalme/kubersharma001\">PayPal</a><b> | UPI:</b> 001KS001@kotak<br><br>Also, check out <a href=\"https://forum.xda-developers.com/t/arrowos-12-0-android-12-0-for-poco-x3-pro-vayu-bhima-official.4345061\">XDA thread</a> to discuss with other users."
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Christian de la Cruz"
+github = "https://github.com/chdelacr"
+donation_link = "https://paypal.me/ChrisdelaC"
+photo = "https://avatars.githubusercontent.com/u/17386344?v=4"

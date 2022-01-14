@@ -1,0 +1,10 @@
+codename = "vince"
+name = "Redmi Note 5 / 5 Plus"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "TG_DEVICE_MAINTAINER"
+
+[[roms]]
+id = "dotos"

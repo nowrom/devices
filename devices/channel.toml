@@ -1,0 +1,7 @@
+codename = "channel"
+name = "moto g(7) play"
+brand = "motorola"
+
+[[roms]]
+id = "arrowos"
+maintainer = "Deivid Ignacio"

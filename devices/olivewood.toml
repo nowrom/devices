@@ -1,0 +1,15 @@
+brand = "Xiaomi"
+name = "Redmi 8A Dual"
+codename = "olivewood"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_olivewood","kernel_xiaomi_olivewood","vendor_xiaomi_olivewood"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = false
+deprecated = false
+
+[[roms]]
+id = "dotos"

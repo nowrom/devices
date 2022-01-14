@@ -1,0 +1,6 @@
+brand = "Asus"
+name = "Zenfone 5"
+codename = "X00QD"
+
+[[roms]]
+id = "dotos"

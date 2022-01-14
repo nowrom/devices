@@ -1,0 +1,8 @@
+codename = "Z01R"
+name = "ZenFone 5Z"
+brand = "asus"
+
+[[roms]]
+id = "arrowos"
+maintainer = "EdwardWu"
+changelog = "Kernel: Merge branch android-4.9-q of https://android.googlesource.com/kernel/common"

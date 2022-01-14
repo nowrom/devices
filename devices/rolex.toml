@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Redmi 4A/5a"
+codename = "rolex"
+
+[[roms]]
+id = "dotos"

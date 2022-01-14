@@ -1,0 +1,7 @@
+codename = "star2lte"
+name = "SM-G965F"
+brand = "samsung"
+
+[[roms]]
+id = "arrowos"
+maintainer = "Baddar90"

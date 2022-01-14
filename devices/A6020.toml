@@ -1,0 +1,8 @@
+codename = "A6020"
+name = "Vibe K5"
+brand = "Lenovo"
+
+[[roms]]
+id = "arrowos"
+maintainer = "Adithya R"
+changelog = "- Blacklisted google hotword service to fix mic issues\r\n- Enabled audiosphere effect by default\r\n- Fixed FM radio\r\n- Fixed postprocessing daemon crashes\r\n- Misc changes for infra"

@@ -1,0 +1,34 @@
+brand = "Xiaomi"
+name = "Mi 9T / Redmi K20"
+codename = "davinci"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_davinci","kernel_xiaomi_davinci","kernel_xiaomi_davinci-headers","vendor_xiaomi_davinci"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687"
+stable = true
+deprecated = true
+
+[[roms]]
+id = "arrowos"
+maintainer = "RemyL"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "markkey014"
+github = "https://github.com/markkey014"
+donation_link = "https://paypal.me/itsmarkkey"
+photo = "https://avatars.githubusercontent.com/u/16484432?v=4"

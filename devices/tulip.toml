@@ -1,0 +1,11 @@
+codename = "tulip"
+name = "Redmi Note 6 Pro"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "IceBreaker2451"
+changelog = "- Testing with 4.4 kernel, clean flash is mandatory."
+
+[[roms]]
+id = "dotos"

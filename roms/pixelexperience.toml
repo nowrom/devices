@@ -1,0 +1,7 @@
+[rom]
+name = "PixelExperience"
+id = "pixelexperience"
+about = "PixelExperience is an AOSP based ROM, with Google apps included and all Pixel goodies (launcher, wallpapers, icons, fonts, bootanimation)."
+website = "https://pixelexperience.org/"
+wiki = "https://wiki.pixelexperience.org/"
+download = "https://download.pixelexperience.org/devices"

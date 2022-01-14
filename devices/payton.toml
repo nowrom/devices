@@ -1,0 +1,14 @@
+brand = "Motorola"
+name = "Motorola moto X4"
+codename = "payton"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_motorola_payton","vendor_motorola_payton"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+deprecated = true
+
+[[roms]]
+id = "dotos"

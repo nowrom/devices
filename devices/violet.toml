@@ -1,0 +1,41 @@
+brand = "Xiaomi"
+name = "Redmi Note 7 PRO"
+codename = "violet"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_violet","kernel_xiaomi_violet","vendor_xiaomi_violet","vendor_xiaomi-firmware"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/"
+stable = false
+deprecated = false
+
+[[roms]]
+id = "arrowos"
+maintainer = "Aftab Ashrafi"
+changelog = "Lawnchair"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Tamizh_Arasan"
+github = "https://github.com/no1opensourcelover"
+donation_link = ""
+photo = "https://avatars.githubusercontent.com/u/67329471?s=60&v=4"

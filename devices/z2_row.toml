@@ -1,0 +1,8 @@
+codename = "z2_row"
+name = "ZUK Z2121"
+brand = "ZUK"
+
+[[roms]]
+id = "arrowos"
+maintainer = "kubersharma001, weimerd"
+changelog = "-"

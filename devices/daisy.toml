@@ -1,0 +1,7 @@
+codename = "daisy"
+name = "Mi A2 Lite"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "acras"

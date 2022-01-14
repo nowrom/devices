@@ -1,0 +1,18 @@
+codename = "juice"
+name = "POCO M3 / Redmi 9T"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "John Paul Patigas"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Nathaniel Quitua"
+github = "https://github.com/TyraLizQ10"
+donation_link = "https://www.paypal.com/paypalme/nathankits"
+photo = "https://avatars.githubusercontent.com/u/63705885?v=4"

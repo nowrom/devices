@@ -1,0 +1,13 @@
+brand = "Xiaomi"
+name = "Redmi K40 Pro / Pro+ / Mi 11X Pro / Mi 11i"
+codename = "haydn"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_haydn","kernel_xiaomi_haydn","vendor_xiaomi_haydn"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = ""
+stable = true
+deprecated = false

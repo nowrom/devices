@@ -1,0 +1,38 @@
+brand = "Xiaomi"
+name = "POCO X2"
+codename = "phoenix"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_phoenix","kernel_xiaomi_phoenix","vendor_xiaomi_phoenix"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897"
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/poco-x2/development/rom-pixel-experience-t4073897"
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-phoenix-phoenixin-pixelexperience-aosp.4366787"
+deprecated = false
+
+[[roms]]
+id = "arrowos"
+maintainer = "Sreekanth"
+changelog = "• Added lawnchair launcher as default\r\n• Fixup status bar padding issues on the lock screen\r\n• Fixup USB-C audio\r\n• Update CarrierSettings from sunfish SQ1A.211205.008\r\n• Switch overlays from build time to RRO\r\n• Copy DispSync offsets from cmi\r\n• Drop surface flinger vsync phase offsets\r\n• Switch to SF phase offsets from redfin\r\n• Sync durations props with raven\r\n• Sync idle/touch timer to raven\r\n• Drop unnecessary fqnames from manifests\r\n• Clean up and uprev fp HAL to 2.3\r\n• Upstream wireguard to 1.0.20211208 snapshot\r\n• Merge Linux version 4.14.258 into the kernel \r\n• Misc changes"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Nasir Ali"
+github = "https://github.com/Nasir-buddy"
+donation_link = ""
+photo = "https://avatars.githubusercontent.com/u/83268060?v=4"

@@ -1,0 +1,6 @@
+brand = "Samsung"
+name = "Samsung Galaxy S9+"
+codename = "star2qltechn"
+
+[[roms]]
+id = "dotos"

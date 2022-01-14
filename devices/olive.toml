@@ -1,0 +1,10 @@
+codename = "olive"
+name = "Redmi 8"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "Aftab Ashrafi"
+
+[[roms]]
+id = "dotos"

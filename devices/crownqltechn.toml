@@ -1,0 +1,6 @@
+brand = "Samsung"
+name = "Samsung Galaxy N9"
+codename = "crownqltechn"
+
+[[roms]]
+id = "dotos"

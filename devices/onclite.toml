@@ -1,0 +1,10 @@
+codename = "onclite"
+name = "Redmi 7"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "bibarub"
+
+[[roms]]
+id = "dotos"

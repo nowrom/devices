@@ -1,0 +1,7 @@
+[rom]
+name = "LegionOs"
+id = "legionos"
+about = "A AOSP based project that is set to show its power in Battery , Performance and Customization without compromising security."
+website = "https://legionos.org/"
+wiki = "https://blog.legionos.org/"
+download = "https://legionos.org/download/#/"

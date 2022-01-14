@@ -1,0 +1,37 @@
+brand = "Xiaomi"
+name = "Redmi K30 5G"
+codename = "picasso"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_picasso","kernel_xiaomi_picasso","vendor_xiaomi_picasso"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = ""
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = ""
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = true
+deprecated = false
+
+[[roms]]
+id = "arrowos"
+maintainer = "baolong24"
+changelog = "- Fixed Bluetooth can not turn on after turning off\r\n- SELinux enforce\r\n- Fixed GCam\r\n- Fixed aptX\r\n- Fixed FP did not work on some devices\r\n- Added display color compositions"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "masemoel"
+github = "https://github.com/masemoel"
+donation_link = "https://paypal.me/masemoel"
+photo = "https://avatars.githubusercontent.com/u/64311706?v=4"

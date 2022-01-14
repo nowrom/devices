@@ -1,0 +1,33 @@
+brand = "Xiaomi"
+name = "Mi 10T/10T Pro"
+codename = "apollo"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_apollo","device_xiaomi_sm8250-common","kernel_xiaomi_sm8250","vendor_xiaomi_apollo","vendor_xiaomi_sm8250-common"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-apollo-apollopro-pixel-experience-official-aosp.4249647/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-apollo-apollopro-pixel-experience-official-aosp.4249647/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = ""
+stable = true
+deprecated = false
+
+[[roms]]
+id = "arrowos"
+maintainer = "Dobsgw"
+changelog = "- Many update. Much wow\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial"
+
+[[roms]]
+id = "dotos"

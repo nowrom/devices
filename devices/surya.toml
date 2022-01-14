@@ -1,0 +1,40 @@
+brand = "Xiaomi"
+name = "POCO X3"
+codename = "surya"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_surya","kernel_xiaomi_surya","vendor_xiaomi_surya","vendor_xiaomi-firmware"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = ""
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = ""
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = true
+deprecated = false
+
+[[roms]]
+id = "arrowos"
+maintainer = "Ganesh Varma, palaych"
+changelog = "- Fixed libcameraservice\r\n- Switch GCamGOPrebuilt\r\n\r\nNote: Clean flash mandatory."
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "AmJith_Babu"
+github = "https://github.com/TheMarc43"
+donation_link = "https://paypal.me/TheMarc43"
+photo = "https://avatars.githubusercontent.com/u/49910923?v=4"

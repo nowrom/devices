@@ -1,0 +1,10 @@
+codename = "wayne"
+name = "Mi 6X"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "TH779, ReallySnow"
+
+[[roms]]
+id = "dotos"

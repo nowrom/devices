@@ -1,0 +1,32 @@
+brand = "Asus"
+name = "Zenfone Max Pro M2"
+codename = "X01BD"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_asus_X01BD","device_asus_sdm660-common","kernel_asus_sdm660","vendor_asus_X01BD","vendor_asus_sdm660-common"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/4221219/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/t/4221219/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = "https://forum.xda-developers.com/t/4368929/"
+stable = true
+deprecated = false
+
+[[roms]]
+id = "arrowos"
+maintainer = "SonalSingh"
+
+[[roms]]
+id = "dotos"

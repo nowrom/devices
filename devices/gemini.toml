@@ -1,0 +1,17 @@
+brand = "Xiaomi"
+name = "Mi 5"
+codename = "gemini"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_gemini","device_xiaomi_msm8996-common","kernel_xiaomi_msm8996","vendor_xiaomi_msm8996-common","vendor_xiaomi_gemini"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4207127"
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4207127"
+deprecated = true

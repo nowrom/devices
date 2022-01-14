@@ -1,0 +1,8 @@
+codename = "RMX2020"
+name = "Realme G70 Series"
+brand = "realme"
+
+[[roms]]
+id = "arrowos"
+maintainer = "sarthakroy2002"
+changelog = "NOTE: For Realme UI 1.0 FW only."

@@ -1,0 +1,27 @@
+brand = "Asus"
+name = "Zenfone Max M2"
+codename = "X01AD"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_asus_X01AD","kernel_asus_X01AD","vendor_asus-firmware","vendor_asus_X01AD"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-11-0-beta-x01ad-pixel-experience.4183371"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-11-0-beta-x01ad-pixel-experience.4183371"
+stable = true
+deprecated = true
+
+[[roms]]
+id = "arrowos"
+maintainer = "Arka"
+changelog = "- Update Security Patch\r\n- Update stormbreaker kernel\r\n- Misc changes"
+
+[[roms]]
+id = "dotos"

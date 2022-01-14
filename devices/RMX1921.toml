@@ -1,0 +1,14 @@
+brand = "Realme"
+name = "Realme XT"
+codename = "RMX1921"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "ThatisJigen"
+github = "https://github.com/thatisjigen"
+donation_link = "https://paypal.me/thatisjigen"
+photo = "https://avatars.githubusercontent.com/u/55486333"

@@ -1,0 +1,8 @@
+codename = "OP4A89"
+name = "PCLM10"
+brand = "OPPO"
+
+[[roms]]
+id = "arrowos"
+maintainer = "art_chen"
+changelog = "- Misc changes and improvements"

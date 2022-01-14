@@ -1,0 +1,41 @@
+brand = "Xiaomi"
+name = "Redmi Note 8"
+codename = "ginkgo"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_ginkgo","device_xiaomi_ginkgo-sepolicy","device_xiaomi_ginkgo-kernel","kernel_xiaomi_ginkgo","vendor_xiaomi_ginkgo"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-11-0-stable-ginkgo-willow-pixel-experience.4247435"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-11-0-stable-ginkgo-willow-pixel-experience.4247435"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-stable-ginkgo-willow-pixelexperience-12.4350683"
+stable = true
+deprecated = false
+
+[[roms]]
+id = "arrowos"
+maintainer = "Adithya (ghostrider_reborn)"
+changelog = "- Updated MIUI blobs from V12.5.1.0.RCOMIXM\r\n- Fixed USB OTG detection\r\n- Misc optimizations in kernel"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Anupam Samanta"
+github = "https://github.com/anupam41"
+donation_link = ""
+photo = "https://avatars.githubusercontent.com/u/61414264?v=4"

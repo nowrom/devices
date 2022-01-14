@@ -1,0 +1,20 @@
+brand = "Xiaomi"
+name = "Redmi 7A"
+codename = "pine"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_pine","kernel_xiaomi_pine","vendor_xiaomi_pine"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+stable = true
+deprecated = true
+
+[[roms]]
+id = "dotos"

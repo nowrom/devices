@@ -1,0 +1,10 @@
+codename = "z2_plus"
+name = "Z2 Plus"
+brand = "ZUK"
+
+[[roms]]
+id = "arrowos"
+maintainer = "PranavTemkar"
+
+[[roms]]
+id = "dotos"

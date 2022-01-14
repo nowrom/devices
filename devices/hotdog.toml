@@ -1,0 +1,22 @@
+brand = "Oneplus"
+name = "Oneplus 7T Pro"
+codename = "hotdog"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_oneplus_hotdog","device_oneplus_sm8150-common","kernel_oneplus_sm8150","vendor_oneplus_hotdog","vendor_oneplus_sm8150-common"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pro-pixel-experience-aosp-2020-12-05.4162199/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pro-pixel-experience-aosp-2020-12-05.4162199/"
+stable = true
+deprecated = true
+
+[[roms]]
+id = "dotos"

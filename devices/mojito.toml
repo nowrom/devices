@@ -1,0 +1,28 @@
+brand = "Xiaomi"
+name = "Redmi Note 10"
+codename = "mojito"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_mojito","kernel_xiaomi_mojito","vendor_xiaomi_mojito","vendor_xiaomi_mojito-vendor"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-mojito-sunny-pixel-experience-official-aosp.4264285/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-mojito-sunny-pixel-experience-official-aosp.4264285/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-mojito-sunny-pixel-experience-official-aosp.4264285/"
+stable = true
+deprecated = false
+
+[[roms]]
+id = "dotos"

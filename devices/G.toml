@@ -1,0 +1,7 @@
+codename = "G"
+name = "10or G"
+brand = "10or"
+
+[[roms]]
+id = "arrowos"
+maintainer = "kardebayan"
