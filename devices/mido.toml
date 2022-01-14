@@ -27,3 +27,9 @@ maintainer = "Ganesh Varma, Sonal Singh"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v3.9"
+developer = "hnaamdev41"

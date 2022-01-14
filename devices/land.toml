@@ -25,3 +25,9 @@ deprecated = false
 id = "arrowos"
 maintainer = "Bauuuuu"
 changelog = "-"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v3.4"
+developer = "weritos"

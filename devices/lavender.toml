@@ -1,5 +1,5 @@
 brand = "Xiaomi"
-name = "Redmi Note 7/7s"
+name = "Redmi Note 7"
 codename = "lavender"
 
 [[roms]]
@@ -31,3 +31,9 @@ changelog = "- Switch to Pixel Thermal\r\n- Adapt Dynamic Thermal Profile to Pix
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v3.8"
+developer = "z3nitsu"

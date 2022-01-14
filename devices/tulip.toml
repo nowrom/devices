@@ -9,3 +9,9 @@ changelog = "- Testing with 4.4 kernel, clean flash is mandatory."
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v3.9"
+developer = "Niteshkumar15"

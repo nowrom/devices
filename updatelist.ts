@@ -44,7 +44,7 @@ function getDevice(id: string) {
 	return stored_devices.get(id) || { roms: [] };
 }
 
-Promise.all(
+await Promise.all(
 	[...Deno.readDirSync('./static/devices')]
 		.filter((x) => x.name.endsWith('.toml'))
 		.map(async (x) => {
@@ -110,7 +110,7 @@ Object.entries(dotDevices).forEach(([brand, devices]) => {
 	});
 });
 
-Promise.all(
+await Promise.all(
 	[...Deno.readDirSync('./official_devices/ab')]
 		.filter((x) => x.name.endsWith('.json'))
 		.map(async (x) => {
@@ -161,7 +161,7 @@ legionDevices.forEach((x) => {
 });
 
 //Use promise.all cause its much faster
-Promise.all(
+await Promise.all(
 	[...stored_devices.values()].map((x) => {
 		return Deno.writeTextFile(`devices/${x.codename}.toml`, stringify(x));
 	})

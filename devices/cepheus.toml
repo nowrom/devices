@@ -27,3 +27,9 @@ deprecated = false
 [[roms]]
 id = "arrowos"
 maintainer = "lamjiidii1"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v3.7"
+developer = "Evasi0nXiao"

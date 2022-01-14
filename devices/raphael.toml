@@ -33,6 +33,24 @@ maintainer = "TH779, kubersharma001"
 id = "dotos"
 
 [[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v3.9"
+developer = "NATO666613"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v4.9"
+developer = "NATO666613"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v5.1"
+developer = "NATO666613"
+
+[[roms]]
 id = "legionos"
 active = true
 maintainer = "AnonHacker47"

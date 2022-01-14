@@ -33,6 +33,12 @@ changelog = "- Updated MIUI blobs from V12.5.1.0.RCOMIXM\r\n- Fixed USB OTG dete
 id = "dotos"
 
 [[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v3.8"
+developer = "TheHitMan"
+
+[[roms]]
 id = "legionos"
 active = true
 maintainer = "Anupam Samanta"

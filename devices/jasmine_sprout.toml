@@ -19,6 +19,12 @@ changelog = "Fixed Fingerprint not working issues"
 id = "dotos"
 
 [[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v2.9"
+developer = "rebenok90x"
+
+[[roms]]
 id = "legionos"
 active = true
 maintainer = "Immanuel Raj"

@@ -1,4 +1,4 @@
-brand = "Oneplus"
+brand = "OnePlus"
 name = "OnePlus 6T"
 codename = "fajita"
 
@@ -20,3 +20,15 @@ deprecated = true
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v2.9"
+developer = "coderzstas"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v5.1"
+developer = "SevralT"

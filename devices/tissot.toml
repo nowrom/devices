@@ -27,6 +27,12 @@ deprecated = false
 id = "dotos"
 
 [[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v2.9"
+developer = "mdeejay"
+
+[[roms]]
 id = "legionos"
 active = true
 maintainer = "Answer35"
