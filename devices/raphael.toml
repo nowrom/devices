@@ -1,5 +1,5 @@
 brand = "Xiaomi"
-name = "Redmi K20 Pro/Mi 9T Pro"
+name = "Xiaomi Redmi K20 Pro/Mi 9T Pro"
 codename = "raphael"
 
 [[roms]]
@@ -41,13 +41,13 @@ developer = "NATO666613"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.1"
+version = "v4.9"
 developer = "NATO666613"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v5.1"
 developer = "NATO666613"
 
 [[roms]]

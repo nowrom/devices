@@ -89,7 +89,7 @@ pixelDevices.forEach((x) => {
 	device = {
 		...device,
 		brand: device.brand || x.brand,
-		name: device.name || x.name,
+		name: device.name || `${x.brand} ${x.name}`,
 		codename: x.codename,
 		roms: [
 			...device.roms,
