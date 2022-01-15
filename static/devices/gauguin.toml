@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Mi 10i 5G , Mi 10T Lite , Redmi Note 9 Pro 5G"
+codename = "gauguin"
+
+[[roms]]
+id = "pixelextended"

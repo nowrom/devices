@@ -1,0 +1,6 @@
+brand = "OnePlus"
+name = "oneplus 8T"
+codename = "kebab"
+
+[[roms]]
+id = "pixelextended"

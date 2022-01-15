@@ -1,0 +1,6 @@
+brand = "Unknown"
+name = "Unknown"
+codename = "lava"
+
+[[roms]]
+id = "pixelextended"

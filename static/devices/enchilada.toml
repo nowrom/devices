@@ -1,0 +1,6 @@
+brand = "Oneplus"
+name = "oneplus 6"
+codename = "enchilada"
+
+[[roms]]
+id = "pixelextended"

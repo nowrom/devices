@@ -4,3 +4,6 @@ codename = "jasmine"
 
 [[roms]]
 id = "CalyxOS"
+
+[[roms]]
+id = "pixelextended"

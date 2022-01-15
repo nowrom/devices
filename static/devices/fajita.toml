@@ -1,0 +1,6 @@
+brand = "Oneplus"
+name = "oneplus 6T"
+codename = "fajita"
+
+[[roms]]
+id = "pixelextended"

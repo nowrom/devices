@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Redmi Note 5 Pro India"
+codename = "whyred"
+
+[[roms]]
+id = "pixelextended"

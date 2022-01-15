@@ -1,0 +1,6 @@
+brand = "Realme"
+name = "Realme 6"
+codename = "RMX2001"
+
+[[roms]]
+id = "pixelextended"

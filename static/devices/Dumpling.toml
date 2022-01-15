@@ -1,0 +1,6 @@
+brand = "OnePlus"
+name = "oneplus 5T"
+codename = "Dumpling"
+
+[[roms]]
+id = "pixelextended"

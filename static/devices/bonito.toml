@@ -4,3 +4,6 @@ codename = "bonito"
 
 [[roms]]
 id = "CalyxOS"
+
+[[roms]]
+id = "pixelextended"

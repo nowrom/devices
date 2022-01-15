@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Poco X2	, Redmi K30"
+codename = "phoenix"
+
+[[roms]]
+id = "pixelextended"

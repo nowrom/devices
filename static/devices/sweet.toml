@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Redmi Note 10 Pro India , Redmi Note 10 Pro Global , Redmi Note 10 Pro Max India"
+codename = "sweet"
+
+[[roms]]
+id = "pixelextended"

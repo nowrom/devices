@@ -1,0 +1,6 @@
+brand = "Realme"
+name = "Realme C2"
+codename = "RMX1941"
+
+[[roms]]
+id = "pixelextended"

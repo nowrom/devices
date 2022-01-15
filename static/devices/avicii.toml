@@ -1,0 +1,6 @@
+brand = "OnePlus"
+name = "oneplus nord"
+codename = "avicii"
+
+[[roms]]
+id = "pixelextended"
