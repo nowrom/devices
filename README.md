@@ -1,19 +1,22 @@
 # Android rom repo
 
-## Non automatable roms (10)
+## Non automatable roms (9)
 
 These roms don't have a public devices.json list or whatever and have to be added manually, or if you find a way to get the json or get the devices another way..
 
 - Lineages
 - superior os
 - evolution x
-- calyxos
 - Cherish: https://downloads.cherishos.com/js/script.js
 - xioami.eu
 - nusantararom
 - derpfest
 - Octavi-OS
 - pixelextended
+
+## Manually maintained roms (1)
+
+- calyxos
 
 ## Unmaintained roms (2)
 

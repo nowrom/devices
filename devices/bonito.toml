@@ -1,6 +1,9 @@
 brand = "Google"
-name = "Google Pixel 3A XL"
+name = "Pixel 3a XL"
 codename = "bonito"
+
+[[roms]]
+id = "calyxos"
 
 [[roms]]
 id = "pixelexperience"
