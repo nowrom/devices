@@ -45,3 +45,7 @@ maintainer = "Anupam Samanta"
 github = "https://github.com/anupam41"
 donation_link = ""
 photo = "https://avatars.githubusercontent.com/u/61414264?v=4"
+
+[[roms]]
+id = "ancientos"
+photo = "https://raw.githubusercontent.com/kutemeikito/Ryzen-Script/master/ginkgo.png"

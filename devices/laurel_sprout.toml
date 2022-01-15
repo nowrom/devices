@@ -19,3 +19,7 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v5.0"
 developer = "magicxavi"
+
+[[roms]]
+id = "ancientos"
+photo = "http://i01.appmifile.com/webfile/globalimg/products/pc/mi-a3/specs2.png"

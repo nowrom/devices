@@ -9,3 +9,7 @@ maintainer = "skittels15"
 github = "https://github.com/skittels15"
 donation_link = "https://ko-fi.com/beerdmann"
 photo = "https://avatars.githubusercontent.com/u/50242333?v=4"
+
+[[roms]]
+id = "ancientos"
+photo = "https://raw.githubusercontent.com/skittels15/banners/main/Redmi-8.jpg"

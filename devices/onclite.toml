@@ -8,3 +8,7 @@ maintainer = "bibarub"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "ancientos"
+photo = "https://telegra.ph/file/856849d62c30dc3a2679a.png"

@@ -27,6 +27,7 @@ deprecated = false
 [[roms]]
 id = "arrowos"
 maintainer = "ReallySnow"
+changelog = "Update 4.4.297 Kernel\r\nRevert \"Force triple frame buffers\"\r\nship cgroups.json and task_profiles.json in vendor"
 
 [[roms]]
 id = "dotos"

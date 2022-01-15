@@ -33,3 +33,7 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.9"
 developer = "hnaamdev41"
+
+[[roms]]
+id = "ancientos"
+photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4-sn.jpg"

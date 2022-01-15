@@ -2,25 +2,40 @@ import {
 	parse,
 	stringify,
 } from 'https://deno.land/std@0.121.0/encoding/toml.ts';
-import { ArrowOS, DotOS, Legion, PixelExperience, Syberia } from './lib/mod.ts';
+import {
+	ArrowOS,
+	DotOS,
+	Legion,
+	PixelExperience,
+	Syberia,
+	AncientOS,
+} from './lib/mod.ts';
 
-type Data = [PixelExperience[], ArrowOS, DotOS, Legion[]];
+type Data = [PixelExperience[], ArrowOS, DotOS, Legion[], AncientOS[]];
 
-const [pixelDevices, arrowDevices, dotDevices, legionDevices]: Data =
-	await Promise.all([
-		fetch(
-			'https://github.com/PixelExperience/official_devices/blob/master/devices.json?raw=true'
-		).then((r) => r.json()),
-		fetch(
-			'https://github.com/ArrowOS/arrow_ota/blob/master/arrow_ota.json?raw=true'
-		).then((r) => r.json()),
-		fetch(
-			'https://github.com/DotOS/official_devices/blob/dot11/devices.json?raw=true'
-		).then((r) => r.json()),
-		fetch(
-			'https://github.com/legionos-devices/OTA/blob/11/devices.json?raw=true'
-		).then((r) => r.json()),
-	]);
+const [
+	pixelDevices,
+	arrowDevices,
+	dotDevices,
+	legionDevices,
+	ancientDevcies,
+]: Data = await Promise.all([
+	fetch(
+		'https://github.com/PixelExperience/official_devices/blob/master/devices.json?raw=true'
+	).then((r) => r.json()),
+	fetch(
+		'https://github.com/ArrowOS/arrow_ota/blob/master/arrow_ota.json?raw=true'
+	).then((r) => r.json()),
+	fetch(
+		'https://github.com/DotOS/official_devices/blob/dot11/devices.json?raw=true'
+	).then((r) => r.json()),
+	fetch(
+		'https://github.com/legionos-devices/OTA/blob/11/devices.json?raw=true'
+	).then((r) => r.json()),
+	fetch(
+		'https://github.com/ancient-devices/releases/blob/main/website_api.json?raw=true'
+	).then((r) => r.json()),
+]);
 
 // const pixelDevices: PixelExperience[] = await fetch(
 // 	'https://github.com/PixelExperience/official_devices/blob/master/devices.json?raw=true'
@@ -158,6 +173,28 @@ legionDevices.forEach((x) => {
 		],
 	};
 	stored_devices.set(x.codename, device);
+});
+
+ancientDevcies.forEach((x) => {
+	const regex = /\((.*?)\)/.exec(x.device_codename);
+	if (regex?.[0]) {
+		const codename = regex[1].split('/')[0].toLowerCase();
+		let device = getDevice(codename);
+		device = {
+			...device,
+			brand: device.brand || 'Unknown',
+			name: device.name || x.device_codename,
+			codename: codename,
+			roms: [
+				...device.roms,
+				{
+					id: 'ancientos',
+					photo: x.phone_url,
+				},
+			],
+		};
+		stored_devices.set(codename, device);
+	}
 });
 
 //Use promise.all cause its much faster

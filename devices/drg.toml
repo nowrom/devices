@@ -1,0 +1,7 @@
+brand = "Unknown"
+name = "Nokia 6.1 Plus (DRG)"
+codename = "drg"
+
+[[roms]]
+id = "ancientos"
+photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices/main/DRG.png"

@@ -6,3 +6,7 @@ brand = "Xiaomi"
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
 changelog = "- Fix issues related to audio.\r\n- Misc changes."
+
+[[roms]]
+id = "ancientos"
+photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices_gallery/main/xiaomi_mi_11_lite_5g.png"

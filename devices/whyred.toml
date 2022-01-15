@@ -30,3 +30,7 @@ changelog = "• Added lawnchair launcher as default\r\n• Fixup status bar pad
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "ancientos"
+photo = "https://telegra.ph/file/d44358afe0fe98893c1f7.png"

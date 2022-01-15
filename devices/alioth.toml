@@ -40,3 +40,7 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v5.1"
 developer = "DennySPb"
+
+[[roms]]
+id = "ancientos"
+photo = "https://raw.githubusercontent.com/oghe3003/official_device_xiaomi/main/alioth.png"
