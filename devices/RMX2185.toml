@@ -1,0 +1,15 @@
+brand = "Realme Devices"
+name = "Realme C11"
+codename = "RMX2185"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/TechyMinati.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/TechyMinati.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

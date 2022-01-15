@@ -12,3 +12,15 @@ id = "havocos"
 url = "https://download.havoc-os.com/RMX2020/Havoc-OS-v4.12-20220105-RMX2020-Official-GApps.zip"
 maintainer = "Inder"
 group = "https://t.me/havoc_rmx2020"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/sarthak.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/sarthak.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

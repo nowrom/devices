@@ -16,3 +16,9 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.9"
 developer = "erwinabs"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/veshrao.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

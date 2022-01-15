@@ -6,3 +6,9 @@ codename = "m1852"
 id = "crdroid"
 gapps = "https://nikgapps.com/downloads"
 recovery = "https://drive.google.com/file/d/1GI-ttWR8u9DgGR6Q7wyF-nHY6GGc5lQf/view?usp=sharing"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/Dogukan.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

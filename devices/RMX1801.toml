@@ -5,3 +5,9 @@ brand = "oppo"
 [[roms]]
 id = "arrowos"
 maintainer = "Baibhab"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/abhishek.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

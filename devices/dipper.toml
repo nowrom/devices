@@ -31,3 +31,9 @@ id = "dotos"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
 recovery = "https://dl.twrp.me/dipper"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/Sena.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

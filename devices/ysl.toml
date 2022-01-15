@@ -17,3 +17,9 @@ photo = "https://avatars.githubusercontent.com/u/47271737?v=4"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/30-Jan-2021/"
 recovery = "https://files.orangefox.tech/OrangeFox-Stable/ysl/OrangeFox-R10.0-1-Stable-ysl.zip"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/Sushmit.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

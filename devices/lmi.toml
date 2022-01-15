@@ -28,3 +28,15 @@ photo = "https://avatars.githubusercontent.com/u/54382817?v=4"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/opengapps/files/arm64/test/20201116"
 recovery = "https://mega.nz/file/6CgEEI7D#7T-KYVCEr6LX8T1XsrTTM-dpvLaYmXFtr9NmN6NyFck"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/maintainer_avatar.png"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/maintainer_avatar.png"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

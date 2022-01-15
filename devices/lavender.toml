@@ -51,3 +51,9 @@ group = "https://t.me/havoc_lavender"
 id = "crdroid"
 gapps = "https://nikgapps.com/"
 recovery = "https://orangefox.download/device/lavender"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/Soham.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

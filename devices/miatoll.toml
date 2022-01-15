@@ -1,6 +1,9 @@
-brand = "Xiaomi"
 name = "Redmi Note 9 PRO"
 codename = "miatoll"
+brand = "Xiaomi"
+
+[[roms]]
+id = "ancientos"
 
 [[roms]]
 id = "pixelexperience"
@@ -36,3 +39,9 @@ group = "https://t.me/havoc_miatollofficial"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
 recovery = "https://dl.orangefox.download/60fbd820462e0f766bc300aa"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/Lop.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

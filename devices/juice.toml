@@ -31,3 +31,15 @@ group = "https://t.me/havoc_juice"
 id = "crdroid"
 gapps = "https://forum.xda-developers.com/t/gapps-arm64-flamegapps-for-android-9-0-10-0-11-0.4020917/"
 recovery = ""
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/john.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/john.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

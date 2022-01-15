@@ -1,0 +1,9 @@
+brand = "Realme Devices"
+name = "Realme 7 Pro"
+codename = "RMX2170"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/mayur.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

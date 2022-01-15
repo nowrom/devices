@@ -37,3 +37,9 @@ group = "https://t.me/havoc_mojito"
 id = "crdroid"
 gapps = ""
 recovery = ""
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/Arya.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

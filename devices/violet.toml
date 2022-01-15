@@ -50,3 +50,9 @@ group = "https://t.me/havoc_violet"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
 recovery = "https://orangefox.download/device/violet"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/saurav_avatar.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

@@ -44,3 +44,9 @@ photo = "https://avatars.githubusercontent.com/u/26594746?v=4"
 id = "crdroid"
 gapps = "https://nikgapps.com/"
 recovery = "https://dl.twrp.me/tissot/"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/saurav_avatar.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

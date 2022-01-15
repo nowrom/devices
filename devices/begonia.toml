@@ -31,3 +31,9 @@ id = "dotos"
 id = "crdroid"
 gapps = "https://opengapps.org/"
 recovery = ""
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/Zinadin.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

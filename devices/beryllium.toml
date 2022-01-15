@@ -42,3 +42,9 @@ group = "https://t.me/havoc_beryllium"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
 recovery = "https://sourceforge.net/projects/crdroid/files/beryllium/recovery/twrp-3.5.0_10-0-beryllium.img/download"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/david.png"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

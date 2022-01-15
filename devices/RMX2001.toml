@@ -15,3 +15,9 @@ group = "https://t.me/havoc_RMX2001"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
 recovery = "https://pitchblackrecovery.com/rmx2001/"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/sribalaji.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

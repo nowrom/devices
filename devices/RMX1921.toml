@@ -23,3 +23,9 @@ group = "https://t.me/havoc_RMX1921"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R"
 recovery = "https://dl.twrp.me/RMX1921"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/maintainer_avatar.png"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

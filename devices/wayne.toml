@@ -13,3 +13,9 @@ id = "dotos"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/22-Nov-2020/"
 recovery = "https://files.orangefox.tech/OrangeFox-Stable/wayne/OrangeFox-R10.1_1-Stable-wayne.zip"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/Christian.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

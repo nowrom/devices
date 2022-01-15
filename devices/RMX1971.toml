@@ -29,3 +29,9 @@ id = "havocos"
 url = "https://download.havoc-os.com/RMX1971/Havoc-OS-v4.12-20211227-RMX1971-Official-GApps.zip"
 maintainer = "Krish Walecha"
 group = "https://t.me/+_O867uFgtt8xNTQ1"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/maintainer_avatar.png"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

@@ -1,0 +1,9 @@
+brand = "Xiaomi (Mi Series)"
+name = "Xiaomi Mi 11x"
+codename = "aliothin"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/Ivan.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

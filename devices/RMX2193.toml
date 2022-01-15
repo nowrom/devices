@@ -1,0 +1,15 @@
+brand = "Realme Devices"
+name = "Realme 7i (EU)"
+codename = "RMX2193"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/sarthak.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/sarthak.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

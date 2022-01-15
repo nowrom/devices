@@ -1,0 +1,9 @@
+brand = "Realme Devices"
+name = "Realme 2"
+codename = "RMX1805"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/adi.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

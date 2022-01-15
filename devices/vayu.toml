@@ -49,3 +49,9 @@ group = "https://t.me/havocos_vayu"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
 recovery = "https://orangefox.download/device/vayu"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/Badr.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

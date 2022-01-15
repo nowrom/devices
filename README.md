@@ -10,6 +10,7 @@ These roms don't have a public devices.json list or whatever and have to be adde
 - calyxos
 - curvus os
 - Cherish: https://downloads.cherishos.com/js/script.js
+- xioami.eu
 
 ## Contributing
 

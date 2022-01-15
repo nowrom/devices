@@ -45,3 +45,9 @@ group = "https://t.me/Havoc_OS"
 id = "crdroid"
 gapps = "https://bit.ly/2IPxrpg"
 recovery = ""
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/rishav.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

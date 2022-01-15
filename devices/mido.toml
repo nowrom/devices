@@ -48,3 +48,9 @@ group = "https://t.me/havoc_mido"
 id = "crdroid"
 gapps = "https://bitgapps.ga/GApps/arm64/R/"
 recovery = "https://dl.twrp.me/mido/twrp-3.6.0_9-0-mido.img"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/smokey_avatar.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

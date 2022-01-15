@@ -1,0 +1,9 @@
+brand = "Xiaomi (Mi Series)"
+name = "Xiaomi Mi 10i 5G"
+codename = "gauguininpro"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/Yasin.png"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

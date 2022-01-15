@@ -1,0 +1,15 @@
+brand = "OnePlus Devices"
+name = "OnePlus 8T"
+codename = "lemonkebab"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/Abhay.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/Abhay.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

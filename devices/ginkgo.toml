@@ -60,3 +60,9 @@ group = "https://t.me/havoc_ginkgo"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
 recovery = ""
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/Erwin.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

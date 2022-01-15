@@ -1,0 +1,9 @@
+brand = "Xiaomi (Redmi Series)"
+name = "Redmi 9"
+codename = "lancelot"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/maintainer_avatar.png"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

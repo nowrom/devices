@@ -42,3 +42,9 @@ group = "https://t.me/havoc_sakura"
 id = "crdroid"
 gapps = ""
 recovery = ""
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/Rishav.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

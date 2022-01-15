@@ -1,0 +1,9 @@
+brand = "Nokia Devices"
+name = "Nokia 6.1 Plus"
+codename = "drg_sprout"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/saurav_avatar.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

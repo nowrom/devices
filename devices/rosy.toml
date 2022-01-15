@@ -29,3 +29,9 @@ id = "dotos"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
 recovery = "https://sourceforge.net/projects/redmi5rosy/files/KewL-TWRP-3.5.2_9-0-rosy.img/download"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/maintainer_avatar.png"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

@@ -1,0 +1,9 @@
+brand = "Realme Devices"
+name = "Realme 1"
+codename = "CPH1859"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/maintainer_avatar.png"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

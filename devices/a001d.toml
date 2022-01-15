@@ -1,0 +1,9 @@
+brand = "Asus Devices"
+name = "Asus Zenfone Max Shot/Plus M2"
+codename = "a001d"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/maintainer_avatar.png"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

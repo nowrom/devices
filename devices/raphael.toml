@@ -68,3 +68,15 @@ group = ""
 id = "crdroid"
 gapps = ""
 recovery = ""
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/AgentRR.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/AgentRR.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

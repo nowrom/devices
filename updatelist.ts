@@ -11,9 +11,10 @@ import {
 	AncientOS,
 	HavocOS,
 	Crdroid,
+	Ppui,
 } from './lib/mod.ts';
 
-type Data = [PixelExperience[], ArrowOS, DotOS, Legion[], AncientOS[]];
+type Data = [PixelExperience[], ArrowOS, DotOS, Legion[], AncientOS[], Ppui[]];
 
 const [
 	pixelDevices,
@@ -21,6 +22,7 @@ const [
 	dotDevices,
 	legionDevices,
 	ancientDevices,
+	pixelUIDevices,
 ]: Data = await Promise.all([
 	fetch(
 		'https://github.com/PixelExperience/official_devices/blob/master/devices.json?raw=true'
@@ -37,23 +39,8 @@ const [
 	fetch(
 		'https://github.com/ancient-devices/releases/blob/main/website_api.json?raw=true'
 	).then((r) => r.json()),
+	fetch('https://ppui.site/assets/json/download.json').then((r) => r.json()),
 ]);
-
-// const pixelDevices: PixelExperience[] = await fetch(
-// 	'https://github.com/PixelExperience/official_devices/blob/master/devices.json?raw=true'
-// ).then((r) => r.json());
-
-// const arrowDevices: ArrowOS = await fetch(
-// 	'https://github.com/ArrowOS/arrow_ota/blob/master/arrow_ota.json?raw=true'
-// ).then((r) => r.json());
-
-// const dotDevices: DotOS = await fetch(
-// 	'https://github.com/DotOS/official_devices/blob/dot11/devices.json?raw=true'
-// ).then((r) => r.json());
-
-// const legionDevices: Legion[] = await fetch(
-// 	'https://github.com/legionos-devices/OTA/blob/11/devices.json?raw=true'
-// ).then((r) => r.json());
 
 const stored_devices = new Map();
 
@@ -258,6 +245,28 @@ await Promise.all(
 			stored_devices.set(codename, device);
 		})
 );
+pixelUIDevices.forEach((xy) => {
+	xy.deviceDetails.forEach((x) => {
+		const codename = x.codeName.replace('(', '').replace(')', '').split('/')[0];
+		let device = getDevice(codename);
+		device = {
+			...device,
+			brand: device.brand || xy.deviceCategory,
+			name: device.name || x.deviceName,
+			codename: codename,
+			roms: [
+				...device.roms,
+				{
+					id: 'pixelplusui',
+					active: x.deviceStatus,
+					photo: x.avatar,
+					guide: x.guide,
+				},
+			],
+		};
+		stored_devices.set(codename, device);
+	});
+});
 
 //Use promise.all cause its much faster
 await Promise.all(

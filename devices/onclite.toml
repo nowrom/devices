@@ -18,3 +18,9 @@ id = "havocos"
 url = "https://download.havoc-os.com/onclite/Havoc-OS-v4.12-20211227-onclite-Official-GApps.zip"
 maintainer = "Aryan Karan"
 group = "https://t.me/havoc_os_onclite"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/kotsya_avatar.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

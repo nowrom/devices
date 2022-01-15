@@ -36,3 +36,9 @@ photo = "https://avatars.githubusercontent.com/u/26855364?v=4"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/14-May-2021/NikGapps-stock-arm64-11-20210514-signed.zip/download"
 recovery = "https://recovery link"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/rahul.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

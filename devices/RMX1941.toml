@@ -1,0 +1,9 @@
+brand = "Realme Devices"
+name = "Realme C2"
+codename = "RMX1941"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/sparx.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

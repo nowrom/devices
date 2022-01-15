@@ -1,0 +1,9 @@
+brand = "Realme Devices"
+name = "Realme 5/5i/5s Unified"
+codename = "RMX1911"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/utkarsh.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

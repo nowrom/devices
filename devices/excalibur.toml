@@ -1,0 +1,9 @@
+brand = "Xiaomi (Redmi Series)"
+name = "Redmi Note 9 Pro MAX"
+codename = "excalibur"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/Lop.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

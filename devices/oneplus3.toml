@@ -41,3 +41,9 @@ group = "https://t.me/havoc_oneplus3"
 id = "crdroid"
 gapps = "https://opengapps.org/?download=true&arch=arm64&api=11.0&variant=nano"
 recovery = "https://dl.twrp.me/oneplus3/"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/dlasdl.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

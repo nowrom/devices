@@ -55,3 +55,9 @@ group = "https://t.me/havocalioth_in"
 id = "crdroid"
 gapps = ""
 recovery = "https://forum.xda-developers.com/t/recovery-unofficial-twrp-3-5-1-20210702.4300189/"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/Ivan.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

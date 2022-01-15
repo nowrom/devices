@@ -1,6 +1,9 @@
-name = "Redmi Note 9 Pro Global"
+brand = "Xiaomi (Redmi Series)"
+name = "Redmi Note 9S"
 codename = "curtana_global"
-brand = "Xioami"
 
 [[roms]]
-id = "ancientos"
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/Lop.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
