@@ -1,6 +1,16 @@
-brand = "Xiaomi"
-name = "Xiaomi Mi CC9 Pro/Note 10"
 codename = "tucana"
+name = "Mi Note 10"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "Erikdrozina"
+changelog = "- Initial release of Community ArrowOS for tucana\r\n- Update redfin fingerprint to November\r\n- Drop fast-charge script (now it is handled in the kernel)\r\n- Bring back audio amplifier\r\n- Address selinux denials"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/opengapps/"
+recovery = "https://mi-note-10.eu/builds/twrp/"
 
 [[roms]]
 id = "pixelexperience"
@@ -22,16 +32,6 @@ deprecated = true
 version_code = "twelve"
 stable = false
 deprecated = false
-
-[[roms]]
-id = "arrowos"
-maintainer = "Erikdrozina"
-changelog = "- Initial release of Community ArrowOS for tucana\r\n- Update redfin fingerprint to November\r\n- Drop fast-charge script (now it is handled in the kernel)\r\n- Bring back audio amplifier\r\n- Address selinux denials"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/opengapps/"
-recovery = "https://mi-note-10.eu/builds/twrp/"
 
 [[roms]]
 id = "sakura"

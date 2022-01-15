@@ -7,15 +7,15 @@ id = "ancientos"
 photo = "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a10-0.jpg"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://bitgapps.github.io/"
+recovery = "https://twrp.me/samsung/samsunggalaxya10.html"
+
+[[roms]]
 id = "havocos"
 url = "https://sourceforge.net/projects/havoc-os/files/a10/Havoc-OS-v3.9-20200917-a10-Official-GApps.zip/download"
 maintainer = "Dark98"
 group = "https://t.me/havoc_a10"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://bitgapps.github.io/"
-recovery = "https://twrp.me/samsung/samsunggalaxya10.html"
 
 [[roms]]
 id = "sakura"

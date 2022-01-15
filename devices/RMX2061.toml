@@ -8,18 +8,12 @@ gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
 recovery = "https://forum.xda-developers.com/t/recovery-rmx2061-unofficial-orangefox-recovery-project-r11-x.4232569/"
 
 [[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/RMX2061/PixelExtended_RMX2061-12.0-20211218-1747-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/stable-rom-12-rmx2061-pixel-extended-official-aosp.4374257/"
+
+[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/maintainer_avatar.png"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "aospextended"
-xda_thread = ""
-maintainer_url = "https://forum.xda-developers.com/member.php?u=7638319"
-maintainer_name = "SagarMakhar"
-
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/RMX2061/PixelExtended_RMX2061-12.0-20211218-1747-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/stable-rom-12-rmx2061-pixel-extended-official-aosp.4374257/"

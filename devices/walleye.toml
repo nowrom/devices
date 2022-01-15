@@ -1,6 +1,19 @@
-brand = "Google"
-name = "Google Pixel 2"
 codename = "walleye"
+name = "Pixel 2"
+brand = "google"
+
+[[roms]]
+id = "arrowos"
+maintainer = "ReallySnow, baolong24"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/walleye/Havoc-OS-v4.12-20211221-walleye-Official-GApps.zip"
+maintainer = "Saurabh Jarial"
+group = "https://t.me/havoc_pixel2"
 
 [[roms]]
 id = "pixelexperience"
@@ -23,16 +36,3 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-0-walleye-pixelexperience-aosp-official.4365917/"
 stable = false
 deprecated = false
-
-[[roms]]
-id = "arrowos"
-maintainer = "ReallySnow, baolong24"
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/walleye/Havoc-OS-v4.12-20211221-walleye-Official-GApps.zip"
-maintainer = "Saurabh Jarial"
-group = "https://t.me/havoc_pixel2"

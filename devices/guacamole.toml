@@ -1,6 +1,25 @@
-brand = "OnePlus"
-name = "OnePlus 7 Pro"
 codename = "guacamole"
+name = "GM1917"
+brand = "OnePlus"
+
+[[roms]]
+id = "arrowos"
+maintainer = "alk3p"
+changelog = "- Bug fixes and stability improvements.\r\n- For more pls check <a href=\"https://forum.xda-developers.com/t/4355029\">XDA thread</a>"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R"
+recovery = "https://twrp.me/oneplus/oneplus7pro.html"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/guacamole/Havoc-OS-v4.12-20220104-guacamole-Official-GApps.zip"
+maintainer = "Anushek Prasal"
+group = "https://t.me/havoc_oneplus7"
 
 [[roms]]
 id = "pixelexperience"
@@ -17,28 +36,3 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-0-oneplus-7-pro-pixel-experience-aosp-2020-12-05.3956496/"
 stable = true
 deprecated = true
-
-[[roms]]
-id = "arrowos"
-maintainer = "alk3p"
-changelog = "- Bug fixes and stability improvements.\r\n- For more pls check <a href=\"https://forum.xda-developers.com/t/4355029\">XDA thread</a>"
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/guacamole/Havoc-OS-v4.12-20220104-guacamole-Official-GApps.zip"
-maintainer = "Anushek Prasal"
-group = "https://t.me/havoc_oneplus7"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R"
-recovery = "https://twrp.me/oneplus/oneplus7pro.html"
-
-[[roms]]
-id = "aospextended"
-xda_thread = "https://forum.xda-developers.com/t/rom-11-0-0_r38-aospextended-rom-v8-3-official-14th-june.4292117/"
-maintainer_url = "https://forum.xda-developers.com/m/ishubhamsingh.5566914/"
-maintainer_name = "Shubham Singh(ishubhamsingh)"

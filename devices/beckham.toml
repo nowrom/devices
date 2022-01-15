@@ -1,6 +1,11 @@
 brand = "Motorola"
-name = "Motorola Moto Z3 Play"
+name = "Moto Z3 Play"
 codename = "beckham"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://androidfilehost.com/?fid=2188818919693781601"
+recovery = ""
 
 [[roms]]
 id = "pixelexperience"
@@ -23,8 +28,3 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-beckham-pixelexperience-12-beta-aosp.4358873"
 stable = true
 deprecated = false
-
-[[roms]]
-id = "crdroid"
-gapps = "https://androidfilehost.com/?fid=2188818919693781601"
-recovery = ""

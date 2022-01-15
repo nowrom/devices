@@ -1,6 +1,15 @@
-brand = "Xiaomi"
-name = "Xiaomi Mi 9"
 codename = "cepheus"
+name = "Mi 9"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "lamjiidii1"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/22-Nov-2020/"
+recovery = "https://forum.xda-developers.com/Mi-9/development/recovery-unofficial-twrp-xiaomi-mi-9-t3905825"
 
 [[roms]]
 id = "pixelexperience"
@@ -25,21 +34,6 @@ stable = true
 deprecated = false
 
 [[roms]]
-id = "arrowos"
-maintainer = "lamjiidii1"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
-version = "v3.7"
-developer = "Evasi0nXiao"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/22-Nov-2020/"
-recovery = "https://forum.xda-developers.com/Mi-9/development/recovery-unofficial-twrp-xiaomi-mi-9-t3905825"
-
-[[roms]]
 id = "pixelplusui"
 active = "active"
 photo = "./assets/images/Mehdi.jpg"
@@ -49,3 +43,9 @@ guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/gui
 id = "sparkos"
 group = "https://t.me/tribual_mi9"
 download = "https://downloads.spark-os.live/cepheus/Spark-S-Tempest-OFFICIAL-cepheus-20211226.zip"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v3.7"
+developer = "Evasi0nXiao"

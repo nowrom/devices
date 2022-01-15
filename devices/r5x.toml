@@ -1,6 +1,17 @@
-brand = "Realme"
-name = "Realme 5 Series (5/5s/5i)"
 codename = "r5x"
+name = "Realme 5 Series"
+brand = "Realme"
+
+[[roms]]
+id = "arrowos"
+maintainer = "TG_DEVICE_MAINTAINER"
+changelog = "Initial A12 build"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/r5x/Havoc-OS-v4.12-20211223-r5x-Official-GApps.zip"
+maintainer = "Utkarsh Kanojiya"
+group = "https://t.me/havoc_r5x"
 
 [[roms]]
 id = "pixelexperience"
@@ -20,14 +31,3 @@ deprecated = true
 version_code = "twelve"
 stable = true
 deprecated = false
-
-[[roms]]
-id = "arrowos"
-maintainer = "TG_DEVICE_MAINTAINER"
-changelog = "Initial A12 build"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/r5x/Havoc-OS-v4.12-20211223-r5x-Official-GApps.zip"
-maintainer = "Utkarsh Kanojiya"
-group = "https://t.me/havoc_r5x"

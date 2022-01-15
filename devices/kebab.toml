@@ -6,6 +6,24 @@ codename = "kebab"
 id = "pixelextended"
 
 [[roms]]
+id = "arrowos"
+maintainer = "TG_DEVICE_MAINTAINER"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/kebab/Havoc-OS-v4.12-20211228-kebab-Official-GApps.zip"
+maintainer = "Chandu Dyavanapelli"
+group = "https://t.me/+EL09Qr1SwzhlZTI1"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_oneplus_kebab","device_oneplus_sm8250-common","vendor_oneplus_kebab","vendor_oneplus_sm8250-common","kernel_oneplus_sm8250"]
 
@@ -25,24 +43,6 @@ deprecated = true
 version_code = "twelve"
 stable = false
 deprecated = false
-
-[[roms]]
-id = "arrowos"
-maintainer = "TG_DEVICE_MAINTAINER"
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/kebab/Havoc-OS-v4.12-20211228-kebab-Official-GApps.zip"
-maintainer = "Chandu Dyavanapelli"
-group = "https://t.me/+EL09Qr1SwzhlZTI1"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
 
 [[roms]]
 id = "sakura"

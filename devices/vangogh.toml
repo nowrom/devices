@@ -1,6 +1,10 @@
-brand = "Xiaomi"
-name = "Xiaomi Mi 10 Lite Zoom / Youth Edition"
 codename = "vangogh"
+name = "Mi 10 Lite Zoom"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "Bauuuuu, kubersharma001, Palaych"
 
 [[roms]]
 id = "pixelexperience"
@@ -11,7 +15,3 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-vangogh-pixelexperience-aosp-official.4380355/"
 stable = true
 deprecated = false
-
-[[roms]]
-id = "arrowos"
-maintainer = "Bauuuuu, kubersharma001, Palaych"

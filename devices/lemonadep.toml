@@ -3,15 +3,15 @@ name = "OnePlus 9 Pro"
 codename = "lemonadep"
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://sourceforge.net/projects/crdroid/files/lemonadep/7.x/recovery/TWRP-3.5.1-lemonadep-Nebrassy-2.img/download"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/lemonadep/Havoc-OS-v4.12-20211224-lemonadep-Official-GApps.zip"
 maintainer = "eduardo"
 group = "https://t.me/havoc_oneplus9    "
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = "https://sourceforge.net/projects/crdroid/files/lemonadep/7.x/recovery/TWRP-3.5.1-lemonadep-Nebrassy-2.img/download"
 
 [[roms]]
 id = "sakura"

@@ -1,3 +1,5 @@
+import { UpdateFunction } from './mod.ts';
+
 export interface Crdroid {
 	response: CRResponse[];
 }
@@ -22,3 +24,34 @@ export interface CRResponse {
 	paypal: string;
 	telegram: string;
 }
+
+export const crdroid: UpdateFunction = async (stored_devices, getDevice) => {
+	await Promise.all(
+		[...Deno.readDirSync('./android_vendor_crDroidOTA')]
+			.filter((x) => x.name.endsWith('.json'))
+			.map(async (x) => {
+				const file: Crdroid = JSON.parse(
+					await Deno.readTextFile(`./android_vendor_crDroidOTA/${x.name}`)
+				);
+				const response = file.response[0];
+				const codename = x.name.split('.')[0];
+				let device = getDevice(codename);
+				device = {
+					...device,
+					brand: device.brand || response.oem,
+					name: device.name || response.device,
+					codename: codename,
+					roms: [
+						...device.roms,
+						{
+							id: 'crdroid',
+							gapps: response.gapps,
+							recovery: response.recovery,
+						},
+					],
+				};
+
+				stored_devices.set(codename, device);
+			})
+	);
+};

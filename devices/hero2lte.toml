@@ -3,6 +3,11 @@ name = "Samsung Galaxy S7 Edge"
 codename = "hero2lte"
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_samsung_hero2lte","device_samsung_universal8890-common","kernel_samsung_universal8890","vendor_samsung_universal8890-common"]
 
@@ -15,8 +20,3 @@ deprecated = true
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-unoffical-hero2lte-pixelexperience-aosp.4276771/"
 deprecated = true
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""

@@ -1,6 +1,20 @@
-brand = "Google"
-name = "Google Pixel 2 XL"
 codename = "taimen"
+name = "Pixel 2 XL"
+brand = "google"
+
+[[roms]]
+id = "arrowos"
+maintainer = "ReallySnow"
+changelog = "Update 4.4.297 Kernel\r\nRevert \"Force triple frame buffers\"\r\nship cgroups.json and task_profiles.json in vendor"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/taimen/Havoc-OS-v4.12-20211221-taimen-Official-GApps.zip"
+maintainer = "Saurabh Jarial"
+group = "https://t.me/havoc_pixel2"
 
 [[roms]]
 id = "pixelexperience"
@@ -23,17 +37,3 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-0-taimen-pixelexperience-aosp-official.4365915/"
 stable = false
 deprecated = false
-
-[[roms]]
-id = "arrowos"
-maintainer = "ReallySnow"
-changelog = "Update 4.4.297 Kernel\r\nRevert \"Force triple frame buffers\"\r\nship cgroups.json and task_profiles.json in vendor"
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/taimen/Havoc-OS-v4.12-20211221-taimen-Official-GApps.zip"
-maintainer = "Saurabh Jarial"
-group = "https://t.me/havoc_pixel2"

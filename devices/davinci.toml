@@ -1,6 +1,36 @@
-brand = "Xiaomi"
-name = "Xiaomi Redmi K20/Mi 9T"
+brand = "Unknown"
+name = "Redmi K20/Mi 9T (davinci)"
 codename = "davinci"
+
+[[roms]]
+id = "ancientos"
+photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
+
+[[roms]]
+id = "arrowos"
+maintainer = "RemyL"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://sourceforge.net/projects/havoc-os/files/davinci/Havoc-OS-v3.9-20201002-davinci-Official-GApps.zip/download"
+maintainer = ""
+group = ""
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "markkey014"
+github = "https://github.com/markkey014"
+donation_link = "https://paypal.me/itsmarkkey"
+photo = "https://avatars.githubusercontent.com/u/16484432?v=4"
 
 [[roms]]
 id = "pixelexperience"
@@ -19,11 +49,16 @@ stable = true
 deprecated = true
 
 [[roms]]
-id = "arrowos"
-maintainer = "RemyL"
+id = "sakura"
+xda_thread = ""
+maintainer_url = "null"
+maintainer_name = "Gabriel"
+active = false
 
 [[roms]]
-id = "dotos"
+id = "sparkos"
+group = "https://t.me/spkal01hub"
+download = "https://downloads.spark-os.live/davinci/Spark-S-Tempest-official-davinci-20211224.zip"
 
 [[roms]]
 id = "syberia"
@@ -36,38 +71,3 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v5.0"
 developer = "svb22"
-
-[[roms]]
-id = "legionos"
-active = true
-maintainer = "markkey014"
-github = "https://github.com/markkey014"
-donation_link = "https://paypal.me/itsmarkkey"
-photo = "https://avatars.githubusercontent.com/u/16484432?v=4"
-
-[[roms]]
-id = "ancientos"
-photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
-
-[[roms]]
-id = "havocos"
-url = "https://sourceforge.net/projects/havoc-os/files/davinci/Havoc-OS-v3.9-20201002-davinci-Official-GApps.zip/download"
-maintainer = ""
-group = ""
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
-
-[[roms]]
-id = "sakura"
-xda_thread = ""
-maintainer_url = "null"
-maintainer_name = "Gabriel"
-active = false
-
-[[roms]]
-id = "sparkos"
-group = "https://t.me/spkal01hub"
-download = "https://downloads.spark-os.live/davinci/Spark-S-Tempest-official-davinci-20211224.zip"

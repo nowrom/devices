@@ -1,6 +1,18 @@
-brand = "Xiaomi"
-name = "Xiaomi Redmi 5"
 codename = "rosy"
+name = "Redmi 5"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "Shriiyansh Pandey"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
+recovery = "https://sourceforge.net/projects/redmi5rosy/files/KewL-TWRP-3.5.2_9-0-rosy.img/download"
+
+[[roms]]
+id = "dotos"
 
 [[roms]]
 id = "pixelexperience"
@@ -19,28 +31,10 @@ stable = true
 deprecated = true
 
 [[roms]]
-id = "arrowos"
-maintainer = "Shriiyansh Pandey"
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
-recovery = "https://sourceforge.net/projects/redmi5rosy/files/KewL-TWRP-3.5.2_9-0-rosy.img/download"
-
-[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/maintainer_avatar.png"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "aospextended"
-xda_thread = "https://forum.xda-developers.com/redmi-5/development/aospextended-7-t4053067"
-maintainer_url = "https://forum.xda-developers.com/member.php?u=8298415"
-maintainer_name = "Kelvin [xDoge]"
 
 [[roms]]
 id = "sakura"

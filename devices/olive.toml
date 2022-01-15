@@ -7,6 +7,11 @@ id = "arrowos"
 maintainer = "Aftab Ashrafi"
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://eu.dl.twrp.me/olive/"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -14,8 +19,3 @@ id = "havocos"
 url = "https://download.havoc-os.com/olive/Havoc-OS-v4.12-20211227-olive-Official-GApps.zip"
 maintainer = "IAmDeadlylxrd"
 group = "https://t.me/havoc_olive_official"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = "https://eu.dl.twrp.me/olive/"

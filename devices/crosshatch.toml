@@ -1,6 +1,11 @@
-brand = "Google"
-name = "Google Pixel 3 XL"
 codename = "crosshatch"
+name = "Pixel 3 XL"
+brand = "google"
+
+[[roms]]
+id = "arrowos"
+maintainer = "ReallySnow"
+changelog = "Add AOSP RCS packages\r\nRemove split permissions"
 
 [[roms]]
 id = "pixelexperience"
@@ -11,8 +16,3 @@ version_code = "twelve"
 xda_thread = ""
 stable = true
 deprecated = false
-
-[[roms]]
-id = "arrowos"
-maintainer = "ReallySnow"
-changelog = "Add AOSP RCS packages\r\nRemove split permissions"

@@ -1,6 +1,9 @@
 brand = "Lenovo"
-name = "Lenovo Z5s"
+name = "Z5s"
 codename = "jd2019"
+
+[[roms]]
+id = "dotos"
 
 [[roms]]
 id = "pixelexperience"
@@ -22,9 +25,6 @@ deprecated = true
 version_code = "twelve"
 stable = true
 deprecated = false
-
-[[roms]]
-id = "dotos"
 
 [[roms]]
 id = "pixelplusui"

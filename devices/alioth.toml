@@ -6,6 +6,26 @@ codename = "alioth"
 id = "pixelextended"
 
 [[roms]]
+id = "ancientos"
+photo = "https://raw.githubusercontent.com/oghe3003/official_device_xiaomi/main/alioth.png"
+
+[[roms]]
+id = "arrowos"
+maintainer = "palaych"
+changelog = "- Update blobs to MIUI V12.5.5.0.RKHMIXM\r\n- rootdir: Allow all filesystems for USB-OTG\r\n- props: Increase audio HAL buffer size to 240\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI 12.5.5.0 (A11) Global / India / EU.</b>"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://forum.xda-developers.com/t/recovery-unofficial-twrp-3-5-1-20210702.4300189/"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/alioth/Havoc-OS-v4.12-20211220-alioth-Official-GApps.zip"
+maintainer = "Sukeerat Singh Goindi"
+group = "https://t.me/havocalioth_in"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_alioth","device_xiaomi_sm8250-common","kernel_xiaomi_sm8250","vendor_xiaomi_alioth","vendor_xiaomi_sm8250-common"]
 
@@ -28,36 +48,9 @@ stable = true
 deprecated = false
 
 [[roms]]
-id = "arrowos"
-maintainer = "palaych"
-changelog = "- Update blobs to MIUI V12.5.5.0.RKHMIXM\r\n- rootdir: Allow all filesystems for USB-OTG\r\n- props: Increase audio HAL buffer size to 240\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI 12.5.5.0 (A11) Global / India / EU.</b>"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
-version = "v4.9"
-developer = "mdeejay"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
-version = "v5.1"
-developer = "DennySPb"
-
-[[roms]]
-id = "ancientos"
-photo = "https://raw.githubusercontent.com/oghe3003/official_device_xiaomi/main/alioth.png"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/alioth/Havoc-OS-v4.12-20211220-alioth-Official-GApps.zip"
-maintainer = "Sukeerat Singh Goindi"
-group = "https://t.me/havocalioth_in"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = "https://forum.xda-developers.com/t/recovery-unofficial-twrp-3-5-1-20210702.4300189/"
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.0-20220115-0930-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/closed-rom-official-pixel-extended-rom-v4-0-android-12-alioth-aliothin-01-11-21.4355409/"
 
 [[roms]]
 id = "pixelplusui"
@@ -71,6 +64,13 @@ group = "t.me/spsalioth"
 download = "https://downloads.spark-os.live/alioth/Spark-S-Tempest-Official-alioth-20220113.zip"
 
 [[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.0-20220115-0930-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/closed-rom-official-pixel-extended-rom-v4-0-android-12-alioth-aliothin-01-11-21.4355409/"
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v4.9"
+developer = "mdeejay"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v5.1"
+developer = "DennySPb"

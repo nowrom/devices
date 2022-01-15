@@ -1,6 +1,11 @@
-brand = "Xiaomi"
-name = "Redmi S2"
+brand = "Redmi"
+name = "Redmi Y2/S2"
 codename = "ysl"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/30-Jan-2021/"
+recovery = "https://files.orangefox.tech/OrangeFox-Stable/ysl/OrangeFox-R10.0-1-Stable-ysl.zip"
 
 [[roms]]
 id = "dotos"
@@ -12,11 +17,6 @@ maintainer = "AYUSH"
 github = "https://github.com/MIUI56"
 donation_link = ""
 photo = "https://avatars.githubusercontent.com/u/47271737?v=4"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/30-Jan-2021/"
-recovery = "https://files.orangefox.tech/OrangeFox-Stable/ysl/OrangeFox-R10.0-1-Stable-ysl.zip"
 
 [[roms]]
 id = "pixelplusui"

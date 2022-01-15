@@ -6,6 +6,19 @@ codename = "gauguin"
 id = "pixelextended"
 
 [[roms]]
+id = "arrowos"
+maintainer = "baolong24"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/gauguin/Havoc-OS-v4.6-20210701-gauguin-Official-GApps.zip"
+maintainer = "baolong24"
+group = "https://t.me/havoc_gauguin"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_gauguin","kernel_xiaomi_gauguin","vendor_xiaomi_gauguin"]
 
@@ -26,19 +39,6 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-gauguin-official-pixel-experience-12-mi-10t-lite-mi-10i-redmi-note-9-pro-5g.4352869/"
 stable = true
 deprecated = false
-
-[[roms]]
-id = "arrowos"
-maintainer = "baolong24"
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/gauguin/Havoc-OS-v4.6-20210701-gauguin-Official-GApps.zip"
-maintainer = "baolong24"
-group = "https://t.me/havoc_gauguin"
 
 [[roms]]
 id = "sakura"

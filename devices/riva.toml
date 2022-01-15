@@ -12,13 +12,13 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-0-riva-pixelexperience-a
 deprecated = true
 
 [[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
-version = "v3.9"
-developer = "erwinabs"
-
-[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/veshrao.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v3.9"
+developer = "erwinabs"

@@ -1,6 +1,19 @@
 brand = "Motorola"
-name = "Motorola Moto G7 Plus"
+name = "Moto G 7 Plus"
 codename = "lake"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://opengapps.org/"
+recovery = "https://dl.twrp.me/lake/"
+
+[[roms]]
+id = "legionos"
+active = false
+maintainer = "VitorSSSouza"
+github = "https://github.com/VitorSSSouza"
+donation_link = ""
+photo = "https://avatars.githubusercontent.com/u/78888873?v=4"
 
 [[roms]]
 id = "pixelexperience"
@@ -22,16 +35,3 @@ deprecated = true
 version_code = "twelve"
 stable = false
 deprecated = false
-
-[[roms]]
-id = "legionos"
-active = false
-maintainer = "VitorSSSouza"
-github = "https://github.com/VitorSSSouza"
-donation_link = ""
-photo = "https://avatars.githubusercontent.com/u/78888873?v=4"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://opengapps.org/"
-recovery = "https://dl.twrp.me/lake/"

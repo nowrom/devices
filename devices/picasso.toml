@@ -1,6 +1,24 @@
-brand = "Xiaomi"
-name = "Xiaomi Redmi K30 5G"
 codename = "picasso"
+name = "Redmi K30 5G"
+brand = "Redmi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "baolong24"
+changelog = "- Fixed Bluetooth can not turn on after turning off\r\n- SELinux enforce\r\n- Fixed GCam\r\n- Fixed aptX\r\n- Fixed FP did not work on some devices\r\n- Added display color compositions"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/opengapps/files/arm64/test/"
+recovery = "https://orangefox.download/device/picasso"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "masemoel"
+github = "https://github.com/masemoel"
+donation_link = "https://paypal.me/masemoel"
+photo = "https://avatars.githubusercontent.com/u/64311706?v=4"
 
 [[roms]]
 id = "pixelexperience"
@@ -22,21 +40,3 @@ deprecated = true
 version_code = "twelve"
 stable = true
 deprecated = false
-
-[[roms]]
-id = "arrowos"
-maintainer = "baolong24"
-changelog = "- Fixed Bluetooth can not turn on after turning off\r\n- SELinux enforce\r\n- Fixed GCam\r\n- Fixed aptX\r\n- Fixed FP did not work on some devices\r\n- Added display color compositions"
-
-[[roms]]
-id = "legionos"
-active = true
-maintainer = "masemoel"
-github = "https://github.com/masemoel"
-donation_link = "https://paypal.me/masemoel"
-photo = "https://avatars.githubusercontent.com/u/64311706?v=4"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/opengapps/files/arm64/test/"
-recovery = "https://orangefox.download/device/picasso"

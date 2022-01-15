@@ -1,6 +1,14 @@
 brand = "Motorola"
-name = "Motorola Moto X4"
+name = "Motorola X4"
 codename = "payton"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
+recovery = "https://eu.dl.twrp.me/payton/"
+
+[[roms]]
+id = "dotos"
 
 [[roms]]
 id = "pixelexperience"
@@ -9,11 +17,3 @@ repostories = ["device_motorola_payton","vendor_motorola_payton"]
 [[roms.supported_versions]]
 version_code = "eleven"
 deprecated = true
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
-recovery = "https://eu.dl.twrp.me/payton/"

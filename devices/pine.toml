@@ -1,6 +1,14 @@
-brand = "Xiaomi"
-name = "Xiaomi Redmi 7A"
+brand = "Redmi"
+name = "Redmi 7A"
 codename = "pine"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com"
+recovery = "https://t.me/PineOfficial/239917"
+
+[[roms]]
+id = "dotos"
 
 [[roms]]
 id = "pixelexperience"
@@ -15,14 +23,6 @@ deprecated = true
 version_code = "eleven_plus"
 stable = true
 deprecated = true
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://nikgapps.com"
-recovery = "https://t.me/PineOfficial/239917"
 
 [[roms]]
 id = "pixelextended"

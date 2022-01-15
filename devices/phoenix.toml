@@ -6,6 +6,33 @@ codename = "phoenix"
 id = "pixelextended"
 
 [[roms]]
+id = "arrowos"
+maintainer = "Sreekanth"
+changelog = "• Added lawnchair launcher as default\r\n• Fixup status bar padding issues on the lock screen\r\n• Fixup USB-C audio\r\n• Update CarrierSettings from sunfish SQ1A.211205.008\r\n• Switch overlays from build time to RRO\r\n• Copy DispSync offsets from cmi\r\n• Drop surface flinger vsync phase offsets\r\n• Switch to SF phase offsets from redfin\r\n• Sync durations props with raven\r\n• Sync idle/touch timer to raven\r\n• Drop unnecessary fqnames from manifests\r\n• Clean up and uprev fp HAL to 2.3\r\n• Upstream wireguard to 1.0.20211208 snapshot\r\n• Merge Linux version 4.14.258 into the kernel \r\n• Misc changes"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
+recovery = "https://sourceforge.net/projects/crdroid/files/phoenix/7.x/recovery/OrangeFox-phoenix-stable@R11.1_1.zip/download"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/phoenix/Havoc-OS-v4.12-20211221-phoenix-Official-GApps.zip"
+maintainer = "Abubakar Yagoub"
+group = "https://t.me/havoc_phoenix"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Nasir Ali"
+github = "https://github.com/Nasir-buddy"
+donation_link = ""
+photo = "https://avatars.githubusercontent.com/u/83268060?v=4"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_phoenix","kernel_xiaomi_phoenix","vendor_xiaomi_phoenix"]
 
@@ -25,31 +52,9 @@ xda_thread = "https://forum.xda-developers.com/t/rom-12-phoenix-phoenixin-pixele
 deprecated = false
 
 [[roms]]
-id = "arrowos"
-maintainer = "Sreekanth"
-changelog = "• Added lawnchair launcher as default\r\n• Fixup status bar padding issues on the lock screen\r\n• Fixup USB-C audio\r\n• Update CarrierSettings from sunfish SQ1A.211205.008\r\n• Switch overlays from build time to RRO\r\n• Copy DispSync offsets from cmi\r\n• Drop surface flinger vsync phase offsets\r\n• Switch to SF phase offsets from redfin\r\n• Sync durations props with raven\r\n• Sync idle/touch timer to raven\r\n• Drop unnecessary fqnames from manifests\r\n• Clean up and uprev fp HAL to 2.3\r\n• Upstream wireguard to 1.0.20211208 snapshot\r\n• Merge Linux version 4.14.258 into the kernel \r\n• Misc changes"
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "legionos"
-active = true
-maintainer = "Nasir Ali"
-github = "https://github.com/Nasir-buddy"
-donation_link = ""
-photo = "https://avatars.githubusercontent.com/u/83268060?v=4"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/phoenix/Havoc-OS-v4.12-20211221-phoenix-Official-GApps.zip"
-maintainer = "Abubakar Yagoub"
-group = "https://t.me/havoc_phoenix"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
-recovery = "https://sourceforge.net/projects/crdroid/files/phoenix/7.x/recovery/OrangeFox-phoenix-stable@R11.1_1.zip/download"
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/phoenix/PixelExtended_phoenix-12.0-20211226-0648-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-phoenix-26-12-21.4379877/"
 
 [[roms]]
 id = "pixelplusui"
@@ -74,8 +79,3 @@ active = false
 id = "sparkos"
 group = "https://t.me/redcliffbuilds"
 download = "https://downloads.spark-os.live/phoenix/Spark-S-Tempest-OFFICIAL-phoenix-20211226-gapps.zip"
-
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/phoenix/PixelExtended_phoenix-12.0-20211226-0648-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-phoenix-26-12-21.4379877/"

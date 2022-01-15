@@ -6,6 +6,28 @@ codename = "mido"
 id = "pixelextended"
 
 [[roms]]
+id = "ancientos"
+photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4-sn.jpg"
+
+[[roms]]
+id = "arrowos"
+maintainer = "Ganesh Varma, Sonal Singh"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://bitgapps.ga/GApps/arm64/R/"
+recovery = "https://dl.twrp.me/mido/twrp-3.6.0_9-0-mido.img"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://sourceforge.net/projects/havoc-os/files/mido/Havoc-OS-v3.9-20200918-mido-Official-GApps.zip/download"
+maintainer = "Sagar Rokade (Sagarrokade006)"
+group = "https://t.me/havoc_mido"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_mido","kernel_xiaomi_mido","vendor_xiaomi_mido"]
 
@@ -25,34 +47,6 @@ stable = false
 deprecated = false
 
 [[roms]]
-id = "arrowos"
-maintainer = "Ganesh Varma, Sonal Singh"
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
-version = "v3.9"
-developer = "hnaamdev41"
-
-[[roms]]
-id = "ancientos"
-photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4-sn.jpg"
-
-[[roms]]
-id = "havocos"
-url = "https://sourceforge.net/projects/havoc-os/files/mido/Havoc-OS-v3.9-20200918-mido-Official-GApps.zip/download"
-maintainer = "Sagar Rokade (Sagarrokade006)"
-group = "https://t.me/havoc_mido"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://bitgapps.ga/GApps/arm64/R/"
-recovery = "https://dl.twrp.me/mido/twrp-3.6.0_9-0-mido.img"
-
-[[roms]]
 id = "pixelplusui"
 active = "active"
 photo = "./assets/images/smokey_avatar.jpg"
@@ -62,3 +56,9 @@ guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/gui
 id = "sparkos"
 group = "https://t.me/SparkOS_mido_official"
 download = "https://downloads.spark-os.live/mido/Spark-S-Tempest-Official-mido-20220103-gapps.zip"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v3.9"
+developer = "hnaamdev41"

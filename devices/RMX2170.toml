@@ -7,9 +7,3 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/mayur.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "aospextended"
-xda_thread = ""
-maintainer_url = "https://forum.xda-developers.com/member.php?u=7638319"
-maintainer_name = "SagarMakhar"

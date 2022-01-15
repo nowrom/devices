@@ -1,6 +1,14 @@
-brand = "ASUS"
-name = "ASUS Zenfone Max Pro M1"
+brand = "Asus"
+name = "Asus Zenfone Max Pro M1"
 codename = "X00TD"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Canary-Releases/Addons-R/"
+recovery = "https://forum.xda-developers.com/t/recovery-x00t-kudprojects-unofficial-twrp-3-4-0-0-16-06-2020.3888110/"
+
+[[roms]]
+id = "dotos"
 
 [[roms]]
 id = "pixelexperience"
@@ -25,21 +33,7 @@ stable = true
 deprecated = true
 
 [[roms]]
-id = "dotos"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Canary-Releases/Addons-R/"
-recovery = "https://forum.xda-developers.com/t/recovery-x00t-kudprojects-unofficial-twrp-3-4-0-0-16-06-2020.3888110/"
-
-[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/maintainer_avatar.png"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "aospextended"
-xda_thread = "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-aospextended-v7-0-t4038203"
-maintainer_url = "https://github.com/sagarmakhar"
-maintainer_name = "SagarMakhar"

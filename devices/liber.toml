@@ -1,6 +1,9 @@
 brand = "Motorola"
-name = "Motorola Moto One Fusion +"
+name = "Motorola One Fusion+"
 codename = "liber"
+
+[[roms]]
+id = "dotos"
 
 [[roms]]
 id = "pixelexperience"
@@ -17,6 +20,3 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-liber-pixelexperience-plus-aosp.4302669/"
 stable = true
 deprecated = true
-
-[[roms]]
-id = "dotos"

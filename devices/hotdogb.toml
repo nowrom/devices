@@ -3,6 +3,20 @@ name = "OnePlus 7T"
 codename = "hotdogb"
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/hotdogb/Havoc-OS-v4.12-20220104-hotdogb-Official-GApps.zip"
+maintainer = "Anushek Prasal"
+group = "https://t.me/havoc_oneplus7"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_oneplus_hotdogb","device_oneplus_sm8150-common","kernel_oneplus_sm8150","vendor_oneplus_hotdogb","vendor_oneplus_sm8150-common"]
 
@@ -17,17 +31,3 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pixel-experience-aosp-2020-12-05.4162207/"
 stable = true
 deprecated = true
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/hotdogb/Havoc-OS-v4.12-20220104-hotdogb-Official-GApps.zip"
-maintainer = "Anushek Prasal"
-group = "https://t.me/havoc_oneplus7"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""

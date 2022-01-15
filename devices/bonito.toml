@@ -9,6 +9,9 @@ id = "CalyxOS"
 id = "pixelextended"
 
 [[roms]]
+id = "dotos"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_google_bonito","vendor_google_bonito","kernel_google_msm-4.9"]
 
@@ -26,9 +29,6 @@ deprecated = false
 version_code = "twelve"
 stable = false
 deprecated = false
-
-[[roms]]
-id = "dotos"
 
 [[roms]]
 id = "pixelextended"

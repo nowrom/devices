@@ -6,6 +6,33 @@ codename = "violet"
 id = "pixelextended"
 
 [[roms]]
+id = "arrowos"
+maintainer = "Aftab Ashrafi"
+changelog = "Lawnchair"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
+recovery = "https://orangefox.download/device/violet"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/violet/Havoc-OS-v4.12-20211223-violet-Official-GApps.zip"
+maintainer = "Athul Dinesan"
+group = "https://t.me/havoc_violet"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Tamizh_Arasan"
+github = "https://github.com/no1opensourcelover"
+donation_link = ""
+photo = "https://avatars.githubusercontent.com/u/67329471?s=60&v=4"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_violet","kernel_xiaomi_violet","vendor_xiaomi_violet","vendor_xiaomi-firmware"]
 
@@ -28,48 +55,15 @@ stable = false
 deprecated = false
 
 [[roms]]
-id = "arrowos"
-maintainer = "Aftab Ashrafi"
-changelog = "Lawnchair"
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "legionos"
-active = true
-maintainer = "Tamizh_Arasan"
-github = "https://github.com/no1opensourcelover"
-donation_link = ""
-photo = "https://avatars.githubusercontent.com/u/67329471?s=60&v=4"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/violet/Havoc-OS-v4.12-20211223-violet-Official-GApps.zip"
-maintainer = "Athul Dinesan"
-group = "https://t.me/havoc_violet"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
-recovery = "https://orangefox.download/device/violet"
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/violet/PixelExtended_violet-12.0-20220102-1014-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/pixelextended-rom-for-redmi-note-7-pro-violet.4382883/"
 
 [[roms]]
 id = "pixelplusui"
 active = "active"
 photo = "./assets/images/saurav_avatar.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "aospextended"
-xda_thread = "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-aospextended-rom-v7-0-t4041497"
-maintainer_url = "https://forum.xda-developers.com/member.php?u=10509489"
-maintainer_name = "Arpon Sarkar(Arpon5691), Shubham Das(dasshubham762)"
-
-[[roms]]
-id = "aospextended"
-maintainer_url = "https://forum.xda-developers.com/m/dasshubham762.8330494/"
-maintainer_name = "Shubham Das(dasshubham762)"
 
 [[roms]]
 id = "sakura"
@@ -82,8 +76,3 @@ active = true
 id = "sparkos"
 group = "https://t.me/sparkosviolet"
 download = "https://downloads.spark-os.live/violet/Spark-S-Tempest-OFFICIAL-violet-20211229.zip"
-
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/violet/PixelExtended_violet-12.0-20220102-1014-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/pixelextended-rom-for-redmi-note-7-pro-violet.4382883/"

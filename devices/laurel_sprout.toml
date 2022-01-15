@@ -1,6 +1,21 @@
-brand = "Xiaomi"
-name = "Mi A3"
+brand = "Unknown"
+name = "Xiaomi MI A3 (laurel_sprout)"
 codename = "laurel_sprout"
+
+[[roms]]
+id = "ancientos"
+photo = "http://i01.appmifile.com/webfile/globalimg/products/pc/mi-a3/specs2.png"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com"
+recovery = ""
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/H3M3L.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "syberia"
@@ -19,18 +34,3 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v5.0"
 developer = "magicxavi"
-
-[[roms]]
-id = "ancientos"
-photo = "http://i01.appmifile.com/webfile/globalimg/products/pc/mi-a3/specs2.png"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://nikgapps.com"
-recovery = ""
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/H3M3L.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

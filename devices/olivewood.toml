@@ -6,6 +6,9 @@ codename = "olivewood"
 id = "pixelextended"
 
 [[roms]]
+id = "dotos"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_olivewood","kernel_xiaomi_olivewood","vendor_xiaomi_olivewood"]
 
@@ -13,9 +16,6 @@ repostories = ["device_xiaomi_olivewood","kernel_xiaomi_olivewood","vendor_xiaom
 version_code = "twelve"
 stable = false
 deprecated = false
-
-[[roms]]
-id = "dotos"
 
 [[roms]]
 id = "pixelplusui"

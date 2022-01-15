@@ -10,9 +10,3 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/satham.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "aospextended"
-xda_thread = "https://forum.xda-developers.com/realme-x/development/rom-aospextended-rom-v7-0-t4038049"
-maintainer_url = "https://forum.xda-developers.com/member.php?u=7638319"
-maintainer_name = "SagarMakhar"

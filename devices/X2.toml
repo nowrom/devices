@@ -1,14 +1,14 @@
-brand = "realme"
+brand = "Realme"
 name = "Realme X2"
 codename = "X2"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://opengapps.org/"
+recovery = "https://orangefox.download/device/rmx1992"
 
 [[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/X2/Havoc-OS-v4.12-20220101-X2-Official-GApps.zip"
 maintainer = "Hritwik"
 group = "https://t.me/+f6fvNbV7pNtiMDZl"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://opengapps.org/"
-recovery = "https://orangefox.download/device/rmx1992"

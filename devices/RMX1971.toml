@@ -6,6 +6,15 @@ codename = "RMX1971"
 id = "pixelextended"
 
 [[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/RMX1971/Havoc-OS-v4.12-20211227-RMX1971-Official-GApps.zip"
+maintainer = "Krish Walecha"
+group = "https://t.me/+_O867uFgtt8xNTQ1"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_realme_RMX1971","device_realme_sdm710-common","kernel_realme_sdm710","vendor_realme_RMX1971","vendor_realme_sdm710-common"]
 
@@ -25,13 +34,9 @@ stable = true
 deprecated = false
 
 [[roms]]
-id = "dotos"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/RMX1971/Havoc-OS-v4.12-20211227-RMX1971-Official-GApps.zip"
-maintainer = "Krish Walecha"
-group = "https://t.me/+_O867uFgtt8xNTQ1"
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/RMX1971/PixelExtended_RMX1971-12.0-20211219-0055-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-rmx1971-19-12-21.4377001/"
 
 [[roms]]
 id = "pixelplusui"
@@ -43,8 +48,3 @@ guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/gui
 id = "sparkos"
 group = "https://t.me/Spark_RMX1971"
 download = "https://downloads.spark-os.live/RMX1971/Spark-S-Tempest-OFFICIAL-RMX1971-20211224.zip"
-
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/RMX1971/PixelExtended_RMX1971-12.0-20211219-0055-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-rmx1971-19-12-21.4377001/"

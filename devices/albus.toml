@@ -1,6 +1,9 @@
 brand = "Motorola"
-name = "Motorola Moto Z2 Play"
+name = "Moto Z2 Play"
 codename = "albus"
+
+[[roms]]
+id = "dotos"
 
 [[roms]]
 id = "pixelexperience"
@@ -17,6 +20,3 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-albus-pixelexperience-aosp.4246163"
 stable = true
 deprecated = true
-
-[[roms]]
-id = "dotos"

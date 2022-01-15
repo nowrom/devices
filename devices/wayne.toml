@@ -10,12 +10,12 @@ id = "arrowos"
 maintainer = "TH779, ReallySnow"
 
 [[roms]]
-id = "dotos"
-
-[[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/22-Nov-2020/"
 recovery = "https://files.orangefox.tech/OrangeFox-Stable/wayne/OrangeFox-R10.1_1-Stable-wayne.zip"
+
+[[roms]]
+id = "dotos"
 
 [[roms]]
 id = "pixelplusui"

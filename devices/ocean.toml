@@ -1,20 +1,6 @@
-brand = "Motorola"
-name = "Motorola Moto G7 Power"
 codename = "ocean"
-
-[[roms]]
-id = "pixelexperience"
-repostories = ["device_motorola_ocean","device_motorola_sdm632-common","kernel_motorola_sdm632","vendor_motorola_ocean","vendor_motorola_sdm632-common"]
-
-[[roms.supported_versions]]
-version_code = "eleven"
-stable = true
-deprecated = true
-
-[[roms.supported_versions]]
-version_code = "eleven_plus"
-stable = true
-deprecated = true
+name = "moto g(7) power"
+brand = "motorola"
 
 [[roms]]
 id = "arrowos"
@@ -30,10 +16,18 @@ maintainer = "Andrew Hexen"
 group = "https://t.me/havoc_ocean"
 
 [[roms]]
-id = "aospextended"
-xda_thread = "https://forum.xda-developers.com/g7-power/development/rom-aospextended-rom-v7-1-moto-g7-power-t4086835"
-maintainer_url = "https://forum.xda-developers.com/member.php?u=4064345"
-maintainer_name = "Barry Allen (@F1a5H)"
+id = "pixelexperience"
+repostories = ["device_motorola_ocean","device_motorola_sdm632-common","kernel_motorola_sdm632","vendor_motorola_ocean","vendor_motorola_sdm632-common"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+stable = true
+deprecated = true
 
 [[roms]]
 id = "sakura"

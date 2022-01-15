@@ -3,6 +3,22 @@ name = "Xiaomi Mi A1"
 codename = "tissot"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/"
+recovery = "https://dl.twrp.me/tissot/"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Answer35"
+github = "https://github.com/answer35"
+donation_link = ""
+photo = "https://avatars.githubusercontent.com/u/26594746?v=4"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_tissot","device_xiaomi_msm8953-common","kernel_xiaomi_tissot","vendor_xiaomi_tissot","vendor_xiaomi_msm8953-common"]
 
@@ -24,38 +40,10 @@ xda_thread = "https://forum.xda-developers.com/t/rom-12-tissot-pixelexperience-a
 deprecated = false
 
 [[roms]]
-id = "dotos"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
-version = "v2.9"
-developer = "mdeejay"
-
-[[roms]]
-id = "legionos"
-active = true
-maintainer = "Answer35"
-github = "https://github.com/answer35"
-donation_link = ""
-photo = "https://avatars.githubusercontent.com/u/26594746?v=4"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://nikgapps.com/"
-recovery = "https://dl.twrp.me/tissot/"
-
-[[roms]]
 id = "pixelplusui"
 active = "active"
 photo = "./assets/images/saurav_avatar.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "aospextended"
-xda_thread = "https://forum.xda-developers.com/mi-a1/development/rom-aospextended-rom-v7-0-t4063957"
-maintainer_url = "https://forum.xda-developers.com/member.php?u=5913672"
-maintainer_name = "Murtaza Piplod"
 
 [[roms]]
 id = "sakura"
@@ -63,3 +51,9 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Roger W."
 active = false
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v2.9"
+developer = "mdeejay"

@@ -3,15 +3,12 @@ name = "Realme XT"
 codename = "RMX1921"
 
 [[roms]]
-id = "dotos"
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R"
+recovery = "https://dl.twrp.me/RMX1921"
 
 [[roms]]
-id = "legionos"
-active = true
-maintainer = "ThatisJigen"
-github = "https://github.com/thatisjigen"
-donation_link = "https://paypal.me/thatisjigen"
-photo = "https://avatars.githubusercontent.com/u/55486333"
+id = "dotos"
 
 [[roms]]
 id = "havocos"
@@ -20,9 +17,12 @@ maintainer = "Probir Ghosh"
 group = "https://t.me/havoc_RMX1921"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R"
-recovery = "https://dl.twrp.me/RMX1921"
+id = "legionos"
+active = true
+maintainer = "ThatisJigen"
+github = "https://github.com/thatisjigen"
+donation_link = "https://paypal.me/thatisjigen"
+photo = "https://avatars.githubusercontent.com/u/55486333"
 
 [[roms]]
 id = "pixelplusui"

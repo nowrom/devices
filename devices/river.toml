@@ -6,6 +6,16 @@ codename = "river"
 id = "pixelextended"
 
 [[roms]]
+id = "arrowos"
+maintainer = "Deivid Ignacio"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/river/Havoc-OS-v4.12-20211226-river-Official-GApps.zip"
+maintainer = "Andrew Hexen"
+group = "https://t.me/havoc_river"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_motorola_river","device_motorola_sdm632-common","kernel_motorola_sdm632","packages_apps_MotCamera2","vendor_motorola_river","vendor_motorola_sdm632-common"]
 
@@ -23,19 +33,3 @@ deprecated = true
 version_code = "twelve"
 stable = false
 deprecated = false
-
-[[roms]]
-id = "arrowos"
-maintainer = "Deivid Ignacio"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/river/Havoc-OS-v4.12-20211226-river-Official-GApps.zip"
-maintainer = "Andrew Hexen"
-group = "https://t.me/havoc_river"
-
-[[roms]]
-id = "aospextended"
-xda_thread = "https://forum.xda-developers.com/moto-g7/development/rom-aospextended-rom-v7-0-moto-g7-river-t4082187"
-maintainer_url = "https://forum.xda-developers.com/member.php?u=4064345"
-maintainer_name = "Barry Allen (@F1a5H)"

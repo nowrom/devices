@@ -6,6 +6,14 @@ codename = "merlinx"
 id = "pixelextended"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://telegra.ph/Gapps-Download-Link-10-11"
+recovery = "https://telegra.ph/Recovery-Download-09-11"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_merlinx","device_xiaomi_mt6768-common","kernel_xiaomi_mt6768","vendor_xiaomi_merlinx","vendor_xiaomi_mt6768-ims"]
 
@@ -13,11 +21,3 @@ repostories = ["device_xiaomi_merlinx","device_xiaomi_mt6768-common","kernel_xia
 version_code = "twelve"
 stable = false
 deprecated = false
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://telegra.ph/Gapps-Download-Link-10-11"
-recovery = "https://telegra.ph/Recovery-Download-09-11"

@@ -1,6 +1,12 @@
 brand = "Xiaomi"
-name = "Xiaomi Mi 8 Lite"
+name = "MI 8 Lite"
 codename = "platina"
+
+[[roms]]
+id = "havocos"
+url = "https://sourceforge.net/projects/havoc-os/files/platina/Havoc-OS-v3.9-20200929-platina-Official-GApps.zip/download"
+maintainer = "RiqueBarros"
+group = "https://t.me/havoc_platina"
 
 [[roms]]
 id = "pixelexperience"
@@ -20,9 +26,3 @@ deprecated = true
 version_code = "twelve"
 stable = true
 deprecated = false
-
-[[roms]]
-id = "havocos"
-url = "https://sourceforge.net/projects/havoc-os/files/platina/Havoc-OS-v3.9-20200929-platina-Official-GApps.zip/download"
-maintainer = "RiqueBarros"
-group = "https://t.me/havoc_platina"

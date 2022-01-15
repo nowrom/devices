@@ -3,6 +3,9 @@ name = "Realme 3 Pro"
 codename = "RMX1851"
 
 [[roms]]
+id = "dotos"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_realme_RMX1851","kernel_realme_sdm710","vendor_realme_RMX1851"]
 
@@ -17,22 +20,7 @@ stable = true
 deprecated = true
 
 [[roms]]
-id = "dotos"
-
-[[roms]]
 id = "pixelplusui"
 active = "active"
 photo = "./assets/images/nikhil.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "aospextended"
-xda_thread = "https://forum.xda-developers.com/realme-3-pro/development/rom-aospextended-rom-v7-0-realme-3pro-t4044387"
-maintainer_url = "https://forum.xda-developers.com/member.php?u=6620830"
-maintainer_name = "Darshan M. (darshan1205)"
-
-[[roms]]
-id = "aospextended"
-xda_thread = ""
-maintainer_url = "https://forum.xda-developers.com/member.php?u=6388219"
-maintainer_name = "Ahmed Moselhi(kanged99)"

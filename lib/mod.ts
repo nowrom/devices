@@ -11,3 +11,8 @@ export * from './aospextended.ts';
 export * from './sakura.ts';
 export * from './spark.ts';
 export * from './pixelextended.ts';
+
+export type UpdateFunction = (
+	stored_devices: Map<string, any>,
+	getDevice: (name: string) => Record<string, any>
+) => Promise<unknown> | unknown;

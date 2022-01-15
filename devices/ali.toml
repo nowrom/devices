@@ -1,6 +1,11 @@
 brand = "Motorola"
-name = "Motorola Moto G6"
+name = "Moto G6"
 codename = "ali"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/"
+recovery = "https://forum.xda-developers.com/t/twrp-unofficial-twrp-64-bit-3-5-2.4328145/"
 
 [[roms]]
 id = "pixelexperience"
@@ -17,8 +22,3 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-moto-g6-pixelexperience-aosp.4223579"
 stable = true
 deprecated = true
-
-[[roms]]
-id = "crdroid"
-gapps = "https://nikgapps.com/"
-recovery = "https://forum.xda-developers.com/t/twrp-unofficial-twrp-64-bit-3-5-2.4328145/"

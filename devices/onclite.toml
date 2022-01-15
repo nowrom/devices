@@ -6,15 +6,15 @@ codename = "onclite"
 id = "pixelextended"
 
 [[roms]]
+id = "ancientos"
+photo = "https://telegra.ph/file/856849d62c30dc3a2679a.png"
+
+[[roms]]
 id = "arrowos"
 maintainer = "bibarub"
 
 [[roms]]
 id = "dotos"
-
-[[roms]]
-id = "ancientos"
-photo = "https://telegra.ph/file/856849d62c30dc3a2679a.png"
 
 [[roms]]
 id = "havocos"
@@ -23,12 +23,12 @@ maintainer = "Aryan Karan"
 group = "https://t.me/havoc_os_onclite"
 
 [[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/onclite/PixelExtended_onclite-12.0-20211219-0450-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-onclite-19-12-21.4377045/"
+
+[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/kotsya_avatar.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/onclite/PixelExtended_onclite-12.0-20211219-0450-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-onclite-19-12-21.4377045/"

@@ -1,6 +1,20 @@
-brand = "Xiaomi"
-name = "Xiaomi Mi 10T"
 codename = "apollo"
+name = "Xiaomi Mi 10T"
+brand = "Xiaomi"
+
+[[roms]]
+id = "arrowos"
+maintainer = "Dobsgw"
+changelog = "- Many update. Much wow\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/apollo/Havoc-OS-v4.12-20211222-apollo-Official-GApps.zip"
+maintainer = "Tushar Mahajan"
+group = "https://t.me/havocos_apollo"
 
 [[roms]]
 id = "pixelexperience"
@@ -23,20 +37,6 @@ version_code = "twelve"
 xda_thread = ""
 stable = true
 deprecated = false
-
-[[roms]]
-id = "arrowos"
-maintainer = "Dobsgw"
-changelog = "- Many update. Much wow\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial"
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/apollo/Havoc-OS-v4.12-20211222-apollo-Official-GApps.zip"
-maintainer = "Tushar Mahajan"
-group = "https://t.me/havocos_apollo"
 
 [[roms]]
 id = "pixelplusui"

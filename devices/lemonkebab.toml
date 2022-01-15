@@ -6,18 +6,18 @@ codename = "lemonkebab"
 id = "pixelextended"
 
 [[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/Abhay.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/Abhay.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
 id = "pixelextended"
 url = "https://sourceforge.net/projects/pixelextended/files/lemonkebab/PixelExtended_lemonkebab-12.0-20211223-0220-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-kebab-lemonades-official-pixel-extended-4-0-01-11-2021.4262851/"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/Abhay.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "pixelplusui"
+active = "active"
+photo = "./assets/images/Abhay.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

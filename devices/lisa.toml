@@ -1,12 +1,12 @@
+brand = "Unknown"
+name = "Xiaomi 11 lite NE 5G (Lisa)"
 codename = "lisa"
-name = "Xiaomi 11 Lite NE"
-brand = "Xiaomi"
+
+[[roms]]
+id = "ancientos"
+photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices_gallery/main/xiaomi_mi_11_lite_5g.png"
 
 [[roms]]
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
 changelog = "- Fix issues related to audio.\r\n- Misc changes."
-
-[[roms]]
-id = "ancientos"
-photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices_gallery/main/xiaomi_mi_11_lite_5g.png"

@@ -1,6 +1,37 @@
-brand = "Xiaomi"
-name = "Xiaomi Redmi Note 8/8T"
+brand = "Unknown"
+name = "Redmi Note 8/8T (Ginkgo/Willow)"
 codename = "ginkgo"
+
+[[roms]]
+id = "ancientos"
+photo = "https://raw.githubusercontent.com/kutemeikito/Ryzen-Script/master/ginkgo.png"
+
+[[roms]]
+id = "arrowos"
+maintainer = "Adithya (ghostrider_reborn)"
+changelog = "- Updated MIUI blobs from V12.5.1.0.RCOMIXM\r\n- Fixed USB OTG detection\r\n- Misc optimizations in kernel"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
+recovery = ""
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/ginkgo/Havoc-OS-v4.12-20211230-ginkgo-Official-GApps.zip"
+maintainer = "Yash Kachave"
+group = "https://t.me/havoc_ginkgo"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Anupam Samanta"
+github = "https://github.com/anupam41"
+donation_link = ""
+photo = "https://avatars.githubusercontent.com/u/61414264?v=4"
 
 [[roms]]
 id = "pixelexperience"
@@ -25,43 +56,6 @@ stable = true
 deprecated = false
 
 [[roms]]
-id = "arrowos"
-maintainer = "Adithya (ghostrider_reborn)"
-changelog = "- Updated MIUI blobs from V12.5.1.0.RCOMIXM\r\n- Fixed USB OTG detection\r\n- Misc optimizations in kernel"
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
-version = "v3.8"
-developer = "TheHitMan"
-
-[[roms]]
-id = "legionos"
-active = true
-maintainer = "Anupam Samanta"
-github = "https://github.com/anupam41"
-donation_link = ""
-photo = "https://avatars.githubusercontent.com/u/61414264?v=4"
-
-[[roms]]
-id = "ancientos"
-photo = "https://raw.githubusercontent.com/kutemeikito/Ryzen-Script/master/ginkgo.png"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/ginkgo/Havoc-OS-v4.12-20211230-ginkgo-Official-GApps.zip"
-maintainer = "Yash Kachave"
-group = "https://t.me/havoc_ginkgo"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
-recovery = ""
-
-[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/Erwin.jpg"
@@ -78,3 +72,9 @@ active = true
 id = "sparkos"
 group = "https://t.me/SparkRN8"
 download = "https://downloads.spark-os.live/ginkgo/Spark-S-Tempest-OFFICIAL-ginkgo-20211225-gapps.zip"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v3.8"
+developer = "TheHitMan"

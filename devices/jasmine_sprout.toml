@@ -1,14 +1,6 @@
-brand = "Xiaomi"
-name = "Xiaomi Mi A2"
 codename = "jasmine_sprout"
-
-[[roms]]
-id = "pixelexperience"
-repostories = ["device_xiaomi_jasmine_sprout","kernel_xiaomi_jasmine_sprout","vendor_xiaomi_jasmine_sprout"]
-
-[[roms.supported_versions]]
-version_code = "eleven"
-deprecated = true
+name = "Mi A2"
+brand = "Xiaomi"
 
 [[roms]]
 id = "arrowos"
@@ -16,13 +8,12 @@ maintainer = "Immanuel_Raj"
 changelog = "Fixed Fingerprint not working issues"
 
 [[roms]]
-id = "dotos"
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/14-May-2021/NikGapps-stock-arm64-11-20210514-signed.zip/download"
+recovery = "https://recovery link"
 
 [[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
-version = "v2.9"
-developer = "rebenok90x"
+id = "dotos"
 
 [[roms]]
 id = "legionos"
@@ -33,9 +24,12 @@ donation_link = "https://paypal.me/immanuelr44?locale.x=en_GB"
 photo = "https://avatars.githubusercontent.com/u/26855364?v=4"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/14-May-2021/NikGapps-stock-arm64-11-20210514-signed.zip/download"
-recovery = "https://recovery link"
+id = "pixelexperience"
+repostories = ["device_xiaomi_jasmine_sprout","kernel_xiaomi_jasmine_sprout","vendor_xiaomi_jasmine_sprout"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+deprecated = true
 
 [[roms]]
 id = "pixelplusui"
@@ -49,3 +43,9 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Marcos Almeida"
 active = false
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v2.9"
+developer = "rebenok90x"

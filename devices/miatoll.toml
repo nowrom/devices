@@ -9,20 +9,23 @@ id = "ancientos"
 id = "pixelextended"
 
 [[roms]]
-id = "pixelexperience"
-repostories = ["device_xiaomi_miatoll","device_xiaomi_sm6250-common","kernel_xiaomi_sm6250","vendor_xiaomi_miatoll","vendor_xiaomi_sm6250-common"]
-
-[[roms.supported_versions]]
-version_code = "twelve"
-deprecated = false
-
-[[roms]]
 id = "arrowos"
 maintainer = "SonalSingh18"
 changelog = "• Upstreamed kernel to 4.14.261\r\n• Switch to AOSP clang 14.0.1\r\n• Adapt sepolicy to Android 12\r\n• Remove enable_advanced_sf_offset prop\r\n• Disable unspecialized app process pool\r\n• Attach vendor_property_type to properties\r\n• Specify vendor_fp_prop as vendor public prop\r\n• Allow ioctl to zram_swap for performance\r\n• Add aux camera packagelist prop to system props\r\n• Update the transcoding operating rate\r\n• Set SSR restart_level in init.qcom.rc\r\n• Label more wakeup nodes\r\n• Label idle_state sysfs nodes\r\n• Made transition animation a bit faster\r\n• Limit screen recorder frame rate to 60fps\r\n• Adjusting screen timeouts\r\n• Dont inherit updatable_apex.mk\r\n• Disable partial FB excl rect\r\n• Disable global mode and CDMA choices\r\n• Show 4G icon for all carriers\r\n• Only make recovery permissive on non production builds\r\n• Remove TxPower2g and 5g from wifi config file\r\n• Disable all wifi related logging\r\n• Fix OTA auto-flashing with encrypted f2fs\r\n• Set media vol steps to 25\r\n• Kill IMS logspam with fire\r\n• Update config_safe_media_volume_index\r\n• Slightly increase the minimum brightness level\r\n• Use FUSE passthrough by default\r\n• Update vendor security patch level\r\n• Switched back to OpenGL as default GPU renderer\r\n• Import and build GPS stack from LA.UM.9.1.r1-11500-SMxxx0.0\r\n• Increase gps batch size to max\r\n• Lower gps debug level\r\n• Localise NTP to improve GPS TTFF"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
+recovery = "https://dl.orangefox.download/60fbd820462e0f766bc300aa"
+
+[[roms]]
 id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/miatoll/Havoc-OS-v4.10-20211026-miatoll-Official-GApps.zip"
+maintainer = "Sairam Majgaonkar"
+group = "https://t.me/havoc_miatollofficial"
 
 [[roms]]
 id = "legionos"
@@ -33,27 +36,23 @@ donation_link = "https://paypal.me/rajkale99"
 photo = "https://avatars.githubusercontent.com/u/26388747?s=400&u=f48e27564a6ee82924472675a33fffd256d740a2&v=4"
 
 [[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/miatoll/Havoc-OS-v4.10-20211026-miatoll-Official-GApps.zip"
-maintainer = "Sairam Majgaonkar"
-group = "https://t.me/havoc_miatollofficial"
+id = "pixelexperience"
+repostories = ["device_xiaomi_miatoll","device_xiaomi_sm6250-common","kernel_xiaomi_sm6250","vendor_xiaomi_miatoll","vendor_xiaomi_sm6250-common"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+deprecated = false
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
-recovery = "https://dl.orangefox.download/60fbd820462e0f766bc300aa"
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/miatoll/PixelExtended_miatoll-12.0-20211219-0951-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-miatoll-19-12-21.4377169/"
 
 [[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/Lop.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "aospextended"
-xda_thread = ""
-maintainer_url = "https://forum.xda-developers.com/member.php?u=7111945"
-maintainer_name = "Sairam (sairam60)"
 
 [[roms]]
 id = "sakura"
@@ -66,8 +65,3 @@ active = false
 id = "sparkos"
 group = "https://t.me/SparkOSMiatoll"
 download = "https://downloads.spark-os.live/miatoll/Spark-S-Tempest-OFFICIAL-miatoll-20211225-gapps.zip"
-
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/miatoll/PixelExtended_miatoll-12.0-20211219-0951-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-miatoll-19-12-21.4377169/"

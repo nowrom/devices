@@ -9,6 +9,25 @@ id = "ancientos"
 id = "pixelextended"
 
 [[roms]]
+id = "arrowos"
+maintainer = "Ratoriku, Hazama25"
+changelog = "WIP"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/"
+recovery = "https://orangefox.download/device/lavender"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/lavender/Havoc-OS-v4.9-20211002-lavender-Official-GApps.zip"
+maintainer = "Crahm Cotnol"
+group = "https://t.me/havoc_lavender"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_lavender","kernel_xiaomi_lavender","vendor_xiaomi_lavender"]
 
@@ -31,29 +50,9 @@ stable = true
 deprecated = false
 
 [[roms]]
-id = "arrowos"
-maintainer = "Ratoriku, Hazama25"
-changelog = "WIP"
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
-version = "v3.8"
-developer = "z3nitsu"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/lavender/Havoc-OS-v4.9-20211002-lavender-Official-GApps.zip"
-maintainer = "Crahm Cotnol"
-group = "https://t.me/havoc_lavender"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://nikgapps.com/"
-recovery = "https://orangefox.download/device/lavender"
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/lavender/PixelExtended_lavender-12.0-20211223-0512-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-12-lavender-01-11-21.4323719/"
 
 [[roms]]
 id = "pixelplusui"
@@ -74,6 +73,7 @@ group = "https://t.me/infernobuilds"
 download = "https://downloads.spark-os.live/lavender/Spark-S-Tempest-OFFICIAL-lavender-20211226-gapps.zip"
 
 [[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/lavender/PixelExtended_lavender-12.0-20211223-0512-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-12-lavender-01-11-21.4323719/"
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v3.8"
+developer = "z3nitsu"

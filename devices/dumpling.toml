@@ -1,6 +1,25 @@
-brand = "OnePlus"
-name = "OnePlus 5T"
 codename = "dumpling"
+name = "ONEPLUS A5010"
+brand = "OnePlus"
+
+[[roms]]
+id = "arrowos"
+maintainer = "Bauuuuu"
+changelog = "- Partial sync with LOS tree\r\n- Misc fixes and upstream changes."
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
+recovery = "https://orangefox.download/device/dumpling"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://sourceforge.net/projects/havoc-os/files/dumpling/Havoc-OS-v3.9-20200928-dumpling-Official-GApps.zip/download"
+maintainer = ""
+group = ""
 
 [[roms]]
 id = "pixelexperience"
@@ -23,22 +42,3 @@ version_code = "twelve"
 stable = true
 xda_thread = "https://forum.xda-developers.com/t/beta-12-0-pixel-experience-12-oneplus-5-5t-dumpling-cheeseburger.4351697/"
 deprecated = false
-
-[[roms]]
-id = "arrowos"
-maintainer = "Bauuuuu"
-changelog = "- Partial sync with LOS tree\r\n- Misc fixes and upstream changes."
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "havocos"
-url = "https://sourceforge.net/projects/havoc-os/files/dumpling/Havoc-OS-v3.9-20200928-dumpling-Official-GApps.zip/download"
-maintainer = ""
-group = ""
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
-recovery = "https://orangefox.download/device/dumpling"

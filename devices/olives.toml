@@ -1,14 +1,6 @@
-brand = "Xiaomi"
-name = "Redmi 8/8A/8A Dual"
+brand = "Unknown"
+name = "Redmi 8/8A/8A Dual (olives)"
 codename = "olives"
-
-[[roms]]
-id = "legionos"
-active = true
-maintainer = "skittels15"
-github = "https://github.com/skittels15"
-donation_link = "https://ko-fi.com/beerdmann"
-photo = "https://avatars.githubusercontent.com/u/50242333?v=4"
 
 [[roms]]
 id = "ancientos"
@@ -18,6 +10,14 @@ photo = "https://raw.githubusercontent.com/skittels15/banners/main/Redmi-8.jpg"
 id = "crdroid"
 gapps = ""
 recovery = "https://t.me/Orel6505_Builds_Discussion/6567"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "skittels15"
+github = "https://github.com/skittels15"
+donation_link = "https://ko-fi.com/beerdmann"
+photo = "https://avatars.githubusercontent.com/u/50242333?v=4"
 
 [[roms]]
 id = "sakura"

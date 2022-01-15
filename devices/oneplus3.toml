@@ -1,6 +1,24 @@
-brand = "OnePlus"
-name = "OnePlus 3/3T"
 codename = "oneplus3"
+name = "OnePlus 3/3T"
+brand = "OnePlus"
+
+[[roms]]
+id = "arrowos"
+maintainer = "Gaurav24"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://opengapps.org/?download=true&arch=arm64&api=11.0&variant=nano"
+recovery = "https://dl.twrp.me/oneplus3/"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/oneplus3/Havoc-OS-v4.12-20211230-oneplus3-Official-GApps.zip"
+maintainer = "Anushek Prasal"
+group = "https://t.me/havoc_oneplus3"
 
 [[roms]]
 id = "pixelexperience"
@@ -23,24 +41,6 @@ version_code = "twelve"
 xda_thread = ""
 stable = false
 deprecated = false
-
-[[roms]]
-id = "arrowos"
-maintainer = "Gaurav24"
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/oneplus3/Havoc-OS-v4.12-20211230-oneplus3-Official-GApps.zip"
-maintainer = "Anushek Prasal"
-group = "https://t.me/havoc_oneplus3"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://opengapps.org/?download=true&arch=arm64&api=11.0&variant=nano"
-recovery = "https://dl.twrp.me/oneplus3/"
 
 [[roms]]
 id = "pixelplusui"

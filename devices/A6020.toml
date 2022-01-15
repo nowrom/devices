@@ -6,8 +6,3 @@ brand = "Lenovo"
 id = "arrowos"
 maintainer = "Adithya R"
 changelog = "- Blacklisted google hotword service to fix mic issues\r\n- Enabled audiosphere effect by default\r\n- Fixed FM radio\r\n- Fixed postprocessing daemon crashes\r\n- Misc changes for infra"
-
-[[roms]]
-id = "aospextended"
-maintainer_url = "https://forum.xda-developers.com/member.php?u=8506258"
-maintainer_name = "Hrutvik Jagtap (hsj51)"

@@ -1,6 +1,20 @@
-brand = "Xiaomi"
-name = "Xiaomi Redmi Note 10"
+brand = "Redmi"
+name = "Redmi Note 10"
 codename = "mojito"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/mojito/Havoc-OS-v4.12-20211230-mojito-Official-GApps.zip"
+maintainer = "Joaquin Guzman"
+group = "https://t.me/havoc_mojito"
 
 [[roms]]
 id = "pixelexperience"
@@ -23,20 +37,6 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-mojito-sunny-pixel-experience-official-aosp.4264285/"
 stable = true
 deprecated = false
-
-[[roms]]
-id = "dotos"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/mojito/Havoc-OS-v4.12-20211230-mojito-Official-GApps.zip"
-maintainer = "Joaquin Guzman"
-group = "https://t.me/havoc_mojito"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
 
 [[roms]]
 id = "pixelplusui"
