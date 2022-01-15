@@ -4,11 +4,11 @@
 
 These roms don't have a public devices.json list or whatever and have to be added manually, or if you find a way to get the json or get the devices another way..
 
-- Lineages
 - xioami.eu
 - nusantararom
 - derpfest
 - Octavi-OS
+- GrapheneOS
 
 ## Manually maintained roms (1)
 
@@ -19,7 +19,7 @@ These roms don't have a public devices.json list or whatever and have to be adde
 - blissrom: https://github.com/BlissRoms-Devices/OTA/blob/master/builds.json
 - curvus os: https://github.com/CorvusRom-Devices/OTA
 
-## Completed roms (14)
+## Completed roms (15)
 
 - Ancientos
 - AOSP Extended
@@ -29,6 +29,7 @@ These roms don't have a public devices.json list or whatever and have to be adde
 - evolution x
 - superior os
 - dotos
+- Lineages
 - HavocOs
 - legionos
 - pixelexperience
