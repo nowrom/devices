@@ -1,0 +1,6 @@
+name = "Realme X2"
+codename = "RMX1992"
+brand = "Realme"
+
+[[roms]]
+id = "ancientos"

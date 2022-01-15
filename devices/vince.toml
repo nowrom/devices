@@ -1,6 +1,9 @@
-codename = "vince"
 name = "Redmi Note 5 / 5 Plus"
+codename = "vince"
 brand = "Xiaomi"
+
+[[roms]]
+id = "ancientos"
 
 [[roms]]
 id = "arrowos"

@@ -1,6 +1,9 @@
-brand = "Xiaomi"
-name = " Redmi 4 (4X)"
+name = "Redmi 4X"
 codename = "santoni"
+brand = "Xioami"
+
+[[roms]]
+id = "ancientos"
 
 [[roms]]
 id = "havocos"

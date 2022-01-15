@@ -1,0 +1,6 @@
+name = "Redmi 4A/5A"
+codename = "rolex"
+brand = "Xioami"
+
+[[roms]]
+id = "ancientos"

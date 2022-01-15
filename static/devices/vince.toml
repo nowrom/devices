@@ -1,0 +1,6 @@
+name = "Redmi 5 Plus"
+codename = "vince"
+brand = "Xioami"
+
+[[roms]]
+id = "ancientos"

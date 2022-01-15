@@ -1,0 +1,6 @@
+name = "Redmi Note 7"
+codename = "lavender"
+brand = "Xioami"
+
+[[roms]]
+id = "ancientos"

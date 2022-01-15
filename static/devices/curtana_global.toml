@@ -1,0 +1,6 @@
+name = "Redmi Note 9 Pro Global"
+codename = "curtana_global"
+brand = "Xioami"
+
+[[roms]]
+id = "ancientos"

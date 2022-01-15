@@ -1,0 +1,6 @@
+name = "Redmi Note 9S , Redmi Note 9 Pro India, Redmi Note 10 Lite, Redmi Note 9 Pro Max India"
+codename = "curtana"
+brand = "Xioami"
+
+[[roms]]
+id = "ancientos"
