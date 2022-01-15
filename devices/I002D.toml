@@ -1,0 +1,9 @@
+brand = "asus"
+name = "Asus Zenfone 7"
+codename = "I002D"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/I002D/Havoc-OS-v4.12-20211225-I002D-Official-GApps.zip"
+maintainer = "Raileanu Cosmin (Comico)"
+group = "https://t.me/havoc_i002d"

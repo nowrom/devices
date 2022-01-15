@@ -7,3 +7,9 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.8"
 developer = "Sagar Rokade"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/kenzo/Havoc-OS-v4.8-20210912-kenzo-Official-GApps.zip"
+maintainer = "Magicxavi"
+group = "https://t.me/havoc_kenzo"

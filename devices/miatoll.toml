@@ -25,3 +25,9 @@ maintainer = "RajKale"
 github = "https://github.com/rajkale99"
 donation_link = "https://paypal.me/rajkale99"
 photo = "https://avatars.githubusercontent.com/u/26388747?s=400&u=f48e27564a6ee82924472675a33fffd256d740a2&v=4"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/miatoll/Havoc-OS-v4.10-20211026-miatoll-Official-GApps.zip"
+maintainer = "Sairam Majgaonkar"
+group = "https://t.me/havoc_miatollofficial"

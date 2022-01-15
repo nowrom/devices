@@ -44,3 +44,9 @@ developer = "DennySPb"
 [[roms]]
 id = "ancientos"
 photo = "https://raw.githubusercontent.com/oghe3003/official_device_xiaomi/main/alioth.png"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/alioth/Havoc-OS-v4.12-20211220-alioth-Official-GApps.zip"
+maintainer = "Sukeerat Singh Goindi"
+group = "https://t.me/havocalioth_in"

@@ -31,3 +31,9 @@ changelog = "Update 4.4.297 Kernel\r\nRevert \"Force triple frame buffers\"\r\ns
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/taimen/Havoc-OS-v4.12-20211221-taimen-Official-GApps.zip"
+maintainer = "Saurabh Jarial"
+group = "https://t.me/havoc_pixel2"

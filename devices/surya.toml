@@ -38,3 +38,9 @@ maintainer = "AmJith_Babu"
 github = "https://github.com/TheMarc43"
 donation_link = "https://paypal.me/TheMarc43"
 photo = "https://avatars.githubusercontent.com/u/49910923?v=4"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/surya/Havoc-OS-v4.12-20211226-surya-Official-GApps.zip"
+maintainer = "Tushar Mahajan"
+group = "https://t.me/havocos_surya"

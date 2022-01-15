@@ -17,3 +17,9 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/oneplus-8/development/rom-pixel-experience-t4168203"
 stable = true
 deprecated = true
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/instantnoodle/Havoc-OS-v4.12-20211224-instantnoodle-Official-GApps.zip"
+maintainer = "Chris Chen"
+group = "https://t.me/havoc_oneplus8"

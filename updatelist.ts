@@ -9,6 +9,7 @@ import {
 	PixelExperience,
 	Syberia,
 	AncientOS,
+	HavocOS,
 } from './lib/mod.ts';
 
 type Data = [PixelExperience[], ArrowOS, DotOS, Legion[], AncientOS[]];
@@ -18,7 +19,7 @@ const [
 	arrowDevices,
 	dotDevices,
 	legionDevices,
-	ancientDevcies,
+	ancientDevices,
 ]: Data = await Promise.all([
 	fetch(
 		'https://github.com/PixelExperience/official_devices/blob/master/devices.json?raw=true'
@@ -175,7 +176,7 @@ legionDevices.forEach((x) => {
 	stored_devices.set(x.codename, device);
 });
 
-ancientDevcies.forEach((x) => {
+ancientDevices.forEach((x) => {
 	const regex = /\((.*?)\)/.exec(x.device_codename);
 	if (regex?.[0]) {
 		const codename = regex[1].split('/')[0].toLowerCase();
@@ -196,6 +197,37 @@ ancientDevcies.forEach((x) => {
 		stored_devices.set(codename, device);
 	}
 });
+
+await Promise.all(
+	[...Deno.readDirSync('./havocota/gapps')]
+		.filter((x) => x.name.endsWith('.json'))
+		.filter((x) => !x.name.includes('_'))
+		.map(async (x) => {
+			try {
+				const file: HavocOS = JSON.parse(
+					await Deno.readTextFile(`./havocota/gapps/${x.name}`)
+				);
+				let device = getDevice(file.codename);
+				device = {
+					...device,
+					brand: device.brand || file.oem,
+					name: device.name || file.name,
+					codename: file.codename,
+					roms: [
+						...device.roms,
+						{
+							id: 'havocos',
+							url: file.url,
+							maintainer: file.maintainer,
+							group: file.group,
+						},
+					],
+				};
+
+				stored_devices.set(file.codename, device);
+			} catch (e) {}
+		})
+);
 
 //Use promise.all cause its much faster
 await Promise.all(

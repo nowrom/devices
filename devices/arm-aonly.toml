@@ -1,0 +1,9 @@
+brand = "GSI"
+name = "ARM-Aonly"
+codename = "arm-aonly"
+
+[[roms]]
+id = "havocos"
+url = "https://sourceforge.net/projects/havoc-os/files/arm-aonly/Havoc-OS-v3.12-20201230-Official-GApps-arm-aonly.img.xz/download"
+maintainer = "EugW"
+group = "https://t.me/havocgsi"

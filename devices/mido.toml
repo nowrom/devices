@@ -37,3 +37,9 @@ developer = "hnaamdev41"
 [[roms]]
 id = "ancientos"
 photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4-sn.jpg"
+
+[[roms]]
+id = "havocos"
+url = "https://sourceforge.net/projects/havoc-os/files/mido/Havoc-OS-v3.9-20200918-mido-Official-GApps.zip/download"
+maintainer = "Sagar Rokade (Sagarrokade006)"
+group = "https://t.me/havoc_mido"

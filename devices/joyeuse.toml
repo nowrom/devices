@@ -1,0 +1,9 @@
+brand = "Xiaomi"
+name = "Xiaomi Redmi Note 9 Pro Global"
+codename = "joyeuse"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/joyeuse/Havoc-OS-v4.8-20210806-joyeuse-Official-GApps.zip"
+maintainer = "Ijak (rizak kamal)"
+group = "https://t.me/Havoc_OS"

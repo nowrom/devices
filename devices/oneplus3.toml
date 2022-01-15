@@ -30,3 +30,9 @@ maintainer = "Gaurav24"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/oneplus3/Havoc-OS-v4.12-20211230-oneplus3-Official-GApps.zip"
+maintainer = "Anushek Prasal"
+group = "https://t.me/havoc_oneplus3"

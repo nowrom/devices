@@ -1,0 +1,9 @@
+brand = "OnePlus"
+name = "OnePlus 9R"
+codename = "lemonades"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/lemonades/Havoc-OS-v4.12-20211224-lemonades-Official-GApps.zip"
+maintainer = "Chandu Dyavanapelli"
+group = "https://t.me/havoc_oneplus8"

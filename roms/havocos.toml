@@ -1,0 +1,7 @@
+[rom]
+name = "HavocOs"
+id = "havocos"
+about = "Havoc-OS is an after-market firmware based on Android Open Source Project, inspired by Google Pixel with a refined Material Design UI. We offer a smooth and stable experience for your device with a selected set of amazing features that provide an exceptional user experience."
+website = "https://havoc-os.com/"
+wiki = "https://forums.havoc-os.com/"
+download = "https://havoc-os.com/download"

@@ -44,3 +44,9 @@ maintainer = "markkey014"
 github = "https://github.com/markkey014"
 donation_link = "https://paypal.me/itsmarkkey"
 photo = "https://avatars.githubusercontent.com/u/16484432?v=4"
+
+[[roms]]
+id = "havocos"
+url = "https://sourceforge.net/projects/havoc-os/files/davinci/Havoc-OS-v3.9-20201002-davinci-Official-GApps.zip/download"
+maintainer = ""
+group = ""

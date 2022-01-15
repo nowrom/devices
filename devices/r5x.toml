@@ -25,3 +25,9 @@ deprecated = false
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
 changelog = "Initial A12 build"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/r5x/Havoc-OS-v4.12-20211223-r5x-Official-GApps.zip"
+maintainer = "Utkarsh Kanojiya"
+group = "https://t.me/havoc_r5x"

@@ -26,3 +26,9 @@ deprecated = false
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/mojito/Havoc-OS-v4.12-20211230-mojito-Official-GApps.zip"
+maintainer = "Joaquin Guzman"
+group = "https://t.me/havoc_mojito"

@@ -12,3 +12,9 @@ maintainer = "ThatisJigen"
 github = "https://github.com/thatisjigen"
 donation_link = "https://paypal.me/thatisjigen"
 photo = "https://avatars.githubusercontent.com/u/55486333"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/RMX1921/Havoc-OS-v4.11-20211116-RMX1921-Official-GApps.zip"
+maintainer = "Probir Ghosh"
+group = "https://t.me/havoc_RMX1921"

@@ -31,3 +31,9 @@ maintainer = "Soumyajit_Paul"
 github = "https://github.com/soumyajit007-creator"
 donation_link = "https://www.paypal.com/paypalme/penetrator007"
 photo = "https://avatars.githubusercontent.com/u/76956886?v=4"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/sakura/Havoc-OS-v4.8-20210805-sakura-Official-GApps.zip"
+maintainer = "Tushar Mahajan (mahajant99)"
+group = "https://t.me/havoc_sakura"

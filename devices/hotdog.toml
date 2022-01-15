@@ -20,3 +20,9 @@ deprecated = true
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/hotdog/Havoc-OS-v4.12-20220104-hotdog-Official-GApps.zip"
+maintainer = "Anushek Prasal"
+group = "https://t.me/havoc_oneplus7"

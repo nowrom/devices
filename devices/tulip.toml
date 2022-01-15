@@ -15,3 +15,9 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.9"
 developer = "Niteshkumar15"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/tulip/Havoc-OS-v4.12-20211227-tulip-Official-GApps.zip"
+maintainer = "Akhil MS"
+group = "https://t.me/havoc_tulip"

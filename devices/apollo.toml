@@ -31,3 +31,9 @@ changelog = "- Many update. Much wow\r\n\r\nUse Arrow Recovery for installation 
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/apollo/Havoc-OS-v4.12-20211222-apollo-Official-GApps.zip"
+maintainer = "Tushar Mahajan"
+group = "https://t.me/havocos_apollo"

@@ -1,0 +1,9 @@
+brand = "GSI"
+name = "A64-AB"
+codename = "a64-ab"
+
+[[roms]]
+id = "havocos"
+url = "https://sourceforge.net/projects/havoc-os/files/a64-ab/Havoc-OS-v3.12-20201230-Official-GApps-a64-ab.img.xz/download"
+maintainer = "EugW"
+group = "https://t.me/havocgsi"

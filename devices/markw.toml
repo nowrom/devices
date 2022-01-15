@@ -1,0 +1,9 @@
+brand = "Xiaomi"
+name = "Xiaomi Redmi 4 Prime"
+codename = "markw"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/markw/Havoc-OS-v4.9-20210929-markw-Official-GApps.zip"
+maintainer = "Shihab"
+group = "https://t.me/havoc_markw"

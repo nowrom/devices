@@ -37,3 +37,9 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.8"
 developer = "z3nitsu"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/lavender/Havoc-OS-v4.9-20211002-lavender-Official-GApps.zip"
+maintainer = "Crahm Cotnol"
+group = "https://t.me/havoc_lavender"

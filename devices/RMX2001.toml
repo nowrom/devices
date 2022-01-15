@@ -4,3 +4,9 @@ codename = "RMX2001"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/RMX2001/Havoc-OS-v4.12-20211226-RMX2001-Official-GApps.zip"
+maintainer = "Nero"
+group = "https://t.me/havoc_RMX2001"

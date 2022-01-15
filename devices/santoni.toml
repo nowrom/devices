@@ -1,0 +1,9 @@
+brand = "Xiaomi"
+name = " Redmi 4 (4X)"
+codename = "santoni"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/santoni/Havoc-OS-v4.12-20211225-santoni-Official-GApps.zip"
+maintainer = "Gabriel Nogueira"
+group = "https://t.me/havoc_santoni"

@@ -6,3 +6,9 @@ brand = "asus"
 id = "arrowos"
 maintainer = "EdwardWu"
 changelog = "Kernel: Merge branch android-4.9-q of https://android.googlesource.com/kernel/common"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/Z01R/Havoc-OS-v4.12-20211230-Z01R-Official-GApps.zip"
+maintainer = "Edward Wu"
+group = "https://t.me/havoc_Z01R"

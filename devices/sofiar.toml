@@ -1,0 +1,9 @@
+brand = "motorola"
+name = "Rav/Sofia-R-P"
+codename = "sofiar"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/sofiar/Havoc-OS-v4.12-20211221-sofiar-Official-GApps.zip"
+maintainer = "ph4n70m"
+group = "https://t.me/+ioAiJwr1DKZiMjJl"

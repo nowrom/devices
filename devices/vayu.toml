@@ -38,3 +38,9 @@ maintainer = "Christian de la Cruz"
 github = "https://github.com/chdelacr"
 donation_link = "https://paypal.me/ChrisdelaC"
 photo = "https://avatars.githubusercontent.com/u/17386344?v=4"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/vayu/Havoc-OS-v4.12-20211226-vayu-Official-GApps.zip"
+maintainer = "Rahul Yadav"
+group = "https://t.me/havocos_vayu"

@@ -8,3 +8,9 @@ maintainer = "TG_DEVICE_MAINTAINER"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/vince/Havoc-OS-v4.12-20211226-vince-Official-GApps.zip"
+maintainer = "Mohammed Adnan"
+group = "https://t.me/havoc_vince"

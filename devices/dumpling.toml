@@ -31,3 +31,9 @@ changelog = "- Partial sync with LOS tree\r\n- Misc fixes and upstream changes."
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://sourceforge.net/projects/havoc-os/files/dumpling/Havoc-OS-v3.9-20200928-dumpling-Official-GApps.zip/download"
+maintainer = ""
+group = ""

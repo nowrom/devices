@@ -57,3 +57,9 @@ maintainer = "AnonHacker47"
 github = "https://github.com/anonhacker47"
 donation_link = ""
 photo = "https://avatars.githubusercontent.com/u/66974833?v=4"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/raphael/Havoc-OS-v4.12-20211231-raphael-Official-GApps.zip"
+maintainer = ""
+group = ""

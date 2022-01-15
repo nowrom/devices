@@ -48,3 +48,9 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v5.1"
 developer = "DennySPb"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/enchilada/Havoc-OS-v4.12-20211222-enchilada-Official-GApps.zip"
+maintainer = "Vikas Yaduvanshi"
+group = "https://t.me/+tNPSDUw3FUJlNDQ1"

@@ -31,3 +31,9 @@ changelog = "- sdm845-common:\r\nUpdate blobs to MIUI polaris V12.5.1.0.QDGCNXM\
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/beryllium/Havoc-OS-v4.12-20220101-beryllium-Official-GApps.zip"
+maintainer = "Havoc-OS CI"
+group = "https://t.me/havoc_beryllium"

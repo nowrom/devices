@@ -34,3 +34,9 @@ id = "dotos"
 [[roms]]
 id = "ancientos"
 photo = "https://telegra.ph/file/d44358afe0fe98893c1f7.png"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/whyred/Havoc-OS-v4.8-20210810-whyred-Official-GApps.zip"
+maintainer = "Ruturaj Kadam (root2raj)"
+group = "https://t.me/Havoc_OS"

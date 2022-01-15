@@ -4,3 +4,9 @@ codename = "toco"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/toco/Havoc-OS-v4.12-20211222-toco-Official-GApps.zip"
+maintainer = "Dennis Murimi"
+group = "https://t.me/+g7OiFv9kK-U5YTA0"

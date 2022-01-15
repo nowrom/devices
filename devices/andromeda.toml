@@ -22,3 +22,9 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/4131417/"
 stable = true
 deprecated = false
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/andromeda/Havoc-OS-v4.12-20211225-andromeda-Official-GApps.zip"
+maintainer = "Nicholas Magill"
+group = "https://t.me/mimix3_5G"

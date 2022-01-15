@@ -1,0 +1,9 @@
+brand = "Nokia"
+name = "Nokia 8"
+codename = "NB1"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/NB1/Havoc-OS-v4.12-20211230-NB1-Official-GApps.zip"
+maintainer = "Edward Wu"
+group = "https://t.me/havoc_NB1"

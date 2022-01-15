@@ -20,3 +20,9 @@ photo = "https://avatars.githubusercontent.com/u/63705885?v=4"
 [[roms]]
 id = "ancientos"
 photo = "https://blogger.googleusercontent.com/img/a/AVvXsEjoDAUaBMZFeqK5qfBmOJq9qit-2FbnruxYoZFnp8GxzpngFQO1QrfUJfoz34CPwWS3KFgNDiUlR5H_E6GZFXV6YMq0kMGZM5wfeZATW_R7ITRbvkrWZONzip2IDjMAq33xCNF1USfLX_6Qek24fcT6_gLE5Kz-K1BmvFyEt3QEpljMx2DHlLmPDbAg"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/juice/Havoc-OS-v4.12-20211223-juice-Official-GApps.zip"
+maintainer = "Joaquin Guzman"
+group = "https://t.me/havoc_juice"

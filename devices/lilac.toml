@@ -1,0 +1,9 @@
+brand = "Sony"
+name = "Sony Xperia XZ1 Compact"
+codename = "lilac"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/lilac/Havoc-OS-v4.12-20211222-lilac-Official-GApps.zip"
+maintainer = "Shashank Verma"
+group = "https://t.me/havoc_lilac"

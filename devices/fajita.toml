@@ -32,3 +32,9 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v5.1"
 developer = "SevralT"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/fajita/Havoc-OS-v4.12-20211226-fajita-Official-GApps.zip"
+maintainer = "Vikas Yaduvanshi"
+group = "https://t.me/+tNPSDUw3FUJlNDQ1"

@@ -1,0 +1,9 @@
+brand = "GSI"
+name = "A64-Aonly"
+codename = "a64-aonly"
+
+[[roms]]
+id = "havocos"
+url = "https://sourceforge.net/projects/havoc-os/files/a64-aonly/Havoc-OS-v3.12-20201230-Official-GApps-a64-aonly.img.xz/download"
+maintainer = "EugW"
+group = "https://t.me/havocgsi"

@@ -49,3 +49,9 @@ photo = "https://avatars.githubusercontent.com/u/61414264?v=4"
 [[roms]]
 id = "ancientos"
 photo = "https://raw.githubusercontent.com/kutemeikito/Ryzen-Script/master/ginkgo.png"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/ginkgo/Havoc-OS-v4.12-20211230-ginkgo-Official-GApps.zip"
+maintainer = "Yash Kachave"
+group = "https://t.me/havoc_ginkgo"
