@@ -1,0 +1,6 @@
+brand = "Realme"
+name = "Realme 5 PRO"
+codename = "RMX1971"
+
+[[roms]]
+id = "pixelextended"

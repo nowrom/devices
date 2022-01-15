@@ -1,0 +1,6 @@
+brand = "Motorola"
+name = "Moto G5 Plus"
+codename = "potter"
+
+[[roms]]
+id = "pixelextended"

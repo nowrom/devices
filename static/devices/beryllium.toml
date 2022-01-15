@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Pocophone F1"
+codename = "beryllium"
+
+[[roms]]
+id = "pixelextended"

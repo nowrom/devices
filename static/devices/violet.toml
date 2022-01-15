@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Redmi Note 7 Pro"
+codename = "violet"
+
+[[roms]]
+id = "pixelextended"

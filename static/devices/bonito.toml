@@ -3,4 +3,7 @@ name = "Pixel 3a XL"
 codename = "bonito"
 
 [[roms]]
-id = "calyxos"
+id = "CalyxOS"
+
+[[roms]]
+id = "pixelextended"

@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Redmi K40 , POCO F3 , Mi 11X"
+codename = "alioth"
+
+[[roms]]
+id = "pixelextended"

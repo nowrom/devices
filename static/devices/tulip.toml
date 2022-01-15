@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Redmi Note 6 Pro"
+codename = "tulip"
+
+[[roms]]
+id = "pixelextended"

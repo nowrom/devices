@@ -3,4 +3,7 @@ name = "Xiaomi Mi A2"
 codename = "jasmine"
 
 [[roms]]
-id = "calyxos"
+id = "CalyxOS"
+
+[[roms]]
+id = "pixelextended"

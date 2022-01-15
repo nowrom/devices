@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Mi 6X"
+codename = "wayne"
+
+[[roms]]
+id = "pixelextended"

@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Redmi 7A"
+codename = "phoenix"
+
+[[roms]]
+id = "pixelextended"

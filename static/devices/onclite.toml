@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Redmi 7"
+codename = "onclite"
+
+[[roms]]
+id = "pixelextended"

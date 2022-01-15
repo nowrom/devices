@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Redmi 8a Dual"
+codename = "olivewood"
+
+[[roms]]
+id = "pixelextended"

@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Poco X3 PRO"
+codename = "vayu"
+
+[[roms]]
+id = "pixelextended"

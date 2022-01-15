@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Redmi 5"
+codename = "Rosy"
+
+[[roms]]
+id = "pixelextended"

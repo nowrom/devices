@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Redmi Note 4X"
+codename = "mido"
+
+[[roms]]
+id = "pixelextended"

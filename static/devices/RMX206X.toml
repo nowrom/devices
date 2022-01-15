@@ -1,0 +1,6 @@
+brand = "Realme"
+name = "Realme 6 PRO"
+codename = "toco"
+
+[[roms]]
+id = "pixelextended"

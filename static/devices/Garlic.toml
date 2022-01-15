@@ -1,0 +1,6 @@
+brand = "Unknown"
+name = "Unknown"
+codename = "Garlic"
+
+[[roms]]
+id = "pixelextended"
