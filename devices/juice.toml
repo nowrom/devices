@@ -43,3 +43,8 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/john.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/UmaruchanSupport"
+download = "https://downloads.spark-os.live/juice/Spark-S-Tempest-OFFICIAL-juice-20211226.zip"

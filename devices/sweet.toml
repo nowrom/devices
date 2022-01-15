@@ -46,3 +46,7 @@ id = "pixelplusui"
 active = "active"
 photo = "./assets/images/zaid.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/Spark_sweet"

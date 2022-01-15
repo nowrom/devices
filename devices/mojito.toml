@@ -50,3 +50,8 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-mojito-sunny-project-sak
 maintainer_url = "https://forum.xda-developers.com/m/dsashwin.11355545/"
 maintainer_name = "Ashwin DS"
 active = true
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/rn10potato"
+download = "https://downloads.spark-os.live/mojito/Spark-S-Tempest-OFFICIAL-mojito-20211224-gapps.zip"

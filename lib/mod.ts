@@ -9,3 +9,4 @@ export * from './crdroid.ts';
 export * from './ppui.ts';
 export * from './aospextended.ts';
 export * from './sakura.ts';
+export * from './spark.ts';

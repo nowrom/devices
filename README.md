@@ -27,6 +27,7 @@ you will need deno installed and you will have to clone the syberia devices repo
 git clone https://github.com/syberia-project/official_devices
 git clone https://github.com/Havoc-OS/OTA havocota
 git clone https://github.com/crdroidandroid/android_vendor_crDroidOTA
+git clone https://github.com/Spark-Devices/OTA sparkota
 ```
 
 make changes to updatelist.ts and commit done 🚀

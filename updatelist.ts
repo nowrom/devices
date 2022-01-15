@@ -14,6 +14,7 @@ import {
 	Ppui,
 	AospExtended,
 	Sakura,
+	Spark,
 } from './lib/mod.ts';
 
 type Data = [
@@ -334,6 +335,35 @@ sakuraDevices.forEach((x) => {
 	};
 	stored_devices.set(x.codename, device);
 });
+
+await Promise.all(
+	[...Deno.readDirSync('./sparkota')]
+		.filter((x) => x.name.endsWith('.json'))
+		.map(async (x) => {
+			const file: Spark = JSON.parse(
+				await Deno.readTextFile(`./sparkota/${x.name}`)
+			);
+
+			const codename = x.name.split('.')[0];
+			let device = getDevice(codename);
+			device = {
+				...device,
+				brand: device.brand || 'Unknown',
+				name: device.name || file.name,
+				codename: codename,
+				roms: [
+					...device.roms,
+					{
+						id: 'sparkos',
+						group: file.group,
+						download: file.url,
+					},
+				],
+			};
+
+			stored_devices.set(codename, device);
+		})
+);
 
 //Use promise.all cause its much faster
 await Promise.all(

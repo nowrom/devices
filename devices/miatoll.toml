@@ -58,3 +58,8 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "A9ito"
 active = false
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/SparkOSMiatoll"
+download = "https://downloads.spark-os.live/miatoll/Spark-S-Tempest-OFFICIAL-miatoll-20211225-gapps.zip"

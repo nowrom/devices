@@ -54,3 +54,8 @@ id = "pixelplusui"
 active = "active"
 photo = "./assets/images/smokey_avatar.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/SparkOS_mido_official"
+download = "https://downloads.spark-os.live/mido/Spark-S-Tempest-Official-mido-20220103-gapps.zip"

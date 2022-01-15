@@ -1,0 +1,8 @@
+brand = "Unknown"
+name = "Lenovo Z6 Pro"
+codename = "zippo"
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/SparkOSCommunity"
+download = "https://downloads.spark-os.live/zippo/Spark-S-Tempest-OFFICIAL-zippo-20211225-gapps.zip"

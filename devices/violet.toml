@@ -74,3 +74,8 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "SpicyDoughnut"
 active = true
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/sparkosviolet"
+download = "https://downloads.spark-os.live/violet/Spark-S-Tempest-OFFICIAL-violet-20211229.zip"

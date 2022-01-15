@@ -66,3 +66,8 @@ xda_thread = ""
 maintainer_url = "https://forum.xda-developers.com/m/kunal-facebook.11415481/"
 maintainer_name = "Kunal"
 active = false
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/redcliffbuilds"
+download = "https://downloads.spark-os.live/phoenix/Spark-S-Tempest-OFFICIAL-phoenix-20211226-gapps.zip"

@@ -60,3 +60,8 @@ id = "aospextended"
 xda_thread = ""
 maintainer_url = "https://forum.xda-developers.com/member.php?u=6268432"
 maintainer_name = "Shiva Teja(shivatejapeddi)"
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/resist15_beryllium"
+download = "https://downloads.spark-os.live/beryllium/Spark-S-Tempest-OFFICIAL-beryllium-20211228.zip"

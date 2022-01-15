@@ -64,3 +64,8 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "AlissonGrizotti"
 active = false
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/infernobuilds"
+download = "https://downloads.spark-os.live/lavender/Spark-S-Tempest-OFFICIAL-lavender-20211226-gapps.zip"

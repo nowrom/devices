@@ -44,3 +44,8 @@ id = "pixelplusui"
 active = "active"
 photo = "./assets/images/Mehdi.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/tribual_mi9"
+download = "https://downloads.spark-os.live/cepheus/Spark-S-Tempest-OFFICIAL-cepheus-20211226.zip"

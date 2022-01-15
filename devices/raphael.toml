@@ -80,3 +80,8 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/AgentRR.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/area51k20p"
+download = "https://downloads.spark-os.live/raphael/Spark-S-Tempest-Official-raphael-20211225.zip"

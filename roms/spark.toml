@@ -1,0 +1,7 @@
+[rom]
+name = "SpakOs"
+id = "sparkos"
+about = "AOSP based rom with customization focused on stability and most of all smoothness."
+website = "https://www.spark-os.live/"
+wiki = "https://www.spark-os.live/#support"
+download = "https://downloads.spark-os.live/"

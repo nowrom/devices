@@ -62,3 +62,8 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Gabriel"
 active = false
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/spkal01hub"
+download = "https://downloads.spark-os.live/davinci/Spark-S-Tempest-official-davinci-20211224.zip"

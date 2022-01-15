@@ -44,3 +44,8 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "abhixv"
 active = true
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/Uchiha_Clan_Begonia"
+download = "https://downloads.spark-os.live/begonia/Spark-S-Tempest-OFFICIAL-begonia-20211226-gapps.zip"

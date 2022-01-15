@@ -61,3 +61,8 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/Ivan.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "sparkos"
+group = "t.me/spsalioth"
+download = "https://downloads.spark-os.live/alioth/Spark-S-Tempest-Official-alioth-20220113.zip"

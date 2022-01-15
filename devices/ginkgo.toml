@@ -73,3 +73,8 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-for-redmi
 maintainer_url = "https://forum.xda-developers.com/m/dsashwin.11355545/"
 maintainer_name = "Ashwin DS"
 active = true
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/SparkRN8"
+download = "https://downloads.spark-os.live/ginkgo/Spark-S-Tempest-OFFICIAL-ginkgo-20211225-gapps.zip"
