@@ -1,0 +1,6 @@
+brand = "Google"
+name = "Pixel 3 XL"
+codename = "Crosshatch"
+
+[[roms]]
+id = "CalyxOS"

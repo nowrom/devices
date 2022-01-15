@@ -1,0 +1,6 @@
+brand = "Google"
+name = "Pixel 4a"
+codename = "sunfish"
+
+[[roms]]
+id = "CalyxOS"

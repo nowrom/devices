@@ -1,0 +1,6 @@
+brand = "Google"
+name = "Pixel 6"
+codename = "Oriole"
+
+[[roms]]
+id = "CalyxOS"
