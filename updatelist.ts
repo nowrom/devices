@@ -365,7 +365,6 @@ await Promise.all(
 		})
 );
 
-//Use promise.all cause its much faster
 await Promise.all(
 	[...stored_devices.values()].map((x) => {
 		return Deno.writeTextFile(`devices/${x.codename}.toml`, stringify(x));
