@@ -11,6 +11,9 @@ id = "arrowos"
 maintainer = "RemyL"
 
 [[roms]]
+id = "cherishos"
+
+[[roms]]
 id = "crdroid"
 gapps = ""
 recovery = ""
@@ -59,6 +62,9 @@ active = false
 id = "sparkos"
 group = "https://t.me/spkal01hub"
 download = "https://downloads.spark-os.live/davinci/Spark-S-Tempest-official-davinci-20211224.zip"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "syberia"

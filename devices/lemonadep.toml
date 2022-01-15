@@ -19,3 +19,6 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-2-lemon
 maintainer_url = "https://forum.xda-developers.com/m/erad1.3262342/"
 maintainer_name = "Eduardo"
 active = true
+
+[[roms]]
+id = "evolutionx"

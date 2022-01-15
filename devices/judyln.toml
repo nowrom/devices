@@ -1,0 +1,6 @@
+brand = "LG"
+name = "G7 ThinQ"
+codename = "judyln"
+
+[[roms]]
+id = "evolutionx"

@@ -7,6 +7,9 @@ id = "ancientos"
 photo = "http://i01.appmifile.com/webfile/globalimg/products/pc/mi-a3/specs2.png"
 
 [[roms]]
+id = "cherishos"
+
+[[roms]]
 id = "crdroid"
 gapps = "https://nikgapps.com"
 recovery = ""
@@ -16,6 +19,9 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/H3M3L.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "syberia"

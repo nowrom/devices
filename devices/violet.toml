@@ -11,6 +11,9 @@ maintainer = "Aftab Ashrafi"
 changelog = "Lawnchair"
 
 [[roms]]
+id = "cherishos"
+
+[[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
 recovery = "https://orangefox.download/device/violet"
@@ -76,3 +79,6 @@ active = true
 id = "sparkos"
 group = "https://t.me/sparkosviolet"
 download = "https://downloads.spark-os.live/violet/Spark-S-Tempest-OFFICIAL-violet-20211229.zip"
+
+[[roms]]
+id = "evolutionx"

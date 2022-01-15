@@ -8,6 +8,12 @@ maintainer = "ChaptSand"
 changelog = "Firmware and vendor require lastest MIUI Stable V12.2.10\r\n\r\n- Show FOD Animation settings\r\n- Update WifiOverlay and TetheringOverlay\r\n- wifi: Enable QPower and Deep sleep together\r\n- Remove extra GBoard spacing\r\n- Update CarrierConfig overlays\r\n- More comfortable rounded corners"
 
 [[roms]]
+id = "cherishos"
+
+[[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
 recovery = "https://forum.xda-developers.com/t/recovery-3-5-1-unofficial-twrp-xiaomi-mi-10-umi.4241705/"
+
+[[roms]]
+id = "evolutionx"

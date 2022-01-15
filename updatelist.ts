@@ -6,8 +6,10 @@ import {
 	ancientOs,
 	aospExtended,
 	arrowOs,
+	cherishos,
 	crdroid,
 	dotos,
+	evolutionx,
 	havocos,
 	legion,
 	pixelexperience,
@@ -45,8 +47,10 @@ await Promise.all(
 await run(ancientOs);
 await run(aospExtended);
 await run(arrowOs);
+await run(cherishos);
 await run(crdroid);
 await run(dotos);
+await run(evolutionx);
 await run(havocos);
 await run(legion);
 await run(pixelexperience);
@@ -54,6 +58,7 @@ await run(pixelextended);
 await run(pixelUI);
 await run(sakura);
 await run(spark);
+await run(evolutionx);
 await run(syberia);
 
 await Promise.all(

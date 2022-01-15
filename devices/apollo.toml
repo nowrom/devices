@@ -55,3 +55,6 @@ id = "pixelplusui"
 active = "active"
 photo = "./assets/images/Hamza.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "evolutionx"

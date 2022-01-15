@@ -1,6 +1,9 @@
-brand = "Realme Devices"
+brand = "realme"
 name = "Realme U1"
 codename = "RMX1831"
+
+[[roms]]
+id = "cherishos"
 
 [[roms]]
 id = "pixelplusui"

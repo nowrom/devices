@@ -37,3 +37,6 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/Sena.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "evolutionx"

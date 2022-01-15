@@ -12,3 +12,6 @@ id = "havocos"
 url = "https://download.havoc-os.com/lemonade/Havoc-OS-v4.12-20211224-lemonade-Official-GApps.zip"
 maintainer = "eduardo"
 group = "https://t.me/havoc_oneplus9"
+
+[[roms]]
+id = "evolutionx"

@@ -14,6 +14,9 @@ maintainer = "Ratoriku, Hazama25"
 changelog = "WIP"
 
 [[roms]]
+id = "cherishos"
+
+[[roms]]
 id = "crdroid"
 gapps = "https://nikgapps.com/"
 recovery = "https://orangefox.download/device/lavender"
@@ -71,6 +74,9 @@ active = false
 id = "sparkos"
 group = "https://t.me/infernobuilds"
 download = "https://downloads.spark-os.live/lavender/Spark-S-Tempest-OFFICIAL-lavender-20211226-gapps.zip"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "syberia"

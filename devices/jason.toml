@@ -1,6 +1,9 @@
-brand = "Xiaomi"
-name = "Mi Note 3"
+brand = "xiaomi"
+name = "Xiaomi Mi  Note 3"
 codename = "jason"
+
+[[roms]]
+id = "cherishos"
 
 [[roms]]
 id = "crdroid"

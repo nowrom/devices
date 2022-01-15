@@ -11,6 +11,9 @@ maintainer = "IceBreaker2451"
 changelog = "- Testing with 4.4 kernel, clean flash is mandatory."
 
 [[roms]]
+id = "cherishos"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -29,6 +32,9 @@ guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/gui
 id = "sparkos"
 group = "https://t.me/spark_tulip"
 download = "https://downloads.spark-os.live/tulip/Spark-S-Tempest-OFFICIAL-tulip-20211228.zip"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "syberia"

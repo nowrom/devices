@@ -6,6 +6,9 @@ codename = "fajita"
 id = "pixelextended"
 
 [[roms]]
+id = "cherishos"
+
+[[roms]]
 id = "crdroid"
 gapps = ""
 recovery = "https://dl.twrp.me/fajita/"
@@ -34,6 +37,9 @@ version_code = "eleven_plus"
 stable = true
 xda_thread = "https://forum.xda-developers.com/t/rom-11-fajita-pixelexperience-aosp-official.4266611/"
 deprecated = true
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "syberia"

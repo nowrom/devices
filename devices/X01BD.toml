@@ -7,6 +7,9 @@ id = "arrowos"
 maintainer = "SonalSingh"
 
 [[roms]]
+id = "cherishos"
+
+[[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
 recovery = ""

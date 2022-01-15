@@ -62,3 +62,6 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Agus"
 active = true
+
+[[roms]]
+id = "evolutionx"

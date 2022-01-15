@@ -8,6 +8,9 @@ maintainer = "EdwardWu"
 changelog = "Kernel: Merge branch android-4.9-q of https://android.googlesource.com/kernel/common"
 
 [[roms]]
+id = "cherishos"
+
+[[roms]]
 id = "crdroid"
 gapps = "https://t.me/WeebGAppsChannel"
 recovery = "https://dl.twrp.me/Z01RD/twrp-installer-3.5.2_9-0-Z01RD.zip"
@@ -17,3 +20,6 @@ id = "havocos"
 url = "https://download.havoc-os.com/Z01R/Havoc-OS-v4.12-20211230-Z01R-Official-GApps.zip"
 maintainer = "Edward Wu"
 group = "https://t.me/havoc_Z01R"
+
+[[roms]]
+id = "evolutionx"

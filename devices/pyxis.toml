@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Mi 9 Lite"
+codename = "pyxis"
+
+[[roms]]
+id = "evolutionx"

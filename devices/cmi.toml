@@ -6,3 +6,6 @@ brand = "Xiaomi"
 id = "arrowos"
 maintainer = "ChaptSand"
 changelog = "! ! ! Firmware and vendor require update to V12.2.4.0.RJACNXM.\r\n\r\n- Show FOD Animation settings\r\n- Update WifiOverlay and TetheringOverlay\r\n- wifi: Enable QPower and Deep sleep together\r\n- Remove extra GBoard spacing\r\n- Update CarrierConfig overlays\r\n- More comfortable rounded corners"
+
+[[roms]]
+id = "evolutionx"

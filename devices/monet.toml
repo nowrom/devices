@@ -16,3 +16,6 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-monet-pixelexperience-aosp-official.4378865/"
 stable = true
 deprecated = false
+
+[[roms]]
+id = "evolutionx"

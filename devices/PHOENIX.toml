@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Poco X2"
+codename = "PHOENIX"
+
+[[roms]]
+id = "cherishos"

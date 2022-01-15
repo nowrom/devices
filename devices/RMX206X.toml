@@ -1,0 +1,6 @@
+brand = "Realme"
+name = "Realme 6 Pro"
+codename = "RMX206X"
+
+[[roms]]
+id = "evolutionx"

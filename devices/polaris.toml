@@ -33,3 +33,6 @@ version_code = "twelve"
 stable = true
 xda_thread = "https://forum.xda-developers.com/t/4038949/"
 deprecated = false
+
+[[roms]]
+id = "evolutionx"

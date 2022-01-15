@@ -1,6 +1,9 @@
-brand = "Redmi"
+brand = "Xiaomi"
 name = "Redmi 7A"
 codename = "pine"
+
+[[roms]]
+id = "cherishos"
 
 [[roms]]
 id = "crdroid"

@@ -28,3 +28,6 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/oneplus-8-pro/development/rom-pixel-experience-t4166993"
 stable = true
 deprecated = true
+
+[[roms]]
+id = "evolutionx"

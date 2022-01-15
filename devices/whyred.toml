@@ -15,6 +15,9 @@ maintainer = "Sreekanth"
 changelog = "• Added lawnchair launcher as default\r\n• Fixup status bar padding issues on the lock screen\r\n• Fixup USB-C audio\r\n• Update CarrierSettings from sunfish SQ1A.211205.008\r\n• Switch overlays from build time to RRO\r\n• Copy DispSync offsets from cmi\r\n• Drop surface flinger vsync phase offsets\r\n• Switch to SF phase offsets from redfin\r\n• Sync durations props with raven\r\n• Sync idle/touch timer to raven\r\n• Drop unnecessary fqnames from manifests\r\n• Clean up and uprev fp HAL to 2.3\r\n• Upstream wireguard to 1.0.20211208 snapshot\r\n• Merge Linux version 4.14.258 into the kernel \r\n• Misc changes"
 
 [[roms]]
+id = "cherishos"
+
+[[roms]]
 id = "crdroid"
 gapps = "https://bit.ly/2IPxrpg"
 recovery = ""
@@ -61,3 +64,6 @@ xda_thread = "https://forum.xda-developers.com/t/rom-eleven-project-sakura-for-x
 maintainer_url = "https://forum.xda-developers.com/m/darkstar085.6698785/"
 maintainer_name = "Sipun Ku Mahanta"
 active = true
+
+[[roms]]
+id = "evolutionx"

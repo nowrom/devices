@@ -12,6 +12,9 @@ maintainer = "Adithya (ghostrider_reborn)"
 changelog = "- Updated MIUI blobs from V12.5.1.0.RCOMIXM\r\n- Fixed USB OTG detection\r\n- Misc optimizations in kernel"
 
 [[roms]]
+id = "cherishos"
+
+[[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
 recovery = ""
@@ -72,6 +75,9 @@ active = true
 id = "sparkos"
 group = "https://t.me/SparkRN8"
 download = "https://downloads.spark-os.live/ginkgo/Spark-S-Tempest-OFFICIAL-ginkgo-20211225-gapps.zip"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "syberia"

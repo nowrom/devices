@@ -1,0 +1,6 @@
+brand = "sony"
+name = "Sony Xperia Z1"
+codename = "honami"
+
+[[roms]]
+id = "cherishos"

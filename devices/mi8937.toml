@@ -1,6 +1,9 @@
-brand = "Redmi"
-name = "MI8937"
+brand = "Xiaomi"
+name = "Redmi 3S/3X/4A/4X/5A/Note5A/Y1"
 codename = "mi8937"
+
+[[roms]]
+id = "cherishos"
 
 [[roms]]
 id = "crdroid"

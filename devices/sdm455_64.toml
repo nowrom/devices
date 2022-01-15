@@ -1,0 +1,6 @@
+brand = "Qualcomm"
+name = "SDM455 QRD"
+codename = "sdm455_64"
+
+[[roms]]
+id = "cherishos"

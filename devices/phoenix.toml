@@ -79,3 +79,6 @@ active = false
 id = "sparkos"
 group = "https://t.me/redcliffbuilds"
 download = "https://downloads.spark-os.live/phoenix/Spark-S-Tempest-OFFICIAL-phoenix-20211226-gapps.zip"
+
+[[roms]]
+id = "evolutionx"
