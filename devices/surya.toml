@@ -26,7 +26,7 @@ deprecated = false
 [[roms]]
 id = "arrowos"
 maintainer = "Ganesh Varma, palaych"
-changelog = "- Fixed libcameraservice\r\n- Switch GCamGOPrebuilt\r\n\r\nNote: Clean flash mandatory."
+changelog = "- rootdir: Start mi_thermald on boot\r\n- rootdir: Drop vendor.thermal-engine\r\n- overlay: Limit screen recorder to 90fps\r\n- overlay: Define OEM fast charge sysfs node\r\n- Build with AOSP Clang 14.0.0 (r437112)\r\n- sepolicy: Allow XiaomiParts find sensorservice\r\n- sepolicy: Address denials\r\n- props: Disable debug.sf.enable_hwc_vds\r\n- Build missing NFC packages\r\n- Update blobs to MIUI V12.5.4.0.RJGMIXM\r\n- props: Turn on GPU protected contents\r\n- props: Enable back GL backpressure\r\n- props: Disable partial FB excl rect\r\n- props: dont latch unsignal buffers \r\n- rootdir: Remove IO read_ahead_kb tune \r\n- rro_overlays: Move to vendor\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11)</b>."
 
 [[roms]]
 id = "dotos"

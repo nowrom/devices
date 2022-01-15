@@ -3,4 +3,4 @@ name = "Pixel 3a"
 codename = "sargo"
 
 [[roms]]
-id = "CalyxOS"
+id = "calyxos"
