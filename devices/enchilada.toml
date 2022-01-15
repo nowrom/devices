@@ -59,3 +59,9 @@ group = "https://t.me/+tNPSDUw3FUJlNDQ1"
 id = "crdroid"
 gapps = ""
 recovery = "https://dl.twrp.me/enchilada/"
+
+[[roms]]
+id = "aospextended"
+xda_thread = "https://forum.xda-developers.com/oneplus-6/development/rom-aospextended-rom-v7-2-t4099491"
+maintainer_url = "https://forum.xda-developers.com/member.php?u=5614198"
+maintainer_name = "Raj Jadeja (raj_jdja)"

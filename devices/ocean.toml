@@ -28,3 +28,9 @@ id = "havocos"
 url = "https://download.havoc-os.com/ocean/Havoc-OS-v4.12-20211227-ocean-Official-GApps.zip"
 maintainer = "Andrew Hexen"
 group = "https://t.me/havoc_ocean"
+
+[[roms]]
+id = "aospextended"
+xda_thread = "https://forum.xda-developers.com/g7-power/development/rom-aospextended-rom-v7-1-moto-g7-power-t4086835"
+maintainer_url = "https://forum.xda-developers.com/member.php?u=4064345"
+maintainer_name = "Barry Allen (@F1a5H)"

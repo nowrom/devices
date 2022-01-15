@@ -7,3 +7,4 @@ export * from './ancientos.ts';
 export * from './havocos.ts';
 export * from './crdroid.ts';
 export * from './ppui.ts';
+export * from './aospextended.ts';

@@ -28,3 +28,9 @@ group = "https://t.me/havoc_daisy"
 id = "crdroid"
 gapps = "https://flamegapps.github.io/"
 recovery = "https://github.com/TWRP-Mi-A2-Lite/twrp_device_xiaomi_daisy/releases"
+
+[[roms]]
+id = "aospextended"
+xda_thread = "https://forum.xda-developers.com/mi-a2-lite/development/rom-aospextended-rom-v7-0-t4051329"
+maintainer_url = "https://forum.xda-developers.com/member.php?u=5583941"
+maintainer_name = "acras"

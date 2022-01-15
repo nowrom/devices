@@ -43,3 +43,15 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/MarvelMathesh.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "aospextended"
+xda_thread = "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-aospextended-rom-v6-2-t3890891"
+maintainer_url = "https://forum.xda-developers.com/member.php?u=7111945"
+maintainer_name = "Sairam (sairam60)"
+
+[[roms]]
+id = "aospextended"
+xda_thread = "https://forum.xda-developers.com/t/rom-10-0-0_r40-treble-official-aospextended-rom-v7-3-oms-dui-20-11-2020.3890891/"
+maintainer_url = "https://forum.xda-developers.com/member.php?u=7111945"
+maintainer_name = "Sairam (Sairam60)"

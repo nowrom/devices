@@ -12,9 +12,18 @@ import {
 	HavocOS,
 	Crdroid,
 	Ppui,
+	AospExtended,
 } from './lib/mod.ts';
 
-type Data = [PixelExperience[], ArrowOS, DotOS, Legion[], AncientOS[], Ppui[]];
+type Data = [
+	PixelExperience[],
+	ArrowOS,
+	DotOS,
+	Legion[],
+	AncientOS[],
+	Ppui[],
+	[AospExtended[], AospExtended[]]
+];
 
 const [
 	pixelDevices,
@@ -23,6 +32,7 @@ const [
 	legionDevices,
 	ancientDevices,
 	pixelUIDevices,
+	aospExtendedDevices,
 ]: Data = await Promise.all([
 	fetch(
 		'https://github.com/PixelExperience/official_devices/blob/master/devices.json?raw=true'
@@ -40,6 +50,16 @@ const [
 		'https://github.com/ancient-devices/releases/blob/main/website_api.json?raw=true'
 	).then((r) => r.json()),
 	fetch('https://ppui.site/assets/json/download.json').then((r) => r.json()),
+	(async () => {
+		return [
+			await fetch('https://api.aospextended.com/devices/filtered/q').then((r) =>
+				r.json()
+			),
+			await fetch('https://api.aospextended.com/devices/filtered/r').then((r) =>
+				r.json()
+			),
+		];
+	})(),
 ]);
 
 const stored_devices = new Map();
@@ -266,6 +286,26 @@ pixelUIDevices.forEach((xy) => {
 		};
 		stored_devices.set(codename, device);
 	});
+});
+
+[...aospExtendedDevices[0], ...aospExtendedDevices[1]].forEach((x) => {
+	let device = getDevice(x.codename);
+	device = {
+		...device,
+		brand: device.brand || x.brand,
+		name: device.name || x.name,
+		codename: x.codename,
+		roms: [
+			...device.roms,
+			{
+				id: 'aospextended',
+				xda_thread: x.xda_thread,
+				maintainer_url: x.maintainer_url,
+				maintainer_name: x.maintainer_name,
+			},
+		],
+	};
+	stored_devices.set(x.codename, device);
 });
 
 //Use promise.all cause its much faster

@@ -48,3 +48,15 @@ id = "pixelplusui"
 active = "active"
 photo = "./assets/images/david.png"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "aospextended"
+xda_thread = "https://forum.xda-developers.com/poco-f1/development/rom-t4044579"
+maintainer_url = "https://forum.xda-developers.com/member.php?u=6268432"
+maintainer_name = "Shiva Teja(shivatejapeddi)"
+
+[[roms]]
+id = "aospextended"
+xda_thread = ""
+maintainer_url = "https://forum.xda-developers.com/member.php?u=6268432"
+maintainer_name = "Shiva Teja(shivatejapeddi)"

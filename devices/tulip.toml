@@ -27,3 +27,9 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/Mustafa.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "aospextended"
+xda_thread = "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-aospextended-rom-v6-4-t3912527"
+maintainer_url = "https://forum.xda-developers.com/member.php?u=6094651"
+maintainer_name = "Naomi Calabretta (AryToNeX)"

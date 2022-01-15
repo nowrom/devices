@@ -51,3 +51,15 @@ id = "pixelplusui"
 active = "active"
 photo = "./assets/images/rishav.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "aospextended"
+xda_thread = "https://forum.xda-developers.com/t/rom-10-0-0_r40-whyred-aospextended-rom-v7-3-official-18-07-2020.3974935"
+maintainer_url = "https://forum.xda-developers.com/m/sakilmondal.6151980"
+maintainer_name = "SakilMondal"
+
+[[roms]]
+id = "aospextended"
+xda_thread = ""
+maintainer_url = "https://forum.xda-developers.com/m/sakilmondal.6151980"
+maintainer_name = "SakilMondal"

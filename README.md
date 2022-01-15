@@ -11,6 +11,11 @@ These roms don't have a public devices.json list or whatever and have to be adde
 - curvus os
 - Cherish: https://downloads.cherishos.com/js/script.js
 - xioami.eu
+- nusantararom
+- blissrom: https://github.com/BlissRoms-Devices/OTA/blob/master/builds.json
+- derpfest
+- Octavi-OS
+- pixelextended
 
 ## Contributing
 

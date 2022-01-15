@@ -36,3 +36,9 @@ group = "https://t.me/havoc_oneplus7"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R"
 recovery = "https://twrp.me/oneplus/oneplus7pro.html"
+
+[[roms]]
+id = "aospextended"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-0-0_r38-aospextended-rom-v8-3-official-14th-june.4292117/"
+maintainer_url = "https://forum.xda-developers.com/m/ishubhamsingh.5566914/"
+maintainer_name = "Shubham Singh(ishubhamsingh)"

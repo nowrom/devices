@@ -35,3 +35,9 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/maintainer_avatar.png"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "aospextended"
+xda_thread = "https://forum.xda-developers.com/redmi-5/development/aospextended-7-t4053067"
+maintainer_url = "https://forum.xda-developers.com/member.php?u=8298415"
+maintainer_name = "Kelvin [xDoge]"
