@@ -1,0 +1,6 @@
+brand = "Google"
+name = "Pixel 5"
+codename = "redfin"
+
+[[roms]]
+id = "CalyxOS"

@@ -1,0 +1,6 @@
+brand = "Google"
+name = "Pixel 3"
+codename = "Blueline"
+
+[[roms]]
+id = "CalyxOS"

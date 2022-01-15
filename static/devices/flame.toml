@@ -1,0 +1,6 @@
+brand = "Google"
+name = "Pixel 4"
+codename = "flame"
+
+[[roms]]
+id = "CalyxOS"

@@ -1,0 +1,6 @@
+brand = "Google"
+name = "Pixel 2 XL"
+codename = "Taimen"
+
+[[roms]]
+id = "CalyxOS"

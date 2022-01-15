@@ -1,0 +1,6 @@
+brand = "Google"
+name = "Pixel 4 XL"
+codename = "coral"
+
+[[roms]]
+id = "CalyxOS"

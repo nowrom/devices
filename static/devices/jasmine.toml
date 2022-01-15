@@ -1,0 +1,6 @@
+brand = "Xiaomi"
+name = "Xiaomi Mi A2"
+codename = "jasmine"
+
+[[roms]]
+id = "CalyxOS"
