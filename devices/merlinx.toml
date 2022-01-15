@@ -13,3 +13,8 @@ deprecated = false
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://telegra.ph/Gapps-Download-Link-10-11"
+recovery = "https://telegra.ph/Recovery-Download-09-11"

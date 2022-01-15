@@ -5,3 +5,4 @@ export * from './pixelexperience.ts';
 export * from './syberia.ts';
 export * from './ancientos.ts';
 export * from './havocos.ts';
+export * from './crdroid.ts';

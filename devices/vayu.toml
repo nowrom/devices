@@ -44,3 +44,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/vayu/Havoc-OS-v4.12-20211226-vayu-Official-GApps.zip"
 maintainer = "Rahul Yadav"
 group = "https://t.me/havocos_vayu"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
+recovery = "https://orangefox.download/device/vayu"

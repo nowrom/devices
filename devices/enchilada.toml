@@ -54,3 +54,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/enchilada/Havoc-OS-v4.12-20211222-enchilada-Official-GApps.zip"
 maintainer = "Vikas Yaduvanshi"
 group = "https://t.me/+tNPSDUw3FUJlNDQ1"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://dl.twrp.me/enchilada/"

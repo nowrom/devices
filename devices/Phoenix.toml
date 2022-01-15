@@ -1,0 +1,8 @@
+brand = "Nokia"
+name = "Nokia 8.1"
+codename = "Phoenix"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://forum.xda-developers.com/t/recovery-unofficial-phoenix-pbrp-3-1-0-pitchblack-recovery-project.4334479/"

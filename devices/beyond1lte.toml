@@ -1,0 +1,8 @@
+brand = "Samsung"
+name = "Samsung Galaxy S10"
+codename = "beyond1lte"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://opengapps.org"
+recovery = "https://twrp.me/samsung/samsunggalaxys10plus.html"

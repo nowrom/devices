@@ -18,3 +18,8 @@ deprecated = true
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com"
+recovery = "https://t.me/PineOfficial/239917"

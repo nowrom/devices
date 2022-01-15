@@ -1,0 +1,8 @@
+brand = "Realme"
+name = "Realme 7 "
+codename = "RMX2151"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""

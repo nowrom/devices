@@ -50,3 +50,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/alioth/Havoc-OS-v4.12-20211220-alioth-Official-GApps.zip"
 maintainer = "Sukeerat Singh Goindi"
 group = "https://t.me/havocalioth_in"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://forum.xda-developers.com/t/recovery-unofficial-twrp-3-5-1-20210702.4300189/"

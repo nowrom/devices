@@ -10,6 +10,7 @@ import {
 	Syberia,
 	AncientOS,
 	HavocOS,
+	Crdroid,
 } from './lib/mod.ts';
 
 type Data = [PixelExperience[], ArrowOS, DotOS, Legion[], AncientOS[]];
@@ -226,6 +227,35 @@ await Promise.all(
 
 				stored_devices.set(file.codename, device);
 			} catch (e) {}
+		})
+);
+
+await Promise.all(
+	[...Deno.readDirSync('./android_vendor_crDroidOTA')]
+		.filter((x) => x.name.endsWith('.json'))
+		.map(async (x) => {
+			const file: Crdroid = JSON.parse(
+				await Deno.readTextFile(`./android_vendor_crDroidOTA/${x.name}`)
+			);
+			const response = file.response[0];
+			const codename = x.name.split('.')[0];
+			let device = getDevice(codename);
+			device = {
+				...device,
+				brand: device.brand || response.oem,
+				name: device.name || response.device,
+				codename: codename,
+				roms: [
+					...device.roms,
+					{
+						id: 'crdroid',
+						gapps: response.gapps,
+						recovery: response.recovery,
+					},
+				],
+			};
+
+			stored_devices.set(codename, device);
 		})
 );
 

@@ -55,3 +55,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/ginkgo/Havoc-OS-v4.12-20211230-ginkgo-Official-GApps.zip"
 maintainer = "Yash Kachave"
 group = "https://t.me/havoc_ginkgo"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
+recovery = ""

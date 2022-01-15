@@ -45,3 +45,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/violet/Havoc-OS-v4.12-20211223-violet-Official-GApps.zip"
 maintainer = "Athul Dinesan"
 group = "https://t.me/havoc_violet"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
+recovery = "https://orangefox.download/device/violet"

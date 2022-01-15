@@ -30,7 +30,7 @@ deprecated = false
 [[roms]]
 id = "arrowos"
 maintainer = "Ratoriku, Hazama25"
-changelog = "- Switch to Pixel Thermal\r\n- Adapt Dynamic Thermal Profile to Pixel thermal-engine\r\n- Switch back to QTI bluetooth stack\r\n- Switch to new ANT stack\r\n- Optimize shutdown time\r\n- Optimize UI performance\r\n- Update sepolicy for S requirement\r\n- Fixed upload speed for traffic indicator\r\n- kernel: Upstream to 4.4.296\r\n- kernel: Dropped duplicated kernel-side pocketmode\r\n- kernel: Add back avb and SafetyNet Patches(SafetyNet still passed without them)\r\n- Other fixes and improvements"
+changelog = "WIP"
 
 [[roms]]
 id = "dotos"
@@ -46,3 +46,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/lavender/Havoc-OS-v4.9-20211002-lavender-Official-GApps.zip"
 maintainer = "Crahm Cotnol"
 group = "https://t.me/havoc_lavender"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/"
+recovery = "https://orangefox.download/device/lavender"

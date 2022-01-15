@@ -26,3 +26,8 @@ deprecated = false
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
+recovery = "https://dl.twrp.me/dipper"

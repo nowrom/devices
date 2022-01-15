@@ -1,0 +1,8 @@
+brand = "Samsung"
+name = "Galaxy S5 LTE"
+codename = "klte"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""

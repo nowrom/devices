@@ -8,3 +8,8 @@ maintainer = "TG_DEVICE_MAINTAINER"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
+recovery = "https://dl.twrp.me/chiron/"

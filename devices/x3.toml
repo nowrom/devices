@@ -8,3 +8,8 @@ active = true
 maintainer = "Patriot06"
 github = "https://github.com/Patriot-06"
 donation_link = "https://www.paypal.me/patriot235"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/2021-09-12/FlameGApps-11.0-basic-arm64-20210912.zip/download"
+recovery = ""

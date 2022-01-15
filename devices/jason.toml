@@ -4,3 +4,8 @@ codename = "jason"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://opengapps.org/"
+recovery = "https://twrp.me/xiaomi/xiaomiminote3.html"

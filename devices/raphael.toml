@@ -63,3 +63,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/raphael/Havoc-OS-v4.12-20211231-raphael-Official-GApps.zip"
 maintainer = ""
 group = ""
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""

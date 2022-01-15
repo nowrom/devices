@@ -1,0 +1,8 @@
+brand = "Redmi"
+name = "MI8937"
+codename = "mi8937"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
+recovery = "https://t.me/mi_msm8937/53"

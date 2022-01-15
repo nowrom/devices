@@ -4,3 +4,8 @@ codename = "X00QD"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://orangefox.download/device/x00qd"

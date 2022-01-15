@@ -13,3 +13,8 @@ photo = "https://avatars.githubusercontent.com/u/50242333?v=4"
 [[roms]]
 id = "ancientos"
 photo = "https://raw.githubusercontent.com/skittels15/banners/main/Redmi-8.jpg"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://t.me/Orel6505_Builds_Discussion/6567"

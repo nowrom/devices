@@ -37,3 +37,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/sakura/Havoc-OS-v4.8-20210805-sakura-Official-GApps.zip"
 maintainer = "Tushar Mahajan (mahajant99)"
 group = "https://t.me/havoc_sakura"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""

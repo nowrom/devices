@@ -8,3 +8,8 @@ maintainer = "PranavTemkar"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/"
+recovery = "https://dl.twrp.me/z2_plus/"

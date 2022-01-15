@@ -1,0 +1,8 @@
+brand = "Xiaomi"
+name = "Xiaomi Mi 5X"
+codename = "tiffany"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
+recovery = "https://github.com/laityts/actions_build_recovery/releases/download/489276319/TWRP-3.5.0_9-1_tiffany-20210116.img"

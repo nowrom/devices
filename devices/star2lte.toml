@@ -5,3 +5,8 @@ brand = "samsung"
 [[roms]]
 id = "arrowos"
 maintainer = "Baddar90"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
+recovery = ""

@@ -23,3 +23,8 @@ maintainer = "ZenkaBestia"
 github = "https://github.com/ZenkaBestia"
 donation_link = "https://www.paypal.me/ZenkaBestia"
 photo = "https://avatars.githubusercontent.com/u/54382817?v=4"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/opengapps/files/arm64/test/20201116"
+recovery = "https://mega.nz/file/6CgEEI7D#7T-KYVCEr6LX8T1XsrTTM-dpvLaYmXFtr9NmN6NyFck"

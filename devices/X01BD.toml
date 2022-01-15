@@ -36,3 +36,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/X01BD/Havoc-OS-v4.12-20211220-X01BD-Official-GApps.zip"
 maintainer = "Sukeerat Singh Goindi"
 group = "t.me/havoc_X01BD"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
+recovery = ""

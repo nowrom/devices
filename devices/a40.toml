@@ -1,0 +1,8 @@
+brand = "Samsung"
+name = "Galaxy A40"
+codename = "a40"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
+recovery = "https://eu.dl.twrp.me/a40/"

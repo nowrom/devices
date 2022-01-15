@@ -12,3 +12,8 @@ deprecated = true
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
+recovery = "https://eu.dl.twrp.me/payton/"

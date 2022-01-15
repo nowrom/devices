@@ -9,3 +9,8 @@ maintainer = "CrisBalGreece"
 github = "https://github.com/CBG-leeco"
 donation_link = ""
 photo = "https://avatars.githubusercontent.com/u/74150843?v=4"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
+recovery = "https://twrp.me/leeco/leecolemax2.html"

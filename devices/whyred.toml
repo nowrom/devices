@@ -40,3 +40,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/whyred/Havoc-OS-v4.8-20210810-whyred-Official-GApps.zip"
 maintainer = "Ruturaj Kadam (root2raj)"
 group = "https://t.me/Havoc_OS"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://bit.ly/2IPxrpg"
+recovery = ""

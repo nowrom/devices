@@ -10,3 +10,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/santoni/Havoc-OS-v4.12-20211225-santoni-Official-GApps.zip"
 maintainer = "Gabriel Nogueira"
 group = "https://t.me/havoc_santoni"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/opengapps/files/arm64/"
+recovery = "https://sourceforge.net/projects/jabiyeff-build/files/Recovery/OrangeFox-R11.1-santoni-08.06.21.zip/download"

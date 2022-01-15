@@ -1,0 +1,8 @@
+brand = "Samsung"
+name = "Galaxy S4 (i9505/i337)"
+codename = "jfltexx"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""

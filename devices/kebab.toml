@@ -35,3 +35,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/kebab/Havoc-OS-v4.12-20211228-kebab-Official-GApps.zip"
 maintainer = "Chandu Dyavanapelli"
 group = "https://t.me/+EL09Qr1SwzhlZTI1"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""

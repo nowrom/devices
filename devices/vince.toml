@@ -17,3 +17,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/vince/Havoc-OS-v4.12-20211226-vince-Official-GApps.zip"
 maintainer = "Mohammed Adnan"
 group = "https://t.me/havoc_vince"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/"
+recovery = "https://t.me/pitchblackrecovery/1303"

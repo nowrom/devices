@@ -27,3 +27,8 @@ deprecated = false
 id = "arrowos"
 maintainer = "Erikdrozina"
 changelog = "- Initial release of Community ArrowOS for tucana\r\n- Update redfin fingerprint to November\r\n- Drop fast-charge script (now it is handled in the kernel)\r\n- Bring back audio amplifier\r\n- Address selinux denials"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/opengapps/"
+recovery = "https://mi-note-10.eu/builds/twrp/"

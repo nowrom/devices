@@ -23,3 +23,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/instantnoodlep/Havoc-OS-v4.12-20211224-instantnoodlep-Official-GApps.zip"
 maintainer = "Chris Chen"
 group = "https://t.me/havoc_oneplus8"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""

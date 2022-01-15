@@ -1,0 +1,8 @@
+brand = "Google"
+name = "Nexus 7 2013"
+codename = "flox"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""

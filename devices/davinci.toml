@@ -50,3 +50,8 @@ id = "havocos"
 url = "https://sourceforge.net/projects/havoc-os/files/davinci/Havoc-OS-v3.9-20201002-davinci-Official-GApps.zip/download"
 maintainer = ""
 group = ""
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""

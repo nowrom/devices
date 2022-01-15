@@ -1,0 +1,8 @@
+brand = "Samsung"
+name = "Galaxy S20 Ultra"
+codename = "z3s"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/opengapps/files/arm64/test/20210130/"
+recovery = "https://sourceforge.net/projects/crdroid/files/z3s/7.x/recovery.img/download"

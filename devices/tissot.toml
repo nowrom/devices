@@ -39,3 +39,8 @@ maintainer = "Answer35"
 github = "https://github.com/answer35"
 donation_link = ""
 photo = "https://avatars.githubusercontent.com/u/26594746?v=4"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/"
+recovery = "https://dl.twrp.me/tissot/"

@@ -15,3 +15,8 @@ deprecated = true
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-unoffical-herolte-pixelexperience-aosp.4276777/"
 deprecated = true
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""

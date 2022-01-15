@@ -9,3 +9,8 @@ repostories = ["device_asus_X00P","kernel_asus_X00P","vendor_asus_X00P"]
 [[roms.supported_versions]]
 version_code = "eleven"
 deprecated = true
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com"
+recovery = "https://twrp.me/asus/asuszenfonemaxm1.html"

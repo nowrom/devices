@@ -1,0 +1,8 @@
+brand = "Google"
+name = "Google Nexus 6"
+codename = "shamu"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://opengapps.org/?download=true&arch=arm&api=11.0&variant=nano"
+recovery = "https://twrp.me/motorola/motorolanexus6.html"

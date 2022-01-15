@@ -1,0 +1,8 @@
+brand = "Meizu"
+name = "Meizu X8"
+codename = "m1852"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/downloads"
+recovery = "https://drive.google.com/file/d/1GI-ttWR8u9DgGR6Q7wyF-nHY6GGc5lQf/view?usp=sharing"

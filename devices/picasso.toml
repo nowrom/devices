@@ -35,3 +35,8 @@ maintainer = "masemoel"
 github = "https://github.com/masemoel"
 donation_link = "https://paypal.me/masemoel"
 photo = "https://avatars.githubusercontent.com/u/64311706?v=4"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/opengapps/files/arm64/test/"
+recovery = "https://orangefox.download/device/picasso"

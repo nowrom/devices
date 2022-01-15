@@ -37,3 +37,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/beryllium/Havoc-OS-v4.12-20220101-beryllium-Official-GApps.zip"
 maintainer = "Havoc-OS CI"
 group = "https://t.me/havoc_beryllium"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
+recovery = "https://sourceforge.net/projects/crdroid/files/beryllium/recovery/twrp-3.5.0_10-0-beryllium.img/download"

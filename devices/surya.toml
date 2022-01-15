@@ -44,3 +44,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/surya/Havoc-OS-v4.12-20211226-surya-Official-GApps.zip"
 maintainer = "Tushar Mahajan"
 group = "https://t.me/havocos_surya"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://forum.xda-developers.com/t/gapps-arm64-flamegapps-for-android-9-0-10-0-11-0.4020917/"
+recovery = ""

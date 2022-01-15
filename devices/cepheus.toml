@@ -33,3 +33,8 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.7"
 developer = "Evasi0nXiao"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/22-Nov-2020/"
+recovery = "https://forum.xda-developers.com/Mi-9/development/recovery-unofficial-twrp-xiaomi-mi-9-t3905825"

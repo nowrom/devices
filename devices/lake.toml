@@ -30,3 +30,8 @@ maintainer = "VitorSSSouza"
 github = "https://github.com/VitorSSSouza"
 donation_link = ""
 photo = "https://avatars.githubusercontent.com/u/78888873?v=4"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://opengapps.org/"
+recovery = "https://dl.twrp.me/lake/"

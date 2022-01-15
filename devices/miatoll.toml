@@ -31,3 +31,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/miatoll/Havoc-OS-v4.10-20211026-miatoll-Official-GApps.zip"
 maintainer = "Sairam Majgaonkar"
 group = "https://t.me/havoc_miatollofficial"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
+recovery = "https://dl.orangefox.download/60fbd820462e0f766bc300aa"

@@ -1,0 +1,8 @@
+brand = "Redmi"
+name = "Redmi Note 6 Pro"
+codename = "twolip"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://bitgapps.org"
+recovery = "https://twrp.me/xiaomi/xiaomiredminote6.html"

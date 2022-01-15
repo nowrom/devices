@@ -31,3 +31,8 @@ id = "havocos"
 url = "https://download.havoc-os.com/guacamole/Havoc-OS-v4.12-20220104-guacamole-Official-GApps.zip"
 maintainer = "Anushek Prasal"
 group = "https://t.me/havoc_oneplus7"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R"
+recovery = "https://twrp.me/oneplus/oneplus7pro.html"

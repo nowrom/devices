@@ -26,3 +26,8 @@ deprecated = false
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://opengapps.org/"
+recovery = ""

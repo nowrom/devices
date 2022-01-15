@@ -1,0 +1,8 @@
+brand = "Samsung"
+name = "Galaxy Tab S5e WIFI"
+codename = "gts4lvwifi"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/"
+recovery = "https://twrp.me/samsung/samsunggalaxytabs5ewifi.html"

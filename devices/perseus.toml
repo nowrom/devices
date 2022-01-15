@@ -9,3 +9,8 @@ changelog = "- sdm845-common: Update blobs to MIUI polaris V12.5.1.0.QDGCNXM\r\n
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/downloads#downloads"
+recovery = "https://sourceforge.net/projects/mauronofrio-twrp/files/Perseus/twrp-3.4.0-10-perseus-mauronofrio.img/download"

@@ -15,3 +15,8 @@ deprecated = true
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4207127"
 deprecated = true
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://sourceforge.net/projects/xnombre-los-gemini/files/TWRP/twrp-3.5.0_4.4-gemini.img/download"

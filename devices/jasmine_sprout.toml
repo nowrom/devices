@@ -31,3 +31,8 @@ maintainer = "Immanuel Raj"
 github = "https://github.com/Immanuel44"
 donation_link = "https://paypal.me/immanuelr44?locale.x=en_GB"
 photo = "https://avatars.githubusercontent.com/u/26855364?v=4"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/14-May-2021/NikGapps-stock-arm64-11-20210514-signed.zip/download"
+recovery = "https://recovery link"
