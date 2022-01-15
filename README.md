@@ -1,6 +1,6 @@
 # Android rom repo
 
-## Non automatable devices
+## Non automatable roms (12)
 
 These roms don't have a public devices.json list or whatever and have to be added manually, or if you find a way to get the json or get the devices another way..
 
@@ -16,6 +16,20 @@ These roms don't have a public devices.json list or whatever and have to be adde
 - derpfest
 - Octavi-OS
 - pixelextended
+
+## Completed roms (12)
+
+- Ancientos
+- AOSP Extended
+- Arrowos
+- crdroid
+- dotos
+- HavocOs
+- legionos
+- pixelexperience
+- sakura
+- spark
+- syberia
 
 ## Contributing
 
