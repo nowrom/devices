@@ -1,5 +1,5 @@
 brand = "Xiaomi"
-name = "Mi 9T / Redmi K20"
+name = "Redmi K20/Mi 9T"
 codename = "davinci"
 
 [[roms]]
@@ -44,6 +44,10 @@ maintainer = "markkey014"
 github = "https://github.com/markkey014"
 donation_link = "https://paypal.me/itsmarkkey"
 photo = "https://avatars.githubusercontent.com/u/16484432?v=4"
+
+[[roms]]
+id = "ancientos"
+photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
 
 [[roms]]
 id = "havocos"

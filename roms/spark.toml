@@ -1,5 +1,5 @@
 [rom]
-name = "SparkOs"
+name = "Spark os"
 id = "sparkos"
 about = "AOSP based rom with customization focused on stability and most of all smoothness."
 website = "https://www.spark-os.live/"

@@ -1,6 +1,6 @@
 name = "Redmi Note 7"
 codename = "lavender"
-brand = "Xiaomi"
+brand = "Xioami"
 
 [[roms]]
 id = "ancientos"

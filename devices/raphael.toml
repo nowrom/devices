@@ -1,5 +1,5 @@
 brand = "Xiaomi"
-name = "Redmi K20 Pro"
+name = "Redmi K20 Pro/Mi 9T Pro"
 codename = "raphael"
 
 [[roms]]
@@ -41,13 +41,13 @@ developer = "NATO666613"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v5.1"
 developer = "NATO666613"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.1"
+version = "v4.9"
 developer = "NATO666613"
 
 [[roms]]
@@ -57,6 +57,10 @@ maintainer = "AnonHacker47"
 github = "https://github.com/anonhacker47"
 donation_link = ""
 photo = "https://avatars.githubusercontent.com/u/66974833?v=4"
+
+[[roms]]
+id = "ancientos"
+photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
 
 [[roms]]
 id = "havocos"

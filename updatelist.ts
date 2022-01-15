@@ -88,8 +88,8 @@ pixelDevices.forEach((x) => {
 	let device = getDevice(x.codename);
 	device = {
 		...device,
-		brand: x.brand,
-		name: x.name,
+		brand: device.brand || x.brand,
+		name: device.name || x.name,
 		codename: x.codename,
 		roms: [
 			...device.roms,
@@ -109,7 +109,7 @@ Object.entries(arrowDevices).forEach(([name, value]) => {
 		...device,
 		codename: name,
 		name: device.name || value[0].model,
-		brand: value[0].oem,
+		brand: device.brand || value[0].oem,
 		roms: [
 			...device.roms,
 			{
@@ -127,8 +127,8 @@ Object.entries(dotDevices).forEach(([brand, devices]) => {
 		let device = getDevice(codename);
 		device = {
 			...device,
-			brand: brand,
-			name: name,
+			brand: device.brand || brand,
+			name: device.name || name,
 			codename: codename,
 			roms: [
 				...device.roms,
@@ -151,8 +151,8 @@ await Promise.all(
 			let device = getDevice(file.response[0].device_codename);
 			device = {
 				...device,
-				brand: file.response[0].device_brand,
-				name: file.response[0].device_model,
+				brand: device.brand || file.response[0].device_brand,
+				name: device.name || file.response[0].device_model,
 				codename: file.response[0].device_codename,
 				roms: [
 					...device.roms,
@@ -173,8 +173,8 @@ legionDevices.forEach((x) => {
 	let device = getDevice(x.codename);
 	device = {
 		...device,
-		brand: x.brand,
-		name: x.name,
+		brand: device.brand || x.brand,
+		name: device.name || x.name,
 		codename: x.codename,
 		roms: [
 			...device.roms,

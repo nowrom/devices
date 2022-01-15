@@ -1,6 +1,6 @@
-name = "Redmi 4A/5a"
+name = "Redmi 4A/5A"
 codename = "rolex"
-brand = "Xiaomi"
+brand = "Xioami"
 
 [[roms]]
 id = "ancientos"

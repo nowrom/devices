@@ -1,6 +1,6 @@
-name = "Redmi Note 9 PRO"
+name = "Redmi Note 9 Pro Global"
 codename = "miatoll"
-brand = "Xiaomi"
+brand = "Xioami"
 
 [[roms]]
 id = "ancientos"
