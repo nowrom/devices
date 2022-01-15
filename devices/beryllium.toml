@@ -1,6 +1,9 @@
 brand = "Xiaomi"
-name = "Xiaomi Poco F1"
+name = "Pocophone F1"
 codename = "beryllium"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"

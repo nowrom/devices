@@ -1,6 +1,9 @@
 brand = "Xiaomi"
-name = "Xiaomi Redmi Note 5 Global/Pro"
+name = "Redmi Note 5 Pro India"
 codename = "whyred"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"

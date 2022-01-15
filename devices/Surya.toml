@@ -1,6 +1,6 @@
 brand = "Xiaomi"
-name = "Redmi 2s"
-codename = "YSL"
+name = "Poco X3"
+codename = "Surya"
 
 [[roms]]
 id = "pixelextended"

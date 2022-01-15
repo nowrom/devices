@@ -1,6 +1,9 @@
 brand = "Xiaomi"
-name = "Xiaomi Redmi K20 Pro/Mi 9T Pro"
+name = "Redmi K20 , Mi 9T , Redmi K20 Pro , Mi 9T Pro"
 codename = "raphael"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"
@@ -89,3 +92,8 @@ guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/gui
 id = "sparkos"
 group = "https://t.me/area51k20p"
 download = "https://downloads.spark-os.live/raphael/Spark-S-Tempest-Official-raphael-20211225.zip"
+
+[[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtended_raphael-12.0-20211220-1707-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-raphael-official-pixel-extended-rom-beta-31-10-2021.4146471/"

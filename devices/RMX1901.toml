@@ -1,6 +1,9 @@
-brand = "Realme Devices"
+brand = "Realme"
 name = "Realme X"
 codename = "RMX1901"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelplusui"

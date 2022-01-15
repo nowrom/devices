@@ -1,6 +1,9 @@
-brand = "Redmi"
-name = "Redmi G80 Series"
+brand = "Unknown"
+name = "Unknown"
 codename = "lava"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "crdroid"

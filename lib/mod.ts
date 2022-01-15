@@ -10,3 +10,4 @@ export * from './ppui.ts';
 export * from './aospextended.ts';
 export * from './sakura.ts';
 export * from './spark.ts';
+export * from './pixelextended.ts';

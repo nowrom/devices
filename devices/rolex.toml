@@ -6,6 +6,9 @@ brand = "Xioami"
 id = "ancientos"
 
 [[roms]]
+id = "pixelextended"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

@@ -1,6 +1,9 @@
 brand = "Realme"
-name = "Realme 6/6i/6s"
+name = "Realme 6"
 codename = "RMX2001"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "dotos"

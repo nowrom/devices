@@ -1,6 +1,9 @@
-codename = "juice"
-name = "Juice"
 brand = "Xiaomi"
+name = "Redmi 9T , Redmi 9 Power , Redmi 9 4G , POCO M3"
+codename = "juice"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "arrowos"

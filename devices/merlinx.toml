@@ -1,6 +1,9 @@
 brand = "Xiaomi"
-name = "Xiaomi Redmi Note 9"
+name = "Redmi Note 9 , Redmi 10X 4g"
 codename = "merlinx"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"

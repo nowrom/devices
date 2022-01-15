@@ -1,6 +1,9 @@
 brand = "OnePlus"
-name = "OnePlus 8T"
+name = "oneplus 8T"
 codename = "kebab"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"

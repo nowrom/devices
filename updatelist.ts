@@ -15,6 +15,7 @@ import {
 	AospExtended,
 	Sakura,
 	Spark,
+	PixelExtended,
 } from './lib/mod.ts';
 
 type Data = [
@@ -79,8 +80,12 @@ await Promise.all(
 	[...Deno.readDirSync('./static/devices')]
 		.filter((x) => x.name.endsWith('.toml'))
 		.map(async (x) => {
-			const file = parse(await Deno.readTextFile(`./static/devices/${x.name}`));
-			stored_devices.set(file.codename, file);
+			try {
+				const file = parse(
+					await Deno.readTextFile(`./static/devices/${x.name}`)
+				);
+				stored_devices.set(file.codename, file);
+			} catch (e) {}
 		})
 );
 
@@ -357,6 +362,35 @@ await Promise.all(
 						id: 'sparkos',
 						group: file.group,
 						download: file.url,
+					},
+				],
+			};
+
+			stored_devices.set(codename, device);
+		})
+);
+
+await Promise.all(
+	[...Deno.readDirSync('./pixelextendedota/builds')]
+		.filter((x) => x.name.endsWith('.json'))
+		.map(async (x) => {
+			const file: PixelExtended = JSON.parse(
+				await Deno.readTextFile(`./pixelextendedota/builds/${x.name}`)
+			);
+			if (file.device == undefined) return;
+			const codename = file.device.split('.')[0];
+			let device = getDevice(codename);
+			device = {
+				...device,
+				brand: device.brand || 'Unknown',
+				name: device.name || file.device_name,
+				codename: codename,
+				roms: [
+					...device.roms,
+					{
+						id: 'pixelextended',
+						url: file.url,
+						xda_thread: file.xda_thread,
 					},
 				],
 			};

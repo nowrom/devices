@@ -1,6 +1,9 @@
 brand = "Xiaomi"
-name = "Xiaomi Redmi Note 10 Pro"
+name = "Redmi Note 10 Pro India , Redmi Note 10 Pro Global , Redmi Note 10 Pro Max India"
 codename = "sweet"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"
@@ -50,3 +53,8 @@ guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/gui
 [[roms]]
 id = "sparkos"
 group = "https://t.me/Spark_sweet"
+
+[[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/sweet/PixelExtended_sweet-12.0-20211218-1649-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-sweet-19-12-21.4377003/"

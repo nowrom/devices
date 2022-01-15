@@ -1,6 +1,9 @@
 brand = "Xiaomi"
-name = "Xiaomi Redmi K30/Poco X2"
+name = "Redmi 7A"
 codename = "phoenix"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"
@@ -71,3 +74,8 @@ active = false
 id = "sparkos"
 group = "https://t.me/redcliffbuilds"
 download = "https://downloads.spark-os.live/phoenix/Spark-S-Tempest-OFFICIAL-phoenix-20211226-gapps.zip"
+
+[[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/phoenix/PixelExtended_phoenix-12.0-20211226-0648-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-phoenix-26-12-21.4379877/"

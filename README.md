@@ -1,6 +1,6 @@
 # Android rom repo
 
-## Non automatable roms (9)
+## Non automatable roms (8)
 
 These roms don't have a public devices.json list or whatever and have to be added manually, or if you find a way to get the json or get the devices another way..
 
@@ -12,11 +12,11 @@ These roms don't have a public devices.json list or whatever and have to be adde
 - nusantararom
 - derpfest
 - Octavi-OS
-- pixelextended
 
-## Manually maintained roms (1)
+## Manually maintained roms ()
 
 - calyxos
+- pixelextended
 
 ## Unmaintained roms (2)
 
@@ -48,6 +48,7 @@ git clone https://github.com/syberia-project/official_devices
 git clone https://github.com/Havoc-OS/OTA havocota
 git clone https://github.com/crdroidandroid/android_vendor_crDroidOTA
 git clone https://github.com/Spark-Devices/OTA sparkota
+git clone https://github.com/PixelExtended/OTA pixelextendedota
 ```
 
 make changes to updatelist.ts and commit done 🚀

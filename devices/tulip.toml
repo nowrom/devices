@@ -1,6 +1,9 @@
-codename = "tulip"
-name = "Redmi Note 6 Pro"
 brand = "Xiaomi"
+name = "Redmi Note 6 Pro"
+codename = "tulip"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "arrowos"

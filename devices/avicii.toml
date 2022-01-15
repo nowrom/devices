@@ -1,6 +1,9 @@
 brand = "OnePlus"
-name = "OnePlus Nord"
+name = "oneplus nord"
 codename = "avicii"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"
@@ -44,3 +47,8 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-x-for-o
 maintainer_url = "https://forum.xda-developers.com/m/hmtheboy154.9207498/"
 maintainer_name = "HMTheBoy154"
 active = true
+
+[[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/avicii/PixelExtended_avicii-12.0-20220102-0819-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-official-beta-pixel-extended-11-0-oneplusnord-avicii-01-11-2021.4279755/"

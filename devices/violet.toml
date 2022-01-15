@@ -1,6 +1,9 @@
 brand = "Xiaomi"
-name = "Xiaomi Redmi Note 7 Pro"
+name = "Redmi Note 7 Pro"
 codename = "violet"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"
@@ -79,3 +82,8 @@ active = true
 id = "sparkos"
 group = "https://t.me/sparkosviolet"
 download = "https://downloads.spark-os.live/violet/Spark-S-Tempest-OFFICIAL-violet-20211229.zip"
+
+[[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/violet/PixelExtended_violet-12.0-20220102-1014-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/pixelextended-rom-for-redmi-note-7-pro-violet.4382883/"

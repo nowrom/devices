@@ -1,6 +1,9 @@
-brand = "OnePlus"
-name = "OnePlus 6"
+brand = "Oneplus"
+name = "oneplus 6"
 codename = "enchilada"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"

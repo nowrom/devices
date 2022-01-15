@@ -1,6 +1,9 @@
 brand = "Xiaomi"
-name = "Xiaomi Poco X3 Pro"
+name = "Poco X3 PRO"
 codename = "vayu"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"

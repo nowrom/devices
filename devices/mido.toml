@@ -1,6 +1,9 @@
 brand = "Xiaomi"
-name = "Xiaomi Redmi Note 4/4X"
+name = "Redmi Note 4X"
 codename = "mido"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"

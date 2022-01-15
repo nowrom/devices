@@ -1,6 +1,9 @@
 brand = "Xiaomi"
-name = "Xiaomi Redmi 8A Dual"
+name = "Redmi 8a Dual"
 codename = "olivewood"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"

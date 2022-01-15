@@ -1,6 +1,9 @@
 brand = "Realme"
-name = "Realme 5 Pro"
+name = "Realme 5 PRO"
 codename = "RMX1971"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"
@@ -40,3 +43,8 @@ guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/gui
 id = "sparkos"
 group = "https://t.me/Spark_RMX1971"
 download = "https://downloads.spark-os.live/RMX1971/Spark-S-Tempest-OFFICIAL-RMX1971-20211224.zip"
+
+[[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/RMX1971/PixelExtended_RMX1971-12.0-20211219-0055-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-rmx1971-19-12-21.4377001/"

@@ -6,6 +6,9 @@ brand = "Xioami"
 id = "ancientos"
 
 [[roms]]
+id = "pixelextended"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/santoni/Havoc-OS-v4.12-20211225-santoni-Official-GApps.zip"
 maintainer = "Gabriel Nogueira"

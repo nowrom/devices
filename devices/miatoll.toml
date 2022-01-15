@@ -6,6 +6,9 @@ brand = "Xioami"
 id = "ancientos"
 
 [[roms]]
+id = "pixelextended"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_miatoll","device_xiaomi_sm6250-common","kernel_xiaomi_sm6250","vendor_xiaomi_miatoll","vendor_xiaomi_sm6250-common"]
 
@@ -63,3 +66,8 @@ active = false
 id = "sparkos"
 group = "https://t.me/SparkOSMiatoll"
 download = "https://downloads.spark-os.live/miatoll/Spark-S-Tempest-OFFICIAL-miatoll-20211225-gapps.zip"
+
+[[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/miatoll/PixelExtended_miatoll-12.0-20211219-0951-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-miatoll-19-12-21.4377169/"

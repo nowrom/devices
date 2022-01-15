@@ -1,6 +1,9 @@
 brand = "Xiaomi"
-name = "Xiaomi Mi 11X"
+name = "Redmi K40 , POCO F3 , Mi 11X"
 codename = "alioth"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"
@@ -66,3 +69,8 @@ guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/gui
 id = "sparkos"
 group = "t.me/spsalioth"
 download = "https://downloads.spark-os.live/alioth/Spark-S-Tempest-Official-alioth-20220113.zip"
+
+[[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.0-20220115-0930-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/closed-rom-official-pixel-extended-rom-v4-0-android-12-alioth-aliothin-01-11-21.4355409/"

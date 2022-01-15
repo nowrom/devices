@@ -1,0 +1,7 @@
+[rom]
+name = "PixelExtended"
+id = "pixelextended"
+about = "We started as a small project (Fan-Edition) based on PE for the Xiaomi Mi A2 on Android 10. Then various users and maintainers got interested in supporting this project. Now, We are trying to give you best pixel experience by adding some necessary practical features you always wanted in PE. This ROM entirely exists on PE, Thanks to them !"
+website = "https://pixelextended.ninja/"
+wiki = "https://t.me/pixelextended/"
+download = "https://sourceforge.net/projects/pixelextended/files/"

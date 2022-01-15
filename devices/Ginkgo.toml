@@ -1,6 +1,6 @@
 brand = "Xiaomi"
-name = "Redmi 2s"
-codename = "YSL"
+name = "Redmi Note 8"
+codename = "Ginkgo"
 
 [[roms]]
 id = "pixelextended"

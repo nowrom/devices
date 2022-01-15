@@ -1,6 +1,9 @@
-codename = "wayne"
-name = "MI 6X"
 brand = "Xiaomi"
+name = "Mi 6X"
+codename = "wayne"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "arrowos"

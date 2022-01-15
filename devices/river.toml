@@ -1,6 +1,9 @@
 brand = "Motorola"
-name = "Motorola Moto G7"
+name = "Moto G7"
 codename = "river"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"

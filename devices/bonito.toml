@@ -3,7 +3,10 @@ name = "Pixel 3a XL"
 codename = "bonito"
 
 [[roms]]
-id = "calyxos"
+id = "CalyxOS"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelexperience"
@@ -26,3 +29,8 @@ deprecated = false
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/bonito/PixelExtended_bonito-12.0-20211220-2341-OFFICIAL.zip/download"
+xda_thread = "https://www.xda-developers.com/"
