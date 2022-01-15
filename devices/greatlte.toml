@@ -7,3 +7,10 @@ id = "havocos"
 url = "https://sourceforge.net/projects/havoc-os/files/greatlte/Havoc-OS-v3.12-20201229-greatlte-Official-GApps.zip/download"
 maintainer = "EugW"
 group = "https://t.me/havoc8895"
+
+[[roms]]
+id = "sakura"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-r-official-monthly-updates-gapps.4261405"
+maintainer_url = "https://forum.xda-developers.com/m/haridhayal.9053429/"
+maintainer_name = "Haridhayal"
+active = true

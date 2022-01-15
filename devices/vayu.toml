@@ -55,3 +55,10 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/Badr.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "sakura"
+xda_thread = ""
+maintainer_url = "kiam001 and LordShenron"
+maintainer_name = "kiam001 and LordShenron"
+active = true

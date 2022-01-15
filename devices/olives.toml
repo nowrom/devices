@@ -18,3 +18,10 @@ photo = "https://raw.githubusercontent.com/skittels15/banners/main/Redmi-8.jpg"
 id = "crdroid"
 gapps = ""
 recovery = "https://t.me/Orel6505_Builds_Discussion/6567"
+
+[[roms]]
+id = "sakura"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-0-official-olives-project-sakura-v5-1-for-redmi-8-8a-8a-dual-unified.4306071"
+maintainer_url = "null"
+maintainer_name = "Deadlylxrd"
+active = true

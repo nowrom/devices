@@ -65,3 +65,10 @@ id = "aospextended"
 xda_thread = "https://forum.xda-developers.com/oneplus-6/development/rom-aospextended-rom-v7-2-t4099491"
 maintainer_url = "https://forum.xda-developers.com/member.php?u=5614198"
 maintainer_name = "Raj Jadeja (raj_jdja)"
+
+[[roms]]
+id = "sakura"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-2-official-android-11.4232969/"
+maintainer_url = "https://forum.xda-developers.com/m/erad1.3262342/"
+maintainer_name = "Eduardo"
+active = true

@@ -6,3 +6,10 @@ codename = "m1882"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
 recovery = "https://4pda.ru/forum/index.php?showtopic=961552&st=1660#entry91590813"
+
+[[roms]]
+id = "sakura"
+xda_thread = ""
+maintainer_url = "null"
+maintainer_name = "Abdibekov Dauren"
+active = false

@@ -1,0 +1,10 @@
+brand = "Meizu"
+name = "Meizu 16TH Plus"
+codename = "m1892"
+
+[[roms]]
+id = "sakura"
+xda_thread = ""
+maintainer_url = "null"
+maintainer_name = "Abdibekov Dauren"
+active = false

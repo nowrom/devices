@@ -56,3 +56,10 @@ id = "aospextended"
 xda_thread = "https://forum.xda-developers.com/mi-a1/development/rom-aospextended-rom-v7-0-t4063957"
 maintainer_url = "https://forum.xda-developers.com/member.php?u=5913672"
 maintainer_name = "Murtaza Piplod"
+
+[[roms]]
+id = "sakura"
+xda_thread = ""
+maintainer_url = "null"
+maintainer_name = "Roger W."
+active = false

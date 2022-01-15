@@ -7,3 +7,10 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/maintainer_avatar.png"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "sakura"
+xda_thread = "https://forum.xda-developers.com/t/rom-volte-official-cph1859-61-project-sakura-5-r-24-03-2021.4128811/"
+maintainer_url = "https://forum.xda-developers.com/m/cyberjalagam.10857311"
+maintainer_name = "Jaishnav Prasad"
+active = false

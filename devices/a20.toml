@@ -1,0 +1,10 @@
+brand = "Samsung"
+name = "Galaxy A20"
+codename = "a20"
+
+[[roms]]
+id = "sakura"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-0-official-project-sakura-arm64-galaxy-a20.4250309/"
+maintainer_url = "https://forum.xda-developers.com/m/chatur27.10997227/"
+maintainer_name = "Chatur"
+active = false

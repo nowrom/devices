@@ -51,3 +51,10 @@ id = "aospextended"
 xda_thread = ""
 maintainer_url = "https://forum.xda-developers.com/member.php?u=7111945"
 maintainer_name = "Sairam (sairam60)"
+
+[[roms]]
+id = "sakura"
+xda_thread = ""
+maintainer_url = "null"
+maintainer_name = "A9ito"
+active = false

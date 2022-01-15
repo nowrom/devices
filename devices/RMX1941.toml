@@ -7,3 +7,10 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/sparx.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "sakura"
+xda_thread = "https://forum.xda-developers.com/t/rom-a11-projectsakura-5-2-official-realme-c2.4329247/"
+maintainer_url = "https://forum.xda-developers.com/m/ano0.10677975/"
+maintainer_name = "Anoos Ragh"
+active = true

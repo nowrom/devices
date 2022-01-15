@@ -9,3 +9,10 @@ id = "dotos"
 id = "crdroid"
 gapps = ""
 recovery = "https://orangefox.download/device/x00qd"
+
+[[roms]]
+id = "sakura"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-1-official-monthly-updates-gapps.4293141/"
+maintainer_url = "null"
+maintainer_name = "henricaodopao1"
+active = false

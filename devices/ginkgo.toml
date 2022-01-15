@@ -66,3 +66,10 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/Erwin.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "sakura"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-for-redmi-note-8-8t-unified-official.4277445/"
+maintainer_url = "https://forum.xda-developers.com/m/dsashwin.11355545/"
+maintainer_name = "Ashwin DS"
+active = true

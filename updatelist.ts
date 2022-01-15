@@ -13,6 +13,7 @@ import {
 	Crdroid,
 	Ppui,
 	AospExtended,
+	Sakura,
 } from './lib/mod.ts';
 
 type Data = [
@@ -22,7 +23,8 @@ type Data = [
 	Legion[],
 	AncientOS[],
 	Ppui[],
-	[AospExtended[], AospExtended[]]
+	[AospExtended[], AospExtended[]],
+	Sakura[]
 ];
 
 const [
@@ -33,6 +35,7 @@ const [
 	ancientDevices,
 	pixelUIDevices,
 	aospExtendedDevices,
+	sakuraDevices,
 ]: Data = await Promise.all([
 	fetch(
 		'https://github.com/PixelExperience/official_devices/blob/master/devices.json?raw=true'
@@ -60,6 +63,9 @@ const [
 			),
 		];
 	})(),
+	fetch(
+		'https://github.com/ProjectSakura/OTA/blob/11/devices.json?raw=true'
+	).then((r) => r.json()),
 ]);
 
 const stored_devices = new Map();
@@ -302,6 +308,27 @@ pixelUIDevices.forEach((xy) => {
 				xda_thread: x.xda_thread,
 				maintainer_url: x.maintainer_url,
 				maintainer_name: x.maintainer_name,
+			},
+		],
+	};
+	stored_devices.set(x.codename, device);
+});
+
+sakuraDevices.forEach((x) => {
+	let device = getDevice(x.codename);
+	device = {
+		...device,
+		brand: device.brand || x.brand,
+		name: device.name || x.name,
+		codename: x.codename,
+		roms: [
+			...device.roms,
+			{
+				id: 'sakura',
+				xda_thread: x.xda_thread,
+				maintainer_url: x.maintainer_xda,
+				maintainer_name: x.maintainer_name,
+				active: x.active,
 			},
 		],
 	};

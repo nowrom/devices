@@ -1,0 +1,10 @@
+brand = "Meizu"
+name = "Meizu 16X"
+codename = "m1872"
+
+[[roms]]
+id = "sakura"
+xda_thread = ""
+maintainer_url = "null"
+maintainer_name = "c0nfid"
+active = true

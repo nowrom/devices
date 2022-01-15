@@ -16,3 +16,10 @@ group = "https://t.me/havoc_a10"
 id = "crdroid"
 gapps = "https://bitgapps.github.io/"
 recovery = "https://twrp.me/samsung/samsunggalaxya10.html"
+
+[[roms]]
+id = "sakura"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-0-official-project-sakura-arm-arm64-galaxy-a10.4250301/"
+maintainer_url = "https://forum.xda-developers.com/m/chatur27.10997227/"
+maintainer_name = "Chatur"
+active = false

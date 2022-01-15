@@ -43,3 +43,10 @@ id = "pixelplusui"
 active = "active"
 photo = "./assets/images/Arya.jpg"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "sakura"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-mojito-sunny-project-sakura-official-aosp.4325663/"
+maintainer_url = "https://forum.xda-developers.com/m/dsashwin.11355545/"
+maintainer_name = "Ashwin DS"
+active = true

@@ -6,3 +6,10 @@ codename = "a40"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
 recovery = "https://eu.dl.twrp.me/a40/"
+
+[[roms]]
+id = "sakura"
+xda_thread = ""
+maintainer_url = "null"
+maintainer_name = "Haridhayal"
+active = false

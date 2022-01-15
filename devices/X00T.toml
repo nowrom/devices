@@ -12,3 +12,10 @@ id = "havocos"
 url = "https://download.havoc-os.com/X00T/Havoc-OS-v4.9-20211007-X00T-Official-GApps.zip"
 maintainer = "Rizky Benggolo"
 group = "https://t.me/havocX00T"
+
+[[roms]]
+id = "sakura"
+xda_thread = ""
+maintainer_url = "null"
+maintainer_name = "LordShenron"
+active = false

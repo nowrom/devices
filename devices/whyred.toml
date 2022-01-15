@@ -63,3 +63,10 @@ id = "aospextended"
 xda_thread = ""
 maintainer_url = "https://forum.xda-developers.com/m/sakilmondal.6151980"
 maintainer_name = "SakilMondal"
+
+[[roms]]
+id = "sakura"
+xda_thread = "https://forum.xda-developers.com/t/rom-eleven-project-sakura-for-xiaomi-redmi-note-5-pro-11-08-2021.4146337/"
+maintainer_url = "https://forum.xda-developers.com/m/darkstar085.6698785/"
+maintainer_name = "Sipun Ku Mahanta"
+active = true

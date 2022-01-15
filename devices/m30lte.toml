@@ -1,0 +1,10 @@
+brand = "Samsung"
+name = "Galaxy M30"
+codename = "m30lte"
+
+[[roms]]
+id = "sakura"
+xda_thread = ""
+maintainer_url = "null"
+maintainer_name = "Haridhayal"
+active = false

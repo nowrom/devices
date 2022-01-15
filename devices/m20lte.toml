@@ -1,0 +1,10 @@
+brand = "Samsung"
+name = "Galaxy M20"
+codename = "m20lte"
+
+[[roms]]
+id = "sakura"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-r-official-monthly-updates-gapps.4193417"
+maintainer_url = "https://forum.xda-developers.com/m/haridhayal.9053429"
+maintainer_name = "Haridhayal"
+active = false

@@ -5,3 +5,10 @@ brand = "motorola"
 [[roms]]
 id = "arrowos"
 maintainer = "Deivid Ignacio"
+
+[[roms]]
+id = "sakura"
+xda_thread = ""
+maintainer_url = "null"
+maintainer_name = "Amy Grace"
+active = false

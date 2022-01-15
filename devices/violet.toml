@@ -67,3 +67,10 @@ maintainer_name = "Arpon Sarkar(Arpon5691), Shubham Das(dasshubham762)"
 id = "aospextended"
 maintainer_url = "https://forum.xda-developers.com/m/dasshubham762.8330494/"
 maintainer_name = "Shubham Das(dasshubham762)"
+
+[[roms]]
+id = "sakura"
+xda_thread = ""
+maintainer_url = "null"
+maintainer_name = "SpicyDoughnut"
+active = true

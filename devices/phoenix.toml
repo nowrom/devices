@@ -59,3 +59,10 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/maintainer_avatar.png"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "sakura"
+xda_thread = ""
+maintainer_url = "https://forum.xda-developers.com/m/kunal-facebook.11415481/"
+maintainer_name = "Kunal"
+active = false
