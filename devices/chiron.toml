@@ -13,3 +13,9 @@ recovery = "https://dl.twrp.me/chiron/"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "lineages"
+cpu = "Kryo 280"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"

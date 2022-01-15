@@ -12,6 +12,7 @@ import {
 	evolutionx,
 	havocos,
 	legion,
+	lineages,
 	pixelexperience,
 	pixelextended,
 	pixelUI,
@@ -53,6 +54,7 @@ await run(dotos);
 await run(evolutionx);
 await run(havocos);
 await run(legion);
+await run(lineages);
 await run(pixelexperience);
 await run(pixelextended);
 await run(pixelUI);

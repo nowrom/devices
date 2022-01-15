@@ -1,0 +1,9 @@
+brand = "Sony"
+name = "Xperia Z5 Compact"
+codename = "suzuran"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53 & Cortex-A57"
+ram = "2 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"

@@ -1,0 +1,9 @@
+brand = "HTC"
+name = "One (GSM)"
+codename = "m7"
+
+[[roms]]
+id = "lineages"
+cpu = "Krait 300"
+ram = "2 GB"
+wifi = "802.11 a/b/g/n/ac 2.4/5GHz"

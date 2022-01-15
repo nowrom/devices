@@ -7,6 +7,12 @@ id = "arrowos"
 maintainer = "blckbear"
 
 [[roms]]
+id = "lineages"
+cpu = "Kryo"
+ram = "4 GB"
+wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_google_marlin","kernel_google_marlin","vendor_google_marlin"]
 

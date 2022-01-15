@@ -1,0 +1,9 @@
+brand = "Google"
+name = "Android One 2nd Gen"
+codename = "seed"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "2 GB / 1 GB for IQ II"
+wifi = "802.11 b, g, n"

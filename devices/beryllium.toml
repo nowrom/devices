@@ -25,6 +25,12 @@ maintainer = "Havoc-OS CI"
 group = "https://t.me/havoc_beryllium"
 
 [[roms]]
+id = "lineages"
+cpu = "Kryo 385"
+ram = "6/8 GB LPDDR4X"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_beryllium","kernel_xiaomi_beryllium","vendor_xiaomi_beryllium"]
 

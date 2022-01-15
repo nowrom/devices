@@ -1,0 +1,9 @@
+brand = "Nokia"
+name = "6.1 (2018)"
+codename = "PL2"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "3/4 GB LPDDR4X"
+wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Wi-Fi Display, Hotspot"

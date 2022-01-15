@@ -1,0 +1,9 @@
+brand = "Wingtech"
+name = "Redmi 2"
+codename = "wt88047"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "1/2 GB"
+wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"

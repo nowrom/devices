@@ -32,6 +32,12 @@ maintainer = "Ruturaj Kadam (root2raj)"
 group = "https://t.me/Havoc_OS"
 
 [[roms]]
+id = "lineages"
+cpu = "Kryo 260"
+ram = "3 GB / 4 GB / 6 GB (LPDDR4X)"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_whyred","device_xiaomi_sdm660-common","kernel_xiaomi_whyred","kernel_xiaomi_sdm660","vendor_xiaomi_whyred","vendor_xiaomi_sdm660-common"]
 

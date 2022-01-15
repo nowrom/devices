@@ -1,0 +1,9 @@
+brand = "Yandex"
+name = "Phone"
+codename = "Amber"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "4 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"

@@ -6,3 +6,9 @@ codename = "ls990"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/opengapps/files/arm/20210825/open_gapps-arm-11.0-pico-20210825.zip/download"
 recovery = ""
+
+[[roms]]
+id = "lineages"
+cpu = "Krait 400"
+ram = "3 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"

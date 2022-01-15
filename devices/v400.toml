@@ -1,0 +1,9 @@
+brand = "LG"
+name = "G Pad 7.0 WiFi"
+codename = "v400"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A7"
+ram = "1 GB"
+wifi = "802.11 a/b/g/n, Dual-band, Wi-Fi Direct, DLNA"

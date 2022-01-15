@@ -6,3 +6,9 @@ codename = "apollon"
 id = "crdroid"
 gapps = ""
 recovery = "https://androidfilehost.com/?fid=17248734326145709156"
+
+[[roms]]
+id = "lineages"
+cpu = "Kryo 585"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"

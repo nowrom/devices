@@ -6,3 +6,9 @@ codename = "gts4lvwifi"
 id = "crdroid"
 gapps = "https://nikgapps.com/"
 recovery = "https://twrp.me/samsung/samsunggalaxytabs5ewifi.html"
+
+[[roms]]
+id = "lineages"
+cpu = "Kryo 360"
+ram = "4/6 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"

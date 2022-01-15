@@ -1,0 +1,9 @@
+brand = "LG"
+name = "V20 (Sprint)"
+codename = "ls997"
+
+[[roms]]
+id = "lineages"
+cpu = "Kryo"
+ram = "4 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"

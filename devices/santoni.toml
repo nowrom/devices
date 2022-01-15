@@ -18,3 +18,9 @@ id = "havocos"
 url = "https://download.havoc-os.com/santoni/Havoc-OS-v4.12-20211225-santoni-Official-GApps.zip"
 maintainer = "Gabriel Nogueira"
 group = "https://t.me/havoc_santoni"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53 & Cortex-A53"
+ram = "2/3/4 GB"
+wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"

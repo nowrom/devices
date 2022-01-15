@@ -31,6 +31,12 @@ maintainer = "Crahm Cotnol"
 group = "https://t.me/havoc_lavender"
 
 [[roms]]
+id = "lineages"
+cpu = "Kryo 260"
+ram = "3/4/6 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_lavender","kernel_xiaomi_lavender","vendor_xiaomi_lavender"]
 

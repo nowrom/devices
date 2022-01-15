@@ -1,0 +1,9 @@
+brand = "OPPO"
+name = "R7s (International)"
+codename = "r7sf"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "4 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band"

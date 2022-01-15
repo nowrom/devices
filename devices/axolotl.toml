@@ -1,0 +1,9 @@
+brand = "SHIFT"
+name = "SHIFT6mq"
+codename = "axolotl"
+
+[[roms]]
+id = "lineages"
+cpu = "Kryo 385"
+ram = "8 GB LPDDR4X"
+wifi = "802.11 a/b/g/n/ac, DLNA, Dual-band, Hotspot, Wi-Fi Direct, Wi-Fi Display"

@@ -26,6 +26,12 @@ maintainer = "Sukeerat Singh Goindi"
 group = "https://t.me/havocalioth_in"
 
 [[roms]]
+id = "lineages"
+cpu = "Kryo 585"
+ram = "6/8/12 GB"
+wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_alioth","device_xiaomi_sm8250-common","kernel_xiaomi_sm8250","vendor_xiaomi_alioth","vendor_xiaomi_sm8250-common"]
 

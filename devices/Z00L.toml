@@ -1,0 +1,9 @@
+brand = "ASUS"
+name = "Zenfone 2 Laser (720p)"
+codename = "Z00L"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "2 GB"
+wifi = "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"

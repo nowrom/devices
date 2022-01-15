@@ -1,0 +1,9 @@
+brand = "HTC"
+name = "One M9 (GSM)"
+codename = "himaul"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53 & Cortex-A57"
+ram = "3 GB"
+wifi = "802.11 a/b/g/n/ac (2.4 & 5 GHz)"

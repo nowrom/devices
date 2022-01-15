@@ -1,0 +1,9 @@
+brand = "LG"
+name = "G5 (International)"
+codename = "h850"
+
+[[roms]]
+id = "lineages"
+cpu = "Kryo"
+ram = "4 GB"
+wifi = "802.11 a/b/g/n/ac"

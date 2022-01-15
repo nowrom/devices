@@ -1,6 +1,12 @@
 brand = "Xiaomi"
-name = "Xiaomi Mi Note 2"
+name = "Mi Note 2"
 codename = "scorpio"
+
+[[roms]]
+id = "lineages"
+cpu = "Kryo"
+ram = "4/6 GB LPDDR4"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
 
 [[roms]]
 id = "pixelexperience"

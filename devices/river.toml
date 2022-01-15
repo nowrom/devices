@@ -16,6 +16,12 @@ maintainer = "Andrew Hexen"
 group = "https://t.me/havoc_river"
 
 [[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "4 GB"
+wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_motorola_river","device_motorola_sdm632-common","kernel_motorola_sdm632","packages_apps_MotCamera2","vendor_motorola_river","vendor_motorola_sdm632-common"]
 

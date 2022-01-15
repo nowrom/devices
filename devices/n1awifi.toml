@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy Note 10.1 Wi-Fi (2014)"
+codename = "n1awifi"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A15 & Cortex-A7"
+ram = "3 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, hotspot"

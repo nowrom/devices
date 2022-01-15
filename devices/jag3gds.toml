@@ -1,0 +1,9 @@
+brand = "LG"
+name = "G3 S"
+codename = "jag3gds"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A7"
+ram = "1 GB"
+wifi = "802.11 b/g/n, Wi-Fi Direct, DLNA, Hotspot"

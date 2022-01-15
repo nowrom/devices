@@ -23,6 +23,12 @@ maintainer = "Aryan Karan"
 group = "https://t.me/havoc_os_onclite"
 
 [[roms]]
+id = "lineages"
+cpu = "Kryo 250"
+ram = "2/3 GB"
+wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
+
+[[roms]]
 id = "pixelextended"
 url = "https://sourceforge.net/projects/pixelextended/files/onclite/PixelExtended_onclite-12.0-20211219-0450-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-onclite-19-12-21.4377045/"

@@ -1,0 +1,9 @@
+brand = "ASUS"
+name = "ROG Phone 2 (ZS660KL)"
+codename = "I001D"
+
+[[roms]]
+id = "lineages"
+cpu = "Kryo 485"
+ram = "8/12 GB"
+wifi = "802.11 a/b/g/n/ac"

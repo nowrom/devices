@@ -1,0 +1,9 @@
+brand = "LG"
+name = "G5 (US Unlocked)"
+codename = "rs988"
+
+[[roms]]
+id = "lineages"
+cpu = "Kryo"
+ram = "4 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"

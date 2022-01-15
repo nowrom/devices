@@ -7,3 +7,9 @@ id = "havocos"
 url = "https://sourceforge.net/projects/havoc-os/files/I01WD/Havoc-OS-v3.8-20200919-I01WD-Official-GApps.zip/download"
 maintainer = "Raileanu Cosmin (Comico)"
 group = "https://t.me/havoc_i01wd"
+
+[[roms]]
+id = "lineages"
+cpu = "Kryo 485"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac"

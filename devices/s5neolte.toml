@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy S5 Neo"
+codename = "s5neolte"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "2 GB"
+wifi = "802.11 a/b/g/n/ac"

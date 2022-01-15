@@ -1,0 +1,9 @@
+brand = "Nokia"
+name = "6.1 Plus"
+codename = "DRG"
+
+[[roms]]
+id = "lineages"
+cpu = "Kryo 260"
+ram = "4/6 GB LPDDR4X"
+wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Wi-Fi Display, Hotspot"

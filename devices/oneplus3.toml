@@ -21,6 +21,12 @@ maintainer = "Anushek Prasal"
 group = "https://t.me/havoc_oneplus3"
 
 [[roms]]
+id = "lineages"
+cpu = "Kryo"
+ram = "6 GB LPDDR4"
+wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_oneplus_oneplus3","vendor_oneplus_oneplus3","kernel_oneplus_msm8996"]
 

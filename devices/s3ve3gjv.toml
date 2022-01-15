@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy S III Neo (Samsung Camera)"
+codename = "s3ve3gjv"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A7"
+ram = "1.5 GB"
+wifi = "802.11 a/b/g/n"

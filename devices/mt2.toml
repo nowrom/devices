@@ -1,0 +1,9 @@
+brand = "Huawei"
+name = "Ascend Mate 2 4G"
+codename = "mt2"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A7"
+ram = "2 GB"
+wifi = "802.11 b/g/n, Wi-Fi Direct, DLNA, Hotspot"

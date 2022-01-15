@@ -1,0 +1,9 @@
+brand = "Nubia"
+name = "Z9 Max"
+codename = "nx512j"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "2 GB"
+wifi = "802.11 b/g/n/ac Dual-band, Wi-Fi Direct, DLNA, Hotspot"

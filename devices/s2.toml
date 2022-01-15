@@ -1,6 +1,12 @@
 brand = "LeEco"
-name = "LeEco Le 2"
+name = "Le 2"
 codename = "s2"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53 & Cortex-A72"
+ram = "3 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
 
 [[roms]]
 id = "sakura"

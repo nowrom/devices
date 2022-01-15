@@ -1,0 +1,9 @@
+brand = "Google"
+name = "Nexus 9 (Wi-Fi)"
+codename = "flounder"
+
+[[roms]]
+id = "lineages"
+cpu = "Denver"
+ram = "2 GB"
+wifi = "802.11a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"

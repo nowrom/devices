@@ -1,6 +1,12 @@
-brand = "Xiaomi (Redmi Series)"
-name = "Redmi Note 9"
+brand = "Motorola"
+name = "Moto G3 Turbo"
 codename = "merlin"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "2 GB"
+wifi = "802.11 b/g/n, Hotspot"
 
 [[roms]]
 id = "pixelplusui"

@@ -14,6 +14,12 @@ recovery = ""
 id = "dotos"
 
 [[roms]]
+id = "lineages"
+cpu = "Kryo 475"
+ram = "6/8/12 GB LPDDR4"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_oneplus_avicii","device_oneplus_extras","device_oneplus_sm7250-common","kernel_oneplus_sm7250","vendor_oneplus_avicii","vendor_oneplus_sm7250-common","vendor_oneplus-firmware","vendor_oneplus_wfdcommon"]
 

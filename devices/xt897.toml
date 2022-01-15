@@ -1,0 +1,9 @@
+brand = "Motorola"
+name = "Photon Q 4G LTE"
+codename = "xt897"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A9"
+ram = "1 GB"
+wifi = "802.11 2.4GHz b/g/n"

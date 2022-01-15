@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy Tab 3 7.0 LTE"
+codename = "lt02ltespr"
+
+[[roms]]
+id = "lineages"
+cpu = "Krait"
+ram = "1.5 GB"
+wifi = "802.11 a/b/g/n, Dual-band, WiFi Direct, Hotspot"

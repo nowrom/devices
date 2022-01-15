@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy Tab PRO 10.1"
+codename = "n2awifi"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A15 & Cortex-A7"
+ram = "2 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"

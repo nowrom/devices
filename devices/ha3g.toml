@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy Note 3 (International 3G)"
+codename = "ha3g"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A15 & Cortex-A7"
+ram = "3 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, DLNA, Wi-Fi Direct, Hotspot"

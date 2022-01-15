@@ -27,6 +27,12 @@ maintainer = "Vikas Yaduvanshi"
 group = "https://t.me/+tNPSDUw3FUJlNDQ1"
 
 [[roms]]
+id = "lineages"
+cpu = "Kryo 385"
+ram = "6/8 GB LPDDR4X"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_oneplus_enchilada","device_oneplus_sdm845-common","device_oneplus_common","vendor_oneplus_sdm845-common"]
 
@@ -67,11 +73,11 @@ developer = "DennySPb"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.1"
+version = "v4.9"
 developer = "DennySPb"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v5.1"
 developer = "DennySPb"

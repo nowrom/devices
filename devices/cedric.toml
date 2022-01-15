@@ -1,6 +1,12 @@
-brand = "Moto"
+brand = "Motorola"
 name = "Moto G5"
 codename = "cedric"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "2/3 GB"
+wifi = "802.11 a/b/g/n, Dual band, Wi-Fi Direct, Hotspot"
 
 [[roms]]
 id = "sakura"

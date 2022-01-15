@@ -22,4 +22,10 @@ maintainer = "Edward Wu"
 group = "https://t.me/havoc_Z01R"
 
 [[roms]]
+id = "lineages"
+cpu = "Kryo 385"
+ram = "4/6/8 GB LPDDR4X"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+
+[[roms]]
 id = "evolutionx"

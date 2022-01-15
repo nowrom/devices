@@ -1,0 +1,9 @@
+brand = "Motorola"
+name = "Moto X"
+codename = "ghost"
+
+[[roms]]
+id = "lineages"
+cpu = "Krait 200"
+ram = "2 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, DLNA, Hotspot"

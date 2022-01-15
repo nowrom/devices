@@ -1,0 +1,9 @@
+brand = "Fairphone"
+name = "3"
+codename = "FP3"
+
+[[roms]]
+id = "lineages"
+cpu = "Kryo 250"
+ram = "4 GB"
+wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct"

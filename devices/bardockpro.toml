@@ -1,0 +1,9 @@
+brand = "BQ"
+name = "Aquaris X Pro"
+codename = "bardockpro"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "3/4 GB LPDDR3"
+wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Wi-Fi Hotspot"

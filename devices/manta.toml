@@ -1,0 +1,9 @@
+brand = "Google"
+name = "Nexus 10"
+codename = "manta"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A15"
+ram = "2 GB"
+wifi = "802.11 b/g/n, Wi-Fi Direct, DLNA"

@@ -1,0 +1,9 @@
+brand = "OnePlus"
+name = "X"
+codename = "onyx"
+
+[[roms]]
+id = "lineages"
+cpu = "Krait 400"
+ram = "3 GB"
+wifi = "802.11 b/g/n, Hotspot"

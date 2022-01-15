@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy S III (AT&T)"
+codename = "d2att"
+
+[[roms]]
+id = "lineages"
+cpu = "Krait"
+ram = "2 GB"
+wifi = "802.11 b/g/n"

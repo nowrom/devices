@@ -7,6 +7,12 @@ id = "arrowos"
 maintainer = "Deivid Ignacio"
 
 [[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "2 GB"
+wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
+
+[[roms]]
 id = "sakura"
 xda_thread = ""
 maintainer_url = "null"

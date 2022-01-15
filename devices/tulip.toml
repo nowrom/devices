@@ -23,6 +23,12 @@ maintainer = "Akhil MS"
 group = "https://t.me/havoc_tulip"
 
 [[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "3 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
+
+[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/Mustafa.jpg"

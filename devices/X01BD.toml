@@ -24,6 +24,12 @@ maintainer = "Sukeerat Singh Goindi"
 group = "t.me/havoc_X01BD"
 
 [[roms]]
+id = "lineages"
+cpu = "Kryo 260"
+ram = "3/4/6 GB"
+wifi = "802.11 b/g/n, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_asus_X01BD","device_asus_sdm660-common","kernel_asus_sdm660","vendor_asus_X01BD","vendor_asus_sdm660-common"]
 

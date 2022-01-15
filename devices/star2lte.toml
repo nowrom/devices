@@ -10,3 +10,9 @@ maintainer = "Baddar90"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
 recovery = ""
+
+[[roms]]
+id = "lineages"
+cpu = "Exynos M3 & Cortex-A55"
+ram = "6 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"

@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy S5 (International 3G)"
+codename = "k3gxx"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A15 & Cortex-A7"
+ram = "2 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, DLNA, Wi-Fi Direct, Hotspot"

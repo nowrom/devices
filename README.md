@@ -48,6 +48,7 @@ git clone https://github.com/Havoc-OS/OTA havocota
 git clone https://github.com/crdroidandroid/android_vendor_crDroidOTA
 git clone https://github.com/Spark-Devices/OTA sparkota
 git clone https://github.com/PixelExtended/OTA pixelextendedota
+git clone https://github.com/LineageOS/lineage_wiki
 ```
 
 make changes to updatelist.ts and commit done 🚀

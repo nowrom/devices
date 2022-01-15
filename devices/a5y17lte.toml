@@ -6,3 +6,9 @@ codename = "a5y17lte"
 id = "crdroid"
 gapps = ""
 recovery = ""
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "3 GB"
+wifi = "802.11 a/b/g/n/ac"

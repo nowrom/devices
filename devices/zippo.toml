@@ -1,6 +1,12 @@
-brand = "Unknown"
-name = "Lenovo Z6 Pro"
+brand = "Lenovo"
+name = "Z6 Pro"
 codename = "zippo"
+
+[[roms]]
+id = "lineages"
+cpu = "Kryo 485"
+ram = "6/8/12 GB LPDDR4X"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
 
 [[roms]]
 id = "sparkos"

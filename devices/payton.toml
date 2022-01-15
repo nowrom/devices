@@ -11,6 +11,12 @@ recovery = "https://eu.dl.twrp.me/payton/"
 id = "dotos"
 
 [[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "3/4/6 GB"
+wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_motorola_payton","vendor_motorola_payton"]
 

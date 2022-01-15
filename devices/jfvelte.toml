@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy S4 Value Edition (GT-I9515/L)"
+codename = "jfvelte"
+
+[[roms]]
+id = "lineages"
+cpu = "Krait 300"
+ram = "2 GB"
+wifi = "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"

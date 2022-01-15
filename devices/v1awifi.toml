@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy Note Pro 12.2 Wi-Fi"
+codename = "v1awifi"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A15 & Cortex-A7"
+ram = "3 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct"

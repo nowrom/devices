@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy S III (Verizon)"
+codename = "d2vzw"
+
+[[roms]]
+id = "lineages"
+cpu = "Krait"
+ram = "2 GB"
+wifi = "802.11 b/g/n"

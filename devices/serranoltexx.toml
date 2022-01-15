@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy S4 Mini (International LTE)"
+codename = "serranoltexx"
+
+[[roms]]
+id = "lineages"
+cpu = "Krait"
+ram = "1.5 GB"
+wifi = "802.11 a/b/g/n, Dual-band, DLNA, Wi-Fi Direct, Hotspot"

@@ -1,0 +1,9 @@
+brand = "Sony"
+name = "Xperia T"
+codename = "mint"
+
+[[roms]]
+id = "lineages"
+cpu = "Krait"
+ram = "1 GB"
+wifi = "802.11 2.4GHz a/b/g/n 5GHz, Wi-Fi Direct, Wi-Fi Display, Hotspot"

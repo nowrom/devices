@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy Tab 2 7.0 / Tab 2 10.1 (GSM)"
+codename = "espresso3g"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A9"
+ram = "1 GB"
+wifi = "802.11 a/b/g/n, Wi-Fi Direct, Hotspot"

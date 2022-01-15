@@ -11,6 +11,12 @@ changelog = "- Update Security Patch\r\n- Update stormbreaker kernel\r\n- Misc c
 id = "dotos"
 
 [[roms]]
+id = "lineages"
+cpu = "Kryo 250"
+ram = "3/4 GB"
+wifi = "802.11 b/g/n, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_asus_X01AD","kernel_asus_X01AD","vendor_asus-firmware","vendor_asus_X01AD"]
 

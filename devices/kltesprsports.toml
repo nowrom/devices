@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy S5 Sport"
+codename = "kltesprsports"
+
+[[roms]]
+id = "lineages"
+cpu = "Krait 400"
+ram = "2 GB"
+wifi = "802.11 a/b/g/n/ac"

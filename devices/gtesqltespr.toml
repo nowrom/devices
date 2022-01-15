@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy Tab E 8.0 LTE (Sprint)"
+codename = "gtesqltespr"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "1.5 GB"
+wifi = "802.11 a/b/g/n"

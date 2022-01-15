@@ -1,0 +1,9 @@
+brand = "Motorola"
+name = "Droid RAZR/RAZR MAXX (CDMA)"
+codename = "spyder"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A9"
+ram = "1 GB"
+wifi = "Wi-Fi 802.11 b/g/n"

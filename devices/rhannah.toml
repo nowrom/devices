@@ -1,0 +1,9 @@
+brand = "Motorola"
+name = "Moto E5 Plus (XT1924-1/2/4/5)"
+codename = "rhannah"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53"
+ram = "2/3 GB"
+wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"

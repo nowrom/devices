@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy S6"
+codename = "zerofltexx"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A53 & Cortex-A57"
+ram = "3 GB"
+wifi = "802.11 a/b/g/n/ac, Dual Band, Wi-Fi Direct, Hotspot"

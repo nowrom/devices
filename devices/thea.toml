@@ -1,0 +1,9 @@
+brand = "Motorola"
+name = "Moto G 2014 LTE"
+codename = "thea"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A7"
+ram = "1 GB"
+wifi = "Wi-Fi 802.11 b/g/n, Hotspot"

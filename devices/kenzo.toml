@@ -9,6 +9,12 @@ maintainer = "Magicxavi"
 group = "https://t.me/havoc_kenzo"
 
 [[roms]]
+id = "lineages"
+cpu = "Cortex-A53 & Cortex-A72"
+ram = "2/3 GB"
+wifi = "802.11 a/b/g/n/ac"
+
+[[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.8"

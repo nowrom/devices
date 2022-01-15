@@ -6,3 +6,9 @@ codename = "gta4xlwifi"
 id = "crdroid"
 gapps = "https://opengapps.org/"
 recovery = "https://sourceforge.net/projects/darkjoker360-developements/files/Samsung/Galaxy%20Tab%20S6%20Lite/recovery-11.img/download"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A73 & Cortex-A53"
+ram = "4 GB"
+wifi = "802.11 a/b/g/n/ac"

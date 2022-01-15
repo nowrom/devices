@@ -14,6 +14,12 @@ maintainer = "Sairam Majgaonkar"
 group = "https://t.me/havoc_land"
 
 [[roms]]
+id = "lineages"
+cpu = "Cortex-A53 & Cortex-A53"
+ram = "2/3 GB"
+wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_land","kernel_xiaomi_msm8937","vendor_xiaomi_land"]
 

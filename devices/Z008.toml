@@ -1,0 +1,9 @@
+brand = "ASUS"
+name = "Zenfone 2 (720p)"
+codename = "Z008"
+
+[[roms]]
+id = "lineages"
+cpu = "Intel Atom"
+ram = "2 GB"
+wifi = "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, hotspot"

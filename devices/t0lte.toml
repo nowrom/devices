@@ -1,0 +1,9 @@
+brand = "Samsung"
+name = "Galaxy Note 2 (LTE)"
+codename = "t0lte"
+
+[[roms]]
+id = "lineages"
+cpu = "Cortex-A9"
+ram = "2 GB"
+wifi = "802.11 a/b/g/n"

@@ -1,0 +1,9 @@
+brand = "Google"
+name = "Nexus 4"
+codename = "mako"
+
+[[roms]]
+id = "lineages"
+cpu = "Krait"
+ram = "2 GB"
+wifi = "802.11 b/g/n"
