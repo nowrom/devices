@@ -11,6 +11,7 @@ import {
 	crdroid,
 	dotos,
 	evolutionx,
+	grapheneos,
 	havocos,
 	legion,
 	lineages,
@@ -55,6 +56,7 @@ await run(cherishos);
 await run(crdroid);
 await run(dotos);
 await run(evolutionx);
+await run(grapheneos);
 await run(havocos);
 await run(legion);
 await run(lineages);
@@ -66,6 +68,31 @@ await run(sakura);
 await run(spark);
 await run(evolutionx);
 await run(syberia);
+
+const overwrites = JSON.parse(await Deno.readTextFile('./overwrites.json'));
+for (const [k, _] of stored_devices) {
+	let overwrite = overwrites[k];
+	if (overwrite) {
+		const val = stored_devices.get(overwrite) || { roms: [] };
+		stored_devices.set(overwrite, {
+			...stored_devices.get(k),
+			...val,
+			roms: [...val.roms, ...stored_devices.get(k)?.roms],
+		});
+		stored_devices.delete(k);
+	}
+	overwrite = overwrites[stored_devices.get(k)?.codename];
+	if (overwrite) {
+		const val = stored_devices.get(overwrite) || { roms: [] };
+		stored_devices.set(overwrite.toLowerCase(), {
+			...stored_devices.get(k),
+			...val,
+			codename: overwrite,
+			roms: [...val.roms, ...stored_devices.get(k)?.roms],
+		});
+		stored_devices.delete(k);
+	}
+}
 
 await Promise.all(
 	[...stored_devices.values()].map((x) => {

@@ -1,6 +1,7 @@
-brand = "Google"
-name = "Pixel 6 Pro"
 codename = "Raven"
 
 [[roms]]
 id = "calyxos"
+
+[[roms]]
+id = "grapheneos"

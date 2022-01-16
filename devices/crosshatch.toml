@@ -1,6 +1,6 @@
+codename = "crosshatch"
 brand = "Google"
 name = "Pixel 3 XL"
-codename = "crosshatch"
 
 [[roms]]
 id = "calyxos"
@@ -9,6 +9,9 @@ id = "calyxos"
 id = "arrowos"
 maintainer = "ReallySnow"
 changelog = "Add AOSP RCS packages\r\nRemove split permissions"
+
+[[roms]]
+id = "grapheneos"
 
 [[roms]]
 id = "lineages"

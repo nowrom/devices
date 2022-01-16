@@ -1,6 +1,6 @@
+codename = "bonito"
 brand = "Google"
 name = "Pixel 3a XL"
-codename = "bonito"
 
 [[roms]]
 id = "CalyxOS"
@@ -10,6 +10,9 @@ id = "pixelextended"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "grapheneos"
 
 [[roms]]
 id = "lineages"

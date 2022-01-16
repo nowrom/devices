@@ -1,9 +1,12 @@
-brand = "Google"
-name = "Pixel 4a (5G)"
 codename = "bramble"
+brand = "Google"
+name = "Pixel 4a 5G"
 
 [[roms]]
 id = "calyxos"
+
+[[roms]]
+id = "grapheneos"
 
 [[roms]]
 id = "lineages"

@@ -1,9 +1,12 @@
+codename = "sunfish"
 brand = "Google"
 name = "Pixel 4a"
-codename = "sunfish"
 
 [[roms]]
 id = "calyxos"
+
+[[roms]]
+id = "grapheneos"
 
 [[roms]]
 id = "lineages"

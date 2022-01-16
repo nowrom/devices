@@ -1,12 +1,15 @@
+codename = "sargo"
 brand = "Google"
 name = "Pixel 3a"
-codename = "sargo"
 
 [[roms]]
 id = "calyxos"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "grapheneos"
 
 [[roms]]
 id = "lineages"

@@ -35,11 +35,11 @@ developer = "HarukeyUA"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v5.0"
 developer = "magicxavi"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.0"
+version = "v4.9"
 developer = "magicxavi"

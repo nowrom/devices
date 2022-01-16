@@ -1,9 +1,12 @@
+codename = "redfin"
 brand = "Google"
 name = "Pixel 5"
-codename = "redfin"
 
 [[roms]]
 id = "calyxos"
+
+[[roms]]
+id = "grapheneos"
 
 [[roms]]
 id = "lineages"

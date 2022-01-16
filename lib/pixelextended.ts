@@ -30,7 +30,7 @@ export const pixelextended: UpdateFunction = async (
 				let device = getDevice(codename);
 				device = {
 					...device,
-					brand: device.brand || 'Unknown',
+					brand: device.brand,
 					name: device.name || file.device_name,
 					codename: codename,
 					roms: [

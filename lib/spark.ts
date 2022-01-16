@@ -24,7 +24,7 @@ export const spark: UpdateFunction = async (stored_devices, getDevice) => {
 				let device = getDevice(codename);
 				device = {
 					...device,
-					brand: device.brand || 'Unknown',
+					brand: device.brand,
 					name: device.name || file.name,
 					codename: codename,
 					roms: [
