@@ -1,6 +1,6 @@
 # Android rom repo
 
-## Non automatable roms (5)
+## Non automatable roms (4)
 
 These roms don't have a public devices.json list or whatever and have to be added manually, or if you find a way to get the json or get the devices another way..
 
@@ -8,11 +8,11 @@ These roms don't have a public devices.json list or whatever and have to be adde
 - nusantararom
 - derpfest
 - Octavi-OS
-- GrapheneOS
 
-## Manually maintained roms (1)
+## Manually maintained roms (2)
 
 - calyxos
+- GrapheneOS
 
 ## Unmaintained roms (2)
 
