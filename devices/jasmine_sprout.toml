@@ -42,6 +42,9 @@ version_code = "eleven"
 deprecated = true
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/rahul.jpg"

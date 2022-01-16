@@ -16,6 +16,7 @@ export * from './cherishos.ts';
 export * from './evolutionx.ts';
 export * from './lineages.ts';
 export * from './AOSPK.ts';
+export * from './potato.ts';
 export type UpdateFunction = (
 	stored_devices: Map<string, any>,
 	getDevice: (name: string) => Record<string, any>

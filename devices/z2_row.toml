@@ -6,3 +6,6 @@ brand = "ZUK"
 id = "arrowos"
 maintainer = "kubersharma001, weimerd"
 changelog = "-"
+
+[[roms]]
+id = "potato"

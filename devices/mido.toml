@@ -53,6 +53,9 @@ stable = false
 deprecated = false
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "pixelplusui"
 active = "active"
 photo = "./assets/images/smokey_avatar.jpg"

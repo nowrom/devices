@@ -16,4 +16,7 @@ gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
 recovery = "https://forum.xda-developers.com/t/recovery-3-5-1-unofficial-twrp-xiaomi-mi-10-umi.4241705/"
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "evolutionx"

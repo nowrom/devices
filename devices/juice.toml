@@ -36,6 +36,9 @@ donation_link = "https://www.paypal.com/paypalme/nathankits"
 photo = "https://avatars.githubusercontent.com/u/63705885?v=4"
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/john.jpg"

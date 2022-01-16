@@ -68,6 +68,9 @@ url = "https://sourceforge.net/projects/pixelextended/files/lavender/PixelExtend
 xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-12-lavender-01-11-21.4323719/"
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "pixelplusui"
 active = "active"
 photo = "./assets/images/Soham.jpg"

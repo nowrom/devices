@@ -58,6 +58,9 @@ stable = true
 deprecated = true
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "sakura"
 xda_thread = ""
 maintainer_url = "null"

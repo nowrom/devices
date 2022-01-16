@@ -10,3 +10,6 @@ photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devi
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
 changelog = "- Fix issues related to audio.\r\n- Misc changes."
+
+[[roms]]
+id = "potato"

@@ -14,3 +14,6 @@ recovery = "https://sourceforge.net/projects/mauronofrio-twrp/files/Perseus/twrp
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "potato"

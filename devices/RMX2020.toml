@@ -14,6 +14,9 @@ maintainer = "Inder"
 group = "https://t.me/havoc_rmx2020"
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/sarthak.jpg"

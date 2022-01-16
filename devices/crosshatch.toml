@@ -25,3 +25,6 @@ version_code = "twelve"
 xda_thread = ""
 stable = true
 deprecated = false
+
+[[roms]]
+id = "potato"

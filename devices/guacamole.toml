@@ -44,4 +44,7 @@ stable = true
 deprecated = true
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "evolutionx"

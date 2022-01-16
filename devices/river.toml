@@ -43,3 +43,6 @@ deprecated = true
 version_code = "twelve"
 stable = false
 deprecated = false
+
+[[roms]]
+id = "potato"

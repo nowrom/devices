@@ -11,3 +11,6 @@ changelog = "-"
 id = "crdroid"
 gapps = "https://nikgapps.com"
 recovery = "https://twrp.me/xiaomi/xiaomimipad4.html"
+
+[[roms]]
+id = "potato"

@@ -63,6 +63,9 @@ url = "https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended
 xda_thread = "https://forum.xda-developers.com/t/closed-rom-official-pixel-extended-rom-v4-0-android-12-alioth-aliothin-01-11-21.4355409/"
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/Ivan.jpg"

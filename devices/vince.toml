@@ -30,4 +30,7 @@ maintainer = "Mohammed Adnan"
 group = "https://t.me/havoc_vince"
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "evolutionx"

@@ -15,3 +15,6 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-vangogh-pixelexperience-aosp-official.4380355/"
 stable = true
 deprecated = false
+
+[[roms]]
+id = "potato"

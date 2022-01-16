@@ -22,6 +22,9 @@ maintainer = "LuPe"
 group = "https://t.me/havoc_daisy"
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v4.9"

@@ -57,6 +57,9 @@ stable = false
 deprecated = false
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "pixelplusui"
 active = "active"
 photo = "./assets/images/david.png"

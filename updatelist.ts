@@ -17,6 +17,7 @@ import {
 	pixelexperience,
 	pixelextended,
 	pixelUI,
+	potato,
 	sakura,
 	spark,
 	syberia,
@@ -59,6 +60,7 @@ await run(legion);
 await run(lineages);
 await run(pixelexperience);
 await run(pixelextended);
+await run(potato);
 await run(pixelUI);
 await run(sakura);
 await run(spark);

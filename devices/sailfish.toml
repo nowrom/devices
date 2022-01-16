@@ -27,3 +27,6 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-0-sailfish-pixelexperience-aosp-official.4247201/"
 stable = true
 deprecated = true
+
+[[roms]]
+id = "potato"

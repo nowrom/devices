@@ -5,3 +5,6 @@ brand = "10or"
 [[roms]]
 id = "arrowos"
 maintainer = "kardebayan"
+
+[[roms]]
+id = "potato"

@@ -41,4 +41,7 @@ xda_thread = "https://forum.xda-developers.com/t/4038949/"
 deprecated = false
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "evolutionx"

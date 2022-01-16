@@ -6,3 +6,6 @@ brand = "GM"
 id = "arrowos"
 maintainer = "noonlord"
 changelog = "Switched to libperfmgr for better performance, battery and less heating.\r\nSome stability improvements."
+
+[[roms]]
+id = "potato"

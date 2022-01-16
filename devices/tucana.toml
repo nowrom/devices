@@ -34,6 +34,9 @@ stable = false
 deprecated = false
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "sakura"
 xda_thread = ""
 maintainer_url = "null"

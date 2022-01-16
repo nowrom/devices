@@ -6,3 +6,6 @@ brand = "OPPO"
 id = "arrowos"
 maintainer = "art_chen"
 changelog = "- Misc changes and improvements"
+
+[[roms]]
+id = "potato"

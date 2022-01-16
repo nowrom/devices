@@ -62,6 +62,9 @@ url = "https://sourceforge.net/projects/pixelextended/files/miatoll/PixelExtende
 xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-miatoll-19-12-21.4377169/"
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/Lop.jpg"

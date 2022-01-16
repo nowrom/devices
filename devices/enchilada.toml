@@ -49,6 +49,9 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-enchilada-pixelexperienc
 deprecated = true
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "sakura"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-2-official-android-11.4232969/"
 maintainer_url = "https://forum.xda-developers.com/m/erad1.3262342/"

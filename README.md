@@ -36,6 +36,7 @@ These roms don't have a public devices.json list or whatever and have to be adde
 - sakura
 - spark
 - syberia
+- AOSPK (No rom info though sadly)
 
 ## Contributing
 

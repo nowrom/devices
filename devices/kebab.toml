@@ -51,6 +51,9 @@ stable = false
 deprecated = false
 
 [[roms]]
+id = "potato"
+
+[[roms]]
 id = "sakura"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-11-project-sakura-5-2-8t.4322695/"
 maintainer_url = "https://forum.xda-developers.com/m/azoller1.4202973/"
