@@ -6,6 +6,10 @@ codename = "tulip"
 id = "pixelextended"
 
 [[roms]]
+id = "AOSPK"
+xda_thread = ""
+
+[[roms]]
 id = "arrowos"
 maintainer = "IceBreaker2451"
 changelog = "- Testing with 4.4 kernel, clean flash is mandatory."

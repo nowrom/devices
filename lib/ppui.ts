@@ -31,7 +31,7 @@ export const pixelUI: UpdateFunction = async (stored_devices, getDevice) => {
 					},
 				],
 			};
-			stored_devices.set(codename, device);
+			stored_devices.set(codename.toLowerCase(), device);
 		});
 	});
 };

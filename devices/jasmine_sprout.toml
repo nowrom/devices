@@ -1,6 +1,10 @@
-codename = "jasmine_sprout"
-name = "Mi A2"
 brand = "Xiaomi"
+name = "Mi A2"
+codename = "jasmine_sprout"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "arrowos"

@@ -43,7 +43,7 @@ export const pixelextended: UpdateFunction = async (
 					],
 				};
 
-				stored_devices.set(codename, device);
+				stored_devices.set(codename.toLowerCase(), device);
 			})
 	);
 };

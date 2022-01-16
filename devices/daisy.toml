@@ -1,6 +1,10 @@
-codename = "daisy"
-name = "Mi A2 Lite"
 brand = "Xiaomi"
+name = "Mi A2 Lite"
+codename = "daisy"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "arrowos"

@@ -6,6 +6,10 @@ codename = "potter"
 id = "pixelextended"
 
 [[roms]]
+id = "AOSPK"
+xda_thread = ""
+
+[[roms]]
 id = "arrowos"
 maintainer = "daniml3, kubersharma001"
 changelog = "01/08/2021\r\n- Fixed night display"

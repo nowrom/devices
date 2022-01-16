@@ -1,6 +1,9 @@
-codename = "rosy"
-name = "Redmi 5"
 brand = "Xiaomi"
+name = "Redmi 5"
+codename = "rosy"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "arrowos"

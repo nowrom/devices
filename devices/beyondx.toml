@@ -3,6 +3,10 @@ name = "Galaxy S10 5G"
 codename = "beyondx"
 
 [[roms]]
+id = "AOSPK"
+xda_thread = ""
+
+[[roms]]
 id = "lineages"
 cpu = "Exynos M4 & Cortex-A75 & Cortex-A55"
 ram = "8 GB"

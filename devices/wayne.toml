@@ -6,6 +6,10 @@ codename = "wayne"
 id = "pixelextended"
 
 [[roms]]
+id = "AOSPK"
+xda_thread = ""
+
+[[roms]]
 id = "arrowos"
 maintainer = "TH779, ReallySnow"
 

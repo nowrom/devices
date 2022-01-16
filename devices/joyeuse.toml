@@ -1,6 +1,10 @@
 brand = "Xiaomi"
-name = "Xiaomi Redmi Note 9 Pro Global"
+name = "Redmi Note 9 Pro (Global)"
 codename = "joyeuse"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "havocos"

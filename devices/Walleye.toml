@@ -1,6 +1,0 @@
-brand = "Google"
-name = "Pixel 2"
-codename = "Walleye"
-
-[[roms]]
-id = "calyxos"

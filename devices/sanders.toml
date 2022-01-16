@@ -1,6 +1,10 @@
+brand = "Motorola"
+name = "Moto G5S Plus"
 codename = "sanders"
-name = "Moto G (5S) Plus"
-brand = "motorola"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "arrowos"

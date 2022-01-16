@@ -1,6 +1,10 @@
-brand = "OnePlus"
-name = "OnePlus 7T"
+brand = "Oneplus"
+name = "Oneplus 7T"
 codename = "hotdogb"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "crdroid"

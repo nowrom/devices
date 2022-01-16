@@ -9,6 +9,10 @@ id = "ancientos"
 id = "pixelextended"
 
 [[roms]]
+id = "AOSPK"
+xda_thread = ""
+
+[[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/opengapps/files/arm64/"
 recovery = "https://sourceforge.net/projects/jabiyeff-build/files/Recovery/OrangeFox-R11.1-santoni-08.06.21.zip/download"

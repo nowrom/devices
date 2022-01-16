@@ -43,7 +43,10 @@ export const syberia: UpdateFunction = async (stored_devices, getDevice) => {
 					],
 				};
 
-				stored_devices.set(file.response[0].device_codename, device);
+				stored_devices.set(
+					file.response[0].device_codename.toLowerCase(),
+					device
+				);
 			})
 	);
 };

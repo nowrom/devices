@@ -33,6 +33,6 @@ export const sakura: UpdateFunction = async (stored_devices, getDevice) => {
 				},
 			],
 		};
-		stored_devices.set(x.codename, device);
+		stored_devices.set(x.codename.toLowerCase(), device);
 	});
 };

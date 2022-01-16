@@ -1,6 +1,9 @@
-codename = "crosshatch"
+brand = "Google"
 name = "Pixel 3 XL"
-brand = "google"
+codename = "crosshatch"
+
+[[roms]]
+id = "calyxos"
 
 [[roms]]
 id = "arrowos"

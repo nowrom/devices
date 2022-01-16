@@ -1,6 +1,0 @@
-brand = "Xiaomi"
-name = "Redmi Note 8"
-codename = "Ginkgo"
-
-[[roms]]
-id = "pixelextended"

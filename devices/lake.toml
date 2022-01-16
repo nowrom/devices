@@ -1,6 +1,10 @@
 brand = "Motorola"
-name = "Moto G 7 Plus"
+name = "Moto G7 Plus"
 codename = "lake"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "crdroid"

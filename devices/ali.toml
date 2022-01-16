@@ -3,6 +3,10 @@ name = "Moto G6"
 codename = "ali"
 
 [[roms]]
+id = "AOSPK"
+xda_thread = ""
+
+[[roms]]
 id = "crdroid"
 gapps = "https://nikgapps.com/"
 recovery = "https://forum.xda-developers.com/t/twrp-unofficial-twrp-64-bit-3-5-2.4328145/"

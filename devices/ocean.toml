@@ -1,6 +1,10 @@
+brand = "Motorola"
+name = "Moto G7 Power"
 codename = "ocean"
-name = "moto g(7) power"
-brand = "motorola"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "arrowos"

@@ -1,6 +1,10 @@
 brand = "Samsung"
-name = "Samsung Galaxy S10e"
+name = "Galaxy S10e"
 codename = "beyond0lte"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "crdroid"

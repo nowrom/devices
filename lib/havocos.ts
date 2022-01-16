@@ -45,7 +45,7 @@ export const havocos: UpdateFunction = async (stored_devices, getDevice) => {
 						],
 					};
 
-					stored_devices.set(file.codename, device);
+					stored_devices.set(file.codename.toLowerCase(), device);
 				} catch (e) {}
 			})
 	);

@@ -3,6 +3,10 @@ name = "Redmi Note 10"
 codename = "mojito"
 
 [[roms]]
+id = "AOSPK"
+xda_thread = ""
+
+[[roms]]
 id = "cherishos"
 
 [[roms]]

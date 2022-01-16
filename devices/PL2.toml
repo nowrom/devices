@@ -1,6 +1,10 @@
-brand = "Nokia"
-name = "6.1 (2018)"
+brand = "Unknown"
+name = "Nokia 6.1 2018 (PL2)"
 codename = "PL2"
+
+[[roms]]
+id = "ancientos"
+photo = "https://fdn2.gsmarena.com/vv/bigpic/nokia-6-2018.jpg"
 
 [[roms]]
 id = "lineages"

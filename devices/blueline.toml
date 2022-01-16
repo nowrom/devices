@@ -1,6 +1,9 @@
-codename = "blueline"
+brand = "Google"
 name = "Pixel 3"
-brand = "google"
+codename = "blueline"
+
+[[roms]]
+id = "calyxos"
 
 [[roms]]
 id = "arrowos"

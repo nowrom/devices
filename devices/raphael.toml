@@ -10,6 +10,10 @@ id = "ancientos"
 photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
 
 [[roms]]
+id = "AOSPK"
+xda_thread = ""
+
+[[roms]]
 id = "arrowos"
 maintainer = "TH779, kubersharma001"
 
@@ -92,11 +96,11 @@ developer = "NATO666613"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.1"
+version = "v4.9"
 developer = "NATO666613"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v5.1"
 developer = "NATO666613"

@@ -1,6 +1,9 @@
-brand = "Asus Devices"
-name = "Asus Zenfone Max Shot/Plus M2"
+brand = "Asus"
+name = "Asus ZenFone Max Shot (ZB634KL)"
 codename = "a001d"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelplusui"

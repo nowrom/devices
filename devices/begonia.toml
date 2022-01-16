@@ -1,6 +1,13 @@
-brand = "Redmi"
+brand = "Xiaomi"
 name = "Redmi Note 8 Pro"
 codename = "begonia"
+
+[[roms]]
+id = "pixelextended"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "crdroid"

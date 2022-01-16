@@ -1,6 +1,10 @@
-brand = "Nokia"
-name = "6.1 Plus"
+brand = "Unknown"
+name = "Nokia 6.1 Plus (DRG)"
 codename = "DRG"
+
+[[roms]]
+id = "ancientos"
+photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices/main/DRG.png"
 
 [[roms]]
 id = "lineages"

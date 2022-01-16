@@ -144,6 +144,6 @@ export const arrowOs: UpdateFunction = async (stored_devices, getDevice) => {
 				},
 			],
 		};
-		stored_devices.set(name, device);
+		stored_devices.set(name.toLowerCase(), device);
 	});
 };

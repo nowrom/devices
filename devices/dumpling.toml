@@ -1,6 +1,13 @@
-codename = "dumpling"
-name = "ONEPLUS A5010"
 brand = "OnePlus"
+name = "oneplus 5T"
+codename = "dumpling"
+
+[[roms]]
+id = "pixelextended"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "arrowos"

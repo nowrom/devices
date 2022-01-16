@@ -1,6 +1,13 @@
-brand = "Redmi"
-name = "Redmi Y2/S2"
+brand = "Xiaomi"
+name = "Redmi 2s"
 codename = "ysl"
+
+[[roms]]
+id = "pixelextended"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "crdroid"

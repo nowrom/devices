@@ -1,6 +1,10 @@
 brand = "Samsung"
-name = "Samsung Galaxy N9"
+name = "Galaxy Note 9"
 codename = "crownqltechn"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "dotos"

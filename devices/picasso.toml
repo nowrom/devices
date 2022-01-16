@@ -40,3 +40,15 @@ deprecated = true
 version_code = "twelve"
 stable = true
 deprecated = false
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/maintainer_avatar.png"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/maintainer_avatar.png"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

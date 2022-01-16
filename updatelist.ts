@@ -5,6 +5,7 @@ import {
 import {
 	ancientOs,
 	aospExtended,
+	AOSPK,
 	arrowOs,
 	cherishos,
 	crdroid,
@@ -25,7 +26,7 @@ import {
 const stored_devices = new Map();
 
 function getDevice(id: string) {
-	return stored_devices.get(id) || { roms: [] };
+	return stored_devices.get(id?.toLowerCase()) || { roms: [] };
 }
 
 async function run(fn: UpdateFunction) {
@@ -40,13 +41,14 @@ await Promise.all(
 				const file = parse(
 					await Deno.readTextFile(`./static/devices/${x.name}`)
 				);
-				stored_devices.set(file.codename, file);
+				//@ts-ignore -
+				stored_devices.set(file.codename.toLowerCase(), file);
 			} catch (e) {}
 		})
 );
-
 await run(ancientOs);
 await run(aospExtended);
+await run(AOSPK);
 await run(arrowOs);
 await run(cherishos);
 await run(crdroid);

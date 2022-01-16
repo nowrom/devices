@@ -1,6 +1,9 @@
-codename = "taimen"
+brand = "Google"
 name = "Pixel 2 XL"
-brand = "google"
+codename = "taimen"
+
+[[roms]]
+id = "calyxos"
 
 [[roms]]
 id = "arrowos"

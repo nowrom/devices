@@ -1,10 +1,17 @@
-brand = "Unknown"
-name = "Redmi Note 8/8T (Ginkgo/Willow)"
+brand = "Xiaomi"
+name = "Redmi Note 8"
 codename = "ginkgo"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "ancientos"
 photo = "https://raw.githubusercontent.com/kutemeikito/Ryzen-Script/master/ginkgo.png"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "arrowos"

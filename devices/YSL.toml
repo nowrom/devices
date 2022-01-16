@@ -1,6 +1,0 @@
-brand = "Xiaomi"
-name = "Redmi 2s"
-codename = "YSL"
-
-[[roms]]
-id = "pixelextended"

@@ -6,6 +6,10 @@ codename = "river"
 id = "pixelextended"
 
 [[roms]]
+id = "AOSPK"
+xda_thread = ""
+
+[[roms]]
 id = "arrowos"
 maintainer = "Deivid Ignacio"
 

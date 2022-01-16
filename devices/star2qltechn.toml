@@ -1,6 +1,10 @@
 brand = "Samsung"
-name = "Samsung Galaxy S9+"
+name = "Galaxy S9+"
 codename = "star2qltechn"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "dotos"

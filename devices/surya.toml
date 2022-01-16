@@ -1,6 +1,13 @@
+brand = "Xiaomi"
+name = "Poco X3"
 codename = "surya"
-name = "POCO X3 NFC"
-brand = "POCO"
+
+[[roms]]
+id = "pixelextended"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "arrowos"

@@ -1,6 +1,9 @@
-codename = "cheeseburger"
-name = "ONEPLUS A5000"
 brand = "OnePlus"
+name = "oneplus 5"
+codename = "cheeseburger"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "arrowos"

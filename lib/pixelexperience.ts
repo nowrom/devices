@@ -45,6 +45,6 @@ export const pixelexperience: UpdateFunction = async (
 				},
 			],
 		};
-		stored_devices.set(x.codename, device);
+		stored_devices.set(x.codename.toLowerCase(), device);
 	});
 };

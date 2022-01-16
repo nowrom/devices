@@ -1,6 +1,0 @@
-brand = "Xiaomi"
-name = "Mi A3"
-codename = "Laurel_sprout"
-
-[[roms]]
-id = "pixelextended"

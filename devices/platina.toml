@@ -1,6 +1,10 @@
 brand = "Xiaomi"
-name = "MI 8 Lite"
+name = "Mi 8 Lite"
 codename = "platina"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
 
 [[roms]]
 id = "havocos"

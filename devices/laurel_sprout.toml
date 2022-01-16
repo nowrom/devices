@@ -1,6 +1,9 @@
-brand = "Unknown"
-name = "Xiaomi MI A3 (laurel_sprout)"
+brand = "Xiaomi"
+name = "Mi A3"
 codename = "laurel_sprout"
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "ancientos"

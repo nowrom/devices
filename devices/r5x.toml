@@ -5,7 +5,7 @@ brand = "Realme"
 [[roms]]
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
-changelog = "Initial A12 build"
+changelog = "Initial A12 build\r\nEnforcing"
 
 [[roms]]
 id = "havocos"

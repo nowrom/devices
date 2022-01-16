@@ -3,6 +3,10 @@ name = "Moto Z2 Play"
 codename = "albus"
 
 [[roms]]
+id = "AOSPK"
+xda_thread = ""
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

@@ -1,6 +1,10 @@
+brand = "Xiaomi"
+name = "Poco F2 Pro"
 codename = "lmi"
-name = "Redmi K30 Pro"
-brand = "Redmi"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-lmi-the-kraken-project-aospk.4306243/"
 
 [[roms]]
 id = "arrowos"
