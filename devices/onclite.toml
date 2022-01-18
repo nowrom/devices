@@ -20,7 +20,7 @@ id = "dotos"
 id = "havocos"
 url = "https://download.havoc-os.com/onclite/Havoc-OS-v4.12-20211227-onclite-Official-GApps.zip"
 maintainer = "Aryan Karan"
-group = "https://t.me/havoc_os_onclite"
+group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "lineages"

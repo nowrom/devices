@@ -11,7 +11,7 @@ changelog = "NOTE: For Realme UI 1.0 FW only."
 id = "havocos"
 url = "https://download.havoc-os.com/RMX2020/Havoc-OS-v4.12-20220105-RMX2020-Official-GApps.zip"
 maintainer = "Inder"
-group = "https://t.me/havoc_rmx2020"
+group = "https://t.me/+Ibbv25YKk7IxNDBl"
 
 [[roms]]
 id = "potato"

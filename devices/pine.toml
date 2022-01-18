@@ -6,11 +6,6 @@ codename = "pine"
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://nikgapps.com"
-recovery = "https://t.me/PineOfficial/239917"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

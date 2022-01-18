@@ -7,18 +7,13 @@ id = "AOSPK"
 xda_thread = ""
 
 [[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/hotdogb/Havoc-OS-v4.12-20220104-hotdogb-Official-GApps.zip"
 maintainer = "Anushek Prasal"
-group = "https://t.me/havoc_oneplus7"
+group = "https://t.me/+Vavim64zaoacn9Mv"
 
 [[roms]]
 id = "lineages"

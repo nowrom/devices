@@ -13,11 +13,11 @@ export interface Spark {
 }
 export const spark: UpdateFunction = async (stored_devices, getDevice) => {
 	await Promise.all(
-		[...Deno.readDirSync('./sparkota')]
+		[...Deno.readDirSync('./ota/sparkota')]
 			.filter((x) => x.name.endsWith('.json'))
 			.map(async (x) => {
 				const file: Spark = JSON.parse(
-					await Deno.readTextFile(`./sparkota/${x.name}`)
+					await Deno.readTextFile(`./ota/sparkota/${x.name}`)
 				);
 
 				const codename = x.name.split('.')[0];

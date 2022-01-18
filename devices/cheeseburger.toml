@@ -11,18 +11,13 @@ maintainer = "Bauuuuu"
 changelog = "- Partial sync with LOS tree\r\n- Misc fixes and upstream changes.\r\n- Misc fixes and upstream changes."
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
-recovery = "https://orangefox.download/device/cheeseburger"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
 id = "havocos"
 url = "https://sourceforge.net/projects/havoc-os/files/cheeseburger/Havoc-OS-v3.9-20200928-cheeseburger-Official-GApps.zip/download"
 maintainer = ""
-group = ""
+group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "lineages"

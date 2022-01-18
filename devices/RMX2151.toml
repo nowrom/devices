@@ -1,11 +1,6 @@
-brand = "Realme"
-name = "Realme 7 "
+brand = "Realme Devices"
+name = "Realme 7"
 codename = "RMX2151"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
 
 [[roms]]
 id = "pixelplusui"

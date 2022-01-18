@@ -1,11 +1,6 @@
 brand = "LG"
-name = "LG G3 Sprint"
+name = "G3 (Sprint)"
 codename = "ls990"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/opengapps/files/arm/20210825/open_gapps-arm-11.0-pico-20210825.zip/download"
-recovery = ""
 
 [[roms]]
 id = "lineages"

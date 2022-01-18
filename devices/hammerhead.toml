@@ -1,11 +1,6 @@
 brand = "Google"
-name = "Google Nexus 5"
+name = "Nexus 5"
 codename = "hammerhead"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://opengapps.org/?download=true&arch=arm&api=11.0&variant=pico"
-recovery = "https://bit.ly/2HrJXIn"
 
 [[roms]]
 id = "lineages"

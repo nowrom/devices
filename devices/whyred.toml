@@ -18,18 +18,13 @@ changelog = "• Added lawnchair launcher as default\r\n• Fixup status bar pad
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://bit.ly/2IPxrpg"
-recovery = ""
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/whyred/Havoc-OS-v4.8-20210810-whyred-Official-GApps.zip"
-maintainer = "Ruturaj Kadam (root2raj)"
-group = "https://t.me/Havoc_OS"
+maintainer = "Ruturaj Kadam"
+group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "lineages"

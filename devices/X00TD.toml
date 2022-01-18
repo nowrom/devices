@@ -6,11 +6,6 @@ codename = "X00TD"
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Canary-Releases/Addons-R/"
-recovery = "https://forum.xda-developers.com/t/recovery-x00t-kudprojects-unofficial-twrp-3-4-0-0-16-06-2020.3888110/"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -46,6 +41,11 @@ id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/maintainer_avatar.png"
 guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/sparkx00td"
+download = "https://downloads.spark-os.live/X00TD/Spark-S-Energized-OFFICIAL-X00TD-20220117.zip"
 
 [[roms]]
 id = "evolutionx"

@@ -5,7 +5,7 @@ brand = "Xiaomi"
 [[roms]]
 id = "arrowos"
 maintainer = "Dobsgw"
-changelog = "- Many update. Much wow\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial"
+changelog = "ENG TEST BUILD DO NOT USE\r\nFOR DEBUGGING ONLY\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial"
 
 [[roms]]
 id = "dotos"
@@ -14,7 +14,7 @@ id = "dotos"
 id = "havocos"
 url = "https://download.havoc-os.com/apollo/Havoc-OS-v4.12-20211222-apollo-Official-GApps.zip"
 maintainer = "Tushar Mahajan"
-group = "https://t.me/havocos_apollo"
+group = "https://t.me/+eEwUXXcdBbg3MDk5"
 
 [[roms]]
 id = "pixelexperience"

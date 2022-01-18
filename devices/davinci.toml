@@ -9,14 +9,10 @@ photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "RemyL"
+changelog = "Include lawnchair"
 
 [[roms]]
 id = "cherishos"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
 
 [[roms]]
 id = "dotos"
@@ -25,7 +21,7 @@ id = "dotos"
 id = "havocos"
 url = "https://sourceforge.net/projects/havoc-os/files/davinci/Havoc-OS-v3.9-20201002-davinci-Official-GApps.zip/download"
 maintainer = ""
-group = ""
+group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "legionos"
@@ -70,7 +66,7 @@ active = false
 [[roms]]
 id = "sparkos"
 group = "https://t.me/spkal01hub"
-download = "https://downloads.spark-os.live/davinci/Spark-S-Tempest-official-davinci-20211224.zip"
+download = "https://downloads.spark-os.live/davinci/Spark-S-Energized-Official-davinci-20220118.zip"
 
 [[roms]]
 id = "evolutionx"

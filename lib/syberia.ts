@@ -20,11 +20,11 @@ export interface Response {
 
 export const syberia: UpdateFunction = async (stored_devices, getDevice) => {
 	await Promise.all(
-		[...Deno.readDirSync('./official_devices/ab')]
+		[...Deno.readDirSync('./ota/official_devices/ab')]
 			.filter((x) => x.name.endsWith('.json'))
 			.map(async (x) => {
 				const file: Syberia = JSON.parse(
-					await Deno.readTextFile(`./official_devices/ab/${x.name}`)
+					await Deno.readTextFile(`./ota/official_devices/ab/${x.name}`)
 				);
 				let device = getDevice(file.response[0].device_codename);
 				device = {

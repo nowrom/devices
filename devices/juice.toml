@@ -14,18 +14,13 @@ id = "arrowos"
 maintainer = "John Paul Patigas"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://forum.xda-developers.com/t/gapps-arm64-flamegapps-for-android-9-0-10-0-11-0.4020917/"
-recovery = ""
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/juice/Havoc-OS-v4.12-20211223-juice-Official-GApps.zip"
 maintainer = "Joaquin Guzman"
-group = "https://t.me/havoc_juice"
+group = "https://t.me/+5ANvTgRGu4MxOGNl"
 
 [[roms]]
 id = "legionos"
@@ -53,7 +48,7 @@ guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/gui
 [[roms]]
 id = "sparkos"
 group = "https://t.me/UmaruchanSupport"
-download = "https://downloads.spark-os.live/juice/Spark-S-Tempest-OFFICIAL-juice-20211226.zip"
+download = "https://downloads.spark-os.live/juice/Spark-S-Energized-OFFICIAL-juice-20220117.zip"
 
 [[roms]]
 id = "evolutionx"

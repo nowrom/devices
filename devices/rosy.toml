@@ -10,11 +10,6 @@ id = "arrowos"
 maintainer = "Shriiyansh Pandey"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
-recovery = "https://sourceforge.net/projects/redmi5rosy/files/KewL-TWRP-3.5.2_9-0-rosy.img/download"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

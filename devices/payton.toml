@@ -1,11 +1,6 @@
 brand = "Motorola"
-name = "Motorola X4"
+name = "Motorola moto X4"
 codename = "payton"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
-recovery = "https://eu.dl.twrp.me/payton/"
 
 [[roms]]
 id = "dotos"

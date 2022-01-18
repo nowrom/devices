@@ -3,20 +3,10 @@ name = "Realme X2"
 codename = "x2"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://opengapps.org/"
-recovery = "https://orangefox.download/device/rmx1992"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
-recovery = "https://twrp.me/leeco/leecolemax2.html"
-
-[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/X2/Havoc-OS-v4.12-20220101-X2-Official-GApps.zip"
 maintainer = "Hritwik"
-group = "https://t.me/+f6fvNbV7pNtiMDZl"
+group = "https://t.me/+SSe9DonmAlFhMDk1"
 
 [[roms]]
 id = "legionos"

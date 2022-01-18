@@ -70,7 +70,7 @@ await run(evolutionx);
 await run(syberia);
 
 const overwrites = JSON.parse(await Deno.readTextFile('./overwrites.json'));
-for (const [k, _] of stored_devices) {
+for (const [k, v] of stored_devices) {
 	let overwrite = overwrites[k];
 	if (overwrite) {
 		const val = stored_devices.get(overwrite) || { roms: [] };

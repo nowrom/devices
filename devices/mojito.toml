@@ -1,6 +1,10 @@
-brand = "Xiaomi"
-name = "Redmi Note 10"
+brand = "Unknown"
+name = "Redmi Note 10 (mojito)"
 codename = "mojito"
+
+[[roms]]
+id = "ancientos"
+photo = "https://telegra.ph/file/2de89d1f6dce1118024ed.jpg"
 
 [[roms]]
 id = "AOSPK"
@@ -12,7 +16,7 @@ id = "cherishos"
 [[roms]]
 id = "crdroid"
 gapps = ""
-recovery = ""
+recovery = "https://dl.twrp.me/mojito/"
 
 [[roms]]
 id = "dotos"
@@ -21,7 +25,7 @@ id = "dotos"
 id = "havocos"
 url = "https://download.havoc-os.com/mojito/Havoc-OS-v4.12-20211230-mojito-Official-GApps.zip"
 maintainer = "Joaquin Guzman"
-group = "https://t.me/havoc_mojito"
+group = "https://t.me/+fwLy4jLVCLc2YzA9"
 
 [[roms]]
 id = "pixelexperience"

@@ -8,15 +8,10 @@ id = "pixelextended"
 [[roms]]
 id = "arrowos"
 maintainer = "Aftab Ashrafi"
-changelog = "Lawnchair"
+changelog = "with wrapped key encryption, if encrypted on a build older than Jan 2022, you will need clean flash\r\n\r\n- Widevine L1 fixed\r\n- Tethering/OTG fixed\r\n- Encryption fixed (with aosp recovery)\r\n- Switched to Enforcing\r\n- Switched to Qti Bt\r\n- Fixed several bugs"
 
 [[roms]]
 id = "cherishos"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
-recovery = "https://orangefox.download/device/violet"
 
 [[roms]]
 id = "dotos"
@@ -25,7 +20,7 @@ id = "dotos"
 id = "havocos"
 url = "https://download.havoc-os.com/violet/Havoc-OS-v4.12-20211223-violet-Official-GApps.zip"
 maintainer = "Athul Dinesan"
-group = "https://t.me/havoc_violet"
+group = "https://t.me/+r2lq1BYhIdM5ZDY1"
 
 [[roms]]
 id = "legionos"

@@ -7,11 +7,6 @@ id = "arrowos"
 maintainer = "Baddar90"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
-recovery = ""
-
-[[roms]]
 id = "lineages"
 cpu = "Exynos M3 & Cortex-A55"
 ram = "6 GB"

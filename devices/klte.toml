@@ -1,11 +1,6 @@
 brand = "Samsung"
-name = "Galaxy S5 LTE"
+name = "Galaxy S5 LTE (G900F/M/R4/R7/T/V/W8)"
 codename = "klte"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
 
 [[roms]]
 id = "lineages"

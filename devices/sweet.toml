@@ -20,7 +20,7 @@ changelog = "12/11/2021\r\n• Improved power management\r\n• Switched back to
 
 [[roms]]
 id = "crdroid"
-gapps = "https://flamegapps.github.io/download"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/canary/android-12/"
 recovery = "https://androidfilehost.com/?w=files&flid=324059"
 
 [[roms]]

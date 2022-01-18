@@ -20,13 +20,13 @@ export interface HavocOS {
 
 export const havocos: UpdateFunction = async (stored_devices, getDevice) => {
 	await Promise.all(
-		[...Deno.readDirSync('./havocota/gapps')]
+		[...Deno.readDirSync('./ota/havocota/gapps')]
 			.filter((x) => x.name.endsWith('.json'))
 			.filter((x) => !x.name.includes('_'))
 			.map(async (x) => {
 				try {
 					const file: HavocOS = JSON.parse(
-						await Deno.readTextFile(`./havocota/gapps/${x.name}`)
+						await Deno.readTextFile(`./ota/havocota/gapps/${x.name}`)
 					);
 					let device = getDevice(file.codename);
 					device = {

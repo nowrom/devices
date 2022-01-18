@@ -14,18 +14,13 @@ id = "arrowos"
 maintainer = "Ganesh Varma, Sonal Singh"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://bitgapps.ga/GApps/arm64/R/"
-recovery = "https://dl.twrp.me/mido/twrp-3.6.0_9-0-mido.img"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
 id = "havocos"
-url = "https://sourceforge.net/projects/havoc-os/files/mido/Havoc-OS-v3.9-20200918-mido-Official-GApps.zip/download"
-maintainer = "Sagar Rokade (Sagarrokade006)"
-group = "https://t.me/havoc_mido"
+url = "https://download.havoc-os.com/mido/Havoc-OS-v4.12-20211225-mido-Official-GApps.zip"
+maintainer = "Kevin Frost"
+group = "https://t.me/+vLOXlgEDUwIxZmU1"
 
 [[roms]]
 id = "lineages"
@@ -51,6 +46,11 @@ deprecated = false
 version_code = "twelve"
 stable = false
 deprecated = false
+
+[[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/mido/PixelExtended_mido-12.0-20220115-1624-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-mido-15-01-22.4388883/"
 
 [[roms]]
 id = "potato"

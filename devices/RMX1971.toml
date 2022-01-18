@@ -47,7 +47,7 @@ guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/gui
 [[roms]]
 id = "sparkos"
 group = "https://t.me/Spark_RMX1971"
-download = "https://downloads.spark-os.live/RMX1971/Spark-S-Tempest-OFFICIAL-RMX1971-20211224.zip"
+download = "https://downloads.spark-os.live/RMX1971/Spark-S-Energized-OFFICIAL-RMX1971-20220118.zip"
 
 [[roms]]
 id = "evolutionx"

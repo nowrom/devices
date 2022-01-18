@@ -16,7 +16,7 @@ id = "dotos"
 id = "havocos"
 url = "https://download.havoc-os.com/gauguin/Havoc-OS-v4.6-20210701-gauguin-Official-GApps.zip"
 maintainer = "baolong24"
-group = "https://t.me/havoc_gauguin"
+group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "pixelexperience"

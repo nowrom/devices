@@ -12,14 +12,14 @@ id = "cherishos"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://t.me/WeebGAppsChannel"
-recovery = "https://dl.twrp.me/Z01RD/twrp-installer-3.5.2_9-0-Z01RD.zip"
+gapps = "https://sourceforge.net/projects/flamegapps/"
+recovery = "https://dl.twrp.me/Z01RD/twrp-installer-3.6.0_11-0-Z01RD.zip.html"
 
 [[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/Z01R/Havoc-OS-v4.12-20211230-Z01R-Official-GApps.zip"
 maintainer = "Edward Wu"
-group = "https://t.me/havoc_Z01R"
+group = "https://t.me/+wYginzTHev03MmM1"
 
 [[roms]]
 id = "lineages"

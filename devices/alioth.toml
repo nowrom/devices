@@ -21,13 +21,13 @@ changelog = "- Update blobs to MIUI V12.5.5.0.RKHMIXM\r\n- rootdir: Allow all fi
 [[roms]]
 id = "crdroid"
 gapps = ""
-recovery = "https://forum.xda-developers.com/t/recovery-unofficial-twrp-3-5-1-20210702.4300189/"
+recovery = "https://dl.akr-developers.com/?file=skkk/TWRP/A12/v3.0.4_A12/3.6.0_11-RedmiK40_v3.0.4_A12-alioth-skkk_f7ef1b18.img"
 
 [[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/alioth/Havoc-OS-v4.12-20211220-alioth-Official-GApps.zip"
 maintainer = "Sukeerat Singh Goindi"
-group = "https://t.me/havocalioth_in"
+group = "https://t.me/+lHrhajwm-HsyN2Q1"
 
 [[roms]]
 id = "lineages"
@@ -74,7 +74,7 @@ guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/gui
 [[roms]]
 id = "sparkos"
 group = "t.me/spsalioth"
-download = "https://downloads.spark-os.live/alioth/Spark-S-Tempest-Official-alioth-20220113.zip"
+download = "https://downloads.spark-os.live/alioth/Spark-S-Energized-Official-alioth-20220117.zip"
 
 [[roms]]
 id = "evolutionx"

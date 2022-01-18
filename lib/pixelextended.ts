@@ -19,11 +19,11 @@ export const pixelextended: UpdateFunction = async (
 	getDevice
 ) => {
 	await Promise.all(
-		[...Deno.readDirSync('./pixelextendedota/builds')]
+		[...Deno.readDirSync('./ota/pixelextendedota/builds')]
 			.filter((x) => x.name.endsWith('.json'))
 			.map(async (x) => {
 				const file: PixelExtended = JSON.parse(
-					await Deno.readTextFile(`./pixelextendedota/builds/${x.name}`)
+					await Deno.readTextFile(`./ota/pixelextendedota/builds/${x.name}`)
 				);
 				if (file.device == undefined) return;
 				const codename = file.device.split('.')[0];

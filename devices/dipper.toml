@@ -1,11 +1,6 @@
 brand = "Xiaomi"
-name = "MI 8"
+name = "Xiaomi 8"
 codename = "dipper"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
-recovery = "https://dl.twrp.me/dipper"
 
 [[roms]]
 id = "dotos"

@@ -1,11 +1,6 @@
 brand = "Xiaomi"
-name = "Xiaomi Mi 5"
+name = "Mi 5"
 codename = "gemini"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = "https://sourceforge.net/projects/xnombre-los-gemini/files/TWRP/twrp-3.5.0_4.4-gemini.img/download"
 
 [[roms]]
 id = "lineages"

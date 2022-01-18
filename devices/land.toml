@@ -11,7 +11,7 @@ changelog = "-"
 id = "havocos"
 url = "https://download.havoc-os.com/land/Havoc-OS-v4.12-20211223-land-Official-GApps.zip"
 maintainer = "Sairam Majgaonkar"
-group = "https://t.me/havoc_land"
+group = "https://t.me/+w-uP9QgHzyUwODg1"
 
 [[roms]]
 id = "lineages"

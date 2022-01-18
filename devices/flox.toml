@@ -1,11 +1,6 @@
 brand = "Google"
-name = "Nexus 7 2013"
+name = "Nexus 7 2013 (Wi-Fi, Repartitioned)"
 codename = "flox"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
 
 [[roms]]
 id = "lineages"

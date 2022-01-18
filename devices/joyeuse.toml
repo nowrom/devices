@@ -9,8 +9,8 @@ xda_thread = ""
 [[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/joyeuse/Havoc-OS-v4.8-20210806-joyeuse-Official-GApps.zip"
-maintainer = "Ijak (rizak kamal)"
-group = "https://t.me/Havoc_OS"
+maintainer = "Rizak Kamal"
+group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "sakura"

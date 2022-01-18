@@ -1,11 +1,6 @@
 brand = "Asus"
-name = "Asus ZenFone 5"
+name = "Zenfone 5"
 codename = "X00QD"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = "https://orangefox.download/device/x00qd"
 
 [[roms]]
 id = "dotos"

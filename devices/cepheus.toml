@@ -8,8 +8,8 @@ maintainer = "lamjiidii1"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/22-Nov-2020/"
-recovery = "https://forum.xda-developers.com/Mi-9/development/recovery-unofficial-twrp-xiaomi-mi-9-t3905825"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
+recovery = "https://forum.xda-developers.com/t/recovery-3-4-0-10-cepheus-official-unofficial-twrp-for-xiaomi-mi-9-stable.3905825/"
 
 [[roms]]
 id = "pixelexperience"
@@ -45,7 +45,7 @@ guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/gui
 [[roms]]
 id = "sparkos"
 group = "https://t.me/tribual_mi9"
-download = "https://downloads.spark-os.live/cepheus/Spark-S-Tempest-OFFICIAL-cepheus-20211226.zip"
+download = "https://downloads.spark-os.live/cepheus/Spark-S-Energized-OFFICIAL-cepheus-20220118.zip"
 
 [[roms]]
 id = "syberia"

@@ -16,7 +16,7 @@ changelog = "Please check <a href=\"https://github.com/ArrowOS-Devices/android_d
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/canary/android-12/"
 recovery = "https://orangefox.download/device/vayu"
 
 [[roms]]
@@ -26,7 +26,7 @@ id = "dotos"
 id = "havocos"
 url = "https://download.havoc-os.com/vayu/Havoc-OS-v4.12-20211226-vayu-Official-GApps.zip"
 maintainer = "Rahul Yadav"
-group = "https://t.me/havocos_vayu"
+group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "legionos"

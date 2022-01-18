@@ -7,11 +7,6 @@ id = "AOSPK"
 xda_thread = ""
 
 [[roms]]
-id = "crdroid"
-gapps = "https://opengapps.org"
-recovery = "https://twrp.me/samsung/samsunggalaxys10e.html"
-
-[[roms]]
 id = "lineages"
 cpu = "Exynos M4 & Cortex-A75 & Cortex-A55"
 ram = "6/8 GB"

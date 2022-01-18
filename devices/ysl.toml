@@ -10,12 +10,13 @@ id = "AOSPK"
 xda_thread = ""
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/30-Jan-2021/"
-recovery = "https://files.orangefox.tech/OrangeFox-Stable/ysl/OrangeFox-R10.0-1-Stable-ysl.zip"
+id = "dotos"
 
 [[roms]]
-id = "dotos"
+id = "havocos"
+url = "https://sourceforge.net/projects/havoc-os/files/ysl/Havoc-OS-v3.1"
+maintainer = "Tushar Mahajan"
+group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "legionos"

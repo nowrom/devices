@@ -18,18 +18,13 @@ id = "arrowos"
 maintainer = "TH779, kubersharma001"
 
 [[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/raphael/Havoc-OS-v4.12-20211231-raphael-Official-GApps.zip"
-maintainer = ""
-group = ""
+maintainer = "Sukeerat Singh Goindi"
+group = "https://t.me/+VOHKrvv_of5GmJET"
 
 [[roms]]
 id = "legionos"

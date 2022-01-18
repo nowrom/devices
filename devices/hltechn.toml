@@ -1,11 +1,6 @@
 brand = "Samsung"
-name = "Galaxy Note 3"
+name = "Galaxy Note 3 LTE (N9008V)"
 codename = "hltechn"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://androidfilehost.com/?w=files&flid=322935"
-recovery = "https://twrp.me/samsung/samsunggalaxynote3qualcomm.html"
 
 [[roms]]
 id = "lineages"

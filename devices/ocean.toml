@@ -17,7 +17,7 @@ id = "dotos"
 id = "havocos"
 url = "https://download.havoc-os.com/ocean/Havoc-OS-v4.12-20211227-ocean-Official-GApps.zip"
 maintainer = "Andrew Hexen"
-group = "https://t.me/havoc_ocean"
+group = "https://t.me/+Oc1flk8GNpAyZWQ1"
 
 [[roms]]
 id = "lineages"

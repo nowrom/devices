@@ -9,8 +9,8 @@ changelog = "- Bug fixes and stability improvements.\r\n- For more pls check <a 
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R"
-recovery = "https://twrp.me/oneplus/oneplus7pro.html"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
+recovery = "https://sourceforge.net/projects/crdroid/files/guacamole/8.x/recovery/"
 
 [[roms]]
 id = "dotos"
@@ -19,7 +19,7 @@ id = "dotos"
 id = "havocos"
 url = "https://download.havoc-os.com/guacamole/Havoc-OS-v4.12-20220104-guacamole-Official-GApps.zip"
 maintainer = "Anushek Prasal"
-group = "https://t.me/havoc_oneplus7"
+group = "https://t.me/+Vavim64zaoacn9Mv"
 
 [[roms]]
 id = "lineages"
@@ -45,6 +45,12 @@ deprecated = true
 
 [[roms]]
 id = "potato"
+
+[[roms]]
+id = "pixelplusui"
+active = "unavailable"
+photo = "./assets/images/Hamza.jpg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "evolutionx"

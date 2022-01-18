@@ -15,18 +15,13 @@ maintainer = "Ganesh Varma, kubersharma001, palaych"
 changelog = "- sdm845-common:\r\nUpdate blobs to MIUI polaris V12.5.1.0.QDGCNXM\r\n- beryllium: Update blobs from V12.0.3.0.QEJMIXM\r\n- Update display and adreno blobs to OnePlus6 R\r\n- Update WFD blobs to OnePlus6 R\r\n- Update OMX codecs and VPP to OnePlus6 R\r\n- Update Configstore blobs to OnePlus6 R\r\n- Update Power-off alarm blobs to OnePlus6 R\r\n- Update ESE, PerMgr and Time services blobs to OnePlus6 R\r\n- Update IRQ balance blobs to OnePlus6 R\r\n- Fixed Smart Charging permissions and sepolicy\r\n- Kernel: Merge android-4.9-q google kernel common (4.9.277)\r\n- Kernel: Merge CAF tag LA.UM.9.3.r1-02800-sdm845.0\r\n- Kernel: arch/arm64: dts: disable dfps in jdi fhd panel and ebbg ft8716 panel\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
-recovery = "https://sourceforge.net/projects/crdroid/files/beryllium/recovery/twrp-3.5.0_10-0-beryllium.img/download"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/beryllium/Havoc-OS-v4.12-20220101-beryllium-Official-GApps.zip"
 maintainer = "Havoc-OS CI"
-group = "https://t.me/havoc_beryllium"
+group = "https://t.me/+84QjFbo592g4YmM1"
 
 [[roms]]
 id = "lineages"
@@ -68,4 +63,4 @@ guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/gui
 [[roms]]
 id = "sparkos"
 group = "https://t.me/resist15_beryllium"
-download = "https://downloads.spark-os.live/beryllium/Spark-S-Tempest-OFFICIAL-beryllium-20211228.zip"
+download = "https://downloads.spark-os.live/beryllium/Spark-S-Energized-OFFICIAL-beryllium-20220118.zip"

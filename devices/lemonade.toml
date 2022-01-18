@@ -3,15 +3,10 @@ name = "OnePlus 9"
 codename = "lemonade"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Canary-Releases/NikGapps-R/"
-recovery = "https://androidfilehost.com/?fid=14943124697586375035"
-
-[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/lemonade/Havoc-OS-v4.12-20211224-lemonade-Official-GApps.zip"
 maintainer = "eduardo"
-group = "https://t.me/havoc_oneplus9"
+group = "https://t.me/+cU9PeFml8QI3MDJh"
 
 [[roms]]
 id = "evolutionx"

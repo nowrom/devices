@@ -7,11 +7,6 @@ id = "AOSPK"
 xda_thread = ""
 
 [[roms]]
-id = "crdroid"
-gapps = "https://opengapps.org/"
-recovery = "https://dl.twrp.me/lake/"
-
-[[roms]]
 id = "legionos"
 active = false
 maintainer = "VitorSSSouza"

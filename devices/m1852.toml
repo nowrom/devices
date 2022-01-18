@@ -3,9 +3,10 @@ name = "Meizu X8"
 codename = "m1852"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://nikgapps.com/downloads"
-recovery = "https://drive.google.com/file/d/1GI-ttWR8u9DgGR6Q7wyF-nHY6GGc5lQf/view?usp=sharing"
+id = "havocos"
+url = "https://download.havoc-os.com/m1852/Havoc-OS-v4.8-20210820-m1852-Official-GApps.zip"
+maintainer = "blackrow67"
+group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "pixelplusui"

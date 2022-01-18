@@ -6,11 +6,6 @@ codename = "avicii"
 id = "pixelextended"
 
 [[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

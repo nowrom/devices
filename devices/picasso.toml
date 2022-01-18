@@ -8,11 +8,6 @@ maintainer = "baolong24"
 changelog = "- Fixed Bluetooth can not turn on after turning off\r\n- SELinux enforce\r\n- Fixed GCam\r\n- Fixed aptX\r\n- Fixed FP did not work on some devices\r\n- Added display color compositions"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/opengapps/files/arm64/test/"
-recovery = "https://orangefox.download/device/picasso"
-
-[[roms]]
 id = "legionos"
 active = true
 maintainer = "masemoel"

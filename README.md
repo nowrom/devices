@@ -45,12 +45,12 @@ getting started:
 you will need deno installed and you will have to clone the syberia devices repo
 
 ```sh
-git clone https://github.com/syberia-project/official_devices
-git clone https://github.com/Havoc-OS/OTA havocota
-git clone https://github.com/crdroidandroid/android_vendor_crDroidOTA
-git clone https://github.com/Spark-Devices/OTA sparkota
-git clone https://github.com/PixelExtended/OTA pixelextendedota
-git clone https://github.com/LineageOS/lineage_wiki
+git clone https://github.com/syberia-project/official_devices ota/official_devices
+git clone https://github.com/Havoc-OS/OTA ota/havocota
+git clone https://github.com/crdroidandroid/android_vendor_crDroidOTA ota/android_vendor_crDroidOTA
+git clone https://github.com/Spark-Devices/OTA ota/sparkota
+git clone https://github.com/PixelExtended/OTA ota/pixelextendedota
+git clone https://github.com/LineageOS/lineage_wiki ota/lineage_wiki
 ```
 
 make changes to updatelist.ts and commit done 🚀

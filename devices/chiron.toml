@@ -7,11 +7,6 @@ id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
-recovery = "https://dl.twrp.me/chiron/"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

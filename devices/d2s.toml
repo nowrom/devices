@@ -1,11 +1,6 @@
 brand = "Samsung"
-name = "Galaxy Note 10+"
+name = "Galaxy Note10+"
 codename = "d2s"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://opengapps.org/"
-recovery = "https://forum.xda-developers.com/t/recovery-official-3-5-0-x-twrp-for-galaxy-note-10-5g-exynos.4198413/"
 
 [[roms]]
 id = "lineages"

@@ -10,18 +10,13 @@ id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
 
 [[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/kebab/Havoc-OS-v4.12-20211228-kebab-Official-GApps.zip"
 maintainer = "Chandu Dyavanapelli"
-group = "https://t.me/+EL09Qr1SwzhlZTI1"
+group = "https://t.me/+gJBFyk53ihA5Mjll"
 
 [[roms]]
 id = "lineages"

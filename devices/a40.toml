@@ -4,8 +4,8 @@ codename = "a40"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
-recovery = "https://eu.dl.twrp.me/a40/"
+gapps = "https://bitgapps.github.io/"
+recovery = "https://sourceforge.net/projects/kevios12a40roms/files/a40_recovery/twrp-3.6.0_9-0-a40.img/download"
 
 [[roms]]
 id = "sakura"

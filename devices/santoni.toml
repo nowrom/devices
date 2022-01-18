@@ -14,14 +14,14 @@ xda_thread = ""
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/opengapps/files/arm64/"
-recovery = "https://sourceforge.net/projects/jabiyeff-build/files/Recovery/OrangeFox-R11.1-santoni-08.06.21.zip/download"
+gapps = "https://t.me/crDroidSantoni/66895"
+recovery = "https://sourceforge.net/projects/jabiyeff-build/files/Recovery/OrangeFox-R11.1_2-santoni-15.01.22.zip/download"
 
 [[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/santoni/Havoc-OS-v4.12-20211225-santoni-Official-GApps.zip"
 maintainer = "Gabriel Nogueira"
-group = "https://t.me/havoc_santoni"
+group = "https://t.me/+o0-G5ngIeVxiYmYx"
 
 [[roms]]
 id = "lineages"

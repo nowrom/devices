@@ -12,18 +12,13 @@ maintainer = "Ashwatthama"
 changelog = "Clean flash must (kindly backup your data before flashing)\r\nimproved  performance\r\nEnabled ZRAM by default\r\nTuned ZRAM for better performance\r\nCompiled with hwui for better performance\r\nSwitched to Mad Kernel 2.0"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://forum.xda-developers.com/t/gapps-arm64-flamegapps-for-android-9-0-10-0-11-0.4020917/"
-recovery = "https://dl.twrp.me/sanders/"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/sanders/Havoc-OS-v4.8-20210808-sanders-Official-GApps.zip"
-maintainer = "P Mahapatra (Ronax)"
-group = "https://t.me/havoc_sanders"
+maintainer = "P Mahapatra"
+group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "legionos"

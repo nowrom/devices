@@ -11,11 +11,6 @@ changelog = "Firmware and vendor require lastest MIUI Stable V12.2.10\r\n\r\n- S
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/"
-recovery = "https://forum.xda-developers.com/t/recovery-3-5-1-unofficial-twrp-xiaomi-mi-10-umi.4241705/"
-
-[[roms]]
 id = "potato"
 
 [[roms]]

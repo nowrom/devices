@@ -13,11 +13,6 @@ maintainer = "Raj Jadeja"
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = ""
-recovery = "https://dl.twrp.me/enchilada/"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

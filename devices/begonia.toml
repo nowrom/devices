@@ -11,7 +11,7 @@ xda_thread = ""
 
 [[roms]]
 id = "crdroid"
-gapps = "https://opengapps.org/"
+gapps = "https://bitgapps.github.io/"
 recovery = ""
 
 [[roms]]
@@ -55,4 +55,4 @@ active = true
 [[roms]]
 id = "sparkos"
 group = "https://t.me/Uchiha_Clan_Begonia"
-download = "https://downloads.spark-os.live/begonia/Spark-S-Tempest-OFFICIAL-begonia-20211226-gapps.zip"
+download = "https://downloads.spark-os.live/begonia/Spark-S-Energized-OFFICIAL-begonia-20220118.zip"

@@ -1,11 +1,12 @@
 brand = "Meizu"
-name = "Meizu 16th"
+name = "Meizu 16 TH"
 codename = "m1882"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
-recovery = "https://4pda.ru/forum/index.php?showtopic=961552&st=1660#entry91590813"
+id = "havocos"
+url = "https://download.havoc-os.com/m1882/Havoc-OS-v4.8-20210806-m1882-Official-GApps.zip"
+maintainer = "blackrow67"
+group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "sakura"

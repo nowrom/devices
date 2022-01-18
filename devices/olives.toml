@@ -10,11 +10,6 @@ photo = "https://raw.githubusercontent.com/skittels15/banners/main/Redmi-8.jpg"
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = ""
-recovery = "https://t.me/Orel6505_Builds_Discussion/6567"
-
-[[roms]]
 id = "legionos"
 active = true
 maintainer = "skittels15"

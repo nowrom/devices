@@ -13,11 +13,6 @@ photo = "http://i01.appmifile.com/webfile/globalimg/products/pc/mi-a3/specs2.png
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://nikgapps.com"
-recovery = ""
-
-[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/H3M3L.jpg"
@@ -35,11 +30,11 @@ developer = "HarukeyUA"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.0"
+version = "v4.9"
 developer = "magicxavi"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v5.0"
 developer = "magicxavi"

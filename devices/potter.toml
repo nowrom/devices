@@ -15,18 +15,13 @@ maintainer = "daniml3, kubersharma001"
 changelog = "01/08/2021\r\n- Fixed night display"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://forum.xda-developers.com/t/gapps-arm64-flamegapps-for-android-9-0-10-0-11-0.4020917/"
-recovery = "https://dl.twrp.me/potter/"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
 id = "havocos"
 url = "https://sourceforge.net/projects/havoc-os/files/potter/Havoc-OS-v3.11-20201113-potter-Official-GApps.zip/download"
 maintainer = "abhijit1998"
-group = "https://t.me/havoc_potter"
+group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "pixelexperience"

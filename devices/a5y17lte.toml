@@ -1,11 +1,6 @@
 brand = "Samsung"
-name = "Galaxy A5 2017"
+name = "Galaxy A5 (2017)"
 codename = "a5y17lte"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
 
 [[roms]]
 id = "lineages"

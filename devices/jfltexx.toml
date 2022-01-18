@@ -1,11 +1,6 @@
 brand = "Samsung"
-name = "Galaxy S4 (i9505/i337)"
+name = "Galaxy S4 (GT-I9505, SGH-I337M, SGH-M919)"
 codename = "jfltexx"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
 
 [[roms]]
 id = "lineages"

@@ -11,7 +11,7 @@ changelog = "- Fixed USB tethering mode detection with windows\r\n- Updated HALs
 id = "havocos"
 url = "https://download.havoc-os.com/X00T/Havoc-OS-v4.9-20211007-X00T-Official-GApps.zip"
 maintainer = "Rizky Benggolo"
-group = "https://t.me/havocX00T"
+group = "https://t.me/+UpH3trceaxXlf6sE"
 
 [[roms]]
 id = "potato"

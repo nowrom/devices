@@ -15,15 +15,10 @@ xda_thread = "https://forum.xda-developers.com/t/title-rom-11-0-device-aospk-the
 [[roms]]
 id = "arrowos"
 maintainer = "Ratoriku, Hazama25"
-changelog = "WIP"
+changelog = "- Fixed device auto shutdown in a \"not too high\" temperature when gaming\r\n- Drop deprecated RenderScript implementation\r\n- Localise NTP to improve GPS TTFF\r\n- Disable WLAN Firmware loggings\r\n- Clean up unused manifests\r\n- kernel: Re-add Safetynet Patch for non-rooted users\r\n- Other fixes and improvements"
 
 [[roms]]
 id = "cherishos"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://nikgapps.com/"
-recovery = "https://orangefox.download/device/lavender"
 
 [[roms]]
 id = "dotos"
@@ -32,7 +27,7 @@ id = "dotos"
 id = "havocos"
 url = "https://download.havoc-os.com/lavender/Havoc-OS-v4.9-20211002-lavender-Official-GApps.zip"
 maintainer = "Crahm Cotnol"
-group = "https://t.me/havoc_lavender"
+group = "https://t.me/+qalkNc-zwwkyMzEy"
 
 [[roms]]
 id = "lineages"

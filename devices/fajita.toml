@@ -9,11 +9,6 @@ id = "pixelextended"
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = ""
-recovery = "https://dl.twrp.me/fajita/"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

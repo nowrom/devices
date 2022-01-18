@@ -3,11 +3,6 @@ name = "Moto Z3 Play"
 codename = "beckham"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://androidfilehost.com/?fid=2188818919693781601"
-recovery = ""
-
-[[roms]]
 id = "lineages"
 cpu = "Kryo 260"
 ram = "4 GB, 6 GB"

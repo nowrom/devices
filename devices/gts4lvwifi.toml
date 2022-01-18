@@ -1,11 +1,6 @@
 brand = "Samsung"
-name = "Galaxy Tab S5e WIFI"
+name = "Galaxy Tab S5e (Wi-Fi)"
 codename = "gts4lvwifi"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://nikgapps.com/"
-recovery = "https://twrp.me/samsung/samsunggalaxytabs5ewifi.html"
 
 [[roms]]
 id = "lineages"

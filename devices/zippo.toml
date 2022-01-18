@@ -11,4 +11,4 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot
 [[roms]]
 id = "sparkos"
 group = "https://t.me/SparkOSCommunity"
-download = "https://downloads.spark-os.live/zippo/Spark-S-Tempest-OFFICIAL-zippo-20211225-gapps.zip"
+download = "https://downloads.spark-os.live/zippo/Spark-S-Energized-OFFICIAL-zippo-20220117.zip"

@@ -1,11 +1,6 @@
 brand = "Xiaomi"
-name = "Xiaomi Mi 10T/Pro"
+name = "Mi 10T / Mi 10T Pro / Redmi K30S Ultra"
 codename = "apollon"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = "https://androidfilehost.com/?fid=17248734326145709156"
 
 [[roms]]
 id = "lineages"

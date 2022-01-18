@@ -1,11 +1,6 @@
 brand = "Samsung"
-name = "Samsung Galaxy S7 Edge"
+name = "Galaxy S7 Edge"
 codename = "hero2lte"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
 
 [[roms]]
 id = "lineages"

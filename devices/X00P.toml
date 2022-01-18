@@ -1,11 +1,6 @@
-brand = "Asus"
-name = "Asus Zenfone Max M1"
+brand = "ASUS"
+name = "Zenfone Max M1"
 codename = "X00P"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://nikgapps.com"
-recovery = "https://twrp.me/asus/asuszenfonemaxm1.html"
 
 [[roms]]
 id = "lineages"

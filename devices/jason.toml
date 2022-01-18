@@ -6,11 +6,6 @@ codename = "jason"
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://opengapps.org/"
-recovery = "https://twrp.me/xiaomi/xiaomiminote3.html"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

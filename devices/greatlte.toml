@@ -6,7 +6,7 @@ codename = "greatlte"
 id = "havocos"
 url = "https://sourceforge.net/projects/havoc-os/files/greatlte/Havoc-OS-v3.12-20201229-greatlte-Official-GApps.zip/download"
 maintainer = "EugW"
-group = "https://t.me/havoc8895"
+group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "sakura"
