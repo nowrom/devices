@@ -15,6 +15,7 @@ function phoneParse(req: AugmentedRequest) {
 	const q = req.queryParams.get('q');
 	const brand = req.queryParams.get('brand');
 	const limit = req.queryParams.get('limit');
+	const codename = req.queryParams.get('codename');
 	const updateRe = (ar: any) => {
 		re.length = 0;
 		re.push(...ar);
@@ -37,6 +38,12 @@ function phoneParse(req: AugmentedRequest) {
 	}
 	if (limit && parseInt(limit)) {
 		updateRe(re.slice(0, parseInt(limit)));
+	}
+	if (codename) {
+		const r = re.find(
+			(x) => x?.codename?.toLowerCase() === codename?.toLowerCase()
+		);
+		updateRe(r ? [r] : []);
 	}
 	const r = new Response(JSON.stringify(re), {
 		headers: {
@@ -83,7 +90,7 @@ await serve(
 		try {
 			return await router(req);
 		} catch (e) {
-			return new Response('woa');
+			return new Response(`WOa ${e}`);
 		}
 	},
 	{
