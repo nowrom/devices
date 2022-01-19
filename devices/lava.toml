@@ -7,3 +7,12 @@ id = "pixelextended"
 
 [[roms]]
 id = "cherishos"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_lava","device_xiaomi_mt6768-common","kernel_xiaomi_mt6768","vendor_xiaomi_lava","vendor_xiaomi_mt6768-ims"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = false
+deprecated = false

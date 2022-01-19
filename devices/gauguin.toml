@@ -6,6 +6,10 @@ codename = "gauguin"
 id = "pixelextended"
 
 [[roms]]
+id = "ancientos"
+photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10i-5g.jpg"
+
+[[roms]]
 id = "arrowos"
 maintainer = "baolong24"
 

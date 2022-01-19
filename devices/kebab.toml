@@ -7,7 +7,8 @@ id = "pixelextended"
 
 [[roms]]
 id = "arrowos"
-maintainer = "TG_DEVICE_MAINTAINER"
+maintainer = "hiper25"
+changelog = "Temporarily handed over to hiper25 for maintenance"
 
 [[roms]]
 id = "dotos"

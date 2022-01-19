@@ -4,8 +4,8 @@ brand = "Redmi"
 
 [[roms]]
 id = "arrowos"
-maintainer = "baolong24"
-changelog = "- Fixed Bluetooth can not turn on after turning off\r\n- SELinux enforce\r\n- Fixed GCam\r\n- Fixed aptX\r\n- Fixed FP did not work on some devices\r\n- Added display color compositions"
+maintainer = "Lynnrin"
+changelog = "- Initial stable official build"
 
 [[roms]]
 id = "legionos"

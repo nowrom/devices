@@ -5,7 +5,7 @@ brand = "Xiaomi"
 [[roms]]
 id = "arrowos"
 maintainer = "Dobsgw"
-changelog = "ENG TEST BUILD DO NOT USE\r\nFOR DEBUGGING ONLY\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial"
+changelog = "Use Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial"
 
 [[roms]]
 id = "dotos"

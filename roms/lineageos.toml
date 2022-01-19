@@ -1,6 +1,6 @@
 [rom]
-name = "Lineages"
-id = "lineages"
+name = "Lineageos"
+id = "lineageos"
 about = "A free and open-source operating system for various devices, based on the Android mobile platform."
 website = "https://lineageos.org/"
 wiki = "https://wiki.lineageos.org/"
