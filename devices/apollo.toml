@@ -39,9 +39,6 @@ stable = true
 deprecated = false
 
 [[roms]]
-id = "potato"
-
-[[roms]]
 id = "pixelplusui"
 active = "active"
 photo = "./assets/images/Hamza.jpg"

@@ -13,9 +13,6 @@ ram = "2 GB"
 wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
 
 [[roms]]
-id = "potato"
-
-[[roms]]
 id = "sakura"
 xda_thread = ""
 maintainer_url = "null"

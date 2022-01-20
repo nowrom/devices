@@ -14,9 +14,6 @@ maintainer = "Inder"
 group = "https://t.me/+Ibbv25YKk7IxNDBl"
 
 [[roms]]
-id = "potato"
-
-[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/sarthak.jpg"

@@ -1,6 +1,9 @@
-brand = "Nokia Devices"
-name = "Nokia 6.1 Plus"
 codename = "drg_sprout"
+name = "Nokia 6.1 Plus"
+brand = "Nokia Devices"
+
+[[roms]]
+id = "potato"
 
 [[roms]]
 id = "pixelplusui"

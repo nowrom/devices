@@ -9,6 +9,3 @@ changelog = "- sdm845-common: Update blobs to MIUI polaris V12.5.1.0.QDGCNXM\r\n
 
 [[roms]]
 id = "dotos"
-
-[[roms]]
-id = "potato"

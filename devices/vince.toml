@@ -25,7 +25,4 @@ maintainer = "Mohammed Adnan"
 group = "https://t.me/+VHjIg542KdDqPfp4"
 
 [[roms]]
-id = "potato"
-
-[[roms]]
 id = "evolutionx"

@@ -45,9 +45,6 @@ stable = true
 deprecated = true
 
 [[roms]]
-id = "potato"
-
-[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/satham.jpg"

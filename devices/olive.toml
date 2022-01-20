@@ -14,6 +14,3 @@ id = "havocos"
 url = "https://download.havoc-os.com/olive/Havoc-OS-v4.12-20211227-olive-Official-GApps.zip"
 maintainer = "IAmDeadlylxrd"
 group = "https://t.me/+CoYLGYHruORiNDUy"
-
-[[roms]]
-id = "potato"

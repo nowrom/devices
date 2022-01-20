@@ -64,9 +64,6 @@ url = "https://sourceforge.net/projects/pixelextended/files/violet/PixelExtended
 xda_thread = "https://forum.xda-developers.com/t/pixelextended-rom-for-redmi-note-7-pro-violet.4382883/"
 
 [[roms]]
-id = "potato"
-
-[[roms]]
 id = "pixelplusui"
 active = "active"
 photo = "./assets/images/saurav_avatar.jpg"

@@ -58,9 +58,6 @@ stable = true
 deprecated = false
 
 [[roms]]
-id = "potato"
-
-[[roms]]
 id = "pixelplusui"
 active = "discontinued"
 photo = "./assets/images/Hazama.jpg"

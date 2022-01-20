@@ -45,6 +45,3 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/4368929/"
 stable = true
 deprecated = false
-
-[[roms]]
-id = "potato"

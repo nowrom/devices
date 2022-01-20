@@ -14,9 +14,6 @@ maintainer = "Rizky Benggolo"
 group = "https://t.me/+UpH3trceaxXlf6sE"
 
 [[roms]]
-id = "potato"
-
-[[roms]]
 id = "sakura"
 xda_thread = ""
 maintainer_url = "null"

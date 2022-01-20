@@ -38,9 +38,6 @@ stable = true
 deprecated = true
 
 [[roms]]
-id = "potato"
-
-[[roms]]
 id = "pixelplusui"
 active = "active"
 photo = "./assets/images/maintainer_avatar.png"
