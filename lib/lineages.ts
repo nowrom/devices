@@ -21,7 +21,7 @@ export const lineages: UpdateFunction = async (stored_devices, getDevice) => {
 						roms: [
 							...device.roms,
 							{
-								id: 'lineages',
+								id: 'lineageos',
 								cpu: file.cpu,
 								ram: file.ram,
 								wifi: file.wifi,

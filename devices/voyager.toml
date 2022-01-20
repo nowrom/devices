@@ -3,7 +3,7 @@ name = "Xperia XA2 Plus"
 codename = "voyager"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53"
 ram = "4/6 GB"
 wifi = "802.11 a/b/g/n, Wi-Fi Direct, Hotspot"

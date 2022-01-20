@@ -3,7 +3,7 @@ name = "R7 Plus (International)"
 codename = "r7plus"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53"
 ram = "3/4 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band"

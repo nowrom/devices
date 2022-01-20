@@ -3,7 +3,7 @@ name = "Galaxy S5 Plus"
 codename = "kccat6"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Krait 450"
 ram = "2 GB"
 wifi = "802.11 a/b/g/n/ac"

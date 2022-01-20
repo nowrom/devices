@@ -3,7 +3,7 @@ name = "Moto One Vision/Motorola P50"
 codename = "kane"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A73 & Cortex-A53"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"

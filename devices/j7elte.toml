@@ -3,7 +3,7 @@ name = "Galaxy J7 (2015)"
 codename = "j7elte"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53"
 ram = "1.5 GB"
 wifi = "802.11 b/g/n"

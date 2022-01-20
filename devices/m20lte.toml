@@ -3,7 +3,7 @@ name = "Galaxy M20"
 codename = "m20lte"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A73 & Cortex-A53"
 ram = "3/4 GB"
 wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"

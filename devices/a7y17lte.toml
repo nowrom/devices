@@ -3,7 +3,7 @@ name = "Galaxy A7 (2017)"
 codename = "a7y17lte"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac"

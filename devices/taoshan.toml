@@ -3,7 +3,7 @@ name = "Xperia L"
 codename = "taoshan"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Krait"
 ram = "1 GB"
 wifi = "802.11 a/b/g/n, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"

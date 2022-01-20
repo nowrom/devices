@@ -3,7 +3,7 @@ name = "Xperia Tablet Z Wi-Fi"
 codename = "pollux_windy"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Krait"
 ram = "2 GB LPDDR2"
 wifi = "802.11 a/b/g/n, 2.4GHz/5GHz, Wi-Fi Direct, DLNA, Hotspot"

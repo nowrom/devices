@@ -23,7 +23,7 @@ maintainer = "Aryan Karan"
 group = "https://t.me/havocofficial"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 250"
 ram = "2/3 GB"
 wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"

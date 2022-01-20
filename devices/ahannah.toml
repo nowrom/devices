@@ -3,7 +3,7 @@ name = "Moto E5 Plus (XT1924-3/9)"
 codename = "ahannah"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53"
 ram = "3 GB"
 wifi = "802.11 b/g/n, Hotspot"

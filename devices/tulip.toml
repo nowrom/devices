@@ -27,7 +27,7 @@ maintainer = "Akhil MS"
 group = "https://t.me/+lC3wpdFw0CdmMTk1"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"

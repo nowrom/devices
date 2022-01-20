@@ -3,7 +3,7 @@ name = "ROG Phone 3"
 codename = "obiwan"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 585"
 ram = "8/12/16 GB"
 wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Hotspot"

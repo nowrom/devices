@@ -7,7 +7,7 @@ id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 680"
 ram = "6/8/12/16 GB LPDDR5"
 wifi = "802.11 a/b/g/n/ac/6e, Dual-band, Wi-Fi Direct, Hotspot"

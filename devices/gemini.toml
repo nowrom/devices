@@ -3,7 +3,7 @@ name = "Mi 5"
 codename = "gemini"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo"
 ram = "3 GB LPDDR4 (Standard and Pro editions) / 4 GB LPDDR4 (Exclusive edition)"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"

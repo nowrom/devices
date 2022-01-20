@@ -3,7 +3,7 @@ name = "Moto One Action"
 codename = "troika"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A73 & Cortex-A53"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"

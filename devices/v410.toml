@@ -3,7 +3,7 @@ name = "G Pad 7.0 (LTE)"
 codename = "v410"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A7"
 ram = "1 GB"
 wifi = "802.11 a/b/g/n, Dual-band, Wi-Fi Direct, DLNA, Hotspot"

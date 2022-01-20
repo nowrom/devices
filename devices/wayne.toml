@@ -17,7 +17,7 @@ maintainer = "ReallySnow"
 id = "dotos"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 260"
 ram = "4/6 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"

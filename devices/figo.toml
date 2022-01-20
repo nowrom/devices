@@ -3,7 +3,7 @@ name = "P Smart"
 codename = "figo"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Hotspot"

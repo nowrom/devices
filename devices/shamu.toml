@@ -3,7 +3,7 @@ name = "Nexus 6"
 codename = "shamu"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Krait 450"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac 2x2 (MIMO), Hotspot"

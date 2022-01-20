@@ -3,7 +3,7 @@ name = "Aquaris E5 4G / Aquaris E5s"
 codename = "vegetalte"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53"
 ram = "1/2 GB"
 wifi = "802.11 b/g/n, Hotspot"

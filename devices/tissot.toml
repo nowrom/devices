@@ -14,7 +14,7 @@ donation_link = ""
 photo = "https://avatars.githubusercontent.com/u/26594746?v=4"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac"

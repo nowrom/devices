@@ -3,7 +3,7 @@ name = "Nexus Player"
 codename = "fugu"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Intel Atom"
 ram = "1 GB"
 wifi = "802.11ac 2x2 Broadcom 2.4 GHz and 5 GHz"

@@ -3,7 +3,7 @@ name = "G5 (T-Mobile)"
 codename = "h830"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac"

@@ -3,7 +3,7 @@ name = "Nexus 7 (LTE, 2013 version)"
 codename = "deb"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Krait 300"
 ram = "2 GB"
 wifi = "Dual-band (2.4/5 GHz) 802.11 a/b/g/n"

@@ -3,7 +3,7 @@ name = "Moto E"
 codename = "condor"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A7"
 ram = "1 GB"
 wifi = "802.11 b/g/n, Hotspot"

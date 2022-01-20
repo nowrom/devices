@@ -3,7 +3,7 @@ name = "Droid 4"
 codename = "maserati"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A9"
 ram = "1 GB"
 wifi = "Wi-Fi 802.11 b/g/n"

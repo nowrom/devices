@@ -3,7 +3,7 @@ name = "Galaxy Tab S 10.5 LTE"
 codename = "chagalllte"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A15 & Cortex-A7"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, hotspot"

@@ -3,7 +3,7 @@ name = "Axon 7"
 codename = "axon7"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo"
 ram = "4 GB LPDDR4 (Standard edition) / 6 GB LPDDR4 (Exclusive edition)"
 wifi = "802.11 b/g/n/ac, Dual-band, WiFi Direct, Hotspot"

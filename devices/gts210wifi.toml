@@ -3,7 +3,7 @@ name = "Galaxy Tab S2 9.7 (Wi-Fi)"
 codename = "gts210wifi"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A57"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"

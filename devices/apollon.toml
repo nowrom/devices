@@ -3,7 +3,7 @@ name = "Mi 10T / Mi 10T Pro / Redmi K30S Ultra"
 codename = "apollon"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 585"
 ram = "6/8 GB"
 wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"

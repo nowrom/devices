@@ -28,7 +28,7 @@ donation_link = "https://paypal.me/immanuelr44?locale.x=en_GB"
 photo = "https://avatars.githubusercontent.com/u/26855364?v=4"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 260"
 ram = "4/6 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"

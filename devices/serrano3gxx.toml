@@ -3,7 +3,7 @@ name = "Galaxy S4 Mini (International 3G)"
 codename = "serrano3gxx"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Krait"
 ram = "1.5 GB"
 wifi = "802.11 a/b/g/n, Dual-band, DLNA, Wi-Fi Direct, Hotspot"

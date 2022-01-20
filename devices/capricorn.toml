@@ -3,7 +3,7 @@ name = "Mi 5s"
 codename = "capricorn"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo"
 ram = "3/4 GB LPDDR4"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"

@@ -3,7 +3,7 @@ name = "Aquaris X"
 codename = "bardock"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53"
 ram = "3/4 GB LPDDR3"
 wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Wi-Fi Hotspot"

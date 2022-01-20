@@ -8,7 +8,7 @@ id = "pixelextended"
 [[roms]]
 id = "arrowos"
 maintainer = "hiper25"
-changelog = "Temporarily handed over to hiper25 for maintenance"
+changelog = "- Fixed game frame drops\r\n- Fixed the video call"
 
 [[roms]]
 id = "dotos"
@@ -20,7 +20,7 @@ maintainer = "Chandu Dyavanapelli"
 group = "https://t.me/+gJBFyk53ihA5Mjll"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 585"
 ram = "8/12GB GB LPDDR4X"
 wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"

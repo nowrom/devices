@@ -3,7 +3,7 @@ name = "Galaxy S7"
 codename = "herolte"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Exynos M1 & Cortex-A53"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"

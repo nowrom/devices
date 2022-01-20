@@ -16,7 +16,7 @@ maintainer = "Anushek Prasal"
 group = "https://t.me/+RKCZvqYf-no-5_iO"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo"
 ram = "6 GB LPDDR4"
 wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA, Hotspot"

@@ -14,7 +14,7 @@ changelog = "- Sync audio effects with the stock ROM\r\n- Fix Android System Int
 id = "grapheneos"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 385"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"

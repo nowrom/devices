@@ -3,7 +3,7 @@ name = "Galaxy Tab S 8.4 Wi-Fi"
 codename = "klimtwifi"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A15 & Cortex-A7"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, hotspot"

@@ -3,7 +3,7 @@ name = "Yureka / Yureka Plus"
 codename = "tomato"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53"
 ram = "2 GB"
 wifi = "802.11 2.4GHz b/g/n 5GHz n/ac, Wi-Fi Direct, Wi-Fi Display, Hotspot"

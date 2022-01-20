@@ -1,0 +1,27 @@
+brand = "Realme Devices"
+name = "Realme 6/6i/6S"
+codename = "RM6785 Unified "
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/sribalaji.jpeg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/sribalaji.jpeg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/sribalaji.jpeg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+
+[[roms]]
+id = "pixelplusui"
+active = "discontinued"
+photo = "./assets/images/sribalaji.jpeg"
+guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

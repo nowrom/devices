@@ -22,7 +22,7 @@ maintainer = "Vikas Yaduvanshi"
 group = "https://t.me/+tNPSDUw3FUJlNDQ1"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 385"
 ram = "6/8 GB LPDDR4X"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"

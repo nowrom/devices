@@ -8,7 +8,7 @@ maintainer = "Adithya R"
 changelog = "- Blacklisted google hotword service to fix mic issues\r\n- Enabled audiosphere effect by default\r\n- Fixed FM radio\r\n- Fixed postprocessing daemon crashes\r\n- Misc changes for infra"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
 ram = "2/3 GB"
 wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"

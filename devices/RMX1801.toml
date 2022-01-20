@@ -7,7 +7,7 @@ id = "arrowos"
 maintainer = "Baibhab"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 260"
 ram = "4/6/8 GB LPDDR4X"
 wifi = "802.11 a/b/g/n/ac, 2.4/5GHz, Hotspot"

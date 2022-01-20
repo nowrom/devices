@@ -3,7 +3,7 @@ name = "Moto Z3 Play"
 codename = "beckham"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 260"
 ram = "4 GB, 6 GB"
 wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"

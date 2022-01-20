@@ -3,7 +3,7 @@ name = "Aquaris X2 Pro"
 codename = "zangyapro"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 260"
 ram = "4/6 GB LPDDR3"
 wifi = "802.11 b/g/n/ac, Dual band, Wi-Fi Direct, Wi-Fi Hotspot"

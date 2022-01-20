@@ -3,7 +3,7 @@ name = "Galaxy Note 8.0 (LTE)"
 codename = "n5120"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A9"
 ram = "2 GB"
 wifi = "802.11 a/b/g/n, Dual-band, Wi-Fi Direct, Hotspot, DLNA"

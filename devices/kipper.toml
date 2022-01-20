@@ -3,7 +3,7 @@ name = "Storm"
 codename = "kipper"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53"
 ram = "3 GB"
 wifi = "802.11 b/g/n"

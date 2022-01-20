@@ -3,7 +3,7 @@ name = "Galaxy S4 (SCH-R970, SPH-L720)"
 codename = "jfltespr"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Krait 300"
 ram = "2 GB"
 wifi = "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"

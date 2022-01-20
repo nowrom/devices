@@ -3,7 +3,7 @@ name = "G Pad 8.0 (Wi-Fi)"
 codename = "v480"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A7"
 ram = "1 GB"
 wifi = "802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, Hotspot"

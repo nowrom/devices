@@ -3,7 +3,7 @@ name = "Galaxy Tab 2 7.0 / Tab 2 10.1 (Wi-Fi / Wi-Fi + IR)"
 codename = "espressowifi"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A9"
 ram = "1 GB"
 wifi = "802.11 a/b/g/n, Wi-Fi Direct, Hotspot"

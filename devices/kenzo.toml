@@ -9,7 +9,7 @@ maintainer = "Magicxavi"
 group = "https://t.me/havocofficial"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A72"
 ram = "2/3 GB"
 wifi = "802.11 a/b/g/n/ac"

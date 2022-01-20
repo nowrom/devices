@@ -3,7 +3,7 @@ name = "Galaxy S4 (GT-I9505, SGH-I337M, SGH-M919)"
 codename = "jfltexx"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Krait 300"
 ram = "2 GB"
 wifi = "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"

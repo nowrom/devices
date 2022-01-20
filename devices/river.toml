@@ -20,7 +20,7 @@ maintainer = "Andrew Hexen"
 group = "https://t.me/+Oc1flk8GNpAyZWQ1"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"

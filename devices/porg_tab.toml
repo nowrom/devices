@@ -3,7 +3,7 @@ name = "Jetson (Nano / Nano 2GB) [Tablet]"
 codename = "porg_tab"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A57"
 ram = "2/4 GB"
 wifi = "None"

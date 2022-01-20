@@ -12,7 +12,7 @@ maintainer = "Anushek Prasal"
 group = "https://t.me/+Vavim64zaoacn9Mv"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 485"
 ram = "8/12GB GB LPDDR4X"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"

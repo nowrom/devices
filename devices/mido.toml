@@ -23,7 +23,7 @@ maintainer = "Kevin Frost"
 group = "https://t.me/+vLOXlgEDUwIxZmU1"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53"
 ram = "2/3/4 GB"
 wifi = "802.11 a/b/g/n/ac"

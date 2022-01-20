@@ -38,7 +38,7 @@ donation_link = "https://paypal.me/rajkale99"
 photo = "https://avatars.githubusercontent.com/u/26388747?s=400&u=f48e27564a6ee82924472675a33fffd256d740a2&v=4"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 465"
 ram = "4/6/8 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"

@@ -3,7 +3,7 @@ name = "Nexus 7 2013 (Wi-Fi, Repartitioned)"
 codename = "flox"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Krait 300"
 ram = "2 GB"
 wifi = "802.11 a/b/g/n @ 2.4 GHz & 5 GHz"

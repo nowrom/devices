@@ -3,7 +3,7 @@ name = "Yunique"
 codename = "jalebi"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53"
 ram = "1 GB"
 wifi = "802.11 b/g/n"

@@ -3,7 +3,7 @@ name = "Galaxy Tab E 9.6 (WiFi)"
 codename = "gtelwifiue"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A53"
 ram = "1.5 GB"
 wifi = "802.11 a/b/g/n"

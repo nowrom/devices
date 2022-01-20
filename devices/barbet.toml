@@ -9,7 +9,16 @@ id = "calyxos"
 id = "grapheneos"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 475"
 ram = "6 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_google_barbet","device_google_redbull","vendor_google_barbet","kernel_google_redbull"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = true
+deprecated = false

@@ -3,7 +3,7 @@ name = "10"
 codename = "pme"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo"
 ram = "4 GB"
 wifi = "Dual-band Wi-Fi 802.11 a/b/g/n/ac"

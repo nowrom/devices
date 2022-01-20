@@ -15,7 +15,7 @@ donation_link = ""
 photo = "https://avatars.githubusercontent.com/u/78888873?v=4"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Kryo 260"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
@@ -38,7 +38,7 @@ deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = false
+stable = true
 deprecated = false
 
 [[roms]]

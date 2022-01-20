@@ -3,7 +3,7 @@ name = "Galaxy S III Neo (Sony Camera)"
 codename = "s3ve3gxx"
 
 [[roms]]
-id = "lineages"
+id = "lineageos"
 cpu = "Cortex-A7"
 ram = "1.5 GB"
 wifi = "802.11 a/b/g/n"
