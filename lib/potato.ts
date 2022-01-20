@@ -26,7 +26,7 @@ export interface Alioth {
 
 export const potato: UpdateFunction = async (stored_devices, getDevice) => {
 	const devices: Potato = await fetch(
-		'https://github.com/ArrowOS/arrow_ota/blob/master/arrow_ota.json?raw=true'
+		'https://github.com/PotatoProject/vendor_potato/blob/frico-release/devices.json?raw=true'
 	).then((r) => r.json());
 
 	Object.entries(devices).forEach(([name, _]) => {
