@@ -42,6 +42,9 @@ url = "https://sourceforge.net/projects/pixelextended/files/avicii/PixelExtended
 xda_thread = "https://forum.xda-developers.com/t/rom-12-official-beta-pixel-extended-11-0-oneplusnord-avicii-01-11-2021.4279755/"
 
 [[roms]]
+id = "pixyos"
+
+[[roms]]
 id = "sakura"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-x-for-oneplus-nord-avicii-unofficial-vanilla.4338023/"
 maintainer_url = "https://forum.xda-developers.com/m/hmtheboy154.9207498/"

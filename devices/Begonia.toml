@@ -10,6 +10,9 @@ id = "AOSPK"
 xda_thread = ""
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "crdroid"
 gapps = "https://bitgapps.github.io/"
 recovery = ""
@@ -40,7 +43,13 @@ stable = true
 deprecated = false
 
 [[roms]]
+id = "pixyos"
+
+[[roms]]
 id = "potato"
+
+[[roms]]
+id = "revengeos"
 
 [[roms]]
 id = "sakura"

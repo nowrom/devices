@@ -9,6 +9,9 @@ ram = "6/8/12 GB LPDDR4X"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
 
 [[roms]]
+id = "revengeos"
+
+[[roms]]
 id = "sparkos"
 group = "https://t.me/SparkOSCommunity"
 download = "https://downloads.spark-os.live/zippo/Spark-S-Energized-OFFICIAL-zippo-20220117.zip"

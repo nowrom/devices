@@ -3,6 +3,9 @@ name = "Mi A1"
 codename = "tissot"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

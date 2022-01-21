@@ -2,3 +2,6 @@ codename = "Garlic"
 
 [[roms]]
 id = "pixelextended"
+
+[[roms]]
+id = "blissroms"

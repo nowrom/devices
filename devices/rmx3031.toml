@@ -1,0 +1,6 @@
+name = "Realme X7 Max 5G (RMX3031)"
+codename = "rmx3031"
+
+[[roms]]
+id = "ancientos"
+photo = "https://fdn2.gsmarena.com/vv/bigpic/realme-x7-max-5g.jpg"

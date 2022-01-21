@@ -11,6 +11,9 @@ maintainer = "Aftab Ashrafi"
 changelog = "with wrapped key encryption, if encrypted on a build older than Jan 2022, you will need clean flash\r\n\r\n- Widevine L1 fixed\r\n- Tethering/OTG fixed\r\n- Encryption fixed (with aosp recovery)\r\n- Switched to Enforcing\r\n- Switched to Qti Bt\r\n- Fixed several bugs"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "cherishos"
 
 [[roms]]
@@ -65,6 +68,9 @@ deprecated = false
 id = "pixelextended"
 url = "https://sourceforge.net/projects/pixelextended/files/violet/PixelExtended_violet-12.0-20220102-1014-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/pixelextended-rom-for-redmi-note-7-pro-violet.4382883/"
+
+[[roms]]
+id = "pixyos"
 
 [[roms]]
 id = "sakura"

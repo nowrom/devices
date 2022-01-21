@@ -7,6 +7,9 @@ id = "arrowos"
 maintainer = "lamjiidii1"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
 recovery = "https://forum.xda-developers.com/t/recovery-3-4-0-10-cepheus-official-unofficial-twrp-for-xiaomi-mi-9-stable.3905825/"
@@ -32,6 +35,9 @@ version_code = "twelve"
 xda_thread = ""
 stable = true
 deprecated = false
+
+[[roms]]
+id = "revengeos"
 
 [[roms]]
 id = "sparkos"

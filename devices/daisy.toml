@@ -11,10 +11,16 @@ id = "arrowos"
 maintainer = "acras"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/daisy/Havoc-OS-v4.12-20211221-daisy-Official-GApps.zip"
 maintainer = "LuPe"
 group = "https://t.me/havocofficial"
+
+[[roms]]
+id = "revengeos"
 
 [[roms]]
 id = "syberia"

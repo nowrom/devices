@@ -12,6 +12,9 @@ maintainer = "Immanuel_Raj"
 changelog = "Fixed Fingerprint not working issues"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "crdroid"
 gapps = ""
 recovery = "https://dl.twrp.me/jasmine_sprout/"
@@ -40,6 +43,9 @@ repostories = ["device_xiaomi_jasmine_sprout","kernel_xiaomi_jasmine_sprout","ve
 [[roms.supported_versions]]
 version_code = "eleven"
 deprecated = true
+
+[[roms]]
+id = "pixyos"
 
 [[roms]]
 id = "sakura"

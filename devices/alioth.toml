@@ -16,7 +16,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "palaych"
-changelog = "- Build with AOSP Clang 14.0.1\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI 12.5.5.0 (A11) Global / India / EU.</b>"
+changelog = "- alioth: rro_overlays: Drop TetheringOverlay\r\n- Switch NXP NFC HAL (Now should read mifare card and another tag)\r\n- Reserved vendor partition size\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n- Misc fixes and upstream changes.\r\n\r\nRecommend use with fw part MIUI V12.5.4.0 and newer (global/India/etc).\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261"
 
 [[roms]]
 id = "crdroid"
@@ -40,7 +40,7 @@ wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotsp
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_alioth","device_xiaomi_sm8250-common","kernel_xiaomi_sm8250","vendor_xiaomi_alioth","vendor_xiaomi_sm8250-common"]
+repostories = ["device_xiaomi_alioth","device_xiaomi_sm8250-common","device_xiaomi_sm8250-extras","kernel_xiaomi_sm8250","vendor_xiaomi_alioth","vendor_xiaomi_sm8250-common"]
 
 [[roms.supported_versions]]
 version_code = "eleven"

@@ -1,8 +1,11 @@
-codename = "z2_row"
-name = "ZUK Z2121"
 brand = "ZUK"
+name = "ZUK Z2121"
+codename = "z2_row"
 
 [[roms]]
 id = "arrowos"
 maintainer = "kubersharma001, weimerd"
 changelog = "-"
+
+[[roms]]
+id = "pixyos"

@@ -18,6 +18,9 @@ donation_link = "https://ko-fi.com/beerdmann"
 photo = "https://avatars.githubusercontent.com/u/50242333?v=4"
 
 [[roms]]
+id = "revengeos"
+
+[[roms]]
 id = "sakura"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-0-official-olives-project-sakura-v5-1-for-redmi-8-8a-8a-dual-unified.4306071"
 maintainer_url = "null"

@@ -1,6 +1,6 @@
+codename = "RMX2061"
 brand = "Realme"
 name = "Realme 6 PRO"
-codename = "RMX2061"
 
 [[roms]]
 id = "pixelextended"
@@ -15,6 +15,9 @@ maintainer = "Dennis Murimi"
 group = "https://t.me/+VuKhjhLo5ZYzM2Vk"
 
 [[roms]]
+id = "revengeos"
+
+[[roms]]
 id = "pixelextended"
 
 [[roms]]
@@ -25,3 +28,6 @@ id = "havocos"
 url = "https://download.havoc-os.com/toco/Havoc-OS-v4.12-20211222-toco-Official-GApps.zip"
 maintainer = "Dennis Murimi"
 group = "https://t.me/+VuKhjhLo5ZYzM2Vk"
+
+[[roms]]
+id = "revengeos"

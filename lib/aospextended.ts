@@ -9,10 +9,7 @@ export interface AospExtended {
 	xda_thread?: string;
 }
 
-export const aospExtended: UpdateFunction = async (
-	stored_devices,
-	getDevice
-) => {
+export const aospExtended: UpdateFunction = async () => {
 	return [
 		await fetch('https://api.aospextended.com/devices/filtered/q').then((r) =>
 			r.json()

@@ -18,6 +18,9 @@ id = "arrowos"
 maintainer = "TH779, kubersharma001"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

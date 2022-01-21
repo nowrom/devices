@@ -11,6 +11,9 @@ id = "arrowos"
 maintainer = "RemyL"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "cherishos"
 
 [[roms]]
@@ -56,7 +59,13 @@ stable = true
 deprecated = true
 
 [[roms]]
+id = "pixyos"
+
+[[roms]]
 id = "potato"
+
+[[roms]]
+id = "revengeos"
 
 [[roms]]
 id = "sakura"

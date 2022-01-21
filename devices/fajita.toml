@@ -6,6 +6,9 @@ codename = "fajita"
 id = "pixelextended"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "cherishos"
 
 [[roms]]

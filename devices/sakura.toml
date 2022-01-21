@@ -39,6 +39,9 @@ stable = true
 deprecated = false
 
 [[roms]]
+id = "pixyos"
+
+[[roms]]
 id = "sakura"
 xda_thread = ""
 maintainer_url = "null"

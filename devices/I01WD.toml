@@ -3,6 +3,9 @@ name = "Asus ZenFone 6"
 codename = "I01WD"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "havocos"
 url = "https://sourceforge.net/projects/havoc-os/files/I01WD/Havoc-OS-v3.8-20200919-I01WD-Official-GApps.zip/download"
 maintainer = "Raileanu Cosmin"

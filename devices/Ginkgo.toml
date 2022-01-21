@@ -16,7 +16,10 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Adithya (ghostrider_reborn)"
-changelog = "- Updated MIUI blobs from V12.5.1.0.RCOMIXM\r\n- Fixed USB OTG detection\r\n- Misc optimizations in kernel"
+changelog = "- Added support for per-SIM toggle in SIM settings\r\n- Removed notification and battery LED settings on willow\r\n- Removed TM symbol in kernel name (required by some apps)\r\n- Merged LA.UM.9.11.r1-04700.02 CAF tag in kernel"
+
+[[roms]]
+id = "blissroms"
 
 [[roms]]
 id = "cherishos"
@@ -70,7 +73,13 @@ stable = true
 deprecated = false
 
 [[roms]]
+id = "pixyos"
+
+[[roms]]
 id = "potato"
+
+[[roms]]
+id = "revengeos"
 
 [[roms]]
 id = "sakura"

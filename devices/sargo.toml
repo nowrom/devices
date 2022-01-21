@@ -6,6 +6,9 @@ codename = "sargo"
 id = "calyxos"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

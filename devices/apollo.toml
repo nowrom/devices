@@ -5,7 +5,7 @@ codename = "apollo"
 [[roms]]
 id = "arrowos"
 maintainer = "Dobsgw"
-changelog = "- Move to QTI Powe Hal (Pubg 1m fps guarantee)\r\n- Audio cleanups\r\n- Parts cleanups and improvements\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial"
+changelog = "- Added Notch Bar Killer overlay for gamers under Developer options -> Display cutout\r\n\r\n- Fix new heads up notifications showing their icon behind the camera cutout in status bar\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial"
 
 [[roms]]
 id = "dotos"
@@ -21,7 +21,7 @@ group = "https://t.me/+eEwUXXcdBbg3MDk5"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_apollo","device_xiaomi_sm8250-common","kernel_xiaomi_sm8250","vendor_xiaomi_apollo","vendor_xiaomi_sm8250-common"]
+repostories = ["device_xiaomi_apollo","device_xiaomi_sm8250-common","device_xiaomi_sm8250-extras","kernel_xiaomi_sm8250","vendor_xiaomi_apollo","vendor_xiaomi_sm8250-common"]
 
 [[roms.supported_versions]]
 version_code = "eleven"

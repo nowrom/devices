@@ -15,6 +15,9 @@ maintainer = "Bauuuuu"
 changelog = "- Partial sync with LOS tree\r\n- Misc fixes and upstream changes."
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

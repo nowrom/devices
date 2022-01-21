@@ -3,6 +3,9 @@ name = "G6 (EU Unlocked)"
 codename = "h870"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo"
 ram = "4 GB"

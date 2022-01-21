@@ -8,6 +8,9 @@ maintainer = "alk3p"
 changelog = "- Bug fixes and stability improvements.\r\n- For more pls check <a href=\"https://forum.xda-developers.com/t/4355029\">XDA thread</a>"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
 recovery = "https://sourceforge.net/projects/crdroid/files/guacamole/8.x/recovery/"
@@ -45,6 +48,9 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-0-oneplus-7-pro-pixel-experience-aosp-2020-12-05.3956496/"
 stable = true
 deprecated = true
+
+[[roms]]
+id = "revengeos"
 
 [[roms]]
 id = "evolutionx"

@@ -10,7 +10,10 @@ id = "pixelextended"
 
 [[roms]]
 id = "arrowos"
-maintainer = "TG_DEVICE_MAINTAINER"
+maintainer = "srinandek"
+
+[[roms]]
+id = "blissroms"
 
 [[roms]]
 id = "cherishos"
@@ -26,6 +29,9 @@ id = "havocos"
 url = "https://download.havoc-os.com/vince/Havoc-OS-v4.12-20211226-vince-Official-GApps.zip"
 maintainer = "Mohammed Adnan"
 group = "https://t.me/+VHjIg542KdDqPfp4"
+
+[[roms]]
+id = "revengeos"
 
 [[roms]]
 id = "evolutionx"

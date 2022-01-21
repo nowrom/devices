@@ -19,24 +19,32 @@ These roms don't have a public devices.json list or whatever and have to be adde
 - blissrom: https://github.com/BlissRoms-Devices/OTA/blob/master/builds.json
 - curvus os: https://github.com/CorvusRom-Devices/OTA
 
-## Completed roms (15)
+## Completed roms (24)
 
-- Ancientos
-- AOSP Extended
-- Cherish
-- Arrowos
-- crdroid
-- evolution x
-- superior os
-- dotos
-- Lineages
+- PixelExperience
+- ArrowOs
+- DroidOnTime
+- Syberia
+- LegionOs
+- AncientOs
 - HavocOs
-- legionos
-- pixelexperience
-- sakura
-- spark
-- syberia
-- AOSPK (No rom info though sadly)
+- CRdroid
+- PixelPlusUI
+- AospExtended
+- Sakura
+- Spark os
+- CalyxOS
+- PixelExtended
+- SuperiorOs
+- CherishOs
+- EvolutionX
+- Potato
+- Lineageos
+- GrapheneOS
+- blissroms
+- paranoidandroid
+- PixysOS
+- revengeos
 
 ## Contributing
 
@@ -53,6 +61,7 @@ git clone https://github.com/PixelExtended/OTA ota/pixelextendedota
 git clone https://github.com/LineageOS/lineage_wiki ota/lineage_wiki
 git clone https://github.com/PixelExperience/official_devices ota/pixelexperience
 git clone https://github.com/AOSPK/official_devices ota/oaspk
+git clone https://github.com/RevengeOS-Devices/official_devices ota/revenge
 ```
 
 make changes to updatelist.ts and commit done 🚀

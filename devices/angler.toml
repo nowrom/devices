@@ -3,6 +3,9 @@ name = "Nexus 6P"
 codename = "angler"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A57"
 ram = "3 GB"

@@ -8,6 +8,9 @@ maintainer = "PranavKpr"
 changelog = "- Fixed USB tethering mode detection with windows\r\n- Updated HALs and rebased kernel on LA.UM.10.2.1.r1-02700-sdm660.0\r\n\r\n- Screen might go blank for a minute on the first boot. Wait and let it boot."
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/X00T/Havoc-OS-v4.9-20211007-X00T-Official-GApps.zip"
 maintainer = "Rizky Benggolo"

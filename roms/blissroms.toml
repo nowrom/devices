@@ -1,0 +1,7 @@
+[rom]
+name = "Blissroms"
+id = "blissroms"
+about = "An open-source operating system based on Android with customizations, options and added security features."
+website = "https://blissroms.org/"
+wiki = "https://docs.blissroms.org/"
+download = "https://downloads.blissroms.org/"

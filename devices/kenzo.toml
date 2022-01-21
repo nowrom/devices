@@ -3,6 +3,9 @@ name = "Xiaomi Redmi Note 3 Pro"
 codename = "kenzo"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/kenzo/Havoc-OS-v4.8-20210912-kenzo-Official-GApps.zip"
 maintainer = "Magicxavi"

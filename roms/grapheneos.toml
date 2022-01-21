@@ -1,0 +1,7 @@
+[rom]
+name = "GrapheneOS"
+id = "grapheneos"
+about = "The private and secure mobile operating system with Android app compatibility. Developed as a non-profit open source project."
+website = "https://grapheneos.org/"
+wiki = "https://grapheneos.org/faq"
+download = "https://grapheneos.org/install/"

@@ -1,0 +1,7 @@
+[rom]
+name = "PixysOS"
+id = "pixysos"
+about = "Welcome to PixysOS, an after-market firmware based on Android open source project. This firmware comes with a combinaton of simple, light weight and minimalistic design. It contains some of the best handpicked features that can improve the styling and some tweaks that can extend your device performance and push limits of overall user experience to which the Android is accustommed to. We aim to serve more devices with regular updater."
+website = "https://pixysos.com/"
+wiki = "https://pixysos.com/stats"
+download = "https://pixysos.com/devices"

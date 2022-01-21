@@ -15,7 +15,10 @@ xda_thread = "https://forum.xda-developers.com/t/title-rom-11-0-device-aospk-the
 [[roms]]
 id = "arrowos"
 maintainer = "Ratoriku, Hazama25"
-changelog = "- Fixed device auto shutdown in a \"not too high\" temperature when gaming\r\n- Drop deprecated RenderScript implementation\r\n- Localise NTP to improve GPS TTFF\r\n- Disable WLAN Firmware loggings\r\n- Clean up unused manifests\r\n- kernel: Re-add Safetynet Patch for non-rooted users\r\n- Other fixes and improvements"
+changelog = "- Switch to user build\r\n- Miscellaneous fixes and improvements"
+
+[[roms]]
+id = "blissroms"
 
 [[roms]]
 id = "cherishos"
@@ -66,7 +69,13 @@ url = "https://sourceforge.net/projects/pixelextended/files/lavender/PixelExtend
 xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-12-lavender-01-11-21.4323719/"
 
 [[roms]]
+id = "pixyos"
+
+[[roms]]
 id = "potato"
+
+[[roms]]
+id = "revengeos"
 
 [[roms]]
 id = "sakura"

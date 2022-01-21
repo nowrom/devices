@@ -3,6 +3,9 @@ name = "Redmi Note 6 Pro"
 codename = "twolip"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 260"
 ram = "3/4/6 GB"

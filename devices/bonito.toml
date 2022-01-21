@@ -9,6 +9,9 @@ id = "CalyxOS"
 id = "pixelextended"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

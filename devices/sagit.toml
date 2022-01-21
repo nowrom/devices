@@ -3,6 +3,9 @@ name = "Xiaomi Mi 6"
 codename = "sagit"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/sagit/Havoc-OS-v4.12-20211227-sagit-Official-GApps.zip"
 maintainer = "Den Chornyi"

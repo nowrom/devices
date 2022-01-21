@@ -3,6 +3,9 @@ name = "Realme XT"
 codename = "RMX1921"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

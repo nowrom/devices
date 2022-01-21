@@ -3,6 +3,9 @@ name = "Nexus 5X"
 codename = "bullhead"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A57"
 ram = "2 GB"

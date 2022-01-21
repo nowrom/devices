@@ -3,7 +3,7 @@ import { UpdateFunction } from './mod.ts';
 export interface DotOS {
 	[key: string]: { [key: string]: string };
 }
-export const dotos: UpdateFunction = async (stored_devices, getDevice) => {
+export const dotos: UpdateFunction = async () => {
 	const devices: DotOS = await fetch(
 		'https://github.com/DotOS/official_devices/blob/dot11/devices.json?raw=true'
 	).then((r) => r.json());

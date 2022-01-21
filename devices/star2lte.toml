@@ -7,6 +7,9 @@ id = "arrowos"
 maintainer = "Baddar90"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "lineageos"
 cpu = "Exynos M3 & Cortex-A55"
 ram = "6 GB"

@@ -7,6 +7,9 @@ id = "arrowos"
 maintainer = "PranavTemkar"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -14,3 +17,6 @@ id = "lineageos"
 cpu = "Kryo"
 ram = "3 GB LPDDR4 / 4 GB LPDDR4"
 wifi = "802.11 a/b/g/n/ac, dual-band, WiFi Direct, DLNA, hotspot"
+
+[[roms]]
+id = "pixyos"

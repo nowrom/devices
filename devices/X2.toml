@@ -21,3 +21,6 @@ id = "lineageos"
 cpu = "Kryo"
 ram = "4/6 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
+
+[[roms]]
+id = "pixyos"

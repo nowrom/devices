@@ -27,4 +27,7 @@ stable = true
 deprecated = false
 
 [[roms]]
+id = "revengeos"
+
+[[roms]]
 id = "evolutionx"

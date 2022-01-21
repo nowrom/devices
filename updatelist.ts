@@ -7,6 +7,7 @@ import {
 	aospExtended,
 	AOSPK,
 	arrowOs,
+	blissroms,
 	cherishos,
 	crdroid,
 	dotos,
@@ -18,7 +19,9 @@ import {
 	pixelexperience,
 	pixelextended,
 	pixelUI,
+	pixyos,
 	potato,
+	revenge,
 	sakura,
 	spark,
 	syberia,
@@ -43,8 +46,8 @@ async function run(fn: UpdateFunction) {
 			};
 			delete device.rom;
 			device.roms.push(r.rom);
-
-			stored_devices.set(device.codename.toLowerCase(), device);
+			device.codename = device.codename.trim();
+			stored_devices.set(device.codename.toLowerCase().trim(), device);
 		});
 	} else {
 		console.log({ fn });
@@ -68,6 +71,7 @@ await run(ancientOs);
 await run(aospExtended);
 await run(AOSPK);
 await run(arrowOs);
+await run(blissroms);
 await run(cherishos);
 await run(crdroid);
 await run(dotos);
@@ -76,10 +80,13 @@ await run(grapheneos);
 await run(havocos);
 await run(legion);
 await run(lineages);
+// await run(paranoid); TODO: api currently broken (-:
 await run(pixelexperience);
 await run(pixelextended);
+await run(pixyos);
 await run(potato);
 await run(pixelUI);
+await run(revenge);
 await run(sakura);
 await run(spark);
 await run(evolutionx);

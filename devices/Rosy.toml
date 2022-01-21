@@ -29,6 +29,9 @@ stable = true
 deprecated = true
 
 [[roms]]
+id = "revengeos"
+
+[[roms]]
 id = "sakura"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-rosy-project-sakura-unofficial.4336989/"
 maintainer_url = "https://forum.xda-developers.com/m/arulebin.10604733/"

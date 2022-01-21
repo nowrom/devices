@@ -3,6 +3,9 @@ name = "MI 8 SE"
 codename = "sirius"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "legionos"
 active = false
 maintainer = "dimasyudha"

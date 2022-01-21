@@ -6,3 +6,6 @@ brand = "Xiaomi"
 id = "arrowos"
 maintainer = "TH779"
 changelog = "-"
+
+[[roms]]
+id = "blissroms"

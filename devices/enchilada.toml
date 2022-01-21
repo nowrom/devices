@@ -10,6 +10,9 @@ id = "arrowos"
 maintainer = "Raj Jadeja"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "cherishos"
 
 [[roms]]

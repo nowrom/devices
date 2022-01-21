@@ -7,6 +7,9 @@ id = "arrowos"
 maintainer = "blckbear"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo"
 ram = "4 GB"

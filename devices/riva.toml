@@ -12,6 +12,9 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-0-riva-pixelexperience-a
 deprecated = true
 
 [[roms]]
+id = "pixyos"
+
+[[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.9"

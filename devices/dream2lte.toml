@@ -3,6 +3,9 @@ name = "Samsung Galaxy S8+"
 codename = "dream2lte"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "havocos"
 url = "https://sourceforge.net/projects/havoc-os/files/dream2lte/Havoc-OS-v3.12-20201229-dream2lte-Official-GApps.zip/download"
 maintainer = "EugW"

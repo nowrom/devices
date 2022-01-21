@@ -3,6 +3,9 @@ name = "Realme 1"
 codename = "CPH1859"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "sakura"
 xda_thread = "https://forum.xda-developers.com/t/rom-volte-official-cph1859-61-project-sakura-5-r-24-03-2021.4128811/"
 maintainer_url = "https://forum.xda-developers.com/m/cyberjalagam.10857311"

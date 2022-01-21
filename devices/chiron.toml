@@ -7,6 +7,9 @@ id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

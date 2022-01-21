@@ -3,7 +3,13 @@ name = "Mi 9 Lite"
 codename = "pyxis"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "evolutionx"
+
+[[roms]]
+id = "revengeos"
 
 [[roms]]
 id = "evolutionx"

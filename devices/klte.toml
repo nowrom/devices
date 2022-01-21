@@ -3,6 +3,9 @@ name = "Galaxy S5 LTE (G900F/M/R4/R7/T/V/W8)"
 codename = "klte"
 
 [[roms]]
+id = "blissroms"
+
+[[roms]]
 id = "lineageos"
 cpu = "Krait 400"
 ram = "2 GB"

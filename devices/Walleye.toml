@@ -1,6 +1,6 @@
+codename = "Walleye"
 brand = "Google"
 name = "Pixel 2"
-codename = "Walleye"
 
 [[roms]]
 id = "calyxos"
@@ -45,3 +45,6 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-0-walleye-pixelexperience-aosp-official.4365917/"
 stable = false
 deprecated = false
+
+[[roms]]
+id = "revengeos"
