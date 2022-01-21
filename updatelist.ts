@@ -32,7 +32,19 @@ function getDevice(id: string) {
 }
 
 async function run(fn: UpdateFunction) {
-	return await fn(stored_devices, getDevice);
+	const r: any = await fn(stored_devices, getDevice);
+	if (r) {
+		let device = getDevice(r.codename);
+		device = {
+			...device,
+			...r,
+			roms: {
+				...r.roms,
+				...device.roms,
+			},
+		};
+		stored_devices.set(device.codename.toLowerCase(), device);
+	}
 }
 
 await Promise.all(

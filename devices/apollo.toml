@@ -5,7 +5,7 @@ brand = "Xiaomi"
 [[roms]]
 id = "arrowos"
 maintainer = "Dobsgw"
-changelog = "Use Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial"
+changelog = "- Move to QTI Powe Hal (Pubg 1m fps guarantee)\r\n- Audio cleanups\r\n- Parts cleanups and improvements\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial"
 
 [[roms]]
 id = "dotos"

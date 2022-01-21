@@ -5,7 +5,7 @@ brand = "asus"
 [[roms]]
 id = "arrowos"
 maintainer = "Arka"
-changelog = "- Update Security Patch\r\n- Update stormbreaker kernel\r\n- Misc changes"
+changelog = "- Initial A12 Test build"
 
 [[roms]]
 id = "dotos"
