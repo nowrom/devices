@@ -51,6 +51,8 @@ git clone https://github.com/crdroidandroid/android_vendor_crDroidOTA ota/androi
 git clone https://github.com/Spark-Devices/OTA ota/sparkota
 git clone https://github.com/PixelExtended/OTA ota/pixelextendedota
 git clone https://github.com/LineageOS/lineage_wiki ota/lineage_wiki
+git clone https://github.com/PixelExperience/official_devices ota/pixelexperience\
+git clone https://github.com/AOSPK/official_devices ota/oaspk
 ```
 
 make changes to updatelist.ts and commit done 🚀

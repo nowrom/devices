@@ -79,6 +79,27 @@ export const routes = createRouteMap([
 			return r;
 		},
 	],
+	[
+		'/img/*',
+		async (req: Pick<AugmentedRequest, 'routeParams'>) => {
+			const [img] = req.routeParams;
+			try {
+				const file = await Deno.readFile(`./images/${img}`);
+				return new Response(file, {
+					headers: {
+						'content-type': 'image/png',
+					},
+				});
+			} catch (e) {
+				return new Response('404', {
+					status: 404,
+					headers: {
+						'content-type': 'text/plain',
+					},
+				});
+			}
+		},
+	],
 ]);
 
 const router = createRouter(routes);
