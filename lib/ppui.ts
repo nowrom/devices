@@ -9,29 +9,23 @@ export const pixelUI: UpdateFunction = async (stored_devices, getDevice) => {
 		'https://ppui.site/assets/json/download.json'
 	).then((r) => r.json());
 
-	devices.forEach((xy) => {
+	return devices.map((xy) => {
 		xy.deviceDetails.forEach((x) => {
 			const codename = x.codeName
 				.replace('(', '')
 				.replace(')', '')
 				.split('/')[0];
-			let device = getDevice(codename);
-			device = {
-				...device,
-				brand: device.brand || xy.deviceCategory,
-				name: device.name || x.deviceName,
+			return {
+				brand: xy.deviceCategory,
+				name: x.deviceName,
 				codename: codename,
-				roms: [
-					...device.roms,
-					{
-						id: 'pixelplusui',
-						active: x.deviceStatus,
-						photo: x.avatar,
-						guide: x.guide,
-					},
-				],
+				rom: {
+					id: 'pixelplusui',
+					active: x.deviceStatus,
+					photo: x.avatar,
+					guide: x.guide,
+				},
 			};
-			stored_devices.set(codename.toLowerCase(), device);
 		});
 	});
 };

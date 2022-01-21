@@ -1,8 +1,0 @@
-brand = "Samsung"
-name = "Galaxy Tab S6 Lite LTE"
-codename = "gta4xl"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://opengapps.org/"
-recovery = "https://sourceforge.net/projects/darkjoker360-developements/files/Samsung/Galaxy%20Tab%20S6%20Lite/recovery-11.img/download"

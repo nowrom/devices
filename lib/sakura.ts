@@ -15,24 +15,18 @@ export const sakura: UpdateFunction = async (stored_devices, getDevice) => {
 	const devices: Sakura[] = await fetch(
 		'https://github.com/ProjectSakura/OTA/blob/11/devices.json?raw=true'
 	).then((r) => r.json());
-	devices.forEach((x) => {
-		let device = getDevice(x.codename);
-		device = {
-			...device,
-			brand: device.brand || x.brand,
-			name: device.name || x.name,
+	return devices.map((x) => {
+		return {
+			brand: x.brand,
+			name: x.name,
 			codename: x.codename,
-			roms: [
-				...device.roms,
-				{
-					id: 'sakura',
-					xda_thread: x.xda_thread,
-					maintainer_url: x.maintainer_xda,
-					maintainer_name: x.maintainer_name,
-					active: x.active,
-				},
-			],
+			rom: {
+				id: 'sakura',
+				xda_thread: x.xda_thread,
+				maintainer_url: x.maintainer_xda,
+				maintainer_name: x.maintainer_name,
+				active: x.active,
+			},
 		};
-		stored_devices.set(x.codename.toLowerCase(), device);
 	});
 };

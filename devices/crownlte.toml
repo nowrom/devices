@@ -1,6 +1,6 @@
-codename = "crownlte"
-name = "SM-N960F"
 brand = "samsung"
+name = "SM-N960F"
+codename = "crownlte"
 
 [[roms]]
 id = "arrowos"

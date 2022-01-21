@@ -8,22 +8,19 @@ export const dotos: UpdateFunction = async (stored_devices, getDevice) => {
 		'https://github.com/DotOS/official_devices/blob/dot11/devices.json?raw=true'
 	).then((r) => r.json());
 
-	Object.entries(devices).forEach(([brand, devices]) => {
-		Object.entries(devices).map(([codename, name]) => {
-			let device = getDevice(codename);
-			device = {
-				...device,
-				brand: device.brand || brand,
-				name: device.name || name,
-				codename: codename,
-				roms: [
-					...device.roms,
-					{
+	let t = Object.entries(devices)
+		.map(([brand, devices]) => {
+			return Object.entries(devices).map(([codename, name]) => {
+				return {
+					brand: brand,
+					name: name,
+					codename: codename,
+					rom: {
 						id: 'dotos',
 					},
-				],
-			};
-			stored_devices.set(codename.toLowerCase(), device);
-		});
-	});
+				};
+			});
+		})
+		.flat(5);
+	return t;
 };

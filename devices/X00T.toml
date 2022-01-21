@@ -1,6 +1,6 @@
-codename = "X00T"
-name = "Asus Zenfone Max Pro M1"
 brand = "asus"
+name = "Asus Zenfone Max Pro M1"
+codename = "X00T"
 
 [[roms]]
 id = "arrowos"

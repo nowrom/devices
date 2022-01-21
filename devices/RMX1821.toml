@@ -1,9 +1,0 @@
-brand = "Realme Devices"
-name = "Realme 3/3i"
-codename = "RMX1821"
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/pritish.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

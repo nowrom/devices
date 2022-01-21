@@ -1,6 +1,6 @@
-codename = "X01BD"
-name = "Asus Zenfone Max Pro M2"
 brand = "asus"
+name = "Asus Zenfone Max Pro M2"
+codename = "X01BD"
 
 [[roms]]
 id = "arrowos"

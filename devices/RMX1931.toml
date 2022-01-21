@@ -1,8 +1,0 @@
-brand = "Realme"
-name = "Realme X2 Pro"
-codename = "RMX1931"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""

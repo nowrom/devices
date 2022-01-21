@@ -1,6 +1,6 @@
-brand = "Lenovo"
 name = "Z6 Pro"
 codename = "zippo"
+brand = "Lenovo"
 
 [[roms]]
 id = "lineageos"

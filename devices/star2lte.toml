@@ -1,6 +1,6 @@
-codename = "star2lte"
-name = "SM-G965F"
 brand = "samsung"
+name = "SM-G965F"
+codename = "star2lte"
 
 [[roms]]
 id = "arrowos"

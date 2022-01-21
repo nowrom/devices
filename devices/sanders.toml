@@ -45,12 +45,6 @@ stable = true
 deprecated = true
 
 [[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/satham.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
 id = "sakura"
 xda_thread = ""
 maintainer_url = "null"

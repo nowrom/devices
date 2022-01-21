@@ -24,6 +24,9 @@ gapps = ""
 recovery = "https://dl.akr-developers.com/?file=skkk/TWRP/A12/v3.0.4_A12/3.6.0_11-RedmiK40_v3.0.4_A12-alioth-skkk_f7ef1b18.img"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/alioth/Havoc-OS-v4.12-20211220-alioth-Official-GApps.zip"
 maintainer = "Sukeerat Singh Goindi"
@@ -64,12 +67,6 @@ xda_thread = "https://forum.xda-developers.com/t/closed-rom-official-pixel-exten
 
 [[roms]]
 id = "potato"
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/Ivan.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sparkos"

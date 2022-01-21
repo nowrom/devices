@@ -26,7 +26,7 @@ export interface CRResponse {
 }
 
 export const crdroid: UpdateFunction = async (stored_devices, getDevice) => {
-	await Promise.all(
+	return await Promise.all(
 		[...Deno.readDirSync('./ota/android_vendor_crDroidOTA')]
 			.filter((x) => x.name.endsWith('.json'))
 			.map(async (x) => {
@@ -35,23 +35,16 @@ export const crdroid: UpdateFunction = async (stored_devices, getDevice) => {
 				);
 				const response = file.response[0];
 				const codename = x.name.split('.')[0];
-				let device = getDevice(codename);
-				device = {
-					...device,
-					brand: device.brand || response.oem,
-					name: device.name || response.device,
+				return {
+					brand: response.oem,
+					name: response.device,
 					codename: codename,
-					roms: [
-						...device.roms,
-						{
-							id: 'crdroid',
-							gapps: response.gapps,
-							recovery: response.recovery,
-						},
-					],
+					rom: {
+						id: 'crdroid',
+						gapps: response.gapps,
+						recovery: response.recovery,
+					},
 				};
-
-				stored_devices.set(codename.toLowerCase(), device);
 			})
 	);
 };

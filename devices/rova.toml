@@ -1,8 +1,0 @@
-brand = "Redmi"
-name = "Redmi 4a/5a"
-codename = "rova"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://opengapps.org"
-recovery = "https://t.me/mi_msm8937_group/10709"

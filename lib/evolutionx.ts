@@ -39,20 +39,14 @@ export const evolutionx: UpdateFunction = async (stored_devices, getDevice) => {
 	const devices: Evolotionx[] = await fetch(
 		'https://github.com/Evolution-X-Devices/official_devices/blob/master/devices.json?raw=true'
 	).then((r) => r.json());
-	devices.forEach((x) => {
-		let device = getDevice(x.codename);
-		device = {
-			...device,
-			brand: device.brand || x.brand,
-			name: device.name || x.name,
+	return devices.map((x) => {
+		return {
+			brand: x.brand,
+			name: x.name,
 			codename: x.codename,
-			roms: [
-				...device.roms.filter((x: any) => x.id !== 'evolutionx'),
-				{
-					id: 'evolutionx',
-				},
-			],
+			rom: {
+				id: 'evolutionx',
+			},
 		};
-		stored_devices.set(x.codename.toLowerCase(), device);
 	});
 };

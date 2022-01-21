@@ -3,6 +3,9 @@ name = "OnePlus 9 Pro"
 codename = "lemonadep"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/lemonadep/Havoc-OS-v4.12-20211224-lemonadep-Official-GApps.zip "
 maintainer = "eduardo"

@@ -1,6 +1,6 @@
+brand = "Xioami"
 name = "Redmi 5 Plus"
 codename = "vince"
-brand = "Xioami"
 
 [[roms]]
 id = "ancientos"
@@ -17,6 +17,9 @@ id = "cherishos"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "havocos"

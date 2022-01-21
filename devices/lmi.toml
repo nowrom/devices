@@ -14,6 +14,9 @@ maintainer = "TH779"
 id = "cherishos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "legionos"
 active = true
 maintainer = "ZenkaBestia"
@@ -36,18 +39,6 @@ version_code = "twelve"
 xda_thread = ""
 stable = true
 deprecated = false
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/maintainer_avatar.png"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/maintainer_avatar.png"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sparkos"

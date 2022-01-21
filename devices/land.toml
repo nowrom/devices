@@ -1,6 +1,6 @@
-codename = "land"
-name = "Redmi 3S"
 brand = "Xiaomi"
+name = "Redmi 3S"
+codename = "land"
 
 [[roms]]
 id = "arrowos"
@@ -37,12 +37,6 @@ deprecated = true
 version_code = "twelve"
 stable = false
 deprecated = false
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/MarvelMathesh.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "syberia"

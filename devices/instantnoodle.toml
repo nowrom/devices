@@ -3,6 +3,9 @@ name = "OnePlus 8"
 codename = "instantnoodle"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/instantnoodle/Havoc-OS-v4.12-20211224-instantnoodle-Official-GApps.zip"
 maintainer = "Chris Chen"

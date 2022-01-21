@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 name = "Poco X3"
-codename = "surya"
+codename = "Surya"
 
 [[roms]]
 id = "pixelextended"
@@ -15,6 +15,9 @@ maintainer = "Ganesh Varma, palaych"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "havocos"
@@ -56,12 +59,6 @@ deprecated = true
 version_code = "twelve"
 stable = true
 deprecated = false
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/Hazama.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sakura"

@@ -1,6 +1,6 @@
 brand = "OnePlus"
 name = "oneplus 5"
-codename = "cheeseburger"
+codename = "Cheeseburger"
 
 [[roms]]
 id = "pixelextended"

@@ -1,6 +1,6 @@
-codename = "apollo"
-name = "Xiaomi Mi 10T"
 brand = "Xiaomi"
+name = "Xiaomi Mi 10T"
+codename = "apollo"
 
 [[roms]]
 id = "arrowos"
@@ -9,6 +9,9 @@ changelog = "- Move to QTI Powe Hal (Pubg 1m fps guarantee)\r\n- Audio cleanups\
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "havocos"
@@ -37,24 +40,6 @@ version_code = "twelve"
 xda_thread = ""
 stable = true
 deprecated = false
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/Hamza.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/Hamza.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/Hamza.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "evolutionx"

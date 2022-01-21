@@ -1,6 +1,6 @@
 brand = "Xioami"
-codename = "courbet"
 name = "Mi 11 Lite (courbet/courbetin)"
+codename = "courbet"
 
 [[roms]]
 id = "ancientos"

@@ -1,8 +1,0 @@
-brand = "Samsung"
-name = "Galaxy S20 (5G)"
-codename = "x1s"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/opengapps/files/arm64/test/20210130/"
-recovery = "https://sourceforge.net/projects/crdroid/files/x1s/7.x/recovery.img/download"

@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 name = "Redmi Note 8"
-codename = "ginkgo"
+codename = "Ginkgo"
 
 [[roms]]
 id = "pixelextended"
@@ -23,6 +23,9 @@ id = "cherishos"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "havocos"
@@ -68,12 +71,6 @@ deprecated = false
 
 [[roms]]
 id = "potato"
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/Erwin.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sakura"

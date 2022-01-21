@@ -1,6 +1,6 @@
-brand = "Xiaomi"
 name = "Redmi Note 10 Pro India , Redmi Note 10 Pro Global , Redmi Note 10 Pro Max India"
 codename = "sweet"
+brand = "Xiaomi"
 
 [[roms]]
 id = "pixelextended"
@@ -55,12 +55,6 @@ xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom
 
 [[roms]]
 id = "potato"
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/maintainer_avatar.png"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sparkos"

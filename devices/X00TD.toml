@@ -9,6 +9,9 @@ id = "cherishos"
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 260"
 ram = "3/4/6 GB"
@@ -35,12 +38,6 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-11-0-x00td-pixel-experience-aosp.4221031"
 stable = true
 deprecated = true
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/maintainer_avatar.png"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sparkos"

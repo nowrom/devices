@@ -1,6 +1,6 @@
+codename = "r2p"
 brand = "Realme"
 name = "Realme 2 Pro"
-codename = "r2p"
 
 [[roms]]
 id = "pixelexperience"

@@ -1,6 +1,6 @@
+brand = "Xioami"
 name = "Redmi Note 7"
 codename = "lavender"
-brand = "Xioami"
 
 [[roms]]
 id = "ancientos"
@@ -22,6 +22,9 @@ id = "cherishos"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "havocos"
@@ -64,12 +67,6 @@ xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom
 
 [[roms]]
 id = "potato"
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/Soham.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sakura"

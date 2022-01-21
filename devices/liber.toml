@@ -6,6 +6,9 @@ codename = "liber"
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_motorola_liber","device_motorola_sm6150-common","vendor_motorola_liber","vendor_motorola_sm6150-common","kernel_motorola_sm6150"]
 

@@ -3,6 +3,9 @@ name = "OnePlus 7"
 codename = "guacamoleb"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 485"
 ram = "6/8 GB LPDDR4X"

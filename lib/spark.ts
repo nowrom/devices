@@ -12,7 +12,7 @@ export interface Spark {
 	group: string;
 }
 export const spark: UpdateFunction = async (stored_devices, getDevice) => {
-	await Promise.all(
+	return await Promise.all(
 		[...Deno.readDirSync('./ota/sparkota')]
 			.filter((x) => x.name.endsWith('.json'))
 			.map(async (x) => {
@@ -21,23 +21,15 @@ export const spark: UpdateFunction = async (stored_devices, getDevice) => {
 				);
 
 				const codename = x.name.split('.')[0];
-				let device = getDevice(codename);
-				device = {
-					...device,
-					brand: device.brand,
-					name: device.name || file.name,
+				return {
+					name: file.name,
 					codename: codename,
-					roms: [
-						...device.roms,
-						{
-							id: 'sparkos',
-							group: file.group,
-							download: file.url,
-						},
-					],
+					rom: {
+						id: 'sparkos',
+						group: file.group,
+						download: file.url,
+					},
 				};
-
-				stored_devices.set(codename.toLowerCase(), device);
 			})
 	);
 };

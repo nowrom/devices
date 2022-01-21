@@ -1,6 +1,6 @@
-brand = "Xiaomi"
 name = "Pocophone F1"
 codename = "beryllium"
+brand = "Xiaomi"
 
 [[roms]]
 id = "pixelextended"
@@ -50,12 +50,6 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t4196119"
 stable = false
 deprecated = false
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/david.png"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sparkos"

@@ -1,6 +1,6 @@
-brand = "Unknown"
+brand = "Nokia"
 name = "Nokia 6.1 Plus (DRG)"
-codename = "DRG"
+codename = "drg"
 
 [[roms]]
 id = "ancientos"

@@ -17,6 +17,9 @@ id = "cherishos"
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/violet/Havoc-OS-v4.12-20211223-violet-Official-GApps.zip"
 maintainer = "Athul Dinesan"
@@ -62,12 +65,6 @@ deprecated = false
 id = "pixelextended"
 url = "https://sourceforge.net/projects/pixelextended/files/violet/PixelExtended_violet-12.0-20220102-1014-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/pixelextended-rom-for-redmi-note-7-pro-violet.4382883/"
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/saurav_avatar.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sakura"

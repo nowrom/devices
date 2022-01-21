@@ -29,22 +29,16 @@ export const pixelexperience: UpdateFunction = async (
 	const devices: PixelExperience[] = await fetch(
 		'https://github.com/PixelExperience/official_devices/blob/master/devices.json?raw=true'
 	).then((r) => r.json());
-	devices.forEach((x) => {
-		let device = getDevice(x.codename);
-		device = {
-			...device,
-			brand: device.brand || x.brand,
-			name: device.name || `${x.brand} ${x.name}`,
+	return devices.map((x) => {
+		return {
+			brand: x.brand,
+			name: `${x.brand} ${x.name}`,
 			codename: x.codename,
-			roms: [
-				...device.roms,
-				{
-					id: 'pixelexperience',
-					supported_versions: x.supported_versions,
-					repostories: x.repositories,
-				},
-			],
+			rom: {
+				id: 'pixelexperience',
+				supported_versions: x.supported_versions,
+				repostories: x.repositories,
+			},
 		};
-		stored_devices.set(x.codename.toLowerCase(), device);
 	});
 };

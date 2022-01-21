@@ -1,6 +1,6 @@
-codename = "z2_plus"
-name = "Z2 Plus"
 brand = "ZUK"
+name = "Z2 Plus"
+codename = "z2_plus"
 
 [[roms]]
 id = "arrowos"

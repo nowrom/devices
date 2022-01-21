@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 name = "Redmi 2s"
-codename = "ysl"
+codename = "YSL"
 
 [[roms]]
 id = "pixelextended"
@@ -25,9 +25,3 @@ maintainer = "AYUSH"
 github = "https://github.com/MIUI56"
 donation_link = ""
 photo = "https://avatars.githubusercontent.com/u/47271737?v=4"
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/Sushmit.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

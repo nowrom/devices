@@ -1,6 +1,6 @@
+name = "Pixel 3a XL"
 codename = "bonito"
 brand = "Google"
-name = "Pixel 3a XL"
 
 [[roms]]
 id = "CalyxOS"

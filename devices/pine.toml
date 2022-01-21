@@ -1,6 +1,6 @@
-brand = "Xiaomi"
 name = "Redmi 7A"
 codename = "pine"
+brand = "Xiaomi"
 
 [[roms]]
 id = "cherishos"

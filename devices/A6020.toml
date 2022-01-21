@@ -1,6 +1,6 @@
-codename = "A6020"
-name = "Vibe K5"
 brand = "Lenovo"
+name = "Vibe K5"
+codename = "A6020"
 
 [[roms]]
 id = "arrowos"

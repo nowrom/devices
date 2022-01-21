@@ -16,9 +16,3 @@ repostories = ["device_xiaomi_olivewood","kernel_xiaomi_olivewood","vendor_xiaom
 version_code = "twelve"
 stable = false
 deprecated = false
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/Android404.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

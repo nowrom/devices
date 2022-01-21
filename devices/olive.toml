@@ -1,6 +1,6 @@
-codename = "olive"
-name = "Redmi 8"
 brand = "Xiaomi"
+name = "Redmi 8"
+codename = "olive"
 
 [[roms]]
 id = "arrowos"

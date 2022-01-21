@@ -1,6 +1,6 @@
-brand = "Xiaomi"
 name = "Redmi Note 8 Pro"
-codename = "begonia"
+codename = "Begonia"
+brand = "Xiaomi"
 
 [[roms]]
 id = "pixelextended"
@@ -41,12 +41,6 @@ deprecated = false
 
 [[roms]]
 id = "potato"
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/Zinadin.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sakura"

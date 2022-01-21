@@ -1,6 +1,6 @@
-codename = "guacamole"
-name = "GM1917"
 brand = "OnePlus"
+name = "GM1917"
+codename = "guacamole"
 
 [[roms]]
 id = "arrowos"
@@ -14,6 +14,9 @@ recovery = "https://sourceforge.net/projects/crdroid/files/guacamole/8.x/recover
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "havocos"
@@ -42,12 +45,6 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-0-oneplus-7-pro-pixel-experience-aosp-2020-12-05.3956496/"
 stable = true
 deprecated = true
-
-[[roms]]
-id = "pixelplusui"
-active = "unavailable"
-photo = "./assets/images/Hamza.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "evolutionx"

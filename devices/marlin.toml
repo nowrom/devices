@@ -1,6 +1,6 @@
-codename = "marlin"
-name = "Pixel XL"
 brand = "Google"
+name = "Pixel XL"
+codename = "marlin"
 
 [[roms]]
 id = "arrowos"

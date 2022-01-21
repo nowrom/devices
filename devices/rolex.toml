@@ -1,6 +1,6 @@
+brand = "Xioami"
 name = "Redmi 4A/5A"
 codename = "rolex"
-brand = "Xioami"
 
 [[roms]]
 id = "ancientos"
@@ -10,9 +10,3 @@ id = "pixelextended"
 
 [[roms]]
 id = "dotos"
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/veshrao.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

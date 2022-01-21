@@ -1,6 +1,6 @@
-codename = "r5x"
-name = "Realme 5 Series"
 brand = "Realme"
+name = "Realme 5 Series"
+codename = "r5x"
 
 [[roms]]
 id = "arrowos"

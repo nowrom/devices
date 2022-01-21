@@ -1,9 +1,0 @@
-brand = "Xiaomi (Mi Series)"
-name = "Xiaomi Mi 10T Lite"
-codename = "gauguin_global"
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/Yasin.png"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

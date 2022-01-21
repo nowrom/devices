@@ -32,18 +32,22 @@ function getDevice(id: string) {
 }
 
 async function run(fn: UpdateFunction) {
-	const r: any = await fn(stored_devices, getDevice);
+	const r = (await fn(stored_devices, getDevice)) as any[];
 	if (r) {
-		let device = getDevice(r.codename);
-		device = {
-			...device,
-			...r,
-			roms: {
-				...r.roms,
-				...device.roms,
-			},
-		};
-		stored_devices.set(device.codename.toLowerCase(), device);
+		r.forEach((r) => {
+			if (!r) return;
+			let device = getDevice(r.codename);
+			device = {
+				...r,
+				...device,
+			};
+			delete device.rom;
+			device.roms.push(r.rom);
+
+			stored_devices.set(device.codename.toLowerCase(), device);
+		});
+	} else {
+		console.log({ fn });
 	}
 }
 

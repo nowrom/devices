@@ -1,6 +1,6 @@
-brand = "Unknown"
+brand = "Nokia"
 name = "Nokia 6.1 2018 (PL2)"
-codename = "PL2"
+codename = "pl2"
 
 [[roms]]
 id = "ancientos"

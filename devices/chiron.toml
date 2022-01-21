@@ -1,6 +1,6 @@
-codename = "chiron"
-name = "Mi MIX 2"
 brand = "Xiaomi"
+name = "Mi MIX 2"
+codename = "chiron"
 
 [[roms]]
 id = "arrowos"

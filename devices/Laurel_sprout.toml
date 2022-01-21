@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 name = "Mi A3"
-codename = "laurel_sprout"
+codename = "Laurel_sprout"
 
 [[roms]]
 id = "pixelextended"
@@ -13,10 +13,7 @@ photo = "http://i01.appmifile.com/webfile/globalimg/products/pc/mi-a3/specs2.png
 id = "cherishos"
 
 [[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/H3M3L.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"

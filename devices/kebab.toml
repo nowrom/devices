@@ -14,6 +14,9 @@ changelog = "- Fixed game frame drops\r\n- Fixed the video call"
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/kebab/Havoc-OS-v4.12-20211228-kebab-Official-GApps.zip"
 maintainer = "Chandu Dyavanapelli"

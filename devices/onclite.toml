@@ -1,6 +1,6 @@
-brand = "Xiaomi"
 name = "Redmi 7"
 codename = "onclite"
+brand = "Xiaomi"
 
 [[roms]]
 id = "pixelextended"
@@ -32,9 +32,3 @@ wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
 id = "pixelextended"
 url = "https://sourceforge.net/projects/pixelextended/files/onclite/PixelExtended_onclite-12.0-20211219-0450-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-onclite-19-12-21.4377045/"
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/kotsya_avatar.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

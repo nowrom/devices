@@ -12,6 +12,9 @@ id = "cherishos"
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/fajita/Havoc-OS-v4.12-20211226-fajita-Official-GApps.zip"
 maintainer = "Vikas Yaduvanshi"

@@ -1,9 +1,0 @@
-brand = "Realme Devices"
-name = "Realme Narzo 20 Pro"
-codename = "RMX2151 "
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/sauraj.jpeg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

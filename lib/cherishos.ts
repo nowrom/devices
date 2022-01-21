@@ -28,20 +28,14 @@ export const cherishos: UpdateFunction = async (stored_devices, getDevice) => {
 	const devices: Cherishos[] = await fetch(
 		'https://github.com/CherishOS-Devices/OTA/blob/master/devices.json?raw=true'
 	).then((r) => r.json());
-	devices.forEach((x) => {
-		let device = getDevice(x.codename);
-		device = {
-			...device,
-			brand: device.brand || x.brand,
-			name: device.name || x.name,
+	return devices.map((x) => {
+		return {
+			brand: x.brand,
+			name: x.name,
 			codename: x.codename,
-			roms: [
-				...device.roms,
-				{
-					id: 'cherishos',
-				},
-			],
+			rom: {
+				id: 'cherishos',
+			},
 		};
-		stored_devices.set(x.codename.toLowerCase(), device);
 	});
 };

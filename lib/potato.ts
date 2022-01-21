@@ -29,20 +29,12 @@ export const potato: UpdateFunction = async (stored_devices, getDevice) => {
 		'https://github.com/PotatoProject/vendor_potato/blob/frico-release/devices.json?raw=true'
 	).then((r) => r.json());
 
-	Object.entries(devices).forEach(([name, _]) => {
-		let device = getDevice(name);
-		device = {
-			...device,
+	return Object.entries(devices).map(([name, _]) => {
+		return {
 			codename: name,
-			name: device.name,
-			brand: device.brand,
-			roms: [
-				...device.roms,
-				{
-					id: 'potato',
-				},
-			],
+			rom: {
+				id: 'potato',
+			},
 		};
-		stored_devices.set(name.toLowerCase(), device);
 	});
 };

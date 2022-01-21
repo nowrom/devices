@@ -1,6 +1,6 @@
-codename = "blueline"
 brand = "Google"
-name = "Pixel 3"
+name = "Pixel 3 XL"
+codename = "Crosshatch"
 
 [[roms]]
 id = "calyxos"
@@ -8,7 +8,7 @@ id = "calyxos"
 [[roms]]
 id = "arrowos"
 maintainer = "ReallySnow"
-changelog = "Add AOSP RCS packages\r\nRemove split permissions"
+changelog = "- Sync audio effects with the stock ROM\r\n- Fix Android System Intelligence Issue\r\n- Default to full gesture navigation\r\n- Include Lawnchair\r\n- Update fingerprint/build description from SP1A.210812.016.A2"
 
 [[roms]]
 id = "grapheneos"
@@ -21,7 +21,7 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_google_blueline","device_google_crosshatch","kernel_google_bluecross","vendor_google_blueline"]
+repostories = ["device_google_crosshatch","kernel_google_bluecross","vendor_google_crosshatch"]
 
 [[roms.supported_versions]]
 version_code = "twelve"

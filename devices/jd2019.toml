@@ -30,12 +30,6 @@ stable = true
 deprecated = false
 
 [[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/husker.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
 id = "sakura"
 xda_thread = ""
 maintainer_url = "null"

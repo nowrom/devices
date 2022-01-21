@@ -1,8 +1,0 @@
-brand = "HTC"
-name = "HTC One M9"
-codename = "hima"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/"
-recovery = "https://eu.dl.twrp.me/hima/twrp-3.5.2_9-0-hima.img"

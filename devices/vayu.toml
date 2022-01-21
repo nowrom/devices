@@ -1,6 +1,6 @@
-brand = "Xiaomi"
 name = "Poco X3 PRO"
 codename = "vayu"
+brand = "Xiaomi"
 
 [[roms]]
 id = "pixelextended"
@@ -62,12 +62,6 @@ deprecated = true
 version_code = "twelve"
 stable = true
 deprecated = false
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/Badr.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sakura"

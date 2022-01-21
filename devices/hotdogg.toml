@@ -1,8 +1,0 @@
-brand = "OnePlus"
-name = "OnePlus 7T Pro 5G Mclaren"
-codename = "hotdogg"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://opengapps.org/"
-recovery = "https://sourceforge.net/projects/darkjoker360-developements/files/Oneplus/7T%20Pro%205G%20McLaren/Recovery/crDroid-11-recovery.img/download"

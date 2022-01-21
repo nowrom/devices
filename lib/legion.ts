@@ -22,25 +22,19 @@ export const legion: UpdateFunction = async (stored_devices, getDevice) => {
 		'https://github.com/legionos-devices/OTA/blob/11/devices.json?raw=true'
 	).then((r) => r.json());
 
-	devices.forEach((x) => {
-		let device = getDevice(x.codename);
-		device = {
-			...device,
-			brand: device.brand || x.brand,
-			name: device.name || x.name,
+	return devices.map((x) => {
+		return {
+			brand: x.brand,
+			name: x.name,
 			codename: x.codename,
-			roms: [
-				...device.roms,
-				{
-					id: 'legionos',
-					active: x.active,
-					maintainer: x.maintainer_name,
-					github: x.github_link,
-					donation_link: x.donation_link,
-					photo: x.photo,
-				},
-			],
+			rom: {
+				id: 'legionos',
+				active: x.active,
+				maintainer: x.maintainer_name,
+				github: x.github_link,
+				donation_link: x.donation_link,
+				photo: x.photo,
+			},
 		};
-		stored_devices.set(x.codename.toLowerCase(), device);
 	});
 };

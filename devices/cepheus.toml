@@ -1,6 +1,6 @@
-codename = "cepheus"
-name = "Mi 9"
 brand = "Xiaomi"
+name = "Mi 9"
+codename = "cepheus"
 
 [[roms]]
 id = "arrowos"
@@ -32,12 +32,6 @@ version_code = "twelve"
 xda_thread = ""
 stable = true
 deprecated = false
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/Mehdi.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sparkos"

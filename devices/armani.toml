@@ -1,6 +1,6 @@
-codename = "armani"
-name = "HM 1S"
 brand = "Xiaomi"
+name = "HM 1S"
+codename = "armani"
 
 [[roms]]
 id = "arrowos"

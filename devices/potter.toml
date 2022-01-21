@@ -36,9 +36,3 @@ deprecated = true
 version_code = "eleven_plus"
 stable = true
 deprecated = true
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/maintainer_avatar.png"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

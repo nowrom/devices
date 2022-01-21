@@ -4,9 +4,3 @@ codename = "RMX1831"
 
 [[roms]]
 id = "cherishos"
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/Lokesh.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

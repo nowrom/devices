@@ -21,6 +21,9 @@ id = "cherishos"
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/whyred/Havoc-OS-v4.8-20210810-whyred-Official-GApps.zip"
 maintainer = "Ruturaj Kadam"
@@ -55,12 +58,6 @@ deprecated = false
 
 [[roms]]
 id = "potato"
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/rishav.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sakura"

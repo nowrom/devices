@@ -21,6 +21,9 @@ maintainer = "TH779, kubersharma001"
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/raphael/Havoc-OS-v4.12-20211231-raphael-Official-GApps.zip"
 maintainer = "Sukeerat Singh Goindi"
@@ -63,18 +66,6 @@ url = "https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtende
 xda_thread = "https://forum.xda-developers.com/t/rom-12-raphael-official-pixel-extended-rom-beta-31-10-2021.4146471/"
 
 [[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/AgentRR.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/AgentRR.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
 id = "sparkos"
 group = "https://t.me/area51k20p"
 download = "https://downloads.spark-os.live/raphael/Spark-S-Tempest-Official-raphael-20211225.zip"
@@ -85,13 +76,13 @@ id = "evolutionx"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v3.9"
 developer = "NATO666613"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.9"
+version = "v4.9"
 developer = "NATO666613"
 
 [[roms]]

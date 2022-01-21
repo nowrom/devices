@@ -1,6 +1,6 @@
 brand = "Realme"
 name = "Realme X2"
-codename = "x2"
+codename = "X2"
 
 [[roms]]
 id = "havocos"

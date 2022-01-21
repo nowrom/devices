@@ -1,6 +1,6 @@
-brand = "Unknown"
-name = "Xiaomi 11 lite NE 5G (Lisa)"
 codename = "lisa"
+name = "Xiaomi 11 lite NE 5G (Lisa)"
+brand = "Xiaomi"
 
 [[roms]]
 id = "ancientos"

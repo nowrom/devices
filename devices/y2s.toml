@@ -1,8 +1,0 @@
-brand = "Samsung"
-name = "Galaxy S20+ (5G)"
-codename = "y2s"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/opengapps/files/arm64/test/20210130/"
-recovery = "https://sourceforge.net/projects/crdroid/files/y2s/7.x/recovery.img/download"

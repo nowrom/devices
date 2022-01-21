@@ -1,9 +1,0 @@
-brand = "Meizu Devices"
-name = "Meizu 16 TH"
-codename = "m1882 "
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/Dogukan.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

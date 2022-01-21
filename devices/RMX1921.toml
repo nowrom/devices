@@ -18,9 +18,3 @@ maintainer = "ThatisJigen"
 github = "https://github.com/thatisjigen"
 donation_link = "https://paypal.me/thatisjigen"
 photo = "https://avatars.githubusercontent.com/u/55486333"
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/maintainer_avatar.png"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

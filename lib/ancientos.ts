@@ -15,25 +15,18 @@ export const ancientOs: UpdateFunction = async (stored_devices, getDevice) => {
 	const devices: AncientOS[] = await fetch(
 		'https://github.com/ancient-devices/releases/blob/main/website_api.json?raw=true'
 	).then((r) => r.json());
-	devices.forEach((x) => {
+	return devices.map((x) => {
 		const regex = /\((.*?)\)/.exec(x.device_codename);
 		if (regex?.[0]) {
 			const codename = regex[1].split('/')[0].toLowerCase();
-			let device = getDevice(codename);
-			device = {
-				...device,
-				brand: device.brand || 'Unknown',
-				name: device.name || x.device_codename,
+			return {
+				name: x.device_codename,
 				codename: codename,
-				roms: [
-					...device.roms,
-					{
-						id: 'ancientos',
-						photo: x.phone_url,
-					},
-				],
+				rom: {
+					id: 'ancientos',
+					photo: x.phone_url,
+				},
 			};
-			stored_devices.set(codename.toLowerCase(), device);
 		}
 	});
 };

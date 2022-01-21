@@ -1,6 +1,6 @@
-codename = "tucana"
-name = "Mi Note 10"
 brand = "Xiaomi"
+name = "Mi Note 10"
+codename = "tucana"
 
 [[roms]]
 id = "arrowos"

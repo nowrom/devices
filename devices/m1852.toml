@@ -7,9 +7,3 @@ id = "havocos"
 url = "https://download.havoc-os.com/m1852/Havoc-OS-v4.8-20210820-m1852-Official-GApps.zip"
 maintainer = "blackrow67"
 group = "https://t.me/havocofficial"
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/Dogukan.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

@@ -7,9 +7,3 @@ id = "pixelextended"
 
 [[roms]]
 id = "cherishos"
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/satham.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

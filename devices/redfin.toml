@@ -1,6 +1,6 @@
-codename = "redfin"
 brand = "Google"
 name = "Pixel 5"
+codename = "redfin"
 
 [[roms]]
 id = "calyxos"

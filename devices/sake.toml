@@ -1,6 +1,6 @@
-codename = "sake"
-name = "ZenFone 8"
 brand = "asus"
+name = "ZenFone 8"
+codename = "sake"
 
 [[roms]]
 id = "arrowos"

@@ -1,6 +1,6 @@
 brand = "Google"
 name = "Pixel 2"
-codename = "walleye"
+codename = "Walleye"
 
 [[roms]]
 id = "calyxos"

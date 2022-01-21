@@ -1,6 +1,6 @@
-codename = "starlte"
-name = "SM-G960F"
 brand = "samsung"
+name = "SM-G960F"
+codename = "starlte"
 
 [[roms]]
 id = "arrowos"

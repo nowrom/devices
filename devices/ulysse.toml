@@ -7,15 +7,3 @@ id = "havocos"
 url = "https://download.havoc-os.com/ulysse/Havoc-OS-v4.12-20211227-ulysse-Official-GApps.zip"
 maintainer = "Heinz Der Flugel"
 group = "https://t.me/+ScQLrlFAujIzM2Rl"
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/Archipelago.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/Archipelago.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

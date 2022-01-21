@@ -1,6 +1,6 @@
-codename = "oneplus3"
-name = "OnePlus 3/3T"
 brand = "OnePlus"
+name = "OnePlus 3/3T"
+codename = "oneplus3"
 
 [[roms]]
 id = "arrowos"
@@ -42,12 +42,6 @@ version_code = "twelve"
 xda_thread = ""
 stable = false
 deprecated = false
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/dlasdl.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sakura"

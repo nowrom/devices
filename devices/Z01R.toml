@@ -1,6 +1,6 @@
-codename = "Z01R"
-name = "ZenFone 5Z"
 brand = "asus"
+name = "ZenFone 5Z"
+codename = "Z01R"
 
 [[roms]]
 id = "arrowos"
@@ -14,6 +14,9 @@ id = "cherishos"
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/flamegapps/"
 recovery = "https://dl.twrp.me/Z01RD/twrp-installer-3.6.0_11-0-Z01RD.zip.html"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "havocos"

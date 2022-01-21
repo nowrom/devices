@@ -1,7 +1,7 @@
 import { UpdateFunction } from './mod.ts';
 
 export const grapheneos: UpdateFunction = (stored_devices, getDevice) => {
-	[
+	return [
 		'raven',
 		'oriole',
 		'barbet',
@@ -14,18 +14,12 @@ export const grapheneos: UpdateFunction = (stored_devices, getDevice) => {
 		'sargo',
 		'crosshatch',
 		'blueline',
-	].forEach((x) => {
-		let device = getDevice(x);
-
-		device = {
-			codename: device.codename || x,
-			roms: [
-				...device.roms,
-				{
-					id: 'grapheneos',
-				},
-			],
+	].map((x) => {
+		return {
+			codename: x,
+			rom: {
+				id: 'grapheneos',
+			},
 		};
-		stored_devices.set(x.toLowerCase(), device);
 	});
 };

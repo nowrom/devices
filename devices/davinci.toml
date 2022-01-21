@@ -1,4 +1,4 @@
-brand = "Unknown"
+brand = "Xiaomi"
 name = "Redmi K20/Mi 9T (davinci)"
 codename = "davinci"
 
@@ -15,6 +15,9 @@ id = "cherishos"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "havocos"

@@ -128,22 +128,16 @@ export const arrowOs: UpdateFunction = async (stored_devices, getDevice) => {
 		'https://github.com/ArrowOS/arrow_ota/blob/master/arrow_ota.json?raw=true'
 	).then((r) => r.json());
 
-	Object.entries(devices).forEach(([name, value]) => {
-		let device = getDevice(name);
-		device = {
-			...device,
+	return Object.entries(devices).map(([name, value]) => {
+		return {
 			codename: name,
-			name: device.name || value[0].model,
-			brand: device.brand || value[0].oem,
-			roms: [
-				...device.roms,
-				{
-					id: 'arrowos',
-					maintainer: value[0].maintainer,
-					changelog: value[0].changelog,
-				},
-			],
+			name: value[0].model,
+			brand: value[0].oem,
+			rom: {
+				id: 'arrowos',
+				maintainer: value[0].maintainer,
+				changelog: value[0].changelog,
+			},
 		};
-		stored_devices.set(name.toLowerCase(), device);
 	});
 };

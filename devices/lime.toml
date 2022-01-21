@@ -1,9 +1,0 @@
-brand = "Xiaomi (Redmi Series)"
-name = "Redmi 9 Power"
-codename = "lime"
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/john.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

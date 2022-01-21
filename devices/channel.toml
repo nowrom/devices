@@ -1,6 +1,6 @@
-codename = "channel"
-name = "moto g(7) play"
 brand = "motorola"
+name = "moto g(7) play"
+codename = "channel"
 
 [[roms]]
 id = "arrowos"

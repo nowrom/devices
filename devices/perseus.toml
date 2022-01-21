@@ -1,6 +1,6 @@
-codename = "perseus"
-name = "Mi MIX 3"
 brand = "Xiaomi"
+name = "Mi MIX 3"
+codename = "perseus"
 
 [[roms]]
 id = "arrowos"

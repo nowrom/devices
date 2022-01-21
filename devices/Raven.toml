@@ -1,4 +1,6 @@
 codename = "Raven"
+brand = "Google"
+name = "Pixel 6 Pro"
 
 [[roms]]
 id = "calyxos"

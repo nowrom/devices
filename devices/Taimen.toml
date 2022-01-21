@@ -1,6 +1,6 @@
 brand = "Google"
 name = "Pixel 2 XL"
-codename = "taimen"
+codename = "Taimen"
 
 [[roms]]
 id = "calyxos"

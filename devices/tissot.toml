@@ -6,6 +6,9 @@ codename = "tissot"
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "legionos"
 active = true
 maintainer = "Answer35"
@@ -39,12 +42,6 @@ deprecated = true
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-tissot-pixelexperience-aosp-beta.4351515"
 deprecated = false
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/saurav_avatar.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sakura"

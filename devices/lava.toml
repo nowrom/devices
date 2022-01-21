@@ -1,6 +1,6 @@
-codename = "lava"
 brand = "Xiaomi"
 name = "Xiaomi Redmi 9 & Poco M2"
+codename = "lava"
 
 [[roms]]
 id = "pixelextended"

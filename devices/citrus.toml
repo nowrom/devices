@@ -1,9 +1,0 @@
-brand = "Xiaomi (Poco Series)"
-name = "Xiaomi Poco M3"
-codename = "citrus"
-
-[[roms]]
-id = "pixelplusui"
-active = "discontinued"
-photo = "./assets/images/john.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"

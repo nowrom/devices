@@ -1,6 +1,6 @@
-brand = "Unknown"
 name = "Redmi Note 10 (mojito)"
 codename = "mojito"
+brand = "Xiaomi"
 
 [[roms]]
 id = "ancientos"
@@ -48,12 +48,6 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-mojito-sunny-pixel-experience-official-aosp.4264285/"
 stable = true
 deprecated = false
-
-[[roms]]
-id = "pixelplusui"
-active = "active"
-photo = "./assets/images/Arya.jpg"
-guide = "https://github.com/PixelPlusUI-Devices/official_devices/tree/master/guides"
 
 [[roms]]
 id = "sakura"
