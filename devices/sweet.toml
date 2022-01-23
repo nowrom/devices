@@ -1,6 +1,6 @@
-name = "Redmi Note 10 Pro India , Redmi Note 10 Pro Global , Redmi Note 10 Pro Max India"
+name = "Z839V"
 codename = "sweet"
-brand = "Xiaomi"
+brand = "ZTE"
 
 [[roms]]
 id = "pixelextended"

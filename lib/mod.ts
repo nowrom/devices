@@ -22,6 +22,7 @@ export * from './revengeos.ts';
 export * from './blissroms.ts';
 export * from './paranoid.ts';
 export * from './pixyos.ts';
+export * from './xiaomieu.ts';
 export type UpdateFunction = (
 	stored_devices: Map<string, any>,
 	getDevice: (name: string) => Record<string, any>

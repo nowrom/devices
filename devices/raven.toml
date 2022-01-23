@@ -1,0 +1,9 @@
+codename = "raven"
+brand = "Google"
+name = "Pixel 6 Pro"
+
+[[roms]]
+id = "calyxos"
+
+[[roms]]
+id = "grapheneos"

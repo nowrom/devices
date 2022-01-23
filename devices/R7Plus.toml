@@ -1,0 +1,9 @@
+brand = "Oppo"
+name = "R7Plust"
+codename = "R7Plus"
+
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A53"
+ram = "3/4 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band"

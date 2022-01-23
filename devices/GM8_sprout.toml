@@ -1,6 +1,6 @@
 codename = "GM8_sprout"
-name = "GM 8"
-brand = "GM"
+name = "GM8"
+brand = "General Mobile"
 
 [[roms]]
 id = "arrowos"

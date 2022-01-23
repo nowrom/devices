@@ -1,0 +1,9 @@
+brand = "Oppo"
+name = "R8106"
+codename = "R5"
+
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A53"
+ram = "2 GB (R5), 3 GB (R5s)"
+wifi = "802.11 a/b/g/n, Dual-band"

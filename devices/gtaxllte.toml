@@ -1,4 +1,6 @@
 codename = "gtaxllte"
+brand = "Samsung"
+name = "Galaxy Tab A 10.1"
 
 [[roms]]
 id = "blissroms"

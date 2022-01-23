@@ -1,4 +1,6 @@
 codename = "grus"
+brand = "Xiaomi"
+name = "Mi 9 SE"
 
 [[roms]]
 id = "blissroms"

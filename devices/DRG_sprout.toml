@@ -1,4 +1,6 @@
 codename = "DRG_sprout"
+brand = "Nokia"
+name = "Nokia 6.1 Plus"
 
 [[roms]]
 id = "potato"

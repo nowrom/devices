@@ -1,0 +1,39 @@
+brand = "Xiaomi"
+name = "Redmi 5"
+codename = "rosy"
+
+[[roms]]
+id = "pixelextended"
+
+[[roms]]
+id = "arrowos"
+maintainer = "Shriiyansh Pandey"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_rosy","kernel_xiaomi_rosy","vendor_xiaomi_rosy"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-rosy-pixelexperience-aosp-official-2021-02-05.4083285/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-rosy-pixelexperience-aosp-official-2021-02-05.4083285/"
+stable = true
+deprecated = true
+
+[[roms]]
+id = "revengeos"
+
+[[roms]]
+id = "sakura"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-rosy-project-sakura-unofficial.4336989/"
+maintainer_url = "https://forum.xda-developers.com/m/arulebin.10604733/"
+maintainer_name = "Ebin"
+active = true

@@ -1,0 +1,77 @@
+brand = "POCO"
+name = "POCO X3 NFC"
+codename = "surya"
+
+[[roms]]
+id = "pixelextended"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
+
+[[roms]]
+id = "arrowos"
+maintainer = "Ganesh Varma, palaych"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/surya/Havoc-OS-v4.12-20211226-surya-Official-GApps.zip"
+maintainer = "Tushar Mahajan"
+group = "https://t.me/+CsTtPCwRqiRlY2Jl"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "AmJith_Babu"
+github = "https://github.com/TheMarc43"
+donation_link = "https://paypal.me/TheMarc43"
+photo = "https://avatars.githubusercontent.com/u/49910923?v=4"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 470"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_qcom_common","device_xiaomi_surya","device_xiaomi_J20C-sepolicy","kernel_xiaomi_surya","vendor_qcom_common","vendor_xiaomi_surya","vendor_xiaomi-firmware"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = ""
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = ""
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = true
+deprecated = false
+
+[[roms]]
+id = "pixyos"
+
+[[roms]]
+id = "revengeos"
+
+[[roms]]
+id = "sakura"
+xda_thread = ""
+maintainer_url = "null"
+maintainer_name = "Agus"
+active = true
+
+[[roms]]
+id = "evolutionx"

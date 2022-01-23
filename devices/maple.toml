@@ -1,4 +1,6 @@
 codename = "maple"
+brand = "HP"
+name = "8 G2"
 
 [[roms]]
 id = "blissroms"

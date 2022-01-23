@@ -1,0 +1,103 @@
+brand = "Xiaomi"
+name = "Redmi Note 8"
+codename = "ginkgo"
+
+[[roms]]
+id = "pixelextended"
+
+[[roms]]
+id = "ancientos"
+photo = "https://raw.githubusercontent.com/kutemeikito/Ryzen-Script/master/ginkgo.png"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
+
+[[roms]]
+id = "arrowos"
+maintainer = "Adithya (ghostrider_reborn)"
+changelog = "- Added support for per-SIM toggle in SIM settings\r\n- Removed notification and battery LED settings on willow\r\n- Removed TM symbol in kernel name (required by some apps)\r\n- Merged LA.UM.9.11.r1-04700.02 CAF tag in kernel"
+
+[[roms]]
+id = "blissroms"
+
+[[roms]]
+id = "cherishos"
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/ginkgo/Havoc-OS-v4.12-20211230-ginkgo-Official-GApps.zip"
+maintainer = "Yash Kachave"
+group = "https://t.me/+awa7QCgR5Z03MzBi"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Anupam Samanta"
+github = "https://github.com/anupam41"
+donation_link = ""
+photo = "https://avatars.githubusercontent.com/u/61414264?v=4"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 260"
+ram = "3/4/6 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_ginkgo","device_xiaomi_ginkgo-sepolicy","device_xiaomi_ginkgo-kernel","kernel_xiaomi_ginkgo","vendor_xiaomi_ginkgo"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-11-0-stable-ginkgo-willow-pixel-experience.4247435"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-11-0-stable-ginkgo-willow-pixel-experience.4247435"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-stable-ginkgo-willow-pixelexperience-12.4350683"
+stable = true
+deprecated = false
+
+[[roms]]
+id = "pixyos"
+
+[[roms]]
+id = "potato"
+
+[[roms]]
+id = "revengeos"
+
+[[roms]]
+id = "sakura"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-for-redmi-note-8-8t-unified-official.4277445/"
+maintainer_url = "https://forum.xda-developers.com/m/dsashwin.11355545/"
+maintainer_name = "Ashwin DS"
+active = true
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/SparkRN8"
+download = "https://downloads.spark-os.live/ginkgo/Spark-S-Tempest-OFFICIAL-ginkgo-20211225-gapps.zip"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v3.8"
+developer = "TheHitMan"

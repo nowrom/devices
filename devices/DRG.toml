@@ -1,0 +1,13 @@
+brand = "Nokia"
+name = "Nokia X6"
+codename = "DRG"
+
+[[roms]]
+id = "ancientos"
+photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices/main/DRG.png"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 260"
+ram = "4/6 GB LPDDR4X"
+wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Wi-Fi Display, Hotspot"

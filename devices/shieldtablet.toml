@@ -1,5 +1,5 @@
-brand = "Nvidia"
-name = "Shield Tablet"
+brand = "NVIDIA"
+name = "SHIELD Tablet"
 codename = "shieldtablet"
 
 [[roms]]

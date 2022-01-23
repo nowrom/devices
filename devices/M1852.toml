@@ -1,0 +1,9 @@
+brand = "Meizu"
+name = "M1852"
+codename = "M1852"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/m1852/Havoc-OS-v4.8-20210820-m1852-Official-GApps.zip"
+maintainer = "blackrow67"
+group = "https://t.me/havocofficial"

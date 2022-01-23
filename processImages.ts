@@ -1,63 +1,54 @@
-// async function main() {
-// 	const devices = JSON.parse(await Deno.readTextFile('./devices.json'));
+import { createClient } from 'https://deno.land/x/supabase/mod.ts';
+const client = createClient(
+	'https://hdabbjaktgetmyexzjtf.supabase.co',
+	Deno.env.get('SECRET')!
+);
+const devices = client.storage.from('devices');
 
-// 	for (const device of devices) {
-// 		for (const rom of device.roms) {
-// 			const process = async (id: string, url: string) => {
-// 				if (rom.id == id) {
-// 					await fetch(url).then(async (r) => {
-// 						console.log(id, device.codename.toLowerCase(), r.status);
-// 						if (r.status == 200) {
-// 							await Deno.writeFile(
-// 								`./images/${device.codename.toLowerCase()}.png`,
-// 								new Uint8Array(await r.arrayBuffer())
-// 							);
-// 						}
-// 					});
-// 				}
-// 			};
-// 			if (!device.codename) {
-// 				console.log(device);
-// 				continue;
-// 			}
-// 			Promise.all([
-// 				process(
-// 					'pixelexperience',
-// 					`https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/${device.codename}.png`
-// 				),
-// 			]);
-// 		}
-// 	}
-// }
-// await main();
 await Promise.all([
-	async () => {
-		for await (const file of Deno.readDir('./ota/oaspk/images/devices')) {
+	(async () => {
+		const path = './ota/oaspk/images/devices';
+		for await (const file of Deno.readDir(path)) {
 			if (file.isDirectory) continue;
-			await Deno.copyFile(
-				`./ota/oaspk/images/devices/${file.name}`,
-				`./images/${file.name.toLowerCase()}`
+			console.log(
+				await devices.pdate(
+					file.name.toLowerCase(),
+					await Deno.readFile(`${path}/${file.name}`),
+					{
+						contentType: 'image/png',
+					}
+				)
 			);
 		}
-	},
-	async () => {
-		for await (const file of Deno.readDir('./ota/pixelexperience/images')) {
+	})(),
+	(async () => {
+		const path = './ota/pixelexperience/images';
+		for await (const file of Deno.readDir(path)) {
 			if (file.isDirectory) continue;
-			await Deno.copyFile(
-				`./ota/pixelexperience/images/${file.name}`,
-				`./images/${file.name.toLowerCase()}`
+			console.log(
+				await devices.pdate(
+					file.name.toLowerCase(),
+					await Deno.readFile(`${path}/${file.name}`),
+					{
+						contentType: 'image/png',
+					}
+				)
 			);
 		}
-	},
-	async () => {
-		for await (const file of Deno.readDir(
-			'./ota/lineage_wiki/images/devices'
-		)) {
+	})(),
+	(async () => {
+		const path = './ota/lineage_wiki/images/devices';
+		for await (const file of Deno.readDir(path)) {
 			if (file.isDirectory) continue;
-			await Deno.copyFile(
-				`./ota/lineage_wiki/images/devices/${file.name}`,
-				`./images/${file.name.toLowerCase()}`
+			console.log(
+				await devices.pdate(
+					file.name.toLowerCase(),
+					await Deno.readFile(`${path}/${file.name}`),
+					{
+						contentType: 'image/png',
+					}
+				)
 			);
 		}
-	},
+	})(),
 ]);

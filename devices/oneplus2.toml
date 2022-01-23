@@ -1,9 +1,0 @@
-brand = "OnePlus"
-name = "2"
-codename = "oneplus2"
-
-[[roms]]
-id = "lineageos"
-cpu = "Cortex-A53 & Cortex-A57"
-ram = "3/4 GB"
-wifi = "2.4GHz 802.11 b/g/n and 5GHz 802.11 a/n/ac, Wi-Fi Direct, Wi-Fi Display, Hotspot"

@@ -1,0 +1,18 @@
+brand = "STF Mobile"
+name = "AURA"
+codename = "AURA"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 385"
+ram = "8 GB LPDDR4X"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_razer_aura","kernel_razer_sdm845","vendor_razer_aura"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = false
+deprecated = false

@@ -11,7 +11,7 @@ const PORT = 8000;
 const devices = JSON.parse(await Deno.readTextFile('./devices.json'));
 
 function phoneParse(req: AugmentedRequest) {
-	let re = [...devices];
+	const re = [...devices];
 	const q = req.queryParams.get('q');
 	const brand = req.queryParams.get('brand');
 	const limit = req.queryParams.get('limit');
@@ -81,23 +81,12 @@ export const routes = createRouteMap([
 	],
 	[
 		'/img/*',
-		async (req: Pick<AugmentedRequest, 'routeParams'>) => {
+		(req: Pick<AugmentedRequest, 'routeParams'>) => {
 			const [img] = req.routeParams;
-			try {
-				const file = await Deno.readFile(`./images/${img}`);
-				return new Response(file, {
-					headers: {
-						'content-type': 'image/png',
-					},
-				});
-			} catch (e) {
-				return new Response('404', {
-					status: 404,
-					headers: {
-						'content-type': 'text/plain',
-					},
-				});
-			}
+			return Response.redirect(
+				`https://hdabbjaktgetmyexzjtf.supabase.in/storage/v1/object/public/devices/${img}`,
+				307
+			);
 		},
 	],
 ]);

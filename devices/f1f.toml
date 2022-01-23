@@ -1,9 +1,0 @@
-brand = "OPPO"
-name = "F1 (International)"
-codename = "f1f"
-
-[[roms]]
-id = "lineageos"
-cpu = "Cortex-A53"
-ram = "3 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band"

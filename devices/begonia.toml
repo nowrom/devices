@@ -1,0 +1,64 @@
+name = "Redmi Note 8 Pro"
+codename = "begonia"
+brand = "Redmi"
+
+[[roms]]
+id = "pixelextended"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
+
+[[roms]]
+id = "blissroms"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://bitgapps.github.io/"
+recovery = ""
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_begonia","device_xiaomi_begonia-kernel","kernel_xiaomi_begonia","vendor_xiaomi-firmware","vendor_xiaomi_begonia"]
+
+[[roms.supported_versions]]
+version_code = "eleven"
+xda_thread = "https://forum.xda-developers.com/t/rom-cfw-11-begonia-pixel-experience-official-aosp.4196041/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "eleven_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-cfw-11-begonia-pixel-experience-official-aosp.4196041/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-begonia-begoniain-pixel-experience-official-aosp.4196041/"
+stable = true
+deprecated = false
+
+[[roms]]
+id = "pixyos"
+
+[[roms]]
+id = "potato"
+
+[[roms]]
+id = "revengeos"
+
+[[roms]]
+id = "sakura"
+xda_thread = ""
+maintainer_url = "null"
+maintainer_name = "abhixv"
+active = true
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/Uchiha_Clan_Begonia"
+download = "https://downloads.spark-os.live/begonia/Spark-S-Energized-OFFICIAL-begonia-20220118.zip"

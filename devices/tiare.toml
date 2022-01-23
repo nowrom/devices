@@ -1,4 +1,6 @@
 codename = "tiare"
+brand = "Xiaomi"
+name = "Redmi Go"
 
 [[roms]]
 id = "revengeos"

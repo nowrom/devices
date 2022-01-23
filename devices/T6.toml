@@ -1,0 +1,9 @@
+brand = "IkuMobile"
+name = "T6"
+codename = "T6"
+
+[[roms]]
+id = "lineageos"
+cpu = "Krait 300"
+ram = "2 GB"
+wifi = "802.11 a/b/g/n/ac 2.4/5GHz"

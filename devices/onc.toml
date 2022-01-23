@@ -1,4 +1,6 @@
 codename = "onc"
+brand = "Xiaomi"
+name = "Redmi 7"
 
 [[roms]]
 id = "potato"

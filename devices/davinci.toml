@@ -1,5 +1,5 @@
 brand = "Xiaomi"
-name = "Redmi K20/Mi 9T (davinci)"
+name = "Mi 9T"
 codename = "davinci"
 
 [[roms]]
@@ -9,6 +9,7 @@ photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "RemyL"
+changelog = "- Misc changes and improvements"
 
 [[roms]]
 id = "blissroms"

@@ -1,4 +1,6 @@
 codename = "A5_Pro"
+brand = "Umidigi"
+name = "A5 Pro"
 
 [[roms]]
 id = "blissroms"

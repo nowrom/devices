@@ -1,9 +1,0 @@
-brand = "Sony"
-name = "Xperia XA2 Ultra"
-codename = "discovery"
-
-[[roms]]
-id = "lineageos"
-cpu = "Cortex-A53"
-ram = "4 GB"
-wifi = "802.11 a/b/g/n, dual band, Wi-Fi Direct, Hotspot"

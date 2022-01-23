@@ -62,6 +62,15 @@ git clone https://github.com/LineageOS/lineage_wiki ota/lineage_wiki
 git clone https://github.com/PixelExperience/official_devices ota/pixelexperience
 git clone https://github.com/AOSPK/official_devices ota/oaspk
 git clone https://github.com/RevengeOS-Devices/official_devices ota/revenge
+git clone https://github.com/ingbrzy/Xiaomi.eu-MIUIv12-XML-Compare ota/xiaomieu
 ```
 
 make changes to updatelist.ts and commit done 🚀
+
+### Updating android_devices.json
+
+```sh
+wget https://storage.googleapis.com/play_public/supported_devices.csv
+iconv options -f utf-16 -t utf-8 supported_devices.csv -o out.csv
+deno run -A --no-check parseDevices.ts
+```

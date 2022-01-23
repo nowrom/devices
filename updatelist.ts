@@ -26,6 +26,7 @@ import {
 	spark,
 	syberia,
 	UpdateFunction,
+	xiaomieu,
 } from './lib/mod.ts';
 
 const stored_devices = new Map();
@@ -91,6 +92,7 @@ await run(sakura);
 await run(spark);
 await run(evolutionx);
 await run(syberia);
+await run(xiaomieu);
 
 const overwrites = JSON.parse(await Deno.readTextFile('./overwrites.json'));
 for (const [k, v] of stored_devices) {
@@ -116,6 +118,15 @@ for (const [k, v] of stored_devices) {
 		stored_devices.delete(k);
 	}
 }
+
+const android_devices: { brand: string; codename: string; name: string }[] =
+	JSON.parse(await Deno.readTextFile('./android_devices.json'));
+
+android_devices.forEach((device) => {
+	const dv = stored_devices.get(device?.codename?.toLowerCase());
+	if (dv)
+		stored_devices.set(device.codename.toLowerCase(), { ...dv, ...device });
+});
 
 await Promise.all(
 	[...stored_devices.values()].map((x) => {

@@ -1,0 +1,24 @@
+brand = "Hurricane"
+name = "Flame"
+codename = "Flame"
+
+[[roms]]
+id = "calyxos"
+
+[[roms]]
+id = "grapheneos"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 485"
+ram = "6 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_google_flame","device_google_coral","kernel_google_msm-4.14","vendor_google_flame"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = true
+deprecated = false

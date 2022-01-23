@@ -1,0 +1,10 @@
+brand = "STK(Santok)"
+name = "X3"
+codename = "X3"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "Patriot06"
+github = "https://github.com/Patriot-06"
+donation_link = "https://www.paypal.me/patriot235"

@@ -1,0 +1,33 @@
+codename = "ysl"
+brand = "Xiaomi"
+name = "Redmi S2"
+
+[[roms]]
+id = "pixelextended"
+
+[[roms]]
+id = "AOSPK"
+xda_thread = ""
+
+[[roms]]
+id = "dotos"
+
+[[roms]]
+id = "havocos"
+url = "https://sourceforge.net/projects/havoc-os/files/ysl/Havoc-OS-v3.1"
+maintainer = "Tushar Mahajan"
+group = "https://t.me/havocofficial"
+
+[[roms]]
+id = "legionos"
+active = true
+maintainer = "AYUSH"
+github = "https://github.com/MIUI56"
+donation_link = ""
+photo = "https://avatars.githubusercontent.com/u/47271737?v=4"
+
+[[roms]]
+id = "pixyos"
+
+[[roms]]
+id = "revengeos"

@@ -1,4 +1,6 @@
 codename = "nobleltetmo"
+brand = "Samsung"
+name = "Galaxy Note5"
 
 [[roms]]
 id = "blissroms"

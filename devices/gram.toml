@@ -1,6 +1,6 @@
 name = "POCO M2 Pro"
 codename = "gram"
-brand = "Xioami"
+brand = "POCO"
 
 [[roms]]
 id = "ancientos"

@@ -1,0 +1,9 @@
+codename = "oriole"
+brand = "Google"
+name = "Pixel 6"
+
+[[roms]]
+id = "calyxos"
+
+[[roms]]
+id = "grapheneos"
