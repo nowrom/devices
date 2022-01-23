@@ -123,7 +123,13 @@ const android_devices: { brand: string; codename: string; name: string }[] =
 	JSON.parse(await Deno.readTextFile('./android_devices.json'));
 
 android_devices.forEach((device) => {
+	if (!device.codename) return;
 	const dv = stored_devices.get(device?.codename?.toLowerCase());
+	if (
+		(device.codename.toLowerCase() == 'phoenix' && device.brand == 'Samsung') ||
+		(device.codename.toLowerCase() == 'phoenix' && device.brand == 'Nokia')
+	)
+		return;
 	if (dv)
 		stored_devices.set(device.codename.toLowerCase(), { ...dv, ...device });
 });
