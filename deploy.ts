@@ -5,10 +5,13 @@ import {
 	createRouteMap,
 	createRouter,
 } from 'https://deno.land/x/reno@v2.0.22/reno/mod.ts';
+import { Devices, ROM, Roms } from './types.ts';
 
 const PORT = 8000;
 
-const devices = JSON.parse(await Deno.readTextFile('./devices.json'));
+const devices: Devices[] = JSON.parse(
+	await Deno.readTextFile('./devices.json')
+);
 
 function phoneParse(req: AugmentedRequest) {
 	const re = [...devices];
@@ -34,7 +37,7 @@ function phoneParse(req: AugmentedRequest) {
 		updateRe(fuse.search(q).map((x) => x.item));
 	}
 	if (brand) {
-		updateRe(re.filter((x) => x.brand.toLowerCase() === brand.toLowerCase()));
+		updateRe(re.filter((x) => x.brand?.toLowerCase() === brand.toLowerCase()));
 	}
 	if (limit && parseInt(limit)) {
 		updateRe(re.slice(0, parseInt(limit)));
@@ -86,6 +89,38 @@ export const routes = createRouteMap([
 			return Response.redirect(
 				`https://hdabbjaktgetmyexzjtf.supabase.in/storage/v1/object/public/devices/${img}`,
 				307
+			);
+		},
+	],
+	[
+		'/device/*',
+		async (req: Pick<AugmentedRequest, 'routeParams'>) => {
+			let roms: Roms[] = JSON.parse(await Deno.readTextFile('./roms.json'));
+
+			const device = req.routeParams[0].toLowerCase().split('.')[0];
+			const device_data = devices.find(
+				(x) => x.codename?.toLowerCase() == device?.toLowerCase()
+			);
+			if (!device_data) {
+				return new Response(JSON.stringify({}));
+			}
+
+			//Filter duplicate roms
+			const obj: Record<string, ROM> = {};
+			device_data?.roms?.forEach((x) => {
+				obj[x.id] = {
+					...(obj[x.id] || {}),
+					...x,
+				};
+			});
+			roms = roms.filter((x) => obj[x.id]);
+			device_data.roms = Object.values(obj);
+
+			return new Response(
+				JSON.stringify({
+					device: device_data,
+					roms,
+				})
 			);
 		},
 	],

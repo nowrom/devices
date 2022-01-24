@@ -19,7 +19,7 @@ These roms don't have a public devices.json list or whatever and have to be adde
 - blissrom: https://github.com/BlissRoms-Devices/OTA/blob/master/builds.json
 - curvus os: https://github.com/CorvusRom-Devices/OTA
 
-## Completed roms (24)
+## Completed roms (25)
 
 - PixelExperience
 - ArrowOs
@@ -45,6 +45,7 @@ These roms don't have a public devices.json list or whatever and have to be adde
 - paranoidandroid
 - PixysOS
 - revengeos
+- Xiaomi.eu
 
 ## Contributing
 
@@ -74,3 +75,7 @@ wget https://storage.googleapis.com/play_public/supported_devices.csv
 iconv options -f utf-16 -t utf-8 supported_devices.csv -o out.csv
 deno run -A --no-check parseDevices.ts
 ```
+
+## License inforation
+
+This project is licensed under the GPL-3.0 license, and used code files from other repositories if i used your code without you wanting it please contact me at tricked@tricked.pro to solve the issue
