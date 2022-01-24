@@ -71,6 +71,17 @@ export const routes = createRouteMap([
 		},
 	],
 	[
+		'/androids',
+		async () => {
+			return new Response(await Deno.readFile('android_devices.json'), {
+				headers: {
+					'content-type': 'application/json',
+					'Access-Control-Allow-Origin': '*',
+				},
+			});
+		},
+	],
+	[
 		'/roms',
 		async () => {
 			const r = new Response(await Deno.readFile('./roms.json'), {
