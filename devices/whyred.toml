@@ -12,7 +12,6 @@ photo = "https://telegra.ph/file/d44358afe0fe98893c1f7.png"
 [[roms]]
 id = "arrowos"
 maintainer = "Sreekanth"
-changelog = "• Switched to AOSP WFD\r\n• Upstream kernel to 4.4.283\r\n• Drop perfd blobs\r\n• Fixed nightlight\r\n• Cleanup useless blobs\r\n• Misc changes"
 
 [[roms]]
 id = "blissroms"

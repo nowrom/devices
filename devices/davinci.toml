@@ -9,7 +9,7 @@ photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "RemyL"
-changelog = "- Misc changes and improvements"
+changelog = "- Update davinci blobs from MIUI v12.1.4.0 RFJMIXM\r\n- Use aosp wfd display\r\n- Update audio hal\r\n- Use snap cam"
 
 [[roms]]
 id = "blissroms"
@@ -86,11 +86,11 @@ id = "evolutionx"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v5.0"
 developer = "svb22"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.0"
+version = "v4.9"
 developer = "svb22"

@@ -20,7 +20,7 @@ changelog = "For installation information, refer to https://telegra.ph/Installat
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/canary/android-12/"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-12/"
 recovery = "https://androidfilehost.com/?w=files&flid=324059"
 
 [[roms]]

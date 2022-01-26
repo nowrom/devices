@@ -10,8 +10,7 @@ id = "pixelextended"
 
 [[roms]]
 id = "arrowos"
-maintainer = "TG_DEVICE_MAINTAINER"
-changelog = "• Update Redfin FP to Oct\r\n• Address Denials\r\n• Switch to Kernel space Battery Saver\r\n• Drop Pixel Power Hal (libperfmgr)\r\n• FM Radio Works with Default Kernel\r\n• Update Blobs from LA.UM.9.6.3.r1-04400-89xx.0"
+maintainer = "srinandek"
 
 [[roms]]
 id = "blissroms"

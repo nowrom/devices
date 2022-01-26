@@ -14,6 +14,11 @@ maintainer = "TH779"
 id = "cherishos"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
+recovery = "https://dl.akr-developers.com/?file=skkk/TWRP/A12/v3.0.3_A12/3.6.0_11-RedmiK30Pro_v3.0.3_A12-lmi-skkk_0b4ac24c.img"
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]
@@ -43,7 +48,7 @@ deprecated = false
 [[roms]]
 id = "sparkos"
 group = "https://t.me/SparkOSCommunity"
-download = "https://downloads.spark-os.live/lmi/Spark-S-Tempest-OFFICIAL-lmi-20211226.zip"
+download = "https://downloads.spark-os.live/lmi/Spark-S-Energized-OFFICIAL-lmi-20220119.zip"
 
 [[roms]]
 id = "evolutionx"

@@ -51,11 +51,11 @@ id = "evolutionx"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v2.9"
-developer = "coderzstas"
+version = "v5.1"
+developer = "SevralT"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.1"
-developer = "SevralT"
+version = "v2.9"
+developer = "coderzstas"

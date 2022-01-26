@@ -20,5 +20,6 @@ repostories = ["device_google_sunfish","kernel_google_msm-4.14","vendor_google_s
 
 [[roms.supported_versions]]
 version_code = "twelve"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-0-sunfish-pixelexperience-aosp.4392819/"
 stable = true
 deprecated = false

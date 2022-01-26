@@ -8,7 +8,6 @@ id = "pixelextended"
 [[roms]]
 id = "arrowos"
 maintainer = "Sreekanth"
-changelog = "• Smarter decisions on whether to use a 2 or 5Ghz AP\r\n• Drop updatable_apex\r\n• Optimise dex flags for a faster boot\r\n• Merge Linux version 4.14.262 into the kernel \r\n• Some cleanup and misc changes"
 
 [[roms]]
 id = "blissroms"
@@ -76,7 +75,7 @@ active = false
 [[roms]]
 id = "sparkos"
 group = "https://t.me/redcliffbuilds"
-download = "https://downloads.spark-os.live/phoenix/Spark-S-Tempest-OFFICIAL-phoenix-20211226-gapps.zip"
+download = "https://downloads.spark-os.live/phoenix/Spark-S-Energized-OFFICIAL-phoenix-20220118.zip"
 
 [[roms]]
 id = "evolutionx"

@@ -5,7 +5,7 @@ codename = "X01AD"
 [[roms]]
 id = "arrowos"
 maintainer = "Arka"
-changelog = "- Initial A12 Test build"
+changelog = "- Initial A12 build"
 
 [[roms]]
 id = "dotos"

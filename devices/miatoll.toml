@@ -21,6 +21,11 @@ changelog = "• Upstreamed kernel to 4.14.261\r\n• Switch to AOSP clang 14.0.
 id = "cherishos"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
+recovery = "https://dl.orangefox.download/60fbd820462e0f766bc300aa"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -75,7 +80,7 @@ active = false
 [[roms]]
 id = "sparkos"
 group = "https://t.me/SparkOSMiatoll"
-download = "https://downloads.spark-os.live/miatoll/Spark-S-Tempest-OFFICIAL-miatoll-20211225-gapps.zip"
+download = "https://downloads.spark-os.live/miatoll/Spark-S-Energized-OFFICIAL-miatoll-20220118-gapps.zip"
 
 [[roms]]
 id = "evolutionx"

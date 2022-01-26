@@ -71,7 +71,7 @@ id = "potato"
 [[roms]]
 id = "sparkos"
 group = "t.me/spsalioth"
-download = "https://downloads.spark-os.live/alioth/Spark-S-Energized-Official-alioth-20220117.zip"
+download = "https://downloads.spark-os.live/alioth/Spark-S-Energized-Official-alioth-20220125.zip"
 
 [[roms]]
 id = "evolutionx"

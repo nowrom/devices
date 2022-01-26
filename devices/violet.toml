@@ -82,7 +82,7 @@ active = true
 [[roms]]
 id = "sparkos"
 group = "https://t.me/sparkosviolet"
-download = "https://downloads.spark-os.live/violet/Spark-S-Tempest-OFFICIAL-violet-20211229.zip"
+download = "https://downloads.spark-os.live/violet/Spark-S-Energized-OFFICIAL-violet-20220120.zip"
 
 [[roms]]
 id = "evolutionx"
