@@ -9,7 +9,6 @@ photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "RemyL"
-changelog = "- Update davinci blobs from MIUI v12.1.4.0 RFJMIXM\r\n- Use aosp wfd display\r\n- Update audio hal\r\n- Use snap cam"
 
 [[roms]]
 id = "blissroms"

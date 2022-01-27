@@ -6,6 +6,10 @@ brand = "POCO"
 id = "pixelextended"
 
 [[roms]]
+id = "ancientos"
+photo = "https://files.tecnoblog.net/wp-content/uploads/2021/08/poco-x3-pro-produto-700x700.png"
+
+[[roms]]
 id = "AOSPK"
 xda_thread = ""
 

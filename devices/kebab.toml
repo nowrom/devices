@@ -8,7 +8,7 @@ id = "pixelextended"
 [[roms]]
 id = "arrowos"
 maintainer = "hiper25"
-changelog = "- Fixed game frame drops\r\n- Fixed the video call"
+changelog = "Temporarily handed over to hiper25 for maintenance"
 
 [[roms]]
 id = "crdroid"

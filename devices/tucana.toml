@@ -4,8 +4,8 @@ codename = "tucana"
 
 [[roms]]
 id = "arrowos"
-maintainer = "Erikdrozina"
-changelog = "- Initial release of Community ArrowOS for tucana\r\n- Update redfin fingerprint to November\r\n- Drop fast-charge script (now it is handled in the kernel)\r\n- Bring back audio amplifier\r\n- Address selinux denials"
+maintainer = "TG_DEVICE_MAINTAINER"
+changelog = "Test Build 26-01-2022"
 
 [[roms]]
 id = "pixelexperience"

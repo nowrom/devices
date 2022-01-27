@@ -3056,8 +3056,18 @@
   },
   {
     "brand": "Advance",
+    "name": "SP5713",
+    "codename": "SP5713"
+  },
+  {
+    "brand": "Advance",
     "name": "SP5732",
     "codename": "SP5732"
+  },
+  {
+    "brand": "Advance",
+    "name": "SP5733",
+    "codename": "SP5733"
   },
   {
     "brand": "Advance",
@@ -3283,6 +3293,11 @@
     "brand": "AirTV",
     "name": "DV8535",
     "codename": "DV8535"
+  },
+  {
+    "brand": "AirTouch",
+    "name": "AirTouch5",
+    "codename": "AirTouch5"
   },
   {
     "brand": "Airpha",
@@ -5636,6 +5651,11 @@
   },
   {
     "brand": "Aocwei",
+    "name": "X500_EEA",
+    "codename": "X500_EEA"
+  },
+  {
+    "brand": "Aocwei",
     "name": "X500_US",
     "codename": "X500_US"
   },
@@ -5668,6 +5688,11 @@
     "brand": "Apex",
     "name": "U10",
     "codename": "U10"
+  },
+  {
+    "brand": "Apex",
+    "name": "U10PRO",
+    "codename": "U10PRO"
   },
   {
     "brand": "Apex",
@@ -9885,6 +9910,16 @@
     "codename": "RT80A"
   },
   {
+    "brand": "Atozee",
+    "name": "AT70K",
+    "codename": "AT70K"
+  },
+  {
+    "brand": "Atozee",
+    "name": "AT70K_EEA",
+    "codename": "AT70K_EEA"
+  },
+  {
     "brand": "Atria Convergence Technologies",
     "name": "ACT",
     "codename": "B860H_V1"
@@ -13786,6 +13821,11 @@
   },
   {
     "brand": "Beneve",
+    "name": "M7152D1_EEA",
+    "codename": "M7152D1_EEA"
+  },
+  {
+    "brand": "Beneve",
     "name": "M755",
     "codename": "M755"
   },
@@ -14501,6 +14541,11 @@
   },
   {
     "brand": "Blackview",
+    "name": "A55 Pro",
+    "codename": "A55_Pro"
+  },
+  {
+    "brand": "Blackview",
     "name": "A60",
     "codename": "A60"
   },
@@ -14578,6 +14623,11 @@
     "brand": "Blackview",
     "name": "A90",
     "codename": "A90"
+  },
+  {
+    "brand": "Blackview",
+    "name": "A95",
+    "codename": "A95"
   },
   {
     "brand": "Blackview",
@@ -14783,6 +14833,11 @@
     "brand": "Blackview",
     "name": "BV8000Pro_RU",
     "codename": "BV8000Pro_RU"
+  },
+  {
+    "brand": "Blackview",
+    "name": "BV8800",
+    "codename": "BV8800"
   },
   {
     "brand": "Blackview",
@@ -15028,6 +15083,16 @@
     "brand": "Blackview",
     "name": "Tab11_RU",
     "codename": "Tab11_RU"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Tab12_EEA",
+    "codename": "Tab12_EEA"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Tab12_NEU",
+    "codename": "Tab12_NEU"
   },
   {
     "brand": "Blackview",
@@ -17806,6 +17871,11 @@
   },
   {
     "brand": "CHAINWAY",
+    "name": "C60",
+    "codename": "C60"
+  },
+  {
+    "brand": "CHAINWAY",
     "name": "C6000",
     "codename": "C6000"
   },
@@ -18098,6 +18168,11 @@
     "brand": "COOPERS",
     "name": "CP70K",
     "codename": "CP70K"
+  },
+  {
+    "brand": "COOPERS",
+    "name": "CP70K_EEA",
+    "codename": "CP70K_EEA"
   },
   {
     "brand": "COOPERS",
@@ -22016,6 +22091,11 @@
   },
   {
     "brand": "Contixo",
+    "name": "V10S",
+    "codename": "V10S"
+  },
+  {
+    "brand": "Contixo",
     "name": "V10X",
     "codename": "V10X"
   },
@@ -23438,6 +23518,11 @@
     "brand": "Crelander",
     "name": "E105",
     "codename": "E105"
+  },
+  {
+    "brand": "Crelander",
+    "name": "T118",
+    "codename": "T118"
   },
   {
     "brand": "Crelander",
@@ -27316,6 +27401,11 @@
   },
   {
     "brand": "Digma",
+    "name": "PRO 1800F 4G",
+    "codename": "RS1249PL"
+  },
+  {
+    "brand": "Digma",
     "name": "PS7210PG",
     "codename": "PS7210PG"
   },
@@ -27648,6 +27738,11 @@
     "brand": "Dixon",
     "name": "KT5512",
     "codename": "KT5512"
+  },
+  {
+    "brand": "Dixon",
+    "name": "L-5",
+    "codename": "L-5"
   },
   {
     "brand": "Dixon",
@@ -28183,6 +28278,11 @@
     "brand": "Doogee",
     "name": "X96",
     "codename": "X96"
+  },
+  {
+    "brand": "Doogee",
+    "name": "X96",
+    "codename": "X96T"
   },
   {
     "brand": "Doogee",
@@ -35443,6 +35543,11 @@
     "brand": "GLOBAL3",
     "name": "B02",
     "codename": "B02"
+  },
+  {
+    "brand": "GOODTEL",
+    "name": "G2_A_EEA",
+    "codename": "G2_A_EEA"
   },
   {
     "brand": "GOODTEL",
@@ -58891,6 +58996,11 @@
   },
   {
     "brand": "IkuMobile",
+    "name": "A12",
+    "codename": "A12"
+  },
+  {
+    "brand": "IkuMobile",
     "name": "A20",
     "codename": "A20"
   },
@@ -63440,6 +63550,16 @@
     "codename": "J6_EEA"
   },
   {
+    "brand": "JUSYEA",
+    "name": "J8",
+    "codename": "J8"
+  },
+  {
+    "brand": "JUSYEA",
+    "name": "J8_EEA",
+    "codename": "J8_EEA"
+  },
+  {
     "brand": "JVC",
     "name": "gener",
     "codename": "gener"
@@ -64811,6 +64931,11 @@
   },
   {
     "brand": "KRIP",
+    "name": "KRIP K68",
+    "codename": "K68"
+  },
+  {
+    "brand": "KRIP",
     "name": "KRIP_K4",
     "codename": "KRIP_K4"
   },
@@ -64873,6 +64998,11 @@
     "brand": "KTCtv",
     "name": "AP",
     "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "EU",
+    "codename": "zhongshan"
   },
   {
     "brand": "KTV",
@@ -65128,6 +65258,11 @@
     "brand": "Kapsys",
     "name": "SmartVision2",
     "codename": "r889"
+  },
+  {
+    "brand": "Kapsys",
+    "name": "SmartVision3",
+    "codename": "SmartVision3"
   },
   {
     "brand": "Karbonn",
@@ -66456,6 +66591,11 @@
   },
   {
     "brand": "Konrow",
+    "name": "SKY63",
+    "codename": "SKY63"
+  },
+  {
+    "brand": "Konrow",
     "name": "SKY_55",
     "codename": "SKY_55"
   },
@@ -66853,6 +66993,11 @@
     "brand": "Kult",
     "name": "Kult Beyond",
     "codename": "Beyond"
+  },
+  {
+    "brand": "Kunfabo",
+    "name": "F99Pro",
+    "codename": "F99Pro"
   },
   {
     "brand": "Kurio",
@@ -84436,6 +84581,11 @@
   },
   {
     "brand": "Maxwest",
+    "name": "Astro 6M",
+    "codename": "Astro_6M"
+  },
+  {
+    "brand": "Maxwest",
     "name": "Astro_4P",
     "codename": "Astro_4P"
   },
@@ -84443,6 +84593,11 @@
     "brand": "Maxwest",
     "name": "Astro_55N_LTE",
     "codename": "Astro_55N_LTE"
+  },
+  {
+    "brand": "Maxwest",
+    "name": "Astro_55R",
+    "codename": "Astro_55R"
   },
   {
     "brand": "Maxwest",
@@ -87563,6 +87718,11 @@
     "brand": "Mintt",
     "name": "MINTT_DIGI_2",
     "codename": "MINTT_DIGI_2"
+  },
+  {
+    "brand": "Mintt",
+    "name": "MinttM3",
+    "codename": "Mintt_M3"
   },
   {
     "brand": "Mintt",
@@ -92711,6 +92871,11 @@
   },
   {
     "brand": "Multilaser",
+    "name": "M7S LITE",
+    "codename": "ML-JI07-M7S-LITE"
+  },
+  {
+    "brand": "Multilaser",
     "name": "M7S PLUS",
     "codename": "ML-JI08-M7S-PLUS"
   },
@@ -97401,6 +97566,11 @@
   },
   {
     "brand": "Nuu",
+    "name": "Tab 5",
+    "codename": "N5005LA"
+  },
+  {
+    "brand": "Nuu",
     "name": "Tab 8",
     "codename": "T0801LAV1"
   },
@@ -97823,6 +97993,11 @@
     "brand": "OSCAL",
     "name": "C20 Pro",
     "codename": "C20_Pro"
+  },
+  {
+    "brand": "OSCAL",
+    "name": "C60",
+    "codename": "C60"
   },
   {
     "brand": "OSCAL",
@@ -101846,6 +102021,11 @@
   },
   {
     "brand": "Oukitel",
+    "name": "C25_RU",
+    "codename": "C25"
+  },
+  {
+    "brand": "Oukitel",
     "name": "C27_Pro_EEA",
     "codename": "C27_Pro"
   },
@@ -102096,8 +102276,18 @@
   },
   {
     "brand": "Oukitel",
+    "name": "WP13_RU",
+    "codename": "WP13"
+  },
+  {
+    "brand": "Oukitel",
     "name": "WP15",
     "codename": "WP15"
+  },
+  {
+    "brand": "Oukitel",
+    "name": "WP15 S",
+    "codename": "WP15_S"
   },
   {
     "brand": "Oukitel",
@@ -104858,6 +105048,11 @@
     "brand": "Philco",
     "name": "PTB8R",
     "codename": "PTB8R"
+  },
+  {
+    "brand": "Philco",
+    "name": "PTB8R4G",
+    "codename": "PTB8R4G"
   },
   {
     "brand": "Philco",
@@ -114205,6 +114400,11 @@
     "codename": "BBT1019863"
   },
   {
+    "brand": "SCIENTIA",
+    "name": "eWs10164T",
+    "codename": "eWs10164T"
+  },
+  {
     "brand": "SED Wireless",
     "name": "GPH-650R",
     "codename": "SPH_650R"
@@ -114958,6 +115158,16 @@
     "brand": "SPC Universe",
     "name": "SPC SMART PLUS",
     "codename": "SPC_SMART_PLUS"
+  },
+  {
+    "brand": "SPC Universe",
+    "name": "ZEUS_4G",
+    "codename": "ZEUS_4G"
+  },
+  {
+    "brand": "SPC Universe",
+    "name": "ZEUS_4G_PRO",
+    "codename": "ZEUS_4G_PRO"
   },
   {
     "brand": "SPC Universe",
@@ -132411,6 +132621,11 @@
   },
   {
     "brand": "Sky Devices",
+    "name": "Elite A6",
+    "codename": "Elite_A6"
+  },
+  {
+    "brand": "Sky Devices",
     "name": "Elite B5",
     "codename": "Elite_B5"
   },
@@ -132646,6 +132861,11 @@
   },
   {
     "brand": "Sky Devices",
+    "name": "Elite_B5MS",
+    "codename": "Elite_B5MS"
+  },
+  {
+    "brand": "Sky Devices",
     "name": "Elite_D5",
     "codename": "Elite_D5"
   },
@@ -132653,6 +132873,11 @@
     "brand": "Sky Devices",
     "name": "Elite_D55",
     "codename": "Elite_D55"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "Elite_F5",
+    "codename": "Elite_F5"
   },
   {
     "brand": "Sky Devices",
@@ -152616,6 +152841,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "BISON X10G",
+    "codename": "BISON_X10G"
+  },
+  {
+    "brand": "Umidigi",
     "name": "BISON X10G EEA",
     "codename": "BISON_X10G"
   },
@@ -152678,6 +152908,11 @@
     "brand": "Umidigi",
     "name": "MT02_EEA",
     "codename": "MT02_EEA"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "MT02_ROW",
+    "codename": "MT02_ROW"
   },
   {
     "brand": "Umidigi",
@@ -152943,6 +153178,11 @@
     "brand": "Unionaire",
     "name": "UnionaireATV4K",
     "codename": "hanyang"
+  },
+  {
+    "brand": "Uniqcell",
+    "name": "UNI 10X",
+    "codename": "UNI_10X"
   },
   {
     "brand": "Uniscope",
@@ -164116,6 +164356,16 @@
   },
   {
     "brand": "YesTeL",
+    "name": "X3",
+    "codename": "X3"
+  },
+  {
+    "brand": "YesTeL",
+    "name": "X3_EEA",
+    "codename": "X3_EEA"
+  },
+  {
+    "brand": "YesTeL",
     "name": "X7_EEA",
     "codename": "X7_EEA"
   },
@@ -173843,6 +174093,11 @@
     "brand": "cosmos",
     "name": "Nova_10in",
     "codename": "Nova_10in"
+  },
+  {
+    "brand": "cosmos",
+    "name": "VELA_1201P-EEA",
+    "codename": "VELA_1201P-EEA"
   },
   {
     "brand": "d.light",

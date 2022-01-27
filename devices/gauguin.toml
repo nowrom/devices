@@ -23,6 +23,12 @@ maintainer = "baolong24"
 group = "https://t.me/havocofficial"
 
 [[roms]]
+id = "lineageos"
+cpu = "Kryo 570"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_gauguin","kernel_xiaomi_gauguin","vendor_xiaomi_gauguin"]
 

@@ -16,6 +16,11 @@ id = "blissroms"
 id = "cherishos"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/crdroid/files/phoenix/8.x/"
+recovery = "https://orangefox.download/device/phoenix"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

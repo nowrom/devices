@@ -5,7 +5,7 @@ codename = "X01AD"
 [[roms]]
 id = "arrowos"
 maintainer = "Arka"
-changelog = "- Initial A12 build"
+changelog = "- Fix DPI and lag issue\r\n- Update kernel\r\n- Misc changes"
 
 [[roms]]
 id = "dotos"
