@@ -1,7 +1,5 @@
 import { cheerio } from 'https://deno.land/x/cheerio@1.0.4/mod.ts';
 
-await getPhone('redmi note 9 pro');
-
 export function parsePhoneDataHtml(html: string): Record<string, string> {
 	const $ = cheerio.load(html);
 	const obj: Record<string, any> = {};

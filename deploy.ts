@@ -5,7 +5,7 @@ import {
 	createRouteMap,
 	createRouter,
 } from 'https://deno.land/x/reno@v2.0.22/reno/mod.ts';
-import { createClient } from 'https://deno.land/x/supabase/mod.ts';
+import { createClient } from 'https://raw.githubusercontent.com/Tricked-dev/supabase-js/master/mod.ts';
 import { getPhone } from './gsm.ts';
 import { Devices, ROM, Roms } from './types.ts';
 
