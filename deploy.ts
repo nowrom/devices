@@ -166,7 +166,9 @@ export const routes = createRouteMap([
 
 							await client.from('devices').insert([r]);
 						}
-					} catch (_) {}
+					} catch (_) {
+						console.error(_);
+					}
 				})();
 			}
 			return new Response(
