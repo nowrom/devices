@@ -4,8 +4,11 @@ const client = createClient(
 	Deno.env.get('SECRET')!
 );
 const devices = client.storage.from('devices');
-
-const codenames = new Set();
+const codenames = new Set(
+	(await devices.list('', {
+		limit: 5000,
+	}))!.data!.map((x) => x.name.split('.')[0])
+);
 
 const paths = [
 	'./ota/oaspk/images/devices',
@@ -20,9 +23,29 @@ paths.forEach(async (path) => {
 		if (codenames.has(codename)) continue;
 		else codenames.add(codename);
 		console.log(
+			path,
 			await devices.pdate(
 				file.name.toLowerCase(),
 				await Deno.readFile(`${path}/${file.name}`),
+				{
+					contentType: 'image/png',
+				}
+			)
+		);
+	}
+});
+
+const specs = await fetch('https://nowrom.deno.dev/specs').then((r) =>
+	r.json()
+);
+specs.forEach(async (x: Record<string, string>) => {
+	if (!codenames.has(x.codename.toLowerCase())) {
+		codenames.add(x.codename.toLowerCase());
+		console.log(
+			`GSMARENA ${x.codename}`,
+			await devices.pdate(
+				`${x.codename.toLowerCase()}.png`,
+				await (await fetch(x.image)).arrayBuffer(),
 				{
 					contentType: 'image/png',
 				}

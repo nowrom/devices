@@ -15,11 +15,11 @@ jobs:
         with:
           submodules: true
       - run: ls
-      - run:
       - run: |
           rm -rf devices/ && mkdir devices/
           sh ./scripts/setup.sh
           deno run -A updatelist.ts
+          deno run -A processImages.ts
           timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           git config user.name github-actions
           git config user.email github-actions@github.com
