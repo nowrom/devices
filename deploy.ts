@@ -15,11 +15,6 @@ const devices: Devices[] = JSON.parse(
 	await Deno.readTextFile('./devices.json')
 );
 
-const client = createClient(
-	'https://hdabbjaktgetmyexzjtf.supabase.co',
-	Deno.env.get('SECRET')!
-);
-
 function phoneParse(req: AugmentedRequest) {
 	const re = [...devices];
 	const q = req.queryParams.get('q');
@@ -136,6 +131,11 @@ export const routes = createRouteMap([
 			if (!device_data.specs) {
 				(async () => {
 					try {
+						const client = createClient(
+							'https://hdabbjaktgetmyexzjtf.supabase.co',
+							Deno.env.get('SECRET')!
+						);
+
 						let { data } = await client
 							.from('devices')
 							.select('*')
