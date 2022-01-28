@@ -106,6 +106,23 @@ export const routes = createRouteMap([
 		},
 	],
 	[
+		'/specs',
+		async () => {
+			const client = createClient(
+				'https://hdabbjaktgetmyexzjtf.supabase.co',
+				Deno.env.get('SECRET')!
+			);
+
+			const { data } = await client.from('devices').select('*');
+			return new Response(JSON.stringify(data), {
+				headers: {
+					'content-type': 'application/json',
+					'Access-Control-Allow-Origin': '*',
+				},
+			});
+		},
+	],
+	[
 		'/device/*',
 		async (req: Pick<AugmentedRequest, 'routeParams'>) => {
 			let roms: Roms[] = JSON.parse(await Deno.readTextFile('./roms.json'));

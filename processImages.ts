@@ -5,50 +5,28 @@ const client = createClient(
 );
 const devices = client.storage.from('devices');
 
-await Promise.all([
-	(async () => {
-		const path = './ota/oaspk/images/devices';
-		for await (const file of Deno.readDir(path)) {
-			if (file.isDirectory) continue;
-			console.log(
-				await devices.pdate(
-					file.name.toLowerCase(),
-					await Deno.readFile(`${path}/${file.name}`),
-					{
-						contentType: 'image/png',
-					}
-				)
-			);
-		}
-	})(),
-	(async () => {
-		const path = './ota/pixelexperience/images';
-		for await (const file of Deno.readDir(path)) {
-			if (file.isDirectory) continue;
-			console.log(
-				await devices.pdate(
-					file.name.toLowerCase(),
-					await Deno.readFile(`${path}/${file.name}`),
-					{
-						contentType: 'image/png',
-					}
-				)
-			);
-		}
-	})(),
-	(async () => {
-		const path = './ota/lineage_wiki/images/devices';
-		for await (const file of Deno.readDir(path)) {
-			if (file.isDirectory) continue;
-			console.log(
-				await devices.pdate(
-					file.name.toLowerCase(),
-					await Deno.readFile(`${path}/${file.name}`),
-					{
-						contentType: 'image/png',
-					}
-				)
-			);
-		}
-	})(),
-]);
+const codenames = new Set();
+
+const paths = [
+	'./ota/oaspk/images/devices',
+	'./ota/pixelexperience/images',
+	'./ota/lineage_wiki/images/devices',
+];
+
+paths.forEach(async (path) => {
+	for await (const file of Deno.readDir(path)) {
+		if (file.isDirectory) continue;
+		const codename = file.name.toLowerCase().split('.')[0];
+		if (codenames.has(codename)) continue;
+		else codenames.add(codename);
+		console.log(
+			await devices.pdate(
+				file.name.toLowerCase(),
+				await Deno.readFile(`${path}/${file.name}`),
+				{
+					contentType: 'image/png',
+				}
+			)
+		);
+	}
+});
