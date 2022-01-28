@@ -5,12 +5,19 @@ import {
 	createRouteMap,
 	createRouter,
 } from 'https://deno.land/x/reno@v2.0.22/reno/mod.ts';
+import { createClient } from 'https://deno.land/x/supabase/mod.ts';
+import { getPhone } from './gsm.ts';
 import { Devices, ROM, Roms } from './types.ts';
 
 const PORT = 8000;
 
 const devices: Devices[] = JSON.parse(
 	await Deno.readTextFile('./devices.json')
+);
+
+const client = createClient(
+	'https://hdabbjaktgetmyexzjtf.supabase.co',
+	Deno.env.get('SECRET')!
 );
 
 function phoneParse(req: AugmentedRequest) {
@@ -126,7 +133,40 @@ export const routes = createRouteMap([
 			});
 			roms = roms.filter((x) => obj[x.id]);
 			device_data.roms = Object.values(obj);
+			if (!device_data.specs) {
+				(async () => {
+					let { data } = await client
+						.from('devices')
+						.select('*')
+						.eq('codename', device_data.codename.toLowerCase())
+						.select('*');
+					if (!data || data.length == 0) {
+						if (!device_data.name) return;
+						let r = await getPhone(device_data.name);
+						if (!r)
+							r = {
+								image:
+									'https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9-pro-global-.jpg',
+								year: 'Not found',
+								weight: 'Not found',
+								os: 'Not found',
+								chipset: 'Not found',
+								cpu: 'Not found',
+								gpu: 'Not found',
+								internalmemory: 'Not found',
+								sensors: 'Not found',
+								batlife: 'Not found',
+								image_downloaded: true,
+							};
+						else {
+							r.image_downloaded = false;
+						}
+						r.codename = device_data.codename.toLowerCase();
 
+						await client.from('devices').insert([r]);
+					}
+				})();
+			}
 			return new Response(
 				JSON.stringify({
 					device: device_data,

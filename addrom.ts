@@ -1,7 +1,4 @@
-import {
-	parse,
-	stringify,
-} from 'https://deno.land/std@0.121.0/encoding/toml.ts';
+import { stringify } from 'https://deno.land/std@0.121.0/encoding/toml.ts';
 const name = prompt('name:');
 const id = prompt('id:', name?.toLowerCase());
 const about = prompt('about:');

@@ -11,6 +11,7 @@ export interface Devices {
 	brand?: string;
 	name?: string;
 	codename: string;
+	specs: Record<string, string>;
 	roms: ROM[];
 }
 
