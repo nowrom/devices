@@ -12,6 +12,7 @@ photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4-sn.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "Ganesh Varma, Sonal Singh"
+changelog = "- Upstream device sources\r\n- Move to R HALS\r\n- Switch to 4.9 kernel\r\n- Upstream blobs\r\n\r\nNote:\r\n* Mido breathes *\r\n- A clean flash is recommended if coming from previous builds."
 
 [[roms]]
 id = "blissroms"
@@ -52,7 +53,7 @@ deprecated = false
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/mido/PixelExtended_mido-12.0-20220115-1624-OFFICIAL.zip/download"
+url = "https://sourceforge.net/projects/pixelextended/files/mido/PixelExtended_mido-12.0-20220127-1106-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-mido-15-01-22.4388883/"
 
 [[roms]]

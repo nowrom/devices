@@ -29,9 +29,9 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/raphael/Havoc-OS-v4.12-20211231-raphael-Official-GApps.zip"
-maintainer = "Sukeerat Singh Goindi"
-group = "https://t.me/+VOHKrvv_of5GmJET"
+url = "https://download.havoc-os.com/raphael/Havoc-OS-v4.13-20220127-raphael-Official-GApps.zip"
+maintainer = "Sukeerat Singh"
+group = "t.me/+VOHKrvv_of5GmJET"
 
 [[roms]]
 id = "legionos"

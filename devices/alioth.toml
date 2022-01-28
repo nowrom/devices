@@ -16,7 +16,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "palaych"
-changelog = "- alioth: rro_overlays: Drop TetheringOverlay\r\n- Switch NXP NFC HAL (Now should read mifare card and another tag)\r\n- Reserved vendor partition size\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n- Misc fixes and upstream changes.\r\n\r\nRecommend use with fw part MIUI V12.5.4.0 and newer (global/India/etc).\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261"
+changelog = "- Set iorap prefetch prop to mendel flags\r\n- overlay: Exempt CNE app from location indicators\r\n- overlay: Set config_defaultRefreshRateInZone\r\n\r\nKernel:\r\n- Merge tag LA.UM.9.12.r1-13700.03-SMxx50.QSSI12.0 of CAF\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI 12.5.5.0 (A11) Global.</b>"
 
 [[roms]]
 id = "crdroid"
@@ -28,7 +28,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/alioth/Havoc-OS-v4.12-20211220-alioth-Official-GApps.zip"
+url = "https://download.havoc-os.com/alioth/Havoc-OS-v4.13-20220126-alioth-Official-GApps.zip"
 maintainer = "Sukeerat Singh Goindi"
 group = "https://t.me/+lHrhajwm-HsyN2Q1"
 
@@ -62,7 +62,7 @@ deprecated = false
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.0-20220115-0930-OFFICIAL.zip/download"
+url = "https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.0-20220127-1016-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/closed-rom-official-pixel-extended-rom-v4-0-android-12-alioth-aliothin-01-11-21.4355409/"
 
 [[roms]]

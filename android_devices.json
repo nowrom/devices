@@ -527,6 +527,11 @@
   {
     "brand": "ALBADEEL",
     "name": "Smart TV",
+    "codename": "longshan"
+  },
+  {
+    "brand": "ALBADEEL",
+    "name": "Smart TV",
     "codename": "redwood"
   },
   {
@@ -1598,6 +1603,11 @@
     "brand": "Acer",
     "name": "Acer One 7 4G",
     "codename": "Acer_One_7_4G"
+  },
+  {
+    "brand": "Acer",
+    "name": "Acer One 8 T4-82L",
+    "codename": "AcerOne8T4-82Lxi"
   },
   {
     "brand": "Acer",
@@ -3041,6 +3051,11 @@
   },
   {
     "brand": "Advance",
+    "name": "SP4703",
+    "codename": "SP4703"
+  },
+  {
+    "brand": "Advance",
     "name": "SP4872",
     "codename": "SP4872"
   },
@@ -3078,6 +3093,11 @@
     "brand": "Advance",
     "name": "SP5775",
     "codename": "SP5775"
+  },
+  {
+    "brand": "Advance",
+    "name": "SP5776",
+    "codename": "SP5776"
   },
   {
     "brand": "Advance",
@@ -12661,6 +12681,11 @@
   },
   {
     "brand": "BQru",
+    "name": "BQ-5533G",
+    "codename": "BQru-5533G"
+  },
+  {
+    "brand": "BQru",
     "name": "BQ-5535L",
     "codename": "BQru-5535L"
   },
@@ -13801,6 +13826,11 @@
   },
   {
     "brand": "Beneve",
+    "name": "M1038_EEA",
+    "codename": "M1038_EEA"
+  },
+  {
+    "brand": "Beneve",
     "name": "M7133",
     "codename": "M7133"
   },
@@ -14308,6 +14338,11 @@
     "brand": "BlackBerry",
     "name": "PRIV by BlackBerry",
     "codename": "venice"
+  },
+  {
+    "brand": "Blackfox",
+    "name": "BMM431B",
+    "codename": "BMM431B"
   },
   {
     "brand": "Blackfox",
@@ -15702,6 +15737,11 @@
   {
     "brand": "Blu",
     "name": "C5L 2021",
+    "codename": "C0101TT"
+  },
+  {
+    "brand": "Blu",
+    "name": "C5L 2021",
     "codename": "C0110WW"
   },
   {
@@ -16028,6 +16068,16 @@
     "brand": "Blu",
     "name": "G70",
     "codename": "G0251WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "G71",
+    "codename": "G0570WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "G71L",
+    "codename": "G0710WW"
   },
   {
     "brand": "Blu",
@@ -23666,6 +23716,16 @@
   },
   {
     "brand": "Crosscall",
+    "name": "Core-T5",
+    "codename": "L820"
+  },
+  {
+    "brand": "Crosscall",
+    "name": "Core-T5",
+    "codename": "L820"
+  },
+  {
+    "brand": "Crosscall",
     "name": "Core-X4",
     "codename": "L762"
   },
@@ -26823,6 +26883,11 @@
     "brand": "Digma",
     "name": "CITI 609",
     "codename": "CS6063ML"
+  },
+  {
+    "brand": "Digma",
+    "name": "CITI_13_X703_4G",
+    "codename": "CS3242ML"
   },
   {
     "brand": "Digma",
@@ -31203,6 +31268,11 @@
     "brand": "EssentielB",
     "name": "SmartTab1007",
     "codename": "SmartTAB1007"
+  },
+  {
+    "brand": "Estalky",
+    "name": "Estalky-E618",
+    "codename": "E618"
   },
   {
     "brand": "Estar",
@@ -36098,6 +36168,21 @@
     "brand": "General Mobile",
     "name": "GM 21 Pro",
     "codename": "G700"
+  },
+  {
+    "brand": "General Mobile",
+    "name": "GM 22",
+    "codename": "G312"
+  },
+  {
+    "brand": "General Mobile",
+    "name": "GM 22 Plus",
+    "codename": "G512"
+  },
+  {
+    "brand": "General Mobile",
+    "name": "GM 22 Pro",
+    "codename": "G702"
   },
   {
     "brand": "General Mobile",
@@ -45093,16 +45178,6 @@
     "brand": "Hisense",
     "name": "CMB510",
     "codename": "L696"
-  },
-  {
-    "brand": "Hisense",
-    "name": "Core-T5",
-    "codename": "L820"
-  },
-  {
-    "brand": "Hisense",
-    "name": "Core-T5",
-    "codename": "L820"
   },
   {
     "brand": "Hisense",
@@ -66341,6 +66416,11 @@
   },
   {
     "brand": "Kodak",
+    "name": "Kodak_D40",
+    "codename": "Kodak_D40"
+  },
+  {
+    "brand": "Kodak",
     "name": "Kodak_D50L",
     "codename": "Kodak_D50L"
   },
@@ -74986,6 +75066,11 @@
   },
   {
     "brand": "LUSH_MINT",
+    "name": "LM5314G",
+    "codename": "LM5314G"
+  },
+  {
+    "brand": "LUSH_MINT",
     "name": "LM5414G",
     "codename": "LM5414G"
   },
@@ -79626,6 +79711,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo Tab M10 Plus 3rd Gen",
+    "codename": "TB125FU"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo Tab M7",
     "codename": "7305F"
   },
@@ -81433,6 +81523,11 @@
     "brand": "Logic Instrument",
     "name": "Logic Instrument Fieldbook N80",
     "codename": "lifbn80"
+  },
+  {
+    "brand": "Logic Mobility",
+    "name": "L4T",
+    "codename": "L4T"
   },
   {
     "brand": "Logic Mobility",
@@ -84753,6 +84848,11 @@
     "brand": "Maxwest",
     "name": "TAB_MAX_7",
     "codename": "TAB_MAX_7"
+  },
+  {
+    "brand": "Maze_speed",
+    "name": "MS5314G",
+    "codename": "MS5314G"
   },
   {
     "brand": "Maze_speed",
@@ -98546,6 +98646,11 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus 9RT 5G",
+    "codename": "OP5155L1"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus Nord",
     "codename": "Nord"
   },
@@ -107911,6 +108016,11 @@
   },
   {
     "brand": "Premio",
+    "name": "X75",
+    "codename": "X75"
+  },
+  {
+    "brand": "Premio",
     "name": "X80",
     "codename": "X80"
   },
@@ -114821,6 +114931,11 @@
   },
   {
     "brand": "SOHO STYLE",
+    "name": "SS5314G",
+    "codename": "SS5314G"
+  },
+  {
+    "brand": "SOHO STYLE",
     "name": "SS5414G",
     "codename": "SS5414G"
   },
@@ -115028,6 +115143,21 @@
     "brand": "SPC Mobile",
     "name": "S19",
     "codename": "S19"
+  },
+  {
+    "brand": "SPC Mobile",
+    "name": "SMART_MAX_2",
+    "codename": "SMART_MAX_2"
+  },
+  {
+    "brand": "SPC Mobile",
+    "name": "SMART_PRO",
+    "codename": "SMART_PRO"
+  },
+  {
+    "brand": "SPC Mobile",
+    "name": "SMART_PRO",
+    "codename": "SMART_PRO_EEA"
   },
   {
     "brand": "SPC Mobile",
@@ -137656,6 +137786,11 @@
   },
   {
     "brand": "Stylo",
+    "name": "AS210291",
+    "codename": "AS210291"
+  },
+  {
+    "brand": "Stylo",
     "name": "BOLD",
     "codename": "BOLD"
   },
@@ -137686,6 +137821,11 @@
   },
   {
     "brand": "Stylo",
+    "name": "Galaxy",
+    "codename": "Galaxy"
+  },
+  {
+    "brand": "Stylo",
     "name": "INKOSI",
     "codename": "INKOSI"
   },
@@ -137693,6 +137833,11 @@
     "brand": "Stylo",
     "name": "Ithemba",
     "codename": "Ithemba"
+  },
+  {
+    "brand": "Stylo",
+    "name": "Jupiter",
+    "codename": "DQR22"
   },
   {
     "brand": "Stylo",
@@ -138450,6 +138595,11 @@
     "codename": "samseong"
   },
   {
+    "brand": "Syco",
+    "name": "RS-403_EEA",
+    "codename": "RS-403"
+  },
+  {
     "brand": "Syinix",
     "name": "32A1S",
     "codename": "ikebukuro"
@@ -138843,6 +138993,11 @@
     "brand": "Symphony",
     "name": "Z40",
     "codename": "Z40"
+  },
+  {
+    "brand": "Symphony",
+    "name": "Z42",
+    "codename": "Z42"
   },
   {
     "brand": "Symphony",
@@ -152851,6 +153006,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "BISON X10S",
+    "codename": "BISON_X10S"
+  },
+  {
+    "brand": "Umidigi",
     "name": "BISON X10S EEA",
     "codename": "BISON_X10S"
   },
@@ -160088,6 +160248,11 @@
     "brand": "Walton",
     "name": "WALPAD 10P",
     "codename": "10P"
+  },
+  {
+    "brand": "Walton",
+    "name": "WALPAD 8G",
+    "codename": "WALPAD8G_V2"
   },
   {
     "brand": "Walton",
@@ -172455,6 +172620,11 @@
     "codename": "ZB40"
   },
   {
+    "brand": "ZZB (cn)",
+    "name": "ZZB_ZB30",
+    "codename": "ZZB_ZB30"
+  },
+  {
     "brand": "Zaith",
     "name": "Z3211G",
     "codename": "Z3211G"
@@ -175213,6 +175383,11 @@
     "brand": "iHunt",
     "name": "iHunt_Like_12_EEA",
     "codename": "iHunt_Like_12"
+  },
+  {
+    "brand": "iHunt",
+    "name": "iHunt_Note_Ultra",
+    "codename": "iHunt_Note_Ultra"
   },
   {
     "brand": "iHunt",

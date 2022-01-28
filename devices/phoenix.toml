@@ -8,6 +8,7 @@ id = "pixelextended"
 [[roms]]
 id = "arrowos"
 maintainer = "Sreekanth"
+changelog = "• Enable option to disable sim in network settings\r\n• Misc changes\r\n\r\nNote :\r\n• Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links"
 
 [[roms]]
 id = "blissroms"

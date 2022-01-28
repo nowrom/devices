@@ -15,7 +15,7 @@ maintainer = "Deivid Ignacio"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/river/Havoc-OS-v4.12-20211226-river-Official-GApps.zip"
+url = "https://download.havoc-os.com/river/Havoc-OS-v4.13-20220127-river-Official-GApps.zip"
 maintainer = "Andrew Hexen"
 group = "https://t.me/+Oc1flk8GNpAyZWQ1"
 
@@ -41,5 +41,6 @@ deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = false
+xda_thread = "https://forum.xda-developers.com/t/rom-12-river-pixelexperience-aosp.4394653"
+stable = true
 deprecated = false

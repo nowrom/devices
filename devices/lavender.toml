@@ -15,6 +15,7 @@ xda_thread = "https://forum.xda-developers.com/t/title-rom-11-0-device-aospk-the
 [[roms]]
 id = "arrowos"
 maintainer = "Ratoriku, Hazama25"
+changelog = "- Limit the dex2oat resouce when thermal stress\r\n- Update DPM Stack from DDV\r\n- Enable DPM features\r\n- Enable dex2oat64 usage\r\n- Disable Async MTE on System Server\r\n- Disable RX wakelock feature in both rom side and kernel side\r\n- kernel: Avoid some overhead\r\n- kernel: Optimize to reduce some CPU power consumption with WiFi\r\n- Other fixes and improvements"
 
 [[roms]]
 id = "blissroms"
