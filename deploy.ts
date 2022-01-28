@@ -135,36 +135,38 @@ export const routes = createRouteMap([
 			device_data.roms = Object.values(obj);
 			if (!device_data.specs) {
 				(async () => {
-					let { data } = await client
-						.from('devices')
-						.select('*')
-						.eq('codename', device_data.codename.toLowerCase())
-						.select('*');
-					if (!data || data.length == 0) {
-						if (!device_data.name) return;
-						let r = await getPhone(device_data.name);
-						if (!r)
-							r = {
-								image:
-									'https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9-pro-global-.jpg',
-								year: 'Not found',
-								weight: 'Not found',
-								os: 'Not found',
-								chipset: 'Not found',
-								cpu: 'Not found',
-								gpu: 'Not found',
-								internalmemory: 'Not found',
-								sensors: 'Not found',
-								batlife: 'Not found',
-								image_downloaded: true,
-							};
-						else {
-							r.image_downloaded = false;
-						}
-						r.codename = device_data.codename.toLowerCase();
+					try {
+						let { data } = await client
+							.from('devices')
+							.select('*')
+							.eq('codename', device_data.codename.toLowerCase())
+							.select('*');
+						if (!data || data.length == 0) {
+							if (!device_data.name) return;
+							let r = await getPhone(device_data.name);
+							if (!r)
+								r = {
+									image:
+										'https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-9-pro-global-.jpg',
+									year: 'Not found',
+									weight: 'Not found',
+									os: 'Not found',
+									chipset: 'Not found',
+									cpu: 'Not found',
+									gpu: 'Not found',
+									internalmemory: 'Not found',
+									sensors: 'Not found',
+									batlife: 'Not found',
+									image_downloaded: true,
+								};
+							else {
+								r.image_downloaded = false;
+							}
+							r.codename = device_data.codename.toLowerCase();
 
-						await client.from('devices').insert([r]);
-					}
+							await client.from('devices').insert([r]);
+						}
+					} catch (_) {}
 				})();
 			}
 			return new Response(
