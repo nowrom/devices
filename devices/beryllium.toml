@@ -18,11 +18,6 @@ changelog = "- sdm845-common:\r\nUpdate blobs to MIUI polaris V12.5.1.0.QDGCNXM\
 id = "blissroms"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
-recovery = "https://sourceforge.net/projects/crdroid/files/beryllium/8.x/recovery/"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

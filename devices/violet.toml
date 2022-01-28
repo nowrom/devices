@@ -61,7 +61,7 @@ deprecated = true
 [[roms.supported_versions]]
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-beta-official.4200603/"
-stable = false
+stable = true
 deprecated = false
 
 [[roms]]
@@ -82,7 +82,7 @@ active = true
 [[roms]]
 id = "sparkos"
 group = "https://t.me/sparkosviolet"
-download = "https://downloads.spark-os.live/violet/Spark-S-Energized-OFFICIAL-violet-20220120.zip"
+download = "https://downloads.spark-os.live/violet/Spark-S-Tempest-OFFICIAL-violet-20211229.zip"
 
 [[roms]]
 id = "evolutionx"

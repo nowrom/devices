@@ -17,11 +17,6 @@ id = "blissroms"
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/crdroid/files/phoenix/8.x/"
-recovery = "https://orangefox.download/device/phoenix"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -81,7 +76,7 @@ active = false
 [[roms]]
 id = "sparkos"
 group = "https://t.me/redcliffbuilds"
-download = "https://downloads.spark-os.live/phoenix/Spark-S-Energized-OFFICIAL-phoenix-20220118.zip"
+download = "https://downloads.spark-os.live/phoenix/Spark-S-Tempest-OFFICIAL-phoenix-20211226-gapps.zip"
 
 [[roms]]
 id = "evolutionx"

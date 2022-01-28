@@ -29,6 +29,10 @@ import {
 	xiaomieu,
 } from './lib/mod.ts';
 
+const specs = await fetch('https://nowrom.deno.dev/specs').then((r) =>
+	r.json()
+);
+
 const stored_devices = new Map();
 
 function getDevice(id: string) {
@@ -133,6 +137,14 @@ android_devices.forEach((device) => {
 	if (dv)
 		stored_devices.set(device.codename.toLowerCase(), { ...dv, ...device });
 });
+
+for (const spec of specs) {
+	const phone = stored_devices.get(spec.codename);
+	delete spec.image;
+	delete spec.image_downloaded;
+	delete spec.codename;
+	phone.specs = spec;
+}
 
 await Promise.all(
 	[...stored_devices.values()].map((x) => {

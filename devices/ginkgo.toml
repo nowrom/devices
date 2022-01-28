@@ -91,7 +91,7 @@ active = true
 [[roms]]
 id = "sparkos"
 group = "https://t.me/SparkRN8"
-download = "https://downloads.spark-os.live/ginkgo/Spark-S-Energized-OFFICIAL-ginkgo-20220119.zip"
+download = "https://downloads.spark-os.live/ginkgo/Spark-S-Tempest-OFFICIAL-ginkgo-20211225-gapps.zip"
 
 [[roms]]
 id = "evolutionx"

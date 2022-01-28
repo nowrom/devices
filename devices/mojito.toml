@@ -59,4 +59,4 @@ active = true
 [[roms]]
 id = "sparkos"
 group = "https://t.me/rn10potato"
-download = "https://downloads.spark-os.live/mojito/Spark-S-Energized-OFFICIAL-mojito-20220119.zip"
+download = "https://downloads.spark-os.live/mojito/Spark-S-Tempest-OFFICIAL-mojito-20211224-gapps.zip"

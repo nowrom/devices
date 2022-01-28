@@ -16,7 +16,6 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "TH779, kubersharma001"
-changelog = "- Misc changes and improvements\r\n\r\n- See full device sources at: https://github.com/ArrowOS-Devices?q=raphael\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=raphael"
 
 [[roms]]
 id = "blissroms"
@@ -29,9 +28,9 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/raphael/Havoc-OS-v4.13-20220127-raphael-Official-GApps.zip"
-maintainer = "Sukeerat Singh"
-group = "t.me/+VOHKrvv_of5GmJET"
+url = "https://download.havoc-os.com/raphael/Havoc-OS-v4.12-20211231-raphael-Official-GApps.zip"
+maintainer = "Sukeerat Singh Goindi"
+group = "https://t.me/+VOHKrvv_of5GmJET"
 
 [[roms]]
 id = "legionos"
@@ -66,13 +65,13 @@ deprecated = false
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtended_raphael-12.0-20220125-1941-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-12-raphael-official-pixel-extended-rom-20-12-2021.4146471/"
+url = "https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtended_raphael-12.0-20211220-1707-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-raphael-official-pixel-extended-rom-beta-31-10-2021.4146471/"
 
 [[roms]]
 id = "sparkos"
 group = "https://t.me/area51k20p"
-download = "https://downloads.spark-os.live/raphael/Spark-S-Energized-Official-raphael-20220120.zip"
+download = "https://downloads.spark-os.live/raphael/Spark-S-Tempest-Official-raphael-20211225.zip"
 
 [[roms]]
 id = "evolutionx"
@@ -80,7 +79,7 @@ id = "evolutionx"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.1"
+version = "v3.9"
 developer = "NATO666613"
 
 [[roms]]
@@ -92,5 +91,16 @@ developer = "NATO666613"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.9"
+version = "v5.1"
 developer = "NATO666613"
+
+[specs]
+cpu = "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"
+weight = "191 g (6.74 oz)"
+year = "2019, August 21"
+os = "Android 9.0 (Pie), upgradable to Android 11, MIUI 12.5"
+chipset = "Qualcomm SM8150 Snapdragon 855 (7 nm)"
+gpu = "Adreno 640"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 103h"
+internalmemory = "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM"

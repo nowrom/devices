@@ -65,8 +65,8 @@ deprecated = false
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/lavender/PixelExtended_lavender-12.0-20220126-1757-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-12-lavender-26-01-22.4323719/unread"
+url = "https://sourceforge.net/projects/pixelextended/files/lavender/PixelExtended_lavender-12.0-20211223-0512-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-12-lavender-01-11-21.4323719/"
 
 [[roms]]
 id = "pixyos"
@@ -87,7 +87,7 @@ active = false
 [[roms]]
 id = "sparkos"
 group = "https://t.me/infernobuilds"
-download = "https://downloads.spark-os.live/lavender/Spark-S-Energized-OFFICIAL-lavender-20220126.zip"
+download = "https://downloads.spark-os.live/lavender/Spark-S-Tempest-OFFICIAL-lavender-20211226-gapps.zip"
 
 [[roms]]
 id = "evolutionx"
@@ -97,3 +97,14 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.8"
 developer = "z3nitsu"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

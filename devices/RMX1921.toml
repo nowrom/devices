@@ -6,11 +6,6 @@ codename = "RMX1921"
 id = "blissroms"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S"
-recovery = ""
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

@@ -1,11 +1,6 @@
 brand = "OnePlus"
-name = "OnePlus 8P"
+name = "OnePlus 8 Pro"
 codename = "instantnoodlep"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
 
 [[roms]]
 id = "evolutionx"

@@ -23,9 +23,4 @@ ram = "4/6 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
 
 [[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/X2/PixelExtended_X2-12.0-20220127-0645-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/pixelextended-for-realme-x2-rmx199x.4394125/"
-
-[[roms]]
 id = "pixyos"

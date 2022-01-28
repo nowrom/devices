@@ -22,3 +22,14 @@ repostories = ["device_google_coral","kernel_google_msm-4.14","vendor_google_cor
 version_code = "twelve"
 stable = true
 deprecated = false
+
+[specs]
+cpu = "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"
+weight = "193 g (6.81 oz)"
+year = "2019, October 15"
+os = "Android 10, upgradable to Android 12"
+chipset = "Qualcomm SM8150 Snapdragon 855 (7 nm)"
+gpu = "Adreno 640"
+sensors = "Face ID, accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 73h"
+internalmemory = "64GB 6GB RAM, 128GB 6GB RAM"

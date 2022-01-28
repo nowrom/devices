@@ -3,11 +3,6 @@ name = "OnePlus 8"
 codename = "instantnoodle"
 
 [[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
-
-[[roms]]
 id = "evolutionx"
 
 [[roms]]

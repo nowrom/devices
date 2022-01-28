@@ -10,3 +10,14 @@ photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devi
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
 changelog = "- Fix issues related to audio.\r\n- Misc changes."
+
+[specs]
+cpu = "Octa-core (4x2.4 GHz Kryo 670 & 4x1.8 GHz Kryo 670)"
+weight = "158 g (5.57 oz)"
+year = "2021, September 15"
+os = "Android 11, MIUI 12.5"
+chipset = "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)"
+gpu = "Adreno 642L"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, compass"
+batlife = "Endurance rating 122h"
+internalmemory = "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"

@@ -25,11 +25,11 @@ id = "revengeos"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.1"
+version = "v4.9"
 developer = "lupesoltec"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v5.1"
 developer = "lupesoltec"

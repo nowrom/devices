@@ -34,14 +34,20 @@ donation_link = "https://www.paypal.com/paypalme/nathankits"
 photo = "https://avatars.githubusercontent.com/u/63705885?v=4"
 
 [[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/juice/PixelExtended_juice-12.0-20220125-1827-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-a12-pixel-extended-4-1-for-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice.4393915/"
-
-[[roms]]
 id = "sparkos"
 group = "https://t.me/UmaruchanSupport"
 download = "https://downloads.spark-os.live/juice/Spark-S-Energized-OFFICIAL-juice-20220117.zip"
 
 [[roms]]
 id = "evolutionx"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"
