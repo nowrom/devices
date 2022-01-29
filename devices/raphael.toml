@@ -28,9 +28,9 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/raphael/Havoc-OS-v4.12-20211231-raphael-Official-GApps.zip"
-maintainer = "Sukeerat Singh Goindi"
-group = "https://t.me/+VOHKrvv_of5GmJET"
+url = "https://download.havoc-os.com/raphael/Havoc-OS-v4.13-20220127-raphael-Official-GApps.zip"
+maintainer = "Sukeerat Singh"
+group = "t.me/+VOHKrvv_of5GmJET"
 
 [[roms]]
 id = "legionos"
@@ -65,13 +65,13 @@ deprecated = false
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtended_raphael-12.0-20211220-1707-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-12-raphael-official-pixel-extended-rom-beta-31-10-2021.4146471/"
+url = "https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtended_raphael-12.0-20220125-1941-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-raphael-official-pixel-extended-rom-20-12-2021.4146471/"
 
 [[roms]]
 id = "sparkos"
 group = "https://t.me/area51k20p"
-download = "https://downloads.spark-os.live/raphael/Spark-S-Tempest-Official-raphael-20211225.zip"
+download = "https://downloads.spark-os.live/raphael/Spark-S-Energized-Official-raphael-20220120.zip"
 
 [[roms]]
 id = "evolutionx"
@@ -79,7 +79,7 @@ id = "evolutionx"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.9"
+version = "v5.1"
 developer = "NATO666613"
 
 [[roms]]
@@ -91,7 +91,7 @@ developer = "NATO666613"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.1"
+version = "v3.9"
 developer = "NATO666613"
 
 [specs]

@@ -22,3 +22,14 @@ repostories = ["device_google_barbet","device_google_redbull","vendor_google_bar
 version_code = "twelve"
 stable = true
 deprecated = false
+
+[specs]
+cpu = "Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver)"
+weight = "183 g (6.46 oz)"
+year = "2021, August 17"
+os = "Android 11, upgradable to Android 12"
+chipset = "Qualcomm SM7250 Snapdragon 765G 5G (7 nm)"
+gpu = "Adreno 620"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 122h"
+internalmemory = "128GB 6GB RAM"

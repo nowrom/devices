@@ -7,3 +7,14 @@ id = "calyxos"
 
 [[roms]]
 id = "grapheneos"
+
+[specs]
+cpu = "Octa-core (2x2.80 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.80 GHz Cortex-A55)"
+weight = "210 g (7.41 oz)"
+year = "2021, October 19"
+os = "Android 12"
+chipset = "Google Tensor (5 nm)"
+gpu = "Mali-G78 MP20"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 84h"
+internalmemory = "128GB 12GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"

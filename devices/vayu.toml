@@ -20,7 +20,7 @@ changelog = "Please check <a href=\"https://github.com/ArrowOS-Devices/android_d
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/canary/android-12/"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-12/"
 recovery = "https://orangefox.download/device/vayu"
 
 [[roms]]
@@ -80,4 +80,4 @@ active = true
 [[roms]]
 id = "sparkos"
 group = "https://t.me/WeedyBuilds"
-download = "https://downloads.spark-os.live/vayu/Spark-S-Tempest-OFFICIAL-vayu-20220115.zip"
+download = "https://downloads.spark-os.live/vayu/Spark-S-Energized-OFFICIAL-vayu-20220119.zip"

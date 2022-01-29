@@ -28,3 +28,14 @@ version_code = "twelve"
 xda_thread = ""
 stable = true
 deprecated = false
+
+[specs]
+cpu = "Octa-core (4x2.5 GHz Kryo 385 Gold & 4x1.6 GHz Kryo 385 Silver)"
+weight = "148 g (5.22 oz)"
+year = "2018, October 09"
+os = "Android 9.0 (Pie), upgradable to Android 12"
+chipset = "Qualcomm SDM845 Snapdragon 845 (10 nm)"
+gpu = "Adreno 630"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 69h"
+internalmemory = "64GB 4GB RAM, 128GB 4GB RAM"

@@ -7,3 +7,14 @@ id = "ancientos"
 
 [[roms]]
 id = "blissroms"
+
+[specs]
+cpu = "Octa-core (2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver)"
+weight = "209 g (7.37 oz)"
+year = "2020, March 23"
+os = "Android 10, upgradable to Android 11, MIUI 12"
+chipset = "Qualcomm SM7125 Snapdragon 720G (8 nm)"
+gpu = "Adreno 618"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 127h"
+internalmemory = "64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"

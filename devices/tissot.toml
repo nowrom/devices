@@ -1,9 +1,14 @@
 brand = "Xiaomi"
-name = "Mi A1"
+name = "Xiaomi Mi A1"
 codename = "tissot"
 
 [[roms]]
 id = "blissroms"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/"
+recovery = "https://dl.twrp.me/tissot/"
 
 [[roms]]
 id = "dotos"

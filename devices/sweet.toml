@@ -16,11 +16,11 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "daniml3"
-changelog = "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n11/09/2021\r\n• Fixed front camera video recording on MIUI camera"
+changelog = "12/11/2021\r\n• Improved power management\r\n• Switched back to schedutil governor\r\n• Cleaned unneeded vendor libraries\r\n\r\n28/10/2021\r\n• Fixed cutout color being inverted with the \"Force dark theme\" setting\r\n• Fixed minimum frequency being 1248MHz\r\n• Fixed WFD\r\n• Added Spanish translations to the device specific settings"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/canary/android-12/"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-12/"
 recovery = "https://androidfilehost.com/?w=files&flid=324059"
 
 [[roms]]
@@ -50,8 +50,8 @@ deprecated = false
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/sweet/PixelExtended_sweet-12.0-20211218-1649-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-sweet-19-12-21.4377003/"
+url = "https://sourceforge.net/projects/pixelextended/files/sweet/PixelExtended_sweet-12.0-20220126-1244-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-1-android-12-sweet-27-01-22.4377003/"
 
 [[roms]]
 id = "pixyos"
@@ -62,3 +62,4 @@ id = "potato"
 [[roms]]
 id = "sparkos"
 group = "https://t.me/Spark_sweet"
+download = "https://downloads.spark-os.live/sweet/Spark-S-Energized-Official-sweet-20220126.zip"

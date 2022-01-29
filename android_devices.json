@@ -79601,6 +79601,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo Tab M10 (3rd Gen)",
+    "codename": "TB328XU"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo Tab M10 (FHD)",
     "codename": "X605F"
   },

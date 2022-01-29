@@ -59,4 +59,15 @@ active = true
 [[roms]]
 id = "sparkos"
 group = "https://t.me/rn10potato"
-download = "https://downloads.spark-os.live/mojito/Spark-S-Tempest-OFFICIAL-mojito-20211224-gapps.zip"
+download = "https://downloads.spark-os.live/mojito/Spark-S-Energized-OFFICIAL-mojito-20220119.zip"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

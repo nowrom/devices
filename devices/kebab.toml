@@ -11,6 +11,11 @@ maintainer = "hiper25"
 changelog = "Temporarily handed over to hiper25 for maintenance"
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

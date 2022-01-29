@@ -23,7 +23,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/enchilada/Havoc-OS-v4.12-20211222-enchilada-Official-GApps.zip"
+url = "https://download.havoc-os.com/enchilada/Havoc-OS-v4.13-20220128-enchilada-Official-GApps.zip"
 maintainer = "Vikas Yaduvanshi"
 group = "https://t.me/+tNPSDUw3FUJlNDQ1"
 
@@ -62,12 +62,6 @@ id = "evolutionx"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.9"
-developer = "DennySPb"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
 version = "v2.9"
 developer = "DennySPb"
 
@@ -75,6 +69,12 @@ developer = "DennySPb"
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v4.9"
+developer = "DennySPb"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v3.9"
 developer = "DennySPb"
 
 [[roms]]

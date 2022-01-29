@@ -3,11 +3,16 @@ name = "OnePlus 8"
 codename = "instantnoodle"
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/instantnoodle/Havoc-OS-v4.12-20211224-instantnoodle-Official-GApps.zip"
+url = "https://download.havoc-os.com/instantnoodle/Havoc-OS-v4.13-20220128-instantnoodle-Official-GApps.zip"
 maintainer = "Chris Chen"
 group = "https://t.me/+gJBFyk53ihA5Mjll"
 

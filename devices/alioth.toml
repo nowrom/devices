@@ -28,7 +28,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/alioth/Havoc-OS-v4.12-20211220-alioth-Official-GApps.zip"
+url = "https://download.havoc-os.com/alioth/Havoc-OS-v4.13-20220126-alioth-Official-GApps.zip"
 maintainer = "Sukeerat Singh Goindi"
 group = "https://t.me/+lHrhajwm-HsyN2Q1"
 
@@ -62,7 +62,7 @@ deprecated = false
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.0-20220115-0930-OFFICIAL.zip/download"
+url = "https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.0-20220127-1016-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/closed-rom-official-pixel-extended-rom-v4-0-android-12-alioth-aliothin-01-11-21.4355409/"
 
 [[roms]]
@@ -71,7 +71,7 @@ id = "potato"
 [[roms]]
 id = "sparkos"
 group = "t.me/spsalioth"
-download = "https://downloads.spark-os.live/alioth/Spark-S-Energized-Official-alioth-20220117.zip"
+download = "https://downloads.spark-os.live/alioth/Spark-S-Energized-Official-alioth-20220125.zip"
 
 [[roms]]
 id = "evolutionx"

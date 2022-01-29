@@ -17,9 +17,9 @@ id = "dotos"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/X01BD/Havoc-OS-v4.12-20211220-X01BD-Official-GApps.zip"
+url = "https://download.havoc-os.com/X01BD/Havoc-OS-v4.13-20220127-X01BD-Official-GApps.zip"
 maintainer = "Sukeerat Singh Goindi"
-group = "https://t.me/+GaGANEky7Fw1Yjll"
+group = "t.me/+BaJnedaBMMQxNzg9"
 
 [[roms]]
 id = "lineageos"

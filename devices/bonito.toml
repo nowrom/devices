@@ -46,3 +46,14 @@ deprecated = false
 id = "pixelextended"
 url = "https://sourceforge.net/projects/pixelextended/files/bonito/PixelExtended_bonito-12.0-20211220-2341-OFFICIAL.zip/download"
 xda_thread = "https://www.xda-developers.com/"
+
+[specs]
+cpu = "Octa-core (2x2.0 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver)"
+weight = "167 g (5.89 oz)"
+year = "2019, May 07"
+os = "Android 9.0 (Pie), upgradable to Android 12"
+chipset = "Qualcomm SDM670 Snapdragon 670 (10 nm)"
+gpu = "Adreno 615"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 98h"
+internalmemory = "64GB 4GB RAM"
