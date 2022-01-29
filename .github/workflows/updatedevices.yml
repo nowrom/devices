@@ -22,7 +22,7 @@ jobs:
           rm -rf devices/ && mkdir devices/
           sh ./scripts/setup.sh
           deno run -A --no-check updatelist.ts
-          deno run -A --no-check processImages.ts
+          # deno run -A --no-check processImages.ts
           timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           git config user.name github-actions
           git config user.email github-actions@github.com
