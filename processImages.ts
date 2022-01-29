@@ -13,7 +13,7 @@ const codenames = new Set(
 const paths = [
 	'./ota/oaspk/images/devices',
 	'./ota/pixelexperience/images',
-	'./ota/lineage_wiki/images/devices',
+	'./ota/lineageos/images/devices',
 ];
 
 paths.forEach(async (path) => {
