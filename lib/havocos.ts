@@ -18,15 +18,15 @@ export interface HavocOS {
 	group: string;
 }
 
-export const havocos: UpdateFunction = async (stored_devices, getDevice) => {
+export const havocos: UpdateFunction = async () => {
 	return await Promise.all(
-		[...Deno.readDirSync('./ota/havocota/gapps')]
+		[...Deno.readDirSync('./ota/havocos/gapps')]
 			.filter((x) => x.name.endsWith('.json'))
 			.filter((x) => !x.name.includes('_'))
 			.map(async (x) => {
 				try {
 					const file: HavocOS = JSON.parse(
-						await Deno.readTextFile(`./ota/havocota/gapps/${x.name}`)
+						await Deno.readTextFile(`./ota/havocos/gapps/${x.name}`)
 					);
 					return {
 						brand: file.oem,

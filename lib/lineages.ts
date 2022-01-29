@@ -3,14 +3,12 @@ import { UpdateFunction } from './mod.ts';
 
 export const lineages: UpdateFunction = async (stored_devices, getDevice) => {
 	return await Promise.all(
-		[...Deno.readDirSync('./ota/lineage_wiki/_data/devices/')]
+		[...Deno.readDirSync('./ota/lineageos/_data/devices/')]
 			.filter((x) => x.name.endsWith('.yml'))
 			.map(async (x) => {
 				try {
 					const file = parse(
-						await Deno.readTextFile(
-							`./ota/lineage_wiki/_data/devices/${x.name}`
-						)
+						await Deno.readTextFile(`./ota/lineageos/_data/devices/${x.name}`)
 					) as Record<string, any>;
 					return {
 						brand: file.vendor,

@@ -20,11 +20,11 @@ export interface Response {
 
 export const syberia: UpdateFunction = async () => {
 	return await Promise.all(
-		[...Deno.readDirSync('./ota/official_devices/ab')]
+		[...Deno.readDirSync('./ota/syberia/ab')]
 			.filter((x) => x.name.endsWith('.json'))
 			.map(async (x) => {
 				const file: Syberia = JSON.parse(
-					await Deno.readTextFile(`./ota/official_devices/ab/${x.name}`)
+					await Deno.readTextFile(`./ota/syberia/ab/${x.name}`)
 				);
 				return {
 					brand: file.response[0].device_brand,

@@ -11,13 +11,13 @@ export interface Spark {
 	url: string;
 	group: string;
 }
-export const spark: UpdateFunction = async (stored_devices, getDevice) => {
+export const spark: UpdateFunction = async () => {
 	return await Promise.all(
-		[...Deno.readDirSync('./ota/sparkota')]
+		[...Deno.readDirSync('./ota/spark')]
 			.filter((x) => x.name.endsWith('.json'))
 			.map(async (x) => {
 				const file: Spark = JSON.parse(
-					await Deno.readTextFile(`./ota/sparkota/${x.name}`)
+					await Deno.readTextFile(`./ota/spark/${x.name}`)
 				);
 
 				const codename = x.name.split('.')[0];

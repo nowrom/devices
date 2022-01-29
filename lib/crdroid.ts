@@ -25,13 +25,13 @@ export interface CRResponse {
 	telegram: string;
 }
 
-export const crdroid: UpdateFunction = async (stored_devices, getDevice) => {
+export const crdroid: UpdateFunction = async () => {
 	return await Promise.all(
-		[...Deno.readDirSync('./ota/android_vendor_crDroidOTA')]
+		[...Deno.readDirSync('./ota/crdroid')]
 			.filter((x) => x.name.endsWith('.json'))
 			.map(async (x) => {
 				const file: Crdroid = JSON.parse(
-					await Deno.readTextFile(`./ota/android_vendor_crDroidOTA/${x.name}`)
+					await Deno.readTextFile(`./ota/crdroid/${x.name}`)
 				);
 				const response = file.response[0];
 				const codename = x.name.split('.')[0];

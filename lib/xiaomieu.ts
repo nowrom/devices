@@ -1,7 +1,7 @@
 import { UpdateFunction } from './mod.ts';
 
 export const xiaomieu: UpdateFunction = async () => {
-	const ota = `./ota/xiaomieu/`;
+	const ota = `./ota/xiaomi/`;
 	return await Promise.all(
 		[...Deno.readDirSync(ota)]
 			.filter((x) => x.isDirectory)

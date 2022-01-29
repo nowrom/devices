@@ -1,13 +1,13 @@
-official_devices/
-havocota/
-android_vendor_crDroidOTA/
-sparkota/
-pixelextendedota/
-lineage_wiki/
+crdroid/
+havocos/
+lineageos/
+spark/
+pixelextended/
+revengeos/
 pixelexperience/
 oaspk/
-revenge/
-xiaomieu/
+syberia/
+xiaomi/
 
 supported_devices.csv
 out.csv

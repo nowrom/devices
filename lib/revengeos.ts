@@ -17,7 +17,7 @@ export interface Revenge {
 }
 
 export const revenge: UpdateFunction = async () => {
-	const ota = `./ota/revenge/`;
+	const ota = `./ota/revengeos/`;
 	return await Promise.all(
 		[...Deno.readDirSync(ota)]
 			.filter((x) => x.isDirectory)

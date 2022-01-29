@@ -14,16 +14,13 @@ export interface PixelExtended {
 	device: string;
 	xda_thread: string;
 }
-export const pixelextended: UpdateFunction = async (
-	stored_devices,
-	getDevice
-) => {
+export const pixelextended: UpdateFunction = async () => {
 	return await Promise.all(
-		[...Deno.readDirSync('./ota/pixelextendedota/builds')]
+		[...Deno.readDirSync('./ota/pixelextended/builds')]
 			.filter((x) => x.name.endsWith('.json'))
 			.map(async (x) => {
 				const file: PixelExtended = JSON.parse(
-					await Deno.readTextFile(`./ota/pixelextendedota/builds/${x.name}`)
+					await Deno.readTextFile(`./ota/pixelextended/builds/${x.name}`)
 				);
 				if (file.device == undefined) return;
 				const codename = file.device.split('.')[0];

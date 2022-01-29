@@ -24,7 +24,7 @@ paths.forEach(async (path) => {
 		else codenames.add(codename);
 		console.log(
 			path,
-			await devices.pdate(
+			await devices.upload(
 				file.name.toLowerCase(),
 				await Deno.readFile(`${path}/${file.name}`),
 				{
@@ -43,7 +43,7 @@ specs.forEach(async (x: Record<string, string>) => {
 		codenames.add(x.codename.toLowerCase());
 		console.log(
 			`GSMARENA ${x.codename}`,
-			await devices.pdate(
+			await devices.upload(
 				`${x.codename.toLowerCase()}.png`,
 				await (await fetch(x.image)).arrayBuffer(),
 				{
