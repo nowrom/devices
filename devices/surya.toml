@@ -75,3 +75,14 @@ active = true
 
 [[roms]]
 id = "evolutionx"
+
+[specs]
+cpu = "Octa-core (2x2.3 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)"
+weight = "215 g (7.58 oz)"
+year = "2020, September 07"
+os = "Android 10, upgradable to Android 11, MIUI 12.5"
+chipset = "Qualcomm SM7150-AC Snapdragon 732G (8 nm)"
+gpu = "Adreno 618"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 125h"
+internalmemory = "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM"

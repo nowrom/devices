@@ -4,3 +4,14 @@ codename = "honami"
 
 [[roms]]
 id = "cherishos"
+
+[specs]
+cpu = "Quad-core 2.2 GHz Krait 400"
+weight = "170 g (6.00 oz)"
+year = "2013, September. Released 2013, September"
+os = "Android 4.2 (Jelly Bean), upgradable to 5.1 (Lollipop)"
+chipset = "Qualcomm MSM8974 Snapdragon 800 (28 nm)"
+gpu = "Adreno 330"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 53h"
+internalmemory = "16GB 2GB RAM"

@@ -5,6 +5,7 @@ codename = "cepheus"
 [[roms]]
 id = "arrowos"
 maintainer = "lamjiidii1"
+changelog = "Kernel changes:\r\n• Upstreamed to .232\r\n• Merge latest CAF tag LA.UM.9.1.r1-10200-SMxxx0.0\r\n• Merge WireGuard v1.0.20210424\r\n• Improve low memory killer\r\n• Mirco-optimize scheduler\r\n• Drop unused NUMA feature(Non-Uniform Memory Access)\r\n• Bring back userspace boost method\r\n• Add some thermal zones for mi_thermald\r\n• Enable Ftrace for iorap perfetto\r\n\r\nDevice specific changes:\r\n• Update prebuilt firmware and blobs from cepheus-user 11 RKQ1.200826.002 21.4.7 release-keys\r\n• Switch to POCO X3 Pro Global Listen stack and hotwordenrollment blobs (fixes screen off Google hotword detection and low mic volume when enabled OK Google)\r\n• Add proper configs for burn-in protection\r\n• Drop non-functional power off alarm blobs\r\n• Reset to miui stock audio configs\r\n• Cleanup SEPolicy rules also resolve all neverallow rues\r\n• Disable GPU Boost during interaction powerhint\r\n• Fix camera stutter in some apps\r\n• Enable iorap readahead (Improve app startup time)\r\n• Enable unspecialized app process pool\r\n• Use Gcam Go only with gapped releases (use snap with vanila releases)\r\n• Update to June redfin fingerprint \r\n• Flatten APEXs for performance\r\n• Make the UI smoother\r\n• Use \"Xiaomi Mi 9\" for default ssid name \r\n• Some stuff else, go read commit list on Github."
 
 [[roms]]
 id = "blissroms"

@@ -4,7 +4,7 @@ codename = "andromeda"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/andromeda/Havoc-OS-v4.12-20211225-andromeda-Official-GApps.zip"
+url = "https://download.havoc-os.com/andromeda/Havoc-OS-v4.13-20220129-andromeda-Official-GApps.zip"
 maintainer = "Nicholas Magill"
 group = "https://t.me/+TXVqjjAj0ts4MTI8"
 

@@ -1,6 +1,10 @@
 brand = "Xiaomi"
-name = "Xiaomi Mi A1"
+name = "Mi A1 (Tissot)"
 codename = "tissot"
+
+[[roms]]
+id = "ancientos"
+photo = "https://telegra.ph/file/e06852fd6da8fa1d75cb0.png"
 
 [[roms]]
 id = "blissroms"

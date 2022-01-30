@@ -3,6 +3,10 @@ name = "realme XT"
 codename = "RMX1921"
 
 [[roms]]
+id = "ancientos"
+photo = "https://fdn2.gsmarena.com/vv/pics/realme/realme-xt.jpg"
+
+[[roms]]
 id = "blissroms"
 
 [[roms]]

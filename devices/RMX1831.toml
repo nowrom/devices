@@ -4,3 +4,14 @@ codename = "RMX1831"
 
 [[roms]]
 id = "cherishos"
+
+[specs]
+cpu = "Octa-core (4x2.1 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53)"
+weight = "168 g (5.93 oz)"
+year = "2018, November"
+os = "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie), ColorOS 6"
+chipset = "Mediatek MT6771 Helio P70 (12nm)"
+gpu = "Mali-G72 MP3"
+sensors = "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+batlife = "Endurance rating 93h"
+internalmemory = "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"

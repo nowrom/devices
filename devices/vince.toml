@@ -35,3 +35,14 @@ id = "revengeos"
 
 [[roms]]
 id = "evolutionx"
+
+[specs]
+cpu = "Octa-core 2.0 GHz Cortex-A53"
+weight = "180 g (6.35 oz)"
+year = "2018, February"
+os = "Android 7.1.2 (Nougat), planned upgrade to Android 10, MIUI 12"
+chipset = "Qualcomm MSM8953 Snapdragon 625 (14 nm)"
+gpu = "Adreno 506"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 104h"
+internalmemory = "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"

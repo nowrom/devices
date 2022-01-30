@@ -7,7 +7,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/lemonadep/Havoc-OS-v4.12-20211224-lemonadep-Official-GApps.zip "
+url = "https://download.havoc-os.com/lemonadep/Havoc-OS-v4.13-20220129-lemonadep-Official-GApps.zip"
 maintainer = "eduardo"
 group = "https://t.me/+cU9PeFml8QI3MDJh"
 
@@ -26,3 +26,14 @@ active = true
 
 [[roms]]
 id = "evolutionx"
+
+[specs]
+cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680"
+weight = "197 g (6.95 oz)"
+year = "2021, March 23"
+os = "Android 11, upgradable to Android 12, OxygenOS 12"
+chipset = "Qualcomm SM8350 Snapdragon 888 5G (5 nm)"
+gpu = "Adreno 660"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum"
+batlife = "Endurance rating 86h"
+internalmemory = "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"

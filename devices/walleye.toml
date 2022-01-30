@@ -48,3 +48,14 @@ deprecated = false
 
 [[roms]]
 id = "revengeos"
+
+[specs]
+cpu = "Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo)"
+weight = "175 g (6.17 oz)"
+year = "2017, October 04"
+os = "Android 8.0 (Oreo), upgradable to Android 11"
+chipset = "Qualcomm MSM8998 Snapdragon 835 (10 nm)"
+gpu = "Adreno 540"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 88h"
+internalmemory = "64GB 4GB RAM, 128GB 4GB RAM"

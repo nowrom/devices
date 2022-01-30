@@ -19121,6 +19121,11 @@
   },
   {
     "brand": "Ceibal",
+    "name": "GACRUX",
+    "codename": "GACRUX"
+  },
+  {
+    "brand": "Ceibal",
     "name": "Ibirapita",
     "codename": "A81F"
   },
@@ -20508,6 +20513,11 @@
     "brand": "Chuwi",
     "name": "HiPadPlus_TR",
     "codename": "HiPadPlus"
+  },
+  {
+    "brand": "Chuwi",
+    "name": "HiPadPro",
+    "codename": "HiPadPro"
   },
   {
     "brand": "Chuwi",
@@ -24513,6 +24523,11 @@
     "brand": "DEXP",
     "name": "BS650",
     "codename": "BS650"
+  },
+  {
+    "brand": "DEXP",
+    "name": "C37",
+    "codename": "C37"
   },
   {
     "brand": "DEXP",
@@ -32623,6 +32638,11 @@
     "brand": "FOXXD",
     "name": "T8A",
     "codename": "T8A"
+  },
+  {
+    "brand": "FOXXD",
+    "name": "T8M",
+    "codename": "T8M"
   },
   {
     "brand": "FPT Telecom",
@@ -44068,6 +44088,11 @@
     "brand": "Handheld Group",
     "name": "Algiz RT7",
     "codename": "algizRT7"
+  },
+  {
+    "brand": "Handheld Group",
+    "name": "HTA11",
+    "codename": "HTA11"
   },
   {
     "brand": "Handheld Group",
@@ -92621,6 +92646,11 @@
   },
   {
     "brand": "Moxee Technologies",
+    "name": "MH-T6000",
+    "codename": "MH-T6000"
+  },
+  {
+    "brand": "Moxee Technologies",
     "name": "MT-T800",
     "codename": "MT-T800"
   },
@@ -96215,6 +96245,11 @@
     "codename": "NBTB101"
   },
   {
+    "brand": "NewBridge",
+    "name": "NBTB102",
+    "codename": "NBTB102"
+  },
+  {
     "brand": "Newings",
     "name": "T18",
     "codename": "T18"
@@ -98931,6 +98966,16 @@
   },
   {
     "brand": "Onn (Walmart)",
+    "name": "100071481",
+    "codename": "mid7019_mr_32"
+  },
+  {
+    "brand": "Onn (Walmart)",
+    "name": "100071483",
+    "codename": "100071483"
+  },
+  {
+    "brand": "Onn (Walmart)",
     "name": "100071485",
     "codename": "100071485"
   },
@@ -99723,6 +99768,11 @@
     "brand": "Oppo",
     "name": "A94",
     "codename": "OP4F43L1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "A96 5G",
+    "codename": "OP5267"
   },
   {
     "brand": "Oppo",
@@ -101958,6 +102008,11 @@
     "brand": "Orbic",
     "name": "R678L5",
     "codename": "R678L5"
+  },
+  {
+    "brand": "Orbic",
+    "name": "R8L5T",
+    "codename": "R8L5T"
   },
   {
     "brand": "Orbic",
@@ -132716,6 +132771,11 @@
   },
   {
     "brand": "Sky Devices",
+    "name": "ELITE_P55Max",
+    "codename": "ELITE_P55Max"
+  },
+  {
+    "brand": "Sky Devices",
     "name": "ELITE_P55US",
     "codename": "ELITE_P55US"
   },
@@ -133058,6 +133118,11 @@
     "brand": "Sky Devices",
     "name": "Elite_T8Pluss",
     "codename": "Elite_T8Pluss"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "Elite_V55",
+    "codename": "Elite_V55"
   },
   {
     "brand": "Sky Devices",
@@ -147151,6 +147216,16 @@
   },
   {
     "brand": "TOSCIDO",
+    "name": "T22",
+    "codename": "T22"
+  },
+  {
+    "brand": "TOSCIDO",
+    "name": "T22-EEA",
+    "codename": "T22-EEA"
+  },
+  {
+    "brand": "TOSCIDO",
     "name": "T50",
     "codename": "T50"
   },
@@ -150841,6 +150916,11 @@
   },
   {
     "brand": "Todos",
+    "name": "TABAI1",
+    "codename": "TABAI1"
+  },
+  {
+    "brand": "Todos",
     "name": "Tab64",
     "codename": "Tab64"
   },
@@ -152003,6 +152083,11 @@
     "brand": "UNIQ-CELL",
     "name": "K7_PRO",
     "codename": "K7_PRO"
+  },
+  {
+    "brand": "UNIQ-CELL",
+    "name": "UNIQ0122",
+    "codename": "UNIQ0122"
   },
   {
     "brand": "UNIQ-CELL",
@@ -162681,6 +162766,11 @@
   },
   {
     "brand": "X-View",
+    "name": "Q7",
+    "codename": "Q7"
+  },
+  {
+    "brand": "X-View",
     "name": "Tablet10_X-View",
     "codename": "Tablet10_X_View"
   },
@@ -164263,6 +164353,11 @@
     "brand": "YOUIN",
     "name": "SEI600EN",
     "codename": "HND"
+  },
+  {
+    "brand": "YOUTAB",
+    "name": "YOUTAB_S7",
+    "codename": "YOUTAB_S7"
   },
   {
     "brand": "YQSAVIOR",

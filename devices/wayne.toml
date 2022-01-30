@@ -34,3 +34,14 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Marcos Almeida"
 active = false
+
+[specs]
+cpu = "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)"
+weight = "166 g (5.86 oz)"
+year = "2018, July 24"
+os = "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie), Android One"
+chipset = "Qualcomm SDM660 Snapdragon 660 (14 nm)"
+gpu = "Adreno 512"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 73h"
+internalmemory = "32GB 4GB RAM, 64GB 4GB RAM, 128GB 6GB RAM"
