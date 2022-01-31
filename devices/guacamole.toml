@@ -23,7 +23,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/guacamole/Havoc-OS-v4.12-20220104-guacamole-Official-GApps.zip"
+url = "https://download.havoc-os.com/guacamole/Havoc-OS-v4.13-20220130-guacamole-Official-GApps.zip"
 maintainer = "Anushek Prasal"
 group = "https://t.me/+Vavim64zaoacn9Mv"
 

@@ -15,6 +15,12 @@ id = "dotos"
 id = "evolutionx"
 
 [[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/X00TD/Havoc-OS-v4.13-20220130-X00TD-Official-GApps.zip"
+maintainer = "Sukeerat Singh Goindi"
+group = "t.me/+BaJnedaBMMQxNzg9"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 260"
 ram = "3/4/6 GB"

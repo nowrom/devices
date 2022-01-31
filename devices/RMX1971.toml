@@ -6,6 +6,10 @@ codename = "RMX1971"
 id = "pixelextended"
 
 [[roms]]
+id = "ancientos"
+photo = "https://telegra.ph/file/ff948e189daf62c245f27.png"
+
+[[roms]]
 id = "blissroms"
 
 [[roms]]

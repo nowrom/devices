@@ -62,3 +62,14 @@ active = true
 id = "sparkos"
 group = "https://t.me/Uchiha_Clan_Begonia"
 download = "https://downloads.spark-os.live/begonia/Spark-S-Energized-OFFICIAL-begonia-20220118.zip"
+
+[specs]
+cpu = "Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"
+weight = "200 g (7.05 oz)"
+year = "2019, August 29"
+os = "Android 9.0 (Pie), upgradable to Android 11, MIUI 12.5"
+chipset = "Mediatek Helio G90T (12nm)"
+gpu = "Mali-G76 MC4"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 114h"
+internalmemory = "64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"

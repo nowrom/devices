@@ -85,3 +85,14 @@ download = "https://downloads.spark-os.live/phoenix/Spark-S-Energized-OFFICIAL-p
 
 [[roms]]
 id = "evolutionx"
+
+[specs]
+cpu = "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)"
+weight = "208 g (7.34 oz)"
+year = "2019, December 10"
+os = "Android 10, MIUI 11"
+chipset = "Qualcomm SDM730 Snapdragon 730G (8 nm)"
+gpu = "Adreno 618"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 101h"
+internalmemory = "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"

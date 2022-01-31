@@ -1,6 +1,9 @@
+brand = "Lenovo"
 name = "Z6Pro"
 codename = "zippo"
-brand = "Lenovo"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "lineageos"
@@ -15,6 +18,9 @@ id = "revengeos"
 id = "sparkos"
 group = "https://t.me/SparkOSCommunity"
 download = "https://downloads.spark-os.live/zippo/Spark-S-Energized-OFFICIAL-zippo-20220117.zip"
+
+[[roms]]
+id = "evolutionx"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"

@@ -3,6 +3,10 @@ name = "Nokia 8"
 codename = "NB1"
 
 [[roms]]
+id = "ancientos"
+photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices_gallery/main/Nokia8.png"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/NB1/Havoc-OS-v4.12-20211230-NB1-Official-GApps.zip"
 maintainer = "Edward Wu"

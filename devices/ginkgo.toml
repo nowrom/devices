@@ -32,7 +32,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/ginkgo/Havoc-OS-v4.12-20211230-ginkgo-Official-GApps.zip"
+url = "https://download.havoc-os.com/ginkgo/Havoc-OS-v4.13-20220130-ginkgo-Official-GApps.zip"
 maintainer = "Yash Kachave"
 group = "https://t.me/+awa7QCgR5Z03MzBi"
 

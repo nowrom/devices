@@ -1,6 +1,6 @@
+brand = "ZTE"
 name = "Z839V"
 codename = "sweet"
-brand = "ZTE"
 
 [[roms]]
 id = "pixelextended"
@@ -25,6 +25,9 @@ recovery = "https://androidfilehost.com/?w=files&flid=324059"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "pixelexperience"
@@ -63,6 +66,9 @@ id = "potato"
 id = "sparkos"
 group = "https://t.me/Spark_sweet"
 download = "https://downloads.spark-os.live/sweet/Spark-S-Energized-Official-sweet-20220126.zip"
+
+[[roms]]
+id = "evolutionx"
 
 [specs]
 cpu = "Not found"

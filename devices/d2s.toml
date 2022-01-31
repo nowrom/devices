@@ -3,6 +3,11 @@ name = "Galaxy Note10+"
 codename = "d2s"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://mega.nz/file/HIdRyIjK#UF0nw6glqHF1rU3jhHD4my5tQDmHbSKPlDEvIjgP3OY"
+recovery = "https://download.lineageos.org/d2s"
+
+[[roms]]
 id = "lineageos"
 cpu = "Exynos M4 & Cortex-A75 & Cortex-A55"
 ram = "12 GB"

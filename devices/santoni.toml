@@ -17,8 +17,8 @@ id = "blissroms"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://t.me/crDroidSantoni/66895"
-recovery = "https://sourceforge.net/projects/jabiyeff-build/files/Recovery/OrangeFox-R11.1_2-santoni-15.01.22.zip/download"
+gapps = "https://t.me/crDroidSantoni/69008"
+recovery = "https://t.me/crDroidSantoni/69025"
 
 [[roms]]
 id = "havocos"

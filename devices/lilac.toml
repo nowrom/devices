@@ -7,6 +7,6 @@ id = "blissroms"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/lilac/Havoc-OS-v4.12-20211222-lilac-Official-GApps.zip"
+url = "https://download.havoc-os.com/lilac/Havoc-OS-v4.13-20220130-lilac-Official-GApps.zip"
 maintainer = "Shashank Verma"
 group = "https://t.me/+f_X6QcJTdSE0OGU9"

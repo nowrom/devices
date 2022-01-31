@@ -3,6 +3,10 @@ name = "Moto X (4)"
 codename = "payton"
 
 [[roms]]
+id = "ancientos"
+photo = "https://www.seekpng.com/png/full/238-2388518_moto-x4.png"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
