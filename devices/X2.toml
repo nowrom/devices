@@ -4,7 +4,7 @@ codename = "X2"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/X2/Havoc-OS-v4.12-20220101-X2-Official-GApps.zip"
+url = "https://download.havoc-os.com/X2/Havoc-OS-v4.13-20220131-X2-Official-GApps.zip"
 maintainer = "Hritwik"
 group = "https://t.me/+SSe9DonmAlFhMDk1"
 

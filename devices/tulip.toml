@@ -28,7 +28,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/tulip/Havoc-OS-v4.12-20211227-tulip-Official-GApps.zip"
+url = "https://download.havoc-os.com/tulip/Havoc-OS-v4.13-20220131-tulip-Official-GApps.zip"
 maintainer = "Akhil MS"
 group = "https://t.me/+lC3wpdFw0CdmMTk1"
 

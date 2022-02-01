@@ -12,7 +12,6 @@ photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4-sn.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "Ganesh Varma, Sonal Singh"
-changelog = "- Upstream device sources\r\n- Move to R HALS\r\n- Switch to 4.9 kernel\r\n- Upstream blobs\r\n\r\nNote:\r\n* Mido breathes *\r\n- A clean flash is recommended if coming from previous builds."
 
 [[roms]]
 id = "blissroms"

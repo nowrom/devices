@@ -28,8 +28,8 @@ id = "dotos"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/vayu/Havoc-OS-v4.12-20211226-vayu-Official-GApps.zip"
-maintainer = "Rahul Yadav"
+url = "https://download.havoc-os.com/vayu/Havoc-OS-v4.13-20220131-vayu-Official-GApps.zip"
+maintainer = "Alisson Grizotti"
 group = "https://t.me/havocofficial"
 
 [[roms]]

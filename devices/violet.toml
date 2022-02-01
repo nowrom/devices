@@ -28,7 +28,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/violet/Havoc-OS-v4.12-20211223-violet-Official-GApps.zip"
+url = "https://download.havoc-os.com/violet/Havoc-OS-v4.13-20220131-violet-Official-GApps.zip"
 maintainer = "Athul Dinesan"
 group = "https://t.me/+r2lq1BYhIdM5ZDY1"
 
