@@ -8,7 +8,7 @@ import {
 import { createClient } from 'https://raw.githubusercontent.com/Tricked-dev/supabase-js/f90fcf1a603b695795e99b769e669b63ce79407a/mod.ts';
 import { getPhone } from './gsm.ts';
 import { Devices, ROM, Roms } from './types.ts';
-
+import { Image } from 'https://deno.land/x/imagescript@1.2.9/mod.ts';
 const PORT = 8000;
 
 const devices: Devices[] = JSON.parse(
@@ -97,12 +97,35 @@ export const routes = createRouteMap([
 	],
 	[
 		'/img/*',
-		(req: Pick<AugmentedRequest, 'routeParams'>) => {
+		async (req: Pick<AugmentedRequest, 'routeParams'>) => {
 			const [img] = req.routeParams;
-			return Response.redirect(
-				`https://hdabbjaktgetmyexzjtf.supabase.in/storage/v1/object/public/devices/${img}`,
-				307
-			);
+			const [bg, phone] = await Promise.all([
+				(async () => {
+					let data = await Deno.readFile('Banner.png');
+
+					return await Image.decode(data);
+				})(),
+				(async () => {
+					let phon = await fetch(
+						`https://hdabbjaktgetmyexzjtf.supabase.in/storage/v1/object/public/devices/${img}`
+					).then((r) => {
+						if (r.status !== 200) return undefined;
+						else return r.arrayBuffer();
+					});
+
+					if (phon) return await Image.decode(phon);
+					else return undefined;
+				})(),
+			]);
+			if (!phone)
+				return new Response(undefined, {
+					status: 400,
+				});
+
+			bg.composite(phone, 600 - phone.width / 2, 50);
+			return new Response(await bg.encode(), {
+				status: 200,
+			});
 		},
 	],
 	[
