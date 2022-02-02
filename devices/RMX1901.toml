@@ -7,3 +7,14 @@ id = "pixelextended"
 
 [[roms]]
 id = "cherishos"
+
+[specs]
+cpu = "Octa-core (1x3.0 GHz Cortex-A78 & 3x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)"
+weight = "179 g (6.31 oz)"
+year = "2021, May 31"
+os = "Android 11, Realme UI 2.0"
+chipset = "MediaTek MT6893 Dimensity 1200 5G (6 nm)"
+gpu = "Mali-G77 MC9"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 110h"
+internalmemory = "128GB 8GB RAM, 256GB 12GB RAM"

@@ -5,7 +5,6 @@ codename = "tucana"
 [[roms]]
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
-changelog = "Test Build 26-01-2022"
 
 [[roms]]
 id = "pixelexperience"

@@ -12,7 +12,7 @@ photo = "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms
 [[roms]]
 id = "arrowos"
 maintainer = "Aftab Ashrafi"
-changelog = "- Updated blobs to LA.UM.9.1.r1-10200-SMxxx0.0\r\n- Removed Violet parts and added Mi sound Enhancer to Settings>sounds and fps meter can be accessed through QS tiles\r\n- Removed Smart Charging\r\n- Enabled 24bit Playback as default\r\n- Fixes weird touch/scroll issues on fp touch event\r\n- Added Color modes \r\n- Enabled iorap\r\n- Rebased and updated kernel to LA.UM.9.1.r1-10200-SMxxx0.0\r\n- Upstreamed media HAL to LA.UM.9.1.r1-10200-SMxxx0.0\r\n- Added LSE Atomic Optimization\r\n- Added Dev frequency boost\r\n- Backported LZ4 from mainline"
+changelog = "with wrapped key encryption, if encrypted on a build older than Jan 2022, you will need clean flash\r\n\r\n- Widevine L1 fixed\r\n- Tethering/OTG fixed\r\n- Encryption fixed (with aosp recovery)\r\n- Switched to Enforcing\r\n- Switched to Qti Bt\r\n- Fixed several bugs"
 
 [[roms]]
 id = "blissroms"

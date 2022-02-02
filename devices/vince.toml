@@ -26,7 +26,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/vince/Havoc-OS-v4.12-20211226-vince-Official-GApps.zip"
+url = "https://download.havoc-os.com/vince/Havoc-OS-v4.13-20220201-vince-Official-GApps.zip"
 maintainer = "Mohammed Adnan"
 group = "https://t.me/+VHjIg542KdDqPfp4"
 

@@ -8,8 +8,7 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-lmi-the-kraken-project-a
 
 [[roms]]
 id = "arrowos"
-maintainer = "TH779, lamp216"
-changelog = "- Firmware and vendor require V12.2.1.0.RJKCNXM.\r\n\r\n- Device: https://github.com/ArrowOS-Devices/android_device_xiaomi_lmi/commits/arrow-11.0\r\n- Blobs: https://github.com/ArrowOS-Devices/android_vendor_xiaomi_lmi/commits/arrow-11.0"
+maintainer = "TH779"
 
 [[roms]]
 id = "cherishos"

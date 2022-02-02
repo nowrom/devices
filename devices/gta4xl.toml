@@ -1,6 +1,6 @@
 brand = "Samsung"
 name = "Galaxy Tab S6 Lite"
-codename = "gta4xlwifi"
+codename = "gta4xl"
 
 [[roms]]
 id = "lineageos"
