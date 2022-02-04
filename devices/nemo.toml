@@ -1,0 +1,8 @@
+codename = "nemo"
+brand = "LGE"
+name = "LG Watch Urbane 2nd Edition LTE"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "paulobrien"

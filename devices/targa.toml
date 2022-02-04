@@ -1,6 +1,7 @@
 brand = "Motorola"
 name = "Droid Bionic"
 codename = "targa"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

@@ -1,0 +1,8 @@
+codename = "skipjack"
+brand = "Mobvoi"
+name = "TicWatch C2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "simonsmh"

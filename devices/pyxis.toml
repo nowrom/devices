@@ -1,6 +1,6 @@
+codename = "pyxis"
 brand = "Xiaomi"
 name = "Mi 9 Lite"
-codename = "pyxis"
 
 [[roms]]
 id = "blissroms"
@@ -13,3 +13,8 @@ id = "revengeos"
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-cc9/development/recovery-unofficial-twrp-xiaomi-mi-9-t4029705"
+maintainer = "Mauronofrio"

@@ -1,0 +1,8 @@
+codename = "crespo"
+brand = "Samsung"
+name = "Nexus S"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

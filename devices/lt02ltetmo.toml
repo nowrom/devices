@@ -1,0 +1,8 @@
+codename = "lt02ltetmo"
+brand = "Samsung"
+name = "Galaxy Tab3 7.0"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

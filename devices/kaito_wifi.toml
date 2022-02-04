@@ -1,0 +1,8 @@
+codename = "kaito_wifi"
+brand = "BQ"
+name = "BQ Aquaris E10"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

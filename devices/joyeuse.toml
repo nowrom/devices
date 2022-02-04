@@ -1,6 +1,7 @@
 brand = "Redmi"
 name = "Redmi Note 9 Pro"
 codename = "joyeuse"
+recoveries = []
 
 [[roms]]
 id = "AOSPK"

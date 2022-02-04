@@ -1,6 +1,6 @@
+codename = "dipper"
 brand = "Xiaomi"
 name = "MI 8"
-codename = "dipper"
 
 [[roms]]
 id = "dotos"
@@ -38,3 +38,12 @@ deprecated = false
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-8/development/recovery-unofficial-twrp-recovery-t3893823"
+maintainer = "Mauronofrio"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

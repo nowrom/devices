@@ -1,0 +1,9 @@
+codename = "NX609J"
+brand = "ZTE"
+name = "NX609J"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/red-magic/development/nx609j-twrp-stock-rominternational-t3964626"
+maintainer = "youyim, Captain_Throwback"

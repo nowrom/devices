@@ -1,6 +1,6 @@
+codename = "channel"
 brand = "T-Mobile"
 name = "REVVLRY"
-codename = "channel"
 
 [[roms]]
 id = "arrowos"
@@ -18,3 +18,7 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Amy Grace"
 active = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "SyberHexen"

@@ -1,6 +1,7 @@
 brand = "Sony"
 name = "Xperia Z3+"
 codename = "ivy"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

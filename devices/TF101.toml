@@ -1,0 +1,8 @@
+codename = "TF101"
+brand = "Asus"
+name = "Eee Pad Transformer"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

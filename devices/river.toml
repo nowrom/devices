@@ -1,6 +1,6 @@
+codename = "river"
 brand = "Motorola"
 name = "moto g(7)"
-codename = "river"
 
 [[roms]]
 id = "pixelextended"
@@ -44,3 +44,7 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-river-pixelexperience-aosp.4394653"
 stable = true
 deprecated = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "SyberHexen"

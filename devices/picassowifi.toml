@@ -1,0 +1,9 @@
+codename = "picassowifi"
+brand = "Samsung"
+name = "Galaxy Tab Pro 10.1"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/showthread.php?t=2679825"
+maintainer = "None"

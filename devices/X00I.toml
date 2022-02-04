@@ -1,0 +1,9 @@
+codename = "X00I"
+brand = "Asus"
+name = "Asus ZenFone 4 Max"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/zenfone-4-max/development/recovery-twrp-3-1-1-0-asus-zenfone-4-max-t3684498"
+maintainer = "aaaaaaziskurnia"

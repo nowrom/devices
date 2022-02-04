@@ -1,6 +1,7 @@
 brand = "Android"
 name = "GSI - ARM"
 codename = "arm"
+recoveries = []
 
 [[roms]]
 id = "dotos"

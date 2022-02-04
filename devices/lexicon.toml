@@ -1,0 +1,8 @@
+codename = "lexicon"
+brand = "HTC"
+name = "HTC Merge"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

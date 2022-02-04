@@ -1,0 +1,8 @@
+codename = "p6810"
+brand = "Samsung"
+name = "Samsung Galaxy Tab 7.7"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

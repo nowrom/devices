@@ -1,6 +1,7 @@
 brand = "HTC"
 name = "One M9 (GSM)"
 codename = "himaul"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

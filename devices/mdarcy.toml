@@ -1,0 +1,9 @@
+codename = "mdarcy"
+brand = "NVIDIA"
+name = "SHIELD TV Pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/shield-tv/development/recovery-twrp-shield-android-tv-t3510456"
+maintainer = "webgeek1234"

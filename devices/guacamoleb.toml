@@ -1,6 +1,6 @@
+codename = "guacamoleb"
 brand = "OnePlus"
 name = "OnePlus 7"
-codename = "guacamoleb"
 
 [[roms]]
 id = "evolutionx"
@@ -27,3 +27,8 @@ deprecated = true
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project.4289455/"
+maintainer = "Nebrassy"

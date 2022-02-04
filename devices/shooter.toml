@@ -1,0 +1,9 @@
+codename = "shooter"
+brand = "HTC"
+name = "EVO 3D"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/htc-evo-3d/cdma-development/recovery-twrp-touch-recovery-selinux-t3063642"
+maintainer = "None"

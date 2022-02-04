@@ -1,6 +1,6 @@
+codename = "a30"
 brand = "Samsung"
 name = "Galaxy A30"
-codename = "a30"
 
 [[roms]]
 id = "sakura"
@@ -8,3 +8,11 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Haridhayal"
 active = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "topser9"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

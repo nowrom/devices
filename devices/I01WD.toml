@@ -1,6 +1,6 @@
+codename = "I01WD"
 brand = "Asus"
 name = "Asus ZenFone 6"
-codename = "I01WD"
 
 [[roms]]
 id = "blissroms"
@@ -16,3 +16,8 @@ id = "lineageos"
 cpu = "Kryo 485"
 ram = "6/8 GB"
 wifi = "802.11 a/b/g/n/ac"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/zenfone-6-2019/development/recovery-unofficial-twrp-recovery-asus-t3937844"
+maintainer = "bigbiff, micky387"

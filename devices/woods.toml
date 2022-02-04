@@ -1,0 +1,8 @@
+codename = "woods"
+brand = "Motorola"
+name = "Motorola Moto E4"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "dumbDevpr*"

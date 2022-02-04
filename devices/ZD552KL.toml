@@ -1,0 +1,9 @@
+codename = "ZD552KL"
+brand = "Asus"
+name = "ASUS ZenFone 4 Selfie Pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/zenfone-4-selfie/development/recovery-twrp-3-4-0-0-zenfone-4-selfie-t4129731"
+maintainer = "2003Frost and Seplx"

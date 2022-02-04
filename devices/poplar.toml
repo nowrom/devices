@@ -1,4 +1,10 @@
 codename = "poplar"
+brand = "Sony"
+name = "Sony Xperia XZ1"
 
 [[roms]]
 id = "blissroms"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "cryptomilk & derfelot"

@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy S6"
 codename = "zerofltexx"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

@@ -1,0 +1,9 @@
+codename = "catfish"
+brand = "Mobvoi"
+name = "TicWatch Pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/smartwatch/other-smartwatches/recovery-official-twrp-ticwatch-pro-t3862998"
+maintainer = "Isaac Chen"

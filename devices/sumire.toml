@@ -1,6 +1,7 @@
 brand = "Sony"
 name = "Xperia Z5"
 codename = "sumire"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

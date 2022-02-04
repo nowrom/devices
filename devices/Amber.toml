@@ -1,6 +1,7 @@
 brand = "Yandex"
 name = "YNDX-000SB"
 codename = "Amber"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

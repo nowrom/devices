@@ -1,9 +1,14 @@
+codename = "kccat6"
 brand = "Samsung"
 name = "Galaxy S5 LTE-A"
-codename = "kccat6"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait 450"
 ram = "2 GB"
 wifi = "802.11 a/b/g/n/ac"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/galaxy-s5/orig-development/recovery-team-win-recovery-project-t3350160"
+maintainer = "None"

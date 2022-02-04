@@ -1,0 +1,8 @@
+codename = "j1acelte"
+brand = "Samsung"
+name = "Galaxy J1 Ace"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

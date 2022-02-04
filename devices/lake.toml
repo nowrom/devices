@@ -1,6 +1,6 @@
+codename = "lake"
 brand = "Motorola"
 name = "moto g(7) plus"
-codename = "lake"
 
 [[roms]]
 id = "AOSPK"
@@ -49,3 +49,8 @@ id = "revengeos"
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/g7-plus/development/recovery-twrp-3-3-0-moto-g7-plus-t3930050"
+maintainer = "Jleeblanch"

@@ -1,0 +1,8 @@
+codename = "marvel"
+brand = "HTC"
+name = "Wildfire S"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

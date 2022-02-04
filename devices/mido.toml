@@ -1,6 +1,6 @@
+codename = "mido"
 brand = "Xiaomi"
 name = "Redmi Note 4"
-codename = "mido"
 
 [[roms]]
 id = "pixelextended"
@@ -69,6 +69,14 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.9"
 developer = "hnaamdev41"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Mauronofrio"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
 
 [specs]
 cpu = "Octa-core 2.0 GHz Cortex-A53"

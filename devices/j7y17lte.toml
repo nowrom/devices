@@ -1,0 +1,8 @@
+codename = "j7y17lte"
+brand = "Samsung"
+name = "Galaxy J7 Pro"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = false

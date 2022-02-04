@@ -1,0 +1,9 @@
+codename = "dl750"
+brand = "Alcatel"
+name = "Alcatel Pop D3"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/android/general/recovery-alcatel-pop-d3-t3522092"
+maintainer = "nashj1975"

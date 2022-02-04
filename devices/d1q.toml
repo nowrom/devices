@@ -1,0 +1,8 @@
+codename = "d1q"
+brand = "Samsung"
+name = "Galaxy Note10"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mentalmuso"

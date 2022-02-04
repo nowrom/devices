@@ -1,6 +1,7 @@
 brand = "BQ"
 name = "Aquaris X5"
 codename = "paella"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

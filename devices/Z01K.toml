@@ -1,0 +1,9 @@
+codename = "Z01K"
+brand = "Asus"
+name = "ASUS ZenFone 4 (2017)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/zenfone-4-2017/development/recovery-twrp-3-1-1-0-ze554kl-t3692195"
+maintainer = "shakalaca"

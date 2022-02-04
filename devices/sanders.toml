@@ -1,6 +1,6 @@
+codename = "sanders"
 brand = "Motorola"
 name = "Moto G (5S) Plus"
-codename = "sanders"
 
 [[roms]]
 id = "AOSPK"
@@ -53,6 +53,14 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "ArmSM"
 active = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "iamsaalim"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
 
 [specs]
 cpu = "Not found"

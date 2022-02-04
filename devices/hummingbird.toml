@@ -1,0 +1,8 @@
+codename = "hummingbird"
+brand = "Barnes and Noble"
+name = "NOOK® HD"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "airend"

@@ -1,6 +1,6 @@
+codename = "kebab"
 brand = "OnePlus"
 name = "oneplus 8T"
-codename = "kebab"
 
 [[roms]]
 id = "pixelextended"
@@ -66,6 +66,11 @@ active = true
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-alpha-teamwin-recovery-project-8t-kebab-2021-09-04.4302449/"
+maintainer = "theincognito"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.8 GHz Kryo 585)"

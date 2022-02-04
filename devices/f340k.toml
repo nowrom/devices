@@ -1,0 +1,8 @@
+codename = "f340k"
+brand = "LG"
+name = "LG G Flex Korean"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

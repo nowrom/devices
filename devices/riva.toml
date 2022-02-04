@@ -1,6 +1,6 @@
+codename = "riva"
 brand = "Xiaomi"
 name = "Redmi 5A"
-codename = "riva"
 
 [[roms]]
 id = "pixelexperience"
@@ -19,3 +19,12 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.9"
 developer = "erwinabs"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/android/development/recovery-twrp-3-1-1-0-xiaomi-redmi-5a-t3712243"
+maintainer = "none"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

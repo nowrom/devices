@@ -1,6 +1,6 @@
+codename = "RMX1921"
 brand = "Realme"
 name = "realme XT"
-codename = "RMX1921"
 
 [[roms]]
 id = "ancientos"
@@ -30,3 +30,12 @@ maintainer = "ThatisJigen"
 github = "https://github.com/thatisjigen"
 donation_link = "https://paypal.me/thatisjigen"
 photo = "https://avatars.githubusercontent.com/u/55486333"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/realme-xt/development/recovery-unofficial-twrp-realme-xt-beta-t4044571"
+maintainer = "pjgowtham"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

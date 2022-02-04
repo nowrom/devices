@@ -1,0 +1,9 @@
+codename = "guamp"
+brand = "Motorola"
+name = "moto g(9) play"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-teamwin-recovery-project-3-6-0-for-motorola-g9-play-guamp.4364415/"
+maintainer = "MD Raza (RazaDroid)"

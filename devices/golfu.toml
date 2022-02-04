@@ -1,0 +1,8 @@
+codename = "golfu"
+brand = "HTC"
+name = "Desire C"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

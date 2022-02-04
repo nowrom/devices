@@ -1,6 +1,7 @@
 brand = "HTC"
 name = "One (M8) Dual SIM"
 codename = "m8d"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

@@ -1,0 +1,8 @@
+codename = "ville"
+brand = "HTC"
+name = "One S"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mdmower"

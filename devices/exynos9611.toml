@@ -1,0 +1,8 @@
+codename = "exynos9611"
+brand = "Samsung"
+name = "Galaxy M21/M31/F41"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = true

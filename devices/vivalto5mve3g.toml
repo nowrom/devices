@@ -1,0 +1,8 @@
+codename = "vivalto5mve3g"
+brand = "Samsung"
+name = "Galaxy Ace4"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Khalid"

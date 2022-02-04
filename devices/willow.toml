@@ -1,0 +1,9 @@
+codename = "willow"
+brand = "SK Telesys"
+name = "ITP-E410W"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/redmi-note-8/development/recovery-unofficial-twrp-xiaomi-redmi-t3997267"
+maintainer = "erwinabs"

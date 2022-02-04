@@ -1,6 +1,6 @@
+codename = "enchilada"
 brand = "Oneplus"
 name = "oneplus 6"
-codename = "enchilada"
 
 [[roms]]
 id = "pixelextended"
@@ -68,6 +68,12 @@ developer = "DennySPb"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
+version = "v2.9"
+developer = "DennySPb"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
 version = "v4.9"
 developer = "DennySPb"
 
@@ -77,11 +83,10 @@ romtype = "OFFICIAL"
 version = "v5.1"
 developer = "DennySPb"
 
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
-version = "v2.9"
-developer = "DennySPb"
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project.4306803/"
+maintainer = "Nebrassy"
 
 [specs]
 cpu = "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"

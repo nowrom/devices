@@ -1,0 +1,12 @@
+codename = "shamrock"
+brand = "Google"
+name = "Android One Third Generation"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Rygebin"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

@@ -1,6 +1,7 @@
 brand = "GSI"
 name = "ARM-Aonly"
 codename = "arm-aonly"
+recoveries = []
 
 [[roms]]
 id = "havocos"

@@ -1,0 +1,9 @@
+codename = "z2x"
+brand = "ZUK"
+name = "ZUK Edge"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/zuk-edge/development/official-twrp-3-1-1-0-zuk-edge-t3681176"
+maintainer = "Rygebin"

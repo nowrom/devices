@@ -1,0 +1,9 @@
+codename = "karatep"
+brand = "Lenovo"
+name = "Lenovo K53"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/android/development/recovery-twrp-3-0-2-lenovo-vibe-k6-t3618912"
+maintainer = "karthick111"

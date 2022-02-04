@@ -1,0 +1,8 @@
+codename = "coreprimelte"
+brand = "Samsung"
+name = "Galaxy Core Prime"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

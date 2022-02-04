@@ -1,6 +1,7 @@
 brand = "YU"
 name = "Yuphoria"
 codename = "lettuce"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

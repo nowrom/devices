@@ -1,0 +1,9 @@
+codename = "Gigaset_GS4"
+brand = "Gigaset"
+name = "Gigaset GS4"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/root-gigaset-gs4.4219439/#post-85111317"
+maintainer = "StarMiner99"

@@ -1,6 +1,7 @@
 brand = "Wings"
 name = "W7"
 codename = "W7"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

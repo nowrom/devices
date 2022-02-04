@@ -1,0 +1,8 @@
+codename = "protou"
+brand = "HTC"
+name = "desire x"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

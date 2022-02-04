@@ -1,0 +1,9 @@
+codename = "hero2qltechn"
+brand = "Samsung"
+name = "Galaxy S7 edge"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/s7-edge/development/recovery-official-twrp-galaxy-s7-edge-t3458589"
+maintainer = "jcadduono"

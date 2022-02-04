@@ -1,0 +1,8 @@
+codename = "j2lte"
+brand = "Samsung"
+name = "Galaxy J2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

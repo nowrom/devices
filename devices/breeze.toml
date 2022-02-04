@@ -1,4 +1,5 @@
 codename = "breeze"
+recoveries = []
 
 [[roms]]
 id = "blissroms"

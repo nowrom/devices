@@ -1,9 +1,13 @@
+codename = "ls990"
 brand = "LG"
 name = "G3 (Sprint)"
-codename = "ls990"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait 400"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

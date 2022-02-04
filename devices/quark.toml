@@ -1,0 +1,8 @@
+codename = "quark"
+brand = "Motorola"
+name = "Droid Turbo"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "BHB27"

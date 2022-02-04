@@ -1,0 +1,8 @@
+codename = "x201"
+brand = "Omate"
+name = "Omate TrueSmart"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy S6 Edge"
 codename = "zeroltexx"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

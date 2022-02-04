@@ -1,0 +1,8 @@
+codename = "U50A_ATT"
+brand = "TCT (Alcatel)"
+name = "TETRA"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "lehmancurtis147"

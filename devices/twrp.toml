@@ -1,0 +1,9 @@
+codename = "twrp"
+brand = "TWRP"
+name = "Android Emulator"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/showthread.php?p=32965365"
+maintainer = "Dees_Troy"

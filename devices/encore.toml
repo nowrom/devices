@@ -1,0 +1,8 @@
+codename = "encore"
+brand = "Barnes & Noble"
+name = "Barnes & Noble Nook Color"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

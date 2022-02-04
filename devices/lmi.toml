@@ -1,6 +1,7 @@
 brand = "Redmi"
 name = "K30 PRO"
 codename = "lmi"
+recoveries = []
 
 [[roms]]
 id = "AOSPK"

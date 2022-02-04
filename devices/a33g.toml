@@ -1,0 +1,8 @@
+codename = "a33g"
+brand = "Samsung"
+name = "Galaxy A3"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "PVineeth"

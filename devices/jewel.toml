@@ -1,0 +1,9 @@
+codename = "jewel"
+brand = "HTC"
+name = "EVO LTE 4G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/evo-4g-lte-sprint/orig-development/recovery-twrp-touch-recovery-t3068193"
+maintainer = "Dees_Troy, CaptainThrowback"

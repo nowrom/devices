@@ -1,6 +1,7 @@
 brand = "Oppo"
 name = "realme U1"
 codename = "RMX1831"
+recoveries = []
 
 [[roms]]
 id = "cherishos"

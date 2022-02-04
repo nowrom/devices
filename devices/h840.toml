@@ -1,0 +1,9 @@
+codename = "h840"
+brand = "LG"
+name = "LG G5 SE International"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/lg-g5/development/twrp-3-0-2-0-lg-g5-h840-t3604778"
+maintainer = "None"

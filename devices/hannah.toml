@@ -1,9 +1,13 @@
+codename = "hannah"
 brand = "Motorola"
 name = "moto e5 plus"
-codename = "hannah"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n, Dual band, Wi-Fi Direct, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Karthick111"

@@ -1,0 +1,9 @@
+codename = "pico"
+brand = "HTC"
+name = "Explorer A310e"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/htc-explorer/orig-development/twrp-2-8-7-0-twrp-htc-explorer-t3282943"
+maintainer = "MSF-Jarvis"

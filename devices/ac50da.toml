@@ -1,0 +1,8 @@
+codename = "ac50da"
+brand = "Archos"
+name = "50 Diamond"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "phh"

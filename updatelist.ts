@@ -28,6 +28,8 @@ import {
 	UpdateFunction,
 	xiaomieu,
 } from './lib/mod.ts';
+import { orangefox } from './orangefox.ts';
+import { twrp } from './twrp.ts';
 
 const specs = await fetch('https://nowrom.deno.dev/specs').then((r) =>
 	r.json()
@@ -36,7 +38,7 @@ const specs = await fetch('https://nowrom.deno.dev/specs').then((r) =>
 const stored_devices = new Map();
 
 function getDevice(id: string) {
-	return stored_devices.get(id?.toLowerCase()) || { roms: [] };
+	return stored_devices.get(id?.toLowerCase()) || { roms: [], recoveries: [] };
 }
 
 async function run(fn: UpdateFunction) {
@@ -50,7 +52,9 @@ async function run(fn: UpdateFunction) {
 				...device,
 			};
 			delete device.rom;
-			device.roms.push(r.rom);
+			delete device.recovery;
+			if (r.rom) device.roms.push(r.rom);
+			if (r.recovery) device.recoveries.push(r.recovery);
 			device.codename = device.codename.trim();
 			stored_devices.set(device.codename.toLowerCase().trim(), device);
 		});
@@ -68,7 +72,11 @@ await Promise.all(
 					await Deno.readTextFile(`./static/devices/${x.name}`)
 				);
 				//@ts-ignore -
-				stored_devices.set(file.codename.toLowerCase(), file);
+				stored_devices.set(file.codename.toLowerCase(), {
+					//@ts-ignore -
+					...getDevice(file.codename.toLowerCase()),
+					...file,
+				});
 			} catch (e) {}
 		})
 );
@@ -97,6 +105,9 @@ await run(spark);
 await run(evolutionx);
 await run(syberia);
 await run(xiaomieu);
+
+await run(twrp);
+await run(orangefox);
 
 const overwrites = JSON.parse(await Deno.readTextFile('./overwrites.json'));
 for (const [k, v] of stored_devices) {
@@ -145,7 +156,10 @@ for (const spec of specs) {
 	delete spec.codename;
 	phone.specs = spec;
 }
-
+// for (const x of [...stored_devices.values()]) {
+// 	console.log(x.codename, x);
+// 	await Deno.writeTextFile(`devices/${x.codename}.toml`, stringify(x));
+// }
 await Promise.all(
 	[...stored_devices.values()].map((x) => {
 		return Deno.writeTextFile(`devices/${x.codename}.toml`, stringify(x));

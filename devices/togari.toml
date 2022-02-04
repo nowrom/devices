@@ -1,0 +1,8 @@
+codename = "togari"
+brand = "Sony"
+name = "Sony Xperia Z Ultra"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

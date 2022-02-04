@@ -1,0 +1,9 @@
+codename = "raphaelin"
+brand = "Redmi"
+name = "Mi  9T  Pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/k20-pro/development/recovery-unofficial-twrp-xiaomi-redmi-t3944363"
+maintainer = "Mauronofrio"

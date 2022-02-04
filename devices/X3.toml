@@ -1,6 +1,6 @@
+codename = "X3"
 brand = "YesTeL"
 name = "X3"
-codename = "X3"
 
 [[roms]]
 id = "legionos"
@@ -8,3 +8,8 @@ active = true
 maintainer = "Patriot06"
 github = "https://github.com/Patriot-06"
 donation_link = "https://www.paypal.me/patriot235"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/leeco-le-1s/development/official-twrp-t3527566"
+maintainer = "DroidThug"

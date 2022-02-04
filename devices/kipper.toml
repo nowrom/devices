@@ -1,6 +1,7 @@
 brand = "Wileyfox"
 name = "Storm"
 codename = "kipper"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

@@ -1,6 +1,7 @@
 codename = "GM8_sprout"
 name = "GM8"
 brand = "General Mobile"
+recoveries = []
 
 [[roms]]
 id = "arrowos"

@@ -1,0 +1,9 @@
+codename = "vela"
+brand = "Meitu"
+name = "MI CC 9 Meitu Edition"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-cc9/development/recovery-unofficial-twrp-xiaomi-mi-9-t4029705"
+maintainer = "Mauronofrio"

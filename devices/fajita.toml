@@ -1,6 +1,6 @@
+codename = "fajita"
 brand = "Oneplus"
 name = "oneplus 6T"
-codename = "fajita"
 
 [[roms]]
 id = "pixelextended"
@@ -51,11 +51,16 @@ id = "evolutionx"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.1"
-developer = "SevralT"
+version = "v2.9"
+developer = "coderzstas"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v2.9"
-developer = "coderzstas"
+version = "v5.1"
+developer = "SevralT"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/oneplus-6t/development/recovery-unofficial-twrp-touch-recovery-t3861482"
+maintainer = "Mauronofrio"

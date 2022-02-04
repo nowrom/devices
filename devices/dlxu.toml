@@ -1,0 +1,8 @@
+codename = "dlxu"
+brand = "HTC"
+name = "Butterfly"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

@@ -1,0 +1,8 @@
+codename = "villec"
+brand = "HTC"
+name = "HTC One S (S3 processor)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

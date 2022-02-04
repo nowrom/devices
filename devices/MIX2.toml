@@ -1,0 +1,9 @@
+codename = "MIX2"
+brand = "AllCall"
+name = "MIX2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/android/development/twrp-3-2-3-0-oukitel-mix-2-mt6757-t3877283"
+maintainer = "thanasxda"

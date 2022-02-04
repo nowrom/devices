@@ -1,6 +1,6 @@
+codename = "gemini"
 brand = "Xiaomi"
 name = "Mi 5"
-codename = "gemini"
 
 [[roms]]
 id = "lineageos"
@@ -21,3 +21,8 @@ deprecated = true
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/mi-5/development/rom-pixel-experience-t4207127"
 deprecated = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/mi-5/development/recovery-twrp-xiaomi-mi-5-t3412123"
+maintainer = "Bruno Martins (bgcngm), Louis Popi (h2o64)"

@@ -1,6 +1,6 @@
 codename = "clover"
-name = "MI PAD 4"
 brand = "Xiaomi"
+name = "MI PAD 4"
 
 [[roms]]
 id = "arrowos"
@@ -9,3 +9,11 @@ changelog = "-"
 
 [[roms]]
 id = "blissroms"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "TH779"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

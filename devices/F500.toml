@@ -1,0 +1,12 @@
+codename = "F500"
+brand = "Emtec"
+name = "Gaming Android Gem Box"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "lomatik"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "steadfasterX"

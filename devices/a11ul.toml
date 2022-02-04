@@ -1,0 +1,9 @@
+codename = "a11ul"
+brand = "HTC"
+name = "HTC Desire 510 EU"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = ""
+maintainer = "PatrikKT"

@@ -1,6 +1,6 @@
+codename = "santoni"
 brand = "Xiaomi"
 name = "Redmi 4X"
-codename = "santoni"
 
 [[roms]]
 id = "ancientos"
@@ -31,3 +31,12 @@ id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
 ram = "2/3/4 GB"
 wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/xiaomi-redmi-4x/development/recovery-twrp-3-1-1-xiaomi-redmi-4x-t3633049"
+maintainer = "Isaac Chen"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

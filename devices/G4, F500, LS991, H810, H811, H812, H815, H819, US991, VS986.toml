@@ -1,0 +1,9 @@
+codename = "G4, F500, LS991, H810, H811, H812, H815, H819, US991, VS986"
+brand = "LG"
+name = "LG G4"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/g4/development/recovery-twrp-3-touch-recovery-t3442424"
+maintainer = "steadfasterX"

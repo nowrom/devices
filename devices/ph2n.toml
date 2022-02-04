@@ -1,0 +1,8 @@
+codename = "ph2n"
+brand = "LGE"
+name = "LG Stylus2 Plus"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "messi2050"

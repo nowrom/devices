@@ -1,0 +1,8 @@
+codename = "ACE"
+brand = "X-Age"
+name = "ACE"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

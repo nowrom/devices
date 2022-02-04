@@ -1,0 +1,9 @@
+codename = "huanghe"
+brand = "Huami"
+name = "Amazfit Pace"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/smartwatch/amazfit/twrp-unofficial-twrp-3-x-recovery-t3851089"
+maintainer = "Mauronofrio"

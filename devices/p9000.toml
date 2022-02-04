@@ -1,0 +1,8 @@
+codename = "p9000"
+brand = "Elephone"
+name = "Elephone P9000"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Ruben7173"

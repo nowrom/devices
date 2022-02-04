@@ -1,6 +1,7 @@
 brand = "Sony"
 name = "Xperia Tablet Z2 Wi-Fi"
 codename = "castor_windy"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

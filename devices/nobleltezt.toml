@@ -1,4 +1,5 @@
 codename = "nobleltezt"
+recoveries = []
 
 [[roms]]
 id = "blissroms"

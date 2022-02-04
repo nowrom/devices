@@ -1,0 +1,9 @@
+codename = "d5110"
+brand = "Infinix"
+name = "Infinix Hot 2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/hot-2/orig-development/official-twrp-infinix-hot-2-t3394989"
+maintainer = "HostZero"

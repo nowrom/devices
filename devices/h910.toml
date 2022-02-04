@@ -1,9 +1,13 @@
+codename = "h910"
 brand = "LG"
 name = "V20 (AT&T)"
-codename = "h910"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "npjohnson"

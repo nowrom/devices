@@ -1,6 +1,7 @@
 brand = "Redmi"
 name = "Redmi 8A Dual"
 codename = "olivewood"
+recoveries = []
 
 [[roms]]
 id = "pixelextended"

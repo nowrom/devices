@@ -1,0 +1,9 @@
+codename = "treltexx"
+brand = "Samsung"
+name = "Samsung Galaxy Note 4 Exynos LTE (treltexx)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/note-4/development/recovery-twrp-3-2-3-0-touch-recovery-t3836759"
+maintainer = "ananjaser1211"

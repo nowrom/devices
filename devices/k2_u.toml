@@ -1,0 +1,8 @@
+codename = "k2_u"
+brand = "HTC"
+name = "HTC One SV GSM"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

@@ -1,9 +1,13 @@
+codename = "gts4lvwifi"
 brand = "Samsung"
 name = "Galaxy Tab S5e"
-codename = "gts4lvwifi"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 360"
 ram = "4/6 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "LuK1337"

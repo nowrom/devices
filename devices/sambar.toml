@@ -1,0 +1,8 @@
+codename = "sambar"
+brand = "Yu"
+name = "Yu Yutopia"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "HostZero"

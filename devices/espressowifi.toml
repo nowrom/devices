@@ -1,9 +1,13 @@
+codename = "espressowifi"
 brand = "Samsung"
 name = "Galaxy Tab2 7.0"
-codename = "espressowifi"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A9"
 ram = "1 GB"
 wifi = "802.11 a/b/g/n, Wi-Fi Direct, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Android-Andi"

@@ -1,9 +1,14 @@
+codename = "Onyx"
 brand = "Stylo"
 name = "Onyx"
-codename = "Onyx"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait 400"
 ram = "3 GB"
 wifi = "802.11 b/g/n, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/oneplus-x/development/unofficial-twrp-3-0-2-0-recovery-onyx-t3471584"
+maintainer = "Nachiket.Namjoshi"

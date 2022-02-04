@@ -1,6 +1,6 @@
+codename = "violet"
 brand = "Xiaomi"
 name = "Redmi  Note  7 Pro"
-codename = "violet"
 
 [[roms]]
 id = "pixelextended"
@@ -90,3 +90,11 @@ download = "https://downloads.spark-os.live/violet/Spark-S-Energized-OFFICIAL-vi
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Aftab Ashrafi (Aftab-111)"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

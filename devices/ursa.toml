@@ -1,0 +1,8 @@
+codename = "ursa"
+brand = "Xiaomi"
+name = "MI  8  Explorer  Edition"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "althafvly"

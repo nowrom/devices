@@ -1,0 +1,8 @@
+codename = "G2"
+brand = "X-Age"
+name = "G2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

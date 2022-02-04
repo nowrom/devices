@@ -1,6 +1,6 @@
+codename = "Cheeseburger"
 brand = "OnePlus"
 name = "oneplus 5"
-codename = "Cheeseburger"
 
 [[roms]]
 id = "pixelextended"
@@ -49,3 +49,11 @@ version_code = "twelve"
 stable = true
 xda_thread = "https://forum.xda-developers.com/t/beta-12-0-pixel-experience-12-oneplus-5-5t-dumpling-cheeseburger.4351697/"
 deprecated = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy, mauronofrio"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

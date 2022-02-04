@@ -1,6 +1,7 @@
 brand = "ASUS"
 name = "Zenfone 2 (ZE500CL)"
 codename = "Z00D"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

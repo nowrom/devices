@@ -32,6 +32,10 @@ id = "pixyos"
 [[roms]]
 id = "revengeos"
 
+[[recoveries]]
+id = "orangefox"
+supported = true
+
 [specs]
 cpu = "Octa-core 2.0 GHz Cortex-A53"
 weight = "170 g (6.00 oz)"

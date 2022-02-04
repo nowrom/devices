@@ -1,0 +1,9 @@
+codename = "instantnoodle & instantnoodlep"
+brand = "OnePlus"
+name = "OnePlus 8 and 8 Pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/twrp-3-6-0-11-b1-instantnoodle-twrp-for-oneplus-8-8pro-beta.4341707/"
+maintainer = "infected_"

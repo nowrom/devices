@@ -1,0 +1,9 @@
+codename = "gts28velte"
+brand = "Samsung"
+name = "Galaxy Tab S2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = ""
+maintainer = "LuK1337, luca020400"

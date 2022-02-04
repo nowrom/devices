@@ -1,0 +1,8 @@
+codename = "u212"
+brand = "AMLogic"
+name = "AMLogic X96 Max"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "KostyaJRZ"

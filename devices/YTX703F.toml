@@ -1,6 +1,7 @@
 brand = "Lenovo"
 name = "Yoga Tab 3 Plus Wi-Fi"
 codename = "YTX703F"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

@@ -1,9 +1,14 @@
+codename = "berkeley"
 brand = "Huawei"
 name = "Honor View 10"
-codename = "berkeley"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A73 & Cortex-A53"
 ram = "4/6 GB"
 wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/honor-view-10/development/recovery-twrp-3-2-1-0-touch-recovery-t3752397"
+maintainer = "Dees_Troy"

@@ -1,5 +1,6 @@
 name = "OnePlus Nord 2 5G (denniz)"
 codename = "denniz"
+recoveries = []
 
 [[roms]]
 id = "ancientos"

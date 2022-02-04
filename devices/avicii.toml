@@ -1,6 +1,7 @@
 brand = "OnePlus"
 name = "oneplus nord"
 codename = "avicii"
+recoveries = []
 
 [[roms]]
 id = "pixelextended"

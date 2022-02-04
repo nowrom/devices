@@ -1,0 +1,8 @@
+codename = "vivow"
+brand = "HTC"
+name = "Incredible 2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

@@ -1,0 +1,8 @@
+codename = "kate"
+brand = "Xiaomi"
+name = "Redmi Note 3"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Parth Bhatia (TheStrix)"

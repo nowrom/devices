@@ -1,0 +1,8 @@
+codename = "grandprimevelte"
+brand = "Samsung"
+name = "Galaxy Grand Prime"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

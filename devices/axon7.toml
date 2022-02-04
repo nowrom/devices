@@ -1,6 +1,7 @@
 brand = "ZTE"
 name = "Axon 7"
 codename = "axon7"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

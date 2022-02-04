@@ -1,6 +1,6 @@
-name = "Redmi Note 8 Pro"
 codename = "begonia"
 brand = "Redmi"
+name = "Redmi Note 8 Pro"
 
 [[roms]]
 id = "pixelextended"
@@ -62,6 +62,15 @@ active = true
 id = "sparkos"
 group = "https://t.me/Uchiha_Clan_Begonia"
 download = "https://downloads.spark-os.live/begonia/Spark-S-Energized-OFFICIAL-begonia-20220118.zip"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/redmi-note-8-pro/development/recovery-twrp-3-3-1-0-touch-recovery-t4039691"
+maintainer = "theimpulson"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
 
 [specs]
 cpu = "Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"

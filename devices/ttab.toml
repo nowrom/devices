@@ -1,0 +1,8 @@
+codename = "ttab"
+brand = "Alcatel"
+name = "Telekom Puls"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Stricted"

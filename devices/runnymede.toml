@@ -1,0 +1,8 @@
+codename = "runnymede"
+brand = "HTC"
+name = "Sensation XL with Beats Audio X315e"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

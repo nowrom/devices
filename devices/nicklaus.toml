@@ -1,0 +1,8 @@
+codename = "nicklaus"
+brand = "Motorola"
+name = "Motorola Moto E4 Plus"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

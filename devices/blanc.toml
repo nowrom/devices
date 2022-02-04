@@ -1,0 +1,9 @@
+codename = "blanc"
+brand = "Huawei"
+name = "Huawei Mate 10 Pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mate-10/development/recovery-twrp-3-2-1-0-touch-recovery-t3752399"
+maintainer = "Dees_Troy"

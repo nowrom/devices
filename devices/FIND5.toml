@@ -1,0 +1,8 @@
+codename = "FIND5"
+brand = "Oppo"
+name = "X909"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

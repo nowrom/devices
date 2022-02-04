@@ -1,0 +1,8 @@
+codename = "bass"
+brand = "LGE"
+name = "LG Watch Urbane"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

@@ -1,0 +1,8 @@
+codename = "w7,w7ds,w7n"
+brand = "LG"
+name = "LG L90"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

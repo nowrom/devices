@@ -1,0 +1,8 @@
+codename = "cs02"
+brand = "Samsung"
+name = "Galaxy Core Plus"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "TimSchumi"

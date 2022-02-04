@@ -1,0 +1,8 @@
+codename = "gelato"
+brand = "LG"
+name = "LG Optimus Slider"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

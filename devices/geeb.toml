@@ -1,0 +1,8 @@
+codename = "geeb"
+brand = "LGE"
+name = "LG Optimus G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

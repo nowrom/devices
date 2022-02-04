@@ -1,0 +1,8 @@
+codename = "c90"
+brand = "LGE"
+name = "LG Volt S"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "PVineeth"

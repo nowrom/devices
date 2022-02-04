@@ -1,6 +1,6 @@
+codename = "whyred"
 brand = "Xiaomi"
 name = "Redmi Note 5 Pro"
-codename = "whyred"
 
 [[roms]]
 id = "pixelextended"
@@ -76,3 +76,12 @@ active = true
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/redmi-note-5-pro/development/recovery-twrp-3-2-1-0-whyred-t3766113"
+maintainer = "AnkitGourav"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

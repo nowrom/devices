@@ -1,6 +1,6 @@
+codename = "X01BD"
 brand = "asus"
 name = "Asus Zenfone Max Pro M2"
-codename = "X01BD"
 
 [[roms]]
 id = "arrowos"
@@ -19,7 +19,7 @@ id = "dotos"
 id = "havocos"
 url = "https://download.havoc-os.com/X01BD/Havoc-OS-v4.13-20220127-X01BD-Official-GApps.zip"
 maintainer = "Sukeerat Singh Goindi"
-group = "t.me/+BaJnedaBMMQxNzg9"
+group = "https://t.me/+BaJnedaBMMQxNzg9"
 
 [[roms]]
 id = "lineageos"
@@ -48,3 +48,12 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/4368929/"
 stable = true
 deprecated = false
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/max-pro-m2/development/recovery-twrp-asus-zenfone-max-pro-m2-t3917145"
+maintainer = "kubersharma001, bauuuuu"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

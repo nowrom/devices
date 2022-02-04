@@ -1,0 +1,8 @@
+codename = "P892E10"
+brand = "ZTE"
+name = "ZTE Blade Apex 2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

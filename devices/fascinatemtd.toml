@@ -1,0 +1,8 @@
+codename = "fascinatemtd"
+brand = "Samsung"
+name = "Samsung Galaxy S Fascinate"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

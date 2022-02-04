@@ -1,0 +1,9 @@
+codename = "d1x"
+brand = "Samsung"
+name = "Galaxy Note10 5G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-3-4-0-x-twrp-for-galaxy-note-10-5g-exynos.4198409/"
+maintainer = "corsicanu"

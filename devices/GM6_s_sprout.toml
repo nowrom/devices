@@ -1,0 +1,8 @@
+codename = "GM6_s_sprout"
+brand = "General Mobile"
+name = "GM 6 s"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Rygebin"

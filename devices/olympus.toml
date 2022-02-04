@@ -1,0 +1,8 @@
+codename = "olympus"
+brand = "Motorola"
+name = "Atrix"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

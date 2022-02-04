@@ -1,5 +1,6 @@
 name = "Realme X7 Max 5G (RMX3031)"
 codename = "rmx3031"
+recoveries = []
 
 [[roms]]
 id = "ancientos"

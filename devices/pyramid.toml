@@ -1,0 +1,8 @@
+codename = "pyramid"
+brand = "HTC"
+name = "Sensation 4G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

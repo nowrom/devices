@@ -1,0 +1,8 @@
+codename = "namek"
+brand = "BQ"
+name = "BQ Aquaris M5.5"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

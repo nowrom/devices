@@ -1,0 +1,8 @@
+codename = "NX589J"
+brand = "ZTE"
+name = "NX589J"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mauronofrio"

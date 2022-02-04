@@ -1,0 +1,9 @@
+codename = "x2xtreme"
+brand = "Allview"
+name = "Allview X2 Soul Xtreme"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/pure-xl/development/twrp-3-0-0-unofficial-twrp-x2-xtreme-t3309540"
+maintainer = "bemolxd"

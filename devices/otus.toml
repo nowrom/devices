@@ -1,6 +1,7 @@
 brand = "Motorola"
 name = "Moto E (2nd Gen)"
 codename = "otus"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

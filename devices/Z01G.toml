@@ -1,0 +1,9 @@
+codename = "Z01G"
+brand = "Asus"
+name = "ASUS ZenFone 4 Pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/zenfone-4-pro/development/recovery-twrp-3-1-1-0-zs551kl-t3692186"
+maintainer = "shakalaca"

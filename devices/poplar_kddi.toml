@@ -1,0 +1,8 @@
+codename = "poplar_kddi"
+brand = "Sony"
+name = "Sony Xperia XZ1 KDDI"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "cryptomilk & derfelot"

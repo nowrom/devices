@@ -1,0 +1,9 @@
+codename = "ailsa_ii"
+brand = "ZTE"
+name = "ZTE A2017U"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/axon-7/development/recovery-official-twrp-zte-axon-7-t3515715"
+maintainer = "jcadduono"

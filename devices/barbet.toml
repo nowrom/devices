@@ -1,6 +1,7 @@
 brand = "Google"
 name = "Pixel 5a 5G"
 codename = "barbet"
+recoveries = []
 
 [[roms]]
 id = "calyxos"

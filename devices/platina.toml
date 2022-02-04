@@ -1,6 +1,6 @@
+codename = "platina"
 brand = "Xiaomi"
 name = "MI 8 Lite"
-codename = "platina"
 
 [[roms]]
 id = "AOSPK"
@@ -39,3 +39,7 @@ deprecated = true
 version_code = "twelve"
 stable = true
 deprecated = false
+
+[[recoveries]]
+id = "orangefox"
+supported = false

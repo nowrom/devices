@@ -1,0 +1,9 @@
+codename = "max_plus"
+brand = "LeEco"
+name = "LeEco Le Max Pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/le-max-2/development/twrp-leeco-le-max-pro-t3901466"
+maintainer = "ThEMarD"

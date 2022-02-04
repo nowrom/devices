@@ -1,0 +1,8 @@
+codename = "scorpion_windy"
+brand = "Sony"
+name = "Sony Xperia Z3 Tablet Compact Wi-Fi"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

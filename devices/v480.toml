@@ -1,6 +1,7 @@
 brand = "LG"
 name = "G Pad 8.0 (Wi-Fi)"
 codename = "v480"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

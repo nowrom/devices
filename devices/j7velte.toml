@@ -1,0 +1,8 @@
+codename = "j7velte"
+brand = "Samsung"
+name = "Galaxy J7 Neo"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = false

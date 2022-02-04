@@ -1,0 +1,12 @@
+codename = "oxygen"
+brand = "Xiaomi"
+name = "MI MAX 2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "MacTavishAO"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

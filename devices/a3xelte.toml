@@ -1,9 +1,13 @@
+codename = "a3xelte"
 brand = "Samsung"
 name = "Galaxy A3(2016)"
-codename = "a3xelte"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "1.5 GB"
 wifi = "802.11 b/g/n"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Stricted"

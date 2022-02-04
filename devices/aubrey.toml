@@ -1,0 +1,9 @@
+codename = "aubrey"
+brand = "Umidigi"
+name = "UMIDIGI S3 Pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/android/development/twrp-twrp-3-3-x-umidigi-s3-pro-t3936550"
+maintainer = "chankruze"

@@ -1,0 +1,9 @@
+codename = "One_Max"
+brand = "Umidigi"
+name = "One Max RU"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/android/development/twrp-twrp-3-3-0-0-umidigi-one-max-t3926615"
+maintainer = "chankruze"

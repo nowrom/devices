@@ -1,0 +1,8 @@
+codename = "NX511J"
+brand = "ZTE"
+name = "NX511J"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "TTTT555"

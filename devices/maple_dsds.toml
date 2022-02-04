@@ -1,0 +1,8 @@
+codename = "maple_dsds"
+brand = "Sony"
+name = "Sony Xperia XZ Premium DSDS"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "cryptomilk & derfelot"

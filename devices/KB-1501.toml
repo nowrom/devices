@@ -1,0 +1,8 @@
+codename = "KB-1501"
+brand = "Marshall"
+name = "London"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

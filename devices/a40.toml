@@ -1,6 +1,6 @@
+codename = "a40"
 brand = "Samsung"
 name = "Galaxy A40"
-codename = "a40"
 
 [[roms]]
 id = "crdroid"
@@ -13,3 +13,12 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Haridhayal"
 active = false
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-a40/development/recovery-twrp-galaxy-a40-t4025587"
+maintainer = "ponces"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

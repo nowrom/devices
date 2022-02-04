@@ -1,6 +1,7 @@
 brand = "ZTE"
 name = "K88"
 codename = "jasmine"
+recoveries = []
 
 [[roms]]
 id = "CalyxOS"

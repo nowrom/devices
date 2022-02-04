@@ -1,6 +1,7 @@
 brand = "Huawei"
 name = "P Smart"
 codename = "figo"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

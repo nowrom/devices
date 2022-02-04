@@ -1,0 +1,8 @@
+codename = "j2y18lte"
+brand = "Samsung"
+name = "Galaxy J2 Pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

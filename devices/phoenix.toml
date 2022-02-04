@@ -1,6 +1,6 @@
+codename = "phoenix"
 brand = "Redmi"
 name = "Redmi K30"
-codename = "phoenix"
 
 [[roms]]
 id = "pixelextended"
@@ -85,6 +85,15 @@ download = "https://downloads.spark-os.live/phoenix/Spark-S-Energized-OFFICIAL-p
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/zenfone-4-selfie/development/recovery-twrp-3-4-0-0-zenfone-4-selfie-t4129731"
+maintainer = "2003Frost and Seplx"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
 
 [specs]
 cpu = "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)"

@@ -1,0 +1,8 @@
+codename = "k2_cl"
+brand = "HTC"
+name = "HTC One SV Boost USA"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

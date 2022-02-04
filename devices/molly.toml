@@ -1,0 +1,8 @@
+codename = "molly"
+brand = "Google"
+name = "ADT-1 Android TV"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "r3pwn"

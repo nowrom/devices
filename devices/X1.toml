@@ -1,0 +1,8 @@
+codename = "X1"
+brand = "Xmobile"
+name = "X1"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

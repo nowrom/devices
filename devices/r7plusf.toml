@@ -1,0 +1,8 @@
+codename = "r7plusf"
+brand = "Oppo"
+name = "Oppo R7 Plus f"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

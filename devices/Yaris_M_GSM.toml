@@ -1,0 +1,9 @@
+codename = "Yaris_M_GSM"
+brand = "TCT (Alcatel)"
+name = "ONE TOUCH 4033X"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/android/general/twrp-alcatel-pop-c2-t3421408"
+maintainer = "kirito9"

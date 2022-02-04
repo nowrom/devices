@@ -1,0 +1,9 @@
+codename = "RMX1993"
+brand = "Realme"
+name = "Realme X2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/realme-x2/development/recovery-unofficial-twrp-realme-x2-t4011231"
+maintainer = "Mauronofrio"

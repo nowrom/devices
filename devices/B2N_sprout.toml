@@ -1,0 +1,9 @@
+codename = "B2N_sprout"
+brand = "Nokia"
+name = "Nokia 7 plus"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/nokia-7-plus/development/twrp-3-3-1-0-team-win-recovery-project-t3940223"
+maintainer = "Raghu Varma"

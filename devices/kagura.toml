@@ -1,0 +1,8 @@
+codename = "kagura"
+brand = "Sony"
+name = "Sony Xperia XZ"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "AdrianDC and sjllls"

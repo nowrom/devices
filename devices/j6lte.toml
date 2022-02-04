@@ -1,0 +1,8 @@
+codename = "j6lte"
+brand = "Samsung"
+name = "Galaxy On6"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = false

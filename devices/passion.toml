@@ -1,0 +1,8 @@
+codename = "passion"
+brand = "Lenovo"
+name = "P1"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

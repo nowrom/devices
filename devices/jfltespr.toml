@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy S4"
 codename = "jfltespr"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

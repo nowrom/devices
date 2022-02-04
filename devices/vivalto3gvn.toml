@@ -1,0 +1,9 @@
+codename = "vivalto3gvn"
+brand = "Samsung"
+name = "Galaxy S Duos3"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/ace-4/development/recovery-twrp-3-0-0-0-samsung-galaxy-t3311593"
+maintainer = "cleverior.ipul"

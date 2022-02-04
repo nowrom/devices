@@ -1,4 +1,5 @@
 codename = "bretzel"
+recoveries = []
 
 [[roms]]
 id = "revengeos"

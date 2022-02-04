@@ -1,4 +1,10 @@
 codename = "h872"
+brand = "LG"
+name = "G6 (H872)"
 
 [[roms]]
 id = "blissroms"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

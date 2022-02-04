@@ -1,0 +1,9 @@
+codename = "k5fpr"
+brand = "Lenovo"
+name = "Lenovo K4 Note"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/k4-note/development/recovery-twrp-3-0-2-0-touch-recovery-t3530374"
+maintainer = "Mohan Cm(mohancm)"

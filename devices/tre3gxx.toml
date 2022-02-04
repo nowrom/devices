@@ -1,0 +1,9 @@
+codename = "tre3gxx"
+brand = "Samsung"
+name = "Samsung Galaxy Note 4 Exynos 3g"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/note-4/orig-development/tool-utility-twrp-2-8-1-x-teamwin-t2956011"
+maintainer = "None"

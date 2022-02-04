@@ -1,9 +1,14 @@
+codename = "kuntao"
 brand = "Lenovo"
 name = "P2"
-codename = "kuntao"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "3/4 GB"
 wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/lenovo-p2/development/recovery-twrp-3-3-1-0-lenovo-p2-t3932598"
+maintainer = "Darshan M. (darshan1205)"

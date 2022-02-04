@@ -1,0 +1,9 @@
+codename = "gt510wifi"
+brand = "Samsung"
+name = "Galaxy Tab A 9.7"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-tab-a/development/recovery-twrp-samsung-galaxy-tab-9-7-t3846459"
+maintainer = "virsys"

@@ -1,0 +1,9 @@
+codename = "seedmtk"
+brand = "Google"
+name = "Android One Second Generation MTK"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/crossdevice-dev/android-one-secondgeneration-crossdevice-original-android-development/recovery-twrp-t3353364"
+maintainer = "MSF-Jarvis"

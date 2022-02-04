@@ -1,0 +1,9 @@
+codename = "catshark"
+brand = "Mobvoi"
+name = "Ticwatch Pro 4G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/showpost.php?p=77164627&postcount=2"
+maintainer = "Ajmal Safi"

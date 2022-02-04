@@ -1,6 +1,7 @@
 brand = "Funai Electric"
 name = "Smart TV"
 codename = "peach"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

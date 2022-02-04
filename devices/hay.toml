@@ -1,0 +1,8 @@
+codename = "hay"
+brand = "HTC"
+name = "HTC U11 EYEs"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "sabpprook"

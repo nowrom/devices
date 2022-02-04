@@ -1,0 +1,8 @@
+codename = "vegetahd"
+brand = "BQ"
+name = "BQ Aquaris E5HD"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

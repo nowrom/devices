@@ -1,6 +1,7 @@
 brand = "Xiaomi"
 name = "Mi 10 Lite zoom"
 codename = "vangogh"
+recoveries = []
 
 [[roms]]
 id = "arrowos"

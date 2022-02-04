@@ -1,0 +1,8 @@
+codename = "a56dj"
+brand = "HTC"
+name = "HTC Desire 10 lifestyle"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "sabpprook"

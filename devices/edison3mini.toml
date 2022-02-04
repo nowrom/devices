@@ -1,0 +1,8 @@
+codename = "edison3mini"
+brand = "BQ"
+name = "BQ Edison 3 Mini"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

@@ -1,6 +1,7 @@
 brand = "STF Mobile"
 name = "AURA"
 codename = "AURA"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

@@ -1,6 +1,6 @@
+codename = "PL2"
 brand = "Nokia"
 name = "Nokia 6.1"
-codename = "PL2"
 
 [[roms]]
 id = "ancientos"
@@ -11,3 +11,7 @@ id = "lineageos"
 cpu = "Cortex-A53"
 ram = "3/4 GB LPDDR4X"
 wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "theimpulson"

@@ -1,0 +1,8 @@
+codename = "B15Q"
+brand = "Cat"
+name = "B15Q"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

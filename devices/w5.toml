@@ -1,6 +1,7 @@
 brand = "LGE"
 name = "L70"
 codename = "w5"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

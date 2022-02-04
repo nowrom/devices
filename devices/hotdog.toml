@@ -1,6 +1,6 @@
+codename = "hotdog"
 brand = "Oneplus"
 name = "Oneplus 7T Pro"
-codename = "hotdog"
 
 [[roms]]
 id = "dotos"
@@ -32,3 +32,12 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pro-pixel-experience-aosp-2020-12-05.4162199/"
 stable = true
 deprecated = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project-7t-7t-pro.4299171/"
+maintainer = "lossyx@xda"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

@@ -1,0 +1,8 @@
+codename = "epicmtd"
+brand = "Samsung"
+name = "Samsung Epic 4g"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

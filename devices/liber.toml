@@ -1,6 +1,6 @@
+codename = "liber"
 brand = "Motorola"
 name = "motorola one fusion+"
-codename = "liber"
 
 [[roms]]
 id = "dotos"
@@ -26,3 +26,18 @@ deprecated = true
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Rohan Hasabe, kaneawk"
+
+[specs]
+cpu = "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)"
+weight = "210 g (7.41 oz)"
+year = "2020, June 08"
+os = "Android 10"
+chipset = "Qualcomm SDM730 Snapdragon 730 (8 nm) - EuropeQualcomm SDM730 Snapdragon 730G (8 nm) - India"
+gpu = "Adreno 618"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity"
+batlife = "Endurance rating 136h"
+internalmemory = "128GB 4GB RAM, 128GB 6GB RAM"

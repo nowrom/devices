@@ -1,6 +1,7 @@
 brand = "Realme"
 name = "Realme 5 Series"
 codename = "r5x"
+recoveries = []
 
 [[roms]]
 id = "arrowos"

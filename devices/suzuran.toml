@@ -1,6 +1,7 @@
 brand = "Sony"
 name = "Xperia Z5 Compact"
 codename = "suzuran"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

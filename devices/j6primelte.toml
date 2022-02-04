@@ -1,0 +1,8 @@
+codename = "j6primelte"
+brand = "Samsung"
+name = "Galaxy J6+"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = false

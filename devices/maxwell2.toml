@@ -1,0 +1,8 @@
+codename = "maxwell2"
+brand = "BQ"
+name = "BQ Maxwell 2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

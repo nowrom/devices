@@ -1,6 +1,7 @@
 brand = "Sony"
 name = "Xperia XZ2"
 codename = "akari"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

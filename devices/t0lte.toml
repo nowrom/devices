@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy Note2"
 codename = "t0lte"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

@@ -1,6 +1,6 @@
+codename = "beckham"
 brand = "Motorola"
 name = "moto z3 play"
-codename = "beckham"
 
 [[roms]]
 id = "lineageos"
@@ -29,3 +29,7 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-beckham-pixelexperience-12-beta-aosp.4358873"
 stable = true
 deprecated = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "kaneawk, erfanoabdi"

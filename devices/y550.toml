@@ -1,0 +1,8 @@
+codename = "y550"
+brand = "Huawei"
+name = "Huawei Ascend Y550"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Hacker432"

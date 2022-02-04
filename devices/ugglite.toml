@@ -1,0 +1,12 @@
+codename = "ugglite"
+brand = "Xiaomi"
+name = "Redmi Note 5A"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "zqm64, adislice"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

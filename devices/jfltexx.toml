@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy S4 (GT-I9505, SGH-I337M, SGH-M919)"
 codename = "jfltexx"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

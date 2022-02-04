@@ -1,0 +1,8 @@
+codename = "dlx"
+brand = "HTC"
+name = "HTC6435LVW"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "invisiblek"

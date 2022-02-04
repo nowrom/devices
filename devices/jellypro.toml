@@ -1,0 +1,8 @@
+codename = "jellypro"
+brand = "Unihertz"
+name = "Unihertz Jelly Pro (MT6737T)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

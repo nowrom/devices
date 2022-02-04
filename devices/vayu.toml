@@ -1,6 +1,6 @@
-name = "POCO X3 Pro"
 codename = "vayu"
 brand = "POCO"
+name = "POCO X3 Pro"
 
 [[roms]]
 id = "pixelextended"
@@ -81,6 +81,15 @@ active = true
 id = "sparkos"
 group = "https://t.me/WeedyBuilds"
 download = "https://downloads.spark-os.live/vayu/Spark-S-Energized-OFFICIAL-vayu-20220119.zip"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-unofficial-teamwin-recovery-project.4269551/"
+maintainer = "Nebrassy"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
 
 [specs]
 cpu = "Octa-core (1x2.96 GHz Kryo 485 Gold & 3x2.42 GHz Kryo 485 Gold & 4x1.78 GHz Kryo 485 Silver)"

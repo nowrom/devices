@@ -1,6 +1,7 @@
 brand = "ASUS"
 name = "ZenPad 8.0 (Z380KL)"
 codename = "P024"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

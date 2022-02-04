@@ -1,0 +1,8 @@
+codename = "minnow"
+brand = "Motorola"
+name = "Moto 360"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

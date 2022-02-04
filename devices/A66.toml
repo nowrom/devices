@@ -1,0 +1,8 @@
+codename = "A66"
+brand = "Asus"
+name = "Asus PadFone 1"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

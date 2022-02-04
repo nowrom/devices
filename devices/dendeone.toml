@@ -1,0 +1,8 @@
+codename = "dendeone"
+brand = "BQ"
+name = "BQ Aquaris A4.5"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

@@ -1,0 +1,8 @@
+codename = "d2usc"
+brand = "Samsung"
+name = "Galaxy S3"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

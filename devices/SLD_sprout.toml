@@ -1,0 +1,9 @@
+codename = "SLD_sprout"
+brand = "Nokia"
+name = "Nokia 6.2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/nokia-6-2/development/unofficial-twrp-3-3-1-0-team-win-t3999433"
+maintainer = "Raghu Varma"

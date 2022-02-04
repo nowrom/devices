@@ -1,6 +1,6 @@
+codename = "payton"
 brand = "Motorola"
 name = "Moto X (4)"
-codename = "payton"
 
 [[roms]]
 id = "ancientos"
@@ -22,3 +22,7 @@ repostories = ["device_motorola_payton","vendor_motorola_payton"]
 [[roms.supported_versions]]
 version_code = "eleven"
 deprecated = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "kaneawk, erfanoabdi, ThEMarD"

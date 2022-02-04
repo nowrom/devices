@@ -1,0 +1,8 @@
+codename = "BP2"
+brand = "Silent Circle"
+name = "Blackphone 2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

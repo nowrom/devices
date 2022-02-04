@@ -1,0 +1,8 @@
+codename = "a20e"
+brand = "Samsung"
+name = "Galaxy Jean2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "topser9"

@@ -1,4 +1,5 @@
 codename = "onc"
+recoveries = []
 brand = "Xiaomi"
 name = "Redmi 7"
 

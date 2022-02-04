@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy Note3"
 codename = "hltetmo"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

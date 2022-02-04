@@ -1,6 +1,7 @@
 brand = "OnePlus"
 name = "OnePlus 9R"
 codename = "lemonades"
+recoveries = []
 
 [[roms]]
 id = "havocos"

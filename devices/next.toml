@@ -1,0 +1,8 @@
+codename = "next"
+brand = "Huawei"
+name = "Huawei Mate 8"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "paulobrien"

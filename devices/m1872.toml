@@ -1,6 +1,7 @@
 brand = "Meizu"
 name = "Meizu 16X"
 codename = "m1872"
+recoveries = []
 
 [[roms]]
 id = "sakura"

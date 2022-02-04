@@ -1,6 +1,7 @@
 brand = "Meizu"
 name = "M1852"
 codename = "M1852"
+recoveries = []
 
 [[roms]]
 id = "havocos"

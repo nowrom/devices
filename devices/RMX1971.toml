@@ -1,6 +1,6 @@
+codename = "RMX1971"
 brand = "Realme"
 name = "realme 5pro"
-codename = "RMX1971"
 
 [[roms]]
 id = "pixelextended"
@@ -58,3 +58,7 @@ download = "https://downloads.spark-os.live/RMX1971/Spark-S-Energized-OFFICIAL-R
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

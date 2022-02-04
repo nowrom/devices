@@ -1,0 +1,9 @@
+codename = "tbltedt"
+brand = "Samsung"
+name = "Samsung Galaxy Note 4 Edge (Korea)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/note-edge/development/twrp-915fy-915tmo-moment-t3129459"
+maintainer = "mickey387"

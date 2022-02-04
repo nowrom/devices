@@ -1,6 +1,6 @@
+codename = "herolte"
 brand = "Samsung"
 name = "Galaxy S7"
-codename = "herolte"
 
 [[roms]]
 id = "lineageos"
@@ -21,3 +21,8 @@ deprecated = true
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-unoffical-herolte-pixelexperience-aosp.4276777/"
 deprecated = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/galaxy-s7/development/recovery-official-twrp-herolte-t3333770"
+maintainer = "ivanmeler"

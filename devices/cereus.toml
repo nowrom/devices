@@ -1,0 +1,12 @@
+codename = "cereus"
+brand = "Xiaomi"
+name = "Redmi 6"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "MegaFon929"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

@@ -1,0 +1,8 @@
+codename = "k2_plc_cl"
+brand = "HTC"
+name = "HTC One SV Cricket USA"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

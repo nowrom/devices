@@ -1,0 +1,9 @@
+codename = "gtanotexlwifi"
+brand = "Samsung"
+name = "Samsung Galaxy Tab A 10.1 WiFi (2016) with S-Pen"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/galaxy-tab-a/development/recovery-official-twrp-galaxy-tab-10-1-t3473023"
+maintainer = "jcadduono"

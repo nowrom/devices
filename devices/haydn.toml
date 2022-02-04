@@ -1,6 +1,6 @@
+codename = "haydn"
 brand = "Xiaomi"
 name = "Mi 11i"
-codename = "haydn"
 
 [[roms]]
 id = "pixelexperience"
@@ -11,3 +11,8 @@ version_code = "twelve"
 xda_thread = ""
 stable = true
 deprecated = false
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-official-teamwin-recovery-project.4374115/"
+maintainer = "Nebrassy"

@@ -1,0 +1,8 @@
+codename = "ac55diselfie"
+brand = "Bush"
+name = "SPIRA E4X"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "phh"

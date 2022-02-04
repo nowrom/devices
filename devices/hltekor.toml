@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy Note 3 LTE (N900K/L/S)"
 codename = "hltekor"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

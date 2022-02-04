@@ -1,0 +1,8 @@
+codename = "goghspr"
+brand = "Samsung"
+name = "Galaxy Victory"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

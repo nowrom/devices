@@ -1,0 +1,9 @@
+codename = "graceqltechn"
+brand = "Samsung"
+name = "Galaxy Note7"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/note-7/development/recovery-official-twrp-galaxy-note-7-t3458413"
+maintainer = "jcadduono"

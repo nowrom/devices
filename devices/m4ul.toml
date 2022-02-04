@@ -1,0 +1,8 @@
+codename = "m4ul"
+brand = "HTC"
+name = "HTC One Mini"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

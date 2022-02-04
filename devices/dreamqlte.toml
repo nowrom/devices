@@ -1,0 +1,9 @@
+codename = "dreamqlte"
+brand = "Samsung"
+name = "Samsung Galaxy S8 (Snapdragon)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-s8/samsung-galaxy-s8--s8-cross-device-development/recovery-twrp-galaxy-s8-s8-snapdragon-t3636718"
+maintainer = "jesec"

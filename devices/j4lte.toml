@@ -1,0 +1,8 @@
+codename = "j4lte"
+brand = "Samsung"
+name = "Galaxy J4"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Hendra Manudinata"

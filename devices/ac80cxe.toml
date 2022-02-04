@@ -1,0 +1,8 @@
+codename = "ac80cxe"
+brand = "Archos"
+name = "80c Xenon"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "phh"

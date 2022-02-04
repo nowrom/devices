@@ -1,0 +1,8 @@
+codename = "byt_t_crv2"
+brand = "Minix"
+name = "Minix Z64 Android"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

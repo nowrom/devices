@@ -1,0 +1,9 @@
+codename = "t03g & t0lte"
+brand = "Samsung"
+name = "Samsung Galaxy Note 2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-6-0_9-0-t03g-n7100-t0lte-n7105.4263819/post-84858941"
+maintainer = "html6405"

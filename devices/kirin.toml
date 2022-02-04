@@ -1,9 +1,13 @@
+codename = "kirin"
 brand = "Sony"
 name = "Xperia 10"
-codename = "kirin"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "3/4 GB"
 wifi = "802.11 a/b/g/n, dual band, Wi-Fi Direct, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "LuK1337"

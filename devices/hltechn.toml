@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy Note 3 LTE (N9008V)"
 codename = "hltechn"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

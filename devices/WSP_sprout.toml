@@ -1,0 +1,8 @@
+codename = "WSP_sprout"
+brand = "Nokia"
+name = "Nokia 2.2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "SmallPP420"

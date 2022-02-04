@@ -1,0 +1,8 @@
+codename = "e980"
+brand = "LG"
+name = "LG Optimus G Pro GSM"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "nerdyblonde"

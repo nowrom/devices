@@ -1,0 +1,8 @@
+codename = "logan2g"
+brand = "Samsung"
+name = "Galaxy Star Plus"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "FireLord"

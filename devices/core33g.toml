@@ -1,0 +1,8 @@
+codename = "core33g"
+brand = "Samsung"
+name = "Galaxy Core Prime"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "DreamStar"

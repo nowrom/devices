@@ -1,6 +1,6 @@
+codename = "potter"
 brand = "Motorola"
 name = "Moto G Plus (5th Gen)"
-codename = "potter"
 
 [[roms]]
 id = "pixelextended"
@@ -36,6 +36,10 @@ deprecated = true
 version_code = "eleven_plus"
 stable = true
 deprecated = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "GtrCraft"
 
 [specs]
 cpu = "Not found"

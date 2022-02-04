@@ -1,0 +1,8 @@
+codename = "otter"
+brand = "Amazon"
+name = "Amazon Kindle Fire (1st Gen)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

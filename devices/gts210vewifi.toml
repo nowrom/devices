@@ -1,9 +1,14 @@
+codename = "gts210vewifi"
 brand = "Samsung"
 name = "Galaxy Tab S2 9.7"
-codename = "gts210vewifi"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A72"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, hotspot"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/showthread.php?t=3543921"
+maintainer = "LuK1337, luca020400"

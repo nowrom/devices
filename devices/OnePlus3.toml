@@ -1,6 +1,6 @@
+codename = "OnePlus3"
 brand = "OnePlus"
 name = "OnePlus3"
-codename = "OnePlus3"
 
 [[roms]]
 id = "arrowos"
@@ -52,3 +52,8 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Deepak Jr"
 active = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/recovery-official-twrp-touch-recovery-t3742894"
+maintainer = "dianlujitao"

@@ -1,6 +1,7 @@
 brand = "HTC"
 name = "One (Verizon)"
 codename = "m7vzw"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

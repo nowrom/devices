@@ -1,9 +1,13 @@
+codename = "Discovery"
 brand = "Multilaser"
 name = "Discovery"
-codename = "Discovery"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n, dual band, Wi-Fi Direct, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "LuK1337"

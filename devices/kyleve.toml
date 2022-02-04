@@ -1,0 +1,8 @@
+codename = "kyleve"
+brand = "Samsung"
+name = "Galaxy Trend Duos"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Grace5921"

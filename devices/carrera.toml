@@ -1,0 +1,8 @@
+codename = "carrera"
+brand = "Huawei"
+name = "Huawei Mate S"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "eloygomez"

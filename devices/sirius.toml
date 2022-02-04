@@ -1,6 +1,6 @@
+codename = "sirius"
 brand = "Xiaomi"
 name = "MI 8 SE"
-codename = "sirius"
 
 [[roms]]
 id = "blissroms"
@@ -39,3 +39,7 @@ version_code = "twelve"
 stable = true
 xda_thread = "https://forum.xda-developers.com/t/4355535/"
 deprecated = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

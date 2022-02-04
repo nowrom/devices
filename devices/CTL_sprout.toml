@@ -1,0 +1,9 @@
+codename = "CTL_sprout"
+brand = "Nokia"
+name = "Nokia 7.1"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/nokia-7-1/development/twrp-3-2-3-0-team-win-recovery-project-t3935859"
+maintainer = "Raghu Varma"

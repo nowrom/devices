@@ -1,0 +1,8 @@
+codename = "u8833"
+brand = "Huawei"
+name = "Huawei Y300"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

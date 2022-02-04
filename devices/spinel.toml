@@ -1,0 +1,8 @@
+codename = "spinel"
+brand = "Infinix"
+name = "Infinix Smart 3 Plus"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Amy"

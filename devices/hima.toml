@@ -1,0 +1,9 @@
+codename = "hima"
+brand = "HTC"
+name = "HTC One M9"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/one-m9/orig-development/recovery-twrp-touch-recovery-t3066720"
+maintainer = "CaptainThrowback"

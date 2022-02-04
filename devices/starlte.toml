@@ -1,6 +1,6 @@
+codename = "starlte"
 brand = "Samsung"
 name = "Galaxy S9"
-codename = "starlte"
 
 [[roms]]
 id = "arrowos"
@@ -14,3 +14,8 @@ id = "lineageos"
 cpu = "Exynos M3 & Cortex-A55"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-s9/samsung-galaxy-s9--s9-cross-device-development/recovery-galaxy-s9-s9-exynos-t4097431"
+maintainer = "corsicanu"

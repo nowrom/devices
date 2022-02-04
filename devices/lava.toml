@@ -1,6 +1,7 @@
 brand = "Xiaomi"
 name = "Redmi 9 & Poco M2 (Lava)"
 codename = "lava"
+recoveries = []
 
 [[roms]]
 id = "pixelextended"

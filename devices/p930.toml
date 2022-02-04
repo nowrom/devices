@@ -1,0 +1,8 @@
+codename = "p930"
+brand = "LG"
+name = "LG Nitro HD"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

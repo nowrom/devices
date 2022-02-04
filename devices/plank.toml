@@ -1,0 +1,9 @@
+codename = "plank"
+brand = "Huawei"
+name = "Huawei Honor 7"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/honor-7/development/recovery-twrp-recovery-plank-honor-7-t3366622"
+maintainer = "paulobrien"

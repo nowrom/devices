@@ -1,0 +1,8 @@
+codename = "porridge"
+brand = "Wileyfox"
+name = "Spark Add-X"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

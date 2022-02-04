@@ -1,9 +1,13 @@
+codename = "d2att"
 brand = "Samsung"
 name = "Galaxy S3"
-codename = "d2att"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait"
 ram = "2 GB"
 wifi = "802.11 b/g/n"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

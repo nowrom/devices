@@ -1,0 +1,8 @@
+codename = "frd"
+brand = "Huawei"
+name = "Huawei Honor 8"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

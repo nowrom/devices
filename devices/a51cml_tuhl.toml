@@ -1,0 +1,8 @@
+codename = "a51cml_tuhl"
+brand = "HTC"
+name = "HTC Desire 830"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "sabpprook"

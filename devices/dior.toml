@@ -1,0 +1,8 @@
+codename = "dior"
+brand = "Xiaomi"
+name = "HM NOTE 1LTETD"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "myhellonearth"

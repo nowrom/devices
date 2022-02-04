@@ -1,0 +1,9 @@
+codename = "on5ltetmo"
+brand = "Samsung"
+name = "Galaxy On5"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/android/development/recovery-official-twrp-on5ltetmo-galaxy-t3422730"
+maintainer = "jcadduono"

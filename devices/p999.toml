@@ -1,0 +1,8 @@
+codename = "p999"
+brand = "LGE"
+name = "Optimus 2X"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

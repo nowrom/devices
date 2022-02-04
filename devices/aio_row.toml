@@ -1,0 +1,9 @@
+codename = "aio_row"
+brand = "Lenovo"
+name = "Lenovo A7000-a"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/lenovo-a7000/development/deviltwrp-lenovo-a7000-t3552201"
+maintainer = "aryankedare"

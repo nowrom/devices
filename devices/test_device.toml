@@ -1,0 +1,8 @@
+codename = "test_device"
+brand = "Test"
+name = "device"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = false

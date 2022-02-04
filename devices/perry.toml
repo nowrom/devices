@@ -1,0 +1,8 @@
+codename = "perry"
+brand = "Motorola"
+name = "Moto E (4)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Jarl-Penguin"

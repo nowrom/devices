@@ -1,0 +1,8 @@
+codename = "cloud_q11"
+brand = "Intex"
+name = "Cloud Q11"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = true

@@ -1,0 +1,9 @@
+codename = "acclaim"
+brand = "Barnes & Noble"
+name = "Barnes & Noble Nook Tablet"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/nook-tablet/development/recovery-twrp-2-8-5-1-touch-recovery-t3034670"
+maintainer = "Dees_Troy"

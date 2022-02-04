@@ -1,0 +1,8 @@
+codename = "p200_2G"
+brand = "ZTE"
+name = "B860AV2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

@@ -1,0 +1,9 @@
+codename = "oce"
+brand = "HTC"
+name = "HTC U Ultra"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/u-ultra/development/recovery-twrp-touch-recovery-t3558540"
+maintainer = "TARKZiM"

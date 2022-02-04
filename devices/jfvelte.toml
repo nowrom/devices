@@ -1,9 +1,14 @@
+codename = "jfvelte"
 brand = "Samsung"
 name = "Galaxy S4"
-codename = "jfvelte"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait 300"
 ram = "2 GB"
 wifi = "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-s4/general/recovery-twrp-3-2-3-0-t3878421"
+maintainer = "ripee"

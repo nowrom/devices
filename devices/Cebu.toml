@@ -1,0 +1,9 @@
+codename = "Cebu"
+brand = "OnePlus"
+name = "C00"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-5-2-cebu.4279917/"
+maintainer = "mistersmee"

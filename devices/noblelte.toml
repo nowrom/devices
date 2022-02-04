@@ -4,3 +4,8 @@ name = "Galaxy Note5"
 
 [[roms]]
 id = "blissroms"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/note5/orig-development/twrp-2-8-7-0-official-t3195262"
+maintainer = "jcadduono, bigbiff"

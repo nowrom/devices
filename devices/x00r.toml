@@ -1,0 +1,8 @@
+codename = "x00r"
+brand = "Asus"
+name = "Zenfone Lite L1"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = false

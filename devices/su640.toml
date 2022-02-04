@@ -1,0 +1,8 @@
+codename = "su640"
+brand = "LG"
+name = "LG Optimus LTE"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

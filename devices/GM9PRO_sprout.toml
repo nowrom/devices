@@ -1,0 +1,8 @@
+codename = "GM9PRO_sprout"
+brand = "General Mobile"
+name = "GM 9 Pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "oguzbakir"

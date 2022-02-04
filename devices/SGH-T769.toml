@@ -1,0 +1,8 @@
+codename = "SGH-T769"
+brand = "Samsung"
+name = "Galaxy S Blaze"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "javelinanddart"

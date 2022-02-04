@@ -1,6 +1,6 @@
+codename = "vince"
 brand = "Xiaomi"
 name = "Redmi 5 Plus"
-codename = "vince"
 
 [[roms]]
 id = "ancientos"
@@ -35,6 +35,15 @@ id = "revengeos"
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/android/development/official-twrp-xiaomi-redmi-5-plus-t3727162"
+maintainer = "Isaac Chen"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
 
 [specs]
 cpu = "Octa-core 2.0 GHz Cortex-A53"

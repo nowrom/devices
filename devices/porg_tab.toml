@@ -1,6 +1,7 @@
 brand = "Nvidia"
 name = "Jetson (Nano / Nano 2GB) [Tablet]"
 codename = "porg_tab"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

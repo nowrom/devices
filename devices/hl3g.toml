@@ -1,0 +1,8 @@
+codename = "hl3g"
+brand = "Samsung"
+name = "Galaxy Note3 Neo"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "FireLord"

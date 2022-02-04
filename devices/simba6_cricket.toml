@@ -1,0 +1,9 @@
+codename = "simba6_cricket"
+brand = "TCT (Alcatel)"
+name = "Alcatel_6060C"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/t/recovery-official-twrp-3-5-0_9-0-simba6_cricket-alcatel-idol-5-recovery.4222617/"
+maintainer = "lehmancurtis147"

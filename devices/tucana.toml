@@ -1,10 +1,11 @@
+codename = "tucana"
 brand = "Xiaomi"
 name = "Mi Note 10"
-codename = "tucana"
 
 [[roms]]
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
+changelog = "Test Build 04-02-2022"
 
 [[roms]]
 id = "pixelexperience"
@@ -33,3 +34,12 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Sanya Pilot"
 active = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-note-10/development/recovery-unofficial-twrp-xiaomi-mi-note-t4015805"
+maintainer = "Mauronofrio"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

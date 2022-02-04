@@ -1,0 +1,8 @@
+codename = "m7wls"
+brand = "HTC"
+name = "One"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mdmower"

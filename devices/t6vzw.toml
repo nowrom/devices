@@ -1,6 +1,7 @@
 brand = "HTC"
 name = "One Max (Verizon)"
 codename = "t6vzw"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

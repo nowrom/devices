@@ -1,7 +1,13 @@
 codename = "Garlic"
+brand = "Yu"
+name = "Yu Yureka Black"
 
 [[roms]]
 id = "pixelextended"
 
 [[roms]]
 id = "blissroms"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Pranay Narang"

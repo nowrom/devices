@@ -1,0 +1,8 @@
+codename = "mecha"
+brand = "HTC"
+name = "Thunderbolt"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

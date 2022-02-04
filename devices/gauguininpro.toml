@@ -1,0 +1,8 @@
+codename = "gauguininpro"
+brand = "Xiaomi"
+name = "Mi 10i"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "prajwal-walia"

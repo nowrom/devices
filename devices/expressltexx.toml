@@ -1,0 +1,8 @@
+codename = "expressltexx"
+brand = "Samsung"
+name = "Samsung Galaxy Express"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kotzir"

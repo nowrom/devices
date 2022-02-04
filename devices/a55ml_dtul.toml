@@ -1,0 +1,9 @@
+codename = "a55ml_dtul"
+brand = "HTC"
+name = "HTC E9+"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/one-m9+-me-e9+/one-e9/unofficial-twrp-htc-e9-t3705646"
+maintainer = "aryankedare"

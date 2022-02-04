@@ -1,6 +1,6 @@
+codename = "crosshatch"
 brand = "Google"
 name = "Pixel 3 XL"
-codename = "crosshatch"
 
 [[roms]]
 id = "calyxos"
@@ -28,3 +28,7 @@ version_code = "twelve"
 xda_thread = ""
 stable = true
 deprecated = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy and bigbiff"

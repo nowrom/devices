@@ -1,0 +1,9 @@
+codename = "j2xlte"
+brand = "Samsung"
+name = "Galaxy J2(2016)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-5-0-0-for-samsung-galaxy-j2-2016-j2xlte.4224479/"
+maintainer = "NullCode"

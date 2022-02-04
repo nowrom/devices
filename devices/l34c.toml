@@ -1,0 +1,8 @@
+codename = "l34c"
+brand = "LG"
+name = "LG Optimus Fuel"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

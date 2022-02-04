@@ -1,0 +1,13 @@
+codename = "RMX1931"
+brand = "Realme"
+name = "Realme X2 Pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/realme-x2-pro/development/recovery-unofficial-twrp-realme-x2-pro-t3997879"
+maintainer = "Mauronofrio"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

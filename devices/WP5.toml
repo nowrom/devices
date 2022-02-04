@@ -1,0 +1,8 @@
+codename = "WP5"
+brand = "Oukitel"
+name = "WP5"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "dwastell"

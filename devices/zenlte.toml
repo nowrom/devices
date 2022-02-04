@@ -1,0 +1,9 @@
+codename = "zenlte"
+brand = "Samsung"
+name = "Galaxy S6 edge+"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/s6-edge-plus/orig-development/recovery-official-twrp-galaxy-s6-edge-t3354492"
+maintainer = "jcadduono"

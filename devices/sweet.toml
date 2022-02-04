@@ -1,6 +1,6 @@
+codename = "sweet"
 brand = "ZTE"
 name = "Z839V"
-codename = "sweet"
 
 [[roms]]
 id = "pixelextended"
@@ -69,6 +69,15 @@ download = "https://downloads.spark-os.live/sweet/Spark-S-Energized-Official-swe
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-unofficial-teamwin-recovery-project.4248449/"
+maintainer = "Nebrassy"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
 
 [specs]
 cpu = "Not found"

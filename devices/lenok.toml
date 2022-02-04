@@ -1,0 +1,8 @@
+codename = "lenok"
+brand = "LGE"
+name = "G Watch R"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Tassadar"

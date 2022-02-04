@@ -1,6 +1,6 @@
-name = "Pixel 3a XL"
 codename = "bonito"
 brand = "Google"
+name = "Pixel 3a XL"
 
 [[roms]]
 id = "CalyxOS"
@@ -46,6 +46,10 @@ deprecated = false
 id = "pixelextended"
 url = "https://sourceforge.net/projects/pixelextended/files/bonito/PixelExtended_bonito-12.0-20211220-2341-OFFICIAL.zip/download"
 xda_thread = "https://www.xda-developers.com/"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Captain_Throwback"
 
 [specs]
 cpu = "Octa-core (2x2.0 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver)"

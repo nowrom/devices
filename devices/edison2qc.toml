@@ -1,0 +1,8 @@
+codename = "edison2qc"
+brand = "BQ"
+name = "BQ Edison 2 QC"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

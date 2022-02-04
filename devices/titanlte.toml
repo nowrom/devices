@@ -1,0 +1,8 @@
+codename = "titanlte"
+brand = "Hyundai"
+name = "Hyundai Titan LTE"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

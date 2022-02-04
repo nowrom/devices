@@ -1,0 +1,13 @@
+codename = "on5xelte"
+brand = "Samsung"
+name = "Galaxy J5 Prime"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-j5/samsung-galaxy-j5-prime-roms-kernels-recoveries--other-development/twrp-touch-recovery-t3806409"
+maintainer = "awab228"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

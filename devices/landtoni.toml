@@ -1,4 +1,5 @@
 codename = "landtoni"
+recoveries = []
 
 [[roms]]
 id = "revengeos"

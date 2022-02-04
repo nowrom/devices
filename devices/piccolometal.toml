@@ -1,0 +1,8 @@
+codename = "piccolometal"
+brand = "BQ"
+name = "BQ Aquaris X5 (piccolometal/paella)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

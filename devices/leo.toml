@@ -1,0 +1,8 @@
+codename = "leo"
+brand = "ZTE"
+name = "Z955L"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

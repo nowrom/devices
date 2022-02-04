@@ -1,0 +1,9 @@
+codename = "greatqlte"
+brand = "Samsung"
+name = "Galaxy Note8"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-note-8/development/recovery-samsung-galaxy-note8-snapdragon-t3962754"
+maintainer = "LeeMenHin"

@@ -1,0 +1,8 @@
+codename = "zl0"
+brand = "LeEco"
+name = "LeEco Le Pro3 Elite"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mosimchah"

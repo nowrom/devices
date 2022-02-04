@@ -1,6 +1,7 @@
 brand = "OnePlus"
 name = "OnePlus 8"
 codename = "instantnoodle"
+recoveries = []
 
 [[roms]]
 id = "crdroid"

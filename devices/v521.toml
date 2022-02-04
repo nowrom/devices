@@ -1,6 +1,7 @@
 brand = "LG"
 name = "G Pad X (T-Mobile)"
 codename = "v521"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

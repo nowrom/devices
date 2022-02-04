@@ -1,6 +1,6 @@
+codename = "D1"
 brand = "iLa Mobile"
 name = "D1"
-codename = "D1"
 
 [[roms]]
 id = "crdroid"
@@ -12,3 +12,8 @@ id = "lineageos"
 cpu = "Exynos M4 & Cortex-A75 & Cortex-A55"
 ram = "8 GB"
 wifi = "802.11 a/b/g/n/ac/ax, Dual-band, Wi-Fi Direct, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-3-4-0-x-twrp-for-galaxy-note-10-5g-exynos.4198409/"
+maintainer = "corsicanu"

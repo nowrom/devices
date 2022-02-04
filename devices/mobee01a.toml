@@ -1,0 +1,8 @@
+codename = "mobee01a"
+brand = "Lyf"
+name = "LYF Water 8"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Mohd Faraz"

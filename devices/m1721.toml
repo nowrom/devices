@@ -1,0 +1,12 @@
+codename = "m1721"
+brand = "Meizu"
+name = "Meizu M6 Note"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "aiden09"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

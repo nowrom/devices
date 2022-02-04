@@ -1,6 +1,6 @@
-name = "POCO F1"
 codename = "beryllium"
 brand = "Xiaomi"
+name = "POCO F1"
 
 [[roms]]
 id = "pixelextended"
@@ -69,3 +69,11 @@ id = "revengeos"
 id = "sparkos"
 group = "https://t.me/resist15_beryllium"
 download = "https://downloads.spark-os.live/beryllium/Spark-S-Energized-OFFICIAL-beryllium-20220118.zip"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "althafvly"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

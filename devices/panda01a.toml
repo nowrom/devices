@@ -1,0 +1,8 @@
+codename = "panda01a"
+brand = "Lyf"
+name = "LYF Water F1s"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Mohd Faraz"

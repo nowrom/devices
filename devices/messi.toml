@@ -1,0 +1,8 @@
+codename = "messi"
+brand = "Motorola"
+name = "Moto Z(3)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "kaneawk, erfanoabdi"

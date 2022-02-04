@@ -1,6 +1,6 @@
+codename = "lilac"
 brand = "Sony"
 name = "Sony Xperia XZ1 Compact"
-codename = "lilac"
 
 [[roms]]
 id = "blissroms"
@@ -10,3 +10,7 @@ id = "havocos"
 url = "https://download.havoc-os.com/lilac/Havoc-OS-v4.13-20220130-lilac-Official-GApps.zip"
 maintainer = "Shashank Verma"
 group = "https://t.me/+f_X6QcJTdSE0OGU9"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "cryptomilk & derfelot"

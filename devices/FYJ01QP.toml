@@ -1,0 +1,8 @@
+codename = "FYJ01QP"
+brand = "Xiaomi"
+name = "Xiaomi Mi Translator"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Isaac Chen"

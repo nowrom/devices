@@ -1,0 +1,9 @@
+codename = "SOHO"
+brand = "Polaroid"
+name = "SOHO"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/kindle-fire-hd/7-development/unlock-kfsowi-bootloader-unlock-t3262770/"
+maintainer = "spudowiar"

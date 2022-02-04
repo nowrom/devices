@@ -1,0 +1,8 @@
+codename = "c5lte"
+brand = "Samsung"
+name = "Galaxy C5"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = false

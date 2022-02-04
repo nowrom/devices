@@ -1,6 +1,6 @@
+codename = "NB1"
 brand = "Nokia"
 name = "Nokia 8"
-codename = "NB1"
 
 [[roms]]
 id = "ancientos"
@@ -11,3 +11,7 @@ id = "havocos"
 url = "https://download.havoc-os.com/NB1/Havoc-OS-v4.13-20220131-NB1-Official-GApps.zip"
 maintainer = "Edward Wu"
 group = "https://t.me/+m91dOnxt6mo3MzE1"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "dg28gadhavi"

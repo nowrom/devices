@@ -1,0 +1,8 @@
+codename = "s2ve"
+brand = "Samsung"
+name = "Galaxy S2 Plus"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

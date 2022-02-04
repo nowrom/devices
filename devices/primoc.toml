@@ -1,0 +1,8 @@
+codename = "primoc"
+brand = "HTC"
+name = "One V"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

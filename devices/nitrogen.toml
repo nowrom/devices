@@ -1,0 +1,13 @@
+codename = "nitrogen"
+brand = "Xiaomi"
+name = "MI MAX 3"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-max-3/development/official-twrp-3-2-x-xiaomi-mi-max-3-t3825561"
+maintainer = "ROMFACTORY"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

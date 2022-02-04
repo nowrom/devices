@@ -1,0 +1,8 @@
+codename = "dorado"
+brand = "Verizon Wireless"
+name = "Wear24"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mkorenko"

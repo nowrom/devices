@@ -1,6 +1,7 @@
 brand = "Xiaomi"
 name = "Mi 10T / Mi 10T Pro / Redmi K30S Ultra"
 codename = "apollon"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

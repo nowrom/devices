@@ -1,0 +1,9 @@
+codename = "grandprimeve3g"
+brand = "Samsung"
+name = "Galaxy Grand Prime"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/grand-prime/orig-development/recovery-twrp-3-2-2-0-samsung-galaxy-t3819001"
+maintainer = "Remilia Scarlet"

@@ -1,0 +1,8 @@
+codename = "PLE"
+brand = "Nokia"
+name = "Nokia 6"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "racer123"

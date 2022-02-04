@@ -1,0 +1,8 @@
+codename = "citrus"
+brand = "POCO"
+name = "POCO M3"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = false

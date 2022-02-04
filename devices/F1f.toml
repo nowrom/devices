@@ -1,9 +1,13 @@
+codename = "F1f"
 brand = "Oppo"
 name = "F1w"
-codename = "F1f"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "brinlyaus"

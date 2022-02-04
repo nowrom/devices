@@ -1,0 +1,8 @@
+codename = "streak7"
+brand = "Dell"
+name = "streak7"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

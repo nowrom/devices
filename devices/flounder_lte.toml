@@ -1,6 +1,7 @@
 brand = "HTC"
 name = "Nexus 9 LTE"
 codename = "flounder_lte"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

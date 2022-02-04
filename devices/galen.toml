@@ -1,0 +1,8 @@
+codename = "galen"
+brand = "NVidia"
+name = "NVidia Jetson AGX Xavier"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "webgeek1234"

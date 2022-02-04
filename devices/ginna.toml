@@ -1,0 +1,8 @@
+codename = "ginna"
+brand = "Motorola"
+name = "moto e (XT2052DL)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Rohan Hasabe, electimon, kaneawk"

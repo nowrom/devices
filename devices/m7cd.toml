@@ -1,0 +1,9 @@
+codename = "m7cd"
+brand = "HTC"
+name = "HTC One m7 Dual SIM"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/htc-one/development/recovery-htc-one-dual-sim-802w-802d-t2982133"
+maintainer = "Bruno Martins (bgcngm)"

@@ -1,0 +1,8 @@
+codename = "degas"
+brand = "Samsung"
+name = "Samsung Galaxy Tab 4 7.0"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

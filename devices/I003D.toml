@@ -1,0 +1,9 @@
+codename = "I003D"
+brand = "ASUS"
+name = "ASUS ROG Phone 3"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/asus-rog-phone-3/development/recovery-twrp-asus-rog-phone-3-t4158949"
+maintainer = "Captain_Throwback"

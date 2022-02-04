@@ -1,0 +1,8 @@
+codename = "brepdugl"
+brand = "HTC"
+name = "HTC Desire 12+"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "sabpprook"

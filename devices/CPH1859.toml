@@ -1,6 +1,7 @@
 brand = "Oppo"
 name = "realme 1"
 codename = "CPH1859"
+recoveries = []
 
 [[roms]]
 id = "blissroms"

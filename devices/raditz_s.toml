@@ -1,0 +1,8 @@
+codename = "raditz_s"
+brand = "bq"
+name = "Aquaris Vs Plus"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

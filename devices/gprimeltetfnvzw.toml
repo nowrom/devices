@@ -1,0 +1,9 @@
+codename = "gprimeltetfnvzw"
+brand = "Samsung"
+name = "Galaxy Grand Prime"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/grand-prime/development/official-twrp-3-x-grand-prime-sm-g530t-t3533998"
+maintainer = "Vincent Zvikaramba"

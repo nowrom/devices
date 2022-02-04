@@ -1,6 +1,6 @@
+codename = "ginkgo"
 brand = "Xiaomi"
 name = "Redmi Note 8"
-codename = "ginkgo"
 
 [[roms]]
 id = "pixelextended"
@@ -101,6 +101,15 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.8"
 developer = "TheHitMan"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/redmi-note-8/development/recovery-unofficial-twrp-xiaomi-redmi-t3997267"
+maintainer = "erwinabs"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
 
 [specs]
 cpu = "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)"

@@ -1,6 +1,6 @@
+codename = "rolex"
 brand = "ZTE"
 name = "AXON WATCH"
-codename = "rolex"
 
 [[roms]]
 id = "ancientos"
@@ -10,3 +10,8 @@ id = "pixelextended"
 
 [[roms]]
 id = "dotos"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/redmi-4a/development/recovery-twrp-3-1-0-0-xiaomi-redmi-4a-t3576024"
+maintainer = "none"

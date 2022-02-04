@@ -1,0 +1,9 @@
+codename = "taido"
+brand = "Motorola"
+name = "Motorola Moto E 2016"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/moto-e3/development/recovery-twrp-motorola-moto-e-2016-t3487397"
+maintainer = "HostZero"

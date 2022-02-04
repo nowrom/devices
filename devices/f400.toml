@@ -1,9 +1,13 @@
+codename = "f400"
 brand = "Emtec"
 name = "F400"
-codename = "f400"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait 400"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

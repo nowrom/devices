@@ -1,0 +1,9 @@
+codename = "serranoltespr"
+brand = "Samsung"
+name = "Galaxy S4 Mini"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-s4-mini/orig-development/recovery-twrp-3-2-1-0-t3736888"
+maintainer = "ripee"

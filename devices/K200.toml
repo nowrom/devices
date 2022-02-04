@@ -1,0 +1,8 @@
+codename = "K200"
+brand = "LT Electronics"
+name = "K200"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "abdul_pt"

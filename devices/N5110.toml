@@ -1,6 +1,7 @@
 brand = "Oppo"
 name = "N5110"
 codename = "N5110"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

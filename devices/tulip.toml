@@ -1,6 +1,6 @@
+codename = "tulip"
 brand = "ZTE"
 name = "B2017G"
-codename = "tulip"
 
 [[roms]]
 id = "pixelextended"
@@ -54,3 +54,11 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.9"
 developer = "Niteshkumar15"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "DD3Boh, mauronofrio"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

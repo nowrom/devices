@@ -1,0 +1,8 @@
+codename = "poplar_dsds"
+brand = "Sony"
+name = "Sony Xperia XZ1 DSDS"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "cryptomilk & derfelot"

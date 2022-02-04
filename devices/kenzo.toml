@@ -1,6 +1,6 @@
+codename = "kenzo"
 brand = "Xiaomi"
 name = "Redmi Note 3"
-codename = "kenzo"
 
 [[roms]]
 id = "blissroms"
@@ -22,3 +22,11 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.8"
 developer = "Sagar Rokade"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Parth Bhatia (TheStrix)"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

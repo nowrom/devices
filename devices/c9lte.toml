@@ -1,0 +1,9 @@
+codename = "c9lte"
+brand = "Samsung"
+name = "Galaxy C9 Pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/c9-pro/development/twrp-sm-c900f-sm-c900y-galaxy-c9-pro-t3652180"
+maintainer = "deadman96385"

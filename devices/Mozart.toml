@@ -1,0 +1,8 @@
+codename = "Mozart"
+brand = "Toshiba"
+name = "tt300/tt301/tt302"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "paulobrien"

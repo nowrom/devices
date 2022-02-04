@@ -1,0 +1,8 @@
+codename = "goyave"
+brand = "Samsung"
+name = "Samsung Galaxy Tab 3 Lite 7.0 3G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

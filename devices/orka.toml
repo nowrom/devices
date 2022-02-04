@@ -1,0 +1,8 @@
+codename = "orka"
+brand = "Vestel"
+name = "Vestel Venus V4"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "barishirece"

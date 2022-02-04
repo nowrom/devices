@@ -1,0 +1,8 @@
+codename = "chaozulite"
+brand = "bq"
+name = "Aquaris U lite"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

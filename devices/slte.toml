@@ -1,0 +1,8 @@
+codename = "slte"
+brand = "Samsung"
+name = "Galaxy Alpha"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

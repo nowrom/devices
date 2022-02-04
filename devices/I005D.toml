@@ -1,0 +1,9 @@
+codename = "I005D"
+brand = "ASUS"
+name = "ASUS ROG Phone 5/5S"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-asus-rog-phone-5-rog-phone-5s.4333661/"
+maintainer = "mikalovtch, Captain_Throwback"

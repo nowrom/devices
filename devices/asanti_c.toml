@@ -1,0 +1,8 @@
+codename = "asanti_c"
+brand = "Motorola"
+name = "Photon"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "arrrghhh"

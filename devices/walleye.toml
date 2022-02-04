@@ -49,6 +49,10 @@ deprecated = false
 [[roms]]
 id = "revengeos"
 
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"
+
 [specs]
 cpu = "Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo)"
 weight = "175 g (6.17 oz)"

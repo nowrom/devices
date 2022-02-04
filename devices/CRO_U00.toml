@@ -1,0 +1,9 @@
+codename = "CRO_U00"
+brand = "Huawei"
+name = "Huawei Y3 2017"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/android/development/official-twrp-huawei-y3-2017-cro-u00-t3872030/"
+maintainer = "Khalid Hasan"

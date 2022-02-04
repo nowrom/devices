@@ -1,0 +1,8 @@
+codename = "dory"
+brand = "LGE"
+name = "G Watch"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

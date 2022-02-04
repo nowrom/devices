@@ -1,6 +1,7 @@
 brand = "LGE"
 name = "G2 MINI"
 codename = "g2m"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

@@ -1,0 +1,8 @@
+codename = "Sprout"
+brand = "T-Mobile"
+name = "REVVL V+ 5G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Anik1199"

@@ -1,6 +1,7 @@
 brand = "Google"
 name = "Pixel 4a (5G)"
 codename = "bramble"
+recoveries = []
 
 [[roms]]
 id = "calyxos"

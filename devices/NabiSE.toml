@@ -1,0 +1,9 @@
+codename = "NabiSE"
+brand = "Mattel"
+name = "Nabi SE"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/nabi-2/general/nabi-nabi-se-discussion-thread-t3770816"
+maintainer = "huckleberrypie"

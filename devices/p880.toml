@@ -1,0 +1,8 @@
+codename = "p880"
+brand = "LG"
+name = "LG Optimus 4x HD"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

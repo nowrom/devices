@@ -1,9 +1,18 @@
+codename = "a7y17lte"
 brand = "Samsung"
 name = "Galaxy A7(2017)"
-codename = "a7y17lte"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/samsung-a-series-2017/development/recovery-galaxy-a5-a7-2017-t3815931"
+maintainer = "corsicanu"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

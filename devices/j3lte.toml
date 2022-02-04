@@ -1,0 +1,8 @@
+codename = "j3lte"
+brand = "Samsung"
+name = "Samsung Galaxy J3 2016 Qualcomm (SM-J320YZ)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

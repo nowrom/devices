@@ -1,6 +1,7 @@
 brand = "asus"
 name = "ZenFone 8"
 codename = "sake"
+recoveries = []
 
 [[roms]]
 id = "arrowos"

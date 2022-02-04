@@ -1,0 +1,8 @@
+codename = "gauguinpro"
+brand = "Redmi"
+name = "Redmi Note 9 pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "prajwal-walia"

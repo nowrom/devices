@@ -1,0 +1,9 @@
+codename = "kylepro"
+brand = "Samsung"
+name = "Galaxy Trend Plus"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/showthread.php?p=69168023"
+maintainer = "TheComputerGuy96"

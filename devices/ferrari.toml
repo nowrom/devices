@@ -1,0 +1,8 @@
+codename = "ferrari"
+brand = "Xiaomi"
+name = "Mi 4i"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "juliusssssmiui"

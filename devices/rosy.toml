@@ -1,6 +1,6 @@
+codename = "rosy"
 brand = "Xiaomi"
 name = "Redmi 5"
-codename = "rosy"
 
 [[roms]]
 id = "pixelextended"
@@ -37,3 +37,12 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-rosy-project-sakura-unof
 maintainer_url = "https://forum.xda-developers.com/m/arulebin.10604733/"
 maintainer_name = "Ebin"
 active = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/android/development/official-official-twrp-xiaomi-redmi-5-t3727158"
+maintainer = "Isaac Chen"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

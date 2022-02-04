@@ -1,0 +1,9 @@
+codename = "davinciin"
+brand = "Redmi"
+name = "Redmi K20"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-9t/development/recovery-unofficial-twrp-xiaomi-redmi-t3960726"
+maintainer = "Mauronofrio"

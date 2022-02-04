@@ -1,0 +1,12 @@
+codename = "cactus"
+brand = "Xiaomi"
+name = "Redmi 6A"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "MegaFon929"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

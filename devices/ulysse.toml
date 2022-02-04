@@ -1,6 +1,7 @@
 brand = "Xiaomi"
 name = "Xiaomi Redmi Note 5A"
 codename = "ulysse"
+recoveries = []
 
 [[roms]]
 id = "havocos"

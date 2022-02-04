@@ -1,0 +1,8 @@
+codename = "eva"
+brand = "Xiaomi"
+name = "Mi smart projector"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "paulobrien"

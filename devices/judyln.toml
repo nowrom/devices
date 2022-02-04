@@ -1,9 +1,13 @@
+codename = "judyln"
 brand = "LGE"
 name = "LG G7 ThinQ"
-codename = "judyln"
 
 [[roms]]
 id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

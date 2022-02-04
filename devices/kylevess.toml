@@ -1,0 +1,8 @@
+codename = "kylevess"
+brand = "Samsung"
+name = "Galaxy Trend Lite"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Grace5921"

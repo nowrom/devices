@@ -1,0 +1,8 @@
+codename = "i9082"
+brand = "Samsung"
+name = "Samsung Galaxy Grand Duos"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

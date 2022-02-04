@@ -1,0 +1,8 @@
+codename = "NX551J"
+brand = "ZTE"
+name = "NX551J"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mauronofrio"

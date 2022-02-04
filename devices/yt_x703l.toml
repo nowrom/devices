@@ -1,0 +1,8 @@
+codename = "yt_x703l"
+brand = "Lenovo"
+name = "Lenovo Yoga Tab 3 Plus LTE"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Matshias"

@@ -1,6 +1,7 @@
 brand = "Sony"
 name = "Xperia Tablet Z2 LTE"
 codename = "castor"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

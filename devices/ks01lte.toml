@@ -1,9 +1,17 @@
+codename = "ks01lte"
 brand = "Samsung"
 name = "Galaxy S4"
-codename = "ks01lte"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait 400"
 ram = "2 GB"
 wifi = "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mikeioannina"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

@@ -1,0 +1,8 @@
+codename = "h819"
+brand = "LG"
+name = "LG G4"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "steadfasterX"

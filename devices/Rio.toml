@@ -1,0 +1,8 @@
+codename = "Rio"
+brand = "ImageMobile"
+name = "Rio"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "eloygomez"

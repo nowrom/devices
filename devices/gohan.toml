@@ -1,9 +1,13 @@
+codename = "gohan"
 brand = "BQ"
 name = "Aquaris X5 Plus"
-codename = "gohan"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A72"
 ram = "2/3 GB"
 wifi = "802.11 b/g/n/ac, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

@@ -1,9 +1,13 @@
+codename = "M7"
 brand = "Meberry"
 name = "M7"
-codename = "M7"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait 300"
 ram = "2 GB"
 wifi = "802.11 a/b/g/n/ac 2.4/5GHz"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mdmower"

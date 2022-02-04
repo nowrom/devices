@@ -1,0 +1,8 @@
+codename = "freezerhd"
+brand = "BQ"
+name = "BQ Aquaris M10"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

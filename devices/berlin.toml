@@ -1,0 +1,8 @@
+codename = "berlin"
+brand = "Motorola"
+name = "motorola edge 轻奢版"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

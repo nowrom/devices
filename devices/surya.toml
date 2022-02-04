@@ -1,6 +1,7 @@
 brand = "POCO"
 name = "POCO X3 NFC"
 codename = "surya"
+recoveries = []
 
 [[roms]]
 id = "pixelextended"

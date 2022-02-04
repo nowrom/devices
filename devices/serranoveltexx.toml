@@ -1,0 +1,8 @@
+codename = "serranoveltexx"
+brand = "Samsung"
+name = "Samsung Galaxy S4 Mini 64 bit ONLY"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

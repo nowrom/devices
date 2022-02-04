@@ -1,9 +1,14 @@
+codename = "gtelwifiue"
 brand = "Samsung"
 name = "Galaxy Tab E 9.6"
-codename = "gtelwifiue"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "1.5 GB"
 wifi = "802.11 a/b/g/n"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/showthread.php?t=3534122"
+maintainer = "Vincent Zvikaramba"

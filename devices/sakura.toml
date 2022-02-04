@@ -1,6 +1,6 @@
+codename = "sakura"
 brand = "Xiaomi"
 name = "Redmi 6Pro"
-codename = "sakura"
 
 [[roms]]
 id = "ancientos"
@@ -51,3 +51,11 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "mithuprince"
 active = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "aragon12 (shubham)"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

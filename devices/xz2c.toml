@@ -1,6 +1,7 @@
 brand = "Sony"
 name = "Xperia XZ2 Compact"
 codename = "xz2c"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

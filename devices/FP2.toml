@@ -1,9 +1,13 @@
+codename = "FP2"
 brand = "Fairphone"
 name = "FP2"
-codename = "FP2"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait 400"
 ram = "2 GB"
 wifi = "802.11 b/g/n/ac"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "z3ntu"

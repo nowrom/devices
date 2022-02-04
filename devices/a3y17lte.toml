@@ -1,0 +1,12 @@
+codename = "a3y17lte"
+brand = "Samsung"
+name = "Galaxy A3(2017)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "McFy"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

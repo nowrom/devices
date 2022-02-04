@@ -1,0 +1,8 @@
+codename = "yamchalite"
+brand = "bq"
+name = "Aquaris U2 Lite"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

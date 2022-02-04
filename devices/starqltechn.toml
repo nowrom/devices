@@ -1,6 +1,6 @@
+codename = "starqltechn"
 brand = "Samsung"
 name = "Galaxy S9"
-codename = "starqltechn"
 
 [[roms]]
 id = "AOSPK"
@@ -8,3 +8,11 @@ xda_thread = ""
 
 [[roms]]
 id = "dotos"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "klabit87"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

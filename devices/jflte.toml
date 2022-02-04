@@ -1,0 +1,9 @@
+codename = "jflte"
+brand = "Samsung"
+name = "Galaxy S4"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-s4/i9505-orig-develop/recovery-twrp-3-2-1-0-t3742880"
+maintainer = "ripee"

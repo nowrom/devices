@@ -1,0 +1,8 @@
+codename = "saga"
+brand = "HTC"
+name = "Desire S"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

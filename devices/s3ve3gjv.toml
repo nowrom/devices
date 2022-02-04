@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy S III Neo (Samsung Camera)"
 codename = "s3ve3gjv"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

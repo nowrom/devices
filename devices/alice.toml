@@ -1,0 +1,8 @@
+codename = "alice"
+brand = "ZTE"
+name = "ZTE C2017"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = true

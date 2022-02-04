@@ -1,6 +1,7 @@
 brand = "IkuMobile"
 name = "T6"
 codename = "T6"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

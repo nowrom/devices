@@ -1,6 +1,7 @@
 brand = "Huawei"
 name = "Ascend Mate 2 4G"
 codename = "mt2"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

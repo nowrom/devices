@@ -1,0 +1,9 @@
+codename = "wt86518"
+brand = "Lenovo"
+name = "Lenovo K30-T"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/lenovo-a6000/how-to/twrp-development-wt86518-t3498524"
+maintainer = "IsaacChen"

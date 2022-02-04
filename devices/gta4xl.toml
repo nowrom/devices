@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy Tab S6 Lite"
 codename = "gta4xl"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

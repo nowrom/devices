@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy Note 8.0 (GSM)"
 codename = "n5100"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

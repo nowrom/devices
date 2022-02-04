@@ -1,6 +1,7 @@
 brand = "Xiaomi"
 name = "Redmi Note 6 Pro"
 codename = "twolip"
+recoveries = []
 
 [[roms]]
 id = "blissroms"

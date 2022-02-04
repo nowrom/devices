@@ -1,0 +1,8 @@
+codename = "A20S"
+brand = "X-TIGI"
+name = "A20S"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Velosh"

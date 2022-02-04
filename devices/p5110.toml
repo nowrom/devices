@@ -1,0 +1,8 @@
+codename = "p5110"
+brand = "Samsung"
+name = "Samsung Galaxy Tab 2 10.1 (Wi-Fi)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

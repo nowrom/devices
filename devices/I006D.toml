@@ -1,0 +1,9 @@
+codename = "I006D"
+brand = "ASUS"
+name = "ASUS ZenFone 8"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-twrp-for-zenfone-8.4329139"
+maintainer = "Captain_Throwback"

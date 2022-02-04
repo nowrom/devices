@@ -1,0 +1,8 @@
+codename = "fireball"
+brand = "HTC"
+name = "DROID Incredible 4G LTE"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mdmower"

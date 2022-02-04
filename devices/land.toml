@@ -1,6 +1,6 @@
+codename = "land"
 brand = "Xiaomi"
 name = "Redmi 3S"
-codename = "land"
 
 [[roms]]
 id = "arrowos"
@@ -43,3 +43,8 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.4"
 developer = "weritos"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/xiaomi-redmi-3s/development/recovery-twrp-3-1-0-0-xiaomi-redmi-3s-t3585945"
+maintainer = "Darshan M. (darshan1205)"

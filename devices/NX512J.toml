@@ -1,9 +1,13 @@
+codename = "NX512J"
 brand = "ZTE"
 name = "NX512J"
-codename = "NX512J"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "2 GB"
 wifi = "802.11 b/g/n/ac Dual-band, Wi-Fi Direct, DLNA, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Bauuuuu"

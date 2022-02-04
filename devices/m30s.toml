@@ -1,0 +1,9 @@
+codename = "m30s"
+brand = "Samsung"
+name = "Galaxy M30s"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/unofficial-recovery-twrp-3-4-0-0-for-galaxy-m30s.4035019/"
+maintainer = "santhosh6194"

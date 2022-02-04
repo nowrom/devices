@@ -1,0 +1,9 @@
+codename = "mars"
+brand = "Xiaomi"
+name = "Mi 11 Pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-star-mars-official-teamwin-recovery-project.4374111/"
+maintainer = "Nebrassy"

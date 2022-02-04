@@ -1,4 +1,5 @@
 codename = "ulova"
+recoveries = []
 
 [[roms]]
 id = "revengeos"

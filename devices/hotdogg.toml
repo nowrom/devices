@@ -1,6 +1,7 @@
 brand = "OnePlus"
 name = "OnePlus 7T Pro 5G Mclaren"
 codename = "hotdogg"
+recoveries = []
 
 [[roms]]
 id = "crdroid"

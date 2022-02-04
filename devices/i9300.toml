@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy S III (International)"
 codename = "i9300"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

@@ -1,0 +1,9 @@
+codename = "p4noterf"
+brand = "Samsung"
+name = "Galaxy Note 10.1"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-5-0_9-0-n8000-n8010-n8020.4233725/"
+maintainer = "html6405"

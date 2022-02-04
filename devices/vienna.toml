@@ -1,0 +1,8 @@
+codename = "vienna"
+brand = "Huawei"
+name = "Huawei P9 Plus"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "paulobrien"

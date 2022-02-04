@@ -1,9 +1,13 @@
+codename = "clark"
 brand = "Motorola"
 name = "Moto X Style"
-codename = "clark"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A57"
 ram = "3 GB"
 wifi = "802.11 a/g/b/n/ac + MIMO"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Hashbang173"

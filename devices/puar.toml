@@ -1,0 +1,8 @@
+codename = "puar"
+brand = "BQ"
+name = "BQ Aquaris E4"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

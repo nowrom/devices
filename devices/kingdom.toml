@@ -1,6 +1,7 @@
 brand = "HTC"
 name = "HTCEVODesign4G"
 codename = "kingdom"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

@@ -1,0 +1,8 @@
+codename = "xcover3velte"
+brand = "Samsung"
+name = "Galaxy Xcover3"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"

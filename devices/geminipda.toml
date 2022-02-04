@@ -1,0 +1,9 @@
+codename = "geminipda"
+brand = "Planet"
+name = "Planet Gemini PDA"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/gemini-pda/development/recovery-twrp-3-2-1-0-t3763855"
+maintainer = "deadman96385"

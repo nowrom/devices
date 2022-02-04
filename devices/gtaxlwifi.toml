@@ -4,3 +4,8 @@ name = "Galaxy Tab A 10.1"
 
 [[roms]]
 id = "blissroms"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-tab-a/development/recovery-t3995181"
+maintainer = "srgrusso"

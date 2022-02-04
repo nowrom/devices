@@ -1,0 +1,8 @@
+codename = "exhilarate"
+brand = "Samsung"
+name = "Samsung Galaxy S2 Exhilarate SGH-i577"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

@@ -1,6 +1,6 @@
+codename = "onclite"
 brand = "Xiaomi"
 name = "Redmi 7"
-codename = "onclite"
 
 [[roms]]
 id = "pixelextended"
@@ -38,6 +38,14 @@ xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom
 
 [[roms]]
 id = "pixyos"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "KostyaJRZ"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
 
 [specs]
 cpu = "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)"

@@ -1,0 +1,8 @@
+codename = "U3"
+brand = "TCT (Alcatel)"
+name = "4055U"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Abdess"

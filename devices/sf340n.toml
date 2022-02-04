@@ -1,0 +1,8 @@
+codename = "sf340n"
+brand = "LGE"
+name = "LG Stylo 3 Plus"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "messi2050"

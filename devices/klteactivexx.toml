@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy S5 Active (G870F)"
 codename = "klteactivexx"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

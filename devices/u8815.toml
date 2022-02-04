@@ -1,0 +1,8 @@
+codename = "u8815"
+brand = "Huawei"
+name = "Huawei U8815"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

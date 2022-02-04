@@ -1,0 +1,13 @@
+codename = "karate"
+brand = "Lenovo"
+name = "Lenovo K33"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/android/development/recovery-twrp-3-0-2-lenovo-vibe-k6-t3618912"
+maintainer = "karthick111"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

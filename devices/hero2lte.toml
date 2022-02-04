@@ -1,6 +1,6 @@
+codename = "hero2lte"
 brand = "Samsung"
 name = "Galaxy S7 edge"
-codename = "hero2lte"
 
 [[roms]]
 id = "lineageos"
@@ -21,3 +21,8 @@ deprecated = true
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-unoffical-hero2lte-pixelexperience-aosp.4276771/"
 deprecated = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/s7-edge/development/recovery-official-twrp-hero2lte-3-0-0-0-t3334084"
+maintainer = "ivanmeler"

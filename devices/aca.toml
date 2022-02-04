@@ -1,0 +1,9 @@
+codename = "aca"
+brand = "HTC"
+name = "HTC Bolt/10 Evo"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/bolt/development/recovery-twrp-touch-recovery-t3519304"
+maintainer = "None"

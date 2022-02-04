@@ -1,9 +1,14 @@
+codename = "toro"
 brand = "Samsung"
 name = "Galaxy Nexus"
-codename = "toro"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A9"
 ram = "1 GB"
 wifi = "802.11 a/b/g/n, Dual-band, DLNA, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/galaxy-nexus/verizon-develop/recovery-twrp-2-7-1-0-touch-recovery-t1615168"
+maintainer = "Ziyan"

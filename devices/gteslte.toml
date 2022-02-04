@@ -1,0 +1,9 @@
+codename = "gteslte"
+brand = "Samsung"
+name = "Samsung Galaxy Tab E 8.0 Exynos"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/android/development/recovery-official-twrp-gteslte-galaxy-t3419219"
+maintainer = "jcadduono"

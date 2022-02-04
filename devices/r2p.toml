@@ -1,6 +1,7 @@
 codename = "r2p"
 brand = "Realme"
 name = "Realme 2 Pro"
+recoveries = []
 
 [[roms]]
 id = "pixelexperience"

@@ -1,0 +1,8 @@
+codename = "zaracl"
+brand = "HTC"
+name = "Desire 601"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

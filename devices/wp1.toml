@@ -1,0 +1,9 @@
+codename = "wp1"
+brand = "Oukitel"
+name = "OUKITEL WP1"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/android/development/twrp-twrp-3-3-0-0-oukitel-wp1-t3933827"
+maintainer = "chankruze"

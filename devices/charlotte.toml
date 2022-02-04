@@ -1,9 +1,14 @@
+codename = "charlotte"
 brand = "Huawei"
 name = "P20 Pro"
-codename = "charlotte"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A73 & Cortex-A53"
 ram = "6/8 GB"
 wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/huawei-p20-pro/development/recovery-twrp-3-2-1-0-touch-recovery-t3779336"
+maintainer = "Zanooda"

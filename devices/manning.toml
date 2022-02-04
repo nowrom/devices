@@ -1,0 +1,8 @@
+codename = "manning"
+brand = "Lenovo"
+name = "Lenovo K8 Note"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Maanush2004"

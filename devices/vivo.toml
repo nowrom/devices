@@ -1,0 +1,8 @@
+codename = "vivo"
+brand = "HTC"
+name = "Incredible S"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

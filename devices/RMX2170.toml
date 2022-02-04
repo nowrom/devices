@@ -1,6 +1,7 @@
 brand = "Realme"
 name = "Realme 7 Pro"
 codename = "RMX2170"
+recoveries = []
 
 [[roms]]
 id = "evolutionx"

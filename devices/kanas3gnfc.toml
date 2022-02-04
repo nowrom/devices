@@ -1,0 +1,8 @@
+codename = "kanas3gnfc"
+brand = "Samsung"
+name = "Galaxy Core2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Y300-0100"

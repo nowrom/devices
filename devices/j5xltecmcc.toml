@@ -1,0 +1,9 @@
+codename = "j5xltecmcc"
+brand = "Samsung"
+name = "Galaxy J5(2016)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-j5/samsung-galaxy-j5-2016-roms-kernels-recoveries--other-development/official-twrp-3-3-1-galaxy-j5-2016-t3976033"
+maintainer = "palmbeach05"

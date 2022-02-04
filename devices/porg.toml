@@ -1,6 +1,7 @@
 brand = "Nvidia"
 name = "Jetson (Nano / Nano 2GB) [Android TV]"
 codename = "porg"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

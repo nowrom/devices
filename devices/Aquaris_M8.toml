@@ -1,0 +1,8 @@
+codename = "Aquaris_M8"
+brand = "bq"
+name = "M8"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "R0rt1z2"

@@ -1,0 +1,8 @@
+codename = "s3ve3g"
+brand = "Samsung"
+name = "Galaxy S3 Neo Plus"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "MoonPWR"

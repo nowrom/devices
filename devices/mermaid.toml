@@ -1,9 +1,13 @@
+codename = "mermaid"
 brand = "Sony"
 name = "Xperia 10 Plus"
-codename = "mermaid"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 260"
 ram = "4/6 GB"
 wifi = "802.11 a/b/g/n, dual band, Wi-Fi Direct, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "LuK1337"

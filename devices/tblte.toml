@@ -1,0 +1,9 @@
+codename = "tblte"
+brand = "Samsung"
+name = "Galaxy Note Edge"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/note-edge/development/twrp-915fy-915tmo-moment-t3129459"
+maintainer = "mickey387"

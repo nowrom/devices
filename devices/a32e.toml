@@ -1,0 +1,8 @@
+codename = "a32e"
+brand = "HTC"
+name = "HTC Desire 626s"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "CaptainThrowback"

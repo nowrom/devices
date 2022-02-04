@@ -1,0 +1,9 @@
+codename = "j7popltespr"
+brand = "Samsung"
+name = "Galaxy J7 Perx"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-j7/development/recovery-twrp-3-1-1-x-galaxy-j727p-t3692663"
+maintainer = "minz1"

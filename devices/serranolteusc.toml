@@ -1,0 +1,8 @@
+codename = "serranolteusc"
+brand = "Samsung"
+name = "Galaxy S4 Mini"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "jason972000"

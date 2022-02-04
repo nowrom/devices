@@ -1,0 +1,9 @@
+codename = "spartan"
+brand = "Realme"
+name = "Realme 3"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/realme-3/development/recovery-twrp-3-3-x-realme-3-t3934252"
+maintainer = "chankruze"

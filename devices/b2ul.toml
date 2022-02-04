@@ -1,0 +1,8 @@
+codename = "b2ul"
+brand = "HTC"
+name = "HTC Butterfly 2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

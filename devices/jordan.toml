@@ -1,0 +1,8 @@
+codename = "jordan"
+brand = "Motorola"
+name = "Motorola Defy"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

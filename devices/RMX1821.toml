@@ -1,0 +1,8 @@
+codename = "RMX1821"
+brand = "Oppo"
+name = "realme 3"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = false

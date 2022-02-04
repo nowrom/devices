@@ -1,6 +1,7 @@
 brand = "Motorola"
 name = "Droid RAZR"
 codename = "umts_spyder"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

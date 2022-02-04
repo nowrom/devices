@@ -1,6 +1,7 @@
 brand = "SHIFT"
 name = "SHIFT6mq"
 codename = "axolotl"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

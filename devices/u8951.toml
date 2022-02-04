@@ -1,0 +1,8 @@
+codename = "u8951"
+brand = "Huawei"
+name = "Huawei G510"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

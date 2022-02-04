@@ -1,6 +1,7 @@
 brand = "Google"
 name = "Pixel 4a"
 codename = "sunfish"
+recoveries = []
 
 [[roms]]
 id = "calyxos"

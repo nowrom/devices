@@ -1,0 +1,8 @@
+codename = "P500"
+brand = "Polytron"
+name = "P500"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

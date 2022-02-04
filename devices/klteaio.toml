@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy S5"
 codename = "klteaio"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

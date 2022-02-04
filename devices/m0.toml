@@ -1,0 +1,9 @@
+codename = "m0"
+brand = "Samsung"
+name = "Galaxy S3"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-5-0_9-0-i9300-i9305.4241781/post-84590975"
+maintainer = "html6405"

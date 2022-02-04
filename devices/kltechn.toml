@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy S5 LTE (G9006V/8V)"
 codename = "kltechn"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

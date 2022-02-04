@@ -1,6 +1,6 @@
+codename = "armani"
 brand = "Xiaomi"
 name = "HM 1SC"
-codename = "armani"
 
 [[roms]]
 id = "arrowos"
@@ -11,3 +11,8 @@ id = "lineageos"
 cpu = "Cortex-A7"
 ram = "1 GB"
 wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/redmi-1s/orig-development/team-win-recovery-project-t3507843"
+maintainer = "fefifofum"

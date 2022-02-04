@@ -1,6 +1,6 @@
+codename = "kunlun2"
 brand = "Lenovo"
 name = "TBD"
-codename = "kunlun2"
 
 [[roms]]
 id = "pixelexperience"
@@ -23,3 +23,7 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/"
 stable = true
 deprecated = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Mauronofrio"

@@ -1,6 +1,6 @@
+codename = "lithium"
 brand = "Xiaomi"
 name = "MIX"
-codename = "lithium"
 
 [[roms]]
 id = "lineageos"
@@ -21,3 +21,8 @@ deprecated = true
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t4207151"
 deprecated = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/mi-mix/development/recovery-official-twrp-xiaomi-mi-mix-t3498960"
+maintainer = "jcadduono"

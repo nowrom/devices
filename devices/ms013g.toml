@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy Grand2"
 codename = "ms013g"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

@@ -1,6 +1,7 @@
 brand = "Nubia"
 name = "Nubia Mini 5G"
 codename = "TP1803"
+recoveries = []
 
 [[roms]]
 id = "pixelexperience"

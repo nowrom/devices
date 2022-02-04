@@ -1,6 +1,7 @@
 brand = "Sony"
 name = "Xperia Z4 Tablet WiFi"
 codename = "karin_windy"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

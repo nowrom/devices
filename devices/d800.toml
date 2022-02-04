@@ -1,6 +1,7 @@
 brand = "British Telecom"
 name = "HomeSmartphone d800"
 codename = "d800"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

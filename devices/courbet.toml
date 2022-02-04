@@ -1,6 +1,7 @@
 brand = "Xiaomi"
 name = "Mi 11 Lite"
 codename = "courbet"
+recoveries = []
 
 [[roms]]
 id = "ancientos"

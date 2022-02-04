@@ -1,6 +1,6 @@
+codename = "tissot"
 brand = "Xiaomi"
 name = "Mi A1 (Tissot)"
-codename = "tissot"
 
 [[roms]]
 id = "ancientos"
@@ -70,3 +70,8 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v2.9"
 developer = "mdeejay"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-a1/development/recovery-twrp-3-1-1-0-touch-recovery-t3688472"
+maintainer = "nicknitewolf"

@@ -1,0 +1,8 @@
+codename = "A117"
+brand = "Micromax"
+name = "Canvas Magnus"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

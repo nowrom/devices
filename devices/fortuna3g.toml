@@ -1,0 +1,9 @@
+codename = "fortuna3g"
+brand = "Samsung"
+name = "Galaxy Grand Prime"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/grand-prime/development/twrp-twrp-3-0-2-r4-fortunaxx3g-t3486433"
+maintainer = "Carlos Arriaga"

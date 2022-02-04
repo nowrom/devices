@@ -1,6 +1,6 @@
+codename = "andromeda"
 brand = "Xiaomi"
 name = "Mi MIX 3 5G"
-codename = "andromeda"
 
 [[roms]]
 id = "havocos"
@@ -28,3 +28,8 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/4131417/"
 stable = true
 deprecated = false
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-mix-3/development/recovery-unofficial-twrp-xiaomi-mi-mix-t3941867"
+maintainer = "Mauronofrio"

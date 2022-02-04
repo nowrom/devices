@@ -1,0 +1,8 @@
+codename = "memwl"
+brand = "HTC"
+name = "HTC One Remix"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

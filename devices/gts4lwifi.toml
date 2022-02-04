@@ -1,0 +1,8 @@
+codename = "gts4lwifi"
+brand = "Samsung"
+name = "Galaxy Tab S4"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mentalmuso"

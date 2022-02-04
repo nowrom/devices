@@ -1,0 +1,9 @@
+codename = "kugo"
+brand = "Sony"
+name = "Sony Xperia X Compact"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/showthread.php?t=3793837"
+maintainer = "Chippa_a"

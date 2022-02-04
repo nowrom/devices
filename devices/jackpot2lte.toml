@@ -1,0 +1,9 @@
+codename = "jackpot2lte"
+brand = "Samsung"
+name = "Galaxy A8+(2018)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-a8-plus/development/recovery-twrp-3-2-2-0-galaxy-a8-2018-t3818204"
+maintainer = "BlackMesa123"

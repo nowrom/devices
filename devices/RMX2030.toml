@@ -1,0 +1,8 @@
+codename = "RMX2030"
+brand = "Realme"
+name = "realme 6i"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = false

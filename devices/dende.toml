@@ -1,0 +1,8 @@
+codename = "dende"
+brand = "BQ"
+name = "BQ Aquaris M4.5"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

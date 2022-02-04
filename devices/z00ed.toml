@@ -1,0 +1,8 @@
+codename = "z00ed"
+brand = "Asus"
+name = "Zenfone 2 Laser ZE500KL"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = false

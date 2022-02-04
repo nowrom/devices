@@ -1,0 +1,8 @@
+codename = "aries"
+brand = "Xiaomi"
+name = "MI 2"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "juliusssssmiui"

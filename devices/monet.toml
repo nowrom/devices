@@ -1,6 +1,7 @@
 brand = "Xiaomi"
 name = "Mi 10 lite 5G"
 codename = "monet"
+recoveries = []
 
 [[roms]]
 id = "arrowos"

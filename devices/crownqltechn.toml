@@ -1,6 +1,6 @@
+codename = "crownqltechn"
 brand = "Samsung"
 name = "Galaxy Note9"
-codename = "crownqltechn"
 
 [[roms]]
 id = "AOSPK"
@@ -8,3 +8,12 @@ xda_thread = ""
 
 [[roms]]
 id = "dotos"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-note-9/samsung-galaxy-note-9-snapdragon-roms-kernels-recoveries--other-development/recovery-twrp-galaxy-note9-snapdragon-t3845536"
+maintainer = "klabit87"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

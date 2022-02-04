@@ -1,0 +1,8 @@
+codename = "jgedlte"
+brand = "Samsung"
+name = "Galaxy S4 Google Play Edition"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

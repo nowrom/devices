@@ -1,0 +1,12 @@
+codename = "olivelite"
+brand = "Redmi"
+name = "Redmi 8A"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "AltsecDEV"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

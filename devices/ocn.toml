@@ -1,0 +1,9 @@
+codename = "ocn"
+brand = "HTC"
+name = "HTC U11"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/u11/development/recovery-twrp-touch-recovery-t3617028"
+maintainer = "CaptainThrowback"

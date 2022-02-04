@@ -1,0 +1,12 @@
+codename = "d2q"
+brand = "Samsung"
+name = "Galaxy Note10+"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mentalmuso"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

@@ -1,0 +1,8 @@
+codename = "mogolia"
+brand = "Huawei"
+name = "Huawei Honor 6"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "paulobrien"

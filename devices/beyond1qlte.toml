@@ -1,0 +1,8 @@
+codename = "beyond1qlte"
+brand = "Samsung"
+name = "Samsung Galaxy S10 Snapdragon"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mentalmuso"

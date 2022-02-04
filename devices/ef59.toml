@@ -1,0 +1,9 @@
+codename = "ef59"
+brand = "PANTECH"
+name = "Pantech VEGA Screct Note"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/android/development/recovery-twrp-3-0-2-0-pantech-sky-vega-t3509476"
+maintainer = "hoalamha"

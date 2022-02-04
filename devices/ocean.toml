@@ -1,6 +1,6 @@
+codename = "ocean"
 brand = "Motorola"
 name = "moto g(7) supra"
-codename = "ocean"
 
 [[roms]]
 id = "AOSPK"
@@ -45,3 +45,7 @@ xda_thread = "https://forum.xda-developers.com/t/rom-official-11-0-ocean-project
 maintainer_url = "https://forum.xda-developers.com/m/hisoka_simp.11481799/"
 maintainer_name = "hisoka_simp"
 active = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "SyberHexen"

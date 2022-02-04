@@ -1,0 +1,8 @@
+codename = "prevail2spr"
+brand = "Samsung"
+name = "Galaxy Rush"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

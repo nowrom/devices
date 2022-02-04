@@ -1,0 +1,8 @@
+codename = "nappa"
+brand = "bq"
+name = "Aquaris V"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

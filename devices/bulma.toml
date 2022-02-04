@@ -1,0 +1,8 @@
+codename = "bulma"
+brand = "BQ"
+name = "BQ Aquaris E6"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

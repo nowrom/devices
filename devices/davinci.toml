@@ -1,6 +1,6 @@
+codename = "davinci"
 brand = "Xiaomi"
 name = "Mi 9T"
-codename = "davinci"
 
 [[roms]]
 id = "ancientos"
@@ -93,3 +93,12 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v5.0"
 developer = "svb22"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-9t/development/recovery-unofficial-twrp-xiaomi-redmi-t3960726"
+maintainer = "Mauronofrio"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

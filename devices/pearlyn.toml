@@ -1,0 +1,8 @@
+codename = "pearlyn"
+brand = "Razer"
+name = "Forge TV"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "gabrielgagz"

@@ -1,0 +1,8 @@
+codename = "jaspervzw"
+brand = "Samsung"
+name = "Galaxy Stellar"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

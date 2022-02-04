@@ -1,0 +1,9 @@
+codename = "renoir"
+brand = "Xiaomi"
+name = "Mi 11 Lite 5G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project.4306807/"
+maintainer = "Nebrassy"

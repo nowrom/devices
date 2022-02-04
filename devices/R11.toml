@@ -1,0 +1,8 @@
+codename = "R11"
+brand = "Oppo"
+name = "R11"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Ethan Zuo"

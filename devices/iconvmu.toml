@@ -1,0 +1,8 @@
+codename = "iconvmu"
+brand = "Samsung"
+name = "Galaxy Reverb"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

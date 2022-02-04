@@ -1,0 +1,8 @@
+codename = "us990"
+brand = "LG"
+name = "LG G3 US Cellular"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

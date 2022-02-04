@@ -1,5 +1,6 @@
 name = "Realme X2"
 codename = "rmx199x"
+recoveries = []
 brand = "Realme"
 
 [[roms]]

@@ -1,6 +1,6 @@
+codename = "picasso"
 brand = "Redmi"
 name = "Redmi K30i 5G"
-codename = "picasso"
 
 [[roms]]
 id = "arrowos"
@@ -35,3 +35,7 @@ deprecated = true
 version_code = "twelve"
 stable = true
 deprecated = false
+
+[[recoveries]]
+id = "orangefox"
+supported = true

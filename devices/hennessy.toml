@@ -1,0 +1,9 @@
+codename = "hennessy"
+brand = "Xiaomi"
+name = "Redmi Note 3"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/redmi-note-3/xiaomi-redmi-note-3-mediatek-roms-kernels-recoveries--other-development/official-twrp-redmi-note-3-mtk-t3395841"
+maintainer = "HostZero"

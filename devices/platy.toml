@@ -1,0 +1,9 @@
+codename = "platy"
+brand = "ZTE"
+name = "Quartz"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/smartwatch/other-smartwatches/platy-zte-quartz-includes-factory-rom-t3852803"
+maintainer = "deadman96385"

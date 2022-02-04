@@ -1,0 +1,9 @@
+codename = "A315"
+brand = "Micromax"
+name = "Canvas 4+"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/android/general/recovery-twm-amazing-x3s-zte-blade-a315-t3744802"
+maintainer = "deadman96385"

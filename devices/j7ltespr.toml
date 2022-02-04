@@ -1,0 +1,8 @@
+codename = "j7ltespr"
+brand = "Samsung"
+name = "Galaxy J7(2015)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "minz1"

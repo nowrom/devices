@@ -1,0 +1,8 @@
+codename = "totemc2"
+brand = "HTC"
+name = "One VX"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

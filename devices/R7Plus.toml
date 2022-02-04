@@ -1,6 +1,7 @@
 brand = "Oppo"
 name = "R7Plust"
 codename = "R7Plus"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

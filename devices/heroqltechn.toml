@@ -1,0 +1,9 @@
+codename = "heroqltechn"
+brand = "Samsung"
+name = "Galaxy S7"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/galaxy-s7/development/recovery-official-twrp-galaxy-s7-t3458579"
+maintainer = "jcadduono"

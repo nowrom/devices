@@ -1,0 +1,9 @@
+codename = "c70n"
+brand = "LGE"
+name = "LG Spirit 4G LTE"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/lg-spirit/development/recovery-unofficial-twrp-lg-spirit-h440n-t3564488"
+maintainer = "Jakov Glavina"

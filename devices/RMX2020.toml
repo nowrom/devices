@@ -1,6 +1,7 @@
 brand = "Realme"
 name = "realme C3"
 codename = "RMX2020"
+recoveries = []
 
 [[roms]]
 id = "arrowos"

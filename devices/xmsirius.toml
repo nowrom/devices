@@ -1,0 +1,8 @@
+codename = "xmsirius"
+brand = "Xiaomi"
+name = "Xiaomi MI 8SE"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Isaac Chen"

@@ -1,0 +1,8 @@
+codename = "kinzie"
+brand = "Motorola"
+name = "Moto X Force"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "kaneawk"

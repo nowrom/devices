@@ -1,0 +1,8 @@
+codename = "gts6l"
+brand = "Samsung"
+name = "Galaxy Tab S6"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mentalmuso"

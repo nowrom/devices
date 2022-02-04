@@ -1,9 +1,14 @@
+codename = "heart"
 brand = "Lenovo"
 name = "Lenovo Z5 Pro"
-codename = "heart"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 485"
 ram = "6/8/12 GB LPDDR4X"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/twrp-for-the-lenovo-z5-pro-gt-heart.4328745/"
+maintainer = "ThEMarD"

@@ -1,6 +1,6 @@
+codename = "jasmine_sprout"
 brand = "Xiaomi"
 name = "Mi A2"
-codename = "jasmine_sprout"
 
 [[roms]]
 id = "AOSPK"
@@ -59,3 +59,11 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v2.9"
 developer = "rebenok90x"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Manish4586"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

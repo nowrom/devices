@@ -1,0 +1,8 @@
+codename = "p3110"
+brand = "Samsung"
+name = "Samsung Galaxy Tab 2 7.0 (Wi-Fi)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

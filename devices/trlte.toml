@@ -1,0 +1,9 @@
+codename = "trlte"
+brand = "Samsung"
+name = "Galaxy Note4"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/note-4/snapdragon-dev/recovery-twrp-3-3-1-0-t3933427"
+maintainer = "ripee"

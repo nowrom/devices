@@ -1,6 +1,7 @@
 brand = "Teracube"
 name = "Teracube One"
 codename = "v7101o"
+recoveries = []
 
 [[roms]]
 id = "pixelexperience"

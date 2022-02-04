@@ -1,6 +1,6 @@
+codename = "guacamole"
 brand = "OnePlus"
 name = "GM1917"
-codename = "guacamole"
 
 [[roms]]
 id = "arrowos"
@@ -54,3 +54,8 @@ id = "revengeos"
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project.4289455/"
+maintainer = "Nebrassy"

@@ -1,0 +1,8 @@
+codename = "james"
+brand = "Motorola"
+name = "moto e5 play"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "deadman96385"

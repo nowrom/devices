@@ -1,6 +1,7 @@
 brand = "Xiaomi"
 name = "Mi 10 Pro"
 codename = "cmi"
+recoveries = []
 
 [[roms]]
 id = "arrowos"

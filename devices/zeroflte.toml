@@ -1,0 +1,9 @@
+codename = "zeroflte"
+brand = "Samsung"
+name = "Galaxy S6"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/galaxy-s6/orig-development/twrp-t3080940"
+maintainer = "jcadduono, bigbiff"

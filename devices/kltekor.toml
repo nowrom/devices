@@ -1,6 +1,7 @@
 brand = "Samsung"
 name = "Galaxy S5 LTE (G900K/L/S)"
 codename = "kltekor"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

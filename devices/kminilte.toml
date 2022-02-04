@@ -1,0 +1,9 @@
+codename = "kminilte"
+brand = "Samsung"
+name = "Galaxy S5 mini"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-s5-mini/orig-development/recovery-twrp-3-1-1-exynos-t3626646"
+maintainer = "aykevl"

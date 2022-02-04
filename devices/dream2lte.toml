@@ -1,6 +1,6 @@
+codename = "dream2lte"
 brand = "Samsung"
 name = "Galaxy S8+"
-codename = "dream2lte"
 
 [[roms]]
 id = "blissroms"
@@ -17,3 +17,12 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-r-offic
 maintainer_url = "https://forum.xda-developers.com/m/haridhayal.9053429"
 maintainer_name = "Haridhayal"
 active = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-s8/samsung-galaxy-s8--s8-cross-device-development/recovery-galaxy-s8-s8-exynos-t3847712"
+maintainer = "corsicanu"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

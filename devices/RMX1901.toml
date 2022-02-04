@@ -1,12 +1,16 @@
+codename = "RMX1901"
 brand = "Realme"
 name = "Realme X"
-codename = "RMX1901"
 
 [[roms]]
 id = "pixelextended"
 
 [[roms]]
 id = "cherishos"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
 
 [specs]
 cpu = "Octa-core (1x3.0 GHz Cortex-A78 & 3x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)"

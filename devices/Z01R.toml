@@ -1,6 +1,7 @@
 brand = "asus"
 name = "ZenFone 5Z"
 codename = "Z01R"
+recoveries = []
 
 [[roms]]
 id = "arrowos"

@@ -1,6 +1,6 @@
+codename = "capricorn"
 brand = "Xiaomi"
 name = "Mi 5s"
-codename = "capricorn"
 
 [[roms]]
 id = "lineageos"
@@ -21,3 +21,8 @@ deprecated = true
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4207137"
 deprecated = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/showthread.php?t=3610987"
+maintainer = "LuK1337"

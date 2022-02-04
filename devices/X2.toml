@@ -1,6 +1,6 @@
+codename = "X2"
 brand = "X-TEK"
 name = "X2"
-codename = "X2"
 
 [[roms]]
 id = "havocos"
@@ -29,3 +29,8 @@ xda_thread = "https://forum.xda-developers.com/t/pixelextended-for-realme-x2-rmx
 
 [[roms]]
 id = "pixyos"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/le-max-2/development/test-twrp-3-2-1-0-leeco-le-max-2-t3734209"
+maintainer = "ThEMarD"

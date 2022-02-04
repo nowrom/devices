@@ -1,6 +1,7 @@
 brand = "Asus"
 name = "Zenfone Max Pro M1"
 codename = "X00TD"
+recoveries = []
 
 [[roms]]
 id = "blissroms"
@@ -16,9 +17,9 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/X00TD/Havoc-OS-v4.13-20220130-X00TD-Official-GApps.zip"
+url = "https://download.havoc-os.com/X00TD/Havoc-OS-v4.13-20220204-X00TD-Official-GApps.zip"
 maintainer = "Sukeerat Singh Goindi"
-group = "t.me/+BaJnedaBMMQxNzg9"
+group = "https://t.me/+BaJnedaBMMQxNzg9"
 
 [[roms]]
 id = "lineageos"

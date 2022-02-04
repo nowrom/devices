@@ -1,0 +1,8 @@
+codename = "comanche"
+brand = "Samsung"
+name = "Samsung Galaxy Rugby Pro SGH-i547"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

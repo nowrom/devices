@@ -1,0 +1,12 @@
+codename = "a30s"
+brand = "Samsung"
+name = "Galaxy A30s"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "topser9"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

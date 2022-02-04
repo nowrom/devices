@@ -1,0 +1,8 @@
+codename = "jfltespi"
+brand = "Samsung"
+name = "Samsung Galaxy S4 C-Spire"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

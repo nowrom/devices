@@ -1,0 +1,8 @@
+codename = "ville_u"
+brand = "HTC"
+name = "HTC One S (S4 processor) Special Edition 64GB"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

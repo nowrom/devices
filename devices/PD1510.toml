@@ -1,0 +1,8 @@
+codename = "PD1510"
+brand = "Vivo"
+name = "Y51A"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Shahnawaz sheikh"

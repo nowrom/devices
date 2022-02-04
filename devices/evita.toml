@@ -1,0 +1,8 @@
+codename = "evita"
+brand = "HTC"
+name = "One XL"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

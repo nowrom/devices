@@ -1,6 +1,6 @@
+codename = "miatoll"
 brand = "Xioami"
 name = "Redmi Note 9 Pro Global"
-codename = "miatoll"
 
 [[roms]]
 id = "ancientos"
@@ -88,3 +88,7 @@ download = "https://downloads.spark-os.live/miatoll/Spark-S-Energized-OFFICIAL-m
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

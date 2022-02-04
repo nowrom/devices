@@ -1,0 +1,8 @@
+codename = "inc"
+brand = "HTC"
+name = "Droid Incredible"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

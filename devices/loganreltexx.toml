@@ -1,0 +1,8 @@
+codename = "loganreltexx"
+brand = "Samsung"
+name = "Samsung Galaxy Ace 3"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kotzir"

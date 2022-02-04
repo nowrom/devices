@@ -1,6 +1,7 @@
 codename = "RMX2061"
 brand = "Realme"
 name = "Realme 6 PRO"
+recoveries = []
 
 [[roms]]
 id = "pixelextended"

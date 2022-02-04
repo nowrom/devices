@@ -1,6 +1,7 @@
 codename = "bardockpro"
 brand = "BQ"
 name = "Aquaris X Pro"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

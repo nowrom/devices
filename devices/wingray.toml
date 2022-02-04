@@ -1,0 +1,8 @@
+codename = "wingray"
+brand = "Motorola"
+name = "XOOM"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

@@ -4,3 +4,7 @@ name = "Mi 9 SE"
 
 [[roms]]
 id = "blissroms"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

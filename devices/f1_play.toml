@@ -1,0 +1,9 @@
+codename = "f1_play"
+brand = "Umidigi"
+name = "UMIDIGI F1 Play"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/android/development/twrp-twrp-3-3-0-0-umidigi-f1-play-t3933829"
+maintainer = "chankruze"

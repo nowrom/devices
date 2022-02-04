@@ -1,6 +1,6 @@
+codename = "j4primelte"
 brand = "Samsung"
 name = "Galaxy J4+"
-codename = "j4primelte"
 
 [[roms]]
 id = "sakura"
@@ -8,3 +8,11 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Gabriel"
 active = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "kycii91"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

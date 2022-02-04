@@ -1,0 +1,9 @@
+codename = "grace"
+brand = "Huawei"
+name = "Huawei P8"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/huawei-p8/development/twrp-huawei-p8-gra-l09-t3511067"
+maintainer = "AD2076"

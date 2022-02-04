@@ -1,6 +1,7 @@
 brand = "GSI"
 name = "A64-AB"
 codename = "a64-ab"
+recoveries = []
 
 [[roms]]
 id = "havocos"

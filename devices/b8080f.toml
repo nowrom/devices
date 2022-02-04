@@ -1,0 +1,8 @@
+codename = "b8080f"
+brand = "Lenovo"
+name = "Lenovo Yoga HD 10+ Wi-Fi"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "KHendrik"

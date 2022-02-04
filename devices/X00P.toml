@@ -1,6 +1,6 @@
+codename = "X00P"
 brand = "ASUS"
 name = "Zenfone Max M1"
-codename = "X00P"
 
 [[roms]]
 id = "lineageos"
@@ -15,3 +15,8 @@ repostories = ["device_asus_X00P","kernel_asus_X00P","vendor_asus_X00P"]
 [[roms.supported_versions]]
 version_code = "eleven"
 deprecated = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/zenfone-max-m1/development/recovery-twrp-zenfone-max-m1-t4084935"
+maintainer = "MD Raza (raza231198)"

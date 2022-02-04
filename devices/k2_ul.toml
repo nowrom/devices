@@ -1,0 +1,8 @@
+codename = "k2_ul"
+brand = "HTC"
+name = "HTC One SV LTE"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

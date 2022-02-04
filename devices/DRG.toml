@@ -1,6 +1,7 @@
 brand = "Nokia"
 name = "Nokia X6"
 codename = "DRG"
+recoveries = []
 
 [[roms]]
 id = "ancientos"

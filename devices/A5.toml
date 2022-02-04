@@ -1,0 +1,8 @@
+codename = "A5"
+brand = "xTouch"
+name = "A5"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

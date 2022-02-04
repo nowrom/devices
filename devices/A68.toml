@@ -1,0 +1,8 @@
+codename = "A68"
+brand = "Lava"
+name = "A68"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

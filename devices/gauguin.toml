@@ -1,6 +1,6 @@
+codename = "gauguin"
 brand = "Xiaomi"
 name = "Mi 10T Lite"
-codename = "gauguin"
 
 [[roms]]
 id = "pixelextended"
@@ -57,3 +57,11 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Nitish x Prajwal"
 active = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "prajwal-walia"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

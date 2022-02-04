@@ -1,0 +1,8 @@
+codename = "enrc2b"
+brand = "HTC"
+name = "One X+"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

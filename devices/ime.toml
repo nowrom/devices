@@ -1,0 +1,9 @@
+codename = "ime"
+brand = "HTC"
+name = "HTC U12+"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/u12-plus/development/recovery-unofficial-twrp-3-2-2-0-htc-t3819343"
+maintainer = "freak07, Captain_Throwback"

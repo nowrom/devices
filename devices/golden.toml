@@ -1,0 +1,8 @@
+codename = "golden"
+brand = "Samsung"
+name = "Galaxy S3 Mini"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

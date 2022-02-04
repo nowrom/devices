@@ -1,0 +1,8 @@
+codename = "d852g"
+brand = "LG"
+name = "LG G3 Canada Wind, Videotron, Sasktel"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

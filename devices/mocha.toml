@@ -1,0 +1,8 @@
+codename = "mocha"
+brand = "Xiaomi"
+name = "MI PAD"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "juliusssssmiui"

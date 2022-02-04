@@ -1,6 +1,6 @@
+codename = "m30lte"
 brand = "Samsung"
 name = "Galaxy M30"
-codename = "m30lte"
 
 [[roms]]
 id = "sakura"
@@ -8,3 +8,11 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Haridhayal"
 active = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "akhil1999"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

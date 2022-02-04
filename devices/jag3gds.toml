@@ -1,6 +1,7 @@
 brand = "LGE"
 name = "G3 S"
 codename = "jag3gds"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

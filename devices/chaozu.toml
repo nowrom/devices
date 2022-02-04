@@ -1,9 +1,13 @@
+codename = "chaozu"
 brand = "bq"
 name = "Aquaris U"
-codename = "chaozu"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "2 GB"
 wifi = "802.11 b/g/n, Hotspot"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"

@@ -1,0 +1,8 @@
+codename = "c50"
+brand = "LGE"
+name = "LG Tribute 2™"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

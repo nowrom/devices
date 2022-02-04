@@ -1,0 +1,8 @@
+codename = "nora"
+brand = "Motorola"
+name = "moto e5"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

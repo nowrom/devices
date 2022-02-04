@@ -1,0 +1,8 @@
+codename = "p5100"
+brand = "Samsung"
+name = "Samsung Galaxy Tab 2 10.1 (GSM)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

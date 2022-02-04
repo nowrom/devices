@@ -1,6 +1,7 @@
 brand = "LG"
 name = "G2 (T-Mobile)"
 codename = "d801"
+recoveries = []
 
 [[roms]]
 id = "lineageos"

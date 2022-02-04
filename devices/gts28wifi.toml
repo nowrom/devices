@@ -1,0 +1,9 @@
+codename = "gts28wifi"
+brand = "Samsung"
+name = "Galaxy Tab S2 8.0"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/tab-s2/orig-development/recovery-twrp-3-2-1-0-t3719988"
+maintainer = "ripee"

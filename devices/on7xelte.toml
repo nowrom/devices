@@ -1,0 +1,8 @@
+codename = "on7xelte"
+brand = "Samsung"
+name = "Galaxy On Nxt"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = false

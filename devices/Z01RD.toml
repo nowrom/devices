@@ -1,0 +1,9 @@
+codename = "Z01RD"
+brand = "Asus"
+name = "ASUS ZenFone 5z 2018"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/zenfone-5z/development/recovery-twrp-3-2-3-x-t3849245"
+maintainer = "Jackeagle, ThEMarD"

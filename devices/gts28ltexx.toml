@@ -1,0 +1,9 @@
+codename = "gts28ltexx"
+brand = "Samsung"
+name = "Samsung Galaxy Tab S2 8.0 2015 (LTE)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/tab-s2/orig-development/recovery-twrp-3-2-1-0-t3719988"
+maintainer = "ripee"

@@ -1,0 +1,9 @@
+codename = "endeavoru"
+brand = "HTC"
+name = "S720e"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/htc-one-x/orig-development/twrp-htc-one-x-t3429300"
+maintainer = "DevUt"

@@ -1,0 +1,8 @@
+codename = "mystul"
+brand = "HTC"
+name = "first"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

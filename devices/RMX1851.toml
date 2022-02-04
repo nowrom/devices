@@ -1,6 +1,6 @@
+codename = "RMX1851"
 brand = "Realme"
 name = "realme 3Pro"
-codename = "RMX1851"
 
 [[roms]]
 id = "ancientos"
@@ -28,3 +28,11 @@ deprecated = true
 version_code = "eleven_plus"
 stable = true
 deprecated = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mauronofrio"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

@@ -1,0 +1,9 @@
+codename = "A11"
+brand = "Umidigi"
+name = "A11 EEA"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/desire-510/orig-development/recovery-twrp-2-8-3-0-touch-recovery-t2980932"
+maintainer = "Dees_Troy"

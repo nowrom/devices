@@ -1,0 +1,13 @@
+codename = "RMX1811"
+brand = "Oppo"
+name = "realme C1"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/realme-2/development/recovery-twrp-3-2-3-x-t4014755"
+maintainer = "Novacustomizer"
+
+[[recoveries]]
+id = "orangefox"
+supported = false

@@ -1,6 +1,6 @@
+codename = "olive"
 brand = "Xiaomi"
 name = "Redmi 8"
-codename = "olive"
 
 [[roms]]
 id = "arrowos"
@@ -14,3 +14,11 @@ id = "havocos"
 url = "https://download.havoc-os.com/olive/Havoc-OS-v4.13-20220130-olive-Official-GApps.zip"
 maintainer = "IAmDeadlylxrd"
 group = "https://t.me/+CoYLGYHruORiNDUy"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "AltsecDEV"
+
+[[recoveries]]
+id = "orangefox"
+supported = true

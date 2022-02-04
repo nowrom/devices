@@ -1,0 +1,8 @@
+codename = "e9wifi"
+brand = "LGE"
+name = "G Pad 10.1"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dark_Nightmare"
