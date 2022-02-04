@@ -4,6 +4,6 @@ codename = "I002D"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/I002D/Havoc-OS-v4.12-20211225-I002D-Official-GApps.zip"
+url = "https://download.havoc-os.com/I002D/Havoc-OS-v4.10-20211027-I002D-Official-GApps.zip"
 maintainer = "Raileanu Cosmin"
 group = "https://t.me/+n8WnpaOickA2Yzc0"

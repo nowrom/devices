@@ -79,11 +79,11 @@ id = "evolutionx"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
-developer = "mdeejay"
+version = "v5.1"
+developer = "DennySPb"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.1"
-developer = "DennySPb"
+version = "v4.9"
+developer = "mdeejay"

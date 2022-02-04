@@ -8,7 +8,7 @@ id = "pixelextended"
 [[roms]]
 id = "arrowos"
 maintainer = "Sreekanth"
-changelog = "• Smarter decisions on whether to use a 2 or 5Ghz AP\r\n• Drop updatable_apex\r\n• Optimise dex flags for a faster boot\r\n• Merge Linux version 4.14.262 into the kernel \r\n• Some cleanup and misc changes"
+changelog = "• Fixed carrier video calling or ViLTE\r\n• drop CarrierSettings and import CarrierConfig from LA.UM.9.1.r1-11500-SMxxx0.0\r\n• Use raw values for CarrierConfig\r\n• Clean up some blobs\r\n• Disable HD capable notification \r\n• Disable global mode and CDMA choices\r\n• Merge Linux version 4.14.264 into the kernel \r\n• Some cleanup and misc changes"
 
 [[roms]]
 id = "blissroms"

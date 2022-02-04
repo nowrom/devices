@@ -23,7 +23,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/kebab/Havoc-OS-v4.13-20220129-kebab-Official-GApps.zip"
+url = "https://download.havoc-os.com/kebab/Havoc-OS-v4.13-20220202-kebab-Official-GApps.zip"
 maintainer = "Chandu Dyavanapelli"
 group = "https://t.me/+gJBFyk53ihA5Mjll"
 

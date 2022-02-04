@@ -79,12 +79,6 @@ id = "evolutionx"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.1"
-developer = "NATO666613"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
 version = "v4.9"
 developer = "NATO666613"
 
@@ -92,6 +86,12 @@ developer = "NATO666613"
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.9"
+developer = "NATO666613"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v5.1"
 developer = "NATO666613"
 
 [specs]

@@ -12,6 +12,7 @@ photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4-sn.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "Ganesh Varma, Sonal Singh"
+changelog = "- Upstream device sources\r\n- Move to R HALS\r\n- Switch to 4.9 kernel\r\n- Upstream blobs\r\n\r\nNote:\r\n* Mido breathes *\r\n- A clean flash is recommended if coming from previous builds."
 
 [[roms]]
 id = "blissroms"
@@ -68,3 +69,14 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.9"
 developer = "hnaamdev41"
+
+[specs]
+cpu = "Octa-core 2.0 GHz Cortex-A53"
+weight = "165 g (5.82 oz)"
+year = "2017, January"
+os = "Android 6.0 (Marshmallow), upgradable to 7.0 (Nougat), MIUI 11"
+chipset = "Qualcomm MSM8953 Snapdragon 625 (14 nm)"
+gpu = "Adreno 506"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 119h"
+internalmemory = "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"

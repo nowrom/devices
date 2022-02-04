@@ -76192,7 +76192,17 @@
   {
     "brand": "Lava",
     "name": "T81",
+    "codename": "LTN8RT"
+  },
+  {
+    "brand": "Lava",
+    "name": "T81",
     "codename": "T81"
+  },
+  {
+    "brand": "Lava",
+    "name": "T81",
+    "codename": "T81_PB"
   },
   {
     "brand": "Lava",
@@ -76396,8 +76406,18 @@
   },
   {
     "brand": "Lava",
+    "name": "Z1S",
+    "codename": "LZG402_OMI"
+  },
+  {
+    "brand": "Lava",
     "name": "Z2",
     "codename": "LMG01"
+  },
+  {
+    "brand": "Lava",
+    "name": "Z21",
+    "codename": "LZG402_OM"
   },
   {
     "brand": "Lava",
@@ -76413,6 +76433,11 @@
     "brand": "Lava",
     "name": "Z3",
     "codename": "LZG403"
+  },
+  {
+    "brand": "Lava",
+    "name": "Z3",
+    "codename": "Z3_UP_2"
   },
   {
     "brand": "Lava",
