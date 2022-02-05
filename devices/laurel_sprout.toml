@@ -24,8 +24,8 @@ id = "evolutionx"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.7"
-developer = "HarukeyUA"
+version = "v5.0"
+developer = "magicxavi"
 
 [[roms]]
 id = "syberia"
@@ -36,8 +36,8 @@ developer = "magicxavi"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.0"
-developer = "magicxavi"
+version = "v3.7"
+developer = "HarukeyUA"
 
 [[recoveries]]
 id = "twrp"

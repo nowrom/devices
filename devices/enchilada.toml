@@ -68,12 +68,6 @@ developer = "DennySPb"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v2.9"
-developer = "DennySPb"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
 version = "v4.9"
 developer = "DennySPb"
 
@@ -81,6 +75,12 @@ developer = "DennySPb"
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v5.1"
+developer = "DennySPb"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v2.9"
 developer = "DennySPb"
 
 [[recoveries]]
