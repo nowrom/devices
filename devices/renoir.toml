@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project.4306807/"
 maintainer = "Nebrassy"
+
+[specs]
+cpu = "Octa-core (1x2.4 GHz Kryo 670 & 3x2.2 GHz Kryo 670 & 4x1.90 GHz Kryo 670)"
+weight = "159 g (5.61 oz)"
+year = "2021, March 29"
+os = "Android 11, MIUI 12"
+chipset = "Qualcomm SM7350-AB Snapdragon 780G (5 nm)"
+gpu = "Adreno 642"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, compass"
+batlife = "Endurance rating 106h"
+internalmemory = "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"

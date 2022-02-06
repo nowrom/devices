@@ -43,3 +43,14 @@ deprecated = false
 [[recoveries]]
 id = "twrp"
 maintainer = "None"
+
+[specs]
+cpu = "Octa-core (2x2.2 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver)"
+weight = "164 g (5.78 oz)"
+year = "2018, May"
+os = "Android 8.1 (Oreo), MIUI 9.5"
+chipset = "Qualcomm SDM710 Snapdragon 710 (10 nm)"
+gpu = "Adreno 616"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 86h"
+internalmemory = "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"

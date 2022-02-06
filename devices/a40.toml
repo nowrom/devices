@@ -22,3 +22,14 @@ maintainer = "ponces"
 [[recoveries]]
 id = "orangefox"
 supported = false
+
+[specs]
+cpu = "Octa-core (2x1.77 GHz Cortex-A73 & 6x1.59 GHz Cortex-A53)"
+weight = "140 g (4.94 oz)"
+year = "2019, March 19"
+os = "Android 9.0 (Pie)"
+chipset = "Exynos 7904 (14 nm)"
+gpu = "Mali-G71 MP2"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 73h"
+internalmemory = "64GB 4GB RAM, 128GB 4GB RAM"

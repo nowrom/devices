@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "FireLord"
+
+[specs]
+cpu = "Octa-core 1.8 GHz Cortex-A53"
+weight = "186 g (6.56 oz)"
+year = "2018, May"
+os = "Android 8.0 (Oreo), upgradable to Android 9.0 (Pie), One UI"
+chipset = "Qualcomm SDM450 Snapdragon 450 (14 nm)"
+gpu = "Adreno 506"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 106h"
+internalmemory = "32GB 3GB RAM, 32GB 4GB RAM, 64GB 4GB RAM"

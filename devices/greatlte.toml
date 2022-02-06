@@ -19,3 +19,14 @@ active = true
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/galaxy-note-8/development/recovery-galaxy-note-8-t3832962"
 maintainer = "corsicanu"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

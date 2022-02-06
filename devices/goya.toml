@@ -1,6 +1,6 @@
 codename = "goya"
 brand = "Samsung"
-name = "Samsung Galaxy Tab 3 Lite 7.0 (Marvell PXA986 Edition)"
+name = "Samsung Galaxy Tab 3 Lite 7.0"
 roms = []
 
 [[recoveries]]

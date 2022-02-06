@@ -61,3 +61,14 @@ maintainer = "Dees_Troy, mauronofrio"
 [[recoveries]]
 id = "orangefox"
 supported = false
+
+[specs]
+cpu = "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)"
+weight = "162 g (5.71 oz)"
+year = "2017, November 16. Released 2017, November 21"
+os = "Android 7.1.1 (Nougat), upgradable to Android 10, OxygenOS 10.0.0"
+chipset = "Qualcomm MSM8998 Snapdragon 835 (10 nm)"
+gpu = "Adreno 540"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 82h"
+internalmemory = "64GB 6GB RAM, 128GB 8GB RAM"

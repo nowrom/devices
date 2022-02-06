@@ -11,3 +11,14 @@ wifi = "802.11 a/b/g/n, dual band, Wi-Fi Direct, Hotspot"
 [[recoveries]]
 id = "twrp"
 maintainer = "LuK1337"
+
+[specs]
+cpu = "Octa-core (2x2.0 GHz Kryo 560 Gold & 6x1.7 GHz Kryo 560 Silver)"
+weight = "169 g (5.96 oz)"
+year = "2021, April 14"
+os = "Android 11"
+chipset = "Qualcomm SM6350 Snapdragon 690 5G (8 nm)"
+gpu = "Adreno 619"
+sensors = "Fingerprint (side-mounted), accelerometer, proximity, compass"
+batlife = "Endurance rating 137h"
+internalmemory = "128GB 6GB RAM, 256GB 6GB RAM"

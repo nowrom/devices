@@ -41,3 +41,14 @@ deprecated = true
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project-7t-7t-pro.4299171/"
 maintainer = "lossyx@xda"
+
+[specs]
+cpu = "Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"
+weight = "190 g (6.70 oz)"
+year = "2019, September 26"
+os = "Android 10, upgradable to Android 11, OxygenOS 11.0.1.1"
+chipset = "Qualcomm SM8150 Snapdragon 855+ (7 nm)"
+gpu = "Adreno 640 (700 MHz)"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, compass"
+batlife = "Endurance rating 90h"
+internalmemory = "128GB 8GB RAM, 256GB 8GB RAM"

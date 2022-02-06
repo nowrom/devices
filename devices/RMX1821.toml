@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "orangefox"
 supported = false
+
+[specs]
+cpu = "Octa-core (4x2.0 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53)Octa-core (4x2.1 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53)"
+weight = "175 g (6.17 oz)"
+year = "2019, March"
+os = "Android 9.0 (Pie), upgradable to Android 10, Realme UI"
+chipset = "Mediatek MT6771 Helio P60 (12 nm)Mediatek Helio P70 (12nm)"
+gpu = "Mali-G72 MP3"
+sensors = "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+batlife = "Endurance rating 108h"
+internalmemory = "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"

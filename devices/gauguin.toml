@@ -65,3 +65,14 @@ maintainer = "prajwal-walia"
 [[recoveries]]
 id = "orangefox"
 supported = true
+
+[specs]
+cpu = "Octa-core (2x2.2 GHz Kryo 570 & 6x1.8 GHz Kryo 570)"
+weight = "214.5 g (7.58 oz)"
+year = "2020, September 30"
+os = "Android 10, MIUI 12"
+chipset = "Qualcomm SM7225 Snapdragon 750G 5G (8 nm)"
+gpu = "Adreno 619"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, compass"
+batlife = "Endurance rating 116h"
+internalmemory = "64GB 6GB RAM, 128GB 6GB RAM"

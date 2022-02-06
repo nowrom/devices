@@ -30,6 +30,12 @@ id = "dotos"
 id = "evolutionx"
 
 [[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/sweet/Havoc-OS-v4.13-20220205-sweet-Official-GApps.zip"
+maintainer = "Paras Dhiman"
+group = "https://t.me/mst_roms_sweet"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_sweet","device_xiaomi_sm6150-common","device_xiaomi_sm6150-extras","kernel_xiaomi_sweet","vendor_xiaomi_sweet","vendor_xiaomi_sm6150-common","vendor_xiaomi_sweet-vendor"]
 

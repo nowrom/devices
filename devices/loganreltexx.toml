@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "Kotzir"
+
+[specs]
+cpu = "Dual-core 1.0 GHz Cortex-A9 (3G) / Dual-core 1.2 GHz Krait (LTE)"
+weight = "115 g (3G) / 119.5 g (LTE) (4.06 oz)"
+year = "2013, June. Released 2013, July"
+os = "Android 4.2 (Jelly Bean)"
+chipset = "Broadcom BCM21664 (3G) / Qualcomm MSM8930 Snapdragon 400 (28 nm) (LTE)"
+gpu = "Broadcom VideoCore IV (3G) / Adreno 305 (LTE)"
+sensors = "Accelerometer, proximity, compass"
+batlife = "Endurance rating 34h"
+internalmemory = "4GB 1GB RAM (3G), 8GB 1GB RAM (LTE)"

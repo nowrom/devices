@@ -21,3 +21,14 @@ maintainer = "Shr3ps"
 [[recoveries]]
 id = "orangefox"
 supported = false
+
+[specs]
+cpu = "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)"
+weight = "142 g (5.01 oz)"
+year = "2016, February 21. Released 2016, June 13"
+os = "Android 5.1 (Lollipop)"
+chipset = "Qualcomm MSM8929 Snapdragon 415 (28 nm)"
+gpu = "Adreno 405"
+sensors = "Accelerometer, proximity"
+batlife = "Endurance rating 64h"
+internalmemory = "16GB 2GB RAM"

@@ -12,3 +12,14 @@ xda_thread = "https://forum.xda-developers.com/t/rom-volte-official-cph1859-61-p
 maintainer_url = "https://forum.xda-developers.com/m/cyberjalagam.10857311"
 maintainer_name = "Jaishnav Prasad"
 active = false
+
+[specs]
+cpu = "Octa-core (4x2.0 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53)"
+weight = "155 g (5.47 oz)"
+year = "2018, May"
+os = "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie), ColorOS 6"
+chipset = "Mediatek MT6771 Helio P60 (12 nm)"
+gpu = "Mali-G72 MP3"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 84h"
+internalmemory = "32GB 3GB RAM, 64GB 4GB RAM, 128GB 6GB RAM"

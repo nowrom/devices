@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-5-2-for-galaxy-a72-4g.4278031/"
 maintainer = "Velosh"
+
+[specs]
+cpu = "Octa-core (2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver)"
+weight = "203 g (7.16 oz)"
+year = "2021, March 17"
+os = "Android 11, One UI 3.1"
+chipset = "Qualcomm SM7125 Snapdragon 720G (8 nm)"
+gpu = "Adreno 618"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, compass"
+batlife = "Endurance rating 117h"
+internalmemory = "128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM"

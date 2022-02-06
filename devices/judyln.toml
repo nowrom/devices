@@ -11,3 +11,14 @@ id = "evolutionx"
 [[recoveries]]
 id = "orangefox"
 supported = true
+
+[specs]
+cpu = "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"
+weight = "162 g (5.71 oz)"
+year = "2018, May 02"
+os = "Android 8.0 (Oreo), upgradable to Android 10"
+chipset = "Qualcomm SDM845 Snapdragon 845 (10 nm)"
+gpu = "Adreno 630"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 77h"
+internalmemory = "64GB 4GB RAM, 128GB 6GB RAM"

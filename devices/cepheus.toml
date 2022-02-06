@@ -59,3 +59,14 @@ maintainer = "Mauronofrio"
 [[recoveries]]
 id = "orangefox"
 supported = false
+
+[specs]
+cpu = "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"
+weight = "173 g (6.10 oz)"
+year = "2019, February 20"
+os = "Android 9.0 (Pie), upgradable to Android 10, MIUI 12"
+chipset = "Qualcomm SM8150 Snapdragon 855 (7 nm)"
+gpu = "Adreno 640"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, compass"
+batlife = "Endurance rating 95h"
+internalmemory = "64GB 6GB RAM, 64GB 8GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"

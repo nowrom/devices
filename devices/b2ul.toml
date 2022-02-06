@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "None"
+
+[specs]
+cpu = "Quad-core 2.5 GHz Krait 400"
+weight = "151 g (5.33 oz)"
+year = "2014, August. Released 2014, September"
+os = "Android 4.4.2 (KitKat)"
+chipset = "Qualcomm Snapdragon 801 (28 nm)"
+gpu = "Adreno 330"
+sensors = "Accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 66h"
+internalmemory = "16GB 2GB RAM, 32GB 2GB RAM"

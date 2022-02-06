@@ -44,3 +44,14 @@ maintainer = "pjgowtham"
 [[recoveries]]
 id = "orangefox"
 supported = false
+
+[specs]
+cpu = "Octa-core (2x2.3 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver)"
+weight = "183 g (6.46 oz)"
+year = "2019, September 13"
+os = "Android 9.0 (Pie), upgradable to Android 10, Realme UI"
+chipset = "Qualcomm SDM712 Snapdragon 712 (10 nm)"
+gpu = "Adreno 616"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 100h"
+internalmemory = "64GB 4GB RAM, 64GB 6GB RAM, 128GB 8GB RAM"

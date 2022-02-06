@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "None"
+
+[specs]
+cpu = "Quad-core 1.5 GHz Cortex-A9"
+weight = "133 g (4.69 oz)"
+year = "2012, February. Released 2012, June"
+os = "Android 4.0 (Ice Cream Sandwich), upgradable to 4.1 (Jelly Bean)"
+chipset = "Nvidia Tegra 3"
+gpu = "ULP GeForce"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 40h"
+internalmemory = "16GB (12GB user available), 1GB RAM"

@@ -10,10 +10,21 @@ wifi = "802.11 a/b/g/n, 2.4GHz/5GHz, Wi-Fi Direct, DLNA, Hotspot"
 
 [[recoveries]]
 id = "twrp"
-xdathread = "https://forum.xda-developers.com/xperia-zl/orig-development/ub-twrp-v3-2-1-xperia-zl-t3720156"
-maintainer = "CyberWalkMaN"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-official-teamwin-recovery-project.4374117/"
+maintainer = "Nebrassy"
 
 [[recoveries]]
 id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-11-official-teamwin-recovery-project.4374117/"
-maintainer = "Nebrassy"
+xdathread = "https://forum.xda-developers.com/xperia-zl/orig-development/ub-twrp-v3-2-1-xperia-zl-t3720156"
+maintainer = "CyberWalkMaN"
+
+[specs]
+cpu = "Quad-core 1.5 GHz Krait"
+weight = "151 g (5.33 oz)"
+year = "2013, January. Released 2013, March"
+os = "Android 4.1.2 (Jelly Bean), upgradable to 5.1.1 (Lollipop)"
+chipset = "Qualcomm APQ8064 Snapdragon S4 Pro"
+gpu = "Adreno 320"
+sensors = "Accelerometer, gyro, proximity, compass, barometer (C6502 only)"
+batlife = "Endurance rating 44h"
+internalmemory = "16GB 2GB RAM"

@@ -11,3 +11,14 @@ wifi = "802.11 a/g/b/n/ac + MIMO"
 [[recoveries]]
 id = "twrp"
 maintainer = "Hashbang173"
+
+[specs]
+cpu = "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57)"
+weight = "179 g (6.31 oz)"
+year = "2015, July. Released 2015, September"
+os = "Android 5.1.1 (Lollipop), 6.0, upgradable to 7.0 (Nougat)"
+chipset = "Qualcomm MSM8992 Snapdragon 808 (20 nm)"
+gpu = "Adreno 418"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 63h"
+internalmemory = "16GB 3GB RAM, 32GB 3GB RAM, 64GB 3GB RAM"

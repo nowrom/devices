@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "http://forum.xda-developers.com/ascend-mate2/orig-development/recovery-twrp-2-8-0-0-touch-recovery-t2913270"
 maintainer = "Dees_Troy"
+
+[specs]
+cpu = "Quad-core 1.6 GHz Cortex-A7"
+weight = "202 g (7.13 oz)"
+year = "2014, January. Released 2014, January"
+os = "Android 4.3 (Jelly Bean), upgradable to 5.1 (Lollipop), EMUI 2"
+chipset = "Qualcomm MSM8928 Snapdragon 400 (28 nm)"
+gpu = "Adreno 305"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 106h"
+internalmemory = "16GB 2GB RAM"

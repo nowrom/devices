@@ -16,3 +16,14 @@ maintainer = "klabit87"
 [[recoveries]]
 id = "orangefox"
 supported = true
+
+[specs]
+cpu = "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEAOcta-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver) - USA/LATAM, China"
+weight = "163 g (5.75 oz)"
+year = "2018, February 25"
+os = "Android 8.0 (Oreo), upgradable to Android 10, One UI 2.5"
+chipset = "Exynos 9810 (10 nm) - EMEAQualcomm SDM845 Snapdragon 845 (10 nm) - USA/LATAM, China"
+gpu = "Mali-G72 MP18 - EMEAAdreno 630 - USA/LATAM, China"
+sensors = "Iris scanner, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2"
+batlife = "Endurance rating 78h"
+internalmemory = "64GB 4GB RAM, 128GB 4GB RAM, 256GB 4GB RAM"

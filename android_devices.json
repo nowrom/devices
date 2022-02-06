@@ -35326,6 +35326,11 @@
   },
   {
     "brand": "G-Tab",
+    "name": "PL1000B",
+    "codename": "S30"
+  },
+  {
+    "brand": "G-Tab",
     "name": "Q2",
     "codename": "Q2"
   },
@@ -84386,6 +84391,11 @@
   },
   {
     "brand": "Masstel",
+    "name": "Masstel_Hapi_20",
+    "codename": "Masstel_Hapi_20"
+  },
+  {
+    "brand": "Masstel",
     "name": "Masstel_Juno_Q3",
     "codename": "Masstel_Juno_Q3"
   },
@@ -102007,6 +102017,11 @@
   {
     "brand": "Orange",
     "name": "TV Box",
+    "codename": "zc4455v_orb"
+  },
+  {
+    "brand": "Orange",
+    "name": "TV Box",
     "codename": "zi4450v_ors"
   },
   {
@@ -114318,6 +114333,11 @@
     "brand": "Ruio",
     "name": "Cola Plus 4G",
     "codename": "M675M4"
+  },
+  {
+    "brand": "Ruio",
+    "name": "M31",
+    "codename": "AIS-M31"
   },
   {
     "brand": "Ruio",
