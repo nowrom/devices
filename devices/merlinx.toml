@@ -21,14 +21,3 @@ repostories = ["device_xiaomi_merlinx","device_xiaomi_mt6768-common","kernel_xia
 version_code = "twelve"
 stable = false
 deprecated = false
-
-[specs]
-cpu = "Not found"
-weight = "Not found"
-year = "Not found"
-os = "Not found"
-chipset = "Not found"
-gpu = "Not found"
-sensors = "Not found"
-batlife = "Not found"
-internalmemory = "Not found"

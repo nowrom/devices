@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/u-ultra/development/recovery-twrp-touch-recovery-t3558540"
 maintainer = "TARKZiM"
+
+[specs]
+cpu = "Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)"
+weight = "170 g (6.00 oz)"
+year = "2017, January 12"
+os = "Android 7.0 (Nougat), upgradable to Android 8.0 (Oreo)"
+chipset = "Qualcomm MSM8996 Snapdragon 821 (14 nm)"
+gpu = "Adreno 530"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 81h"
+internalmemory = "64GB 4GB RAM, 128GB 4GB RAM"

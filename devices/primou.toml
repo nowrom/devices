@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "None"
+
+[specs]
+cpu = "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.6 GHz Cortex-A53)"
+weight = "180 g (6.35 oz)"
+year = "2019, May 15"
+os = "Android 9.0 (Pie), upgradable to Android 10, Android One"
+chipset = "Exynos 9609 (10 nm)"
+gpu = "Mali-G72 MP3"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 67h"
+internalmemory = "128GB 4GB RAM"

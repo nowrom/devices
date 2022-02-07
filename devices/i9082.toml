@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "None"
+
+[specs]
+cpu = "Quad-core 1.2 GHz Cortex-A7"
+weight = "163 g (5.75 oz)"
+year = "2014, January. Released 2014, February"
+os = "Android 4.2 (Jelly Bean)Android 4.4.4 (KitKat) - GT-I9060I"
+chipset = "Broadcom BCM23550Spreadtrum SC8830 - GT-I9060I"
+gpu = "Broadcom VideoCore IVMali-400MP2 - GT-I9060I"
+sensors = "Accelerometer, proximity, compass"
+batlife = "Endurance rating 59h"
+internalmemory = "8GB 1GB RAM, 16GB 1GB RAM"

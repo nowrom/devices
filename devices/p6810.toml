@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "None"
+
+[specs]
+cpu = "Dual-core 1.4 GHz Cortex-A9"
+weight = "340 g (11.99 oz)"
+year = "2011, September. Released 2011, December"
+os = "Android 3.2 (Honeycomb), TouchWiz UX UI"
+chipset = "Exynos"
+gpu = "Mali-400"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 80h"
+internalmemory = "16GB 1GB RAM, 32GB 1GB RAM, 64GB 1GB RAM"

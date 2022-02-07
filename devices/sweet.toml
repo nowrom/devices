@@ -33,7 +33,7 @@ id = "evolutionx"
 id = "havocos"
 url = "https://download.havoc-os.com/sweet/Havoc-OS-v4.13-20220205-sweet-Official-GApps.zip"
 maintainer = "Paras Dhiman"
-group = "https://t.me/mst_roms_sweet"
+group = "https://t.me/+tlKUR8PMaqI2OTA1"
 
 [[roms]]
 id = "pixelexperience"
@@ -84,14 +84,3 @@ maintainer = "Nebrassy"
 [[recoveries]]
 id = "orangefox"
 supported = true
-
-[specs]
-cpu = "Not found"
-weight = "Not found"
-year = "Not found"
-os = "Not found"
-chipset = "Not found"
-gpu = "Not found"
-sensors = "Not found"
-batlife = "Not found"
-internalmemory = "Not found"

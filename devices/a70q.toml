@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-pre-official-twrp-3-4-0-0-for-samsung-galaxy-a70.4194039/"
 maintainer = "Haky86"
+
+[specs]
+cpu = "Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver)"
+weight = "183 g (6.46 oz)"
+year = "2019, March 26"
+os = "Android 9.0 (Pie), upgradable to Android 11, One UI 3.1"
+chipset = "Qualcomm SDM675 Snapdragon 675 (11 nm)"
+gpu = "Adreno 612"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 103h"
+internalmemory = "128GB 6GB RAM, 128GB 8GB RAM"

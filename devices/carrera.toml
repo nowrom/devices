@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "eloygomez"
+
+[specs]
+cpu = "Octa-core (4x2.2 GHz & 4x1.5 GHz)"
+weight = "156 g (5.50 oz)"
+year = "2015, September. Released 2015, October"
+os = "Android 5.1.1 (Lollipop), upgradable to 6.0 (Marshmallow), EMUI 3.1"
+chipset = "Kirin 935 (28 nm)"
+gpu = "Mali-T628 MP4"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 60h"
+internalmemory = "32GB 3GB RAM, 64GB 3GB RAM, 128GB 3GB RAM"

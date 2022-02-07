@@ -14,14 +14,3 @@ group = "https://t.me/+f_X6QcJTdSE0OGU9"
 [[recoveries]]
 id = "twrp"
 maintainer = "cryptomilk & derfelot"
-
-[specs]
-cpu = "Not found"
-weight = "Not found"
-year = "Not found"
-os = "Not found"
-chipset = "Not found"
-gpu = "Not found"
-sensors = "Not found"
-batlife = "Not found"
-internalmemory = "Not found"

@@ -3,6 +3,11 @@ brand = "Xiaomi"
 name = "MI 8"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
+recovery = "https://dl.twrp.me/dipper/"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -47,14 +52,3 @@ maintainer = "Mauronofrio"
 [[recoveries]]
 id = "orangefox"
 supported = true
-
-[specs]
-cpu = "Not found"
-weight = "Not found"
-year = "Not found"
-os = "Not found"
-chipset = "Not found"
-gpu = "Not found"
-sensors = "Not found"
-batlife = "Not found"
-internalmemory = "Not found"

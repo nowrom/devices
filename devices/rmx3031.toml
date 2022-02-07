@@ -5,14 +5,3 @@ recoveries = []
 [[roms]]
 id = "ancientos"
 photo = "https://fdn2.gsmarena.com/vv/bigpic/realme-x7-max-5g.jpg"
-
-[specs]
-cpu = "Not found"
-weight = "Not found"
-year = "Not found"
-os = "Not found"
-chipset = "Not found"
-gpu = "Not found"
-sensors = "Not found"
-batlife = "Not found"
-internalmemory = "Not found"
