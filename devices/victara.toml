@@ -11,3 +11,14 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, DLNA, Hotspot"
 [[recoveries]]
 id = "twrp"
 maintainer = "None"
+
+[specs]
+cpu = "Quad-core 2.5 GHz Krait 400"
+weight = "144 g (5.08 oz)"
+year = "2014, September. Released 2014, September"
+os = "Android 4.4.4 (KitKat), upgradable to 6.0 (Marshmallow)"
+chipset = "Qualcomm MSM8974AC Snapdragon 801 (28 nm)"
+gpu = "Adreno 330"
+sensors = "Accelerometer, gyro, proximity, compass, barometer, temperature"
+batlife = "Endurance rating 48h"
+internalmemory = "16GB 2GB RAM, 32GB 2GB RAM, 64GB 2GB RAM (AT&T, T-Mobile)"

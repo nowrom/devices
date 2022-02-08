@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/android/development/recovery-twrp-3-3-0-0-oukitel-k10-t3925703"
 maintainer = "chankruze"
+
+[specs]
+cpu = "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)"
+weight = "193 g (6.81 oz)"
+year = "2021, July 28"
+os = "Android 11, MIUI 12.5 for POCO"
+chipset = "MediaTek MT6891Z Dimensity 1100 5G (6 nm)"
+gpu = "Mali-G77 MC9"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, compass, color spectrum"
+batlife = "Endurance rating 110h"
+internalmemory = "128GB 8GB RAM, 256GB 8GB RAM"

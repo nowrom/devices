@@ -40,3 +40,14 @@ maintainer = "Isaac Chen"
 [[recoveries]]
 id = "orangefox"
 supported = true
+
+[specs]
+cpu = "Octa-core 2.0 GHz Cortex-A53"
+weight = "165 g (5.82 oz)"
+year = "2017, January"
+os = "Android 6.0 (Marshmallow), upgradable to 7.0 (Nougat), MIUI 11"
+chipset = "Qualcomm MSM8953 Snapdragon 625 (14 nm)"
+gpu = "Adreno 506"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 119h"
+internalmemory = "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"

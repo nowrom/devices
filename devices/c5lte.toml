@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "orangefox"
 supported = false
+
+[specs]
+cpu = "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)"
+weight = "143 g (5.04 oz)"
+year = "2016, May. Released 2016, June"
+os = "Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)"
+chipset = "Qualcomm MSM8952 Snapdragon 617 (28 nm)"
+gpu = "Adreno 405"
+sensors = "Fingerprint (front-mounted), accelerometer, proximity, compass"
+batlife = "Endurance rating 75h"
+internalmemory = "32GB 4GB RAM, 64GB 4GB RAM"

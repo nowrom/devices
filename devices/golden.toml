@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "None"
+
+[specs]
+cpu = "1.0 GHz dual-core Cortex-A9"
+weight = "111.5 g (3.92 oz)"
+year = "2012, October. Released 2012, November"
+os = "Android 4.1 (Jelly Bean)"
+chipset = "NovaThor U8420"
+gpu = "Mali-400"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 42h"
+internalmemory = "8GB 1GB RAM, 16GB 1GB RAM"

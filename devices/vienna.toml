@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "paulobrien"
+
+[specs]
+cpu = "Octa-core (4x2.5 GHz Cortex-A72 & 4x1.8 GHz Cortex-A53)"
+weight = "162 g (5.71 oz)"
+year = "2016, April. Released 2016, May"
+os = "Android 6 (Marshmallow), upgradable to 7 (Nougat), EMUI 5"
+chipset = "Kirin 955 (16 nm)"
+gpu = "Mali-T880 MP4"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 69h"
+internalmemory = "32GB 4GB RAM, 64GB 4GB RAM"

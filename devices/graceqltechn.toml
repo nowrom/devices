@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "http://forum.xda-developers.com/note-7/development/recovery-official-twrp-galaxy-note-7-t3458413"
 maintainer = "jcadduono"
+
+[specs]
+cpu = "Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53)"
+weight = "169 g (5.96 oz)"
+year = "2016, August. Released 2016, September"
+os = "Android 6.0.1 (Marshmallow), TouchWiz UI"
+chipset = "Exynos 8890 Octa (14 nm)"
+gpu = "Mali-T880 MP12"
+sensors = "Iris scanner, fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2"
+batlife = "Endurance rating 90h"
+internalmemory = "64GB 4GB RAM"

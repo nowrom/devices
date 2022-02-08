@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "http://forum.xda-developers.com/showthread.php?t=1779092"
 maintainer = "Dees_Troy"
+
+[specs]
+cpu = "Quad-core 2.34 GHz (2x Hurricane + 2x Zephyr)"
+weight = "138 g (4.87 oz)"
+year = "2016, September 07. Released 2016, September 16"
+os = "iOS 10.0.1, upgradable to iOS 15.3"
+chipset = "Apple A10 Fusion (16 nm)"
+gpu = "PowerVR Series7XT Plus (six-core graphics)"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 61h"
+internalmemory = "32GB 2GB RAM, 128GB 2GB RAM, 256GB 2GB RAM"

@@ -31370,6 +31370,11 @@
     "codename": "MID1298"
   },
   {
+    "brand": "Estar",
+    "name": "eSTAR_PAD_B8",
+    "codename": "eSTAR_PAD_B8"
+  },
+  {
     "brand": "Estla",
     "name": "Android TV",
     "codename": "longshan"
@@ -32538,6 +32543,11 @@
     "brand": "FEONAL",
     "name": "K118_EEA",
     "codename": "K118_EEA"
+  },
+  {
+    "brand": "FFFSMARTLIFE",
+    "name": "F3T10A3",
+    "codename": "F3T10A3"
   },
   {
     "brand": "FFFSMARTLIFE",
@@ -44173,6 +44183,11 @@
     "brand": "Handheld-Wireless",
     "name": "X6",
     "codename": "X6"
+  },
+  {
+    "brand": "Handsfree",
+    "name": "R5",
+    "codename": "R5"
   },
   {
     "brand": "HannSpree",
@@ -164133,6 +164148,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi Pad 5 Pro 5G",
     "codename": "enuma"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi TV stick 4K",
+    "codename": "soul"
   },
   {
     "brand": "Xiaomi",

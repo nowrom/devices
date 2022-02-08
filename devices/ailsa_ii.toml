@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "http://forum.xda-developers.com/axon-7/development/recovery-official-twrp-zte-axon-7-t3515715"
 maintainer = "jcadduono"
+
+[specs]
+cpu = "Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)"
+weight = "175 g (6.17 oz)"
+year = "2016, May. Released 2016, June"
+os = "Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo), MiFavor 5.2"
+chipset = "Qualcomm MSM8996 Snapdragon 820 (14 nm)"
+gpu = "Adreno 530"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 70h"
+internalmemory = "64GB 4GB RAM"

@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "orangefox"
 supported = false
+
+[specs]
+cpu = "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)"
+weight = "199 g (7.02 oz)"
+year = "2020, March 17"
+os = "Android 10, Realme UI"
+chipset = "Mediatek MT6769V/CU Helio G80 (12 nm)"
+gpu = "Mali-G52 MC2"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 186h"
+internalmemory = "64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"

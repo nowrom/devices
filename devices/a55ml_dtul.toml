@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/one-m9+-me-e9+/one-e9/unofficial-twrp-htc-e9-t3705646"
 maintainer = "aryankedare"
+
+[specs]
+cpu = "Octa-core 2.0 GHz Cortex-A53"
+weight = "150 g (5.29 oz)"
+year = "2015, March. Released 2015, May"
+os = "Android 5 (Lollipop), upgradable to 6 (Marshmallow), Sense UI 7"
+chipset = "Mediatek MT6795M Helio X10 (28 nm)"
+gpu = "PowerVR G6200"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 59h"
+internalmemory = "32GB 3GB RAM"

@@ -13,6 +13,16 @@ cpu = "Exynos M4 & Cortex-A75 & Cortex-A55"
 ram = "8 GB"
 wifi = "802.11 a/b/g/n/ac/ax, Dual-band, Wi-Fi Direct, Hotspot"
 
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_samsung_d1","device_samsung_exynos9820-common","kernel_samsung_exynos9820","vendor_samsung"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-note-10-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4391777/"
+stable = true
+deprecated = false
+
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-3-4-0-x-twrp-for-galaxy-note-10-5g-exynos.4198409/"

@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/nokia-7-plus/development/twrp-3-3-1-0-team-win-recovery-project-t3940223"
 maintainer = "Raghu Varma"
+
+[specs]
+cpu = "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)"
+weight = "183 g (6.46 oz)"
+year = "2018, February 25"
+os = "Android 8.1 (Oreo), upgradable to Android 10, Android One"
+chipset = "Qualcomm SDM660 Snapdragon 660 (14 nm)"
+gpu = "Adreno 512"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 87h"
+internalmemory = "64GB 4GB RAM, 64GB 6GB RAM"

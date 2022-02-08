@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "http://forum.xda-developers.com/showthread.php?t=2719163"
 maintainer = "None"
+
+[specs]
+cpu = "Hexa-core (4x1.3 GHz Cortex A7 & 2x1.7 GHz Cortex A15)"
+weight = "162.5 g (5.71 oz)"
+year = "2014, January. Released 2014, February"
+os = "Android 4.3 (Jelly Bean), upgradable to 5.1.1 (Lollipop), TouchWiz UI"
+chipset = "Exynos 5260 Hexa"
+gpu = "Mali-T624 MP4"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 74h"
+internalmemory = "16GB (11GB user available), 2GB RAM"

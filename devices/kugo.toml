@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/showthread.php?t=3793837"
 maintainer = "Chippa_a"
+
+[specs]
+cpu = "Octa-core (4x2.7 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"
+weight = "168 g (5.93 oz)"
+year = "2018, February"
+os = "Android 8.0 (Oreo), upgradable to Android 10"
+chipset = "Qualcomm SDM845 Snapdragon 845 (10 nm)"
+gpu = "Adreno 630"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, barometer, compass, color spectrum"
+batlife = "Endurance rating 88h"
+internalmemory = "64GB 4GB RAM"

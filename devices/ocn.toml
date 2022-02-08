@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/u11/development/recovery-twrp-touch-recovery-t3617028"
 maintainer = "CaptainThrowback"
+
+[specs]
+cpu = "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)"
+weight = "169 g (5.96 oz)"
+year = "2017, May 16"
+os = "Android 7.1 (Nougat), upgradable to Android 9.0 (Pie), Sense UI"
+chipset = "Qualcomm MSM8998 Snapdragon 835 (10 nm)"
+gpu = "Adreno 540"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 73h"
+internalmemory = "64GB 4GB RAM, 128GB 6GB RAM"

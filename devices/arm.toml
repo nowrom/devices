@@ -5,3 +5,14 @@ recoveries = []
 
 [[roms]]
 id = "dotos"
+
+[specs]
+cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"
+weight = "211 g (7.44 oz)"
+year = "2021, October 26"
+os = "Android 11"
+chipset = "Qualcomm SM8350 Snapdragon 888 5G (5 nm)"
+gpu = "Adreno 660"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, proximity, barometer, compass, color spectrum"
+batlife = "Endurance rating 87h"
+internalmemory = "512GB 12GB RAM"

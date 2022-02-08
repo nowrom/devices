@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/galaxy-note-8/development/recovery-samsung-galaxy-note8-snapdragon-t3962754"
 maintainer = "LeeMenHin"
+
+[specs]
+cpu = "Octa-core (4x2.3 GHz Mongoose M2 & 4x1.7 GHz Cortex-A53) - EMEAOcta-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo) - USA & China"
+weight = "195 g (6.88 oz)"
+year = "2017, August 23"
+os = "Android 7.1.1 (Nougat), upgradable to Android 9.0 (Pie)"
+chipset = "Exynos 8895 (10 nm) - EMEAQualcomm MSM8998 Snapdragon 835 (10 nm) - USA & China"
+gpu = "Mali-G71 MP20 - EMEAAdreno 540 - USA & China"
+sensors = "Iris scanner, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2"
+batlife = "Endurance rating 89h"
+internalmemory = "64GB 6GB RAM, 128GB 6GB RAM, 256GB 6GB RAM"

@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "http://forum.xda-developers.com/one-m9/orig-development/recovery-twrp-touch-recovery-t3066720"
 maintainer = "CaptainThrowback"
+
+[specs]
+cpu = "Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)"
+weight = "157 g (5.54 oz)"
+year = "2015, March 01. Released 2015, March 09"
+os = "Android 5.0 (Lollipop), upgradable to 7.0 (Nougat), Sense UI 7"
+chipset = "Qualcomm MSM8994 Snapdragon 810 (20 nm)"
+gpu = "Adreno 430"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 62h"
+internalmemory = "32GB 3GB RAM"

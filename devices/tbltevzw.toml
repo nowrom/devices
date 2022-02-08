@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "http://forum.xda-developers.com/note-edge/development/twrp-915fy-915tmo-moment-t3129459"
 maintainer = "mickey387"
+
+[specs]
+cpu = "Quad-core 2.7 GHz Krait 450"
+weight = "174 g (6.14 oz)"
+year = "2014, September. Released 2014, November"
+os = "Android 4.4.4 (KitKat), upgradable to 6.0 (Marshmallow)"
+chipset = "Qualcomm APQ8084 Snapdragon 805 (28 nm)"
+gpu = "Adreno 420"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, UV, heart rate, SpO2"
+batlife = "Endurance rating 68h"
+internalmemory = "32GB 3GB RAM, 64GB 3GB RAM"

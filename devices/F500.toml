@@ -5,8 +5,8 @@ roms = []
 
 [[recoveries]]
 id = "twrp"
-maintainer = "steadfasterX"
+maintainer = "lomatik"
 
 [[recoveries]]
 id = "twrp"
-maintainer = "lomatik"
+maintainer = "steadfasterX"

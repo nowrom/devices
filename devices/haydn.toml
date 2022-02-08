@@ -16,3 +16,14 @@ deprecated = false
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-11-official-teamwin-recovery-project.4374115/"
 maintainer = "Nebrassy"
+
+[specs]
+cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"
+weight = "196 g (6.91 oz)"
+year = "2021, March 29"
+os = "Android 11, MIUI 12"
+chipset = "Qualcomm SM8350 Snapdragon 888 5G (5 nm)"
+gpu = "Adreno 660"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, color spectrum, barometer"
+batlife = "Endurance rating 96h"
+internalmemory = "128GB 8GB RAM, 256GB 8GB RAM"
