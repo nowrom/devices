@@ -11,3 +11,14 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
 [[recoveries]]
 id = "twrp"
 maintainer = "Parth Bhatia (TheStrix)"
+
+[specs]
+cpu = "Octa-core 2.0 GHz Cortex-A53"
+weight = "211 g (7.44 oz)"
+year = "2017, May"
+os = "Android 7.1.1 (Nougat), MIUI 11"
+chipset = "Qualcomm MSM8953 Snapdragon 625 (14 nm)"
+gpu = "Adreno 506"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 126h"
+internalmemory = "32GB 4GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"

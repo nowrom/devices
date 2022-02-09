@@ -1,12 +1,12 @@
 brand = "asus"
-name = "ZenFone 5Z"
+name = "Zenfone 5Z"
 codename = "Z01R"
 recoveries = []
 
 [[roms]]
 id = "arrowos"
 maintainer = "EdwardWu"
-changelog = "Kernel: Merge branch android-4.9-q of https://android.googlesource.com/kernel/common"
+changelog = "Kernel: Update to 4.9.299 Icewiz\r\nDevice: Device Tree re-write based on Lineage OS, thanks ReallySnow for help\r\nDevice: SELinux is enofrcing now. Please  remember backup and format userdata."
 
 [[roms]]
 id = "blissroms"

@@ -8,3 +8,14 @@ id = "blissroms"
 [[recoveries]]
 id = "twrp"
 maintainer = "None"
+
+[specs]
+cpu = "Octa-core (2x2.3 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver)"
+weight = "155 g (5.47 oz)"
+year = "2019, February 20"
+os = "Android 9.0 (Pie), upgradable to Android 11, MIUI 12.5"
+chipset = "Qualcomm SDM712 Snapdragon 712 (10 nm)"
+gpu = "Adreno 616"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, compass"
+batlife = "Endurance rating 73h"
+internalmemory = "64GB 6GB RAM, 128GB 6GB RAM"

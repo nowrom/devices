@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/unofficial-recovery-twrp-3-4-0-0-for-galaxy-m30s.4035019/"
 maintainer = "santhosh6194"
+
+[specs]
+cpu = "Octa-core (4x2.3 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)"
+weight = "188 g (6.63 oz)"
+year = "2019, September 18"
+os = "Android 9.0 (Pie), upgradable to Android 11, One UI 3.0"
+chipset = "Exynos 9611 (10nm)"
+gpu = "Mali-G72 MP3"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 130h"
+internalmemory = "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"

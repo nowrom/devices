@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/galaxy-s5-mini/orig-development/recovery-twrp-3-1-1-exynos-t3626646"
 maintainer = "aykevl"
+
+[specs]
+cpu = "Quad-core 1.4 GHz Cortex-A7"
+weight = "120 g (4.23 oz)"
+year = "2014, June. Released 2014, July"
+os = "Android 4.4.2 (KitKat), upgradable to 5.1.1 (Lollipop), TouchWiz UI"
+chipset = "Exynos 3470 Quad"
+gpu = "Mali-400MP4"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, heart rate"
+batlife = "Endurance rating 72h"
+internalmemory = "16GB 1.5GB RAM"

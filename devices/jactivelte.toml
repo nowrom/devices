@@ -11,3 +11,14 @@ wifi = "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
 [[recoveries]]
 id = "twrp"
 maintainer = "jcadduono"
+
+[specs]
+cpu = "Quad-core 1.9 GHz Krait 300"
+weight = "153 g (5.40 oz)"
+year = "2013, June. Released 2013, June"
+os = "Android 4.2.2 (Jelly Bean), upgradable to 5.0.1 (Lollipop), TouchWiz UI"
+chipset = "Qualcomm APQ8064T Snapdragon 600"
+gpu = "Adreno 320"
+sensors = "Accelerometer, gyro, proximity, compass, barometer, gesture"
+batlife = "Endurance rating 57h"
+internalmemory = "16GB (11.2GB user available), 2GB RAM"
