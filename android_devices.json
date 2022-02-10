@@ -4920,6 +4920,11 @@
     "codename": "fine10_Joy"
   },
   {
+    "brand": "Alliance",
+    "name": "DTP9731",
+    "codename": "DTP9731"
+  },
+  {
     "brand": "Allouette",
     "name": "PSY7020SKD",
     "codename": "PSY7020SKD"
@@ -24068,6 +24073,11 @@
     "brand": "Cubot",
     "name": "P40",
     "codename": "P40"
+  },
+  {
+    "brand": "Cubot",
+    "name": "P50",
+    "codename": "P50"
   },
   {
     "brand": "Cubot",
@@ -43656,6 +43666,16 @@
   },
   {
     "brand": "Haier",
+    "name": "Haier Android TV FF Pro ISDB",
+    "codename": "daan"
+  },
+  {
+    "brand": "Haier",
+    "name": "Haier Android TV ISDB2K",
+    "codename": "broadway"
+  },
+  {
+    "brand": "Haier",
     "name": "Haier Android TV PRO",
     "codename": "daan"
   },
@@ -60263,6 +60283,11 @@
     "brand": "Infinix",
     "name": "SMART 6",
     "codename": "Infinix-X6511E"
+  },
+  {
+    "brand": "Infinix",
+    "name": "SMART 6 PLUS",
+    "codename": "Infinix-X6511G"
   },
   {
     "brand": "Infinix",
@@ -113671,6 +113696,21 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi Note 11",
+    "codename": "spes"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 11",
+    "codename": "spes"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 11",
+    "codename": "spesn"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi Note 11 5G",
     "codename": "evergo"
   },
@@ -113681,6 +113721,16 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi Note 11 Pro",
+    "codename": "viva"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 11 Pro 5G",
+    "codename": "veux"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi Note 11 Pro 5G",
     "codename": "veux"
   },
@@ -113688,6 +113738,21 @@
     "brand": "Redmi",
     "name": "Redmi Note 11 Pro+",
     "codename": "pissarropro"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 11E Pro",
+    "codename": "veux"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 11S",
+    "codename": "fleur"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 11S",
+    "codename": "miel"
   },
   {
     "brand": "Redmi",
@@ -158351,6 +158416,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "iQOO 9 Pro",
+    "codename": "2022"
+  },
+  {
+    "brand": "Vivo",
     "name": "vivo  1907",
     "codename": "1907"
   },
@@ -176878,6 +176948,11 @@
     "brand": "realme",
     "name": "realme narzo 50i",
     "codename": "RED8FA"
+  },
+  {
+    "brand": "realme",
+    "name": "realme pad",
+    "codename": "RE54C1L1"
   },
   {
     "brand": "realme",

@@ -16,3 +16,14 @@ maintainer = "AndropaX"
 [[recoveries]]
 id = "orangefox"
 supported = false
+
+[specs]
+cpu = "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57)"
+weight = "132 g (4.66 oz)"
+year = "2015, September. Released 2015, September"
+os = "Android 5.1.1 (Lollipop), upgradable to 7.0 (Nougat), MIUI 10"
+chipset = "Qualcomm MSM8992 Snapdragon 808 (20 nm)"
+gpu = "Adreno 418"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 52h"
+internalmemory = "16GB 2GB RAM, 32GB 3GB RAM"

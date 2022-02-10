@@ -1,6 +1,10 @@
 codename = "beyond1lte"
 brand = "Samsung"
-name = "Galaxy S10"
+name = "Samsung Galaxy S10 (beyond1lte)"
+
+[[roms]]
+id = "ancientos"
+photo = "https://wiki.lineageos.org/images/devices/beyond2lte.png"
 
 [[roms]]
 id = "AOSPK"

@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "http://forum.xda-developers.com/showthread.php?t=2460586"
 maintainer = "None"
+
+[specs]
+cpu = "Dual-core 1.7 GHz Krait 300"
+weight = "199 g (7.02 oz)"
+year = "2013, April. Released 2013, June"
+os = "Android 4.2.2 (Jelly Bean), upgradable to 4.4.2 (KitKat), TouchWiz UI"
+chipset = "Qualcomm Snapdragon 400 (28 nm)"
+gpu = "Adreno 305"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 60h"
+internalmemory = "8GB 1.5GB RAM, 16GB 1.5GB RAM"

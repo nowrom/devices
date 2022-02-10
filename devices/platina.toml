@@ -3,6 +3,10 @@ brand = "Xiaomi"
 name = "MI 8 Lite"
 
 [[roms]]
+id = "ancientos"
+photo = "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1543548317.3532360.png"
+
+[[roms]]
 id = "AOSPK"
 xda_thread = ""
 

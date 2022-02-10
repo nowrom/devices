@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/note-4/snapdragon-dev/recovery-twrp-3-3-1-0-t3933427"
 maintainer = "ripee"
+
+[specs]
+cpu = "Quad-core 2.7 GHz Krait 450 - Snapdragon 805Octa-core (4x1.3 GHz Cortex-A53 & 4x1.9 GHz Cortex-A57) - Exynos 5433"
+weight = "176 g (6.21 oz)"
+year = "2014, September 03. Released 2014, October"
+os = "Android 4.4.4 (KitKat), upgradable to 6.0.1 (Marshmallow)"
+chipset = "Qualcomm APQ8084 Snapdragon 805 (28 nm)Exynos 5433"
+gpu = "Adreno 420 (Snapdragon 805)Mali-T760 MP6 (Exynos 5433)"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, gesture, UV, heart rate, SpO2"
+batlife = "Endurance rating 90h"
+internalmemory = "32GB 3GB RAM"

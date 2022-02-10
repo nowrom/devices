@@ -3,6 +3,10 @@ brand = "iLa Mobile"
 name = "D1"
 
 [[roms]]
+id = "ancientos"
+photo = "https://wiki.lineageos.org/images/devices/d1.png"
+
+[[roms]]
 id = "crdroid"
 gapps = "https://mega.nz/file/HIdRyIjK#UF0nw6glqHF1rU3jhHD4my5tQDmHbSKPlDEvIjgP3OY"
 recovery = "https://download.lineageos.org/d1"

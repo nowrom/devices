@@ -7,14 +7,3 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/grand-prime/development/official-twrp-3-x-grand-prime-sm-g530t-t3533998"
 maintainer = "Vincent Zvikaramba"
-
-[specs]
-cpu = "Not found"
-weight = "Not found"
-year = "Not found"
-os = "Not found"
-chipset = "Not found"
-gpu = "Not found"
-sensors = "Not found"
-batlife = "Not found"
-internalmemory = "Not found"

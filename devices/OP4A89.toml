@@ -7,3 +7,14 @@ recoveries = []
 id = "arrowos"
 maintainer = "art_chen"
 changelog = "- Misc changes and improvements"
+
+[specs]
+cpu = "Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485)"
+weight = "200 g (7.05 oz)"
+year = "2019, October"
+os = "Android 9.0 (Pie), upgradable to Android 10, ColorOS 7.0"
+chipset = "Qualcomm SM8150 Snapdragon 855+ (7 nm)"
+gpu = "Adreno 640 (700 MHz)"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 99h"
+internalmemory = "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"

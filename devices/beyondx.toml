@@ -3,6 +3,10 @@ brand = "Samsung"
 name = "Galaxy S10 5G"
 
 [[roms]]
+id = "ancientos"
+photo = "https://wiki.lineageos.org/images/devices/beyondx.png"
+
+[[roms]]
 id = "AOSPK"
 xda_thread = ""
 
