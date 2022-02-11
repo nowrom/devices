@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/android/development/twrp-twrp-3-3-0-0-umidigi-one-max-t3926615"
 maintainer = "chankruze"
+
+[specs]
+cpu = "Hexa-core (2x3.22 GHz Avalanche + 4xX.X GHz Blizzard)"
+weight = "240 g (8.47 oz)"
+year = "2021, September 14"
+os = "iOS 15, upgradable to iOS 15.3"
+chipset = "Apple A15 Bionic (5 nm)"
+gpu = "Apple GPU (5-core graphics)"
+sensors = "Face ID, accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 121h"
+internalmemory = "128GB 6GB RAM, 256GB 6GB RAM, 512GB 6GB RAM, 1TB 6GB RAM"

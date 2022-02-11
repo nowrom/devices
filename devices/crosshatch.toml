@@ -8,7 +8,7 @@ id = "calyxos"
 [[roms]]
 id = "arrowos"
 maintainer = "ReallySnow"
-changelog = "- Sync audio effects with the stock ROM\r\n- Fix Android System Intelligence Issue\r\n- Default to full gesture navigation\r\n- Include Lawnchair\r\n- Update fingerprint/build description from SP1A.210812.016.A2"
+changelog = "Update fingerprint from SP1A.210812.016.C1\r\nUpdate blobs from SP1A.210812.016.C1"
 
 [[roms]]
 id = "grapheneos"

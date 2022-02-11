@@ -3146,6 +3146,11 @@
   },
   {
     "brand": "Advance",
+    "name": "TR7990",
+    "codename": "TR7990"
+  },
+  {
+    "brand": "Advance",
     "name": "TR7998",
     "codename": "TR7998"
   },
@@ -24896,8 +24901,18 @@
   },
   {
     "brand": "DEXP",
+    "name": "K28_",
+    "codename": "K28_"
+  },
+  {
+    "brand": "DEXP",
     "name": "K31",
     "codename": "K31"
+  },
+  {
+    "brand": "DEXP",
+    "name": "K31_",
+    "codename": "K31_"
   },
   {
     "brand": "DEXP",
@@ -32548,6 +32563,11 @@
     "brand": "FCNT",
     "name": "AW02",
     "codename": "AW02"
+  },
+  {
+    "brand": "FCNT",
+    "name": "F-52B",
+    "codename": "F52B"
   },
   {
     "brand": "FCNT",
@@ -89695,6 +89715,11 @@
     "codename": "SPPF_4110"
   },
   {
+    "brand": "Mosambee",
+    "name": "Z100",
+    "codename": "Z100"
+  },
+  {
     "brand": "Most Computers",
     "name": "Revo You",
     "codename": "RevoYou"
@@ -111126,6 +111151,11 @@
   },
   {
     "brand": "QUEST",
+    "name": "VISION",
+    "codename": "VISION"
+  },
+  {
+    "brand": "QUEST",
     "name": "Vibe",
     "codename": "Vibe"
   },
@@ -113693,6 +113723,11 @@
     "brand": "Redmi",
     "name": "Redmi Note 10T 5G",
     "codename": "camellia"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 11",
+    "codename": "spes"
   },
   {
     "brand": "Redmi",
@@ -134621,6 +134656,16 @@
   },
   {
     "brand": "Sony",
+    "name": "NW-WM1AM2",
+    "codename": "icx1298"
+  },
+  {
+    "brand": "Sony",
+    "name": "NW-WM1ZM2",
+    "codename": "icx1298"
+  },
+  {
+    "brand": "Sony",
     "name": "NW-Z1000",
     "codename": "icx1216"
   },
@@ -138188,6 +138233,11 @@
     "brand": "Stylo",
     "name": "721",
     "codename": "721"
+  },
+  {
+    "brand": "Stylo",
+    "name": "721_PRO",
+    "codename": "721_PRO"
   },
   {
     "brand": "Stylo",
@@ -150593,6 +150643,11 @@
     "brand": "Teleone",
     "name": "I06",
     "codename": "I06"
+  },
+  {
+    "brand": "Telia",
+    "name": "Telia Nordic STB",
+    "codename": "DV8919-KST"
   },
   {
     "brand": "Telkom",
