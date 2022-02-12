@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "AdrianDC and sjllls"
+
+[specs]
+cpu = "Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)"
+weight = "164.4 g (5.78 oz)"
+year = "2016, February 22. Released 2016, July 01"
+os = "Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)"
+chipset = "Qualcomm MSM8996 Snapdragon 820 (14 nm)"
+gpu = "Adreno 530"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, proximity, barometer, compass"
+batlife = "Endurance rating 61h"
+internalmemory = "32GB 3GB RAM (SS), 64GB 3GB RAM (DS)"

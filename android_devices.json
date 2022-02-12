@@ -25495,6 +25495,11 @@
     "codename": "S10_Plus"
   },
   {
+    "brand": "DOEL",
+    "name": "TT 7.0",
+    "codename": "TT_7_0"
+  },
+  {
     "brand": "DORA",
     "name": "Android TV",
     "codename": "R1"
@@ -29248,6 +29253,11 @@
     "brand": "EACRUGGED",
     "name": "Wolf10R",
     "codename": "Wolf10R"
+  },
+  {
+    "brand": "EAS ELECTRIC",
+    "name": "Android TV",
+    "codename": "R2"
   },
   {
     "brand": "EASYTECK",
@@ -58713,6 +58723,11 @@
     "brand": "INOI",
     "name": "INOI A52 Lite 32GB",
     "codename": "A150"
+  },
+  {
+    "brand": "INOI",
+    "name": "INOI Note 12",
+    "codename": "A180"
   },
   {
     "brand": "INOI",
@@ -93036,6 +93051,11 @@
   },
   {
     "brand": "Multilaser",
+    "name": "M10 4G MC",
+    "codename": "ML_JI0B_M10_4G_MC"
+  },
+  {
+    "brand": "Multilaser",
     "name": "M10 4G MON CLA",
     "codename": "WI0C_M10_4G_MON_CLA"
   },
@@ -96863,6 +96883,11 @@
     "brand": "NobleSkiodo",
     "name": "43UDVRCHG7H",
     "codename": "samseong"
+  },
+  {
+    "brand": "Noblex",
+    "name": "A60",
+    "codename": "A60UNS"
   },
   {
     "brand": "Noblex",
@@ -113791,6 +113816,11 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi Note 11S",
+    "codename": "miel"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi Note 11T 5G",
     "codename": "evergo"
   },
@@ -124771,6 +124801,86 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy S22",
+    "codename": "r0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22",
+    "codename": "r0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22",
+    "codename": "r0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22",
+    "codename": "r0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22",
+    "codename": "r0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22",
+    "codename": "r0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22",
+    "codename": "r0s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22 Ultra",
+    "codename": "b0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22 Ultra",
+    "codename": "b0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22 Ultra",
+    "codename": "b0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22 Ultra",
+    "codename": "b0s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22+",
+    "codename": "g0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22+",
+    "codename": "g0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22+",
+    "codename": "g0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22+",
+    "codename": "g0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22+",
+    "codename": "g0s"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy S3",
     "codename": "SC-03E"
   },
@@ -128053,6 +128163,66 @@
     "brand": "Samsung",
     "name": "Galaxy Tab S7+ 5G",
     "codename": "gts7xl"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8",
+    "codename": "gts8wifi"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8 5G",
+    "codename": "gts8"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8 5G",
+    "codename": "gts8"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8 5G",
+    "codename": "gts8"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8 Ultra",
+    "codename": "gts8uwifi"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8 Ultra 5G",
+    "codename": "gts8u"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8 Ultra 5G",
+    "codename": "gts8u"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8 Ultra 5G",
+    "codename": "gts8u"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8+",
+    "codename": "gts8pwifi"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8+ 5G",
+    "codename": "gts8p"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8+ 5G",
+    "codename": "gts8p"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8+ 5G",
+    "codename": "gts8p"
   },
   {
     "brand": "Samsung",
@@ -138241,6 +138411,16 @@
   },
   {
     "brand": "Stylo",
+    "name": "AIR",
+    "codename": "AIR"
+  },
+  {
+    "brand": "Stylo",
+    "name": "ARCTIC",
+    "codename": "ARCTIC"
+  },
+  {
+    "brand": "Stylo",
     "name": "AS210291",
     "codename": "AS210291"
   },
@@ -138283,6 +138463,11 @@
     "brand": "Stylo",
     "name": "INKOSI",
     "codename": "INKOSI"
+  },
+  {
+    "brand": "Stylo",
+    "name": "INKOSI-PRO",
+    "codename": "INKOSI_PRO"
   },
   {
     "brand": "Stylo",
@@ -139708,6 +139893,16 @@
     "brand": "TAG Heuer",
     "name": "Connected 2020",
     "codename": "orbital"
+  },
+  {
+    "brand": "TAG Heuer",
+    "name": "Connected Calibre E4 42mm",
+    "codename": "oxygen42"
+  },
+  {
+    "brand": "TAG Heuer",
+    "name": "Connected Calibre E4 45mm",
+    "codename": "oxygen45"
   },
   {
     "brand": "TAG Heuer",
@@ -162676,6 +162871,11 @@
   },
   {
     "brand": "Wizphone",
+    "name": "Slate10",
+    "codename": "Slate10"
+  },
+  {
+    "brand": "Wizphone",
     "name": "WP003",
     "codename": "WP003"
   },
@@ -162688,11 +162888,6 @@
     "brand": "Wizz",
     "name": "DV-PTB1080",
     "codename": "DV-PTB1080"
-  },
-  {
-    "brand": "Wizz",
-    "name": "Slate10",
-    "codename": "Slate10"
   },
   {
     "brand": "Wolki",

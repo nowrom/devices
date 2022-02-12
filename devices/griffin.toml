@@ -11,3 +11,14 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
 [[recoveries]]
 id = "twrp"
 maintainer = "kaneawk"
+
+[specs]
+cpu = "Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)"
+weight = "163 g (5.75 oz)"
+year = "2016, June. Released 2016, September"
+os = "Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)"
+chipset = "Qualcomm MSM8996 Snapdragon 820 (14 nm)"
+gpu = "Adreno 530"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 88h"
+internalmemory = "32GB 4GB RAM, 64GB 4GB RAM"

@@ -15,3 +15,14 @@ maintainer = "Anik khan (Anik1199)"
 [[recoveries]]
 id = "orangefox"
 supported = false
+
+[specs]
+cpu = "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A72)"
+weight = "164 g (5.78 oz)"
+year = "2016, January 14. Released 2016, March 03"
+os = "Android 5.1.1 (Lollipop), upgradable to 6.0.1 (Marshmallow), MIUI 9.5"
+chipset = "Qualcomm MSM8956 Snapdragon 650"
+gpu = "Adreno 510"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 93h"
+internalmemory = "16GB 2GB RAM (Standard version), 32GB 3GB RAM (High/Special version)"

@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "None"
+
+[specs]
+cpu = "Octa-core (4x1.8 GHz Cortex-A15 & 4x1.3 GHz Cortex-A7)"
+weight = "115 g (4.06 oz)"
+year = "2014, August. Released 2014, September"
+os = "Android 4.4.4 (KitKat), upgradable to 5.0.2 (Lollipop)"
+chipset = "Exynos 5430 Octa (20 nm)"
+gpu = "Mali-T628 MP6"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, heart rate"
+batlife = "Endurance rating 52h"
+internalmemory = "32GB 2GB RAM"

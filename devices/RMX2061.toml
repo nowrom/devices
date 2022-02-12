@@ -32,3 +32,14 @@ group = "https://t.me/+VuKhjhLo5ZYzM2Vk"
 
 [[roms]]
 id = "revengeos"
+
+[specs]
+cpu = "Octa-core (2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver)"
+weight = "202 g (7.13 oz)"
+year = "2020, March 05"
+os = "Android 10, upgradable to Android 11, Realme UI 2.0"
+chipset = "Qualcomm SM7125 Snapdragon 720G (8 nm)"
+gpu = "Adreno 618"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 107h"
+internalmemory = "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM"

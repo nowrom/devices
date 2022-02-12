@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "http://forum.xda-developers.com/galaxy-s7/development/recovery-official-twrp-galaxy-s7-t3458579"
 maintainer = "jcadduono"
+
+[specs]
+cpu = "Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53)"
+weight = "152 g (5.36 oz)"
+year = "2016, February 21. Released 2016, March 11"
+os = "Android 6.0 (Marshmallow), upgradable to Android 8.0 (Oreo), TouchWiz UI"
+chipset = "Exynos 8890 Octa (14 nm)"
+gpu = "Mali-T880 MP12"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2"
+batlife = "Endurance rating 80h"
+internalmemory = "32GB 4GB RAM, 64GB 4GB RAM"

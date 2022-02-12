@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "orangefox"
 supported = true
+
+[specs]
+cpu = "Octa-core (4x2.3 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)"
+weight = "172 g (6.07 oz)"
+year = "2019, December 12"
+os = "Android 10, upgradable to Android 11, One UI 3.1"
+chipset = "Exynos 9611 (10nm)"
+gpu = "Mali-G72 MP3"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, compass"
+batlife = "Endurance rating 86h"
+internalmemory = "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"

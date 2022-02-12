@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "http://forum.xda-developers.com/galaxy-s6/orig-development/twrp-t3080940"
 maintainer = "jcadduono, bigbiff"
+
+[specs]
+cpu = "Octa-core (4x2.1 GHz Cortex-A57 & 4x1.5 GHz Cortex-A53)"
+weight = "138 g (4.87 oz)"
+year = "2015, March 01. Released 2015, April"
+os = "Android 5.0.2 (Lollipop), upgradable to Android 8.0 (Oreo), TouchWiz UI"
+chipset = "Exynos 7420 Octa (14 nm)"
+gpu = "Mali-T760MP8"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2"
+batlife = "Endurance rating 73h"
+internalmemory = "32GB 3GB RAM, 64GB 3GB RAM, 128GB 3GB RAM"
