@@ -80,7 +80,7 @@ active = true
 [[roms]]
 id = "sparkos"
 group = "https://t.me/WeedyBuilds"
-download = "https://downloads.spark-os.live/vayu/Spark-S-Energized-OFFICIAL-vayu-20220119.zip"
+download = "https://downloads.spark-os.live/vayu/Spark-12.0-Official-vayu-20220212.zip"
 
 [[recoveries]]
 id = "twrp"

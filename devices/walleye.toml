@@ -10,6 +10,11 @@ id = "arrowos"
 maintainer = "ReallySnow, baolong24"
 
 [[roms]]
+id = "crdroid"
+gapps = "http://downloads.codefi.re/jdcteam/javelinanddart/gapps/MindTheGapps-12.0.0-arm64-20220128_095253.zip"
+recovery = "https://dl.twrp.me/walleye/"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

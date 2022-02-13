@@ -1,0 +1,9 @@
+codename = "k3g"
+brand = "Samsung"
+name = "Galaxy S5"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-6-0_9-recovery-k3g.4401639/"
+maintainer = "akhil1999"

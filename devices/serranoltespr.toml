@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/galaxy-s4-mini/orig-development/recovery-twrp-3-2-1-0-t3736888"
 maintainer = "ripee"
+
+[specs]
+cpu = "Dual-core 1.7 GHz Krait 300"
+weight = "107 g (3.77 oz)"
+year = "2013, May. Released 2013, July"
+os = "Android 4.2.2 (Jelly Bean), upgradable to 4.4.2 (KitKat)"
+chipset = "Qualcomm MSM8930AB Snapdragon 400 (28 nm)"
+gpu = "Adreno 305"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 54h"
+internalmemory = "8GB 1.5GB RAM"

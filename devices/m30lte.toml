@@ -16,3 +16,14 @@ maintainer = "akhil1999"
 [[recoveries]]
 id = "orangefox"
 supported = false
+
+[specs]
+cpu = "Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)"
+weight = "174 g (6.14 oz)"
+year = "2019, February 27"
+os = "Android 8.1 (Oreo), upgradable to Android 10, One UI 2"
+chipset = "Exynos 7904 (14 nm)"
+gpu = "Mali-G71 MP2"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 119h"
+internalmemory = "32GB 3GB RAM, 32GB 4GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"

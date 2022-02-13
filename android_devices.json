@@ -96886,6 +96886,11 @@
   },
   {
     "brand": "Noblex",
+    "name": "A50",
+    "codename": "A50UNS"
+  },
+  {
+    "brand": "Noblex",
     "name": "A60",
     "codename": "A60UNS"
   },
@@ -112616,11 +112621,6 @@
   },
   {
     "brand": "Realme",
-    "name": "realme  8",
-    "codename": "RMX3085L1"
-  },
-  {
-    "brand": "Realme",
     "name": "realme  GT 5G",
     "codename": "RMX2202L1"
   },
@@ -112768,11 +112768,6 @@
     "brand": "Realme",
     "name": "realme 7i",
     "codename": "RMX2193"
-  },
-  {
-    "brand": "Realme",
-    "name": "realme 8",
-    "codename": "RMX3085L1"
   },
   {
     "brand": "Realme",
@@ -177033,6 +177028,11 @@
     "brand": "realme",
     "name": "RMX3269",
     "codename": "RED8F6"
+  },
+  {
+    "brand": "realme",
+    "name": "realme  8",
+    "codename": "RMX3085L1"
   },
   {
     "brand": "realme",

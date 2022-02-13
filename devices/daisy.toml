@@ -14,6 +14,11 @@ maintainer = "acras"
 id = "blissroms"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://flamegapps.github.io/"
+recovery = "https://github.com/TWRP-Mi-A2-Lite/twrp_device_xiaomi_daisy/releases"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/daisy/Havoc-OS-v4.12-20211221-daisy-Official-GApps.zip"
 maintainer = "LuPe"

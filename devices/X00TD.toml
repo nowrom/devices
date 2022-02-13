@@ -55,7 +55,7 @@ id = "pixyos"
 [[roms]]
 id = "sparkos"
 group = "https://t.me/sparkx00td"
-download = "https://downloads.spark-os.live/X00TD/Spark-S-Energized-OFFICIAL-X00TD-20220117.zip"
+download = "https://downloads.spark-os.live/X00TD/Spark-12.0-Official-X00TD-20220212.zip"
 
 [[roms]]
 id = "evolutionx"

@@ -8,7 +8,6 @@ id = "calyxos"
 [[roms]]
 id = "arrowos"
 maintainer = "ReallySnow"
-changelog = "Update 4.4.302 Kernel"
 
 [[roms]]
 id = "blissroms"

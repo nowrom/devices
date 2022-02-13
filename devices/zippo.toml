@@ -17,7 +17,7 @@ id = "revengeos"
 [[roms]]
 id = "sparkos"
 group = "https://t.me/SparkOSCommunity"
-download = "https://downloads.spark-os.live/zippo/Spark-S-Energized-OFFICIAL-zippo-20220117.zip"
+download = "https://downloads.spark-os.live/zippo/Spark-12.0-Official-zippo-20220212.zip"
 
 [[roms]]
 id = "evolutionx"
