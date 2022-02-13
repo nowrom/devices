@@ -1,6 +1,6 @@
 brand = "Lenovo"
-name = "Lenovo K10 Note"
 codename = "kunlun2_row"
+name = "Lenovo K10 Note"
 recoveries = []
 
 [[roms]]

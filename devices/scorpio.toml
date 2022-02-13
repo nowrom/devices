@@ -1,6 +1,11 @@
-codename = "scorpio"
 brand = "Xiaomi"
+codename = "scorpio"
 name = "Mi Note2"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-note-2/development/recovery-twrp-xiaomi-mi-note-2-t3774171"
+maintainer = "Giuseppe Barillari (joe2k01)"
 
 [[roms]]
 id = "lineageos"
@@ -21,8 +26,3 @@ deprecated = true
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4207145"
 deprecated = true
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/mi-note-2/development/recovery-twrp-xiaomi-mi-note-2-t3774171"
-maintainer = "Giuseppe Barillari (joe2k01)"

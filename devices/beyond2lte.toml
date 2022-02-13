@@ -1,6 +1,11 @@
-codename = "beyond2lte"
 brand = "Samsung"
-name = "Samsung Galaxy S10+ (beyond2lte)"
+codename = "beyond2lte"
+name = "Galaxy S10+"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-s10/samsung-galaxy-s10--s10--s10-5g-cross-device-development-exynos/recovery-twrp-galaxy-s10-e-5g-exynos-t4180287"
+maintainer = "corsicanu"
 
 [[roms]]
 id = "ancientos"
@@ -30,11 +35,6 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4368775/"
 stable = true
 deprecated = false
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/galaxy-s10/samsung-galaxy-s10--s10--s10-5g-cross-device-development-exynos/recovery-twrp-galaxy-s10-e-5g-exynos-t4180287"
-maintainer = "corsicanu"
 
 [specs]
 cpu = "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA/LATAMOcta-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485) - USA/China"

@@ -1,13 +1,13 @@
-codename = "W7"
 brand = "Wings"
+codename = "W7"
 name = "W7"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A7"
 ram = "1 GB"
 wifi = "802.11 b/g/n, Wi-Fi Direct, DLNA, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "None"

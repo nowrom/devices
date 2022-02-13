@@ -1,20 +1,20 @@
-codename = "ido"
 brand = "Xiaomi"
+codename = "ido"
 name = "Redmi 3"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Anik khan (Anik1199)"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
 ram = "2/3 GB"
 wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Anik khan (Anik1199)"
-
-[[recoveries]]
-id = "orangefox"
-supported = false
 
 [specs]
 cpu = "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A72)"

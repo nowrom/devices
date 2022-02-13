@@ -1,6 +1,15 @@
+brand = "OnePlus"
 codename = "hotdog"
-brand = "Oneplus"
-name = "Oneplus 7T Pro"
+name = "OnePlus 7T Pro"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project-7t-7t-pro.4299171/"
+maintainer = "lossyx@xda"
 
 [[roms]]
 id = "dotos"
@@ -32,15 +41,6 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-0-oneplus-7t-pro-pixel-experience-aosp-2020-12-05.4162199/"
 stable = true
 deprecated = true
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project-7t-7t-pro.4299171/"
-maintainer = "lossyx@xda"
-
-[[recoveries]]
-id = "orangefox"
-supported = true
 
 [specs]
 cpu = "Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"

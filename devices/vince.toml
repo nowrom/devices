@@ -1,12 +1,18 @@
-codename = "vince"
 brand = "Xiaomi"
+codename = "vince"
 name = "Redmi 5 Plus"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/android/development/official-twrp-xiaomi-redmi-5-plus-t3727162"
+maintainer = "Isaac Chen"
 
 [[roms]]
 id = "ancientos"
-
-[[roms]]
-id = "pixelextended"
 
 [[roms]]
 id = "arrowos"
@@ -25,25 +31,19 @@ id = "dotos"
 id = "evolutionx"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/vince/Havoc-OS-v4.13-20220201-vince-Official-GApps.zip"
 maintainer = "Mohammed Adnan"
 group = "https://t.me/+VHjIg542KdDqPfp4"
 
 [[roms]]
-id = "revengeos"
+id = "pixelextended"
 
 [[roms]]
-id = "evolutionx"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/android/development/official-twrp-xiaomi-redmi-5-plus-t3727162"
-maintainer = "Isaac Chen"
-
-[[recoveries]]
-id = "orangefox"
-supported = false
+id = "revengeos"
 
 [specs]
 cpu = "Octa-core 2.0 GHz Cortex-A53"

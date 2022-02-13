@@ -1,6 +1,10 @@
-codename = "albus"
 brand = "Motorola"
+codename = "albus"
 name = "Moto Z (2) Play"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "EmaMaker"
 
 [[roms]]
 id = "AOSPK"
@@ -30,7 +34,3 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-albus-pixelexperience-aosp.4246163"
 stable = true
 deprecated = true
-
-[[recoveries]]
-id = "twrp"
-maintainer = "EmaMaker"

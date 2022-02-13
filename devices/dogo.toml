@@ -1,17 +1,17 @@
-codename = "dogo"
 brand = "Sony"
+codename = "dogo"
 name = "Xperia ZR"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/xperia-zr/orig-development/ub-twrp-v3-2-1-xperia-zr-t3744868"
+maintainer = "CyberWalkMaN"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait"
 ram = "2 GB LPDDR2"
 wifi = "802.11 a/b/g/n, 2.4GHz/5GHz, Wi-Fi Direct, DLNA, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/xperia-zr/orig-development/ub-twrp-v3-2-1-xperia-zr-t3744868"
-maintainer = "CyberWalkMaN"
 
 [specs]
 cpu = "Quad-core 1.5 GHz Krait"

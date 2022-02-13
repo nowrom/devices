@@ -1,6 +1,11 @@
-codename = "D1"
 brand = "iLa Mobile"
+codename = "D1"
 name = "D1"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-3-4-0-x-twrp-for-galaxy-note-10-5g-exynos.4198409/"
+maintainer = "corsicanu"
 
 [[roms]]
 id = "ancientos"
@@ -26,11 +31,6 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-note-10-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4391777/"
 stable = true
 deprecated = false
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-3-4-0-x-twrp-for-galaxy-note-10-5g-exynos.4198409/"
-maintainer = "corsicanu"
 
 [specs]
 cpu = "Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver)"

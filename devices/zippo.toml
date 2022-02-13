@@ -1,6 +1,14 @@
-codename = "zippo"
 brand = "Lenovo"
+codename = "zippo"
 name = "Z6Pro"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/official-tests-twrp-for-the-lenovo-z6-pro-zippo.4320609/"
+maintainer = "ThEMarD"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -18,14 +26,6 @@ id = "revengeos"
 id = "sparkos"
 group = "https://t.me/SparkOSCommunity"
 download = "https://downloads.spark-os.live/zippo/Spark-12.0-Official-zippo-20220212.zip"
-
-[[roms]]
-id = "evolutionx"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/official-tests-twrp-for-the-lenovo-z6-pro-zippo.4320609/"
-maintainer = "ThEMarD"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"

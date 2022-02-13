@@ -1,6 +1,11 @@
-codename = "X3"
 brand = "YesTeL"
+codename = "X3"
 name = "X3"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/leeco-le-1s/development/official-twrp-t3527566"
+maintainer = "DroidThug"
 
 [[roms]]
 id = "legionos"
@@ -8,11 +13,6 @@ active = true
 maintainer = "Patriot06"
 github = "https://github.com/Patriot-06"
 donation_link = "https://www.paypal.me/patriot235"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "http://forum.xda-developers.com/leeco-le-1s/development/official-twrp-t3527566"
-maintainer = "DroidThug"
 
 [specs]
 cpu = "Octa-core (1x2.96 GHz Kryo 485 Gold & 3x2.42 GHz Kryo 485 Gold & 4x1.78 GHz Kryo 485 Silver)"

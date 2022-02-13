@@ -1,12 +1,12 @@
-codename = "cactus"
 brand = "Xiaomi"
+codename = "cactus"
 name = "Redmi 6A"
 roms = []
 
 [[recoveries]]
-id = "twrp"
-maintainer = "MegaFon929"
-
-[[recoveries]]
 id = "orangefox"
 supported = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "MegaFon929"

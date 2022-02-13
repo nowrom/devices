@@ -1,6 +1,6 @@
-brand = "asus"
-name = "Zenfone 5Z"
+brand = "Asus"
 codename = "Z01R"
+name = "ASUS ZenFone 5Z"
 recoveries = []
 
 [[roms]]
@@ -23,6 +23,9 @@ recovery = "https://dl.twrp.me/Z01RD/twrp-installer-3.6.0_11-0-Z01RD.zip.html"
 id = "evolutionx"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/Z01R/Havoc-OS-v4.13-20220201-Z01R-Official-GApps.zip"
 maintainer = "Edward Wu"
@@ -33,6 +36,3 @@ id = "lineageos"
 cpu = "Kryo 385"
 ram = "4/6/8 GB LPDDR4X"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"
-
-[[roms]]
-id = "evolutionx"

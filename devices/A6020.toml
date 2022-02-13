@@ -1,6 +1,15 @@
-codename = "A6020"
 brand = "Lenovo"
-name = "Vibe K5"
+codename = "A6020"
+name = "Vibe K5 / K5 Plus"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/k5-plus/development/recovery-twrp-3-0-2-0-lenovo-vibe-k5-t3391100"
+maintainer = "Shr3ps"
 
 [[roms]]
 id = "arrowos"
@@ -12,15 +21,6 @@ id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
 ram = "2/3 GB"
 wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/k5-plus/development/recovery-twrp-3-0-2-0-lenovo-vibe-k5-t3391100"
-maintainer = "Shr3ps"
-
-[[recoveries]]
-id = "orangefox"
-supported = false
 
 [specs]
 cpu = "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)"

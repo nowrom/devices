@@ -1,6 +1,10 @@
-codename = "sailfish"
 brand = "Google"
+codename = "sailfish"
 name = "Pixel"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"
 
 [[roms]]
 id = "arrowos"
@@ -30,10 +34,6 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-0-sailfish-pixelexperience-aosp-official.4247201/"
 stable = true
 deprecated = true
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Dees_Troy"
 
 [specs]
 cpu = "Octa-core (2x2.80 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.80 GHz Cortex-A55)"

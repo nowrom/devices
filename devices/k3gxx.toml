@@ -1,6 +1,6 @@
 brand = "Samsung"
-name = "Galaxy S5 (International 3G)"
 codename = "k3gxx"
+name = "Galaxy S5 (International 3G)"
 recoveries = []
 
 [[roms]]

@@ -1,5 +1,5 @@
-codename = "galen"
 brand = "NVidia"
+codename = "galen"
 name = "NVidia Jetson AGX Xavier"
 roms = []
 

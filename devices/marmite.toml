@@ -1,15 +1,15 @@
-codename = "marmite"
 brand = "Wileyfox"
+codename = "marmite"
 name = "Swift2 Add-X"
 roms = []
 
 [[recoveries]]
-id = "twrp"
-maintainer = "Dees_Troy"
-
-[[recoveries]]
 id = "orangefox"
 supported = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"
 
 [specs]
 cpu = "Not found"

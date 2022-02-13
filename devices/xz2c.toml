@@ -1,6 +1,6 @@
 brand = "Sony"
-name = "Xperia XZ2 Compact"
 codename = "xz2c"
+name = "Xperia XZ2 Compact"
 recoveries = []
 
 [[roms]]

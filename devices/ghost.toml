@@ -1,16 +1,16 @@
-codename = "ghost"
 brand = "Motorola"
+codename = "ghost"
 name = "Moto X (1st Gen)"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait 200"
 ram = "2 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, DLNA, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "None"
 
 [specs]
 cpu = "Not found"

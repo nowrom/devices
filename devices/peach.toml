@@ -1,6 +1,6 @@
 brand = "Funai Electric"
-name = "Smart TV"
 codename = "peach"
+name = "Smart TV"
 recoveries = []
 
 [[roms]]

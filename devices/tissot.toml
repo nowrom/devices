@@ -1,6 +1,11 @@
-codename = "tissot"
 brand = "Xiaomi"
-name = "Mi A1 (Tissot)"
+codename = "tissot"
+name = "Mi A1"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-a1/development/recovery-twrp-3-1-1-0-touch-recovery-t3688472"
+maintainer = "nicknitewolf"
 
 [[roms]]
 id = "ancientos"
@@ -16,6 +21,9 @@ recovery = "https://dl.twrp.me/tissot/"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -63,15 +71,7 @@ maintainer_name = "Roger W."
 active = false
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v2.9"
 developer = "mdeejay"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/mi-a1/development/recovery-twrp-3-1-1-0-touch-recovery-t3688472"
-maintainer = "nicknitewolf"

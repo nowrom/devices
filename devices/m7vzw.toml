@@ -1,6 +1,6 @@
 brand = "HTC"
-name = "One (Verizon)"
 codename = "m7vzw"
+name = "One (Verizon)"
 recoveries = []
 
 [[roms]]

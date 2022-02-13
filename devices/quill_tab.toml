@@ -1,6 +1,6 @@
 brand = "Nvidia"
-name = "Jetson (TX2 / TX2 NX) [Tablet]"
 codename = "quill_tab"
+name = "Jetson (TX2 / TX2 NX) [Tablet]"
 recoveries = []
 
 [[roms]]

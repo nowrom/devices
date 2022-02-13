@@ -1,5 +1,5 @@
-codename = "test_device"
 brand = "Test"
+codename = "test_device"
 name = "device"
 roms = []
 

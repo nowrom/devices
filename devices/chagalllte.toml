@@ -1,14 +1,14 @@
-codename = "chagalllte"
 brand = "Samsung"
+codename = "chagalllte"
 name = "Galaxy TabS 10.5"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/galaxy-tab-s/orig-development/recovery-twrp-2-7-1-0-touch-recovery-t2817100"
+maintainer = "gellmar"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A15 & Cortex-A7"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, hotspot"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "http://forum.xda-developers.com/galaxy-tab-s/orig-development/recovery-twrp-2-7-1-0-touch-recovery-t2817100"
-maintainer = "gellmar"

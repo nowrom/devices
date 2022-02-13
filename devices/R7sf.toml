@@ -1,13 +1,13 @@
-codename = "R7sf"
 brand = "Oppo"
+codename = "R7sf"
 name = "R7sfg"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Celoxocis"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Celoxocis"

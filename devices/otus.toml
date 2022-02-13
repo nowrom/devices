@@ -1,6 +1,6 @@
 brand = "Motorola"
-name = "Moto E (2nd Gen)"
 codename = "otus"
+name = "Moto E (2nd Gen)"
 recoveries = []
 
 [[roms]]

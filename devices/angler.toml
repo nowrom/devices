@@ -1,6 +1,10 @@
-codename = "angler"
 brand = "Huawei"
+codename = "angler"
 name = "Nexus 6P"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"
 
 [[roms]]
 id = "blissroms"
@@ -10,10 +14,6 @@ id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A57"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Dees_Troy"
 
 [specs]
 cpu = "Octa-core (4x1.55 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)"

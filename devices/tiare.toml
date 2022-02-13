@@ -1,7 +1,7 @@
-codename = "tiare"
-recoveries = []
 brand = "Xiaomi"
+codename = "tiare"
 name = "Redmi Go"
+recoveries = []
 
 [[roms]]
 id = "revengeos"

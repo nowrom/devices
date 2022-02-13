@@ -1,6 +1,14 @@
-codename = "m30lte"
 brand = "Samsung"
+codename = "m30lte"
 name = "Galaxy M30"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "akhil1999"
 
 [[roms]]
 id = "sakura"
@@ -8,14 +16,6 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Haridhayal"
 active = false
-
-[[recoveries]]
-id = "twrp"
-maintainer = "akhil1999"
-
-[[recoveries]]
-id = "orangefox"
-supported = false
 
 [specs]
 cpu = "Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)"

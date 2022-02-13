@@ -1,6 +1,14 @@
-codename = "daisy"
 brand = "Xiaomi"
+codename = "daisy"
 name = "Mi A2 Lite"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy"
 
 [[roms]]
 id = "AOSPK"
@@ -38,14 +46,6 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v5.1"
 developer = "lupesoltec"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Dees_Troy"
-
-[[recoveries]]
-id = "orangefox"
-supported = true
 
 [specs]
 cpu = "Octa-core 2.0 GHz Cortex-A53"

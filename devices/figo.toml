@@ -1,6 +1,6 @@
 brand = "Huawei"
-name = "P Smart"
 codename = "figo"
+name = "P Smart"
 recoveries = []
 
 [[roms]]

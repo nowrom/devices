@@ -1,6 +1,6 @@
 brand = "Samsung"
-name = "Galaxy S III (International)"
 codename = "i9300"
+name = "Galaxy S III (International)"
 recoveries = []
 
 [[roms]]

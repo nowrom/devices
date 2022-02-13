@@ -1,6 +1,11 @@
-codename = "S2"
 brand = "Xstar"
+codename = "S2"
 name = "S2"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/le-2/development/twrp-3-0-2-0-s2-built-source-custom-t3512723"
+maintainer = "Rishabh Rao"
 
 [[roms]]
 id = "lineageos"
@@ -14,8 +19,3 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "CakesTwix"
 active = true
-
-[[recoveries]]
-id = "twrp"
-xdathread = "http://forum.xda-developers.com/le-2/development/twrp-3-0-2-0-s2-built-source-custom-t3512723"
-maintainer = "Rishabh Rao"

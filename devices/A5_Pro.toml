@@ -1,7 +1,7 @@
-codename = "A5_Pro"
-recoveries = []
 brand = "Umidigi"
+codename = "A5_Pro"
 name = "A5 Pro"
+recoveries = []
 
 [[roms]]
 id = "blissroms"

@@ -1,6 +1,6 @@
 brand = "Samsung"
-name = "Galaxy Note 8.0 (LTE)"
 codename = "n5120"
+name = "Galaxy Note 8.0 (LTE)"
 recoveries = []
 
 [[roms]]

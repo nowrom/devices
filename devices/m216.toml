@@ -1,13 +1,13 @@
-codename = "m216"
 brand = "LGE"
+codename = "m216"
 name = "LG K10"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "PVineeth"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "1.5 GB / 2 GB"
 wifi = "802.11 a/b/g/n"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "PVineeth"

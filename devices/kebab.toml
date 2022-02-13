@@ -1,9 +1,11 @@
-codename = "kebab"
 brand = "OnePlus"
+codename = "kebab"
 name = "oneplus 8T"
 
-[[roms]]
-id = "pixelextended"
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-alpha-teamwin-recovery-project-8t-kebab-2021-09-04.4302449/"
+maintainer = "theincognito"
 
 [[roms]]
 id = "arrowos"
@@ -17,6 +19,9 @@ recovery = ""
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -55,6 +60,9 @@ stable = true
 deprecated = false
 
 [[roms]]
+id = "pixelextended"
+
+[[roms]]
 id = "revengeos"
 
 [[roms]]
@@ -63,14 +71,6 @@ xda_thread = "https://forum.xda-developers.com/t/rom-official-11-project-sakura-
 maintainer_url = "https://forum.xda-developers.com/m/azoller1.4202973/"
 maintainer_name = "azoller1"
 active = true
-
-[[roms]]
-id = "evolutionx"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-11-alpha-teamwin-recovery-project-8t-kebab-2021-09-04.4302449/"
-maintainer = "theincognito"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.8 GHz Kryo 585)"

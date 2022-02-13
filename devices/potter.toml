@@ -1,9 +1,10 @@
-codename = "potter"
 brand = "Motorola"
+codename = "potter"
 name = "Moto G Plus (5th Gen)"
 
-[[roms]]
-id = "pixelextended"
+[[recoveries]]
+id = "twrp"
+maintainer = "GtrCraft"
 
 [[roms]]
 id = "AOSPK"
@@ -37,6 +38,5 @@ version_code = "eleven_plus"
 stable = true
 deprecated = true
 
-[[recoveries]]
-id = "twrp"
-maintainer = "GtrCraft"
+[[roms]]
+id = "pixelextended"

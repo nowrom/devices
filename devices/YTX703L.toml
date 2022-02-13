@@ -1,6 +1,6 @@
 brand = "Lenovo"
-name = "Yoga Tab 3 Plus LTE"
 codename = "YTX703L"
+name = "Yoga Tab 3 Plus LTE"
 recoveries = []
 
 [[roms]]

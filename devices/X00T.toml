@@ -1,6 +1,10 @@
-codename = "X00T"
 brand = "asus"
+codename = "X00T"
 name = "Asus Zenfone Max Pro M1"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
 
 [[roms]]
 id = "arrowos"
@@ -16,7 +20,3 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "LordShenron"
 active = false
-
-[[recoveries]]
-id = "orangefox"
-supported = false

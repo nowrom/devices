@@ -1,6 +1,6 @@
 brand = "Qualcomm"
-name = "SDM455 QRD"
 codename = "sdm455_64"
+name = "SDM455 QRD"
 recoveries = []
 
 [[roms]]

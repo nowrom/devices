@@ -1,6 +1,6 @@
 brand = "Google"
-name = "Pixel 4a"
 codename = "sunfish"
+name = "Pixel 4a"
 recoveries = []
 
 [[roms]]

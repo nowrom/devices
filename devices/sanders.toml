@@ -1,6 +1,14 @@
-codename = "sanders"
 brand = "Motorola"
+codename = "sanders"
 name = "Moto G (5S) Plus"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "iamsaalim"
 
 [[roms]]
 id = "AOSPK"
@@ -53,11 +61,3 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "ArmSM"
 active = false
-
-[[recoveries]]
-id = "twrp"
-maintainer = "iamsaalim"
-
-[[recoveries]]
-id = "orangefox"
-supported = false

@@ -1,6 +1,6 @@
 brand = "Motorola"
-name = "Droid RAZR/RAZR MAXX (CDMA)"
 codename = "spyder"
+name = "Droid RAZR/RAZR MAXX (CDMA)"
 recoveries = []
 
 [[roms]]

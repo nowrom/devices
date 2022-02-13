@@ -1,10 +1,7 @@
 brand = "OnePlus"
-name = "oneplus nord"
 codename = "avicii"
+name = "oneplus nord"
 recoveries = []
-
-[[roms]]
-id = "pixelextended"
 
 [[roms]]
 id = "dotos"
@@ -36,6 +33,9 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-12-oneplus-nord-avicii-pixel-experience-aosp.4352603"
 stable = true
 deprecated = false
+
+[[roms]]
+id = "pixelextended"
 
 [[roms]]
 id = "pixelextended"

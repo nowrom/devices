@@ -1,13 +1,13 @@
-codename = "troika"
 brand = "Motorola"
+codename = "troika"
 name = "motorola one action"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "kaneawk"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A73 & Cortex-A53"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "kaneawk"

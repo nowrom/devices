@@ -1,6 +1,6 @@
 brand = "Samsung"
-name = "Galaxy S III Neo (Sony Camera)"
 codename = "s3ve3gxx"
+name = "Galaxy S III Neo (Sony Camera)"
 recoveries = []
 
 [[roms]]

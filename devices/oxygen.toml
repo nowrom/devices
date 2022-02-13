@@ -1,15 +1,15 @@
-codename = "oxygen"
 brand = "Xiaomi"
+codename = "oxygen"
 name = "MI MAX 2"
 roms = []
 
 [[recoveries]]
-id = "twrp"
-maintainer = "MacTavishAO"
-
-[[recoveries]]
 id = "orangefox"
 supported = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "MacTavishAO"
 
 [specs]
 cpu = "Octa-core 2.0 GHz Cortex-A53"

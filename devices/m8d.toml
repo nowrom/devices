@@ -1,6 +1,6 @@
 brand = "HTC"
-name = "One (M8) Dual SIM"
 codename = "m8d"
+name = "One (M8) Dual SIM"
 recoveries = []
 
 [[roms]]

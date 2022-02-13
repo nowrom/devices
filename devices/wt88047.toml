@@ -1,14 +1,14 @@
-codename = "wt88047"
 brand = "Wingtech"
+codename = "wt88047"
 name = "Redmi 2"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/showthread.php?t=3611503"
+maintainer = "nicknitewolf"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "1/2 GB"
 wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "http://forum.xda-developers.com/showthread.php?t=3611503"
-maintainer = "nicknitewolf"

@@ -1,15 +1,15 @@
-codename = "a3y17lte"
 brand = "Samsung"
+codename = "a3y17lte"
 name = "Galaxy A3(2017)"
 roms = []
 
 [[recoveries]]
-id = "twrp"
-maintainer = "McFy"
-
-[[recoveries]]
 id = "orangefox"
 supported = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "McFy"
 
 [specs]
 cpu = "Octa-core (4x2.35 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)"

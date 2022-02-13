@@ -1,6 +1,11 @@
-codename = "d2s"
 brand = "Samsung"
+codename = "d2s"
 name = "Galaxy Note10+"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-3-4-0-x-twrp-for-galaxy-note-10-5g-exynos.4198413/"
+maintainer = "corsicanu"
 
 [[roms]]
 id = "ancientos"
@@ -26,11 +31,6 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-note-10-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4391777/"
 stable = true
 deprecated = false
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-3-4-0-x-twrp-for-galaxy-note-10-5g-exynos.4198413/"
-maintainer = "corsicanu"
 
 [specs]
 cpu = "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55) - EMEA/LATAMOcta-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485) - USA/China"

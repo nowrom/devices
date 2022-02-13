@@ -1,13 +1,13 @@
-codename = "maple"
 brand = "HP"
+codename = "maple"
 name = "8 G2"
-
-[[roms]]
-id = "blissroms"
 
 [[recoveries]]
 id = "twrp"
 maintainer = "cryptomilk & derfelot"
+
+[[roms]]
+id = "blissroms"
 
 [specs]
 cpu = "Hexa-core (2x Monsoon + 4x Mistral)"

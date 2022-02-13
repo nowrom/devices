@@ -1,13 +1,13 @@
-codename = "grus"
 brand = "Xiaomi"
+codename = "grus"
 name = "Mi 9 SE"
-
-[[roms]]
-id = "blissroms"
 
 [[recoveries]]
 id = "twrp"
 maintainer = "None"
+
+[[roms]]
+id = "blissroms"
 
 [specs]
 cpu = "Octa-core (2x2.3 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver)"

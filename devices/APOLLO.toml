@@ -1,6 +1,10 @@
-codename = "APOLLO"
 brand = "iSWAG"
+codename = "APOLLO"
 name = "APOLLO"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
 
 [[roms]]
 id = "ancientos"
@@ -13,6 +17,9 @@ changelog = "***Required Firmware and Recovery included with ROM***\r\n\r\nUse A
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -44,10 +51,3 @@ version_code = "twelve"
 xda_thread = ""
 stable = true
 deprecated = false
-
-[[roms]]
-id = "evolutionx"
-
-[[recoveries]]
-id = "orangefox"
-supported = false

@@ -1,6 +1,6 @@
 brand = "LG"
-name = "G2 (T-Mobile)"
 codename = "d801"
+name = "G2 (T-Mobile)"
 recoveries = []
 
 [[roms]]

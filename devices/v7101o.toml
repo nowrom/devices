@@ -1,6 +1,6 @@
 brand = "Teracube"
-name = "Teracube One"
 codename = "v7101o"
+name = "Teracube One"
 recoveries = []
 
 [[roms]]

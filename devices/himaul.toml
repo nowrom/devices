@@ -1,6 +1,6 @@
 brand = "HTC"
-name = "One M9 (GSM)"
 codename = "himaul"
+name = "One M9 (GSM)"
 recoveries = []
 
 [[roms]]

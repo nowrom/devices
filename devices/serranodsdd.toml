@@ -1,14 +1,14 @@
-codename = "serranodsdd"
 brand = "Samsung"
+codename = "serranodsdd"
 name = "Galaxy S4 Mini (International Dual SIM)"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-s4-mini/orig-development/recovery-twrp-3-2-1-0-t3736888"
+maintainer = "ripee"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait"
 ram = "1.5 GB"
 wifi = "802.11 a/b/g/n, Dual-band, DLNA, Wi-Fi Direct, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/galaxy-s4-mini/orig-development/recovery-twrp-3-2-1-0-t3736888"
-maintainer = "ripee"

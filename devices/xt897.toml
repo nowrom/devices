@@ -1,6 +1,6 @@
 brand = "Motorola"
-name = "Photon Q 4G LTE"
 codename = "xt897"
+name = "Photon Q 4G LTE"
 recoveries = []
 
 [[roms]]

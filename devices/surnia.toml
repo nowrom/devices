@@ -1,13 +1,13 @@
-codename = "surnia"
 brand = "Motorola"
+codename = "surnia"
 name = "Moto E 2015 LTE"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "althafvly"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "1 GB"
 wifi = "Wi-Fi 802.11 b/g/n"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "althafvly"

@@ -1,12 +1,15 @@
 brand = "Xiaomi"
-name = "Mi 10 lite 5G"
 codename = "monet"
+name = "Mi 10 lite 5G"
 recoveries = []
 
 [[roms]]
 id = "arrowos"
 maintainer = "Bauuuuu, palaych"
 changelog = "- Optimize dex flags\r\n- Enable Seamless Transfer\r\n- Address sepolicy denials\r\n- Update blobs to MIUI V12.5.1.0.RJIMIXM\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merged CAF tag LA.UM.9.12.r1-12200-SMxx50.QSSI12.0 for msm-4.19 and wlan\r\n- drivers: remove xiaomi early fingerprint wakeup optimization\r\n- usb: pd: Revert some CAF patches (fixed random panic usb)\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Request MIUI Android 11 firmware and vendor."
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -29,6 +32,3 @@ deprecated = false
 
 [[roms]]
 id = "revengeos"
-
-[[roms]]
-id = "evolutionx"

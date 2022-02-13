@@ -1,9 +1,14 @@
-codename = "beryllium"
 brand = "Xiaomi"
+codename = "beryllium"
 name = "POCO F1"
 
-[[roms]]
-id = "pixelextended"
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "althafvly"
 
 [[roms]]
 id = "AOSPK"
@@ -60,6 +65,9 @@ stable = false
 deprecated = false
 
 [[roms]]
+id = "pixelextended"
+
+[[roms]]
 id = "pixyos"
 
 [[roms]]
@@ -69,11 +77,3 @@ id = "revengeos"
 id = "sparkos"
 group = "https://t.me/resist15_beryllium"
 download = "https://downloads.spark-os.live/beryllium/Spark-S-Energized-OFFICIAL-beryllium-20220118.zip"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "althafvly"
-
-[[recoveries]]
-id = "orangefox"
-supported = true

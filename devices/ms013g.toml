@@ -1,6 +1,6 @@
 brand = "Samsung"
-name = "Galaxy Grand2"
 codename = "ms013g"
+name = "Galaxy Grand2"
 recoveries = []
 
 [[roms]]

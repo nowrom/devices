@@ -1,9 +1,14 @@
-codename = "tulip"
 brand = "ZTE"
+codename = "tulip"
 name = "B2017G"
 
-[[roms]]
-id = "pixelextended"
+[[recoveries]]
+id = "orangefox"
+supported = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "DD3Boh, mauronofrio"
 
 [[roms]]
 id = "AOSPK"
@@ -27,6 +32,9 @@ id = "dotos"
 id = "evolutionx"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/tulip/Havoc-OS-v4.13-20220131-tulip-Official-GApps.zip"
 maintainer = "Akhil MS"
@@ -39,6 +47,9 @@ ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
 
 [[roms]]
+id = "pixelextended"
+
+[[roms]]
 id = "pixyos"
 
 [[roms]]
@@ -47,18 +58,7 @@ group = "https://t.me/spark_tulip"
 download = "https://downloads.spark-os.live/tulip/Spark-12.0-Official-tulip-20220212.zip"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.9"
 developer = "Niteshkumar15"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "DD3Boh, mauronofrio"
-
-[[recoveries]]
-id = "orangefox"
-supported = false

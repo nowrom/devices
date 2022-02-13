@@ -1,16 +1,16 @@
-codename = "judyln"
 brand = "LGE"
+codename = "judyln"
 name = "LG G7 ThinQ"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
 
 [[recoveries]]
 id = "orangefox"
 supported = true
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
 
 [specs]
 cpu = "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"

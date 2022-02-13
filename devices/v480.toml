@@ -1,6 +1,6 @@
 brand = "LG"
-name = "G Pad 8.0 (Wi-Fi)"
 codename = "v480"
+name = "G Pad 8.0 (Wi-Fi)"
 recoveries = []
 
 [[roms]]

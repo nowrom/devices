@@ -1,6 +1,6 @@
 brand = "HTC"
-name = "One Max (Verizon)"
 codename = "t6vzw"
+name = "One Max (Verizon)"
 recoveries = []
 
 [[roms]]

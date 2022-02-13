@@ -1,11 +1,22 @@
-codename = "polaris"
 brand = "Xiaomi"
+codename = "polaris"
 name = "MIX 2S"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "notsyncing, simonsmh"
 
 [[roms]]
 id = "arrowos"
 maintainer = "palaych"
 changelog = "- Update blobs to MIUI polaris V12.5.1.0.QDGCNXM\r\n- Update display and adreno blobs to OnePlus6 R\r\n- Update WFD blobs to OnePlus6 R\r\n- Update OMX codecs and VPP to OnePlus6 R\r\n- Update Configstore blobs to OnePlus6 R\r\n- Update Power-off alarm blobs to OnePlus6 R\r\n- Update ESE, PerMgr and Time services blobs to OnePlus6 R\r\n- Update IRQ balance blobs to OnePlus6 R\r\n- Fixed Smart Charging permissions and sepolicy\r\n- Kernel: Merge android-4.9-q google kernel common (4.9.277)\r\n- Kernel: Merge CAF tag LA.UM.9.3.r1-02800-sdm845.0\r\n- Kernel: arch/arm64: dts: disable dfps in jdi fhd panel and ebbg ft8716 panel\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -37,17 +48,6 @@ version_code = "twelve"
 stable = true
 xda_thread = "https://forum.xda-developers.com/t/4038949/"
 deprecated = false
-
-[[roms]]
-id = "evolutionx"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "notsyncing, simonsmh"
-
-[[recoveries]]
-id = "orangefox"
-supported = true
 
 [specs]
 cpu = "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)"

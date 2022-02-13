@@ -1,6 +1,11 @@
-codename = "guacamole"
 brand = "OnePlus"
-name = "GM1917"
+codename = "guacamole"
+name = "OnePlus 7 Pro"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project.4289455/"
+maintainer = "Nebrassy"
 
 [[roms]]
 id = "arrowos"
@@ -17,6 +22,9 @@ recovery = "https://sourceforge.net/projects/crdroid/files/guacamole/8.x/recover
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -51,14 +59,6 @@ deprecated = true
 
 [[roms]]
 id = "revengeos"
-
-[[roms]]
-id = "evolutionx"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project.4289455/"
-maintainer = "Nebrassy"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"

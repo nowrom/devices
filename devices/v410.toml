@@ -1,6 +1,6 @@
 brand = "LG"
-name = "G Pad 7.0 (LTE)"
 codename = "v410"
+name = "G Pad 7.0 (LTE)"
 recoveries = []
 
 [[roms]]

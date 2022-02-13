@@ -1,6 +1,14 @@
-codename = "bardock"
 brand = "bq"
+codename = "bardock"
 name = "Aquaris X"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Kra1o5"
 
 [[roms]]
 id = "lineageos"
@@ -10,11 +18,3 @@ wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Wi-Fi Hotspot"
 
 [[roms]]
 id = "revengeos"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Kra1o5"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Kra1o5"

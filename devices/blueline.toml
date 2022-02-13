@@ -1,13 +1,17 @@
-codename = "blueline"
 brand = "Google"
+codename = "blueline"
 name = "Pixel 3"
 
-[[roms]]
-id = "calyxos"
+[[recoveries]]
+id = "twrp"
+maintainer = "bigbiff"
 
 [[roms]]
 id = "arrowos"
 maintainer = "ReallySnow"
+
+[[roms]]
+id = "calyxos"
 
 [[roms]]
 id = "grapheneos"
@@ -27,10 +31,6 @@ version_code = "twelve"
 xda_thread = ""
 stable = true
 deprecated = false
-
-[[recoveries]]
-id = "twrp"
-maintainer = "bigbiff"
 
 [specs]
 cpu = "Octa-core (4x2.5 GHz Kryo 385 Gold & 4x1.6 GHz Kryo 385 Silver)"

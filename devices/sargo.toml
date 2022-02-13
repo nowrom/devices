@@ -1,12 +1,16 @@
-codename = "sargo"
 brand = "Google"
+codename = "sargo"
 name = "Pixel 3a"
 
-[[roms]]
-id = "calyxos"
+[[recoveries]]
+id = "twrp"
+maintainer = "Captain_Throwback"
 
 [[roms]]
 id = "blissroms"
+
+[[roms]]
+id = "calyxos"
 
 [[roms]]
 id = "dotos"
@@ -38,7 +42,3 @@ deprecated = false
 version_code = "twelve"
 stable = true
 deprecated = false
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Captain_Throwback"

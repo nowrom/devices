@@ -1,10 +1,18 @@
-codename = "lake"
 brand = "Motorola"
+codename = "lake"
 name = "moto g(7) plus"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/g7-plus/development/recovery-twrp-3-3-0-moto-g7-plus-t3930050"
+maintainer = "Jleeblanch"
 
 [[roms]]
 id = "AOSPK"
 xda_thread = ""
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -46,11 +54,3 @@ deprecated = false
 
 [[roms]]
 id = "revengeos"
-
-[[roms]]
-id = "evolutionx"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/g7-plus/development/recovery-twrp-3-3-0-moto-g7-plus-t3930050"
-maintainer = "Jleeblanch"

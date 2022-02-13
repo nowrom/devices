@@ -1,13 +1,13 @@
-codename = "Z00A"
 brand = "Asus"
+codename = "Z00A"
 name = "ZenFone 2 (ZE551ML)"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "jrior001"
 
 [[roms]]
 id = "lineageos"
 cpu = "Intel Atom"
 ram = "2/4 GB"
 wifi = "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, hotspot"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "jrior001"

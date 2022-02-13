@@ -1,6 +1,11 @@
-codename = "perseus"
 brand = "Xiaomi"
+codename = "perseus"
 name = "MIX 3"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-mix-3/development/recovery-unofficial-twrp-recovery-t3901261"
+maintainer = "Mauronofrio"
 
 [[roms]]
 id = "arrowos"
@@ -9,8 +14,3 @@ changelog = "- sdm845-common: Update blobs to MIUI polaris V12.5.1.0.QDGCNXM\r\n
 
 [[roms]]
 id = "dotos"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/mi-mix-3/development/recovery-unofficial-twrp-recovery-t3901261"
-maintainer = "Mauronofrio"

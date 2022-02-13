@@ -1,6 +1,6 @@
 brand = "Samsung"
-name = "Galaxy Note3"
 codename = "hltetmo"
+name = "Galaxy Note3"
 recoveries = []
 
 [[roms]]

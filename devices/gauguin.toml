@@ -1,9 +1,14 @@
-codename = "gauguin"
 brand = "Xiaomi"
+codename = "gauguin"
 name = "Mi 10T Lite"
 
-[[roms]]
-id = "pixelextended"
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "prajwal-walia"
 
 [[roms]]
 id = "ancientos"
@@ -52,19 +57,14 @@ stable = true
 deprecated = false
 
 [[roms]]
+id = "pixelextended"
+
+[[roms]]
 id = "sakura"
 xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Nitish x Prajwal"
 active = true
-
-[[recoveries]]
-id = "twrp"
-maintainer = "prajwal-walia"
-
-[[recoveries]]
-id = "orangefox"
-supported = true
 
 [specs]
 cpu = "Octa-core (2x2.2 GHz Kryo 570 & 6x1.8 GHz Kryo 570)"

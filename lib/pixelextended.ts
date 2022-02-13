@@ -23,7 +23,7 @@ export const pixelextended: UpdateFunction = async () => {
 					await Deno.readTextFile(`./ota/pixelextended/builds/${x.name}`)
 				);
 				if (file.device == undefined) return;
-				const codename = file.device.split('.')?.[0]?.trim();
+				const codename = file.device.split('.')?.[0]?.trim().replace(' ', '');
 				return {
 					name: file.device_name,
 					codename: codename,

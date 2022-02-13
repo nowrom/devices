@@ -1,17 +1,17 @@
-codename = "toroplus"
 brand = "Samsung"
+codename = "toroplus"
 name = "Galaxy Nexus"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/galaxy-nexus/sprint-develop/recovery-twrp-2-7-1-0-touch-recovery-t1592691"
+maintainer = "Ziyan"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A9"
 ram = "1 GB"
 wifi = "802.11 a/b/g/n, Dual-band, DLNA, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "http://forum.xda-developers.com/galaxy-nexus/sprint-develop/recovery-twrp-2-7-1-0-touch-recovery-t1592691"
-maintainer = "Ziyan"
 
 [specs]
 cpu = "Dual-core 1.2 GHz Cortex-A9"

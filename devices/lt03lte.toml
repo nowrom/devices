@@ -1,6 +1,6 @@
 brand = "Samsung"
-name = "Galaxy Note 10.1 2014 Edition"
 codename = "lt03lte"
+name = "Galaxy Note 10.1 2014 Edition"
 recoveries = []
 
 [[roms]]

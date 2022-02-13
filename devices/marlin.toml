@@ -1,6 +1,10 @@
-codename = "marlin"
 brand = "Google"
+codename = "marlin"
 name = "Pixel XL"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "bigbiff, Dees_Troy"
 
 [[roms]]
 id = "arrowos"
@@ -30,7 +34,3 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-0-marlin-pixelexperience-aosp-official.4247199/"
 stable = true
 deprecated = true
-
-[[recoveries]]
-id = "twrp"
-maintainer = "bigbiff, Dees_Troy"

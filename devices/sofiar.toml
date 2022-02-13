@@ -1,6 +1,6 @@
 brand = "Motorola"
-name = "moto g(8) power"
 codename = "sofiar"
+name = "moto g(8) power"
 recoveries = []
 
 [[roms]]

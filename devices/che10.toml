@@ -1,6 +1,6 @@
 brand = "Huawei"
-name = "Honor 4x (China Telecom)"
 codename = "che10"
+name = "Honor 4x (China Telecom)"
 recoveries = []
 
 [[roms]]

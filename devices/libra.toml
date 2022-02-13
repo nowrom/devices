@@ -1,21 +1,21 @@
-codename = "libra"
 brand = "Xiaomi"
+codename = "libra"
 name = "Mi 4c"
 
-[[roms]]
-id = "lineageos"
-cpu = "Cortex-A53 & Cortex-A57"
-ram = "2/3 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
+[[recoveries]]
+id = "orangefox"
+supported = false
 
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/mi-4c/development/libra-twrp-3-0-t3315059"
 maintainer = "AndropaX"
 
-[[recoveries]]
-id = "orangefox"
-supported = false
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A53 & Cortex-A57"
+ram = "2/3 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
 
 [specs]
 cpu = "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57)"

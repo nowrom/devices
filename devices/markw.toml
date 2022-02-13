@@ -1,13 +1,13 @@
-codename = "markw"
 brand = "Xiaomi"
+codename = "markw"
 name = "Redmi 4 Pro"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
 
 [[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/markw/Havoc-OS-v4.9-20210929-markw-Official-GApps.zip"
 maintainer = "Shihab"
 group = "https://t.me/havocofficial"
-
-[[recoveries]]
-id = "orangefox"
-supported = false

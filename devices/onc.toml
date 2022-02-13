@@ -1,7 +1,7 @@
-codename = "onc"
-recoveries = []
 brand = "Xiaomi"
+codename = "onc"
 name = "Redmi 7"
+recoveries = []
 
 [[roms]]
 id = "potato"

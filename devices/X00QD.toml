@@ -1,6 +1,10 @@
-codename = "X00QD"
 brand = "Asus"
+codename = "X00QD"
 name = "Zenfone 5"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
 
 [[roms]]
 id = "dotos"
@@ -11,7 +15,3 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-1-offic
 maintainer_url = "null"
 maintainer_name = "henricaodopao1"
 active = false
-
-[[recoveries]]
-id = "orangefox"
-supported = true

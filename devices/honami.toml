@@ -1,13 +1,13 @@
+brand = "Sony"
 codename = "honami"
-brand = "sony"
 name = "Sony Xperia Z1"
-
-[[roms]]
-id = "cherishos"
 
 [[recoveries]]
 id = "twrp"
 maintainer = "sdtbarbarossa"
+
+[[roms]]
+id = "cherishos"
 
 [specs]
 cpu = "Quad-core 2.2 GHz Krait 400"

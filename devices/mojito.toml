@@ -1,6 +1,15 @@
+brand = "Redmi"
 codename = "mojito"
-brand = "Xiaomi"
-name = "Redmi Note 10 (mojito)"
+name = "Redmi Note 10"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-alpha-teamwin-recovery-project.4268563/"
+maintainer = "Nebrassy"
 
 [[roms]]
 id = "ancientos"
@@ -60,12 +69,3 @@ active = true
 id = "sparkos"
 group = "https://t.me/rn10potato"
 download = "https://downloads.spark-os.live/mojito/Spark-S-Energized-OFFICIAL-mojito-20220119.zip"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-alpha-teamwin-recovery-project.4268563/"
-maintainer = "Nebrassy"
-
-[[recoveries]]
-id = "orangefox"
-supported = true

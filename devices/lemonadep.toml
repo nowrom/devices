@@ -1,10 +1,18 @@
-codename = "lemonadep"
 brand = "OnePlus"
-name = "OnePlus 9 Pro (lemonadep)"
+codename = "lemonadep"
+name = "OnePlus 9 Pro"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project.4294289/"
+maintainer = "Nebrassy"
 
 [[roms]]
 id = "ancientos"
 photo = "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9-pro-1.jpg"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -27,14 +35,6 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-2-lemon
 maintainer_url = "https://forum.xda-developers.com/m/erad1.3262342/"
 maintainer_name = "Eduardo"
 active = true
-
-[[roms]]
-id = "evolutionx"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project.4294289/"
-maintainer = "Nebrassy"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680"

@@ -1,14 +1,14 @@
-codename = "tsubasa"
 brand = "Sony"
+codename = "tsubasa"
 name = "Xperia V"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/showthread.php?t=3319588"
+maintainer = "AdrianDC"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait"
 ram = "1 GB"
 wifi = "802.11 2.4GHz a/b/g/n 5GHz, Wi-Fi Direct, Wi-Fi Display, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "http://forum.xda-developers.com/showthread.php?t=3319588"
-maintainer = "AdrianDC"

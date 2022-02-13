@@ -1,9 +1,11 @@
-codename = "fajita"
 brand = "Oneplus"
+codename = "fajita"
 name = "oneplus 6T"
 
-[[roms]]
-id = "pixelextended"
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/oneplus-6t/development/recovery-unofficial-twrp-touch-recovery-t3861482"
+maintainer = "Mauronofrio"
 
 [[roms]]
 id = "blissroms"
@@ -13,6 +15,9 @@ id = "cherishos"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -46,7 +51,7 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-fajita-pixelexperience-a
 deprecated = true
 
 [[roms]]
-id = "evolutionx"
+id = "pixelextended"
 
 [[roms]]
 id = "syberia"
@@ -59,8 +64,3 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v5.1"
 developer = "SevralT"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/oneplus-6t/development/recovery-unofficial-twrp-touch-recovery-t3861482"
-maintainer = "Mauronofrio"

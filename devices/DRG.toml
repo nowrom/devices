@@ -1,6 +1,6 @@
 brand = "Nokia"
-name = "Nokia X6"
 codename = "DRG"
+name = "Nokia X6"
 recoveries = []
 
 [[roms]]

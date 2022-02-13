@@ -1,12 +1,12 @@
-codename = "hermes"
 brand = "Xiaomi"
+codename = "hermes"
 name = "HM Note 2"
 roms = []
 
 [[recoveries]]
-id = "twrp"
-maintainer = "juliusssssmiui"
-
-[[recoveries]]
 id = "orangefox"
 supported = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "juliusssssmiui"

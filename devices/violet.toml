@@ -1,9 +1,14 @@
-codename = "violet"
 brand = "Xiaomi"
+codename = "violet"
 name = "Redmi  Note  7 Pro"
 
-[[roms]]
-id = "pixelextended"
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Aftab Ashrafi (Aftab-111)"
 
 [[roms]]
 id = "ancientos"
@@ -22,6 +27,9 @@ id = "cherishos"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -70,6 +78,9 @@ deprecated = false
 
 [[roms]]
 id = "pixelextended"
+
+[[roms]]
+id = "pixelextended"
 url = "https://sourceforge.net/projects/pixelextended/files/violet/PixelExtended_violet-12.0-20220102-1014-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/pixelextended-rom-for-redmi-note-7-pro-violet.4382883/"
 
@@ -87,14 +98,3 @@ active = true
 id = "sparkos"
 group = "https://t.me/sparkosviolet"
 download = "https://downloads.spark-os.live/violet/Spark-12.0-Official-violet-20220212-gapps.zip"
-
-[[roms]]
-id = "evolutionx"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Aftab Ashrafi (Aftab-111)"
-
-[[recoveries]]
-id = "orangefox"
-supported = true

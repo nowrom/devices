@@ -1,10 +1,7 @@
 brand = "Redmi"
-name = "Redmi 8A Dual"
 codename = "olivewood"
+name = "Redmi 8A Dual"
 recoveries = []
-
-[[roms]]
-id = "pixelextended"
 
 [[roms]]
 id = "dotos"
@@ -17,3 +14,6 @@ repostories = ["device_xiaomi_olivewood","kernel_xiaomi_olivewood","vendor_xiaom
 version_code = "twelve"
 stable = false
 deprecated = false
+
+[[roms]]
+id = "pixelextended"

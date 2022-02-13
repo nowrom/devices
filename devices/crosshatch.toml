@@ -1,14 +1,18 @@
-codename = "crosshatch"
 brand = "Google"
+codename = "crosshatch"
 name = "Pixel 3 XL"
 
-[[roms]]
-id = "calyxos"
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy and bigbiff"
 
 [[roms]]
 id = "arrowos"
 maintainer = "ReallySnow"
 changelog = "Update fingerprint from SP1A.210812.016.C1\r\nUpdate blobs from SP1A.210812.016.C1"
+
+[[roms]]
+id = "calyxos"
 
 [[roms]]
 id = "grapheneos"
@@ -28,7 +32,3 @@ version_code = "twelve"
 xda_thread = ""
 stable = true
 deprecated = false
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Dees_Troy and bigbiff"

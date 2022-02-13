@@ -1,9 +1,14 @@
-codename = "Dumpling"
 brand = "OnePlus"
+codename = "Dumpling"
 name = "oneplus 5T"
 
-[[roms]]
-id = "pixelextended"
+[[recoveries]]
+id = "orangefox"
+supported = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy, mauronofrio"
 
 [[roms]]
 id = "AOSPK"
@@ -54,13 +59,8 @@ stable = true
 xda_thread = "https://forum.xda-developers.com/t/beta-12-0-pixel-experience-12-oneplus-5-5t-dumpling-cheeseburger.4351697/"
 deprecated = false
 
-[[recoveries]]
-id = "twrp"
-maintainer = "Dees_Troy, mauronofrio"
-
-[[recoveries]]
-id = "orangefox"
-supported = false
+[[roms]]
+id = "pixelextended"
 
 [specs]
 cpu = "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)"

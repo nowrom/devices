@@ -1,6 +1,15 @@
-codename = "a40"
 brand = "Samsung"
+codename = "a40"
 name = "Galaxy A40"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-a40/development/recovery-twrp-galaxy-a40-t4025587"
+maintainer = "ponces"
 
 [[roms]]
 id = "crdroid"
@@ -13,15 +22,6 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Haridhayal"
 active = false
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/galaxy-a40/development/recovery-twrp-galaxy-a40-t4025587"
-maintainer = "ponces"
-
-[[recoveries]]
-id = "orangefox"
-supported = false
 
 [specs]
 cpu = "Octa-core (2x1.77 GHz Cortex-A73 & 6x1.59 GHz Cortex-A53)"

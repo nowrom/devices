@@ -1,6 +1,6 @@
 brand = "Xiaomi"
-name = "Xiaomi Redmi Note 5A"
 codename = "ulysse"
+name = "Xiaomi Redmi Note 5A"
 recoveries = []
 
 [[roms]]

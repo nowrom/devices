@@ -1,13 +1,13 @@
-codename = "vs995"
 brand = "LG"
+codename = "vs995"
 name = "V20 (Verizon)"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "npjohnson"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "npjohnson"

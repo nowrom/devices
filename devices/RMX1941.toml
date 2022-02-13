@@ -1,6 +1,10 @@
-codename = "RMX1941"
 brand = "Oppo"
+codename = "RMX1941"
 name = "realme C2"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Siddk"
 
 [[roms]]
 id = "pixelextended"
@@ -11,7 +15,3 @@ xda_thread = "https://forum.xda-developers.com/t/rom-a11-projectsakura-5-2-offic
 maintainer_url = "https://forum.xda-developers.com/m/ano0.10677975/"
 maintainer_name = "Anoos Ragh"
 active = true
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Siddk"

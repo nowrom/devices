@@ -1,6 +1,14 @@
-codename = "j4primelte"
 brand = "Samsung"
+codename = "j4primelte"
 name = "Galaxy J4+"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "kycii91"
 
 [[roms]]
 id = "sakura"
@@ -8,11 +16,3 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Gabriel"
 active = false
-
-[[recoveries]]
-id = "twrp"
-maintainer = "kycii91"
-
-[[recoveries]]
-id = "orangefox"
-supported = false

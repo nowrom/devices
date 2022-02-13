@@ -1,6 +1,11 @@
-codename = "OnePlus3"
 brand = "OnePlus"
+codename = "OnePlus3"
 name = "OnePlus3"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/recovery-official-twrp-touch-recovery-t3742894"
+maintainer = "dianlujitao"
 
 [[roms]]
 id = "arrowos"
@@ -52,11 +57,6 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Deepak Jr"
 active = true
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/recovery-official-twrp-touch-recovery-t3742894"
-maintainer = "dianlujitao"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"

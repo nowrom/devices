@@ -1,17 +1,17 @@
-codename = "I001D"
 brand = "ASUS"
+codename = "I001D"
 name = "ROG Phone 2 (ZS660KL)"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/rog-phone-2/development/recovery-unofficial-twrp-recovery-asus-t4026801"
+maintainer = "mauronofrio, Captain_Throwback"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 485"
 ram = "8/12 GB"
 wifi = "802.11 a/b/g/n/ac"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/rog-phone-2/development/recovery-unofficial-twrp-recovery-asus-t4026801"
-maintainer = "mauronofrio, Captain_Throwback"
 
 [specs]
 cpu = "Not found"

@@ -1,9 +1,15 @@
-codename = "sweet"
 brand = "ZTE"
+codename = "sweet"
 name = "Z839V"
 
-[[roms]]
-id = "pixelextended"
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-unofficial-teamwin-recovery-project.4248449/"
+maintainer = "Nebrassy"
 
 [[roms]]
 id = "ancientos"
@@ -25,6 +31,9 @@ recovery = "https://androidfilehost.com/?w=files&flid=324059"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -59,6 +68,9 @@ deprecated = false
 
 [[roms]]
 id = "pixelextended"
+
+[[roms]]
+id = "pixelextended"
 url = "https://sourceforge.net/projects/pixelextended/files/sweet/PixelExtended_sweet-12.0-20220126-1244-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-1-android-12-sweet-27-01-22.4377003/"
 
@@ -72,18 +84,6 @@ id = "potato"
 id = "sparkos"
 group = "https://t.me/Spark_sweet"
 download = "https://downloads.spark-os.live/sweet/Spark-S-Energized-Official-sweet-20220126.zip"
-
-[[roms]]
-id = "evolutionx"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-unofficial-teamwin-recovery-project.4248449/"
-maintainer = "Nebrassy"
-
-[[recoveries]]
-id = "orangefox"
-supported = true
 
 [specs]
 cpu = "Not found"

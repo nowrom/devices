@@ -1,15 +1,15 @@
-codename = "d2q"
 brand = "Samsung"
+codename = "d2q"
 name = "Galaxy Note10+"
 roms = []
 
 [[recoveries]]
-id = "twrp"
-maintainer = "mentalmuso"
-
-[[recoveries]]
 id = "orangefox"
 supported = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mentalmuso"
 
 [specs]
 cpu = "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55) - EMEA/LATAMOcta-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485) - USA/China"

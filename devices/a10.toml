@@ -1,6 +1,15 @@
-codename = "a10"
 brand = "Samsung"
+codename = "a10"
 name = "Galaxy A10"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-twrp-3-5-1-for-galaxy-a10-exynos-series-sm-a105-9-march-2021.4212641/"
+maintainer = "Gabriel260"
 
 [[roms]]
 id = "ancientos"
@@ -23,12 +32,3 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-0-official-project-sakur
 maintainer_url = "https://forum.xda-developers.com/m/chatur27.10997227/"
 maintainer_name = "Chatur"
 active = false
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-twrp-3-5-1-for-galaxy-a10-exynos-series-sm-a105-9-march-2021.4212641/"
-maintainer = "Gabriel260"
-
-[[recoveries]]
-id = "orangefox"
-supported = true

@@ -1,7 +1,7 @@
-codename = "curtana"
-recoveries = []
-name = "Redmi Note 9S"
 brand = "Redmi"
+codename = "curtana"
+name = "Redmi Note 9S"
+recoveries = []
 
 [[roms]]
 id = "ancientos"

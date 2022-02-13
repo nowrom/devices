@@ -1,6 +1,11 @@
-codename = "greatlte"
 brand = "Samsung"
+codename = "greatlte"
 name = "Galaxy Note8"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-note-8/development/recovery-galaxy-note-8-t3832962"
+maintainer = "corsicanu"
 
 [[roms]]
 id = "havocos"
@@ -14,8 +19,3 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-r-offic
 maintainer_url = "https://forum.xda-developers.com/m/haridhayal.9053429/"
 maintainer_name = "Haridhayal"
 active = true
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/galaxy-note-8/development/recovery-galaxy-note-8-t3832962"
-maintainer = "corsicanu"

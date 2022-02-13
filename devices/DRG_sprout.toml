@@ -1,11 +1,11 @@
-codename = "DRG_sprout"
 brand = "Nokia"
+codename = "DRG_sprout"
 name = "Nokia 6.1 Plus"
-
-[[roms]]
-id = "potato"
 
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/official-twrp-drg_sprout-support-thread.4363643/"
 maintainer = "Sid Pranjale"
+
+[[roms]]
+id = "potato"

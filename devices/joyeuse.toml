@@ -1,6 +1,6 @@
 brand = "Redmi"
-name = "Redmi Note 9 Pro"
 codename = "joyeuse"
+name = "Redmi Note 9 Pro"
 recoveries = []
 
 [[roms]]

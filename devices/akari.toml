@@ -1,6 +1,6 @@
 brand = "Sony"
-name = "Xperia XZ2"
 codename = "akari"
+name = "Xperia XZ2"
 recoveries = []
 
 [[roms]]

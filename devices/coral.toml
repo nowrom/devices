@@ -1,6 +1,11 @@
-codename = "coral"
 brand = "Google"
+codename = "coral"
 name = "Pixel 4 XL"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/twrp-coral-official.4111017/"
+maintainer = "bigbiff"
 
 [[roms]]
 id = "calyxos"
@@ -22,11 +27,6 @@ repostories = ["device_google_coral","kernel_google_msm-4.14","vendor_google_cor
 version_code = "twelve"
 stable = true
 deprecated = false
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/twrp-coral-official.4111017/"
-maintainer = "bigbiff"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"

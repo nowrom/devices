@@ -1,12 +1,17 @@
-codename = "lavender"
 brand = "ZTE"
+codename = "lavender"
 name = "Z717VL"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "erfanoabdi"
 
 [[roms]]
 id = "ancientos"
-
-[[roms]]
-id = "pixelextended"
 
 [[roms]]
 id = "AOSPK"
@@ -25,6 +30,9 @@ id = "cherishos"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -65,6 +73,9 @@ deprecated = false
 
 [[roms]]
 id = "pixelextended"
+
+[[roms]]
+id = "pixelextended"
 url = "https://sourceforge.net/projects/pixelextended/files/lavender/PixelExtended_lavender-12.0-20220131-0906-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-12-lavender-26-01-22.4323719/"
 
@@ -90,21 +101,10 @@ group = "https://t.me/infernobuilds"
 download = "https://downloads.spark-os.live/lavender/Spark-S-Energized-OFFICIAL-lavender-20220131.zip"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.8"
 developer = "z3nitsu"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "erfanoabdi"
-
-[[recoveries]]
-id = "orangefox"
-supported = true
 
 [specs]
 cpu = "Not found"

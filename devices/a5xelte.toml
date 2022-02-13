@@ -1,16 +1,16 @@
-codename = "a5xelte"
 brand = "Samsung"
+codename = "a5xelte"
 name = "Galaxy A5(2016)"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Stricted"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "2 GB"
 wifi = "802.11 b/g/n"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Stricted"
 
 [specs]
 cpu = "Octa-core (4x2.35 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)"

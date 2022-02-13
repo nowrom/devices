@@ -1,6 +1,6 @@
 brand = "Samsung"
-name = "Galaxy Note 3 LTE (N900K/L/S)"
 codename = "hltekor"
+name = "Galaxy Note 3 LTE (N900K/L/S)"
 recoveries = []
 
 [[roms]]

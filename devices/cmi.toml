@@ -1,6 +1,6 @@
 brand = "Xiaomi"
-name = "Mi 10 Pro"
 codename = "cmi"
+name = "Mi 10 Pro"
 recoveries = []
 
 [[roms]]

@@ -1,6 +1,6 @@
 brand = "Samsung"
-name = "Galaxy S4"
 codename = "jflteatt"
+name = "Galaxy S4"
 recoveries = []
 
 [[roms]]

@@ -1,13 +1,13 @@
-codename = "racer"
 brand = "Motorola"
+codename = "racer"
 name = "motorola edge"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "SyberHexen, erfanoabdi, jleeblanch"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 475"
 ram = "6 GB LPDDR4X"
 wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "SyberHexen, erfanoabdi, jleeblanch"

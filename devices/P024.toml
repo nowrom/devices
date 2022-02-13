@@ -1,6 +1,6 @@
 brand = "ASUS"
-name = "ZenPad 8.0 (Z380KL)"
 codename = "P024"
+name = "ZenPad 8.0 (Z380KL)"
 recoveries = []
 
 [[roms]]

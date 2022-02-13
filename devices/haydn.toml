@@ -1,6 +1,11 @@
-codename = "haydn"
 brand = "Xiaomi"
+codename = "haydn"
 name = "Mi 11i"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-official-teamwin-recovery-project.4374115/"
+maintainer = "Nebrassy"
 
 [[roms]]
 id = "pixelexperience"
@@ -11,11 +16,6 @@ version_code = "twelve"
 xda_thread = ""
 stable = true
 deprecated = false
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-11-official-teamwin-recovery-project.4374115/"
-maintainer = "Nebrassy"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"

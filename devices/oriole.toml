@@ -1,7 +1,7 @@
-codename = "oriole"
-recoveries = []
 brand = "Google"
+codename = "oriole"
 name = "Pixel 6"
+recoveries = []
 
 [[roms]]
 id = "calyxos"

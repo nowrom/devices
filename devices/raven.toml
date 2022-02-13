@@ -1,7 +1,7 @@
-codename = "raven"
-recoveries = []
 brand = "Google"
+codename = "raven"
 name = "Pixel 6 Pro"
+recoveries = []
 
 [[roms]]
 id = "calyxos"

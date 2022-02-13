@@ -1,6 +1,10 @@
-codename = "evert"
 brand = "Motorola"
+codename = "evert"
 name = "moto g(6) plus"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "kaneawk, erfanoabdi"
 
 [[roms]]
 id = "lineageos"
@@ -23,7 +27,3 @@ version_code = "eleven_plus"
 stable = true
 xda_thread = "https://forum.xda-developers.com/t/rom-11-evert-pixelexperience-normal-plus-aosp.4247629/"
 deprecated = true
-
-[[recoveries]]
-id = "twrp"
-maintainer = "kaneawk, erfanoabdi"

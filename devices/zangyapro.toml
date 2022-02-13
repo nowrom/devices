@@ -1,6 +1,6 @@
 brand = "BQ"
-name = "Aquaris X2 Pro"
 codename = "zangyapro"
+name = "Aquaris X2 Pro"
 recoveries = []
 
 [[roms]]

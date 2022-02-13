@@ -1,16 +1,16 @@
-codename = "klteduos"
 brand = "Samsung"
+codename = "klteduos"
 name = "Galaxy S5 LTE Duos (G900FD/MD)"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait 400"
 ram = "2 GB"
 wifi = "802.11 a/b/g/n/ac"
-
-[[recoveries]]
-id = "orangefox"
-supported = false
 
 [specs]
 cpu = "Not found"

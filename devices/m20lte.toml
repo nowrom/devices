@@ -1,6 +1,14 @@
-codename = "m20lte"
 brand = "Samsung"
+codename = "m20lte"
 name = "Galaxy M20"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "SamarV-121"
 
 [[roms]]
 id = "lineageos"
@@ -14,11 +22,3 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-r-offic
 maintainer_url = "https://forum.xda-developers.com/m/haridhayal.9053429"
 maintainer_name = "Haridhayal"
 active = false
-
-[[recoveries]]
-id = "twrp"
-maintainer = "SamarV-121"
-
-[[recoveries]]
-id = "orangefox"
-supported = true

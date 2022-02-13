@@ -1,6 +1,14 @@
-codename = "kenzo"
 brand = "Xiaomi"
+codename = "kenzo"
 name = "Redmi Note 3"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Parth Bhatia (TheStrix)"
 
 [[roms]]
 id = "blissroms"
@@ -22,14 +30,6 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.8"
 developer = "Sagar Rokade"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Parth Bhatia (TheStrix)"
-
-[[recoveries]]
-id = "orangefox"
-supported = false
 
 [specs]
 cpu = "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A72)"

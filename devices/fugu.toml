@@ -1,14 +1,14 @@
-codename = "fugu"
 brand = "Asus"
+codename = "fugu"
 name = "Nexus Player"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/nexus-player/orig-development/recovery-twrp-2-8-6-0-touch-recovery-t3114717"
+maintainer = "Dees_Troy"
 
 [[roms]]
 id = "lineageos"
 cpu = "Intel Atom"
 ram = "1 GB"
 wifi = "802.11ac 2x2 Broadcom 2.4 GHz and 5 GHz"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "http://forum.xda-developers.com/nexus-player/orig-development/recovery-twrp-2-8-6-0-touch-recovery-t3114717"
-maintainer = "Dees_Troy"

@@ -1,9 +1,11 @@
-codename = "alioth"
 brand = "Redmi"
+codename = "alioth"
 name = "Redmi K40"
 
-[[roms]]
-id = "pixelextended"
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-alpha-teamwin-recovery-project.4272625/"
+maintainer = "Nebrassy"
 
 [[roms]]
 id = "ancientos"
@@ -22,6 +24,9 @@ changelog = "- props: Disable the pre-rendering feature \r\n- Misc fixes and ups
 id = "crdroid"
 gapps = ""
 recovery = "https://dl.akr-developers.com/?file=skkk/TWRP/A12/v3.0.4_A12/3.6.0_11-RedmiK40_v3.0.4_A12-alioth-skkk_f7ef1b18.img"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -62,6 +67,9 @@ deprecated = false
 
 [[roms]]
 id = "pixelextended"
+
+[[roms]]
+id = "pixelextended"
 url = "https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.0-20220127-1016-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/closed-rom-official-pixel-extended-rom-v4-0-android-12-alioth-aliothin-01-11-21.4355409/"
 
@@ -74,9 +82,6 @@ group = "t.me/spsalioth"
 download = "https://downloads.spark-os.live/alioth/Spark-S-Energized-Official-alioth-20220125.zip"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v4.9"
@@ -87,8 +92,3 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v5.1"
 developer = "DennySPb"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-alpha-teamwin-recovery-project.4272625/"
-maintainer = "Nebrassy"

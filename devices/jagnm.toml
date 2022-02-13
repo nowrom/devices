@@ -1,6 +1,6 @@
 brand = "LGE"
-name = "G3 Vigor"
 codename = "jagnm"
+name = "G3 Vigor"
 recoveries = []
 
 [[roms]]

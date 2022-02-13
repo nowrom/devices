@@ -1,22 +1,22 @@
-codename = "ODIN"
 brand = "iSWAG"
+codename = "ODIN"
 name = "ODIN"
 
-[[roms]]
-id = "lineageos"
-cpu = "Krait"
-ram = "2 GB LPDDR2"
-wifi = "802.11 a/b/g/n, 2.4GHz/5GHz, Wi-Fi Direct, DLNA, Hotspot"
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-official-teamwin-recovery-project.4374117/"
+maintainer = "Nebrassy"
 
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/xperia-zl/orig-development/ub-twrp-v3-2-1-xperia-zl-t3720156"
 maintainer = "CyberWalkMaN"
 
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-11-official-teamwin-recovery-project.4374117/"
-maintainer = "Nebrassy"
+[[roms]]
+id = "lineageos"
+cpu = "Krait"
+ram = "2 GB LPDDR2"
+wifi = "802.11 a/b/g/n, 2.4GHz/5GHz, Wi-Fi Direct, DLNA, Hotspot"
 
 [specs]
 cpu = "Quad-core 1.5 GHz Krait"

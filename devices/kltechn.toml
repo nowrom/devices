@@ -1,6 +1,6 @@
 brand = "Samsung"
-name = "Galaxy S5 LTE (G9006V/8V)"
 codename = "kltechn"
+name = "Galaxy S5 LTE (G9006V/8V)"
 recoveries = []
 
 [[roms]]

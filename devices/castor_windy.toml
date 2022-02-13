@@ -1,6 +1,6 @@
 brand = "Sony"
-name = "Xperia Tablet Z2 Wi-Fi"
 codename = "castor_windy"
+name = "Xperia Tablet Z2 Wi-Fi"
 recoveries = []
 
 [[roms]]

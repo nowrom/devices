@@ -1,6 +1,11 @@
-codename = "d2x"
 brand = "Samsung"
+codename = "d2x"
 name = "Galaxy Note10+ 5G"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-3-4-0-x-twrp-for-galaxy-note-10-5g-exynos.4198413/"
+maintainer = "corsicanu"
 
 [[roms]]
 id = "ancientos"
@@ -26,8 +31,3 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-note-10-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4391777/"
 stable = true
 deprecated = false
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-3-4-0-x-twrp-for-galaxy-note-10-5g-exynos.4198413/"
-maintainer = "corsicanu"

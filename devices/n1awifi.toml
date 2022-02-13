@@ -1,6 +1,6 @@
 brand = "Samsung"
-name = "Galaxy Note 10.1 Wi-Fi (2014)"
 codename = "n1awifi"
+name = "Galaxy Note 10.1 Wi-Fi (2014)"
 recoveries = []
 
 [[roms]]

@@ -1,6 +1,11 @@
-codename = "natrium"
 brand = "Xiaomi"
+codename = "natrium"
 name = "MI 5s Plus"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/showthread.php?t=3574737"
+maintainer = "LuK1337, luca020400"
 
 [[roms]]
 id = "lineageos"
@@ -21,11 +26,6 @@ deprecated = true
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4207141"
 deprecated = true
-
-[[recoveries]]
-id = "twrp"
-xdathread = "http://forum.xda-developers.com/showthread.php?t=3574737"
-maintainer = "LuK1337, luca020400"
 
 [specs]
 cpu = "Quad-core (2x2.35 GHz Kryo & 2x2.2 GHz Kryo)"

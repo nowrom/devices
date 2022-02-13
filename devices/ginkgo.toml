@@ -1,9 +1,15 @@
-codename = "ginkgo"
 brand = "Xiaomi"
+codename = "ginkgo"
 name = "Redmi Note 8"
 
-[[roms]]
-id = "pixelextended"
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/redmi-note-8/development/recovery-unofficial-twrp-xiaomi-redmi-t3997267"
+maintainer = "erwinabs"
 
 [[roms]]
 id = "ancientos"
@@ -26,6 +32,9 @@ id = "cherishos"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -73,6 +82,9 @@ stable = true
 deprecated = false
 
 [[roms]]
+id = "pixelextended"
+
+[[roms]]
 id = "pixyos"
 
 [[roms]]
@@ -94,22 +106,10 @@ group = "https://t.me/SparkRN8"
 download = "https://downloads.spark-os.live/ginkgo/Spark-S-Energized-OFFICIAL-ginkgo-20220119.zip"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.8"
 developer = "TheHitMan"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/redmi-note-8/development/recovery-unofficial-twrp-xiaomi-redmi-t3997267"
-maintainer = "erwinabs"
-
-[[recoveries]]
-id = "orangefox"
-supported = true
 
 [specs]
 cpu = "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)"

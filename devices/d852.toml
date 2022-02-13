@@ -1,13 +1,13 @@
-codename = "d852"
 brand = "LG"
+codename = "d852"
 name = "G3 (Canada)"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait 400"
 ram = "2/3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "None"

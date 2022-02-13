@@ -1,14 +1,14 @@
-codename = "addison"
 brand = "Motorola"
+codename = "addison"
 name = "Moto Z Play Droid"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/moto-z-play/development/recovery-unofficial-twrp-moto-z-play-t3495629"
+maintainer = "Alberto97"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n, Wi-Fi Direct, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/moto-z-play/development/recovery-unofficial-twrp-moto-z-play-t3495629"
-maintainer = "Alberto97"

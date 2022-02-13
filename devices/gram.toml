@@ -1,7 +1,7 @@
-recoveries = []
-name = "POCO M2 Pro"
-codename = "gram"
 brand = "POCO"
+codename = "gram"
+name = "POCO M2 Pro"
+recoveries = []
 
 [[roms]]
 id = "ancientos"

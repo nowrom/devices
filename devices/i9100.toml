@@ -1,17 +1,17 @@
-codename = "i9100"
 brand = "Samsung"
+codename = "i9100"
 name = "Galaxy S II"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-s2/orig-development/recovery-twrp-3-2-1-0-t3740526"
+maintainer = "ripee"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A9"
 ram = "1 GB"
 wifi = "802.11 a/b/g/n"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/galaxy-s2/orig-development/recovery-twrp-3-2-1-0-t3740526"
-maintainer = "ripee"
 
 [specs]
 cpu = "Quad-core 1.4 GHz Cortex-A9"

@@ -1,7 +1,7 @@
-recoveries = []
 brand = "Asus"
-name = "Asus ZenFone Max Shot (ZB634KL)"
 codename = "A001D"
+name = "Asus ZenFone Max Shot (ZB634KL)"
+recoveries = []
 
 [[roms]]
 id = "pixelextended"

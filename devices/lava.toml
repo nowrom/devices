@@ -1,10 +1,7 @@
 brand = "Xiaomi"
-name = "Redmi 9 & Poco M2 (Lava)"
 codename = "lava"
+name = "Redmi 9 & Poco M2 (Lava)"
 recoveries = []
-
-[[roms]]
-id = "pixelextended"
 
 [[roms]]
 id = "ancientos"
@@ -21,6 +18,9 @@ repostories = ["device_xiaomi_lava","device_xiaomi_mt6768-common","kernel_xiaomi
 version_code = "twelve"
 stable = false
 deprecated = false
+
+[[roms]]
+id = "pixelextended"
 
 [specs]
 cpu = "Not found"

@@ -1,6 +1,6 @@
 brand = "ASUS"
-name = "ROG Phone 3"
 codename = "obiwan"
+name = "ROG Phone 3"
 recoveries = []
 
 [[roms]]

@@ -1,16 +1,16 @@
-codename = "merlin"
 brand = "Redmi"
+codename = "merlin"
 name = "Redmi Note 9"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "althafvly"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "2 GB"
 wifi = "802.11 b/g/n, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "althafvly"
 
 [specs]
 cpu = "Octa-core (2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver)"

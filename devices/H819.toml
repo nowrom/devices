@@ -1,0 +1,13 @@
+codename = "H819"
+brand = "LG"
+name = "LG G4"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/g4/development/recovery-twrp-3-touch-recovery-t3442424"
+maintainer = "steadfasterX"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "steadfasterX"

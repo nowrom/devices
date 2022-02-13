@@ -1,14 +1,14 @@
-codename = "gts210ltexx"
 brand = "Samsung"
+codename = "gts210ltexx"
 name = "Galaxy Tab S2 9.7 (LTE)"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/tab-s2/orig-development/recovery-twrp-3-2-1-0-t3719988"
+maintainer = "ripee"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A57"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/tab-s2/orig-development/recovery-twrp-3-2-1-0-t3719988"
-maintainer = "ripee"

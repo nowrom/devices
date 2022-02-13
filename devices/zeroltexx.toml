@@ -1,6 +1,6 @@
 brand = "Samsung"
-name = "Galaxy S6 Edge"
 codename = "zeroltexx"
+name = "Galaxy S6 Edge"
 recoveries = []
 
 [[roms]]

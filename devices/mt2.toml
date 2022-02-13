@@ -1,6 +1,6 @@
 brand = "Huawei"
-name = "Ascend Mate 2 4G"
 codename = "mt2"
+name = "Ascend Mate 2 4G"
 recoveries = []
 
 [[roms]]

@@ -1,9 +1,10 @@
-codename = "taimen"
 brand = "Google"
+codename = "taimen"
 name = "Pixel 2 XL"
 
-[[roms]]
-id = "calyxos"
+[[recoveries]]
+id = "twrp"
+maintainer = "Dees_Troy, Bigbiff"
 
 [[roms]]
 id = "arrowos"
@@ -11,6 +12,9 @@ maintainer = "ReallySnow"
 
 [[roms]]
 id = "blissroms"
+
+[[roms]]
+id = "calyxos"
 
 [[roms]]
 id = "dotos"
@@ -51,10 +55,6 @@ deprecated = false
 
 [[roms]]
 id = "revengeos"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Dees_Troy, Bigbiff"
 
 [specs]
 cpu = "Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo)"

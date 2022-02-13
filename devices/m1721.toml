@@ -1,12 +1,12 @@
-codename = "m1721"
 brand = "Meizu"
+codename = "m1721"
 name = "Meizu M6 Note"
 roms = []
 
 [[recoveries]]
-id = "twrp"
-maintainer = "aiden09"
-
-[[recoveries]]
 id = "orangefox"
 supported = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "aiden09"

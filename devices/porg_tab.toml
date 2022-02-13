@@ -1,6 +1,6 @@
 brand = "Nvidia"
-name = "Jetson (Nano / Nano 2GB) [Tablet]"
 codename = "porg_tab"
+name = "Jetson (Nano / Nano 2GB) [Tablet]"
 recoveries = []
 
 [[roms]]

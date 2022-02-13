@@ -1,9 +1,14 @@
-codename = "mido"
 brand = "Xiaomi"
+codename = "mido"
 name = "Redmi Note 4"
 
-[[roms]]
-id = "pixelextended"
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Mauronofrio"
 
 [[roms]]
 id = "ancientos"
@@ -52,6 +57,9 @@ deprecated = false
 
 [[roms]]
 id = "pixelextended"
+
+[[roms]]
+id = "pixelextended"
 url = "https://sourceforge.net/projects/pixelextended/files/mido/PixelExtended_mido-12.0-20220127-1106-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-mido-15-01-22.4388883/"
 
@@ -68,14 +76,6 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.9"
 developer = "hnaamdev41"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Mauronofrio"
-
-[[recoveries]]
-id = "orangefox"
-supported = true
 
 [specs]
 cpu = "Octa-core 2.0 GHz Cortex-A53"

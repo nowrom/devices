@@ -1,13 +1,13 @@
-codename = "h872"
 brand = "LG"
+codename = "h872"
 name = "G6 (H872)"
-
-[[roms]]
-id = "blissroms"
 
 [[recoveries]]
 id = "orangefox"
 supported = false
+
+[[roms]]
+id = "blissroms"
 
 [specs]
 cpu = "Not found"

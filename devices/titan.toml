@@ -1,13 +1,13 @@
-codename = "titan"
 brand = "Vertu"
+codename = "titan"
 name = "Signature Touch"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "luca020400"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A7"
 ram = "1 GB"
 wifi = "Wi-Fi 802.11 b/g/n, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "luca020400"

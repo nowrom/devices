@@ -1,9 +1,20 @@
-codename = "phoenix"
 brand = "Redmi"
+codename = "phoenix"
 name = "Redmi K30"
 
-[[roms]]
-id = "pixelextended"
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-5-1_10-0-twrp-for-poco-x2-k30.4223889/"
+maintainer = "Himanshu Raj (hraj9258)"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/zenfone-4-selfie/development/recovery-twrp-3-4-0-0-zenfone-4-selfie-t4129731"
+maintainer = "2003Frost and Seplx"
 
 [[roms]]
 id = "ancientos"
@@ -27,6 +38,9 @@ recovery = "https://orangefox.download/device/phoenix"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -66,6 +80,9 @@ deprecated = false
 
 [[roms]]
 id = "pixelextended"
+
+[[roms]]
+id = "pixelextended"
 url = "https://sourceforge.net/projects/pixelextended/files/phoenix/PixelExtended_phoenix-12.0-20220205-1902-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-phoenix-26-12-21.4379877/"
 
@@ -86,23 +103,6 @@ active = false
 id = "sparkos"
 group = "https://t.me/redcliffbuilds"
 download = "https://downloads.spark-os.live/phoenix/Spark-S-Energized-OFFICIAL-phoenix-20220118.zip"
-
-[[roms]]
-id = "evolutionx"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/zenfone-4-selfie/development/recovery-twrp-3-4-0-0-zenfone-4-selfie-t4129731"
-maintainer = "2003Frost and Seplx"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-5-1_10-0-twrp-for-poco-x2-k30.4223889/"
-maintainer = "Himanshu Raj (hraj9258)"
-
-[[recoveries]]
-id = "orangefox"
-supported = true
 
 [specs]
 cpu = "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)"

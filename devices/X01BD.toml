@@ -1,6 +1,15 @@
-codename = "X01BD"
 brand = "asus"
+codename = "X01BD"
 name = "Asus Zenfone Max Pro M2"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/max-pro-m2/development/recovery-twrp-asus-zenfone-max-pro-m2-t3917145"
+maintainer = "kubersharma001, bauuuuu"
 
 [[roms]]
 id = "arrowos"
@@ -48,12 +57,3 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/4368929/"
 stable = true
 deprecated = false
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/max-pro-m2/development/recovery-twrp-asus-zenfone-max-pro-m2-t3917145"
-maintainer = "kubersharma001, bauuuuu"
-
-[[recoveries]]
-id = "orangefox"
-supported = true

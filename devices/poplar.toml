@@ -1,13 +1,13 @@
-codename = "poplar"
 brand = "Sony"
+codename = "poplar"
 name = "Sony Xperia XZ1"
-
-[[roms]]
-id = "blissroms"
 
 [[recoveries]]
 id = "twrp"
 maintainer = "cryptomilk & derfelot"
+
+[[roms]]
+id = "blissroms"
 
 [specs]
 cpu = "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)"

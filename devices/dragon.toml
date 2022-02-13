@@ -1,13 +1,13 @@
-codename = "dragon"
 brand = "Google"
+codename = "dragon"
 name = "Pixel C"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "followmsi"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A57"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "followmsi"

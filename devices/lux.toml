@@ -1,13 +1,13 @@
-codename = "lux"
 brand = "Motorola"
+codename = "lux"
 name = "Moto X Play"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "althafvly"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "2 GB"
 wifi = "802.11 a/g/b/n, Dual-band"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "althafvly"

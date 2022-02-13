@@ -1,6 +1,6 @@
 brand = "Sony"
-name = "Xperia Z3"
 codename = "z3"
+name = "Xperia Z3"
 recoveries = []
 
 [[roms]]

@@ -1,6 +1,10 @@
-codename = "ali"
 brand = "Motorola"
+codename = "ali"
 name = "moto g(6)"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "dejello"
 
 [[roms]]
 id = "AOSPK"
@@ -21,7 +25,3 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-moto-g6-pixelexperience-aosp.4223579"
 stable = true
 deprecated = true
-
-[[recoveries]]
-id = "twrp"
-maintainer = "dejello"

@@ -1,6 +1,10 @@
-codename = "parker"
 brand = "Motorola"
+codename = "parker"
 name = "motorola one zoom"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "kaneawk"
 
 [[roms]]
 id = "pixelexperience"
@@ -17,7 +21,3 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-parker-pixelexperience-plus-aosp.4302667/"
 stable = true
 deprecated = true
-
-[[recoveries]]
-id = "twrp"
-maintainer = "kaneawk"

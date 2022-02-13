@@ -1,13 +1,13 @@
-codename = "s5neolte"
 brand = "Samsung"
+codename = "s5neolte"
 name = "Galaxy S5 Neo"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Stricted"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "2 GB"
 wifi = "802.11 a/b/g/n/ac"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Stricted"

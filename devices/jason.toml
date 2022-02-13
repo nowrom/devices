@@ -1,6 +1,15 @@
-codename = "jason"
 brand = "Xiaomi"
+codename = "jason"
 name = "MI Note 3"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-note-3/development/recovery-unofficial-twrp-3-0-3-0-touch-t3716806"
+maintainer = "dianlujitao"
 
 [[roms]]
 id = "cherishos"
@@ -13,12 +22,3 @@ id = "lineageos"
 cpu = "Kryo 260"
 ram = "4/6 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/mi-note-3/development/recovery-unofficial-twrp-3-0-3-0-touch-t3716806"
-maintainer = "dianlujitao"
-
-[[recoveries]]
-id = "orangefox"
-supported = true

@@ -1,6 +1,15 @@
-codename = "RMX1921"
 brand = "Realme"
+codename = "RMX1921"
 name = "realme XT"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/realme-xt/development/recovery-unofficial-twrp-realme-xt-beta-t4044571"
+maintainer = "pjgowtham"
 
 [[roms]]
 id = "ancientos"
@@ -35,15 +44,6 @@ photo = "https://avatars.githubusercontent.com/u/55486333"
 id = "sparkos"
 group = "https://t.me/SparkOSRMX1921"
 download = "https://downloads.spark-os.live/RMX1921/Spark-S-Energized-Official-RMX1921-20220204.zip"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/realme-xt/development/recovery-unofficial-twrp-realme-xt-beta-t4044571"
-maintainer = "pjgowtham"
-
-[[recoveries]]
-id = "orangefox"
-supported = false
 
 [specs]
 cpu = "Octa-core (2x2.3 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver)"

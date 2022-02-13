@@ -1,6 +1,6 @@
 brand = "LGE"
-name = "L70"
 codename = "w5"
+name = "L70"
 recoveries = []
 
 [[roms]]

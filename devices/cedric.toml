@@ -1,6 +1,10 @@
-codename = "cedric"
 brand = "Motorola"
+codename = "cedric"
 name = "Moto G (5th Gen)"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Theitfixer85, Jarl-Penguin"
 
 [[roms]]
 id = "lineageos"
@@ -14,7 +18,3 @@ xda_thread = "https://forum.xda-developers.com/t/rom-a11-official-project-sakura
 maintainer_url = "https://forum.xda-developers.com/m/nift4.9942894/"
 maintainer_name = "nift4"
 active = false
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Theitfixer85, Jarl-Penguin"

@@ -1,6 +1,6 @@
 brand = "Sony"
-name = "Xperia Z4 Tablet WiFi"
 codename = "karin_windy"
+name = "Xperia Z4 Tablet WiFi"
 recoveries = []
 
 [[roms]]

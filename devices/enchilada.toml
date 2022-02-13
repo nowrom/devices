@@ -1,9 +1,11 @@
-codename = "enchilada"
 brand = "Oneplus"
+codename = "enchilada"
 name = "oneplus 6"
 
-[[roms]]
-id = "pixelextended"
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project.4306803/"
+maintainer = "Nebrassy"
 
 [[roms]]
 id = "arrowos"
@@ -17,6 +19,9 @@ id = "cherishos"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -50,14 +55,14 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-enchilada-pixelexperienc
 deprecated = true
 
 [[roms]]
+id = "pixelextended"
+
+[[roms]]
 id = "sakura"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-2-official-android-11.4232969/"
 maintainer_url = "https://forum.xda-developers.com/m/erad1.3262342/"
 maintainer_name = "Eduardo"
 active = true
-
-[[roms]]
-id = "evolutionx"
 
 [[roms]]
 id = "syberia"
@@ -82,11 +87,6 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v5.2"
 developer = "DennySPb"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project.4306803/"
-maintainer = "Nebrassy"
 
 [specs]
 cpu = "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"

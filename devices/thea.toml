@@ -1,13 +1,13 @@
-codename = "thea"
 brand = "Motorola"
+codename = "thea"
 name = "Moto G with 4G LTE (2nd Gen)"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "luca020400"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A7"
 ram = "1 GB"
 wifi = "Wi-Fi 802.11 b/g/n, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "luca020400"

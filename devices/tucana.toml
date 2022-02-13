@@ -1,6 +1,15 @@
-codename = "tucana"
 brand = "Xiaomi"
+codename = "tucana"
 name = "Mi Note 10"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-note-10/development/recovery-unofficial-twrp-xiaomi-mi-note-t4015805"
+maintainer = "Mauronofrio"
 
 [[roms]]
 id = "arrowos"
@@ -34,15 +43,6 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Sanya Pilot"
 active = true
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/mi-note-10/development/recovery-unofficial-twrp-xiaomi-mi-note-t4015805"
-maintainer = "Mauronofrio"
-
-[[recoveries]]
-id = "orangefox"
-supported = true
 
 [specs]
 cpu = "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)"

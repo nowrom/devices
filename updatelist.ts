@@ -80,35 +80,35 @@ await Promise.all(
 			} catch (e) {}
 		})
 );
-await run(ancientOs);
-await run(aospExtended);
-await run(AOSPK);
-await run(arrowOs);
-await run(blissroms);
-await run(cherishos);
-await run(crdroid);
-await run(dotos);
-await run(evolutionx);
-await run(grapheneos);
-await run(havocos);
-await run(legion);
-await run(lineages);
-// await run(paranoid); TODO: api currently broken (-:
-await run(pixelexperience);
-await run(pixelextended);
-await run(pixyos);
-await run(potato);
-await run(pixelUI);
-await run(revenge);
-await run(sakura);
-await run(spark);
-await run(evolutionx);
-await run(syberia);
-await run(xiaomieu);
-
-await run(twrp);
-await run(orangefox);
-
+await Promise.all([
+	run(ancientOs),
+	run(aospExtended),
+	run(AOSPK),
+	run(arrowOs),
+	run(blissroms),
+	run(cherishos),
+	run(crdroid),
+	run(dotos),
+	run(evolutionx),
+	run(grapheneos),
+	run(havocos),
+	run(legion),
+	run(lineages),
+	// run(paranoid), //; TODO: api currently broken (-:
+	run(pixelexperience),
+	run(pixelextended),
+	run(pixyos),
+	run(potato),
+	run(pixelUI),
+	run(revenge),
+	run(sakura),
+	run(spark),
+	run(evolutionx),
+	run(syberia),
+	run(xiaomieu),
+	run(twrp),
+	run(orangefox),
+]);
 const overwrites = JSON.parse(await Deno.readTextFile('./overwrites.json'));
 for (const [k, v] of stored_devices) {
 	let overwrite = overwrites[k];
@@ -161,15 +161,57 @@ for (const spec of specs) {
 // 	console.log(x.codename, x);
 // 	await Deno.writeTextFile(`devices/${x.codename}.toml`, stringify(x));
 // }
+const sortObject = (obj) =>
+	Object.keys(obj)
+		.sort()
+		.reduce((res, key) => ((res[key] = obj[key]), res), {});
+let devices = [...stored_devices.values()]
+	.map((v) => {
+		v.roms = v.roms.sort((a, b) => {
+			let fa = a.id.toLowerCase(),
+				fb = b.id.toLowerCase();
+
+			if (fa < fb) {
+				return -1;
+			}
+			if (fa > fb) {
+				return 1;
+			}
+			return 0;
+		});
+		v.recoveries = v.recoveries.sort((a, b) => {
+			let fa = a.id.toLowerCase(),
+				fb = b.id.toLowerCase();
+
+			if (fa < fb) {
+				return -1;
+			}
+			if (fa > fb) {
+				return 1;
+			}
+			return 0;
+		});
+		return sortObject(v);
+	})
+	.sort((a, b) => {
+		let fa = a.codename.toLowerCase(),
+			fb = b.codename.toLowerCase();
+
+		if (fa < fb) {
+			return -1;
+		}
+		if (fa > fb) {
+			return 1;
+		}
+		return 0;
+	});
+
 await Promise.all(
-	[...stored_devices.values()].map((x) => {
+	devices.map((x) => {
 		return Deno.writeTextFile(`devices/${x.codename}.toml`, stringify(x));
 	})
 );
-await Deno.writeTextFile(
-	'devices.json',
-	JSON.stringify([...stored_devices.values()].sort())
-);
+await Deno.writeTextFile('devices.json', JSON.stringify(devices));
 await Deno.writeTextFile(
 	'roms.json',
 	JSON.stringify(

@@ -1,6 +1,15 @@
-codename = "davinci"
 brand = "Xiaomi"
+codename = "davinci"
 name = "Mi 9T"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-9t/development/recovery-unofficial-twrp-xiaomi-redmi-t3960726"
+maintainer = "Mauronofrio"
 
 [[roms]]
 id = "ancientos"
@@ -18,6 +27,9 @@ id = "cherishos"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -80,9 +92,6 @@ group = "https://t.me/spkal01hub"
 download = "https://downloads.spark-os.live/davinci/Spark-12.0-Official-davinci-20220212.zip"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v4.9"
@@ -93,12 +102,3 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v5.0"
 developer = "svb22"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/mi-9t/development/recovery-unofficial-twrp-xiaomi-redmi-t3960726"
-maintainer = "Mauronofrio"
-
-[[recoveries]]
-id = "orangefox"
-supported = false

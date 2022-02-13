@@ -1,6 +1,6 @@
 brand = "Samsung"
-name = "Galaxy Tab PRO 10.1"
 codename = "n2awifi"
+name = "Galaxy Tab PRO 10.1"
 recoveries = []
 
 [[roms]]

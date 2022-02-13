@@ -1,6 +1,15 @@
-codename = "cepheus"
 brand = "Xiaomi"
+codename = "cepheus"
 name = "MI 9"
+
+[[recoveries]]
+id = "orangefox"
+supported = false
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/Mi-9/development/recovery-unofficial-twrp-xiaomi-mi-9-t3905825"
+maintainer = "Mauronofrio"
 
 [[roms]]
 id = "arrowos"
@@ -49,15 +58,6 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.7"
 developer = "Evasi0nXiao"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/Mi-9/development/recovery-unofficial-twrp-xiaomi-mi-9-t3905825"
-maintainer = "Mauronofrio"
-
-[[recoveries]]
-id = "orangefox"
-supported = false
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"

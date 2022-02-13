@@ -1,13 +1,13 @@
-codename = "lentislte"
 brand = "Samsung"
+codename = "lentislte"
 name = "Galaxy S5 LTE-A"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "cvxda"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait 450"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "cvxda"

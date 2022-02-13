@@ -1,6 +1,6 @@
 brand = "Motorola"
-name = "Droid Bionic"
 codename = "targa"
+name = "Droid Bionic"
 recoveries = []
 
 [[roms]]

@@ -1,7 +1,7 @@
-name = "oneplus 8T , oneplus 9R"
-codename = "lemonkebab"
-recoveries = []
 brand = "OnePlus"
+codename = "lemonkebab"
+name = "oneplus 8T , oneplus 9R"
+recoveries = []
 
 [[roms]]
 id = "pixelextended"

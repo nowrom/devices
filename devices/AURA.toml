@@ -1,6 +1,6 @@
 brand = "STF Mobile"
-name = "AURA"
 codename = "AURA"
+name = "AURA"
 recoveries = []
 
 [[roms]]

@@ -1,6 +1,6 @@
 brand = "GSI"
-name = "A64-AB"
 codename = "a64-ab"
+name = "A64-AB"
 recoveries = []
 
 [[roms]]

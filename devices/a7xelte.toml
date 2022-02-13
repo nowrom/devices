@@ -1,13 +1,13 @@
-codename = "a7xelte"
 brand = "Samsung"
+codename = "a7xelte"
 name = "Galaxy A7(2016)"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Stricted"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "3 GB"
 wifi = "802.11 b/g/n"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Stricted"

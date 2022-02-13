@@ -1,6 +1,11 @@
-codename = "pyxis"
 brand = "Xiaomi"
+codename = "pyxis"
 name = "Mi 9 Lite"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/mi-cc9/development/recovery-unofficial-twrp-xiaomi-mi-9-t4029705"
+maintainer = "Mauronofrio"
 
 [[roms]]
 id = "blissroms"
@@ -9,15 +14,10 @@ id = "blissroms"
 id = "evolutionx"
 
 [[roms]]
-id = "revengeos"
-
-[[roms]]
 id = "evolutionx"
 
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/mi-cc9/development/recovery-unofficial-twrp-xiaomi-mi-9-t4029705"
-maintainer = "Mauronofrio"
+[[roms]]
+id = "revengeos"
 
 [specs]
 cpu = "Octa-core (2x2.2 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver)"

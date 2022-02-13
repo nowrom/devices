@@ -1,6 +1,6 @@
 brand = "Sony"
-name = "Xperia Tablet Z2 LTE"
 codename = "castor"
+name = "Xperia Tablet Z2 LTE"
 recoveries = []
 
 [[roms]]

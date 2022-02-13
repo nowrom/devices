@@ -1,13 +1,13 @@
-codename = "j5nlte"
 brand = "Samsung"
+codename = "j5nlte"
 name = "Galaxy J5"
 roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = true
 
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/galaxy-j5/development/unofficial-twrp-3-3-1-galaxy-j5-2015-t3946500"
 maintainer = "palmbeach05"
-
-[[recoveries]]
-id = "orangefox"
-supported = true

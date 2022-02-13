@@ -1,13 +1,13 @@
-codename = "j7xelte"
 brand = "Samsung"
+codename = "j7xelte"
 name = "Galaxy J7(2016)"
 roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = false
 
 [[recoveries]]
 id = "twrp"
 xdathread = "http://forum.xda-developers.com/galaxy-j7/development/recovery-official-twrp-j7xelte-galaxy-t3437659"
 maintainer = "jcadduono"
-
-[[recoveries]]
-id = "orangefox"
-supported = false

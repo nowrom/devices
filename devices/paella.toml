@@ -1,6 +1,6 @@
 brand = "BQ"
-name = "Aquaris X5"
 codename = "paella"
+name = "Aquaris X5"
 recoveries = []
 
 [[roms]]

@@ -1,7 +1,7 @@
-codename = "nobleltetmo"
-recoveries = []
 brand = "Samsung"
+codename = "nobleltetmo"
 name = "Galaxy Note5"
+recoveries = []
 
 [[roms]]
 id = "blissroms"

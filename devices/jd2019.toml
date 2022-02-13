@@ -1,6 +1,10 @@
-codename = "jd2019"
 brand = "Lenovo"
+codename = "jd2019"
 name = "Z5s"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Mauronofrio"
 
 [[roms]]
 id = "cherishos"
@@ -35,7 +39,3 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "CakesTwix"
 active = true
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Mauronofrio"

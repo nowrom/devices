@@ -1,6 +1,10 @@
-codename = "pine"
 brand = "Xiaomi"
+codename = "pine"
 name = "Redmi 7A"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "paulobrien"
 
 [[roms]]
 id = "cherishos"
@@ -29,7 +33,3 @@ xda_thread = "https://forum.xda-developers.com/t/64bit-official-pixelextended-v4
 
 [[roms]]
 id = "revengeos"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "paulobrien"

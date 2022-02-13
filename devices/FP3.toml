@@ -1,13 +1,13 @@
-codename = "FP3"
 brand = "Fairphone"
+codename = "FP3"
 name = "Fairphone3"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Chaosmaster"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 250"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Chaosmaster"

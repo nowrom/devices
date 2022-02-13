@@ -1,6 +1,6 @@
+brand = "Xiaomi"
 codename = "cas"
 name = "Mi 10 Ultra"
-brand = "Xiaomi"
 recoveries = []
 
 [[roms]]

@@ -1,14 +1,14 @@
-codename = "taoshan"
 brand = "Sony"
+codename = "taoshan"
 name = "Xperia L"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/showthread.php?t=3682714"
+maintainer = "STRYDER-007"
 
 [[roms]]
 id = "lineageos"
 cpu = "Krait"
 ram = "1 GB"
 wifi = "802.11 a/b/g/n, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/showthread.php?t=3682714"
-maintainer = "STRYDER-007"

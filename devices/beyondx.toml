@@ -1,6 +1,11 @@
-codename = "beyondx"
 brand = "Samsung"
+codename = "beyondx"
 name = "Galaxy S10 5G"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/galaxy-s10/samsung-galaxy-s10--s10--s10-5g-cross-device-development-exynos/recovery-twrp-galaxy-s10-e-5g-exynos-t4180287"
+maintainer = "corsicanu"
 
 [[roms]]
 id = "ancientos"
@@ -30,8 +35,3 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4368775/"
 stable = true
 deprecated = false
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/galaxy-s10/samsung-galaxy-s10--s10--s10-5g-cross-device-development-exynos/recovery-twrp-galaxy-s10-e-5g-exynos-t4180287"
-maintainer = "corsicanu"

@@ -1,6 +1,11 @@
-codename = "z2_plus"
 brand = "Zuk"
+codename = "z2_plus"
 name = "Z2"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/lenovo-zuk-z2/development/pre-official-teamwin-recovery-project-3-t3899166"
+maintainer = "DD3Boh"
 
 [[roms]]
 id = "arrowos"
@@ -20,11 +25,6 @@ wifi = "802.11 a/b/g/n/ac, dual-band, WiFi Direct, DLNA, hotspot"
 
 [[roms]]
 id = "pixyos"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/lenovo-zuk-z2/development/pre-official-teamwin-recovery-project-3-t3899166"
-maintainer = "DD3Boh"
 
 [specs]
 cpu = "Octa-core (4x2.7 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"

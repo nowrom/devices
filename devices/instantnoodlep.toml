@@ -1,11 +1,19 @@
-codename = "instantnoodlep"
 brand = "OnePlus"
+codename = "instantnoodlep"
 name = "OnePlus 8P"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/twrp-3-6-0-11-b1-instantnoodle-twrp-for-oneplus-8-8pro-beta.4341707/"
+maintainer = "infected_"
 
 [[roms]]
 id = "crdroid"
 gapps = ""
 recovery = ""
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -37,14 +45,6 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/oneplus-8-pro/development/rom-pixel-experience-t4166993"
 stable = true
 deprecated = true
-
-[[roms]]
-id = "evolutionx"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/twrp-3-6-0-11-b1-instantnoodle-twrp-for-oneplus-8-8pro-beta.4341707/"
-maintainer = "infected_"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"

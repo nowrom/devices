@@ -1,15 +1,15 @@
-codename = "ugglite"
 brand = "Xiaomi"
+codename = "ugglite"
 name = "Redmi Note 5A"
 roms = []
 
 [[recoveries]]
-id = "twrp"
-maintainer = "zqm64, adislice"
-
-[[recoveries]]
 id = "orangefox"
 supported = false
+
+[[recoveries]]
+id = "twrp"
+maintainer = "zqm64, adislice"
 
 [specs]
 cpu = "Octa-core 1.4 GHz Cortex-A53"

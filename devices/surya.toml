@@ -1,10 +1,7 @@
 brand = "POCO"
-name = "POCO X3 NFC"
 codename = "surya"
+name = "POCO X3 NFC"
 recoveries = []
-
-[[roms]]
-id = "pixelextended"
 
 [[roms]]
 id = "AOSPK"
@@ -16,6 +13,9 @@ maintainer = "Ganesh Varma, palaych"
 
 [[roms]]
 id = "dotos"
+
+[[roms]]
+id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
@@ -62,6 +62,9 @@ stable = true
 deprecated = false
 
 [[roms]]
+id = "pixelextended"
+
+[[roms]]
 id = "pixyos"
 
 [[roms]]
@@ -73,9 +76,6 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Agus"
 active = true
-
-[[roms]]
-id = "evolutionx"
 
 [specs]
 cpu = "Octa-core (2x2.3 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)"

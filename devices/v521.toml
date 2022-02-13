@@ -1,6 +1,6 @@
 brand = "LG"
-name = "G Pad X (T-Mobile)"
 codename = "v521"
+name = "G Pad X (T-Mobile)"
 recoveries = []
 
 [[roms]]

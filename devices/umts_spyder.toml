@@ -1,6 +1,6 @@
 brand = "Motorola"
-name = "Droid RAZR"
 codename = "umts_spyder"
+name = "Droid RAZR"
 recoveries = []
 
 [[roms]]

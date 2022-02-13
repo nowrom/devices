@@ -1,6 +1,11 @@
-codename = "z2_row"
 brand = "Zuk"
+codename = "z2_row"
 name = "Z2 Pro"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/zuk-z2-pro/development/teamwin-recovery-project-3-2-3-zuk-z2-t3903727"
+maintainer = "DD3Boh"
 
 [[roms]]
 id = "arrowos"
@@ -9,8 +14,3 @@ changelog = "-"
 
 [[roms]]
 id = "pixyos"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/zuk-z2-pro/development/teamwin-recovery-project-3-2-3-zuk-z2-t3903727"
-maintainer = "DD3Boh"

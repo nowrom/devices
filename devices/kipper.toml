@@ -1,6 +1,6 @@
 brand = "Wileyfox"
-name = "Storm"
 codename = "kipper"
+name = "Storm"
 recoveries = []
 
 [[roms]]

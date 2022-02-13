@@ -1,14 +1,14 @@
-codename = "anne"
 brand = "Huawei"
+codename = "anne"
 name = "P20 Lite"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/huawei-p20-lite/development/recovery-twrp-huawei-p20-lite-t4150389"
+maintainer = "DarkJoker360"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/huawei-p20-lite/development/recovery-twrp-huawei-p20-lite-t4150389"
-maintainer = "DarkJoker360"

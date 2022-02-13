@@ -1,7 +1,11 @@
-codename = "F500"
 brand = "Emtec"
+codename = "F500"
 name = "Gaming Android Gem Box"
 roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "steadfasterX"
 
 [[recoveries]]
 id = "twrp"
@@ -10,10 +14,6 @@ maintainer = "lomatik"
 [[recoveries]]
 id = "twrp"
 xdathread = "http://forum.xda-developers.com/g4/development/recovery-twrp-3-touch-recovery-t3442424"
-maintainer = "steadfasterX"
-
-[[recoveries]]
-id = "twrp"
 maintainer = "steadfasterX"
 
 [specs]

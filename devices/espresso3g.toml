@@ -1,13 +1,13 @@
-codename = "espresso3g"
 brand = "Samsung"
+codename = "espresso3g"
 name = "Galaxy Tab 2 7.0 / Tab 2 10.1 (GSM)"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Android-Andi"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A9"
 ram = "1 GB"
 wifi = "802.11 a/b/g/n, Wi-Fi Direct, Hotspot"
-
-[[recoveries]]
-id = "twrp"
-maintainer = "Android-Andi"

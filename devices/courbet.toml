@@ -1,6 +1,6 @@
 brand = "Xiaomi"
-name = "Mi 11 Lite"
 codename = "courbet"
+name = "Mi 11 Lite"
 recoveries = []
 
 [[roms]]

@@ -1,6 +1,6 @@
 brand = "Meizu"
-name = "Meizu 16 TH"
 codename = "m1882"
+name = "Meizu 16 TH"
 recoveries = []
 
 [[roms]]

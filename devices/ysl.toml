@@ -1,9 +1,10 @@
-codename = "ysl"
 brand = "Xiaomi"
+codename = "ysl"
 name = "Redmi S2"
 
-[[roms]]
-id = "pixelextended"
+[[recoveries]]
+id = "orangefox"
+supported = true
 
 [[roms]]
 id = "AOSPK"
@@ -27,14 +28,13 @@ donation_link = ""
 photo = "https://avatars.githubusercontent.com/u/47271737?v=4"
 
 [[roms]]
+id = "pixelextended"
+
+[[roms]]
 id = "pixyos"
 
 [[roms]]
 id = "revengeos"
-
-[[recoveries]]
-id = "orangefox"
-supported = true
 
 [specs]
 cpu = "Octa-core 2.0 GHz Cortex-A53"

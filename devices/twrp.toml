@@ -1,5 +1,5 @@
-codename = "twrp"
 brand = "TWRP"
+codename = "twrp"
 name = "Android Emulator"
 roms = []
 
