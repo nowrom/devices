@@ -1,13 +1,17 @@
+codename = "t0lte"
 brand = "Samsung"
 name = "Galaxy Note2"
-codename = "t0lte"
-recoveries = []
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A9"
 ram = "2 GB"
 wifi = "802.11 a/b/g/n"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-6-0_9-0-t03g-n7100-t0lte-n7105.4263819/post-84858941"
+maintainer = "html6405"
 
 [specs]
 cpu = "Octa-core (2x2.73 GHz Mongoose M5 & 2x2.50 GHz Cortex-A76 & 4x2.0 GHz Cortex-A55) - GlobalOcta-core (1x3.0 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.8 GHz Kryo 585) - USA"

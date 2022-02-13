@@ -25,9 +25,9 @@ export async function twrp() {
 						// 	}.html`
 						// );
 						// console.log('E');
-						for (const codename of data.codename.split('/')) {
+						for (const codename of data.codename.split(/,|&|\//)) {
 							twrps.push({
-								codename: codename,
+								codename: codename.trim(),
 								brand: data.oem,
 								name: data.title,
 								recovery: {

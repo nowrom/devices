@@ -39,6 +39,11 @@ xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom
 [[roms]]
 id = "pixyos"
 
+[[roms]]
+id = "sparkos"
+group = "https://t.me/sparkredmi7"
+download = "https://downloads.spark-os.live/onclite/Spark-12.0-Official-onclite-20220213.zip"
+
 [[recoveries]]
 id = "twrp"
 maintainer = "KostyaJRZ"

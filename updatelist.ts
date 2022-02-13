@@ -112,6 +112,7 @@ await run(orangefox);
 const overwrites = JSON.parse(await Deno.readTextFile('./overwrites.json'));
 for (const [k, v] of stored_devices) {
 	let overwrite = overwrites[k];
+
 	if (overwrite) {
 		const val = stored_devices.get(overwrite) || { roms: [] };
 		stored_devices.set(overwrite, {

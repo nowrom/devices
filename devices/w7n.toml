@@ -1,0 +1,8 @@
+codename = "w7n"
+brand = "LGE"
+name = "L90"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

@@ -10,4 +10,9 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
 
 [[recoveries]]
 id = "twrp"
+xdathread = "http://forum.xda-developers.com/g4/development/recovery-twrp-3-touch-recovery-t3442424"
+maintainer = "steadfasterX"
+
+[[recoveries]]
+id = "twrp"
 maintainer = "steadfasterX"

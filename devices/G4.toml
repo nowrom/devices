@@ -1,11 +1,7 @@
-codename = "h819"
-brand = "LG"
-name = "LG G4"
+codename = "G4"
+brand = "VANTEC"
+name = "telma_i401"
 roms = []
-
-[[recoveries]]
-id = "twrp"
-maintainer = "steadfasterX"
 
 [[recoveries]]
 id = "twrp"

@@ -54,7 +54,7 @@ id = "revengeos"
 [[roms]]
 id = "sparkos"
 group = "https://t.me/Spark_RMX1971"
-download = "https://downloads.spark-os.live/RMX1971/Spark-S-Energized-OFFICIAL-RMX1971-20220118.zip"
+download = "https://downloads.spark-os.live/RMX1971/Spark-12.0-Official-RMX1971-20220213.zip"
 
 [[roms]]
 id = "evolutionx"

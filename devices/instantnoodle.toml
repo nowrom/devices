@@ -1,7 +1,6 @@
+codename = "instantnoodle"
 brand = "OnePlus"
 name = "OnePlus 8"
-codename = "instantnoodle"
-recoveries = []
 
 [[roms]]
 id = "crdroid"
@@ -41,6 +40,11 @@ deprecated = true
 
 [[roms]]
 id = "evolutionx"
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/twrp-3-6-0-11-b1-instantnoodle-twrp-for-oneplus-8-8pro-beta.4341707/"
+maintainer = "infected_"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.8 GHz Kryo 585)"
