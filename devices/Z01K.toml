@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/zenfone-4-2017/development/recovery-twrp-3-1-1-0-ze554kl-t3692195"
 maintainer = "shakalaca"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-5-2-for-galaxy-a52-4g.4276515/"
 maintainer = "Velosh"
+
+[specs]
+cpu = "Octa-core (4x2.4 GHz Kryo 670 & 4x1.9 GHz Kryo 670)"
+weight = "189 g (6.67 oz)"
+year = "2021, August 17"
+os = "Android 11, upgradable to Android 12, One UI 4.0"
+chipset = "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)"
+gpu = "Adreno 642L"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, compass"
+batlife = "Endurance rating 113h"
+internalmemory = "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM"

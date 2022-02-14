@@ -43,7 +43,7 @@ photo = "https://avatars.githubusercontent.com/u/55486333"
 [[roms]]
 id = "sparkos"
 group = "https://t.me/SparkOSRMX1921"
-download = "https://downloads.spark-os.live/RMX1921/Spark-S-Energized-Official-RMX1921-20220204.zip"
+download = "https://downloads.spark-os.live/RMX1921/Spark-12.0-Official-RMX1921-20220213.zip"
 
 [specs]
 cpu = "Octa-core (2x2.3 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver)"

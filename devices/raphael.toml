@@ -81,20 +81,15 @@ url = "https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtende
 xda_thread = "https://forum.xda-developers.com/t/rom-12-raphael-official-pixel-extended-rom-20-12-2021.4146471/"
 
 [[roms]]
-id = "sparkos"
-group = "https://t.me/area51k20p"
-download = "https://downloads.spark-os.live/raphael/Spark-S-Energized-Official-raphael-20220120.zip"
-
-[[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.9"
+version = "v4.9"
 developer = "NATO666613"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v3.9"
 developer = "NATO666613"
 
 [[roms]]

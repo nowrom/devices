@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "Dees_Troy"
+
+[specs]
+cpu = "Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)"
+weight = "199 g (7.05 oz)"
+year = "2022, February 08"
+os = "Android 11, XOS 10"
+chipset = "MediaTek MT6877 Dimensity 900 5G (6 nm)"
+gpu = "Mali-G68 MC4"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 140h"
+internalmemory = "128GB 8GB RAM"

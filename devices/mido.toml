@@ -68,8 +68,8 @@ id = "pixyos"
 
 [[roms]]
 id = "sparkos"
-group = "https://t.me/SparkOS_mido_official"
-download = "https://downloads.spark-os.live/mido/Spark-S-Tempest-Official-mido-20220103-gapps.zip"
+group = "https://t.me/SparkOS_Official_Mido"
+download = "https://downloads.spark-os.live/mido/Spark-12.0-Official-mido-20220213.zip"
 
 [[roms]]
 id = "syberia"

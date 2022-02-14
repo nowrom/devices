@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/mate-10/development/recovery-twrp-3-2-1-0-touch-recovery-t3752399"
 maintainer = "Dees_Troy"
+
+[specs]
+cpu = "Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)"
+weight = "178 g (6.28 oz)"
+year = "2017, October"
+os = "Android 8.0 (Oreo), upgradable to Android 10, EMUI 10.2"
+chipset = "Kirin 970 (10 nm)"
+gpu = "Mali-G72 MP12"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, barometer, compass"
+batlife = "Endurance rating 96h"
+internalmemory = "64GB 4GB RAM, 128GB 6GB RAM"

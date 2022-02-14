@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "PVineeth"
+
+[specs]
+cpu = "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)"
+weight = "184 g (6.49 oz)"
+year = "2021, February 25"
+os = "Android 11, One UI 3.1"
+chipset = "Mediatek MT6769V/CU Helio G80 (12 nm)"
+gpu = "Mali-G52 MC2"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, compass"
+batlife = "Endurance rating 119h"
+internalmemory = "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM"

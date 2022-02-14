@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "mentalmuso"
+
+[specs]
+cpu = "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55) - EMEA/LATAMOcta-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485) - USA/China"
+weight = "196 g (6.91 oz)"
+year = "2019, August 07"
+os = "Android 9.0 (Pie), upgradable to Android 12, One UI 4"
+chipset = "Exynos 9825 (7 nm) - EMEA/LATAMQualcomm SM8150 Snapdragon 855 (7 nm) - USA/China"
+gpu = "Mali-G76 MP12 - EMEA/LATAMAdreno 640 - USA/China"
+sensors = "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 107h"
+internalmemory = "256GB 12GB RAM, 512GB 12GB RAM"
