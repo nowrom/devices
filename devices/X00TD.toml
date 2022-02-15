@@ -4,6 +4,10 @@ name = "Asus ZenFone Max Pro M1"
 recoveries = []
 
 [[roms]]
+id = "ancientos"
+photo = "https://m.gsmarena.com/asus_zenfone_max_pro_(m1)_zb601kl_zb602k-pictures-9173.php"
+
+[[roms]]
 id = "blissroms"
 
 [[roms]]

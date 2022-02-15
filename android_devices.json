@@ -15281,6 +15281,11 @@
   },
   {
     "brand": "Blaupunkt",
+    "name": "BP_6110",
+    "codename": "BP_6110"
+  },
+  {
+    "brand": "Blaupunkt",
     "name": "Blaupunkt",
     "codename": "bangbae"
   },
@@ -18391,6 +18396,11 @@
   },
   {
     "brand": "CWOWDEFU",
+    "name": "C73W",
+    "codename": "C73W"
+  },
+  {
+    "brand": "CWOWDEFU",
     "name": "C80W",
     "codename": "C80W"
   },
@@ -18408,6 +18418,16 @@
     "brand": "CWOWDEFU",
     "name": "C82W_EEA",
     "codename": "C82W_EEA"
+  },
+  {
+    "brand": "CWOWDEFU",
+    "name": "F12W",
+    "codename": "F12W"
+  },
+  {
+    "brand": "CWOWDEFU",
+    "name": "F12W_EEA",
+    "codename": "F12W"
   },
   {
     "brand": "CWOWDEFU",
@@ -25066,6 +25086,11 @@
   },
   {
     "brand": "DEXP",
+    "name": "P11",
+    "codename": "P11"
+  },
+  {
+    "brand": "DEXP",
     "name": "P280",
     "codename": "P280"
   },
@@ -27476,6 +27501,11 @@
   },
   {
     "brand": "Digma",
+    "name": "Optima 10 E600 3G TS1246PG",
+    "codename": "TS1246PG"
+  },
+  {
+    "brand": "Digma",
     "name": "Optima 1028 3G TS1215PG",
     "codename": "TS1215PG"
   },
@@ -27498,6 +27528,11 @@
     "brand": "Digma",
     "name": "Optima_10_A500S_3G_TS1220PG",
     "codename": "TS1220PG"
+  },
+  {
+    "brand": "Digma",
+    "name": "Optima_10_A502_3G_TS1245PG",
+    "codename": "TS1245PG"
   },
   {
     "brand": "Digma",
@@ -29278,6 +29313,11 @@
     "brand": "ECONNECT",
     "name": "BH505GS",
     "codename": "BH505GS"
+  },
+  {
+    "brand": "ECONNECT",
+    "name": "SQ126G",
+    "codename": "SQ126G"
   },
   {
     "brand": "ECS",
@@ -39078,6 +39118,11 @@
     "brand": "HAKO",
     "name": "HAKO mini",
     "codename": "GMP"
+  },
+  {
+    "brand": "HANET",
+    "name": "T432",
+    "codename": "SmartEdu"
   },
   {
     "brand": "HANYEAL",
@@ -57773,6 +57818,11 @@
     "brand": "Huskee",
     "name": "VULKANO_Plus",
     "codename": "VULKANO_Plus"
+  },
+  {
+    "brand": "Hyatta",
+    "name": "Model 6s",
+    "codename": "Model_6s"
   },
   {
     "brand": "Hyjoy",
@@ -81171,6 +81221,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "启天K10 Pro",
+    "codename": "TB223FC"
+  },
+  {
+    "brand": "Lenovo",
     "name": "小新 Pad GT",
     "codename": "TB-J616F"
   },
@@ -84591,6 +84646,11 @@
   },
   {
     "brand": "Masstel",
+    "name": "Masstel_Tab8_Edu",
+    "codename": "Masstel_Tab8_Edu"
+  },
+  {
+    "brand": "Masstel",
     "name": "Masstel_Tab_10.1Pro",
     "codename": "Masstel_Tab_101Pro"
   },
@@ -84616,6 +84676,11 @@
   },
   {
     "brand": "Masstel",
+    "name": "Masstel_Tab_83",
+    "codename": "Masstel_Tab_83"
+  },
+  {
+    "brand": "Masstel",
     "name": "Masstel_X1",
     "codename": "Masstel_X1"
   },
@@ -84638,6 +84703,11 @@
     "brand": "Masstel",
     "name": "N535",
     "codename": "Masstel_N535"
+  },
+  {
+    "brand": "Masstel",
+    "name": "Tab10_Edu",
+    "codename": "Tab10_Edu"
   },
   {
     "brand": "Masstel",
@@ -111746,6 +111816,11 @@
   },
   {
     "brand": "RAVOZ",
+    "name": "RAVOZ_V2",
+    "codename": "RAVOZ_V2"
+  },
+  {
+    "brand": "RAVOZ",
     "name": "RAVOZ_Z3_Lite",
     "codename": "RAVOZ_Z3_Lite"
   },
@@ -115088,6 +115163,11 @@
     "brand": "SGINO",
     "name": "6S",
     "codename": "6S"
+  },
+  {
+    "brand": "SGINO",
+    "name": "CP093",
+    "codename": "CP093"
   },
   {
     "brand": "SGINO",
@@ -133581,6 +133661,11 @@
   },
   {
     "brand": "Sky Devices",
+    "name": "Elite T8 Plus",
+    "codename": "Elite_T8PUB"
+  },
+  {
+    "brand": "Sky Devices",
     "name": "Elite T8Plus",
     "codename": "Elite_T8PlusK"
   },
@@ -148080,6 +148165,11 @@
     "codename": "Tabletop_T2"
   },
   {
+    "brand": "Tabletop",
+    "name": "Tabletop_T2_2",
+    "codename": "Tabletop_T2_2"
+  },
+  {
     "brand": "Tagtech",
     "name": "TAGPhone",
     "codename": "TAGPhone"
@@ -148547,6 +148637,11 @@
   {
     "brand": "Techpad",
     "name": "Tech_Pad_X10",
+    "codename": "Tech_Pad_X10"
+  },
+  {
+    "brand": "Techpad",
+    "name": "Tech_Pad_X10B",
     "codename": "Tech_Pad_X10"
   },
   {
@@ -152681,6 +152776,11 @@
   },
   {
     "brand": "UNIQ-CELL",
+    "name": "UNIQ0222",
+    "codename": "UNIQ0222"
+  },
+  {
+    "brand": "UNIQ-CELL",
     "name": "UNIQCELL_A4",
     "codename": "UNIQCELL_A4"
   },
@@ -154033,6 +154133,11 @@
     "brand": "Uniqcell",
     "name": "UNI 10X",
     "codename": "UNI_10X"
+  },
+  {
+    "brand": "Uniqcell",
+    "name": "UNI GO",
+    "codename": "UNI_GO"
   },
   {
     "brand": "Uniscope",
@@ -165535,6 +165640,21 @@
     "codename": "ZEEKER_P10"
   },
   {
+    "brand": "ZEEKER",
+    "name": "ZEEKER_T100",
+    "codename": "ZEEKER_T100"
+  },
+  {
+    "brand": "ZEEKER",
+    "name": "ZEEKER_T100_EEA",
+    "codename": "ZEEKER_T100"
+  },
+  {
+    "brand": "ZEEKER",
+    "name": "ZEEKER_T100_RU",
+    "codename": "ZEEKER_T100"
+  },
+  {
     "brand": "ZENTALITY",
     "name": "C-601",
     "codename": "C-601"
@@ -176765,6 +176885,11 @@
     "codename": "M10ES11"
   },
   {
+    "brand": "imiia",
+    "name": "i-217D1",
+    "codename": "YUL"
+  },
+  {
     "brand": "imose",
     "name": "BAM-II",
     "codename": "BAM-II"
@@ -177566,7 +177691,17 @@
   },
   {
     "brand": "weelikeit",
+    "name": "C81W",
+    "codename": "C81W"
+  },
+  {
+    "brand": "weelikeit",
     "name": "F11W",
+    "codename": "F11W"
+  },
+  {
+    "brand": "weelikeit",
+    "name": "F11W_EEA",
     "codename": "F11W"
   },
   {

@@ -4,6 +4,10 @@ name = "POCO X3 NFC"
 recoveries = []
 
 [[roms]]
+id = "ancientos"
+photo = "https://i01.appmifile.com/webfile/globalimg/products/pc/poco-x3-nfc/specs-header.png"
+
+[[roms]]
 id = "AOSPK"
 xda_thread = ""
 

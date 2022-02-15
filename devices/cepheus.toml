@@ -51,7 +51,7 @@ id = "revengeos"
 [[roms]]
 id = "sparkos"
 group = "https://t.me/tribual_mi9"
-download = "https://downloads.spark-os.live/cepheus/Spark-S-Energized-OFFICIAL-cepheus-20220118.zip"
+download = "https://downloads.spark-os.live/cepheus/Spark-12.0-Official-cepheus-20220214.zip"
 
 [[roms]]
 id = "syberia"

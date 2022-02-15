@@ -26,3 +26,14 @@ deprecated = true
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/mi-note-2/development/rom-pixel-experience-t4207145"
 deprecated = true
+
+[specs]
+cpu = "Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kryo)"
+weight = "166 g (5.86 oz)"
+year = "2016, October. Released 2016, November"
+os = "Android 6.0 (Marshmallow), MIUI 8.2"
+chipset = "Qualcomm MSM8996 Snapdragon 821 (14 nm)"
+gpu = "Adreno 530"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 92h"
+internalmemory = "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"

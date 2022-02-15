@@ -9,6 +9,7 @@ maintainer = "bigbiff"
 [[roms]]
 id = "arrowos"
 maintainer = "ReallySnow"
+changelog = "Update fingerprint from SP1A.210812.016.C1\r\nUpdate blobs from SP1A.210812.016.C1"
 
 [[roms]]
 id = "calyxos"
