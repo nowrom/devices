@@ -26,7 +26,7 @@ export const pixelextended: UpdateFunction = async () => {
 				const codename = file.device.split('.')?.[0]?.trim().replace(' ', '');
 				return {
 					name: file.device_name,
-					codename: codename,
+					codename: codename.includes('toco') ? 'toco' : codename,
 					rom: {
 						id: 'pixelextended',
 						url: file.url,
