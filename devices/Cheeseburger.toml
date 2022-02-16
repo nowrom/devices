@@ -57,3 +57,14 @@ deprecated = false
 
 [[roms]]
 id = "pixelextended"
+
+[specs]
+cpu = "Octa-core (1x3.0 GHz Cortex-A78 & 3x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)"
+weight = "189 g (6.67 oz)"
+year = "2021, July 22"
+os = "Android 11, OxygenOS 11.3"
+chipset = "MediaTek MT6893 Dimensity 1200 5G (6 nm)"
+gpu = "Mali-G77 MC9"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 102h"
+internalmemory = "128GB 6GB RAM, 128GB 8GB RAM, 256GB 12GB RAM"

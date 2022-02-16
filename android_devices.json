@@ -705,6 +705,16 @@
     "codename": "fievel_cheets"
   },
   {
+    "brand": "ARATEK",
+    "name": "Marshall-8",
+    "codename": "Marshall-8"
+  },
+  {
+    "brand": "ARBOR",
+    "name": "G47",
+    "codename": "G47"
+  },
+  {
     "brand": "ARRQW",
     "name": "RO-55LCS",
     "codename": "samseong"
@@ -1523,6 +1533,11 @@
     "brand": "Acer",
     "name": "AS10W",
     "codename": "AS10W"
+  },
+  {
+    "brand": "Acer",
+    "name": "AS8W",
+    "codename": "AS8W"
   },
   {
     "brand": "Acer",
@@ -3858,6 +3873,11 @@
     "brand": "AllView",
     "name": "A20 Max",
     "codename": "A20_Max"
+  },
+  {
+    "brand": "AllView",
+    "name": "A30 MAX",
+    "codename": "A30_Max"
   },
   {
     "brand": "AllView",
@@ -11056,6 +11076,11 @@
   },
   {
     "brand": "Azumi",
+    "name": "V51",
+    "codename": "Azumi_V5_AC01"
+  },
+  {
+    "brand": "Azumi",
     "name": "V54_AC24",
     "codename": "Azumi_V54_AC24"
   },
@@ -14488,6 +14513,11 @@
     "brand": "Blackshark",
     "name": "Black Shark 2 Pro",
     "codename": "darklighter"
+  },
+  {
+    "brand": "Blackshark",
+    "name": "Black shark 4 pro",
+    "codename": "kaiser-os"
   },
   {
     "brand": "Blackshark",
@@ -18176,6 +18206,11 @@
   },
   {
     "brand": "COCOMM",
+    "name": "F900",
+    "codename": "F900N0101"
+  },
+  {
+    "brand": "COCOMM",
     "name": "F910B0101",
     "codename": "F910B0101"
   },
@@ -19583,6 +19618,11 @@
     "brand": "Cellution",
     "name": "COSMAS_T",
     "codename": "COSMAS_T"
+  },
+  {
+    "brand": "Cellution",
+    "name": "COSMAS_TF",
+    "codename": "COSMAS_TF"
   },
   {
     "brand": "Cellution",
@@ -26948,6 +26988,11 @@
     "brand": "Digiquest",
     "name": "Italy",
     "codename": "yeongdeungpo"
+  },
+  {
+    "brand": "Digit",
+    "name": "Digitplay1",
+    "codename": "Digitplay1"
   },
   {
     "brand": "Digital2",
@@ -38863,6 +38908,11 @@
     "brand": "Greentel",
     "name": "Xmini4G",
     "codename": "Xmini4G"
+  },
+  {
+    "brand": "Grolier",
+    "name": "GSR",
+    "codename": "GSR"
   },
   {
     "brand": "Grolier",
@@ -59681,6 +59731,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "43X3",
+    "codename": "beaudry"
+  },
+  {
+    "brand": "Infinix",
     "name": "55X1",
     "codename": "samseong"
   },
@@ -62956,8 +63011,18 @@
   },
   {
     "brand": "Itel",
+    "name": "G4350",
+    "codename": "beaudry"
+  },
+  {
+    "brand": "Itel",
     "name": "G5524BE",
     "codename": "samseong"
+  },
+  {
+    "brand": "Itel",
+    "name": "G5550",
+    "codename": "barking"
   },
   {
     "brand": "Itel",
@@ -83415,6 +83480,11 @@
     "codename": "AMBK290471"
   },
   {
+    "brand": "MIKU",
+    "name": "TAB63A",
+    "codename": "TAB63A"
+  },
+  {
     "brand": "MILECTRIC",
     "name": "\"SPAIN",
     "codename": " MOROCCO"
@@ -93071,6 +93141,11 @@
   },
   {
     "brand": "Multilaser",
+    "name": "G 3",
+    "codename": "Multilaser_G_3"
+  },
+  {
+    "brand": "Multilaser",
     "name": "G Max 2 SE",
     "codename": "Multilaser_G_Max_2_SE_64"
   },
@@ -93183,6 +93258,11 @@
     "brand": "Multilaser",
     "name": "M10_3G",
     "codename": "ML_JI0H_M10_3G"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "M10_3G",
+    "codename": "ML_SO0B_M10_3G"
   },
   {
     "brand": "Multilaser",
@@ -96243,6 +96323,16 @@
     "brand": "Naxa",
     "name": "NID9009",
     "codename": "NID9009"
+  },
+  {
+    "brand": "Naxa",
+    "name": "NID_1056",
+    "codename": "NID_1056"
+  },
+  {
+    "brand": "Naxa",
+    "name": "NID_7056",
+    "codename": "NID_7056"
   },
   {
     "brand": "Naxa",
@@ -99343,6 +99433,11 @@
     "brand": "Onn (Walmart)",
     "name": "100071485",
     "codename": "100071485"
+  },
+  {
+    "brand": "Onn (Walmart)",
+    "name": "100071486",
+    "codename": "100071486"
   },
   {
     "brand": "Onn (Walmart)",
@@ -103318,6 +103413,11 @@
     "brand": "POCO",
     "name": "POCO F3",
     "codename": "alioth"
+  },
+  {
+    "brand": "POCO",
+    "name": "POCO F3 GT",
+    "codename": "aresin"
   },
   {
     "brand": "POCO",
@@ -111840,6 +111940,11 @@
     "codename": "RAVOZ_Z8"
   },
   {
+    "brand": "RAVOZ",
+    "name": "Z3_Lite",
+    "codename": "RAVOZ_Z3_Lite"
+  },
+  {
     "brand": "RCA",
     "name": "\tRCA RCT6716Q25",
     "codename": "RCT6716Q25"
@@ -111993,6 +112098,11 @@
     "brand": "RCA",
     "name": "HKC",
     "codename": "gangbyeon"
+  },
+  {
+    "brand": "RCA",
+    "name": "HKC",
+    "codename": "mateo"
   },
   {
     "brand": "RCA",
@@ -128301,6 +128411,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Tab S8+ 5G",
+    "codename": "gts8p"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Tab2 10.1",
     "codename": "espresso10att"
   },
@@ -139326,8 +139441,18 @@
   },
   {
     "brand": "Syinix",
+    "name": "43A51",
+    "codename": "beaudry"
+  },
+  {
+    "brand": "Syinix",
     "name": "55A1S",
     "codename": "samseong"
+  },
+  {
+    "brand": "Syinix",
+    "name": "55U51",
+    "codename": "barking"
   },
   {
     "brand": "Syinix",
@@ -152026,6 +152151,11 @@
   },
   {
     "brand": "Touchmate",
+    "name": "TM-TAB1085",
+    "codename": "TM-TAB1085"
+  },
+  {
+    "brand": "Touchmate",
     "name": "TM_MID792WP",
     "codename": "TM_MID792WP"
   },
@@ -157251,6 +157381,11 @@
   },
   {
     "brand": "Vivax",
+    "name": "TPC_8074G",
+    "codename": "TPC_8074G"
+  },
+  {
+    "brand": "Vivax",
     "name": "VIVAX Fly6",
     "codename": "VIVAX_Fly6"
   },
@@ -160771,6 +160906,11 @@
   },
   {
     "brand": "Walton",
+    "name": "Primo H10",
+    "codename": "Primo_H10"
+  },
+  {
+    "brand": "Walton",
     "name": "Primo H6+",
     "codename": "Primo_H6_Plus"
   },
@@ -163161,6 +163301,11 @@
   },
   {
     "brand": "X-TIGI",
+    "name": "9A",
+    "codename": "9A"
+  },
+  {
+    "brand": "X-TIGI",
     "name": "9C",
     "codename": "9C"
   },
@@ -164788,6 +164933,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi Civi",
     "codename": "mona"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Pad 5",
+    "codename": "nabu"
   },
   {
     "brand": "Xiaomi",
@@ -174661,6 +174811,11 @@
   },
   {
     "brand": "Zuum",
+    "name": "STELLAR P4",
+    "codename": "STELLAR_P4"
+  },
+  {
+    "brand": "Zuum",
     "name": "STELLAR PLUS",
     "codename": "STELLAR_PLUS"
   },
@@ -177211,6 +177366,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme 9i\t",
+    "codename": "RED8C1L1"
+  },
+  {
+    "brand": "realme",
     "name": "realme C11 2021",
     "codename": "RMX3231"
   },
@@ -177693,6 +177853,11 @@
     "brand": "weelikeit",
     "name": "C81W",
     "codename": "C81W"
+  },
+  {
+    "brand": "weelikeit",
+    "name": "C81W_EEA",
+    "codename": "C81W_EEA"
   },
   {
     "brand": "weelikeit",

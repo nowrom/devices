@@ -16,3 +16,14 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Haridhayal"
 active = false
+
+[specs]
+cpu = "Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)"
+weight = "165 g (5.82 oz)"
+year = "2019, February 25"
+os = "Android 9.0 (Pie), upgradable to Android 10, One UI 2.0"
+chipset = "Exynos 7904 (14 nm)"
+gpu = "Mali-G71 MP2"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 92h"
+internalmemory = "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"

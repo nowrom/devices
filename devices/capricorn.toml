@@ -26,3 +26,14 @@ deprecated = true
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4207137"
 deprecated = true
+
+[specs]
+cpu = "Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)"
+weight = "145 g (5.11 oz)"
+year = "2016, September. Released 2016, October"
+os = "Android 6.0 (Marshmallow), upgradable to 7.0 (Nougat), MIUI 10"
+chipset = "Qualcomm MSM8996 Snapdragon 821 (14 nm)"
+gpu = "Adreno 530"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 84h"
+internalmemory = "64GB 3GB RAM, 128GB 4GB RAM"

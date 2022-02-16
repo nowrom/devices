@@ -78,8 +78,8 @@ id = "potato"
 
 [[roms]]
 id = "sparkos"
-group = "t.me/spsalioth"
-download = "https://downloads.spark-os.live/alioth/Spark-S-Energized-Official-alioth-20220125.zip"
+group = "https://t.me/SparkOSCommunity"
+download = "https://downloads.spark-os.live/alioth/Spark-12.0-Official-alioth-20220215.zip"
 
 [[roms]]
 id = "syberia"
