@@ -1,6 +1,6 @@
-brand = "Redmi"
+brand = "Xiaomi"
 codename = "mojito"
-name = "Redmi Note 10"
+name = "Xiaomi Redmi Note 10"
 
 [[recoveries]]
 id = "orangefox"

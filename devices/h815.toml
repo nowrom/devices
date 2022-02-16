@@ -1,14 +1,14 @@
 brand = "LG"
 codename = "h815"
-name = "G4 (International)"
+name = "LG G4"
 
 [[recoveries]]
 id = "twrp"
-xdathread = "http://forum.xda-developers.com/g4/development/recovery-twrp-3-touch-recovery-t3442424"
 maintainer = "steadfasterX"
 
 [[recoveries]]
 id = "twrp"
+xdathread = "http://forum.xda-developers.com/g4/development/recovery-twrp-3-touch-recovery-t3442424"
 maintainer = "steadfasterX"
 
 [[roms]]

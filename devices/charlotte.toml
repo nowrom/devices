@@ -1,6 +1,6 @@
 brand = "Huawei"
 codename = "charlotte"
-name = "P20 Pro"
+name = "Huawei P20 Pro"
 
 [[recoveries]]
 id = "twrp"

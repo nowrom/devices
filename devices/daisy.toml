@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 codename = "daisy"
-name = "Mi A2 Lite"
+name = "Xiaomi Mi A2 Lite"
 
 [[recoveries]]
 id = "orangefox"

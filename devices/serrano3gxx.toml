@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "serrano3gxx"
-name = "Galaxy S4 Mini (International 3G)"
+name = "Samsung Galaxy S4 Mini (International 3G)"
 
 [[recoveries]]
 id = "twrp"

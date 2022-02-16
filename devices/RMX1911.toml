@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "orangefox"
 supported = false
+
+[specs]
+cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680"
+weight = "186 g (6.56 oz)"
+year = "2021, March 04"
+os = "Android 11, upgradable to Android 12, Realme UI 3.0"
+chipset = "Qualcomm SM8350 Snapdragon 888 5G (5 nm)"
+gpu = "Adreno 660"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 98h"
+internalmemory = "128GB 8GB RAM, 256GB 12GB RAM"

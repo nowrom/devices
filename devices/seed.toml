@@ -1,6 +1,6 @@
 brand = "Google"
 codename = "seed"
-name = "Android One 2nd Gen"
+name = "Android One Second Generation Qualcomm"
 
 [[recoveries]]
 id = "orangefox"
