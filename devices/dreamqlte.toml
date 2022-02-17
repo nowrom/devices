@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/galaxy-s8/samsung-galaxy-s8--s8-cross-device-development/recovery-twrp-galaxy-s8-s8-snapdragon-t3636718"
 maintainer = "jesec"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

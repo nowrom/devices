@@ -26,3 +26,14 @@ deprecated = true
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-unoffical-hero2lte-pixelexperience-aosp.4276771/"
 deprecated = true
+
+[specs]
+cpu = "Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo) - G9350Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53) - G935FD, G935F, G935W8"
+weight = "157 g (5.54 oz)"
+year = "2016, February 21. Released 2016, March 11"
+os = "Android 6.0 (Marshmallow), upgradable to Android 8.0 (Oreo), TouchWiz UI"
+chipset = "Qualcomm MSM8996 Snapdragon 820 (14 nm) - G9350Exynos 8890 Octa (14 nm) - G935FD, G935F, G935W8"
+gpu = "Adreno 530 - G9350Mali-T880 MP12 - G935FD, G935F, G935W8"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2"
+batlife = "Endurance rating 92h"
+internalmemory = "32GB 4GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"

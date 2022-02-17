@@ -1,6 +1,6 @@
 brand = "BQ"
 codename = "vegetalte"
-name = "BQ Aquaris E5 4G"
+name = "Aquaris E5 4G / Aquaris E5s"
 
 [[recoveries]]
 id = "twrp"

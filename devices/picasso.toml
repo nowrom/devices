@@ -9,7 +9,7 @@ supported = true
 [[roms]]
 id = "arrowos"
 maintainer = "Lynnrin"
-changelog = "- Initial stable official build"
+changelog = "- Block FPC fingerprint key event"
 
 [[roms]]
 id = "legionos"

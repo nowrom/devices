@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "kaneawk"
+
+[specs]
+cpu = "Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)"
+weight = "169 g (5.96 oz)"
+year = "2015, November. Released 2015, November"
+os = "Android 5.1.1 (Lollipop), upgradable to 7.0 (Nougat)"
+chipset = "Qualcomm MSM8994 Snapdragon 810 (20 nm)"
+gpu = "Adreno 430"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 78h"
+internalmemory = "32GB 3GB RAM, 64GB 3GB RAM"

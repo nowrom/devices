@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/redmi-note-8/development/recovery-unofficial-twrp-xiaomi-redmi-t3997267"
 maintainer = "erwinabs"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

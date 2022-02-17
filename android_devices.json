@@ -21500,6 +21500,11 @@
     "codename": "CT311T"
   },
   {
+    "brand": "Compaq",
+    "name": "QTab8",
+    "codename": "QTab8"
+  },
+  {
     "brand": "Concord",
     "name": "A10",
     "codename": "A10"
@@ -59131,6 +59136,11 @@
   },
   {
     "brand": "ITAB",
+    "name": "ITAB_X40L_Plus",
+    "codename": "ITAB_X40L_Plus"
+  },
+  {
+    "brand": "ITAB",
     "name": "X40L",
     "codename": "X40L"
   },
@@ -65033,6 +65043,11 @@
     "brand": "KEMPLER STRAUSS",
     "name": "KEMPLER_P1",
     "codename": "KEMPLER_P1"
+  },
+  {
+    "brand": "KEMPLER STRAUSS",
+    "name": "KEMPLER_P1_AMATEUR_PLUS",
+    "codename": "KEMPLER_P1_AMATEUR_PLUS"
   },
   {
     "brand": "KEMPLER STRAUSS",
@@ -85036,6 +85051,11 @@
   },
   {
     "brand": "Maxwest",
+    "name": "Astro 55T",
+    "codename": "Astro_55T"
+  },
+  {
+    "brand": "Maxwest",
     "name": "Astro 5N LTE",
     "codename": "Astro_5N_LTE"
   },
@@ -96721,7 +96741,7 @@
   },
   {
     "brand": "Newland",
-    "name": "NLS-MT6555-GL",
+    "name": "NLS-MT6755-GL",
     "codename": "NLS-MT6755-GL"
   },
   {
@@ -97586,6 +97606,11 @@
   },
   {
     "brand": "Nokia",
+    "name": "Nokia G11",
+    "codename": "SCT_sprout"
+  },
+  {
+    "brand": "Nokia",
     "name": "Nokia G20",
     "codename": "RNN"
   },
@@ -97598,6 +97623,21 @@
     "brand": "Nokia",
     "name": "Nokia G20",
     "codename": "RNN_sprout"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia G21",
+    "codename": "SCP"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia G21",
+    "codename": "SCPA_sprout"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia G21",
+    "codename": "SCP_sprout"
   },
   {
     "brand": "Nokia",
@@ -99053,6 +99093,11 @@
     "brand": "OnePlus",
     "name": "OnePlus 8 Pro",
     "codename": "OnePlus8Pro"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 8T",
+    "codename": "OnePlus8T"
   },
   {
     "brand": "OnePlus",
@@ -124893,6 +124938,11 @@
     "brand": "Samsung",
     "name": "Galaxy S21 5G",
     "codename": "o1s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S21 FE 5G",
+    "codename": "r9q"
   },
   {
     "brand": "Samsung",
@@ -154921,6 +154971,11 @@
   },
   {
     "brand": "VUCATIMES",
+    "name": "VucaPad_N20PRO",
+    "codename": "VucaPad_N20PRO"
+  },
+  {
+    "brand": "VUCATIMES",
     "name": "VucaPad_N20_LTE",
     "codename": "VucaPad_N20_LTE"
   },
@@ -173196,6 +173251,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade A51",
+    "codename": "Z6355O"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade A51 Lite",
     "codename": "P963F50_A"
   },
@@ -174298,6 +174358,11 @@
     "brand": "Zexelon",
     "name": "ZTAB01B",
     "codename": "ZTAB01B"
+  },
+  {
+    "brand": "Zigo",
+    "name": "EON_9",
+    "codename": "EON_9"
   },
   {
     "brand": "Zigo",
@@ -177148,6 +177213,11 @@
     "brand": "kozen",
     "name": "T5",
     "codename": "T05"
+  },
+  {
+    "brand": "memetech",
+    "name": "P30",
+    "codename": "P30"
   },
   {
     "brand": "mytel",
