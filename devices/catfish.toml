@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/smartwatch/other-smartwatches/recovery-official-twrp-ticwatch-pro-t3862998"
 maintainer = "Isaac Chen"
+
+[specs]
+cpu = "Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver)"
+weight = "195 g (6.88 oz)"
+year = "2022, February 16"
+os = "Android 12, Realme UI 3.0"
+chipset = "Qualcomm SM6375 Snapdragon 695 5G (6 nm)"
+gpu = "Adreno 619"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 134h"
+internalmemory = "128GB 6GB RAM, 128GB 8GB RAM"

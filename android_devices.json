@@ -44321,11 +44321,6 @@
   },
   {
     "brand": "Handheld Group",
-    "name": "HTA11",
-    "codename": "HTA11"
-  },
-  {
-    "brand": "Handheld Group",
     "name": "HandHeld NAUTIZ X2",
     "codename": "NAUTIZ_X2"
   },
@@ -44403,6 +44398,11 @@
     "brand": "Handsfree",
     "name": "R5",
     "codename": "R5"
+  },
+  {
+    "brand": "Handtop",
+    "name": "HTA11",
+    "codename": "HTA11"
   },
   {
     "brand": "HannSpree",
@@ -60137,11 +60137,6 @@
   {
     "brand": "Infinix",
     "name": "Infinix NOTE 11",
-    "codename": "Infinix-X663"
-  },
-  {
-    "brand": "Infinix",
-    "name": "Infinix NOTE 11",
     "codename": "Infinix-X663B"
   },
   {
@@ -60238,6 +60233,11 @@
     "brand": "Infinix",
     "name": "Infinix ZERO8",
     "codename": "Infinix-X687"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE",
+    "codename": "Infinix-X663"
   },
   {
     "brand": "Infinix",
@@ -109433,6 +109433,11 @@
     "brand": "Prestigio",
     "name": "PMT4337_3G_RU",
     "codename": "HP70A15G"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "PMT4511_4G_EEA",
+    "codename": "HP10A17L"
   },
   {
     "brand": "Prestigio",

@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/u12-plus/development/recovery-unofficial-twrp-3-2-2-0-htc-t3819343"
 maintainer = "freak07, Captain_Throwback"
+
+[specs]
+cpu = "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"
+weight = "188 g (6.63 oz)"
+year = "2018, May 23"
+os = "Android 8.0 (Oreo), upgradable to Android 9.0 (Pie), Sense UI"
+chipset = "Qualcomm SDM845 Snapdragon 845 (10 nm)"
+gpu = "Adreno 630"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 64h"
+internalmemory = "64GB 6GB RAM, 128GB 6GB RAM"

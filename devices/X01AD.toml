@@ -14,7 +14,7 @@ maintainer = "rohanpls"
 [[roms]]
 id = "arrowos"
 maintainer = "Arka"
-changelog = "- Improve HWUI\r\n- Improve smoothness"
+changelog = "- Initial A12 build"
 
 [[roms]]
 id = "dotos"

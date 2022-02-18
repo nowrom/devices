@@ -25,6 +25,11 @@ id = "blissroms"
 id = "cherishos"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/"
+recovery = "https://t.me/pitchblackrecovery/1303"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

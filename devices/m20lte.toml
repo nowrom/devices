@@ -22,3 +22,14 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-r-offic
 maintainer_url = "https://forum.xda-developers.com/m/haridhayal.9053429"
 maintainer_name = "Haridhayal"
 active = false
+
+[specs]
+cpu = "Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)"
+weight = "186 g (6.56 oz)"
+year = "2019, January 28"
+os = "Android 8.1 (Oreo), upgradable to Android 10, One UI 2"
+chipset = "Exynos 7904 (14 nm)"
+gpu = "Mali-G71 MP2"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 103h"
+internalmemory = "32GB 3GB RAM, 64GB 4GB RAM"

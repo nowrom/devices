@@ -35,3 +35,14 @@ version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4368775/"
 stable = true
 deprecated = false
+
+[specs]
+cpu = "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA/LATAMOcta-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485) - USA/China"
+weight = "157 g (5.54 oz)"
+year = "2019, February 20"
+os = "Android 9.0 (Pie), upgradable to Android 12, One UI 4"
+chipset = "Exynos 9820 (8 nm) - EMEA/LATAMQualcomm SM8150 Snapdragon 855 (7 nm) - USA/China"
+gpu = "Mali-G76 MP12 - EMEA/LATAMAdreno 640 - USA/China"
+sensors = "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2"
+batlife = "Endurance rating 79h"
+internalmemory = "128GB 6GB RAM, 128GB 8GB RAM, 512GB 8GB RAM"
