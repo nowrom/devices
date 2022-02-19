@@ -14,3 +14,14 @@ changelog = "-"
 
 [[roms]]
 id = "pixyos"
+
+[specs]
+cpu = "Quad-core 2.5 GHz Krait 400"
+weight = "179 g (6.31 oz)"
+year = "2014, August. Released 2014, September"
+os = "Android 4.4.2 (KitKat), upgradable to 5.0.2 (Lollipop)"
+chipset = "Qualcomm MSM8974AC Snapdragon 801 (28 nm)"
+gpu = "Adreno 330"
+sensors = "Accelerometer, proximity, compass"
+batlife = "Endurance rating 76h"
+internalmemory = "32GB 3GB RAM"

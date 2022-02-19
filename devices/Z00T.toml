@@ -1,6 +1,6 @@
-brand = "ASUS"
+brand = "Asus"
 codename = "Z00T"
-name = "Zenfone 2 Laser/Selfie (1080p)"
+name = "Asus ZenFone 2 Laser 1080p"
 
 [[recoveries]]
 id = "twrp"
@@ -11,3 +11,14 @@ id = "lineageos"
 cpu = "Cortex-A53"
 ram = "2/3 GB"
 wifi = "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

@@ -17596,6 +17596,11 @@
   },
   {
     "brand": "Brondi",
+    "name": "AMICO_SMARTPHONE_XS_EEA",
+    "codename": "AMICO_SMARTPHONE_XS"
+  },
+  {
+    "brand": "Brondi",
     "name": "MIDNIGHT_SKY_EEA",
     "codename": "MIDNIGHT_SKY_EEA"
   },
@@ -43962,6 +43967,11 @@
   {
     "brand": "Haier",
     "name": "M53-52401",
+    "codename": "M53-524O1"
+  },
+  {
+    "brand": "Haier",
+    "name": "M53-52401",
     "codename": "M5352401"
   },
   {
@@ -67596,6 +67606,11 @@
   },
   {
     "brand": "Kyocera",
+    "name": "DIGNO SANGA edition",
+    "codename": "KC-S304"
+  },
+  {
+    "brand": "Kyocera",
     "name": "DIGNO SX2",
     "codename": "KY21L-ST100"
   },
@@ -67618,6 +67633,11 @@
     "brand": "Kyocera",
     "name": "DIGNO W",
     "codename": "KYV40"
+  },
+  {
+    "brand": "Kyocera",
+    "name": "DIGNO WX",
+    "codename": "KC-S303"
   },
   {
     "brand": "Kyocera",
@@ -67888,6 +67908,11 @@
     "brand": "Kyocera",
     "name": "KC-T302DT",
     "codename": "SZJ202"
+  },
+  {
+    "brand": "Kyocera",
+    "name": "KC-T303DT",
+    "codename": "SZJ203"
   },
   {
     "brand": "Kyocera",
@@ -99096,6 +99121,11 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus 8 Pro",
+    "codename": "OnePlus8Pro"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus 8T",
     "codename": "OnePlus8T"
   },
@@ -101043,6 +101073,16 @@
     "brand": "Oppo",
     "name": "OPPO Watch",
     "codename": "orca"
+  },
+  {
+    "brand": "Oppo",
+    "name": "PDKM00",
+    "codename": "OP4ABB"
+  },
+  {
+    "brand": "Oppo",
+    "name": "PDKT00",
+    "codename": "OP4ABB"
   },
   {
     "brand": "Oppo",
@@ -103493,6 +103533,11 @@
     "brand": "POCO",
     "name": "POCO M3 Pro 5G",
     "codename": "camellian"
+  },
+  {
+    "brand": "POCO",
+    "name": "POCO M4 Pro",
+    "codename": "fleur"
   },
   {
     "brand": "POCO",
@@ -115841,26 +115886,6 @@
   },
   {
     "brand": "SPC Mobile",
-    "name": "SMART_MAX_2",
-    "codename": "SMART_MAX_2"
-  },
-  {
-    "brand": "SPC Mobile",
-    "name": "SMART_PRO",
-    "codename": "SMART_PRO"
-  },
-  {
-    "brand": "SPC Mobile",
-    "name": "SMART_PRO",
-    "codename": "SMART_PRO_EEA"
-  },
-  {
-    "brand": "SPC Mobile",
-    "name": "SMART_ULTIMATE",
-    "codename": "SMART_ULTIMATE"
-  },
-  {
-    "brand": "SPC Mobile",
     "name": "X1",
     "codename": "SPC_X1"
   },
@@ -115943,6 +115968,26 @@
     "brand": "SPC Universe",
     "name": "SMART  2",
     "codename": "SMART_2"
+  },
+  {
+    "brand": "SPC Universe",
+    "name": "SMART_MAX_2",
+    "codename": "SMART_MAX_2"
+  },
+  {
+    "brand": "SPC Universe",
+    "name": "SMART_PRO",
+    "codename": "SMART_PRO"
+  },
+  {
+    "brand": "SPC Universe",
+    "name": "SMART_PRO",
+    "codename": "SMART_PRO_EEA"
+  },
+  {
+    "brand": "SPC Universe",
+    "name": "SMART_ULTIMATE",
+    "codename": "SMART_ULTIMATE"
   },
   {
     "brand": "SPC Universe",
@@ -116793,6 +116838,11 @@
     "brand": "Safaricom",
     "name": "SFCSTB2LITE",
     "codename": "SFCSTB2LITE"
+  },
+  {
+    "brand": "Safaricom",
+    "name": "Safaricom ET Kimem",
+    "codename": "Safaricom_ET_Kimem"
   },
   {
     "brand": "Sagemcom",
@@ -135041,6 +135091,16 @@
   },
   {
     "brand": "Sony",
+    "name": "BRAVIA_VU3",
+    "codename": "BRAVIA_VU3_2K"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA_VU3",
+    "codename": "BRAVIA_VU3_4K"
+  },
+  {
+    "brand": "Sony",
     "name": "Ericsson Live with Walkman",
     "codename": "WT19a"
   },
@@ -149136,6 +149196,16 @@
   },
   {
     "brand": "Teclast",
+    "name": "T40Pro_YKM_EEA",
+    "codename": "T40Pro_YKM_EEA"
+  },
+  {
+    "brand": "Teclast",
+    "name": "T40Pro_YKM_ROW",
+    "codename": "T40Pro_YKM_ROW"
+  },
+  {
+    "brand": "Teclast",
     "name": "T40_Plus_EEA",
     "codename": "T40_Plus_EEA"
   },
@@ -151850,6 +151920,11 @@
     "codename": "mdt1060"
   },
   {
+    "brand": "Torex",
+    "name": "Rugged_tablets",
+    "codename": "Torex8plus"
+  },
+  {
     "brand": "Toshiba",
     "name": "WDPF-703TI",
     "codename": "WDPF-703TI"
@@ -153977,6 +154052,11 @@
   {
     "brand": "Umidigi",
     "name": "BISON X10G NFC",
+    "codename": "BISON_X10G_NFC"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "BISON X10G NFC EEA",
     "codename": "BISON_X10G_NFC"
   },
   {

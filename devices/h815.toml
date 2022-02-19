@@ -1,6 +1,6 @@
 brand = "LG"
 codename = "h815"
-name = "G4 (International)"
+name = "LG G4"
 
 [[recoveries]]
 id = "twrp"

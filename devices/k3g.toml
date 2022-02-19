@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-6-0_9-recovery-k3g.4401639/"
 maintainer = "akhil1999"
+
+[specs]
+cpu = "Quad-core 2.5 GHz Krait 400"
+weight = "145 g (5.11 oz)"
+year = "2014, February. Released 2014, April"
+os = "Android 4.4.2 (KitKat), upgradable to 6.0 (Marshmallow), TouchWiz UI"
+chipset = "Qualcomm MSM8974AC Snapdragon 801 (28 nm)"
+gpu = "Adreno 330"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, gesture, heart rate"
+batlife = "Endurance rating 83h"
+internalmemory = "16GB 2GB RAM, 32GB 2GB RAM"

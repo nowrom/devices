@@ -1,6 +1,6 @@
 brand = "Sony"
 codename = "hayabusa"
-name = "Xperia TX"
+name = "Sony Xperia TX"
 
 [[recoveries]]
 id = "twrp"

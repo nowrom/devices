@@ -49,3 +49,14 @@ xda_thread = "https://forum.xda-developers.com/t/rom-official-11-0-ocean-project
 maintainer_url = "https://forum.xda-developers.com/m/hisoka_simp.11481799/"
 maintainer_name = "hisoka_simp"
 active = false
+
+[specs]
+cpu = "Octa-core (1x2.99 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"
+weight = "202 g (7.13 oz)"
+year = "2021, November 18"
+os = "Android 11"
+chipset = "Qualcomm SM8350 Snapdragon 888+ 5G (5 nm)"
+gpu = "Adreno 660"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 102h"
+internalmemory = "128GB 8GB RAM, 256GB 8GB RAM"

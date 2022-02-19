@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/nabi-2/general/nabi-nabi-se-discussion-thread-t3770816"
 maintainer = "huckleberrypie"
+
+[specs]
+cpu = "Dual-core 1.84 GHz Twister"
+weight = "113 g (3.99 oz)"
+year = "2016, March 21. Released 2016, March 31"
+os = "iOS 9.3.2, upgradable to iOS 15.3"
+chipset = "Apple A9 (14 nm)"
+gpu = "PowerVR GT7600 (six-core graphics)"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 73h"
+internalmemory = "16GB 2GB RAM, 32GB 2GB RAM, 64GB 2GB RAM, 128GB 2GB RAM"

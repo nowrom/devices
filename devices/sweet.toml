@@ -22,7 +22,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "daniml3"
-changelog = "12/11/2021\r\n• Improved power management\r\n• Switched back to schedutil governor\r\n• Cleaned unneeded vendor libraries\r\n\r\n28/10/2021\r\n• Fixed cutout color being inverted with the \"Force dark theme\" setting\r\n• Fixed minimum frequency being 1248MHz\r\n• Fixed WFD\r\n• Added Spanish translations to the device specific settings"
+changelog = "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n11/09/2021\r\n• Fixed front camera video recording on MIUI camera"
 
 [[roms]]
 id = "crdroid"

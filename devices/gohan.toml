@@ -1,6 +1,6 @@
 brand = "BQ"
 codename = "gohan"
-name = "Aquaris X5 Plus"
+name = "BQ Aquaris X5 Plus (gohan)"
 
 [[recoveries]]
 id = "twrp"

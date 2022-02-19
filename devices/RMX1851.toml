@@ -36,3 +36,14 @@ deprecated = true
 version_code = "eleven_plus"
 stable = true
 deprecated = true
+
+[specs]
+cpu = "Octa-core (2x2.5 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)"
+weight = "182 g (6.42 oz)"
+year = "2022, February 16"
+os = "Android 12, Realme UI 3.0"
+chipset = "MediaTek Dimensity 920 5G (6 nm)"
+gpu = "Mali-G68 MC4"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 117h"
+internalmemory = "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"

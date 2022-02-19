@@ -1,6 +1,6 @@
 brand = "Sony"
 codename = "tsubasa"
-name = "Xperia V"
+name = "Sony Xperia V"
 
 [[recoveries]]
 id = "twrp"
@@ -12,3 +12,14 @@ id = "lineageos"
 cpu = "Krait"
 ram = "1 GB"
 wifi = "802.11 2.4GHz a/b/g/n 5GHz, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+
+[specs]
+cpu = "1.0 GHz Scorpion"
+weight = "126 g (4.44 oz)"
+year = "2011, August. Released 2011, October"
+os = "Android 2.3.4 (Gingerbread), upgradable to 4.0 (Ice Cream Sandwich)"
+chipset = "Qualcomm MSM8255 Snapdragon S2"
+gpu = "Adreno 205"
+sensors = "Accelerometer, proximity, compass"
+batlife = "Endurance rating 42h"
+internalmemory = "1GB (320MB user available), 512MB RAM"

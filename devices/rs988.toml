@@ -1,6 +1,6 @@
 brand = "LG"
 codename = "rs988"
-name = "G5 (US Unlocked)"
+name = "LG G5 US Carrier-Unlocked"
 
 [[recoveries]]
 id = "orangefox"
