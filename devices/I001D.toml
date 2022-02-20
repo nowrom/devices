@@ -1,6 +1,6 @@
-brand = "Asus"
+brand = "ASUS"
 codename = "I001D"
-name = "ASUS ROG Phone II"
+name = "ROG Phone 2 (ZS660KL)"
 
 [[recoveries]]
 id = "twrp"

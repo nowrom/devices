@@ -1,6 +1,6 @@
-brand = "Asus"
+brand = "ASUS"
 codename = "X01AD"
-name = "ASUS ZenFone Max M2"
+name = "Zenfone Max M2"
 
 [[recoveries]]
 id = "orangefox"

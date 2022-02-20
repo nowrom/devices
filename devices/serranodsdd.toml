@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "serranodsdd"
-name = "Samsung Galaxy S4 Mini (International Dual SIM)"
+name = "Galaxy S4 Mini (International Dual SIM)"
 
 [[recoveries]]
 id = "twrp"

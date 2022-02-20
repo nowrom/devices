@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "i9100"
-name = "Samsung Galaxy S II (International)"
+name = "Galaxy S II"
 
 [[recoveries]]
 id = "twrp"

@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/galaxy-s4/i9505-orig-develop/recovery-twrp-3-2-1-0-t3742880"
 maintainer = "ripee"
+
+[specs]
+cpu = "Octa-core (4x1.6 GHz Cortex-A15 & 4x1.2 GHz Cortex-A7)"
+weight = "130 g (4.59 oz)"
+year = "2013, March. Released 2013, April"
+os = "Android 4.2.2 (Jelly Bean), upgradable to 5.0.1 (Lollipop), TouchWiz UI"
+chipset = "Exynos 5410 Octa (28 nm)"
+gpu = "PowerVR SGX544MP3"
+sensors = "Accelerometer, gyro, proximity, compass, barometer, temperature, humidity, gesture"
+batlife = "Endurance rating 65h"
+internalmemory = "16GB 2GB RAM, 32GB 2GB RAM, 64GB 2GB RAM"

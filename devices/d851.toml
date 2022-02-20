@@ -1,6 +1,6 @@
 brand = "LG"
 codename = "d851"
-name = "LG G3 T-Mobile"
+name = "G3 (T-Mobile)"
 
 [[recoveries]]
 id = "twrp"

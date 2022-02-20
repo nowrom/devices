@@ -1,6 +1,6 @@
 brand = "LG"
 codename = "us996"
-name = "LG V20 US Unlocked"
+name = "V20 (US Unlocked)"
 
 [[recoveries]]
 id = "twrp"

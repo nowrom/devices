@@ -1,6 +1,6 @@
 brand = "LG"
 codename = "h910"
-name = "LG V20 AT&T"
+name = "V20 (AT&T)"
 
 [[recoveries]]
 id = "twrp"

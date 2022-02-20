@@ -1,6 +1,6 @@
 brand = "LG"
 codename = "h811"
-name = "LG G4"
+name = "G4 (T-Mobile)"
 
 [[recoveries]]
 id = "twrp"
@@ -16,3 +16,14 @@ id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A57"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
+
+[specs]
+cpu = "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57)"
+weight = "155 g (5.47 oz)"
+year = "2015, April 28. Released 2015, April 29"
+os = "Android 5.1.1 (Lollipop), upgradable to 7.0 (Nougat), LG UX 4 UI"
+chipset = "Qualcomm MSM8992 Snapdragon 808 (20 nm)"
+gpu = "Adreno 418"
+sensors = "Accelerometer, gyro, proximity, compass, barometer, color spectrum"
+batlife = "Endurance rating 54h"
+internalmemory = "32GB 3GB RAM"

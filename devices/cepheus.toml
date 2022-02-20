@@ -24,6 +24,12 @@ gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
 recovery = "https://forum.xda-developers.com/t/recovery-3-4-0-10-cepheus-official-unofficial-twrp-for-xiaomi-mi-9-stable.3905825/"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_cepheus","kernel_xiaomi_cepheus","vendor_xiaomi_cepheus","vendor_xiaomi-firmware"]
 

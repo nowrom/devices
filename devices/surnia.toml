@@ -1,6 +1,6 @@
 brand = "Motorola"
 codename = "surnia"
-name = "Motorola Moto E LTE"
+name = "Moto E 2015 LTE"
 
 [[recoveries]]
 id = "twrp"

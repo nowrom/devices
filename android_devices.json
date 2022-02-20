@@ -5811,6 +5811,11 @@
   },
   {
     "brand": "Aqua",
+    "name": "AQUA Android TV DVB",
+    "codename": "dupont"
+  },
+  {
+    "brand": "Aqua",
     "name": "AQUA Android TV DVB2K",
     "codename": "broadway"
   },
@@ -43501,6 +43506,11 @@
   },
   {
     "brand": "Haier",
+    "name": "CANDY Android TV DVB",
+    "codename": "dupont"
+  },
+  {
+    "brand": "Haier",
     "name": "CANDY Android TV DVB2K",
     "codename": "broadway"
   },
@@ -43688,6 +43698,11 @@
     "brand": "Haier",
     "name": "HEC Android TV",
     "codename": "hanyang"
+  },
+  {
+    "brand": "Haier",
+    "name": "HEC Android TV DVB",
+    "codename": "dupont"
   },
   {
     "brand": "Haier",
@@ -59461,6 +59476,11 @@
   },
   {
     "brand": "IkuMobile",
+    "name": "A6_2022",
+    "codename": "A6_2022"
+  },
+  {
+    "brand": "IkuMobile",
     "name": "A70",
     "codename": "A70"
   },
@@ -63498,6 +63518,11 @@
     "brand": "Itel",
     "name": "itel A24",
     "codename": "itel-L5007"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel A27(P17 Pro 4G)",
+    "codename": "itel-A551L"
   },
   {
     "brand": "Itel",
@@ -99011,6 +99036,11 @@
   },
   {
     "brand": "OnePlus",
+    "name": "D00",
+    "codename": "Dubai"
+  },
+  {
+    "brand": "OnePlus",
     "name": "One",
     "codename": "A0001"
   },
@@ -99097,6 +99127,16 @@
   {
     "brand": "OnePlus",
     "name": "OnePlus 8",
+    "codename": "OnePlus8"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 8",
+    "codename": "OnePlus8"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 8",
     "codename": "OnePlus8Visible"
   },
   {
@@ -99123,6 +99163,11 @@
     "brand": "OnePlus",
     "name": "OnePlus 8 Pro",
     "codename": "OnePlus8Pro"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 8T",
+    "codename": "OnePlus8T"
   },
   {
     "brand": "OnePlus",
@@ -103333,6 +103378,11 @@
     "brand": "PCD Argentina",
     "name": "P55",
     "codename": "P55"
+  },
+  {
+    "brand": "PCD Argentina",
+    "name": "P60 CENAM",
+    "codename": "P60_CENAM"
   },
   {
     "brand": "PCD Argentina",
@@ -113938,6 +113988,11 @@
     "brand": "Redmi",
     "name": "Redmi K40 Pro +",
     "codename": "haydn"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi K50G",
+    "codename": "ingres"
   },
   {
     "brand": "Redmi",
@@ -150178,6 +150233,11 @@
     "brand": "Tecno",
     "name": "SPARK 8 Pro",
     "codename": "TECNO-KG8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 8 Pro",
+    "codename": "TECNO-Mobile-KG8"
   },
   {
     "brand": "Tecno",

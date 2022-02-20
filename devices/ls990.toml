@@ -1,6 +1,6 @@
 brand = "LG"
 codename = "ls990"
-name = "LG G3 Sprint"
+name = "G3 (Sprint)"
 
 [[recoveries]]
 id = "twrp"
@@ -11,3 +11,14 @@ id = "lineageos"
 cpu = "Krait 400"
 ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
+
+[specs]
+cpu = "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"
+weight = "167 g (5.89 oz)"
+year = "2019, February 24"
+os = "Android 9.0 (Pie), upgradable to Android 10, LG UX 9.0"
+chipset = "Qualcomm SM8150 Snapdragon 855 (7 nm)"
+gpu = "Adreno 640"
+sensors = "Face ID, Hand ID, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 79h"
+internalmemory = "128GB 6GB RAM"

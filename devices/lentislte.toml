@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "lentislte"
-name = "Samsung Galaxy S5 LTE-A"
+name = "Galaxy S5 LTE-A"
 
 [[recoveries]]
 id = "twrp"

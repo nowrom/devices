@@ -1,6 +1,6 @@
 brand = "HTC"
 codename = "pme"
-name = "HTC 10"
+name = "10"
 
 [[recoveries]]
 id = "twrp"

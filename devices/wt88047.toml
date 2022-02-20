@@ -1,6 +1,6 @@
 brand = "Wingtech"
 codename = "wt88047"
-name = "Wingtech Redmi 2"
+name = "Redmi 2"
 
 [[recoveries]]
 id = "twrp"

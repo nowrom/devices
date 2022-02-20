@@ -1,6 +1,6 @@
 brand = "Huawei"
 codename = "anne"
-name = "Huawei P20 Lite"
+name = "P20 Lite"
 
 [[recoveries]]
 id = "twrp"
@@ -12,3 +12,14 @@ id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Hotspot"
+
+[specs]
+cpu = "Octa-core (4x2.36 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)"
+weight = "145 g (5.11 oz)"
+year = "2018, March 20"
+os = "Android 8.0 (Oreo), upgradable to Android 9.0 (Pie), EMUI 9.0"
+chipset = "Kirin 659 (16 nm)"
+gpu = "Mali-T830 MP2"
+sensors = "Fingerprint (rear-mounted), accelerometer, gyro (except LX2, AL00), proximity, compass"
+batlife = "Endurance rating 77h"
+internalmemory = "32GB 4GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"

@@ -1,6 +1,6 @@
 brand = "Sony"
 codename = "mermaid"
-name = "Sony Xperia 10 Plus"
+name = "Xperia 10 Plus"
 
 [[recoveries]]
 id = "twrp"

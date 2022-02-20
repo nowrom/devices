@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "http://forum.xda-developers.com/showthread.php?t=3060188"
 maintainer = "None"
+
+[specs]
+cpu = "Hexa-core (2x Monsoon + 4x Mistral)"
+weight = "148 g (5.22 oz)"
+year = "2017, September 12"
+os = "iOS 11, upgradable to iOS 15.3"
+chipset = "Apple A11 Bionic (10 nm)"
+gpu = "Apple GPU (three-core graphics)"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 66h"
+internalmemory = "64GB 2GB RAM, 128GB 2GB RAM, 256GB 2GB RAM"
