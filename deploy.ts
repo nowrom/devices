@@ -50,12 +50,23 @@ function phoneParse(req: AugmentedRequest) {
 		);
 		updateRe(r ? [r] : []);
 	}
-	const r = new Response(JSON.stringify(re), {
-		headers: {
-			'content-type': 'application/json',
-			'Access-Control-Allow-Origin': '*',
-		},
-	});
+	const r = new Response(
+		JSON.stringify(
+			re.map((x) => ({
+				codename: x.codename,
+				brand: x.brand,
+				name: x.name,
+				roms: x?.roms?.map?.((x) => x.id),
+				recoveries: x?.recoveries?.map?.((x) => x.id),
+			}))
+		),
+		{
+			headers: {
+				'content-type': 'application/json',
+				'Access-Control-Allow-Origin': '*',
+			},
+		}
+	);
 	return r;
 }
 
