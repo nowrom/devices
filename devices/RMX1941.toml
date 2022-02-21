@@ -7,6 +7,11 @@ id = "twrp"
 maintainer = "Siddk"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://bitgapps.github.io/"
+recovery = ""
+
+[[roms]]
 id = "pixelextended"
 
 [[roms]]

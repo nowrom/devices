@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "orangefox"
 supported = false
+
+[specs]
+cpu = "Octa-core 1.6 GHz Cortex-A53"
+weight = "160 g (5.64 oz)"
+year = "2017, June"
+os = "Android 7.0 (Nougat), upgradable to Android 9.0 (Pie), One UI"
+chipset = "Exynos 7870 Octa (14 nm)"
+gpu = "Mali-T830 MP1"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 97h"
+internalmemory = "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM"

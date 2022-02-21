@@ -6,7 +6,7 @@ roms = []
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-5-2-for-galaxy-a72-4g.4278031/"
-maintainer = "Velosh"
+maintainer = "Velosh, Simon1511"
 
 [specs]
 cpu = "Octa-core (2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver)"
