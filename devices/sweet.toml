@@ -81,6 +81,13 @@ id = "pixyos"
 id = "potato"
 
 [[roms]]
+id = "sakura"
+xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-2-official-sweet-monthly-updates-gapps-core.4405825/"
+maintainer_url = "https://forum.xda-developers.com/m/dhimanparas20.8789230/"
+maintainer_name = "Paras Dhiman"
+active = true
+
+[[roms]]
 id = "sparkos"
 group = "https://t.me/Spark_sweet"
 download = "https://downloads.spark-os.live/sweet/Spark-12.0-Official-sweet-20220213.zip"

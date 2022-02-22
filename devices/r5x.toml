@@ -6,7 +6,7 @@ recoveries = []
 [[roms]]
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
-changelog = "Enforcing\r\nFeb Patch"
+changelog = "Initial A12 build\r\nEnforcing"
 
 [[roms]]
 id = "havocos"

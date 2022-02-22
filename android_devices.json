@@ -10551,6 +10551,11 @@
   },
   {
     "brand": "Azeyou",
+    "name": "AT701E",
+    "codename": "AT701E"
+  },
+  {
+    "brand": "Azeyou",
     "name": "AT701U",
     "codename": "AT701U"
   },
@@ -111768,6 +111773,11 @@
     "brand": "Qtouch",
     "name": "QS355",
     "codename": "QS355"
+  },
+  {
+    "brand": "Qtouch",
+    "name": "QS362",
+    "codename": "QS362"
   },
   {
     "brand": "Qtouch",
