@@ -715,6 +715,11 @@
     "codename": "G47"
   },
   {
+    "brand": "ARBOR",
+    "name": "GT78-VN",
+    "codename": "GT78-VN"
+  },
+  {
     "brand": "ARRQW",
     "name": "RO-55LCS",
     "codename": "samseong"
@@ -19806,6 +19811,11 @@
   },
   {
     "brand": "Cherry Mobile",
+    "name": "A1090",
+    "codename": "A1090"
+  },
+  {
+    "brand": "Cherry Mobile",
     "name": "A1100",
     "codename": "A1100"
   },
@@ -25666,11 +25676,6 @@
   },
   {
     "brand": "Daewoo",
-    "name": "DAEWOO",
-    "codename": "mateo"
-  },
-  {
-    "brand": "Daewoo",
     "name": "DW-TN7RK16",
     "codename": "DW-TN7RK16"
   },
@@ -25678,6 +25683,11 @@
     "brand": "Daewoo",
     "name": "Daewoo 4K TV",
     "codename": "SW4H_FF"
+  },
+  {
+    "brand": "Daewoo",
+    "name": "Smart TV",
+    "codename": "mateo"
   },
   {
     "brand": "Dahl Sweden",
@@ -67146,6 +67156,11 @@
   },
   {
     "brand": "Krono",
+    "name": "MATRIX PRO",
+    "codename": "MATRIX_PRO"
+  },
+  {
+    "brand": "Krono",
     "name": "NETWORK",
     "codename": "NETWORK"
   },
@@ -99171,6 +99186,11 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus 8 Pro",
+    "codename": "OnePlus8Pro"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus 8T",
     "codename": "OnePlus8T"
   },
@@ -101123,6 +101143,11 @@
     "brand": "Oppo",
     "name": "OPPO Watch",
     "codename": "orca"
+  },
+  {
+    "brand": "Oppo",
+    "name": "PCRT01",
+    "codename": "OP4AB5"
   },
   {
     "brand": "Oppo",
@@ -103098,6 +103123,11 @@
     "brand": "Oukitel",
     "name": "WP5000",
     "codename": "WP5000"
+  },
+  {
+    "brand": "Oukitel",
+    "name": "WP5_Pro_row",
+    "codename": "WP5_Pro"
   },
   {
     "brand": "Oukitel",
@@ -107931,6 +107961,11 @@
   },
   {
     "brand": "Positivo",
+    "name": "T800",
+    "codename": "T800M"
+  },
+  {
+    "brand": "Positivo",
     "name": "T810",
     "codename": "T810"
   },
@@ -112216,11 +112251,6 @@
   },
   {
     "brand": "RCA",
-    "name": "Candy",
-    "codename": "mateo"
-  },
-  {
-    "brand": "RCA",
     "name": "DAA730R / RCA DAA738R",
     "codename": "MD7081"
   },
@@ -112257,12 +112287,7 @@
   {
     "brand": "RCA",
     "name": "HKC",
-    "codename": "mateo"
-  },
-  {
-    "brand": "RCA",
-    "name": "HKC",
-    "codename": "mateo"
+    "codename": "pioneer"
   },
   {
     "brand": "RCA",
@@ -112646,7 +112671,17 @@
   },
   {
     "brand": "RCA",
-    "name": "SAMWON",
+    "name": "Smart TV",
+    "codename": "mateo"
+  },
+  {
+    "brand": "RCA",
+    "name": "Smart TV",
+    "codename": "mateo"
+  },
+  {
+    "brand": "RCA",
+    "name": "Smart TV",
     "codename": "mateo"
   },
   {
@@ -118093,6 +118128,11 @@
     "brand": "Samsung",
     "name": "Galaxy A32 5G",
     "codename": "a32x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A33 5G",
+    "codename": "a33x"
   },
   {
     "brand": "Samsung",
@@ -125207,7 +125247,32 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S22 Ultra",
+    "codename": "b0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22 Ultra",
+    "codename": "b0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22 Ultra",
+    "codename": "b0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22 Ultra",
     "codename": "b0s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22+",
+    "codename": "g0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22+",
+    "codename": "g0q"
   },
   {
     "brand": "Samsung",
@@ -130446,11 +130511,6 @@
   },
   {
     "brand": "Sansui",
-    "name": "SANSUI",
-    "codename": "martin"
-  },
-  {
-    "brand": "Sansui",
     "name": "SANSUI SmartTV",
     "codename": "sunnyvale"
   },
@@ -130488,6 +130548,11 @@
     "brand": "Sansui",
     "name": "\"Tab 7\"\"\"",
     "codename": "ETAB_I7043G_VP3"
+  },
+  {
+    "brand": "Sansui",
+    "name": "\"USA",
+    "codename": "Canada"
   },
   {
     "brand": "Sansui TV",
@@ -157681,6 +157746,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "I2127",
+    "codename": "I2127"
+  },
+  {
+    "brand": "Vivo",
     "name": "NEX A",
     "codename": "PD1806B"
   },
@@ -158516,6 +158586,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "V2117",
+    "codename": "2116"
+  },
+  {
+    "brand": "Vivo",
     "name": "V2118",
     "codename": "2120"
   },
@@ -158648,6 +158723,11 @@
     "brand": "Vivo",
     "name": "V2140A",
     "codename": "PD2140"
+  },
+  {
+    "brand": "Vivo",
+    "name": "V2141",
+    "codename": "2141"
   },
   {
     "brand": "Vivo",
@@ -159113,6 +159193,11 @@
     "brand": "Vivo",
     "name": "iQOO 9 Pro",
     "codename": "2022"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO 9 SE",
+    "codename": "2019"
   },
   {
     "brand": "Vivo",
@@ -176771,7 +176856,7 @@
   },
   {
     "brand": "iMuz",
-    "name": "iMUZ",
+    "name": "Smart TV",
     "codename": "mateo"
   },
   {

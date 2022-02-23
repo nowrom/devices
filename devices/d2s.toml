@@ -28,7 +28,7 @@ repostories = ["device_samsung_d2s","device_samsung_exynos9820-common","kernel_s
 
 [[roms.supported_versions]]
 version_code = "twelve"
-xda_thread = "https://forum.xda-developers.com/t/rom-unofficial-12-galaxy-note-10-5g-pixelexperience-aosp-encryption-lineageos-recovery-supported.4391777/"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-12-galaxy-note-10-5g-pixelexperience-aosp-encryption.4406327/"
 stable = true
 deprecated = false
 

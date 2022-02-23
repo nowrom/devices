@@ -27,7 +27,7 @@ changelog = "Please check <a href=\"https://github.com/ArrowOS-Devices/android_d
 [[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-12/"
-recovery = "https://orangefox.download/device/vayu"
+recovery = "https://sourceforge.net/projects/crdroid/files/vayu/8.x/recovery/"
 
 [[roms]]
 id = "dotos"

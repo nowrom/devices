@@ -6,7 +6,7 @@ recoveries = []
 [[roms]]
 id = "arrowos"
 maintainer = "EdwardWu"
-changelog = "Kernel: Update to 4.9.301 Icewiz\r\nDevice: Device Tree re-write based on Lineage OS, thanks ReallySnow for help\r\nDevice: SELinux is enofrcing now. Please  remember backup and format userdata."
+changelog = "Kernel: Update to 4.9.302 Icewiz\r\nDevice: Device Tree re-write based on Lineage OS, thanks ReallySnow for help\r\nDevice: SELinux is enofrcing now. Please  remember backup and format userdata."
 
 [[roms]]
 id = "blissroms"

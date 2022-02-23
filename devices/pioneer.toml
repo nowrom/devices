@@ -1,6 +1,6 @@
-brand = "HP"
-codename = "Pioneer"
-name = "HP BRIDGE"
+brand = "RCA"
+codename = "pioneer"
+name = "HKC"
 
 [[recoveries]]
 id = "twrp"
