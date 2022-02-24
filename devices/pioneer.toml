@@ -1,6 +1,6 @@
 brand = "RCA"
 codename = "pioneer"
-name = "HKC"
+name = "4K SA Smart TV"
 
 [[recoveries]]
 id = "twrp"

@@ -13466,6 +13466,11 @@
   },
   {
     "brand": "Bauhn",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "Bauhn",
     "name": "Australia",
     "codename": "nippori"
   },
@@ -13473,11 +13478,6 @@
     "brand": "Bauhn",
     "name": "BAUHN",
     "codename": "bangbae"
-  },
-  {
-    "brand": "Bauhn",
-    "name": "BAUHN",
-    "codename": "gangbyeon"
   },
   {
     "brand": "Bauhn",
@@ -19431,11 +19431,6 @@
   },
   {
     "brand": "Cello",
-    "name": "C2420G",
-    "codename": "ueno"
-  },
-  {
-    "brand": "Cello",
     "name": "Cello",
     "codename": "sadang"
   },
@@ -19443,6 +19438,11 @@
     "brand": "Cello",
     "name": "Cello",
     "codename": "tabata"
+  },
+  {
+    "brand": "Cello",
+    "name": "Smart TV",
+    "codename": "ueno"
   },
   {
     "brand": "Cello",
@@ -19706,6 +19706,11 @@
   },
   {
     "brand": "Challenger",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "Challenger",
     "name": "Android TV",
     "codename": "R1"
   },
@@ -19716,12 +19721,7 @@
   },
   {
     "brand": "Challenger",
-    "name": "Challenger",
-    "codename": "gangbyeon"
-  },
-  {
-    "brand": "Challenger",
-    "name": "Challenger",
+    "name": "Smart TV",
     "codename": "osaki"
   },
   {
@@ -31051,7 +31051,7 @@
   },
   {
     "brand": "Engel",
-    "name": "LE3290ATV",
+    "name": "Smart TV",
     "codename": "osaki"
   },
   {
@@ -39133,6 +39133,11 @@
     "brand": "Gtel",
     "name": "Gtel_Infinity_9",
     "codename": "Gtel_Infinity_9"
+  },
+  {
+    "brand": "Gtel",
+    "name": "Gtel_Infinity_X",
+    "codename": "Gtel_Infinity_X"
   },
   {
     "brand": "Gtel",
@@ -57976,6 +57981,16 @@
   },
   {
     "brand": "Hyundai",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "Hyundai",
     "name": "7LB1",
     "codename": "7LB1"
   },
@@ -58302,27 +58317,7 @@
   {
     "brand": "Hyundai",
     "name": "Hyundai",
-    "codename": "gangbyeon"
-  },
-  {
-    "brand": "Hyundai",
-    "name": "Hyundai",
-    "codename": "gangbyeon"
-  },
-  {
-    "brand": "Hyundai",
-    "name": "Hyundai",
-    "codename": "kanda"
-  },
-  {
-    "brand": "Hyundai",
-    "name": "Hyundai",
     "codename": "komagome"
-  },
-  {
-    "brand": "Hyundai",
-    "name": "Hyundai",
-    "codename": "osaki"
   },
   {
     "brand": "Hyundai",
@@ -58576,6 +58571,16 @@
   },
   {
     "brand": "Hyundai",
+    "name": "Smart TV",
+    "codename": "kanda"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Smart TV",
+    "codename": "osaki"
+  },
+  {
+    "brand": "Hyundai",
     "name": "UHD Android TV",
     "codename": "sindorim"
   },
@@ -58796,13 +58801,13 @@
   },
   {
     "brand": "IMPECCA",
-    "name": "IMP",
-    "codename": "kanda"
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
   },
   {
     "brand": "IMPECCA",
-    "name": "IMPECCA",
-    "codename": "gangbyeon"
+    "name": "Smart TV",
+    "codename": "kanda"
   },
   {
     "brand": "IMPEX",
@@ -64046,6 +64051,11 @@
   },
   {
     "brand": "JVC",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "JVC",
     "name": "4K_Edition",
     "codename": "Android_TV_BOX"
   },
@@ -64063,16 +64073,6 @@
     "brand": "JVC",
     "name": "AV-11NT510",
     "codename": "AV-11NT510"
-  },
-  {
-    "brand": "JVC",
-    "name": "Amtran",
-    "codename": "gangbyeon"
-  },
-  {
-    "brand": "JVC",
-    "name": "Amtran",
-    "codename": "osaki"
   },
   {
     "brand": "JVC",
@@ -64181,11 +64181,6 @@
   },
   {
     "brand": "JVC",
-    "name": "LT-32K397",
-    "codename": "osaki"
-  },
-  {
-    "brand": "JVC",
     "name": "LT-32N3115A",
     "codename": "ikebukuro"
   },
@@ -64213,6 +64208,11 @@
     "brand": "JVC",
     "name": "LT-55KB597",
     "codename": "sindorim"
+  },
+  {
+    "brand": "JVC",
+    "name": "Smart TV",
+    "codename": "osaki"
   },
   {
     "brand": "JVC",
@@ -64283,6 +64283,11 @@
     "brand": "Janam",
     "name": "XM75",
     "codename": "XM75"
+  },
+  {
+    "brand": "Janam",
+    "name": "XM75",
+    "codename": "XM75P"
   },
   {
     "brand": "Janam",
@@ -65056,12 +65061,7 @@
   },
   {
     "brand": "KEMPLER STRAUSS",
-    "name": "32FD1",
-    "codename": "kanda"
-  },
-  {
-    "brand": "KEMPLER STRAUSS",
-    "name": "50F1",
+    "name": "4K Smart TV",
     "codename": "gangbyeon"
   },
   {
@@ -65118,6 +65118,11 @@
     "brand": "KEMPLER STRAUSS",
     "name": "Kempler_X_Pro",
     "codename": "Kempler_X_Pro"
+  },
+  {
+    "brand": "KEMPLER STRAUSS",
+    "name": "Smart TV",
+    "codename": "kanda"
   },
   {
     "brand": "KEMPLER STRAUSS",
@@ -68296,7 +68301,7 @@
   },
   {
     "brand": "LEVEL TV",
-    "name": "32F1D",
+    "name": "Smart TV",
     "codename": "osaki"
   },
   {
@@ -76821,11 +76826,6 @@
   },
   {
     "brand": "Lava",
-    "name": "Z1S",
-    "codename": "LZG402_OMI"
-  },
-  {
-    "brand": "Lava",
     "name": "Z2",
     "codename": "LMG01"
   },
@@ -76833,6 +76833,11 @@
     "brand": "Lava",
     "name": "Z21",
     "codename": "LZG402_OM"
+  },
+  {
+    "brand": "Lava",
+    "name": "Z21",
+    "codename": "LZG402_OMI"
   },
   {
     "brand": "Lava",
@@ -81816,7 +81821,7 @@
   },
   {
     "brand": "Linsar",
-    "name": "Llinsar",
+    "name": "Smart TV",
     "codename": "ueno"
   },
   {
@@ -82896,11 +82901,6 @@
   },
   {
     "brand": "Logik",
-    "name": "L32AHE19",
-    "codename": "ueno"
-  },
-  {
-    "brand": "Logik",
     "name": "LOGIK",
     "codename": "sadang"
   },
@@ -82908,6 +82908,11 @@
     "brand": "Logik",
     "name": "LOGIK",
     "codename": "tabata"
+  },
+  {
+    "brand": "Logik",
+    "name": "Smart TV",
+    "codename": "ueno"
   },
   {
     "brand": "Logitec",
@@ -96061,6 +96066,16 @@
   },
   {
     "brand": "Nano",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "Nano",
+    "name": "Smart TV",
+    "codename": "osaki"
+  },
+  {
+    "brand": "Nano",
     "name": "Thailand",
     "codename": "tamachi"
   },
@@ -96068,16 +96083,6 @@
     "brand": "Nano",
     "name": "Thailand",
     "codename": "yeongdeungpo"
-  },
-  {
-    "brand": "Nano",
-    "name": "nano",
-    "codename": "gangbyeon"
-  },
-  {
-    "brand": "Nano",
-    "name": "nano",
-    "codename": "osaki"
   },
   {
     "brand": "NanoTech",
@@ -96416,8 +96421,23 @@
   },
   {
     "brand": "Naxa",
+    "name": "NID_1021",
+    "codename": "NID_1021"
+  },
+  {
+    "brand": "Naxa",
     "name": "NID_1056",
     "codename": "NID_1056"
+  },
+  {
+    "brand": "Naxa",
+    "name": "NID_7021",
+    "codename": "NID_7021"
+  },
+  {
+    "brand": "Naxa",
+    "name": "NID_7022",
+    "codename": "NID_7022"
   },
   {
     "brand": "Naxa",
@@ -98526,11 +98546,6 @@
   },
   {
     "brand": "OK (Mediamark)",
-    "name": "ODL 32760HN-TAB",
-    "codename": "osaki"
-  },
-  {
-    "brand": "OK (Mediamark)",
     "name": "ODL 32770H-TAB",
     "codename": "ikebukuro"
   },
@@ -98548,6 +98563,11 @@
     "brand": "OK (Mediamark)",
     "name": "OK 2K TV",
     "codename": "shinagawa"
+  },
+  {
+    "brand": "OK (Mediamark)",
+    "name": "Smart TV",
+    "codename": "osaki"
   },
   {
     "brand": "OK (Mediamark)",
@@ -112196,6 +112216,31 @@
   },
   {
     "brand": "RCA",
+    "name": "4K SA Smart TV",
+    "codename": "pioneer"
+  },
+  {
+    "brand": "RCA",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "RCA",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "RCA",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "RCA",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "RCA",
     "name": "7 Mercury",
     "codename": "RCT6673W23M"
   },
@@ -112281,16 +112326,6 @@
   },
   {
     "brand": "RCA",
-    "name": "HKC",
-    "codename": "gangbyeon"
-  },
-  {
-    "brand": "RCA",
-    "name": "HKC",
-    "codename": "pioneer"
-  },
-  {
-    "brand": "RCA",
     "name": "Juno 10",
     "codename": "RCT6A03W12EU"
   },
@@ -112342,17 +112377,7 @@
   {
     "brand": "RCA",
     "name": "RCA",
-    "codename": "gangbyeon"
-  },
-  {
-    "brand": "RCA",
-    "name": "RCA",
     "codename": "seocho"
-  },
-  {
-    "brand": "RCA",
-    "name": "RCA",
-    "codename": "ueno"
   },
   {
     "brand": "RCA",
@@ -112656,23 +112681,13 @@
   },
   {
     "brand": "RCA",
-    "name": "RS43F2-EU",
-    "codename": "osaki"
-  },
-  {
-    "brand": "RCA",
-    "name": "RTA3201",
-    "codename": "kanda"
-  },
-  {
-    "brand": "RCA",
     "name": "Reno_Pro",
     "codename": "Reno_Pro"
   },
   {
     "brand": "RCA",
     "name": "Smart TV",
-    "codename": "mateo"
+    "codename": "kanda"
   },
   {
     "brand": "RCA",
@@ -112686,23 +112701,28 @@
   },
   {
     "brand": "RCA",
-    "name": "Tree",
-    "codename": "gangbyeon"
+    "name": "Smart TV",
+    "codename": "mateo"
   },
   {
     "brand": "RCA",
-    "name": "Tree",
+    "name": "Smart TV",
     "codename": "osaki"
   },
   {
     "brand": "RCA",
-    "name": "UNICO",
+    "name": "Smart TV",
     "codename": "osaki"
   },
   {
     "brand": "RCA",
-    "name": "US",
-    "codename": "gangbyeon"
+    "name": "Smart TV",
+    "codename": "osaki"
+  },
+  {
+    "brand": "RCA",
+    "name": "Smart TV",
+    "codename": "ueno"
   },
   {
     "brand": "RCA",
@@ -112968,11 +112988,6 @@
     "brand": "Razer",
     "name": "Razer phone",
     "codename": "cheryl_ckh"
-  },
-  {
-    "brand": "Realme",
-    "name": "50F1",
-    "codename": "gangbyeon"
   },
   {
     "brand": "Realme",
@@ -115395,6 +115410,11 @@
     "codename": "GO5E"
   },
   {
+    "brand": "SENSETALK",
+    "name": "ACM-T01K",
+    "codename": "ACM-T01K"
+  },
+  {
     "brand": "SERVO",
     "name": "P20",
     "codename": "P20"
@@ -116756,7 +116776,7 @@
   },
   {
     "brand": "SUPERSONIC",
-    "name": "SUPERSONIC",
+    "name": "Smart TV",
     "codename": "kanda"
   },
   {
@@ -116866,8 +116886,8 @@
   },
   {
     "brand": "SYLVANIA",
-    "name": "SL321AN",
-    "codename": "kanda"
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
   },
   {
     "brand": "SYLVANIA",
@@ -116886,8 +116906,8 @@
   },
   {
     "brand": "SYLVANIA",
-    "name": "US",
-    "codename": "gangbyeon"
+    "name": "Smart TV",
+    "codename": "kanda"
   },
   {
     "brand": "SZSUPER",
@@ -118136,6 +118156,21 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy A33 5G",
+    "codename": "a33x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A33 5G",
+    "codename": "a33x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A33 5G",
+    "codename": "a33x"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy A40",
     "codename": "a40"
   },
@@ -118578,6 +118613,31 @@
     "brand": "Samsung",
     "name": "Galaxy A52s 5G",
     "codename": "a52sxq"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A53 5G",
+    "codename": "a53x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A53 5G",
+    "codename": "a53x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A53 5G",
+    "codename": "a53x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A53 5G",
+    "codename": "a53x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A53 5G UW",
+    "codename": "a53x"
   },
   {
     "brand": "Samsung",
@@ -123012,6 +123072,11 @@
   {
     "brand": "Samsung",
     "name": "Galaxy Note10+",
+    "codename": "SC-01M"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note10+",
     "codename": "SCV45"
   },
   {
@@ -123233,6 +123298,16 @@
     "brand": "Samsung",
     "name": "Galaxy Note20 Ultra",
     "codename": "c2s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note20 Ultra 5G",
+    "codename": "SC-53A"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note20 Ultra 5G",
+    "codename": "SCG06"
   },
   {
     "brand": "Samsung",
@@ -124527,11 +124602,6 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S10",
-    "codename": "SC-03L"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy S10",
     "codename": "SCV41"
   },
   {
@@ -124608,11 +124678,6 @@
     "brand": "Samsung",
     "name": "Galaxy S10 Lite",
     "codename": "r5q"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy S10+",
-    "codename": "SC-04L"
   },
   {
     "brand": "Samsung",
@@ -125027,7 +125092,7 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S20+ 5G",
-    "codename": "SC-52A"
+    "codename": "SCG02"
   },
   {
     "brand": "Samsung",
@@ -130661,23 +130726,23 @@
   },
   {
     "brand": "Sceptre",
-    "name": "A322BV-SRC",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "Sceptre",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "Sceptre",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "Sceptre",
+    "name": "Smart TV",
     "codename": "kanda"
-  },
-  {
-    "brand": "Sceptre",
-    "name": "Sceptre",
-    "codename": "gangbyeon"
-  },
-  {
-    "brand": "Sceptre",
-    "name": "TATUNG",
-    "codename": "gangbyeon"
-  },
-  {
-    "brand": "Sceptre",
-    "name": "imiia",
-    "codename": "gangbyeon"
   },
   {
     "brand": "Schok",
@@ -134066,6 +134131,11 @@
   },
   {
     "brand": "Sky Devices",
+    "name": "Elite_J55US",
+    "codename": "Elite_J55US"
+  },
+  {
+    "brand": "Sky Devices",
     "name": "Elite_OctaX",
     "codename": "Elite_OctaXkk3"
   },
@@ -134378,6 +134448,11 @@
     "brand": "Sky Devices",
     "name": "SKY_Pro_III",
     "codename": "SKY_Pro_III"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "SKY_prestigeMax",
+    "codename": "SKY_prestigeMax"
   },
   {
     "brand": "Sky Devices",
@@ -135076,11 +135151,6 @@
   },
   {
     "brand": "Soniq",
-    "name": "G32HW60A",
-    "codename": "osaki"
-  },
-  {
-    "brand": "Soniq",
     "name": "PT0719A",
     "codename": "PT0719A"
   },
@@ -135088,6 +135158,11 @@
     "brand": "Soniq",
     "name": "PT1019A",
     "codename": "PT1019A"
+  },
+  {
+    "brand": "Soniq",
+    "name": "Smart TV",
+    "codename": "osaki"
   },
   {
     "brand": "Soniq",
@@ -149301,6 +149376,11 @@
   },
   {
     "brand": "Teclast",
+    "name": "T40Pro",
+    "codename": "Teclast_T40Pro"
+  },
+  {
+    "brand": "Teclast",
     "name": "T40Pro_EA",
     "codename": "Teclast_T40Pro_EA"
   },
@@ -153201,17 +153281,17 @@
   },
   {
     "brand": "UNITED TV",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "UNITED TV",
     "name": "LED32HS72A9",
     "codename": "ikebukuro"
   },
   {
     "brand": "UNITED TV",
-    "name": "UNITED",
-    "codename": "gangbyeon"
-  },
-  {
-    "brand": "UNITED TV",
-    "name": "UNITED",
+    "name": "Smart TV",
     "codename": "osaki"
   },
   {
@@ -160976,11 +161056,6 @@
   },
   {
     "brand": "Walton",
-    "name": "32FD1",
-    "codename": "osaki"
-  },
-  {
-    "brand": "Walton",
     "name": "Bangladesh and EU",
     "codename": "tamachi"
   },
@@ -161491,6 +161566,11 @@
   },
   {
     "brand": "Walton",
+    "name": "Smart TV",
+    "codename": "osaki"
+  },
+  {
+    "brand": "Walton",
     "name": "WALPAD 10H",
     "codename": "Walpad_10H"
   },
@@ -161671,6 +161751,11 @@
   },
   {
     "brand": "Westinghouse",
+    "name": "Smart TV",
+    "codename": "ueno"
+  },
+  {
+    "brand": "Westinghouse",
     "name": "W10TWF19",
     "codename": "W10TWF19"
   },
@@ -161703,11 +161788,6 @@
     "brand": "Westinghouse",
     "name": "WH10S9863232",
     "codename": "WH10S9863232"
-  },
-  {
-    "brand": "Westinghouse",
-    "name": "West",
-    "codename": "ueno"
   },
   {
     "brand": "Wexler",
@@ -164698,6 +164778,11 @@
     "brand": "Xiaomi",
     "name": "Mi 11",
     "codename": "venus"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Mi 11 LE",
+    "codename": "lisa"
   },
   {
     "brand": "Xiaomi",
@@ -177616,6 +177701,11 @@
   },
   {
     "brand": "realme",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "realme",
     "name": "RMX3269",
     "codename": "RED8F6"
   },
@@ -177848,6 +177938,11 @@
     "brand": "realme",
     "name": "真我Q3s\t",
     "codename": "RE548BL1"
+  },
+  {
+    "brand": "realme",
+    "name": "真我Q3s\t",
+    "codename": "RE54BFL1"
   },
   {
     "brand": "redfox",
