@@ -82921,6 +82921,11 @@
   },
   {
     "brand": "Logitech",
+    "name": "GR0006",
+    "codename": "GR0006"
+  },
+  {
+    "brand": "Logitech",
     "name": "Revue",
     "codename": "ka"
   },
@@ -87723,6 +87728,11 @@
     "brand": "Micromax",
     "name": "IN_2b",
     "codename": "E7544"
+  },
+  {
+    "brand": "Micromax",
+    "name": "IN_2c",
+    "codename": "E6533"
   },
   {
     "brand": "Micromax",
@@ -93358,6 +93368,11 @@
     "brand": "Multilaser",
     "name": "M10_3G",
     "codename": "ML_SO0B_M10_3G"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "M10_4G _AC",
+    "codename": "ML_JI0C_M10_4G_AC"
   },
   {
     "brand": "Multilaser",
@@ -102463,6 +102478,11 @@
     "brand": "Orange",
     "name": "Neva Rise S1",
     "codename": "Neva_Rise_S1"
+  },
+  {
+    "brand": "Orange",
+    "name": "Neva leaf",
+    "codename": "Neva_leaf"
   },
   {
     "brand": "Orange",
@@ -149641,6 +149661,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "CAMON 18",
+    "codename": "TECNO-Mobile-CH6n"
+  },
+  {
+    "brand": "Tecno",
     "name": "CAMON 18P",
     "codename": "TECNO-CH7"
   },
@@ -150493,6 +150518,16 @@
     "brand": "Tecno",
     "name": "TECNO K9",
     "codename": "TECNO-K9"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO Mobile SPARK 8",
+    "codename": "TECNO-Mobile-KG6k"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO Mobile SPARK 8T",
+    "codename": "TECNO-Mobile-KG6p"
   },
   {
     "brand": "Tecno",

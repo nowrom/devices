@@ -20,7 +20,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/instantnoodlep/Havoc-OS-v4.13-20220128-instantnoodlep-Official-GApps.zip"
+url = "https://download.havoc-os.com/instantnoodlep/Havoc-OS-v4.14-20220224-instantnoodlep-Official-GApps.zip"
 maintainer = "Chris Chen"
 group = "https://t.me/+gJBFyk53ihA5Mjll"
 

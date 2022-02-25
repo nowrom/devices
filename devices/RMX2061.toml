@@ -11,13 +11,13 @@ id = "dotos"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/toco/Havoc-OS-v4.13-20220129-toco-Official-GApps.zip"
+url = "https://download.havoc-os.com/toco/Havoc-OS-v4.14-20220224-toco-Official-GApps.zip"
 maintainer = "Dennis Murimi"
 group = "https://t.me/+VuKhjhLo5ZYzM2Vk"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/toco/Havoc-OS-v4.13-20220129-toco-Official-GApps.zip"
+url = "https://download.havoc-os.com/toco/Havoc-OS-v4.14-20220224-toco-Official-GApps.zip"
 maintainer = "Dennis Murimi"
 group = "https://t.me/+VuKhjhLo5ZYzM2Vk"
 

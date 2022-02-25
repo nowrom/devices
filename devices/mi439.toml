@@ -1,0 +1,10 @@
+brand = "Xiaomi"
+codename = "mi439"
+name = "Redmi 7A/8/8A/8A Dual"
+recoveries = []
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
