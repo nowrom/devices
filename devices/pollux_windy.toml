@@ -1,6 +1,6 @@
 brand = "Sony"
 codename = "pollux_windy"
-name = "Xperia Tablet Z Wi-Fi"
+name = "Sony Xperia Tablet Z Wi-Fi"
 
 [[recoveries]]
 id = "twrp"

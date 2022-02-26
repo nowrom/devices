@@ -14,7 +14,7 @@ changelog = "-"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/land/Havoc-OS-v4.13-20220130-land-Official-GApps.zip"
+url = "https://download.havoc-os.com/land/Havoc-OS-v4.14-20220225-land-Official-GApps.zip"
 maintainer = "Sairam Majgaonkar"
 group = "https://t.me/+w-uP9QgHzyUwODg1"
 

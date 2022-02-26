@@ -1,6 +1,6 @@
 brand = "BQ"
 codename = "piccolo"
-name = "Aquaris M5"
+name = "BQ Aquaris M5"
 
 [[recoveries]]
 id = "twrp"

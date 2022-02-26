@@ -1,6 +1,6 @@
-brand = "ASUS"
+brand = "Asus"
 codename = "Z008"
-name = "Zenfone 2 (720p)"
+name = "Asus ZenFone 2 720p"
 
 [[recoveries]]
 id = "twrp"

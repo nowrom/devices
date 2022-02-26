@@ -1,6 +1,6 @@
 brand = "Motorola"
 codename = "osprey"
-name = "Moto G 2015"
+name = "Motorola Moto G 2015"
 
 [[recoveries]]
 id = "twrp"

@@ -77,8 +77,8 @@ id = "pixelextended"
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtended_raphael-12.0-20220125-1941-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-12-raphael-official-pixel-extended-rom-20-12-2021.4146471/"
+url = "https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtended_raphael-12.0-20220225-1042-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-raphael-official-pixel-extended-rom-25-01-2022.4146471/"
 
 [[roms]]
 id = "sparkos"

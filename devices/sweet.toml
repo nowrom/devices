@@ -22,7 +22,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "daniml3"
-changelog = "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n11/09/2021\r\n• Fixed front camera video recording on MIUI camera"
+changelog = "Warning: this is an experimental build, do not install unless you know what are you doing!\r\n25/02/2022\r\n- Updated blobs from MIUI 13\r\n- Fixed OTA (?)"
 
 [[roms]]
 id = "crdroid"

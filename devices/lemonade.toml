@@ -15,7 +15,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/lemonade/Havoc-OS-v4.13-20220129-lemonade-Official-GApps.zip"
+url = "https://download.havoc-os.com/lemonade/Havoc-OS-v4.14-20220225-lemonade-Official-GApps.zip"
 maintainer = "eduardo"
 group = "https://t.me/+cU9PeFml8QI3MDJh"
 

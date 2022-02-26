@@ -1,6 +1,6 @@
 brand = "HTC"
 codename = "hiae"
-name = "One A9"
+name = "HTC One A9"
 
 [[recoveries]]
 id = "twrp"

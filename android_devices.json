@@ -88826,6 +88826,11 @@
   },
   {
     "brand": "Mobicell",
+    "name": "FORCE",
+    "codename": "FORCE"
+  },
+  {
+    "brand": "Mobicell",
     "name": "FRIO",
     "codename": "FRIO"
   },
@@ -92221,6 +92226,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "moto g stylus (2022)",
+    "codename": "milan"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g stylus (2022)",
+    "codename": "milan"
+  },
+  {
+    "brand": "Motorola",
     "name": "moto g stylus 5G",
     "codename": "denver"
   },
@@ -93998,6 +94013,11 @@
     "brand": "MwalimuPlus",
     "name": "MP01A3G",
     "codename": "MP01A3G"
+  },
+  {
+    "brand": "My",
+    "name": "Android TV",
+    "codename": "shandao"
   },
   {
     "brand": "My",
@@ -114207,6 +114227,11 @@
   {
     "brand": "Redmi",
     "name": "Redmi Note 11 Pro+",
+    "codename": "pissarropro"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 11 Pro+ 5G",
     "codename": "pissarropro"
   },
   {

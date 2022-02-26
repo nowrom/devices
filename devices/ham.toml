@@ -1,6 +1,6 @@
-brand = "ZUK"
+brand = "Zuk"
 codename = "ham"
-name = "Z1"
+name = "Zuk Z1"
 
 [[recoveries]]
 id = "twrp"

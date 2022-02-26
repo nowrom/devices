@@ -1,6 +1,6 @@
 brand = "LeEco"
 codename = "zl1"
-name = "Le Pro3 / Le Pro3 Elite"
+name = "LeEco Le Pro3"
 
 [[recoveries]]
 id = "twrp"
