@@ -4,6 +4,10 @@ name = "realme C3"
 recoveries = []
 
 [[roms]]
+id = "ancientos"
+photo = " https://fdn2.gsmarena.com/vv/pics/realme/realme-c3-2020-2.jpg"
+
+[[roms]]
 id = "arrowos"
 maintainer = "sarthakroy2002"
 changelog = "NOTE: For Realme UI 1.0 FW only."

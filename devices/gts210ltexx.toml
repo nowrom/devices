@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "gts210ltexx"
-name = "Samsung Galaxy Tab S2 9.7 2015 (LTE)"
+name = "Galaxy Tab S2 9.7 (LTE)"
 
 [[recoveries]]
 id = "twrp"

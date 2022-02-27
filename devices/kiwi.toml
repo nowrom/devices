@@ -1,6 +1,6 @@
 brand = "Huawei"
 codename = "kiwi"
-name = "Huawei Honor 5X"
+name = "Honor 5X"
 
 [[recoveries]]
 id = "twrp"

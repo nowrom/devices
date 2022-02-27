@@ -10,6 +10,11 @@ maintainer = "None"
 id = "blissroms"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
+recovery = "https://t.me/uixdessDrive/20"
+
+[[roms]]
 id = "legionos"
 active = false
 maintainer = "dimasyudha"

@@ -5,6 +5,6 @@ recoveries = []
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/lemonades/Havoc-OS-v4.13-20220201-lemonades-Official-GApps.zip"
+url = "https://download.havoc-os.com/lemonades/Havoc-OS-v4.14-20220226-lemonades-Official-GApps.zip"
 maintainer = "Chandu Dyavanapelli"
 group = "https://t.me/+gJBFyk53ihA5Mjll"

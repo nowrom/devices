@@ -13,8 +13,8 @@ xda_thread = ""
 
 [[roms]]
 id = "arrowos"
-maintainer = "Ganesh Varma, palaych"
-changelog = "- Drop old FP sensor location overlays\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11).</b>"
+maintainer = "Ganesh Varma"
+changelog = "- sepolicy: Label ro.product.marketname\r\n- perf: Reduce trim enable memory to 2GB\r\n- perf: Boost GPU on specific events\r\n- sepolicy: Allow vendor_init to set ssr prop\r\n- parts: Update CABC icon from WSTxda\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!"
 
 [[roms]]
 id = "dotos"

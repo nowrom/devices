@@ -12,6 +12,10 @@ xdathread = "https://forum.xda-developers.com/galaxy-a40/development/recovery-tw
 maintainer = "ponces"
 
 [[roms]]
+id = "ancientos"
+photo = "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a40.jpg"
+
+[[roms]]
 id = "crdroid"
 gapps = "https://bitgapps.github.io/"
 recovery = "https://sourceforge.net/projects/kevios12a40roms/files/a40_recovery/twrp-3.6.0_9-0-a40.img/download"

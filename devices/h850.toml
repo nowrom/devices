@@ -1,6 +1,6 @@
 brand = "LG"
 codename = "h850"
-name = "LG G5 International"
+name = "G5 (International)"
 
 [[recoveries]]
 id = "orangefox"

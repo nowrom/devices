@@ -1,6 +1,7 @@
 brand = "LG"
-codename = "H811"
+codename = "LS991"
 name = "LG G4"
+roms = []
 
 [[recoveries]]
 id = "twrp"
@@ -10,12 +11,6 @@ maintainer = "steadfasterX"
 [[recoveries]]
 id = "twrp"
 maintainer = "steadfasterX"
-
-[[roms]]
-id = "lineageos"
-cpu = "Cortex-A53 & Cortex-A57"
-ram = "3 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
 
 [specs]
 cpu = "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57)"

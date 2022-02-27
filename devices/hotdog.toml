@@ -12,6 +12,11 @@ xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-r
 maintainer = "lossyx@xda"
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

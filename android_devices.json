@@ -17871,6 +17871,11 @@
   },
   {
     "brand": "CAIXUN",
+    "name": "South of America",
+    "codename": "patrick"
+  },
+  {
+    "brand": "CAIXUN",
     "name": "USA",
     "codename": "yeongdeungpo"
   },
@@ -27846,8 +27851,23 @@
   },
   {
     "brand": "Dish",
+    "name": "Hopper Plus",
+    "codename": "SNAP2"
+  },
+  {
+    "brand": "Dish",
+    "name": "Joey 4",
+    "codename": "ATVMJ4"
+  },
+  {
+    "brand": "Dish",
     "name": "SV10",
     "codename": "HiCast"
+  },
+  {
+    "brand": "Dish",
+    "name": "Wireless Joey 4",
+    "codename": "ATVWJ4"
   },
   {
     "brand": "DishTV (IN)",
@@ -93622,6 +93642,11 @@
   {
     "brand": "Multilaser",
     "name": "M8 4G",
+    "codename": "ML_JI0I_M8_4G"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "M8 4G",
     "codename": "ML_SO0J_M8_4G"
   },
   {
@@ -104053,6 +104078,11 @@
     "brand": "Panasonic",
     "name": "Android TV",
     "codename": "R1"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "Android TV",
+    "codename": "R2"
   },
   {
     "brand": "Panasonic",
@@ -139866,6 +139896,11 @@
   },
   {
     "brand": "Symphony",
+    "name": "G50",
+    "codename": "G50"
+  },
+  {
+    "brand": "Symphony",
     "name": "H300",
     "codename": "H300"
   },
@@ -141078,6 +141113,11 @@
     "brand": "TCL",
     "name": "TCL L9S",
     "codename": "Tokyo_Lite"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL NXTPAPER 10s",
+    "codename": "Odin2"
   },
   {
     "brand": "TCL",
@@ -177823,6 +177863,11 @@
     "brand": "realme",
     "name": "realme 8 Pro",
     "codename": "RMX3081L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme 9i",
+    "codename": "RED8C1L1"
   },
   {
     "brand": "realme",

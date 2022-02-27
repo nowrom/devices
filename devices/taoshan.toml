@@ -1,6 +1,6 @@
 brand = "Sony"
 codename = "taoshan"
-name = "Sony Xperia L"
+name = "Xperia L"
 
 [[recoveries]]
 id = "twrp"

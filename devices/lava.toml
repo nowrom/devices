@@ -1,6 +1,6 @@
-brand = "Xiaomi"
+brand = "Redmi"
 codename = "lava"
-name = "Xiaomi Redmi 9 Prime / Poco M2"
+name = "Redmi G80 Series"
 recoveries = []
 
 [[roms]]
@@ -9,6 +9,11 @@ photo = "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-9-2.jpg"
 
 [[roms]]
 id = "cherishos"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/22-Feb-2022/NikGapps-core-arm64-12-20220222-signed.zip/download"
+recovery = "https://sourceforge.net/projects/boxaltroms/files/recovery/lava-recovery-20220222.img/download"
 
 [[roms]]
 id = "pixelexperience"

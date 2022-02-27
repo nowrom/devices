@@ -9,6 +9,13 @@ id = "evolutionx"
 [[roms]]
 id = "evolutionx"
 
+[[roms]]
+id = "sakura"
+xda_thread = ""
+maintainer_url = "null"
+maintainer_name = "mithuprince"
+active = true
+
 [specs]
 cpu = "Octa-core (2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver)"
 weight = "182 g (6.42 oz)"
