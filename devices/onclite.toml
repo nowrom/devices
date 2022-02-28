@@ -26,7 +26,7 @@ id = "dotos"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/onclite/Havoc-OS-v4.13-20220130-onclite-Official-GApps.zip"
+url = "https://download.havoc-os.com/onclite/Havoc-OS-v4.14-20220227-onclite-Official-GApps.zip"
 maintainer = "Aryan Karan"
 group = "https://t.me/havocofficial"
 

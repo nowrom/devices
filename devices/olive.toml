@@ -19,7 +19,7 @@ id = "dotos"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/olive/Havoc-OS-v4.13-20220130-olive-Official-GApps.zip"
+url = "https://download.havoc-os.com/olive/Havoc-OS-v4.14-20220227-olive-Official-GApps.zip"
 maintainer = "IAmDeadlylxrd"
 group = "https://t.me/+CoYLGYHruORiNDUy"
 

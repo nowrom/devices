@@ -5,7 +5,7 @@ recoveries = []
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/sofiar/Havoc-OS-v4.13-20220127-sofiar-Official-GApps.zip"
+url = "https://download.havoc-os.com/sofiar/Havoc-OS-v4.14-20220227-sofiar-Official-GApps.zip"
 maintainer = "ph4n70m"
 group = "https://t.me/+ioAiJwr1DKZiMjJl"
 

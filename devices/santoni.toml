@@ -24,11 +24,11 @@ id = "blissroms"
 [[roms]]
 id = "crdroid"
 gapps = "https://t.me/crDroidSantoni/69008"
-recovery = "https://t.me/crDroidSantoni/69025"
+recovery = "https://t.me/crDroidSantoni/71369"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/santoni/Havoc-OS-v4.13-20220202-santoni-Official-GApps.zip"
+url = "https://download.havoc-os.com/santoni/Havoc-OS-v4.14-20220227-santoni-Official-GApps.zip"
 maintainer = "Gabriel Nogueira"
 group = "https://t.me/+o0-G5ngIeVxiYmYx"
 

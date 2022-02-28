@@ -12,7 +12,8 @@ repostories = ["device_xiaomi_olivewood","kernel_xiaomi_olivewood","vendor_xiaom
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = false
+xda_thread = "https://forum.xda-developers.com/t/rom-12-olivewood-pixelexperience-aosp.4384167/"
+stable = true
 deprecated = false
 
 [[roms]]
