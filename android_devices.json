@@ -3486,6 +3486,11 @@
   },
   {
     "brand": "Aiwa",
+    "name": "AWT10H",
+    "codename": "AWT10H"
+  },
+  {
+    "brand": "Aiwa",
     "name": "Aiwa",
     "codename": "KSTB6043"
   },
@@ -64172,11 +64177,6 @@
   {
     "brand": "JVC",
     "name": "JVC",
-    "codename": "shilin"
-  },
-  {
-    "brand": "JVC",
-    "name": "JVC",
     "codename": "sugamo"
   },
   {
@@ -84083,6 +84083,11 @@
     "brand": "MTC",
     "name": "Infiniton",
     "codename": "komagome"
+  },
+  {
+    "brand": "MTC",
+    "name": "JVC",
+    "codename": "shilin"
   },
   {
     "brand": "MTC",

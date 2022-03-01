@@ -27,6 +27,11 @@ id = "blissroms"
 id = "cherishos"
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -90,7 +95,7 @@ active = false
 [[roms]]
 id = "sparkos"
 group = "https://t.me/spkal01hub"
-download = "https://downloads.spark-os.live/davinci/Spark-12.0-Official-davinci-20220212.zip"
+download = "https://downloads.spark-os.live/?dir=davinci/"
 
 [[roms]]
 id = "syberia"

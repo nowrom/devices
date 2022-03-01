@@ -64,7 +64,7 @@ id = "pixyos"
 [[roms]]
 id = "sparkos"
 group = "https://t.me/SparkOS_Official_Mido"
-download = "https://downloads.spark-os.live/mido/Spark-12.0-Official-mido-20220213.zip"
+download = "https://downloads.spark-os.live/?dir=mido/"
 
 [[roms]]
 id = "syberia"

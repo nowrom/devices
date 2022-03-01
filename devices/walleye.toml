@@ -15,7 +15,7 @@ id = "calyxos"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://downloads.codefi.re/jdcteam/javelinanddart/gapps/MindTheGapps-12.0.0-arm64-20220128_095253.zip"
+gapps = ""
 recovery = "https://dl.twrp.me/walleye/"
 
 [[roms]]

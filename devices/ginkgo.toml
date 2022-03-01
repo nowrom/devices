@@ -108,7 +108,7 @@ active = true
 [[roms]]
 id = "sparkos"
 group = "https://t.me/SparkRN8"
-download = "https://downloads.spark-os.live/ginkgo/Spark-12.0-Official-ginkgo-20220214.zip"
+download = "https://downloads.spark-os.live/?dir=ginkgo/"
 
 [[roms]]
 id = "syberia"

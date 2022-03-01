@@ -84,7 +84,7 @@ xda_thread = "https://forum.xda-developers.com/t/rom-12-raphael-official-pixel-e
 [[roms]]
 id = "sparkos"
 group = "https://t.me/area51k20p"
-download = "https://downloads.spark-os.live/raphael/Spark-12.0-Official-raphael-20220214.zip"
+download = "https://downloads.spark-os.live/?dir=raphael/"
 
 [[roms]]
 id = "syberia"

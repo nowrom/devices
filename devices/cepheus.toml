@@ -57,7 +57,7 @@ id = "revengeos"
 [[roms]]
 id = "sparkos"
 group = "https://t.me/tribual_mi9"
-download = "https://downloads.spark-os.live/cepheus/"
+download = "https://downloads.spark-os.live/?dir=cepheus/"
 
 [[roms]]
 id = "syberia"

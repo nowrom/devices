@@ -27,7 +27,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/surya/Havoc-OS-v4.13-20220202-surya-Official-GApps.zip"
+url = "https://download.havoc-os.com/surya/Havoc-OS-v4.14-20220228-surya-Official-GApps.zip"
 maintainer = "Tushar Mahajan"
 group = "https://t.me/+CsTtPCwRqiRlY2Jl"
 
