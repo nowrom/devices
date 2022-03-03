@@ -16,8 +16,8 @@ photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10i-5g.jpg"
 
 [[roms]]
 id = "arrowos"
-maintainer = "Ganesh Varma"
-changelog = "- Upstream blobs to global.\r\n- Upstream kernel.\r\n- Update light HAL.\r\n- Device tree improvements and performance enhancements.\r\n- Fixed traffic indicator visibility on status bar.\r\n- Misc changes and blob updates.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor."
+maintainer = "Lynnrin"
+changelog = "Please check\r\nhttps://github.com/ArrowOS-Devices/android_device_xiaomi_gauguin/commits/arrow-12.0\r\nand\r\nhttps://arrowos.net/changelog.php\r\nfor actual changes."
 
 [[roms]]
 id = "dotos"

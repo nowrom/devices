@@ -19,3 +19,14 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "CakesTwix"
 active = true
+
+[specs]
+cpu = "Octa-core (1x2.8 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510) - EuropeOcta-core (1x3.00 GHz Cortex-X2 & 3x2.40 GHz Cortex-A710 & 4x1.70 GHz Cortex-A510) - ROW"
+weight = "228 g / 229 g (mmWave) (8.04 oz)"
+year = "2022, February 09"
+os = "Android 12, One UI 4.1"
+chipset = "Exynos 2200 (4 nm) - EuropeQualcomm SM8450 Snapdragon 8 Gen 1 (4 nm) - ROW"
+gpu = "Xclipse 920 - EuropeAdreno 730 - ROW"
+sensors = "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 108h"
+internalmemory = "128GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM"

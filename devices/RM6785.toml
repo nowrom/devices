@@ -1,0 +1,8 @@
+codename = "RM6785"
+name = "RM6785"
+recoveries = []
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/Atharva_RM6785_Chat"
+download = "https://downloads.spark-os.live/?dir=RM6785/"

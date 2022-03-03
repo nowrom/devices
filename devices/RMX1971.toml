@@ -61,7 +61,7 @@ id = "revengeos"
 [[roms]]
 id = "sparkos"
 group = "https://t.me/Spark_RMX1971"
-download = "https://downloads.spark-os.live/RMX1971/Spark-12.0-Official-RMX1971-20220213.zip"
+download = "https://downloads.spark-os.live/?dir=RMX1971/"
 
 [specs]
 cpu = "Octa-core (2x2.5 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)"

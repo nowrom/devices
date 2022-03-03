@@ -90,7 +90,7 @@ active = true
 [[roms]]
 id = "sparkos"
 group = "https://t.me/Spark_sweet"
-download = "https://downloads.spark-os.live/sweet/Spark-12.0-Official-sweet-20220213.zip"
+download = "https://downloads.spark-os.live/?dir=sweet/"
 
 [specs]
 cpu = "Not found"

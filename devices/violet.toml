@@ -26,6 +26,11 @@ id = "blissroms"
 id = "cherishos"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
+recovery = ""
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -97,4 +102,4 @@ active = true
 [[roms]]
 id = "sparkos"
 group = "https://t.me/sparkosviolet"
-download = "https://downloads.spark-os.live/violet/Spark-12.0-Official-violet-20220212-gapps.zip"
+download = "https://downloads.spark-os.live/?dir=violet/"

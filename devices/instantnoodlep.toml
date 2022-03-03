@@ -1,6 +1,6 @@
 brand = "OnePlus"
 codename = "instantnoodlep"
-name = "OnePlus 8P"
+name = "OnePlus 8 Pro"
 
 [[recoveries]]
 id = "twrp"
@@ -45,6 +45,12 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/oneplus-8-pro/development/rom-pixel-experience-t4166993"
 stable = true
 deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = ""
+stable = true
+deprecated = false
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"

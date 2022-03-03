@@ -25,7 +25,7 @@ id = "revengeos"
 [[roms]]
 id = "sparkos"
 group = "https://t.me/SparkOSCommunity"
-download = "https://downloads.spark-os.live/zippo/Spark-12.0-Official-zippo-20220212.zip"
+download = "https://downloads.spark-os.live/?dir=zippo/"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"

@@ -50,7 +50,7 @@ id = "pixyos"
 [[roms]]
 id = "sparkos"
 group = "https://t.me/sparkredmi7"
-download = "https://downloads.spark-os.live/onclite/Spark-12.0-Official-onclite-20220213.zip"
+download = "https://downloads.spark-os.live/?dir=onclite/"
 
 [specs]
 cpu = "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)"

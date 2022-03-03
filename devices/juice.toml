@@ -12,6 +12,11 @@ id = "arrowos"
 maintainer = "John Paul Patigas"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://forum.xda-developers.com/t/gapps-arm64-flamegapps-for-android-9-0-10-0-11-0.4020917/"
+recovery = ""
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

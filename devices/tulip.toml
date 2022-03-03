@@ -55,7 +55,7 @@ id = "pixyos"
 [[roms]]
 id = "sparkos"
 group = "https://t.me/spark_tulip"
-download = "https://downloads.spark-os.live/tulip/Spark-12.0-Official-tulip-20220212.zip"
+download = "https://downloads.spark-os.live/?dir=tulip/"
 
 [[roms]]
 id = "syberia"

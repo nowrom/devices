@@ -95,7 +95,7 @@ active = true
 [[roms]]
 id = "sparkos"
 group = "https://t.me/WeedyBuilds"
-download = "https://downloads.spark-os.live/vayu/Spark-12.0-Official-vayu-20220212.zip"
+download = "https://downloads.spark-os.live/?dir=vayu/"
 
 [specs]
 cpu = "Octa-core (1x2.96 GHz Kryo 485 Gold & 3x2.42 GHz Kryo 485 Gold & 4x1.78 GHz Kryo 485 Silver)"

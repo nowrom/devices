@@ -8,6 +8,10 @@ xdathread = "http://forum.xda-developers.com/leeco-le-1s/development/official-tw
 maintainer = "DroidThug"
 
 [[roms]]
+id = "arrowos"
+maintainer = "Adithya (ghostrider_reborn)"
+
+[[roms]]
 id = "legionos"
 active = true
 maintainer = "Patriot06"
