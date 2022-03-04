@@ -16071,6 +16071,11 @@
   },
   {
     "brand": "Blu",
+    "name": "F91 5G",
+    "codename": "F0030UU"
+  },
+  {
+    "brand": "Blu",
     "name": "G0290WW",
     "codename": "G0290WW"
   },
@@ -63946,6 +63951,11 @@
   },
   {
     "brand": "J:COM",
+    "name": "SC40",
+    "codename": "SC40"
+  },
+  {
+    "brand": "J:COM",
     "name": "XA401",
     "codename": "XA401"
   },
@@ -89945,6 +89955,11 @@
     "codename": "MH-CHANNELS"
   },
   {
+    "brand": "MojaTV",
+    "name": "MojaTV",
+    "codename": "SEI530BHT"
+  },
+  {
     "brand": "Mola TV",
     "name": "PDBM11ADL",
     "codename": "DV8235_P"
@@ -93483,6 +93498,11 @@
     "brand": "Multilaser",
     "name": "M10_4G_PRO",
     "codename": "ML_SO0G_M10_4G_PRO_PLUS"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "M10_4G_PRO_TERE",
+    "codename": "WI0C_M10_4G_PRO_TERE"
   },
   {
     "brand": "Multilaser",
@@ -138500,6 +138520,11 @@
     "codename": "VC92"
   },
   {
+    "brand": "Speedata",
+    "name": "FG60 EEA",
+    "codename": "FG60"
+  },
+  {
     "brand": "Speedmind",
     "name": "AM801",
     "codename": "AM801"
@@ -139941,8 +139966,8 @@
   },
   {
     "brand": "Syinix",
-    "name": "55U51",
-    "codename": "barking"
+    "name": "\"APAC",
+    "codename": "Africa\""
   },
   {
     "brand": "Syinix",
@@ -153953,6 +153978,11 @@
     "brand": "Ulefone",
     "name": "Note 10",
     "codename": "Note_10"
+  },
+  {
+    "brand": "Ulefone",
+    "name": "Note 10P",
+    "codename": "Note_10P"
   },
   {
     "brand": "Ulefone",

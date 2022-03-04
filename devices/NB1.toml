@@ -25,3 +25,14 @@ version_code = "twelve"
 xda_thread = ""
 stable = true
 deprecated = false
+
+[specs]
+cpu = "Octa-core (4x2.5 GHz Kryo & 4x1.8 GHz Kryo)"
+weight = "160 g (5.64 oz)"
+year = "2017, August 16"
+os = "Android 7.1.1 (Nougat), upgradable to Android 9.0 (Pie)"
+chipset = "Qualcomm MSM8998 Snapdragon 835 (10 nm)"
+gpu = "Adreno 540"
+sensors = "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer"
+batlife = "Endurance rating 78h"
+internalmemory = "64GB 4GB RAM, 128GB 6GB RAM"

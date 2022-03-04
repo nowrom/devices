@@ -4,6 +4,10 @@ name = "oneplus nord"
 recoveries = []
 
 [[roms]]
+id = "arrowos"
+maintainer = "TG_DEVICE_MAINTAINER"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
