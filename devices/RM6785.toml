@@ -6,3 +6,14 @@ recoveries = []
 id = "sparkos"
 group = "https://t.me/Atharva_RM6785_Chat"
 download = "https://downloads.spark-os.live/?dir=RM6785/"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

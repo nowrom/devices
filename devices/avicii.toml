@@ -5,7 +5,7 @@ recoveries = []
 
 [[roms]]
 id = "arrowos"
-maintainer = "TG_DEVICE_MAINTAINER"
+maintainer = "Keertesh"
 
 [[roms]]
 id = "dotos"
