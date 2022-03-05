@@ -46,7 +46,7 @@ async function run(fn: UpdateFunction) {
 	if (r) {
 		r.forEach((r) => {
 			if (!r) return;
-			let device = getDevice(r.codename);
+			let device = getDevice(r.codename.trim());
 			device = {
 				...r,
 				...device,
@@ -147,7 +147,10 @@ android_devices.forEach((device) => {
 	)
 		return;
 	if (dv)
-		stored_devices.set(device.codename.toLowerCase(), { ...dv, ...device });
+		stored_devices.set(device.codename.toLowerCase().trim(), {
+			...dv,
+			...device,
+		});
 });
 
 for (const spec of specs) {
