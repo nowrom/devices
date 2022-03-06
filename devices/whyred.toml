@@ -18,7 +18,7 @@ photo = "https://telegra.ph/file/d44358afe0fe98893c1f7.png"
 [[roms]]
 id = "arrowos"
 maintainer = "Sreekanth"
-changelog = "• Switched to AOSP WFD\r\n• Upstream kernel to 4.4.283\r\n• Drop perfd blobs\r\n• Fixed nightlight\r\n• Cleanup useless blobs\r\n• Misc changes"
+changelog = "• Clean up some blobs\r\n• Add local FileUtils\r\n• Refactor the whole code and adapt parts to S style\r\n• Add bass booster preset for MiSound\r\n• Do not sign Wifi RROs with platform cert\r\n• Some misc changes and clean up"
 
 [[roms]]
 id = "blissroms"
