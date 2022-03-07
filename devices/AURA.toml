@@ -11,7 +11,7 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_razer_aura","kernel_razer_sdm845","vendor_razer_aura"]
+repostories = ["device_razer_aura","kernel_razer_sdm845","vendor_razer_aura","vendor_razer_aura-extra"]
 
 [[roms.supported_versions]]
 version_code = "twelve"

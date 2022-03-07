@@ -26,3 +26,14 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-r-offic
 maintainer_url = "https://forum.xda-developers.com/m/haridhayal.9053429"
 maintainer_name = "Haridhayal"
 active = true
+
+[specs]
+cpu = "Octa-core (4x2.3 GHz Mongoose M2 & 4x1.7 GHz Cortex-A53) - EMEAOcta-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo) - USA & China"
+weight = "155 g (5.47 oz)"
+year = "2017, March 29. Released 2017, April 24"
+os = "Android 7.0 (Nougat), upgradable to Android 9.0 (Pie), One UI"
+chipset = "Exynos 8895 (10 nm) - EMEAQualcomm MSM8998 Snapdragon 835 (10 nm) - USA & China"
+gpu = "Mali-G71 MP20 - EMEAAdreno 540 - USA & China"
+sensors = "Iris scanner, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2"
+batlife = "Endurance rating 84h"
+internalmemory = "64GB 4GB RAM"

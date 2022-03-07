@@ -44,8 +44,8 @@ id = "pixelextended"
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/juice/PixelExtended_juice-12.0-20220125-1827-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-a12-pixel-extended-4-1-for-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice.4393915/"
+url = "https://sourceforge.net/projects/pixelextended/files/juice/PixelExtended_juice-12.0-20220305-1839-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-a12-pixel-extended-4-2-for-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice.4393915/"
 
 [[roms]]
 id = "sparkos"
