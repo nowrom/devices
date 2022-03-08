@@ -1,15 +1,15 @@
 brand = "LG"
-codename = "US991"
+codename = "h819"
 name = "LG G4"
 roms = []
 
 [[recoveries]]
 id = "twrp"
-xdathread = "http://forum.xda-developers.com/g4/development/recovery-twrp-3-touch-recovery-t3442424"
 maintainer = "steadfasterX"
 
 [[recoveries]]
 id = "twrp"
+xdathread = "http://forum.xda-developers.com/g4/development/recovery-twrp-3-touch-recovery-t3442424"
 maintainer = "steadfasterX"
 
 [specs]

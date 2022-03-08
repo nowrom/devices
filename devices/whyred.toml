@@ -86,3 +86,14 @@ xda_thread = "https://forum.xda-developers.com/t/rom-eleven-project-sakura-for-x
 maintainer_url = "https://forum.xda-developers.com/m/darkstar085.6698785/"
 maintainer_name = "Sipun Ku Mahanta"
 active = true
+
+[specs]
+cpu = "Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver)"
+weight = "202 g (7.13 oz)"
+year = "2022, January 26"
+os = "Android 11, MIUI 13"
+chipset = "Qualcomm SM6375 Snapdragon 695 5G (6 nm)"
+gpu = "Adreno 619"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 115h"
+internalmemory = "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM"
