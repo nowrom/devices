@@ -102891,6 +102891,11 @@
   },
   {
     "brand": "Orange",
+    "name": "Orange Neva sparkle",
+    "codename": "Neva_sparkle"
+  },
+  {
+    "brand": "Orange",
     "name": "Orange Neva zen",
     "codename": "Neva_zen"
   },
@@ -114871,6 +114876,11 @@
   },
   {
     "brand": "Reeder",
+    "name": "P13 Blue Max 128 GB 2022",
+    "codename": "Blue_Max_128GB_2022k1"
+  },
+  {
+    "brand": "Reeder",
     "name": "P13 Blue Max Lite",
     "codename": "P13_BML"
   },
@@ -122796,6 +122806,21 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy M33 5G",
+    "codename": "m33x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M33 5G",
+    "codename": "m33x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M33 5G",
+    "codename": "m33x"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy M40",
     "codename": "m40"
   },
@@ -125747,6 +125772,11 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S22",
+    "codename": "r0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22",
     "codename": "r0s"
   },
   {
@@ -125777,7 +125807,17 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S22 Ultra",
+    "codename": "b0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22 Ultra",
     "codename": "b0s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22+",
+    "codename": "g0q"
   },
   {
     "brand": "Samsung",
@@ -129101,68 +129141,8 @@
   },
   {
     "brand": "Samsung",
-    "name": "Galaxy Tab S8 5G",
-    "codename": "gts8"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab S8 5G",
-    "codename": "gts8"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab S8 5G",
-    "codename": "gts8"
-  },
-  {
-    "brand": "Samsung",
     "name": "Galaxy Tab S8 Ultra",
     "codename": "gts8uwifi"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab S8 Ultra 5G",
-    "codename": "gts8u"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab S8 Ultra 5G",
-    "codename": "gts8u"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab S8 Ultra 5G",
-    "codename": "gts8u"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab S8+",
-    "codename": "gts8pwifi"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab S8+ 5G",
-    "codename": "gts8p"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab S8+ 5G",
-    "codename": "gts8p"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab S8+ 5G",
-    "codename": "gts8p"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab S8+ 5G",
-    "codename": "gts8p"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Tab S8+ 5G",
-    "codename": "gts8p"
   },
   {
     "brand": "Samsung",
@@ -151151,6 +151131,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO POP 6 Go",
+    "codename": "TECNO-BE6-R2"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO POP X5",
     "codename": "TECNO-L6502S"
   },
@@ -154698,6 +154683,11 @@
     "brand": "Umidigi",
     "name": "A11_Tab-EEA",
     "codename": "A11_Tab-EEA"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "A13 Pro",
+    "codename": "A13_Pro"
   },
   {
     "brand": "Umidigi",
