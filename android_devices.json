@@ -16466,6 +16466,11 @@
   },
   {
     "brand": "Blu",
+    "name": "M8L 2022",
+    "codename": "M0220WW_ND"
+  },
+  {
+    "brand": "Blu",
     "name": "M8L PLUS",
     "codename": "M0209WW"
   },
@@ -85801,6 +85806,11 @@
   },
   {
     "brand": "Mecool",
+    "name": "KA1",
+    "codename": "KA1"
+  },
+  {
+    "brand": "Mecool",
     "name": "KA2",
     "codename": "KA2"
   },
@@ -95823,6 +95833,11 @@
     "brand": "NETGREEN",
     "name": "MW75QF6",
     "codename": "MW75QF6"
+  },
+  {
+    "brand": "NETTV",
+    "name": "NETTV",
+    "codename": "SEI500NTV"
   },
   {
     "brand": "NEWSUN",
@@ -118156,6 +118171,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy A13",
+    "codename": "a13"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy A13 5G",
     "codename": "a13x"
   },
@@ -136047,12 +136067,12 @@
   {
     "brand": "Sony",
     "name": "Xperia 10 III",
-    "codename": "XQ-BT44"
+    "codename": "XQ-BT52"
   },
   {
     "brand": "Sony",
-    "name": "Xperia 10 III",
-    "codename": "XQ-BT52"
+    "name": "Xperia 10 III Lite",
+    "codename": "XQ-BT44"
   },
   {
     "brand": "Sony",
@@ -178778,6 +178798,11 @@
     "brand": "sincoole",
     "name": "ST11-A5",
     "codename": "ST11-A5"
+  },
+  {
+    "brand": "stc myhome",
+    "name": "myHome",
+    "codename": "SEI560STC"
   },
   {
     "brand": "sugar_aums",
