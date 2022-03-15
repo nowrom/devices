@@ -4496,6 +4496,11 @@
   },
   {
     "brand": "AllView",
+    "name": "Viva H1003 LTE PRO/1",
+    "codename": "H1003_LTE_PRO1_32"
+  },
+  {
+    "brand": "AllView",
     "name": "Viva H1003 LTE PRO/1-64GB",
     "codename": "H1003_LTE_PRO1_64"
   },
@@ -10595,6 +10600,11 @@
     "codename": "AT701U"
   },
   {
+    "brand": "Azeyou",
+    "name": "AT801",
+    "codename": "AT801"
+  },
+  {
     "brand": "Azumi",
     "name": "A4",
     "codename": "A4"
@@ -13428,6 +13438,11 @@
     "brand": "BYJUS",
     "name": "LRNS10WNW0",
     "codename": "LRNS10WIFI"
+  },
+  {
+    "brand": "BYYBUO",
+    "name": "BYYBUO_SmartPad_T10",
+    "codename": "BYYBUO_SmartPad_T10"
   },
   {
     "brand": "Bang & Olufsen",
@@ -18225,6 +18240,11 @@
     "codename": "F880"
   },
   {
+    "brand": "CIMI",
+    "name": "A8",
+    "codename": "A8"
+  },
+  {
     "brand": "CIMRL",
     "name": "tab10",
     "codename": "tab10"
@@ -22271,6 +22291,11 @@
   },
   {
     "brand": "Conquest",
+    "name": "S21_RU",
+    "codename": "S21"
+  },
+  {
+    "brand": "Conquest",
     "name": "conquest-S20",
     "codename": "conquest-S20"
   },
@@ -24763,6 +24788,11 @@
     "brand": "DEXP",
     "name": "C37",
     "codename": "C37"
+  },
+  {
+    "brand": "DEXP",
+    "name": "C38",
+    "codename": "C38"
   },
   {
     "brand": "DEXP",
@@ -33010,6 +33040,11 @@
     "codename": "T8M"
   },
   {
+    "brand": "FOXXD",
+    "name": "T8Plus",
+    "codename": "T8Plus"
+  },
+  {
     "brand": "FPT Telecom",
     "name": "FPT ATV Play Box",
     "codename": "DV8236"
@@ -35651,6 +35686,11 @@
   },
   {
     "brand": "G-Tab",
+    "name": "F8X",
+    "codename": "F8X"
+  },
+  {
+    "brand": "G-Tab",
     "name": "G4",
     "codename": "G4"
   },
@@ -36718,6 +36758,11 @@
     "brand": "GeneralSupreme",
     "name": "Smart TV",
     "codename": "longshan"
+  },
+  {
+    "brand": "General_luxe",
+    "name": "Shahin_III",
+    "codename": "Shahin_III"
   },
   {
     "brand": "Geniatech",
@@ -39458,6 +39503,11 @@
     "brand": "HDD SAT",
     "name": "Tab_i_excess",
     "codename": "Tab_i_excess"
+  },
+  {
+    "brand": "HEALTHJAY",
+    "name": "JayPad_2_0",
+    "codename": "JayPad_2_0"
   },
   {
     "brand": "HEATZ",
@@ -58421,6 +58471,11 @@
   },
   {
     "brand": "Hyundai",
+    "name": "HT10LA1MSGNA02",
+    "codename": "HT10LA1MSGNA02"
+  },
+  {
+    "brand": "Hyundai",
     "name": "HT10LB3MBKLTM",
     "codename": "HT10LB3MBKLTM"
   },
@@ -58453,6 +58508,11 @@
     "brand": "Hyundai",
     "name": "HT8LA1RBKNA01",
     "codename": "HT8LA1RBKNA01"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "HT8LAB1PBKLTM",
+    "codename": "HT8LAB1PBKLTM"
   },
   {
     "brand": "Hyundai",
@@ -65888,6 +65948,11 @@
     "brand": "Kalley",
     "name": "xiaoyushan_kalley",
     "codename": "xiaoyushan"
+  },
+  {
+    "brand": "Kammunica",
+    "name": "Kammunica_500V",
+    "codename": "Kammunica_500V"
   },
   {
     "brand": "Kammunica",
@@ -100061,6 +100126,11 @@
   },
   {
     "brand": "OpelMobile",
+    "name": "SMARTKIDS",
+    "codename": "SMARTKIDS"
+  },
+  {
+    "brand": "OpelMobile",
     "name": "Smart X6",
     "codename": "SmartX6"
   },
@@ -119106,6 +119176,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy A53 5G",
+    "codename": "a53x"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy A53 5G UW",
     "codename": "a53x"
   },
@@ -122768,6 +122843,11 @@
     "brand": "Samsung",
     "name": "Galaxy M22",
     "codename": "m22"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M23 5G",
+    "codename": "m23xq"
   },
   {
     "brand": "Samsung",
@@ -129161,8 +129241,68 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Tab S8 5G",
+    "codename": "gts8"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8 5G",
+    "codename": "gts8"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8 5G",
+    "codename": "gts8"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Tab S8 Ultra",
     "codename": "gts8uwifi"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8 Ultra 5G",
+    "codename": "gts8u"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8 Ultra 5G",
+    "codename": "gts8u"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8 Ultra 5G",
+    "codename": "gts8u"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8+",
+    "codename": "gts8pwifi"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8+ 5G",
+    "codename": "gts8p"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8+ 5G",
+    "codename": "gts8p"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8+ 5G",
+    "codename": "gts8p"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8+ 5G",
+    "codename": "gts8p"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S8+ 5G",
+    "codename": "gts8p"
   },
   {
     "brand": "Samsung",
@@ -148586,6 +148726,11 @@
   },
   {
     "brand": "TJD(SZ)",
+    "name": "MT-710QU_Pro",
+    "codename": "MT-710QU_Pro"
+  },
+  {
+    "brand": "TJD(SZ)",
     "name": "MT-715QR",
     "codename": "MT-715QR"
   },
@@ -149918,6 +150063,11 @@
     "brand": "Teclast",
     "name": "P85_ROW",
     "codename": "P85_ROW"
+  },
+  {
+    "brand": "Teclast",
+    "name": "P85_RUS",
+    "codename": "P85_RUS"
   },
   {
     "brand": "Teclast",
@@ -157858,6 +158008,11 @@
     "brand": "Vgo Tel",
     "name": "NEW 7",
     "codename": "NEW_7"
+  },
+  {
+    "brand": "Vgo Tel",
+    "name": "NEW_20",
+    "codename": "NEW_20"
   },
   {
     "brand": "Vgo Tel",
@@ -166228,6 +166383,11 @@
     "brand": "YETRUE",
     "name": "yetruepad21",
     "codename": "yetruepad21_EEA"
+  },
+  {
+    "brand": "YOBANSE",
+    "name": "T88",
+    "codename": "T88"
   },
   {
     "brand": "YOSATOO",
@@ -177676,6 +177836,11 @@
   },
   {
     "brand": "iMuz",
+    "name": "muPAD102",
+    "codename": "muPAD102"
+  },
+  {
+    "brand": "iMuz",
     "name": "muPADT7",
     "codename": "muPADT7"
   },
@@ -178278,6 +178443,11 @@
     "brand": "memetech",
     "name": "P30",
     "codename": "P30"
+  },
+  {
+    "brand": "menfop",
+    "name": "HaierP8B",
+    "codename": "HaierP8B"
   },
   {
     "brand": "mytel",
