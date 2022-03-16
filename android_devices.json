@@ -825,6 +825,11 @@
     "codename": "A801"
   },
   {
+    "brand": "ATEC",
+    "name": "APD3",
+    "codename": "APD3"
+  },
+  {
     "brand": "ATID",
     "name": "AT908",
     "codename": "AT908"
@@ -5217,7 +5222,17 @@
   {
     "brand": "Altus",
     "name": "Altus Android TV",
+    "codename": "kunyang"
+  },
+  {
+    "brand": "Altus",
+    "name": "Altus Android TV",
     "codename": "shinagawa"
+  },
+  {
+    "brand": "Altus",
+    "name": "Altus UHD Android TV",
+    "codename": "kunyang"
   },
   {
     "brand": "Americamovil",
@@ -32090,6 +32105,11 @@
     "codename": "Fine_7B"
   },
   {
+    "brand": "Everex",
+    "name": "Fine 7B",
+    "codename": "Fine_7B"
+  },
+  {
     "brand": "Everis",
     "name": "E0109",
     "codename": "E0109"
@@ -44063,6 +44083,11 @@
     "brand": "Haier",
     "name": "Haier Android TV FF Pro ISDB",
     "codename": "daan"
+  },
+  {
+    "brand": "Haier",
+    "name": "Haier Android TV ISDB",
+    "codename": "dupont"
   },
   {
     "brand": "Haier",
@@ -65780,6 +65805,11 @@
     "codename": "zhongshan"
   },
   {
+    "brand": "KTCtv",
+    "name": "SA",
+    "codename": "stanford"
+  },
+  {
     "brand": "KTV",
     "name": "PureKTV",
     "codename": "DV8219"
@@ -67528,6 +67558,11 @@
     "brand": "KrossElegance",
     "name": "KE-TB1032OF",
     "codename": "KE-TB1032OF"
+  },
+  {
+    "brand": "KrossElegance",
+    "name": "KE-TB815",
+    "codename": "KE-TB815"
   },
   {
     "brand": "KrossElegance",
@@ -82087,7 +82122,22 @@
   {
     "brand": "LinkNet",
     "name": "X1-Prime-c",
+    "codename": "DTC2140"
+  },
+  {
+    "brand": "LinkNet",
+    "name": "X1-Prime-c",
     "codename": "DTC9565"
+  },
+  {
+    "brand": "LinkNet",
+    "name": "X1-Prime-i",
+    "codename": "DTP2162"
+  },
+  {
+    "brand": "LinkNet",
+    "name": "X1-Prime-i",
+    "codename": "DTP9718"
   },
   {
     "brand": "Linsar",
@@ -130361,26 +130411,6 @@
   },
   {
     "brand": "Samsung",
-    "name": "Galaxy XCover Pro",
-    "codename": "xcoverpro"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy XCover Pro",
-    "codename": "xcoverpro"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy XCover Pro",
-    "codename": "xcoverpro"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy XCover Pro",
-    "codename": "xcoverpro"
-  },
-  {
-    "brand": "Samsung",
     "name": "Galaxy XCover4",
     "codename": "xcover4lte"
   },
@@ -148721,6 +148751,11 @@
   },
   {
     "brand": "TJD(SZ)",
+    "name": "MT-710QF",
+    "codename": "MT-710QF"
+  },
+  {
+    "brand": "TJD(SZ)",
     "name": "MT-710QU",
     "codename": "MT-710QU"
   },
@@ -154858,6 +154893,11 @@
     "brand": "Umidigi",
     "name": "A13 Pro",
     "codename": "A13_Pro"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "A13S EEA",
+    "codename": "A13S"
   },
   {
     "brand": "Umidigi",
@@ -173828,6 +173868,11 @@
     "brand": "ZTE",
     "name": "ZTE 9040N",
     "codename": "P653S11"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE 9045",
+    "codename": "P618F06"
   },
   {
     "brand": "ZTE",
