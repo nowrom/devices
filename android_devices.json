@@ -3511,6 +3511,11 @@
   },
   {
     "brand": "Aiwa",
+    "name": "Smart TV",
+    "codename": "redwood"
+  },
+  {
+    "brand": "Aiwa",
     "name": "TA07-2GB",
     "codename": "TA07-2GB"
   },
@@ -18971,6 +18976,11 @@
   },
   {
     "brand": "Casio",
+    "name": "dtx450",
+    "codename": "dtx450"
+  },
+  {
+    "brand": "Casio",
     "name": "itg600",
     "codename": "itg600"
   },
@@ -29396,6 +29406,11 @@
   },
   {
     "brand": "Durabrand",
+    "name": "DB Android TV 4K",
+    "codename": "dupont"
+  },
+  {
+    "brand": "Durabrand",
     "name": "Durabrand android TV",
     "codename": "hanyang"
   },
@@ -30528,6 +30543,11 @@
     "brand": "Echolink",
     "name": "Echolink TV",
     "codename": "shinagawa"
+  },
+  {
+    "brand": "EcoStar",
+    "name": "ECOSTAR",
+    "codename": "stanford"
   },
   {
     "brand": "EcoStar",
@@ -65806,6 +65826,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "Rosso",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
     "name": "SA",
     "codename": "stanford"
   },
@@ -66223,6 +66248,11 @@
     "brand": "Karbonn",
     "name": "K9_Viraat_Plus",
     "codename": "K9_Viraat_Plus"
+  },
+  {
+    "brand": "Karbonn",
+    "name": "Karbonn",
+    "codename": "stanford"
   },
   {
     "brand": "Karbonn",
@@ -68533,6 +68563,11 @@
     "brand": "Kyocera",
     "name": "おてがるスマホ01",
     "codename": "KYV44_u2"
+  },
+  {
+    "brand": "Kyocera",
+    "name": "かんたんスマホ2+",
+    "codename": "A201KC"
   },
   {
     "brand": "Kyocera",
@@ -75936,6 +75971,11 @@
   },
   {
     "brand": "Lanix",
+    "name": "Alpha_1VPlus",
+    "codename": "Alpha_1VPlus"
+  },
+  {
+    "brand": "Lanix",
     "name": "Alpha_3V",
     "codename": "Alpha_3V"
   },
@@ -82311,6 +82351,11 @@
   },
   {
     "brand": "Logic Mobility",
+    "name": "L50 Plus",
+    "codename": "L50_PLUS"
+  },
+  {
+    "brand": "Logic Mobility",
     "name": "L55A",
     "codename": "L55A"
   },
@@ -86373,6 +86418,11 @@
     "brand": "Medion",
     "name": "LIFETAB P1034X",
     "codename": "lifetab_p1034x"
+  },
+  {
+    "brand": "Medion",
+    "name": "LIFETAB P1075X",
+    "codename": "P1075X"
   },
   {
     "brand": "Medion",
@@ -115096,6 +115146,11 @@
   },
   {
     "brand": "Reeder",
+    "name": "S19 Max Pro",
+    "codename": "S19_Max_Pro"
+  },
+  {
+    "brand": "Reeder",
     "name": "T8",
     "codename": "reeder_T8"
   },
@@ -118481,6 +118536,21 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy A23",
+    "codename": "a23"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A23",
+    "codename": "a23"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A23",
+    "codename": "a23"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy A3",
     "codename": "a33g"
   },
@@ -120871,6 +120941,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy F23 5G",
+    "codename": "m23xq"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy F41",
     "codename": "f41"
   },
@@ -122893,11 +122968,6 @@
     "brand": "Samsung",
     "name": "Galaxy M22",
     "codename": "m22"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy M23 5G",
-    "codename": "m23xq"
   },
   {
     "brand": "Samsung",
@@ -131211,6 +131281,11 @@
   },
   {
     "brand": "Sansui",
+    "name": "Sansui Smart TV",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Sansui",
     "name": "Sansui_Nova",
     "codename": "Sansui_Nova"
   },
@@ -134288,6 +134363,11 @@
     "brand": "Sintel",
     "name": "SINTEL-X1",
     "codename": "SINTEL_X1"
+  },
+  {
+    "brand": "Siragon",
+    "name": "SP 6200",
+    "codename": "SP-6200"
   },
   {
     "brand": "Siragon",
@@ -148541,6 +148621,11 @@
   },
   {
     "brand": "TD SYSTEMS",
+    "name": "Android TV",
+    "codename": "redwood"
+  },
+  {
+    "brand": "TD SYSTEMS",
     "name": "Spain",
     "codename": "tamachi"
   },
@@ -153980,6 +154065,11 @@
     "codename": "yeongdeungpo"
   },
   {
+    "brand": "UD (EU)",
+    "name": "Smart TV",
+    "codename": "redwood"
+  },
+  {
     "brand": "UJoyFeel",
     "name": "KIDS705-701A",
     "codename": "KIDS705_701A"
@@ -155146,6 +155236,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "F3 SE EEA",
+    "codename": "F3_SE"
+  },
+  {
+    "brand": "Umidigi",
     "name": "F3S",
     "codename": "F3S"
   },
@@ -155445,6 +155540,11 @@
     "codename": "UNI_GO"
   },
   {
+    "brand": "Uniqcell",
+    "name": "UNI X",
+    "codename": "UNI_X"
+  },
+  {
     "brand": "Uniscope",
     "name": "S6s",
     "codename": "S6s"
@@ -155728,6 +155828,11 @@
     "brand": "Urovo",
     "name": "DT50",
     "codename": "DT50"
+  },
+  {
+    "brand": "Urovo",
+    "name": "DT50",
+    "codename": "DT50S"
   },
   {
     "brand": "Urovo",
@@ -176126,6 +176231,11 @@
   },
   {
     "brand": "Zuum",
+    "name": "STELLAR P5",
+    "codename": "STELLAR_P5"
+  },
+  {
+    "brand": "Zuum",
     "name": "STELLAR PLUS",
     "codename": "STELLAR_PLUS"
   },
@@ -176343,6 +176453,11 @@
     "brand": "benco",
     "name": "v7",
     "codename": "LE9920_P"
+  },
+  {
+    "brand": "biolux",
+    "name": "Android TV",
+    "codename": "redwood"
   },
   {
     "brand": "biolux",
@@ -176848,6 +176963,11 @@
     "brand": "halotel",
     "name": "H8502",
     "codename": "H8502"
+  },
+  {
+    "brand": "homez",
+    "name": "Smart TV",
+    "codename": "redwood"
   },
   {
     "brand": "i-Buddie",
