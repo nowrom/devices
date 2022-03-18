@@ -10841,6 +10841,16 @@
   },
   {
     "brand": "Azumi",
+    "name": "Azumi V65",
+    "codename": "AZUMI_V65_AC04"
+  },
+  {
+    "brand": "Azumi",
+    "name": "Azumi V65+",
+    "codename": "AZUMI_V65_PLUS_AC04"
+  },
+  {
+    "brand": "Azumi",
     "name": "Azumi_ V5_ AC05",
     "codename": "Azumi_V5_AC05"
   },
@@ -19803,6 +19813,11 @@
     "brand": "Cellution",
     "name": "PADUA",
     "codename": "PADUA"
+  },
+  {
+    "brand": "Cellution",
+    "name": "PADUA_1",
+    "codename": "PADUA_1"
   },
   {
     "brand": "Centric",
@@ -29403,6 +29418,11 @@
     "brand": "Durabrand",
     "name": "Central America",
     "codename": "nippori"
+  },
+  {
+    "brand": "Durabrand",
+    "name": "DB Android TV 2K",
+    "codename": "broadway"
   },
   {
     "brand": "Durabrand",
@@ -122976,6 +122996,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy M23 5G",
+    "codename": "m23xq"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy M30",
     "codename": "m30lte"
   },
@@ -154786,6 +154811,11 @@
   },
   {
     "brand": "Ulefone",
+    "name": "Tab R8 5G",
+    "codename": "Tab_R8_5G"
+  },
+  {
+    "brand": "Ulefone",
     "name": "Ulefone Tab A7",
     "codename": "Ulefone_Tab_A7"
   },
@@ -156008,6 +156038,11 @@
     "brand": "VIKUSHA",
     "name": "VZ-30",
     "codename": "VZ-30"
+  },
+  {
+    "brand": "VIMOQ",
+    "name": "VIMOQ V51 LTE",
+    "codename": "VIMOQ-A507LE"
   },
   {
     "brand": "VIPER",

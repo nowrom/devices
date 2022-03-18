@@ -8,6 +8,10 @@ xdathread = "https://forum.xda-developers.com/xiaomi-redmi-3s/development/recove
 maintainer = "Darshan M. (darshan1205)"
 
 [[roms]]
+id = "ancientos"
+photo = "https://camo.githubusercontent.com/3f833020eb7cd6aab7c72fe4f780828a897a0e55b9043c8b530858dfafbec3d4/687474703a2f2f63646e322e67736d6172656e612e636f6d2f76762f706963732f7869616f6d692f7869616f6d692d7265646d692d332d70726f2d322e6a7067"
+
+[[roms]]
 id = "arrowos"
 maintainer = "Bauuuuu"
 changelog = "-"
