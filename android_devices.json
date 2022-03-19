@@ -113901,11 +113901,6 @@
   },
   {
     "brand": "Realme",
-    "name": "realme C25",
-    "codename": "RMX3191"
-  },
-  {
-    "brand": "Realme",
     "name": "realme C25Y",
     "codename": "RE54D1"
   },
@@ -114551,6 +114546,11 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi 9A",
+    "codename": "dandelion"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi 9C",
     "codename": "angelica"
   },
@@ -114658,6 +114658,21 @@
     "brand": "Redmi",
     "name": "Redmi K40 Pro +",
     "codename": "haydn"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi K40S",
+    "codename": "munch"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi K50",
+    "codename": "rubens"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi K50 Pro",
+    "codename": "matisse"
   },
   {
     "brand": "Redmi",
@@ -166318,6 +166333,16 @@
     "brand": "Xiaomi",
     "name": "Xiaomi 11T Pro",
     "codename": "vili"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 12",
+    "codename": "cupid"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 12 Pro",
+    "codename": "zeus"
   },
   {
     "brand": "Xiaomi",
