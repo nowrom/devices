@@ -12226,6 +12226,11 @@
   },
   {
     "brand": "BMobile",
+    "name": "BL52_TG06",
+    "codename": "Bmobile_BL52_TG06"
+  },
+  {
+    "brand": "BMobile",
     "name": "BL54Pro",
     "codename": "Bmobile_BL54Pro"
   },
@@ -24058,6 +24063,21 @@
     "brand": "Crosscall",
     "name": "Trekker- X4",
     "codename": "HSSDM660QC"
+  },
+  {
+    "brand": "CryptoDATA",
+    "name": "Hidr S1 PRO",
+    "codename": "Hidr_S1_PRO"
+  },
+  {
+    "brand": "CryptoDATA",
+    "name": "Hidr S1 PRO ROW",
+    "codename": "Hidr_S1_PRO"
+  },
+  {
+    "brand": "CryptoDATA",
+    "name": "Hidr S1 PRO RU",
+    "codename": "Hidr_S1_PRO"
   },
   {
     "brand": "Cspire",
@@ -65846,6 +65866,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "NA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
     "name": "Rosso",
     "codename": "stanford"
   },
@@ -93178,6 +93203,11 @@
     "brand": "Motorola",
     "name": "motorola edge plus",
     "codename": "burton"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola edge plus 5G UW (2022)",
+    "codename": "hiphi"
   },
   {
     "brand": "Motorola",
