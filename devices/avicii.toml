@@ -6,7 +6,6 @@ recoveries = []
 [[roms]]
 id = "arrowos"
 maintainer = "Keertesh"
-changelog = "Initial Build."
 
 [[roms]]
 id = "dotos"
