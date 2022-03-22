@@ -456,6 +456,11 @@
   },
   {
     "brand": "AGE (in)",
+    "name": "Age",
+    "codename": "stanford"
+  },
+  {
+    "brand": "AGE (in)",
     "name": "India",
     "codename": "tamachi"
   },
@@ -7568,6 +7573,11 @@
     "brand": "Archos",
     "name": "X67 5G",
     "codename": "ac67x5g"
+  },
+  {
+    "brand": "Archos",
+    "name": "act101hdp",
+    "codename": "act101hdp"
   },
   {
     "brand": "Archos",
@@ -16633,6 +16643,11 @@
     "brand": "Blu",
     "name": "S5",
     "codename": "S0480LL_ALTAN"
+  },
+  {
+    "brand": "Blu",
+    "name": "S91",
+    "codename": "S0690WW"
   },
   {
     "brand": "Blu",
@@ -29853,6 +29868,11 @@
     "brand": "EKO",
     "name": "EKO android TV ISDB",
     "codename": "hanyang"
+  },
+  {
+    "brand": "EKO",
+    "name": "Eko",
+    "codename": "stanford"
   },
   {
     "brand": "EKO",
@@ -65043,6 +65063,11 @@
     "brand": "K-ELEC",
     "name": "K-ELEC",
     "codename": "bangbae"
+  },
+  {
+    "brand": "K-ELEC",
+    "name": "KELEC",
+    "codename": "stanford"
   },
   {
     "brand": "K-LEADTONE",
@@ -178703,6 +178728,11 @@
     "brand": "menfop",
     "name": "HaierP8B",
     "codename": "HaierP8B"
+  },
+  {
+    "brand": "moderness.online",
+    "name": "TK807",
+    "codename": "TK807"
   },
   {
     "brand": "mytel",

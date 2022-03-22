@@ -24,3 +24,14 @@ deprecated = false
 
 [[roms]]
 id = "potato"
+
+[specs]
+cpu = "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)"
+weight = "189 / 199 g (6.67 oz)"
+year = "2022, January 04"
+os = "Android 12, Realme UI 3.0"
+chipset = "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)"
+gpu = "Adreno 730"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum"
+batlife = "Endurance rating 117h"
+internalmemory = "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"
