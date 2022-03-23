@@ -19051,6 +19051,11 @@
   },
   {
     "brand": "Casper",
+    "name": "R3",
+    "codename": "R3"
+  },
+  {
+    "brand": "Casper",
     "name": "S20",
     "codename": "S20"
   },
@@ -20048,6 +20053,11 @@
     "brand": "Cherry Mobile",
     "name": "Aqua S9 Max",
     "codename": "Aqua_S9_Max"
+  },
+  {
+    "brand": "Cherry Mobile",
+    "name": "Aqua SV",
+    "codename": "Aqua_SV"
   },
   {
     "brand": "Cherry Mobile",
@@ -30608,6 +30618,11 @@
     "brand": "EcoStar",
     "name": "ECOSTAR",
     "codename": "stanford"
+  },
+  {
+    "brand": "EcoStar",
+    "name": "ECOSTAR",
+    "codename": "zhongshan"
   },
   {
     "brand": "EcoStar",
@@ -68011,6 +68026,11 @@
   },
   {
     "brand": "Kyocera",
+    "name": "Android One S9",
+    "codename": "S9-KC_sprout"
+  },
+  {
+    "brand": "Kyocera",
     "name": "BASIO",
     "codename": "KYV32"
   },
@@ -87311,6 +87331,16 @@
   },
   {
     "brand": "Micromax",
+    "name": "ATV R1",
+    "codename": "R1"
+  },
+  {
+    "brand": "Micromax",
+    "name": "ATV R2",
+    "codename": "R2"
+  },
+  {
+    "brand": "Micromax",
     "name": "Android TV",
     "codename": "R2"
   },
@@ -92398,6 +92428,11 @@
     "brand": "Motorola",
     "name": "moto P30 NOTE",
     "codename": "chef"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto X30 屏下摄像版",
+    "codename": "hiphid"
   },
   {
     "brand": "Motorola",
@@ -116581,6 +116616,11 @@
   },
   {
     "brand": "SPC Mobile",
+    "name": "GRAVITY_3_PRO",
+    "codename": "GRAVITY_3_PRO"
+  },
+  {
+    "brand": "SPC Mobile",
     "name": "Gravity_Max_EEA",
     "codename": "Gravity_Max"
   },
@@ -122876,6 +122916,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Jump2",
+    "codename": "m33x"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy K",
     "codename": "SHW-M130K"
   },
@@ -123118,11 +123163,6 @@
     "brand": "Samsung",
     "name": "Galaxy M32 5G",
     "codename": "a32x"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy M33 5G",
-    "codename": "m33x"
   },
   {
     "brand": "Samsung",
