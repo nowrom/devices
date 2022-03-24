@@ -10,7 +10,7 @@ photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devi
 [[roms]]
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
-changelog = "- Initial Android 12 release."
+changelog = "- Initial Android 12.1 release."
 
 [[roms]]
 id = "evolutionx"

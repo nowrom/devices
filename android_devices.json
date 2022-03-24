@@ -16526,11 +16526,6 @@
   },
   {
     "brand": "Blu",
-    "name": "M8L 2022",
-    "codename": "M0220WW_ND"
-  },
-  {
-    "brand": "Blu",
     "name": "M8L PLUS",
     "codename": "M0209WW"
   },
@@ -16973,6 +16968,11 @@
     "brand": "Blu",
     "name": "T6",
     "codename": "T0090TT"
+  },
+  {
+    "brand": "Blu",
+    "name": "T6L",
+    "codename": "T0130TT"
   },
   {
     "brand": "Blu",
@@ -25623,6 +25623,11 @@
     "brand": "DIFRNCE",
     "name": "DIT702201",
     "codename": "DIT702201"
+  },
+  {
+    "brand": "DIJITSU",
+    "name": "Smart A11s",
+    "codename": "Smart_A11s"
   },
   {
     "brand": "DIMENSIONS",
@@ -36013,6 +36018,11 @@
     "brand": "G-TiDE",
     "name": "PL1080",
     "codename": "G-TiDE_H1_4G_EEA"
+  },
+  {
+    "brand": "G-TiDE",
+    "name": "V1_4G",
+    "codename": "V1_4G"
   },
   {
     "brand": "G-TiDE",
@@ -60506,6 +60516,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "Infinix HOT 12",
+    "codename": "Infinix-X6817"
+  },
+  {
+    "brand": "Infinix",
     "name": "Infinix HOT 6X",
     "codename": "Infinix-X623"
   },
@@ -65773,6 +65788,11 @@
     "brand": "KRIP",
     "name": "K5",
     "codename": "K5"
+  },
+  {
+    "brand": "KRIP",
+    "name": "K50",
+    "codename": "K50"
   },
   {
     "brand": "KRIP",
@@ -86763,6 +86783,11 @@
     "brand": "Megacable",
     "name": "Mexico",
     "codename": "B866V2_ZTE"
+  },
+  {
+    "brand": "Megacable",
+    "name": "XView+",
+    "codename": "ucw4046meg"
   },
   {
     "brand": "Megahouse",
@@ -166436,6 +166461,16 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Xiaomi 12",
+    "codename": "cupid"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 12 Pro",
+    "codename": "zeus"
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Xiaomi 12 Pro",
     "codename": "zeus"
   },
@@ -179023,6 +179058,11 @@
     "brand": "realme",
     "name": "realme C11 2021",
     "codename": "RMX3231"
+  },
+  {
+    "brand": "realme",
+    "name": "realme C15",
+    "codename": "RMX2180"
   },
   {
     "brand": "realme",
