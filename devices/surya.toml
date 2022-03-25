@@ -14,7 +14,6 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Ganesh Varma, palaych"
-changelog = "- Drop old FP sensor location overlays\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11).</b>"
 
 [[roms]]
 id = "dotos"
