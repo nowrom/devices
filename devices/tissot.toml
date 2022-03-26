@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 codename = "tissot"
-name = "Mi A1"
+name = "Xiaomi Mi A1"
 
 [[recoveries]]
 id = "twrp"
