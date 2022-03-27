@@ -11,6 +11,10 @@ id = "twrp"
 maintainer = "topser9"
 
 [[roms]]
+id = "ancientos"
+photo = "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a20.jpg"
+
+[[roms]]
 id = "sakura"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-0-official-project-sakura-arm64-galaxy-a20.4250309/"
 maintainer_url = "https://forum.xda-developers.com/m/chatur27.10997227/"

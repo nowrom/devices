@@ -22,7 +22,6 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "kubersharma001"
-changelog = "Please check <a href=\"https://kubersharma001.com/index-arrowos-vayu-poco-x3-pro\">arrow_vayu index thread</a> for more information.\r\n You can donate the maintainer<a href=\"https://www.paypal.com/paypalme/kubersharma001\"> on PayPal</a>"
 
 [[roms]]
 id = "crdroid"

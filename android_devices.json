@@ -21046,6 +21046,11 @@
   },
   {
     "brand": "Claro",
+    "name": "CLARO BOX TV",
+    "codename": "SEI810CCOA"
+  },
+  {
+    "brand": "Claro",
     "name": "Claro Colombia STB",
     "codename": "SEI800CCOA"
   },
@@ -36943,6 +36948,16 @@
     "brand": "Geo (GeoTechVision)",
     "name": "GEO10",
     "codename": "GEO10"
+  },
+  {
+    "brand": "Geoelectron",
+    "name": "P9IV",
+    "codename": "P9IV_Handheld"
+  },
+  {
+    "brand": "Geoelectron",
+    "name": "P9IV_Handheld_EEA",
+    "codename": "P9IV_Handheld"
   },
   {
     "brand": "Gesellschaft für SMK mBH",
@@ -85543,6 +85558,11 @@
     "brand": "Maxcom",
     "name": "MS553",
     "codename": "MS553"
+  },
+  {
+    "brand": "Maxcom",
+    "name": "MS554_eea",
+    "codename": "Maxcom_MS554"
   },
   {
     "brand": "Maxcom",
@@ -154448,6 +154468,11 @@
     "brand": "UNIWA",
     "name": "M101",
     "codename": "M101"
+  },
+  {
+    "brand": "UNIWA",
+    "name": "UNIWA W888",
+    "codename": "UNIWA_W888"
   },
   {
     "brand": "UNNIC",
