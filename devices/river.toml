@@ -16,7 +16,7 @@ maintainer = "Deivid Ignacio"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/river/Havoc-OS-v4.14-20220224-river-Official-GApps.zip"
+url = "https://download.havoc-os.com/river/Havoc-OS-v4.15-20220328-river-Official-GApps.zip"
 maintainer = "Andrew Hexen"
 group = "https://t.me/+Oc1flk8GNpAyZWQ1"
 

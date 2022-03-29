@@ -28,7 +28,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/enchilada/Havoc-OS-v4.14-20220223-enchilada-Official-GApps.zip"
+url = "https://download.havoc-os.com/enchilada/Havoc-OS-v4.15-20220328-enchilada-Official-GApps.zip"
 maintainer = "Vikas Yaduvanshi"
 group = "https://t.me/+tNPSDUw3FUJlNDQ1"
 
