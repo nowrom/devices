@@ -28,7 +28,7 @@ recovery = "https://github.com/TWRP-Mi-A2-Lite/twrp_device_xiaomi_daisy/releases
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/daisy/Havoc-OS-v4.14-20220225-daisy-Official-GApps.zip"
+url = "https://download.havoc-os.com/daisy/Havoc-OS-v4.15-20220329-daisy-Official-GApps.zip"
 maintainer = "LuPe"
 group = "https://t.me/havocofficial"
 

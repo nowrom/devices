@@ -16,7 +16,7 @@ id = "blissroms"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://nikgapps.com/"
+gapps = "https://sourceforge.net/projects/crdroid/files/vayu/8.x/gapps/"
 recovery = "https://dl.twrp.me/tissot/"
 
 [[roms]]

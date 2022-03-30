@@ -17,7 +17,7 @@ photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10i-5g.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "Lynnrin"
-changelog = "Please check\r\nhttps://github.com/ArrowOS-Devices/android_device_xiaomi_gauguin/commits/arrow-12.0\r\nand\r\nhttps://arrowos.net/changelog.php\r\nfor actual changes."
+changelog = "Please check\r\nhttps://github.com/ArrowOS-Devices/android_device_xiaomi_gauguin/commits/arrow-12.1\r\nand\r\nhttps://arrowos.net/changelog.php\r\nfor actual changes."
 
 [[roms]]
 id = "dotos"

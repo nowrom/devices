@@ -23,7 +23,7 @@ id = "dotos"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/walleye/Havoc-OS-v4.14-20220224-walleye-Official-GApps.zip"
+url = "https://download.havoc-os.com/walleye/Havoc-OS-v4.15-20220329-walleye-Official-GApps.zip"
 maintainer = "Saurabh Jarial"
 group = "https://t.me/+Z5vCCaoW795mY2Rl"
 
