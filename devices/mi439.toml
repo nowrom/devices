@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 codename = "mi439"
-name = "Redmi 7A/8/8A/8A Dual"
+name = "Xiaomi SDM439"
 recoveries = []
 
 [[roms]]
@@ -8,3 +8,9 @@ id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/mi439/Havoc-OS-v4.15-20220330-mi439-Official-GApps.zip"
+maintainer = "IAmDeadlylxrd"
+group = "https://t.me/+-u0XrNIGepdkNDg6"

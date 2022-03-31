@@ -24491,6 +24491,11 @@
   },
   {
     "brand": "Cubot",
+    "name": "Pocket",
+    "codename": "Pocket"
+  },
+  {
+    "brand": "Cubot",
     "name": "QUEST",
     "codename": "QUEST"
   },
@@ -39828,6 +39833,11 @@
     "brand": "HDD SAT",
     "name": "Tab_i_excess",
     "codename": "Tab_i_excess"
+  },
+  {
+    "brand": "HEADWOLF",
+    "name": "Hpad1",
+    "codename": "Hpad1"
   },
   {
     "brand": "HEALTHJAY",
@@ -60821,6 +60831,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "Infinix NOTE 12i",
+    "codename": "Infinix-X6819"
+  },
+  {
+    "brand": "Infinix",
     "name": "Infinix NOTE 5",
     "codename": "Infinix-X604_sprout"
   },
@@ -61108,6 +61123,11 @@
     "brand": "Infinix",
     "name": "SMART 6",
     "codename": "Infinix-X6511E"
+  },
+  {
+    "brand": "Infinix",
+    "name": "SMART 6 HD",
+    "codename": "Infinix-X6512"
   },
   {
     "brand": "Infinix",
@@ -84997,17 +85017,17 @@
   {
     "brand": "MTS (RU)",
     "name": "B866",
+    "codename": "B866_MTS_IPTV"
+  },
+  {
+    "brand": "MTS (RU)",
+    "name": "B866",
     "codename": "B866_MTS_OTT"
   },
   {
     "brand": "MTS (RU)",
     "name": "DV8304-C",
     "codename": "DV8304C"
-  },
-  {
-    "brand": "MTS (RU)",
-    "name": "Russia",
-    "codename": "B866_MTS_IPTV"
   },
   {
     "brand": "MTS (RU)",
@@ -86413,6 +86433,11 @@
     "brand": "Mecool",
     "name": "KD2",
     "codename": "KD2"
+  },
+  {
+    "brand": "Mecool",
+    "name": "KD3",
+    "codename": "YYT"
   },
   {
     "brand": "Mecool",
@@ -90725,6 +90750,11 @@
     "codename": "MP1"
   },
   {
+    "brand": "ModeEarnPhone",
+    "name": "MEP2",
+    "codename": "MEP2"
+  },
+  {
     "brand": "Modecom",
     "name": "ECHO LOLLY",
     "codename": "ECHO_LOLLY"
@@ -94238,6 +94268,11 @@
     "brand": "Multilaser",
     "name": "M10 4G",
     "codename": "ML_SO0G_M10_4G"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "M10 4G",
+    "codename": "ML_SO2G_M10_4G_T1"
   },
   {
     "brand": "Multilaser",
@@ -118931,21 +118966,6 @@
   },
   {
     "brand": "Samsung",
-    "name": "Galaxy A13 5G",
-    "codename": "a13x"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy A13 5G",
-    "codename": "a13x"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy A13 5G",
-    "codename": "a13x"
-  },
-  {
-    "brand": "Samsung",
     "name": "Galaxy A2 Core",
     "codename": "a2corelte"
   },
@@ -120208,6 +120228,11 @@
     "brand": "Samsung",
     "name": "Galaxy A72",
     "codename": "a72q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A73 5G",
+    "codename": "a73xq"
   },
   {
     "brand": "Samsung",

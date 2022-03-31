@@ -10,7 +10,7 @@ changelog = "Initial A12 build\r\nEnforcing"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/r5x/Havoc-OS-v4.12-20211223-r5x-Official-GApps.zip"
+url = "https://download.havoc-os.com/r5x/Havoc-OS-v4.15-20220330-r5x-Official-GApps.zip"
 maintainer = "Utkarsh Kanojiya"
 group = "https://t.me/+sM2txZ35vuQzMThl"
 

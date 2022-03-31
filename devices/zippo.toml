@@ -20,6 +20,15 @@ ram = "6/8/12 GB LPDDR4X"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
 
 [[roms]]
+id = "pixelexperience"
+repostories = ["device_lenovo_zippo","device_lenovo_sm8150-common","kernel_lenovo_sm8150","vendor_lenovo_zippo","vendor_lenovo-firmware"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = false
+deprecated = false
+
+[[roms]]
 id = "revengeos"
 
 [[roms]]
