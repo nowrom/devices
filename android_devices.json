@@ -85,6 +85,16 @@
     "codename": "OC1020A"
   },
   {
+    "brand": "3Rtablet",
+    "name": "VT-7GA",
+    "codename": "VT-7GA"
+  },
+  {
+    "brand": "3Rtablet",
+    "name": "VT-7GE",
+    "codename": "VT-7GE"
+  },
+  {
     "brand": "4good",
     "name": "4GOOD Light B100",
     "codename": "4GOOD_Light_B100"
@@ -746,6 +756,16 @@
   },
   {
     "brand": "ASTECH",
+    "name": "Android TV",
+    "codename": "R3"
+  },
+  {
+    "brand": "ASTECH",
+    "name": "Android TV",
+    "codename": "R4"
+  },
+  {
+    "brand": "ASTECH",
     "name": "Senegal",
     "codename": "tamachi"
   },
@@ -998,6 +1018,11 @@
     "brand": "AVH San Luis S.A.",
     "name": "Vortech_3_0",
     "codename": "Vortech_3_0"
+  },
+  {
+    "brand": "AVITA",
+    "name": "T101",
+    "codename": "T101"
   },
   {
     "brand": "AVITA",
@@ -1663,6 +1688,16 @@
     "brand": "Acer",
     "name": "Android TV",
     "codename": "R2"
+  },
+  {
+    "brand": "Acer",
+    "name": "Android TV",
+    "codename": "R3"
+  },
+  {
+    "brand": "Acer",
+    "name": "Android TV",
+    "codename": "R4"
   },
   {
     "brand": "Acer",
@@ -5048,6 +5083,11 @@
     "brand": "Altice",
     "name": "Altice S21",
     "codename": "STARNAUTE4"
+  },
+  {
+    "brand": "Altice",
+    "name": "E25",
+    "codename": "E25"
   },
   {
     "brand": "Altice",
@@ -11395,6 +11435,16 @@
     "codename": "Bphone_B86"
   },
   {
+    "brand": "BLACKLINE",
+    "name": "Android TV",
+    "codename": "R3"
+  },
+  {
+    "brand": "BLACKLINE",
+    "name": "Android TV",
+    "codename": "R4"
+  },
+  {
     "brand": "BLECK",
     "name": "BE dg",
     "codename": "BE_dg"
@@ -12213,6 +12263,11 @@
     "brand": "BMobile",
     "name": "BL50",
     "codename": "Bmobile_BL50_TG06"
+  },
+  {
+    "brand": "BMobile",
+    "name": "BL50",
+    "codename": "Bmobile_BL50_TG07"
   },
   {
     "brand": "BMobile",
@@ -26016,6 +26071,11 @@
   },
   {
     "brand": "Daewoo",
+    "name": "4K SA Smart TV",
+    "codename": "pioneer"
+  },
+  {
+    "brand": "Daewoo",
     "name": "DW-TN7RK16",
     "codename": "DW-TN7RK16"
   },
@@ -32725,6 +32785,16 @@
     "codename": "R2"
   },
   {
+    "brand": "Evvoli",
+    "name": "Android TV",
+    "codename": "R3"
+  },
+  {
+    "brand": "Evvoli",
+    "name": "Android TV",
+    "codename": "R4"
+  },
+  {
     "brand": "Excelvan",
     "name": "SMY-M07R7",
     "codename": "SMY_M07R7"
@@ -33128,6 +33198,16 @@
     "brand": "FANGOR",
     "name": "UJ_1098",
     "codename": "UJ_1098"
+  },
+  {
+    "brand": "FAVORITT",
+    "name": "Android TV",
+    "codename": "R3"
+  },
+  {
+    "brand": "FAVORITT",
+    "name": "Android TV",
+    "codename": "R4"
   },
   {
     "brand": "FBC",
@@ -50010,6 +50090,11 @@
     "codename": "HNNTN"
   },
   {
+    "brand": "Honor",
+    "name": "HONOR X8",
+    "codename": "HNTFY-Q"
+  },
+  {
     "brand": "Hoozo",
     "name": "HZ0010",
     "codename": "HZ0010"
@@ -60506,6 +60591,16 @@
   },
   {
     "brand": "Infinix",
+    "name": "HOT 12i",
+    "codename": "Infinix-X665"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 12i",
+    "codename": "Infinix-X665B"
+  },
+  {
+    "brand": "Infinix",
     "name": "HOT 2",
     "codename": "Infinix_X510"
   },
@@ -64716,6 +64811,11 @@
   },
   {
     "brand": "JVC",
+    "name": "4K SA Smart TV",
+    "codename": "pioneer"
+  },
+  {
+    "brand": "JVC",
     "name": "4K Smart TV",
     "codename": "gangbyeon"
   },
@@ -65923,6 +66023,11 @@
     "brand": "KONKA",
     "name": "KONKA  Y109",
     "codename": "Y109"
+  },
+  {
+    "brand": "KONKA",
+    "name": "KONKA 4K Android TV",
+    "codename": "kenton"
   },
   {
     "brand": "KONKA",
@@ -93661,6 +93766,11 @@
   },
   {
     "brand": "Motorola",
+    "name": "motorola edge plus (2022)",
+    "codename": "hiphi"
+  },
+  {
+    "brand": "Motorola",
     "name": "motorola edge plus 5G UW (2022)",
     "codename": "hiphi"
   },
@@ -94393,6 +94503,11 @@
     "brand": "Multilaser",
     "name": "M7 3G",
     "codename": "ML_JI1G_M7_3G"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "M7 3G",
+    "codename": "ML_JI2G_M7_3G"
   },
   {
     "brand": "Multilaser",
@@ -100040,6 +100155,16 @@
     "codename": "E3"
   },
   {
+    "brand": "Olimpo",
+    "name": "Android TV",
+    "codename": "R3"
+  },
+  {
+    "brand": "Olimpo",
+    "name": "Android TV",
+    "codename": "R4"
+  },
+  {
     "brand": "Olive Oil",
     "name": "CT4",
     "codename": "octopus-ct4"
@@ -101896,6 +102021,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "CPH2365",
+    "codename": "OP4F11L1"
+  },
+  {
+    "brand": "Oppo",
     "name": "F11",
     "codename": "OP4883"
   },
@@ -102083,6 +102213,11 @@
     "brand": "Oppo",
     "name": "Find X3 中国版",
     "codename": "OP4E5D"
+  },
+  {
+    "brand": "Oppo",
+    "name": "Find X5 Pro",
+    "codename": "OP52D1L1"
   },
   {
     "brand": "Oppo",
@@ -105163,6 +105298,11 @@
     "brand": "Panasonic",
     "name": "Android TV",
     "codename": "R2"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "Android TV",
+    "codename": "R3"
   },
   {
     "brand": "Panasonic",
@@ -155691,8 +155831,18 @@
   },
   {
     "brand": "Umidigi",
+    "name": "A13 EEA",
+    "codename": "A13"
+  },
+  {
+    "brand": "Umidigi",
     "name": "A13 Pro",
     "codename": "A13_Pro"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "A13S",
+    "codename": "A13S"
   },
   {
     "brand": "Umidigi",
@@ -156031,6 +156181,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "Power 7 EEA",
+    "codename": "Power_7"
+  },
+  {
+    "brand": "Umidigi",
     "name": "Power 7 Max",
     "codename": "Power_7_Max"
   },
@@ -156042,6 +156197,11 @@
   {
     "brand": "Umidigi",
     "name": "Power 7S",
+    "codename": "Power_7S"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "Power 7S EEA",
     "codename": "Power_7S"
   },
   {

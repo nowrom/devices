@@ -1,11 +1,11 @@
 brand = "Asus"
 codename = "X00TD"
-name = "Asus Zenfone Max Pro M1"
+name = "Asus ZenFone Max Pro M1"
 recoveries = []
 
 [[roms]]
 id = "ancientos"
-photo = "https://telegra.ph/file/089c8b5856d7981ec0843.png"
+photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices_gallery/main/X00TD.png"
 
 [[roms]]
 id = "blissroms"
