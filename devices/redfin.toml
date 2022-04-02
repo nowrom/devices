@@ -21,7 +21,7 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_google_redfin","device_google_redbull","vendor_google_redfin","kernel_google_redbull"]
+repostories = ["device_google_redfin","device_google_redbull","vendor_google_redfin","kernel_google_redbull","wiki_blobs_redbull"]
 
 [[roms.supported_versions]]
 version_code = "twelve"

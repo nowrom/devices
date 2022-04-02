@@ -46,6 +46,12 @@ id = "pixelexperience"
 repostories = ["device_oneplus_guacamole","device_oneplus_sm8150-common","kernel_oneplus_sm8150","vendor_oneplus_guacamole","vendor_oneplus_sm8150-common"]
 
 [[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-0-oneplus-7-pro-official-pixel-experience-aosp.4401289/"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
 version_code = "eleven"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-0-oneplus-7-pro-pixel-experience-aosp-2020-12-05.3956496/"
 stable = true

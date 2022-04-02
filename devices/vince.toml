@@ -45,6 +45,15 @@ maintainer = "Mohammed Adnan"
 group = "https://t.me/+VHjIg542KdDqPfp4"
 
 [[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_vince","kernel_xiaomi_vince","vendor_xiaomi_vince"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = false
+deprecated = false
+
+[[roms]]
 id = "pixelextended"
 
 [[roms]]

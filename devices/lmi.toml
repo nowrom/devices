@@ -41,13 +41,13 @@ wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotsp
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_lmi","device_xiaomi_sm8250-common","kernel_xiaomi_sm8250","vendor_xiaomi_lmi","vendor_xiaomi_sm8250-common"]
+repostories = ["device_xiaomi_lmi","kernel_xiaomi_lmi","vendor_xiaomi_lmi"]
 
 [[roms.supported_versions]]
 version_code = "twelve"
 xda_thread = ""
 stable = true
-deprecated = true
+deprecated = false
 
 [[roms]]
 id = "sparkos"

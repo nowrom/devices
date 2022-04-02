@@ -39,7 +39,7 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_google_taimen","device_google_wahoo","kernel_google_wahoo","vendor_google_taimen"]
+repostories = ["device_google_taimen","device_google_wahoo","kernel_google_wahoo","vendor_google_taimen","wiki_blobs_wahoo"]
 
 [[roms.supported_versions]]
 version_code = "eleven"

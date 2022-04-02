@@ -15,7 +15,7 @@ repostories = ["device_xiaomi_haydn","kernel_xiaomi_haydn","vendor_xiaomi_haydn"
 version_code = "twelve"
 xda_thread = ""
 stable = true
-deprecated = true
+deprecated = false
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"

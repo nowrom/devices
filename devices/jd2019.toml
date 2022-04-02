@@ -7,6 +7,10 @@ id = "twrp"
 maintainer = "Mauronofrio"
 
 [[roms]]
+id = "ancientos"
+photo = "https://raw.githubusercontent.com/HsyHusker/miscstuff/main/lenovo_z5s_device_picture-orange.png"
+
+[[roms]]
 id = "cherishos"
 
 [[roms]]

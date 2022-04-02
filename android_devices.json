@@ -512,6 +512,11 @@
   {
     "brand": "AIS (Thailand)",
     "name": "AISPLAYBOX",
+    "codename": "AISPLAYBOX"
+  },
+  {
+    "brand": "AIS (Thailand)",
+    "name": "AISPLAYBOX",
     "codename": "B866V2-HA"
   },
   {
@@ -12011,6 +12016,11 @@
   },
   {
     "brand": "BMobile",
+    "name": "AX688P",
+    "codename": "Bmobile_AX688P"
+  },
+  {
+    "brand": "BMobile",
     "name": "AX700",
     "codename": "Bmobile"
   },
@@ -12233,6 +12243,11 @@
     "brand": "BMobile",
     "name": "B60Pro_MV03",
     "codename": "B60Pro_MV03"
+  },
+  {
+    "brand": "BMobile",
+    "name": "B61Pro_OM",
+    "codename": "Bmobile_B61Pro"
   },
   {
     "brand": "BMobile",
@@ -16328,6 +16343,11 @@
     "brand": "Blu",
     "name": "G51S",
     "codename": "G0580WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "G51S",
+    "codename": "G0581WW"
   },
   {
     "brand": "Blu",
@@ -24508,6 +24528,11 @@
     "brand": "Cubot",
     "name": "NOTE 7",
     "codename": "NOTE_7"
+  },
+  {
+    "brand": "Cubot",
+    "name": "NOTE 8",
+    "codename": "NOTE_8"
   },
   {
     "brand": "Cubot",
@@ -60846,6 +60871,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "Infinix HOT 12 Play",
+    "codename": "Infinix-X6816C"
+  },
+  {
+    "brand": "Infinix",
     "name": "Infinix HOT 6X",
     "codename": "Infinix-X623"
   },
@@ -66403,6 +66433,11 @@
     "brand": "Kalley",
     "name": "Android TV",
     "codename": "R2"
+  },
+  {
+    "brand": "Kalley",
+    "name": "Android TV",
+    "codename": "R3"
   },
   {
     "brand": "Kalley",
@@ -85851,6 +85886,11 @@
   },
   {
     "brand": "Master-G",
+    "name": "4K SA Smart TV",
+    "codename": "pioneer"
+  },
+  {
+    "brand": "Master-G",
     "name": "Android TV",
     "codename": "R1"
   },
@@ -94331,6 +94371,11 @@
   },
   {
     "brand": "Multilaser",
+    "name": "G Max 2 SE 128",
+    "codename": "G_Max_2_SE_128"
+  },
+  {
+    "brand": "Multilaser",
     "name": "GMax 2 Payjoy",
     "codename": "GMAX_2_Payjoy"
   },
@@ -94368,6 +94413,11 @@
     "brand": "Multilaser",
     "name": "M10 4G",
     "codename": "ML_JI0B_M10_4G"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "M10 4G",
+    "codename": "ML_JI0L_M10_4G"
   },
   {
     "brand": "Multilaser",
@@ -104861,6 +104911,11 @@
   },
   {
     "brand": "POCO",
+    "name": "POCO C31",
+    "codename": "angelicain"
+  },
+  {
+    "brand": "POCO",
     "name": "POCO F2 Pro",
     "codename": "lmi"
   },
@@ -113513,6 +113568,16 @@
     "brand": "RCA",
     "name": "11 Maven Pro",
     "codename": "RCT6213W87DK"
+  },
+  {
+    "brand": "RCA",
+    "name": "4K SA Smart TV",
+    "codename": "pioneer"
+  },
+  {
+    "brand": "RCA",
+    "name": "4K SA Smart TV",
+    "codename": "pioneer"
   },
   {
     "brand": "RCA",
@@ -178921,6 +178986,11 @@
   },
   {
     "brand": "iMuz",
+    "name": "4K SA Smart TV",
+    "codename": "pioneer"
+  },
+  {
+    "brand": "iMuz",
     "name": "EG104",
     "codename": "EG104"
   },
@@ -179918,6 +179988,11 @@
     "brand": "realme",
     "name": "realme GT Neo2 5G\t",
     "codename": "RE879AL1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme Pad mini",
+    "codename": "RE87CCL1"
   },
   {
     "brand": "realme",

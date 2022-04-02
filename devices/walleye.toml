@@ -35,7 +35,7 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_google_walleye","device_google_wahoo","kernel_google_wahoo","vendor_google_walleye"]
+repostories = ["device_google_walleye","device_google_wahoo","kernel_google_wahoo","vendor_google_walleye","wiki_blobs_wahoo"]
 
 [[roms.supported_versions]]
 version_code = "eleven"
@@ -52,7 +52,7 @@ deprecated = true
 [[roms.supported_versions]]
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-0-walleye-pixelexperience-aosp-official.4365917/"
-stable = false
+stable = true
 deprecated = false
 
 [[roms]]

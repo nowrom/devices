@@ -24,7 +24,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/RMX1971/Havoc-OS-v4.14-20220227-RMX1971-Official-GApps.zip"
+url = "https://download.havoc-os.com/RMX1971/Havoc-OS-v4.15-20220401-RMX1971-Official-GApps.zip"
 maintainer = "Krish Walecha"
 group = "https://t.me/+_O867uFgtt8xNTQ1"
 
