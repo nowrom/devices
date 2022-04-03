@@ -23,7 +23,7 @@ id = "blissroms"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://t.me/crDroidSantoni/69008"
+gapps = "http://downloads.codefi.re/jdcteam/javelinanddart/gapps/MindTheGapps-12.1.0-arm64-20220313_181440.zip"
 recovery = "https://t.me/crDroidSantoni/71369"
 
 [[roms]]

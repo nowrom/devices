@@ -6,4 +6,4 @@ recoveries = []
 [[roms]]
 id = "crdroid"
 gapps = "https://bitgapps.github.io/"
-recovery = "https://sourceforge.net/projects/darkjoker360-developements/files/Oneplus/7T%20Pro%205G%20McLaren/Recovery/crDroid-12-recovery.img/download"
+recovery = "https://sourceforge.net/projects/darkjoker360-developements/files/Oneplus/7T%20Pro%205G%20McLaren/Recovery/crDroid-12.1-recovery.img/download"

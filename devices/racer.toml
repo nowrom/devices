@@ -7,6 +7,12 @@ id = "twrp"
 maintainer = "SyberHexen, erfanoabdi, jleeblanch"
 
 [[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/racer/Havoc-OS-v4.15-20220402-racer-Official-GApps.zip"
+maintainer = "Andrew Hexen"
+group = "https://t.me/+T0rYMZpr7YICraXT"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 475"
 ram = "6 GB LPDDR4X"

@@ -5126,6 +5126,11 @@
   },
   {
     "brand": "Altice",
+    "name": "S25",
+    "codename": "S25"
+  },
+  {
+    "brand": "Altice",
     "name": "S31",
     "codename": "S31"
   },
@@ -5938,16 +5943,6 @@
     "brand": "Aqua",
     "name": "S1 Jazz",
     "codename": "S1_Jazz"
-  },
-  {
-    "brand": "Arcelik",
-    "name": "Arcelik Android TV",
-    "codename": "kunyang"
-  },
-  {
-    "brand": "Arcelik",
-    "name": "Arcelik UHD Android TV",
-    "codename": "kunyang"
   },
   {
     "brand": "Arcelik",
@@ -7887,7 +7882,17 @@
   {
     "brand": "Arçelik",
     "name": "Arçelik Android TV",
+    "codename": "kunyang"
+  },
+  {
+    "brand": "Arçelik",
+    "name": "Arçelik Android TV",
     "codename": "sinchon"
+  },
+  {
+    "brand": "Arçelik",
+    "name": "Arçelik UHD Android TV",
+    "codename": "kunyang"
   },
   {
     "brand": "Asanzo",
@@ -18803,6 +18808,11 @@
     "brand": "CWOWDEFU",
     "name": "F81L_EEA",
     "codename": "F81L"
+  },
+  {
+    "brand": "CWOWDEFU",
+    "name": "P20L",
+    "codename": "P20L"
   },
   {
     "brand": "CWOWDEFU",
@@ -50120,6 +50130,21 @@
     "codename": "HNTFY-Q"
   },
   {
+    "brand": "Honor",
+    "name": "HONOR X8",
+    "codename": "HNTFY-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X8",
+    "codename": "HNTFY-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X9 5G",
+    "codename": "HNANY-Q"
+  },
+  {
     "brand": "Hoozo",
     "name": "HZ0010",
     "codename": "HZ0010"
@@ -61078,6 +61103,11 @@
     "brand": "Infinix",
     "name": "NOTE 11S",
     "codename": "Infinix-X698"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 12",
+    "codename": "Infinix-X670"
   },
   {
     "brand": "Infinix",
@@ -100751,16 +100781,6 @@
   },
   {
     "brand": "Onn (Walmart)",
-    "name": "\tonn_100003561",
-    "codename": "mid8011"
-  },
-  {
-    "brand": "Onn (Walmart)",
-    "name": "100003562",
-    "codename": "mid1035_mq"
-  },
-  {
-    "brand": "Onn (Walmart)",
     "name": "100005207",
     "codename": "100005207"
   },
@@ -100781,11 +100801,6 @@
   },
   {
     "brand": "Onn (Walmart)",
-    "name": "100011885",
-    "codename": "100011885"
-  },
-  {
-    "brand": "Onn (Walmart)",
     "name": "100011886",
     "codename": "100011886"
   },
@@ -100798,11 +100813,6 @@
     "brand": "Onn (Walmart)",
     "name": "100011886CA",
     "codename": "100011886CA"
-  },
-  {
-    "brand": "Onn (Walmart)",
-    "name": "100015685-A",
-    "codename": "100015685-A"
   },
   {
     "brand": "Onn (Walmart)",
@@ -100823,36 +100833,6 @@
     "brand": "Onn (Walmart)",
     "name": "100043279",
     "codename": "mid1105_mp"
-  },
-  {
-    "brand": "Onn (Walmart)",
-    "name": "100044018G",
-    "codename": "100044018G"
-  },
-  {
-    "brand": "Onn (Walmart)",
-    "name": "100044018P",
-    "codename": "100044018P"
-  },
-  {
-    "brand": "Onn (Walmart)",
-    "name": "100071481",
-    "codename": "mid7019_mr_32"
-  },
-  {
-    "brand": "Onn (Walmart)",
-    "name": "100071483",
-    "codename": "100071483"
-  },
-  {
-    "brand": "Onn (Walmart)",
-    "name": "100071485",
-    "codename": "100071485"
-  },
-  {
-    "brand": "Onn (Walmart)",
-    "name": "100071486",
-    "codename": "100071486"
   },
   {
     "brand": "Onn (Walmart)",
@@ -108253,6 +108233,11 @@
     "brand": "PlayPoland",
     "name": "play_dctiw362",
     "codename": "dctiw362p"
+  },
+  {
+    "brand": "Plimpton",
+    "name": "PlimPad_P3",
+    "codename": "PlimPad_P3"
   },
   {
     "brand": "Plimpton",
@@ -172556,6 +172541,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "P501",
+    "codename": "Z3052O"
+  },
+  {
+    "brand": "ZTE",
     "name": "P545",
     "codename": "P545"
   },
@@ -174971,6 +174961,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE 8045",
+    "codename": "P606F02"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE 9030",
     "codename": "P618F05"
   },
@@ -174993,6 +174988,16 @@
     "brand": "ZTE",
     "name": "ZTE 9045",
     "codename": "P618F06"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE 9046",
+    "codename": "P618F07"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE 9100N",
+    "codename": "P633F05"
   },
   {
     "brand": "ZTE",
@@ -175138,6 +175143,11 @@
     "brand": "ZTE",
     "name": "ZTE A7030RU",
     "codename": "P963F07"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE A7040",
+    "codename": "P606F01"
   },
   {
     "brand": "ZTE",
@@ -175628,6 +175638,11 @@
     "brand": "ZTE",
     "name": "ZTE Blade A51RU",
     "codename": "P963F60"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A52",
+    "codename": "P963F61"
   },
   {
     "brand": "ZTE",
@@ -179746,6 +179761,56 @@
   },
   {
     "brand": "onn.",
+    "name": "\tonn_100003561",
+    "codename": "mid8011"
+  },
+  {
+    "brand": "onn.",
+    "name": "100003562",
+    "codename": "mid1035_mq"
+  },
+  {
+    "brand": "onn.",
+    "name": "100011885",
+    "codename": "100011885"
+  },
+  {
+    "brand": "onn.",
+    "name": "100015685-A",
+    "codename": "100015685-A"
+  },
+  {
+    "brand": "onn.",
+    "name": "100044018G",
+    "codename": "100044018G"
+  },
+  {
+    "brand": "onn.",
+    "name": "100044018P",
+    "codename": "100044018P"
+  },
+  {
+    "brand": "onn.",
+    "name": "100071481",
+    "codename": "mid7019_mr_32"
+  },
+  {
+    "brand": "onn.",
+    "name": "100071483",
+    "codename": "100071483"
+  },
+  {
+    "brand": "onn.",
+    "name": "100071485",
+    "codename": "100071485"
+  },
+  {
+    "brand": "onn.",
+    "name": "100071486",
+    "codename": "100071486"
+  },
+  {
+    "brand": "onn.",
     "name": "onn. 4k TV",
     "codename": "sti6140d360"
   },
@@ -179988,6 +180053,11 @@
     "brand": "realme",
     "name": "realme GT Neo2 5G\t",
     "codename": "RE879AL1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme Pad mini",
+    "codename": "RE87CCL1"
   },
   {
     "brand": "realme",

@@ -1,0 +1,10 @@
+brand = "Motorola"
+codename = "nairo"
+name = "motorola one 5G UW"
+recoveries = []
+
+[[roms]]
+id = "havocos"
+url = "https://download.havoc-os.com/nairo/Havoc-OS-v4.15-20220402-nairo-Official-GApps.zip"
+maintainer = "Andrew Hexen"
+group = "https://t.me/+he6WpRFkCbdlNjAx"
