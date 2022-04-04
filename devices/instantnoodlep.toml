@@ -10,7 +10,7 @@ maintainer = "infected_"
 [[roms]]
 id = "crdroid"
 gapps = ""
-recovery = ""
+recovery = "https://sourceforge.net/projects/crdroid/files/instantnoodlep/8.x/recovery/"
 
 [[roms]]
 id = "evolutionx"

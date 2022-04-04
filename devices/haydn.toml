@@ -9,7 +9,7 @@ maintainer = "Nebrassy"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_haydn","kernel_xiaomi_haydn","vendor_xiaomi_haydn"]
+repostories = ["device_xiaomi_haydn","kernel_xiaomi_haydn","vendor_xiaomi_haydn","vendor_xiaomi_haydn-miuicamera"]
 
 [[roms.supported_versions]]
 version_code = "twelve"

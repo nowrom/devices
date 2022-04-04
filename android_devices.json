@@ -114631,11 +114631,6 @@
   },
   {
     "brand": "Realme",
-    "name": "realme C25s",
-    "codename": "RMX3195"
-  },
-  {
-    "brand": "Realme",
     "name": "realme C3",
     "codename": "RMX2020"
   },
@@ -136133,6 +136128,11 @@
     "brand": "Skyworth",
     "name": "Hong Kong",
     "codename": "open_uhd_hk"
+  },
+  {
+    "brand": "Skyworth",
+    "name": "Leap-S2",
+    "codename": "YYT"
   },
   {
     "brand": "Skyworth",
