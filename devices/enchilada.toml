@@ -67,25 +67,25 @@ active = true
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.9"
-developer = "DennySPb"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
-version = "v4.9"
-developer = "DennySPb"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
 version = "v5.2"
 developer = "DennySPb"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
+version = "v3.9"
+developer = "DennySPb"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
 version = "v2.9"
+developer = "DennySPb"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v4.9"
 developer = "DennySPb"
 
 [specs]

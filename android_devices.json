@@ -16676,6 +16676,11 @@
   },
   {
     "brand": "Blu",
+    "name": "M8L 2022",
+    "codename": "M0220WW_ND"
+  },
+  {
+    "brand": "Blu",
     "name": "M8L PLUS",
     "codename": "M0209WW"
   },
@@ -77631,6 +77636,11 @@
   },
   {
     "brand": "Lava",
+    "name": "X2",
+    "codename": "LZG403_225"
+  },
+  {
+    "brand": "Lava",
     "name": "X28",
     "codename": "X28"
   },
@@ -77778,6 +77788,11 @@
     "brand": "Lava",
     "name": "Z3",
     "codename": "LZG403"
+  },
+  {
+    "brand": "Lava",
+    "name": "Z3",
+    "codename": "Z3_UP"
   },
   {
     "brand": "Lava",

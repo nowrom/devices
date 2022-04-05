@@ -38,9 +38,9 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/lavender/Havoc-OS-v4.9-20211002-lavender-Official-GApps.zip"
-maintainer = "Crahm Cotnol"
-group = "https://t.me/+qalkNc-zwwkyMzEy"
+url = "https://download.havoc-os.com/lavender/Havoc-OS-v4.15-20220404-lavender-Official-GApps.zip"
+maintainer = "Vitor Leal"
+group = "https://t.me/bitortheaddicted"
 
 [[roms]]
 id = "lineageos"
