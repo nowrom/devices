@@ -12256,6 +12256,11 @@
   },
   {
     "brand": "BMobile",
+    "name": "B70Pro",
+    "codename": "Bmobile_B70Pro"
+  },
+  {
+    "brand": "BMobile",
     "name": "BL40",
     "codename": "Bmobile_BL40_MV12"
   },
@@ -16061,6 +16066,11 @@
   },
   {
     "brand": "Blu",
+    "name": "C5L Max",
+    "codename": "C0173WW"
+  },
+  {
+    "brand": "Blu",
     "name": "C5L+ 2021",
     "codename": "C0130WW"
   },
@@ -16553,6 +16563,11 @@
     "brand": "Blu",
     "name": "J9L",
     "codename": "J0080WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "J9L",
+    "codename": "J0082WW"
   },
   {
     "brand": "Blu",
@@ -58675,6 +58690,11 @@
     "codename": "DV8038"
   },
   {
+    "brand": "Hytel",
+    "name": "HOT MINI",
+    "codename": "HOT_MINI"
+  },
+  {
     "brand": "Hytera",
     "name": "PDC550",
     "codename": "PDC550"
@@ -63861,6 +63881,11 @@
   },
   {
     "brand": "Itel",
+    "name": "A58 Pro",
+    "codename": "itel-A661WP"
+  },
+  {
+    "brand": "Itel",
     "name": "A62",
     "codename": "itel-A62"
   },
@@ -64256,6 +64281,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel  V51 LTE",
+    "codename": "itel-A507LP"
+  },
+  {
+    "brand": "Itel",
     "name": "itel 4K TV",
     "codename": "SW4H"
   },
@@ -64343,6 +64373,11 @@
     "brand": "Itel",
     "name": "itel A23",
     "codename": "itel-A23S"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel A24",
+    "codename": "itel-A507LM"
   },
   {
     "brand": "Itel",
@@ -89821,6 +89856,11 @@
   },
   {
     "brand": "Mobicell",
+    "name": "BERRY_PRO",
+    "codename": "BERRY_PRO"
+  },
+  {
+    "brand": "Mobicell",
     "name": "BLINK",
     "codename": "BLINK"
   },
@@ -98158,6 +98198,11 @@
     "brand": "Nexian",
     "name": "journey one",
     "codename": "Mi438S_sprout"
+  },
+  {
+    "brand": "Next",
+    "name": "4K TV Stick",
+    "codename": "YYT"
   },
   {
     "brand": "Next Learning",
@@ -109271,6 +109316,11 @@
   },
   {
     "brand": "Positivo",
+    "name": "T2040",
+    "codename": "T2040B"
+  },
+  {
+    "brand": "Positivo",
     "name": "T701 TV",
     "codename": "T701"
   },
@@ -114163,6 +114213,11 @@
     "brand": "REDLINE",
     "name": "Space_M10Pro",
     "codename": "Space_M10Pro"
+  },
+  {
+    "brand": "REGZA",
+    "name": "RSG-11B",
+    "codename": "YYT"
   },
   {
     "brand": "RENSO",
@@ -156961,6 +157016,11 @@
   },
   {
     "brand": "VIMOQ",
+    "name": "VIMOQ  AC50",
+    "codename": "VIMOQ-A507LD"
+  },
+  {
+    "brand": "VIMOQ",
     "name": "VIMOQ V51 LTE",
     "codename": "VIMOQ-A507LE"
   },
@@ -179908,6 +179968,11 @@
     "brand": "realme",
     "name": "Smart TV",
     "codename": "redwood"
+  },
+  {
+    "brand": "realme",
+    "name": "TV Stick",
+    "codename": "BOS"
   },
   {
     "brand": "realme",

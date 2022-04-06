@@ -1,6 +1,6 @@
 brand = "OnePlus"
 codename = "hotdogb"
-name = "OnePlus 7T"
+name = "7T"
 
 [[recoveries]]
 id = "twrp"

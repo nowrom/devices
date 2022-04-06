@@ -26,3 +26,14 @@ repostories = ["device_motorola_payton","vendor_motorola_payton"]
 [[roms.supported_versions]]
 version_code = "eleven"
 deprecated = true
+
+[specs]
+cpu = "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)"
+weight = "204 g or 205 g (7.20 oz)"
+year = "2021, December 28"
+os = "Android 12, MIUI 13"
+chipset = "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)"
+gpu = "Adreno 730"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, compass, barometer, color spectrum"
+batlife = "Endurance rating 74h"
+internalmemory = "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
