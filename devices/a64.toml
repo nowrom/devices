@@ -1,6 +1,6 @@
-brand = "Android"
+brand = "GSI (Universal Builds)"
 codename = "a64"
-name = "GSI - A64"
+name = "A64"
 recoveries = []
 
 [[roms]]

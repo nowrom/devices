@@ -25,7 +25,7 @@ repostories = ["device_lenovo_zippo","device_lenovo_sm8150-common","kernel_lenov
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = false
+stable = true
 deprecated = false
 
 [[roms]]

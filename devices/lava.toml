@@ -21,7 +21,7 @@ repostories = ["device_xiaomi_lava","device_xiaomi_mt6768-common","kernel_xiaomi
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = false
+stable = true
 deprecated = false
 
 [[roms]]

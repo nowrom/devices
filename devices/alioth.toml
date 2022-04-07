@@ -79,7 +79,7 @@ id = "potato"
 [[roms]]
 id = "sparkos"
 group = "https://t.me/SparkOSCommunity"
-download = "https://downloads.spark-os.live/?dir=alioth/"
+download = "https://downloads.spark-os.live/alioth/"
 
 [[roms]]
 id = "syberia"

@@ -1,6 +1,6 @@
-brand = "ASUS"
+brand = "Asus"
 codename = "I01WD"
-name = "Zenfone 6 (ZS630KL)"
+name = "Asus ZenFone 6"
 
 [[recoveries]]
 id = "twrp"

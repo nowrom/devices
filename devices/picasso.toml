@@ -38,4 +38,4 @@ deprecated = true
 [[roms.supported_versions]]
 version_code = "twelve"
 stable = true
-deprecated = false
+deprecated = true
