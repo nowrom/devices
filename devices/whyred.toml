@@ -18,7 +18,6 @@ photo = "https://telegra.ph/file/d44358afe0fe98893c1f7.png"
 [[roms]]
 id = "arrowos"
 maintainer = "Sreekanth"
-changelog = "• Clean up some blobs\r\n• Add local FileUtils\r\n• Refactor the whole code and adapt parts to S style\r\n• Add bass booster preset for MiSound\r\n• Do not sign Wifi RROs with platform cert\r\n• Some misc changes and clean up"
 
 [[roms]]
 id = "blissroms"

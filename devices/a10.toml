@@ -32,3 +32,8 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-0-official-project-sakur
 maintainer_url = "https://forum.xda-developers.com/m/chatur27.10997227/"
 maintainer_name = "Chatur"
 active = false
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/eureka_support_group2"
+download = "https://downloads.spark-os.live/a10/"

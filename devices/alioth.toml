@@ -78,17 +78,17 @@ id = "potato"
 
 [[roms]]
 id = "sparkos"
-group = "https://t.me/SparkOSCommunity"
+group = "https://t.me/spsalioth"
 download = "https://downloads.spark-os.live/alioth/"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
-version = "v5.1"
-developer = "DennySPb"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v4.9"
 developer = "mdeejay"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v5.1"
+developer = "DennySPb"

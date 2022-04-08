@@ -94,7 +94,7 @@ active = false
 [[roms]]
 id = "sparkos"
 group = "https://t.me/spkal01hub"
-download = "https://downloads.spark-os.live/?dir=davinci/"
+download = "https://downloads.spark-os.live/davinci/"
 
 [[roms]]
 id = "syberia"

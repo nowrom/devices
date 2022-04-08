@@ -82,6 +82,9 @@ url = "https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtende
 xda_thread = "https://forum.xda-developers.com/t/rom-12-raphael-official-pixel-extended-rom-25-01-2022.4146471/"
 
 [[roms]]
+id = "pixyos"
+
+[[roms]]
 id = "sparkos"
 group = "https://t.me/area51k20p"
 download = "https://downloads.spark-os.live/?dir=raphael/"
