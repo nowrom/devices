@@ -27,6 +27,11 @@ maintainer_url = "null"
 maintainer_name = "Haridhayal"
 active = false
 
+[[roms]]
+id = "sparkos"
+group = "https://t.me/eureka_support_group2"
+download = "https://downloads.spark-os.live/?dir=a40/"
+
 [specs]
 cpu = "Octa-core (2x1.77 GHz Cortex-A73 & 6x1.59 GHz Cortex-A53)"
 weight = "140 g (4.94 oz)"

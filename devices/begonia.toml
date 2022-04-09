@@ -70,7 +70,7 @@ active = true
 [[roms]]
 id = "sparkos"
 group = "https://t.me/Uchiha_Clan_Begonia"
-download = "https://downloads.spark-os.live/begonia/"
+download = "https://downloads.spark-os.live/?dir=begonia/"
 
 [specs]
 cpu = "Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"

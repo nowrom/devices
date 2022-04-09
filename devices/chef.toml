@@ -7,6 +7,11 @@ id = "twrp"
 maintainer = "Rohan Hasabe"
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://dl.twrp.me/chef/"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 260"
 ram = "4 GB, 6 GB"

@@ -107,7 +107,7 @@ active = true
 
 [[roms]]
 id = "sparkos"
-group = "https://t.me/SparkRN8"
+group = "https://t.me/SparkOSCommunity"
 download = "https://downloads.spark-os.live/?dir=ginkgo/"
 
 [[roms]]

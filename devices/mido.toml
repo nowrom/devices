@@ -64,7 +64,7 @@ id = "pixyos"
 
 [[roms]]
 id = "sparkos"
-group = "https://t.me/SparkOS_Official_Mido"
+group = "https://t.me/Spark_Support_Mido"
 download = "https://downloads.spark-os.live/?dir=mido/"
 
 [[roms]]

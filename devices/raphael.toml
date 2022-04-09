@@ -86,7 +86,7 @@ id = "pixyos"
 
 [[roms]]
 id = "sparkos"
-group = "https://t.me/area51k20p"
+group = "https://t.me/SparkOSCommunity"
 download = "https://downloads.spark-os.live/?dir=raphael/"
 
 [[roms]]

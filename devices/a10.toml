@@ -36,4 +36,4 @@ active = false
 [[roms]]
 id = "sparkos"
 group = "https://t.me/eureka_support_group2"
-download = "https://downloads.spark-os.live/a10/"
+download = "https://downloads.spark-os.live/?dir=a10/"

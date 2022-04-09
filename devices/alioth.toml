@@ -70,8 +70,8 @@ id = "pixelextended"
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.0-20220307-2001-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/pixel-extended-for-alioth.4412787/"
+url = "https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.1-20220408-1249-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/pixelextended-for-alioth.4394125/"
 
 [[roms]]
 id = "potato"
@@ -79,7 +79,7 @@ id = "potato"
 [[roms]]
 id = "sparkos"
 group = "https://t.me/spsalioth"
-download = "https://downloads.spark-os.live/alioth/"
+download = "https://downloads.spark-os.live/?dir=alioth/"
 
 [[roms]]
 id = "syberia"

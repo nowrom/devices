@@ -260,6 +260,11 @@
     "codename": "D30"
   },
   {
+    "brand": "ADVAN",
+    "name": "ADVANNASAPro",
+    "codename": "ADVANNASAPro"
+  },
+  {
     "brand": "AEEZO",
     "name": "TK701",
     "codename": "TK701"
@@ -16291,6 +16296,11 @@
   },
   {
     "brand": "Blu",
+    "name": "C7x",
+    "codename": "C290EQ"
+  },
+  {
+    "brand": "Blu",
     "name": "D10",
     "codename": "D10"
   },
@@ -16596,6 +16606,11 @@
   },
   {
     "brand": "Blu",
+    "name": "G71_PLUS_TIGO",
+    "codename": "G0560WW"
+  },
+  {
+    "brand": "Blu",
     "name": "G8",
     "codename": "G0170"
   },
@@ -16866,6 +16881,11 @@
   },
   {
     "brand": "Blu",
+    "name": "M8L",
+    "codename": "M0174WW_ND"
+  },
+  {
+    "brand": "Blu",
     "name": "M8L 2022",
     "codename": "M0220WW"
   },
@@ -16888,6 +16908,11 @@
     "brand": "Blu",
     "name": "M8L Plus",
     "codename": "M0209WW_ND"
+  },
+  {
+    "brand": "Blu",
+    "name": "M8L Plus",
+    "codename": "M0210WW_ND"
   },
   {
     "brand": "Blu",
@@ -17278,6 +17303,11 @@
     "brand": "Blu",
     "name": "Studio X5",
     "codename": "S0610WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "Studio X5 Max",
+    "codename": "S0630WW"
   },
   {
     "brand": "Blu",
@@ -49268,6 +49298,11 @@
     "brand": "Hisense",
     "name": "U688BE",
     "codename": "MSM8212"
+  },
+  {
+    "brand": "Hisense",
+    "name": "U6H/A6H/U6G1",
+    "codename": "songshan"
   },
   {
     "brand": "Hisense",
@@ -101463,11 +101498,6 @@
     "brand": "Onn (Walmart)",
     "name": "100005209",
     "codename": "100005209"
-  },
-  {
-    "brand": "Onn (Walmart)",
-    "name": "100011886",
-    "codename": "100011886"
   },
   {
     "brand": "Onn (Walmart)",
@@ -157171,6 +157201,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "Power 7",
+    "codename": "Power_7"
+  },
+  {
+    "brand": "Umidigi",
     "name": "Power 7 EEA",
     "codename": "Power_7"
   },
@@ -164493,6 +164528,11 @@
     "brand": "Walton",
     "name": "WALPAD 10P",
     "codename": "10P"
+  },
+  {
+    "brand": "Walton",
+    "name": "WALPAD 8G",
+    "codename": "WALPAD8G_V2"
   },
   {
     "brand": "Walton",
@@ -180031,11 +180071,6 @@
   },
   {
     "brand": "iMuz",
-    "name": "EG104",
-    "codename": "EG104"
-  },
-  {
-    "brand": "iMuz",
     "name": "G10",
     "codename": "G10"
   },
@@ -180813,6 +180848,11 @@
     "brand": "onn.",
     "name": "100011885",
     "codename": "100011885"
+  },
+  {
+    "brand": "onn.",
+    "name": "100011886",
+    "codename": "100011886"
   },
   {
     "brand": "onn.",
