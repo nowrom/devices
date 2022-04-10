@@ -1,6 +1,6 @@
 brand = "OnePlus"
 codename = "hotdogb"
-name = "OnePlus 7T"
+name = "7T"
 
 [[recoveries]]
 id = "twrp"
@@ -32,6 +32,12 @@ repostories = ["device_oneplus_hotdogb","device_oneplus_sm8150-common","kernel_o
 
 [[roms.supported_versions]]
 version_code = "twelve"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-0-oneplus-7t-official-pixel-experience-aosp.4401287/"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-0-oneplus-7t-official-pixel-experience-aosp.4401287/"
 stable = true
 deprecated = false

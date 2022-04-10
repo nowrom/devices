@@ -53,11 +53,21 @@ version_code = "twelve"
 stable = false
 deprecated = false
 
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+stable = false
+deprecated = false
+
 [[roms]]
 id = "pixelextended"
 
 [[roms]]
 id = "revengeos"
+
+[[roms]]
+id = "sparkos"
+group = "https://t.me/anandhansprojects_chat"
+download = "https://downloads.spark-os.live/?dir=vince/"
 
 [specs]
 cpu = "Octa-core 2.0 GHz Cortex-A53"

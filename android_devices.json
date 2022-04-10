@@ -12676,6 +12676,11 @@
   },
   {
     "brand": "BQru",
+    "name": "BQ-1036L",
+    "codename": "BQ_1036L"
+  },
+  {
+    "brand": "BQru",
     "name": "BQ-1045G",
     "codename": "BQru-1045"
   },
@@ -14128,6 +14133,11 @@
     "brand": "BenQ",
     "name": "PT2200",
     "codename": "PT2200"
+  },
+  {
+    "brand": "BenQ",
+    "name": "Q Stick",
+    "codename": "S905Y2"
   },
   {
     "brand": "BenQ",
@@ -15691,6 +15701,11 @@
   },
   {
     "brand": "Blaupunkt",
+    "name": "Blaupunk",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Blaupunkt",
     "name": "Blaupunkt",
     "codename": "bangbae"
   },
@@ -16282,7 +16297,17 @@
   {
     "brand": "Blu",
     "name": "C6L 2021",
+    "codename": "C0151WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "C6L 2021",
     "codename": "C0152TT"
+  },
+  {
+    "brand": "Blu",
+    "name": "C6L 2021",
+    "codename": "C0152WW"
   },
   {
     "brand": "Blu",
@@ -19013,6 +19038,11 @@
     "brand": "CWOWDEFU",
     "name": "C6",
     "codename": "C6"
+  },
+  {
+    "brand": "CWOWDEFU",
+    "name": "C6 Pro",
+    "codename": "C6_Pro"
   },
   {
     "brand": "CWOWDEFU",
@@ -26723,6 +26753,11 @@
     "brand": "Datamini",
     "name": "T104G",
     "codename": "T104G"
+  },
+  {
+    "brand": "Datamini",
+    "name": "T104G_T610",
+    "codename": "T104G_T610"
   },
   {
     "brand": "Datamini",
@@ -100620,6 +100655,11 @@
     "codename": "X600"
   },
   {
+    "brand": "OMIX",
+    "name": "X700",
+    "codename": "X700"
+  },
+  {
     "brand": "ONDA TLC",
     "name": "T7 Pro",
     "codename": "T7_PRO"
@@ -110858,6 +110898,11 @@
     "brand": "Premio",
     "name": "X88",
     "codename": "X88"
+  },
+  {
+    "brand": "Premio",
+    "name": "X90",
+    "codename": "X90"
   },
   {
     "brand": "Prestige",
@@ -153271,6 +153316,16 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO POVA 3",
+    "codename": "TECNO-LF7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO POVA 3",
+    "codename": "TECNO-LF7n"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO POVA 5G",
     "codename": "TECNO-LE8"
   },
@@ -156566,6 +156621,11 @@
   },
   {
     "brand": "Ulefone",
+    "name": "Power Armor 14 Pro",
+    "codename": "Power_Armor14_Pro"
+  },
+  {
+    "brand": "Ulefone",
     "name": "Power_3L",
     "codename": "Power_3L"
   },
@@ -156843,6 +156903,11 @@
     "brand": "Umidigi",
     "name": "A11_Tab-EEA",
     "codename": "A11_Tab-EEA"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "A13",
+    "codename": "A13"
   },
   {
     "brand": "Umidigi",
@@ -157798,6 +157863,11 @@
     "brand": "V7",
     "name": "Zyro",
     "codename": "zyro"
+  },
+  {
+    "brand": "VAARAHI",
+    "name": "TEO 8",
+    "codename": "T8LTE32G"
   },
   {
     "brand": "VAIO",
@@ -168893,6 +168963,11 @@
     "brand": "YesTeL",
     "name": "T5_EEA_0",
     "codename": "T5_EEA_0"
+  },
+  {
+    "brand": "YesTeL",
+    "name": "X11_EEA",
+    "codename": "X11_EEA"
   },
   {
     "brand": "YesTeL",
@@ -180065,6 +180140,11 @@
     "codename": "MISA"
   },
   {
+    "brand": "iMin",
+    "name": "I22M01",
+    "codename": "I22M01"
+  },
+  {
     "brand": "iMuz",
     "name": "4K SA Smart TV",
     "codename": "pioneer"
@@ -180087,6 +180167,11 @@
   {
     "brand": "iMuz",
     "name": "M101",
+    "codename": "G10"
+  },
+  {
+    "brand": "iMuz",
+    "name": "M101N",
     "codename": "G10"
   },
   {

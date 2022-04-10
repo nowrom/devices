@@ -24,6 +24,11 @@ version_code = "twelve"
 stable = true
 deprecated = false
 
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+stable = true
+deprecated = false
+
 [specs]
 cpu = "Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver)"
 weight = "183 g (6.46 oz)"

@@ -86,6 +86,11 @@ maintainer_url = "null"
 maintainer_name = "Agus"
 active = true
 
+[[roms]]
+id = "sparkos"
+group = "https://t.me/sparkredmi7"
+download = "https://downloads.spark-os.live/?dir=surya/"
+
 [specs]
 cpu = "Octa-core (2x2.3 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)"
 weight = "215 g (7.58 oz)"

@@ -8,9 +8,6 @@ id = "arrowos"
 maintainer = "Keertesh"
 
 [[roms]]
-id = "dotos"
-
-[[roms]]
 id = "lineageos"
 cpu = "Kryo 475"
 ram = "6/8/12 GB LPDDR4"
