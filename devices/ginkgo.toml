@@ -86,6 +86,12 @@ xda_thread = "https://forum.xda-developers.com/t/rom-12-stable-ginkgo-willow-pix
 stable = true
 deprecated = false
 
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-stable-ginkgo-willow-pixelexperience-12.4350683"
+stable = true
+deprecated = false
+
 [[roms]]
 id = "pixelextended"
 

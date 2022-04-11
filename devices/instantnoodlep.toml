@@ -52,6 +52,12 @@ xda_thread = ""
 stable = true
 deprecated = false
 
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+xda_thread = ""
+stable = true
+deprecated = false
+
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"
 weight = "192 g (EU/NA)183 g (IN/CN) (6.46 oz)"

@@ -36,6 +36,12 @@ xda_thread = "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g
 stable = true
 deprecated = false
 
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption.4406323/"
+stable = true
+deprecated = false
+
 [specs]
 cpu = "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA/LATAMOcta-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485) - USA/China"
 weight = "175 g / 198 g (ceramic) (6.17 oz)"

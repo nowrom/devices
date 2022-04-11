@@ -49,6 +49,12 @@ stable = true
 xda_thread = "https://forum.xda-developers.com/t/4355535/"
 deprecated = false
 
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+stable = true
+xda_thread = "https://forum.xda-developers.com/t/4355535/"
+deprecated = false
+
 [specs]
 cpu = "Octa-core (2x2.2 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver)"
 weight = "164 g (5.78 oz)"

@@ -65,6 +65,12 @@ xda_thread = "https://forum.xda-developers.com/t/rom-12-1-alioth-pixelexperience
 stable = true
 deprecated = false
 
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-1-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4424733/"
+stable = true
+deprecated = false
+
 [[roms]]
 id = "pixelextended"
 

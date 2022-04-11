@@ -35,12 +35,17 @@ xda_thread = "https://forum.xda-developers.com/t/rom-official-12-oneplus-nord-av
 stable = true
 deprecated = false
 
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+stable = true
+deprecated = false
+
 [[roms]]
 id = "pixelextended"
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/avicii/PixelExtended_avicii-12.0-20220227-0518-OFFICIAL.zip/download"
+url = "https://sourceforge.net/projects/pixelextended/files/avicii/PixelExtended_avicii-12.1-20220410-0802-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-official-pixel-extended-12-0-oneplusnord-avicii-28-01-2022.4279755/"
 
 [[roms]]
