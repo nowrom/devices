@@ -5,3 +5,14 @@ recoveries = []
 
 [[roms]]
 id = "cherishos"
+
+[specs]
+cpu = "Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)"
+weight = "179 g (6.31 oz)"
+year = "2022, January 26"
+os = "Android 11, MIUI 13"
+chipset = "Qualcomm SM6225 Snapdragon 680 4G (6 nm)"
+gpu = "Adreno 610"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, compass"
+batlife = "Endurance rating 126h"
+internalmemory = "64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
