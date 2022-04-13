@@ -12361,6 +12361,11 @@
   },
   {
     "brand": "BMobile",
+    "name": "B70pro",
+    "codename": "Bmobile_B70Pro_MV03"
+  },
+  {
+    "brand": "BMobile",
     "name": "BL40",
     "codename": "Bmobile_BL40_MV12"
   },
@@ -16213,6 +16218,11 @@
     "brand": "Blu",
     "name": "C5L 2021",
     "codename": "C0101TT"
+  },
+  {
+    "brand": "Blu",
+    "name": "C5L 2021",
+    "codename": "C0101WW"
   },
   {
     "brand": "Blu",
@@ -27466,6 +27476,11 @@
   },
   {
     "brand": "Dicle_Tab",
+    "name": "Dicle Tab U1008",
+    "codename": "Dicle_Dtab_U1008"
+  },
+  {
+    "brand": "Dicle_Tab",
     "name": "Dicle Tab Ultra",
     "codename": "Tab_Ultra"
   },
@@ -36546,6 +36561,11 @@
   },
   {
     "brand": "G-Tab",
+    "name": "F1_2",
+    "codename": "F1_2"
+  },
+  {
+    "brand": "G-Tab",
     "name": "F2",
     "codename": "F2"
   },
@@ -36733,6 +36753,11 @@
     "brand": "G-TiDE",
     "name": "G-TiDE_H1_3",
     "codename": "G-TiDE_H1_3"
+  },
+  {
+    "brand": "G-TiDE",
+    "name": "G-TiDE_H1_3G",
+    "codename": "G-TiDE_H1_3G"
   },
   {
     "brand": "G-TiDE",
@@ -50636,6 +50661,16 @@
   },
   {
     "brand": "Honor",
+    "name": "HONOR Magic 4 Lite 5G",
+    "codename": "HNANY-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X7",
+    "codename": "HNCMA-Q"
+  },
+  {
+    "brand": "Honor",
     "name": "HONOR X7",
     "codename": "HNCMA-Q"
   },
@@ -59351,6 +59386,11 @@
   },
   {
     "brand": "Hyundai",
+    "name": "E554",
+    "codename": "E554"
+  },
+  {
+    "brand": "Hyundai",
     "name": "E601F",
     "codename": "E601F"
   },
@@ -59856,6 +59896,11 @@
   },
   {
     "brand": "Hyundai",
+    "name": "L681",
+    "codename": "L681"
+  },
+  {
+    "brand": "Hyundai",
     "name": "Seoul 9",
     "codename": "Seoul_9"
   },
@@ -60093,6 +60138,11 @@
     "brand": "IMO(In My Opinion)",
     "name": "IMO Q2 Plus",
     "codename": "IMO_Q2_Plus"
+  },
+  {
+    "brand": "IMO(In My Opinion)",
+    "name": "IMO Q2 Pro",
+    "codename": "IMO_Q2_Pro"
   },
   {
     "brand": "IMO(In My Opinion)",
@@ -64421,6 +64471,11 @@
   },
   {
     "brand": "Itel",
+    "name": "A512W",
+    "codename": "itel-A512W"
+  },
+  {
+    "brand": "Itel",
     "name": "A52B",
     "codename": "itel-A52B"
   },
@@ -66858,6 +66913,11 @@
     "brand": "KRIP",
     "name": "K57",
     "codename": "K57"
+  },
+  {
+    "brand": "KRIP",
+    "name": "K58",
+    "codename": "K58"
   },
   {
     "brand": "KRIP",
@@ -83011,6 +83071,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "启天K10 Pro",
+    "codename": "TB226XC"
+  },
+  {
+    "brand": "Lenovo",
     "name": "小新 Pad GT",
     "codename": "TB-J616F"
   },
@@ -86421,6 +86486,11 @@
   },
   {
     "brand": "Mascom",
+    "name": "MASCOM SS289",
+    "codename": "MASCOM_SS289"
+  },
+  {
+    "brand": "Mascom",
     "name": "Mascom_L850",
     "codename": "Mascom_L850"
   },
@@ -86883,6 +86953,11 @@
     "brand": "Maxwest",
     "name": "Astro 5P",
     "codename": "Astro_5P"
+  },
+  {
+    "brand": "Maxwest",
+    "name": "Astro 63R",
+    "codename": "Astro_63R"
   },
   {
     "brand": "Maxwest",
@@ -90646,6 +90721,16 @@
   },
   {
     "brand": "Mobicell",
+    "name": "EPIC PRO 1",
+    "codename": "EPIC_PRO_1"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "EPIC_1",
+    "codename": "EPIC_1"
+  },
+  {
+    "brand": "Mobicell",
     "name": "FAME",
     "codename": "FAME"
   },
@@ -90736,6 +90821,11 @@
   },
   {
     "brand": "Mobicell",
+    "name": "LEGEND PRO_1",
+    "codename": "LEGEND_PRO_1"
+  },
+  {
+    "brand": "Mobicell",
     "name": "LEGEND_MAX_LTE",
     "codename": "LEGEND_MAX"
   },
@@ -90743,6 +90833,11 @@
     "brand": "Mobicell",
     "name": "Legend",
     "codename": "Legend"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "Legend Pro LTE",
+    "codename": "Legend_Pro_LTE"
   },
   {
     "brand": "Mobicell",
@@ -91833,6 +91928,11 @@
     "brand": "Morep",
     "name": "Morep Mavic Plus",
     "codename": "Mavic_Plus"
+  },
+  {
+    "brand": "Morep",
+    "name": "Morep Pocket",
+    "codename": "Morep_Pocket"
   },
   {
     "brand": "Morep",
@@ -97818,6 +97918,11 @@
     "brand": "NOGA",
     "name": "NOGAPAD7G",
     "codename": "NOGAPAD7G"
+  },
+  {
+    "brand": "NOVOJOY",
+    "name": "NV10",
+    "codename": "NV10"
   },
   {
     "brand": "NOWO",
@@ -158141,6 +158246,11 @@
   },
   {
     "brand": "VIMOQ",
+    "name": "VIMOQ A507LT",
+    "codename": "VIMOQ-A507LT"
+  },
+  {
+    "brand": "VIMOQ",
     "name": "VIMOQ V51 LTE",
     "codename": "VIMOQ-A507LE"
   },
@@ -168686,6 +168796,11 @@
   },
   {
     "brand": "Xplore Technologies",
+    "name": "XPLORE X7U",
+    "codename": "X7U"
+  },
+  {
+    "brand": "Xplore Technologies",
     "name": "XSLATE_D10",
     "codename": "XSLATE_D10"
   },
@@ -174098,6 +174213,16 @@
     "brand": "ZTE",
     "name": "RED MAGIC 5G",
     "codename": "NX659J"
+  },
+  {
+    "brand": "ZTE",
+    "name": "REDMAGIC 7",
+    "codename": "NX709J-EEA"
+  },
+  {
+    "brand": "ZTE",
+    "name": "REDMAGIC 7Pro",
+    "codename": "NX709J-UN"
   },
   {
     "brand": "ZTE",
@@ -181778,11 +181903,6 @@
     "brand": "truvii",
     "name": "Truvii",
     "codename": "seocho"
-  },
-  {
-    "brand": "uLesson",
-    "name": "uLesson_Education_Tab",
-    "codename": "uLesson_Education_Tab"
   },
   {
     "brand": "ucall",
