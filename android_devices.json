@@ -13840,6 +13840,11 @@
     "codename": "hanyang"
   },
   {
+    "brand": "BeLeno",
+    "name": "BeLeno_Neod_8",
+    "codename": "BeLeno_Neod_8"
+  },
+  {
     "brand": "Becrypt",
     "name": "Convex 430",
     "codename": "granite"
@@ -20398,6 +20403,11 @@
     "brand": "Challenger",
     "name": "Smart TV",
     "codename": "osaki"
+  },
+  {
+    "brand": "Challenger",
+    "name": "challenger",
+    "codename": "stanford"
   },
   {
     "brand": "Chameleon",
@@ -40485,6 +40495,11 @@
     "codename": "Z9950"
   },
   {
+    "brand": "HELIX_INC",
+    "name": "C-TABLET",
+    "codename": "C-TABLET"
+  },
+  {
     "brand": "HIMADE",
     "name": "UHD Android TV",
     "codename": "sindorim"
@@ -50693,6 +50708,11 @@
     "brand": "Honor",
     "name": "HONOR X8",
     "codename": "HNTFY-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X9",
+    "codename": "HNANY-Q1"
   },
   {
     "brand": "Honor",
@@ -65345,14 +65365,14 @@
     "codename": "TM705"
   },
   {
-    "brand": "J:COM",
-    "name": "KSTB7043",
-    "codename": "KSTB6165"
+    "brand": "J-COM (cn)",
+    "name": "SC40",
+    "codename": "SC40"
   },
   {
     "brand": "J:COM",
-    "name": "SC40",
-    "codename": "SC40"
+    "name": "KSTB7043",
+    "codename": "KSTB6165"
   },
   {
     "brand": "J:COM",
@@ -67038,6 +67058,11 @@
     "brand": "KTCtv",
     "name": "Banana",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "COL",
+    "codename": "stanford"
   },
   {
     "brand": "KTCtv",
@@ -81841,6 +81866,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo Tab M10 Plus 3rd Gen",
+    "codename": "TB128XU"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo Tab M7",
     "codename": "7305F"
   },
@@ -83063,6 +83093,11 @@
     "brand": "Lenovo",
     "name": "ideatvK82 60LX750A  52LX750A  46LX750A  60LX850A  70LX850A 80LX850A",
     "codename": "ideatv_K82"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "启天K10 Pro",
+    "codename": "TB128FU"
   },
   {
     "brand": "Lenovo",
@@ -86978,6 +87013,11 @@
     "brand": "Maxwest",
     "name": "Astro 6S",
     "codename": "Astro_6S"
+  },
+  {
+    "brand": "Maxwest",
+    "name": "Astro 8R",
+    "codename": "Astro_8R"
   },
   {
     "brand": "Maxwest",
@@ -124971,6 +125011,16 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy M53 5G",
+    "codename": "m53x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M53 5G",
+    "codename": "m53x"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy M62",
     "codename": "m62"
   },
@@ -127872,6 +127922,16 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S22",
+    "codename": "SC-51C"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22",
+    "codename": "SCG13"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22",
     "codename": "r0q"
   },
   {
@@ -127903,6 +127963,16 @@
     "brand": "Samsung",
     "name": "Galaxy S22",
     "codename": "r0s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22 Ultra",
+    "codename": "SC-52C"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22 Ultra",
+    "codename": "SCG14"
   },
   {
     "brand": "Samsung",
@@ -130541,11 +130611,6 @@
   },
   {
     "brand": "Samsung",
-    "name": "Galaxy Tab Active3",
-    "codename": "gtactive3wifi"
-  },
-  {
-    "brand": "Samsung",
     "name": "Galaxy Tab Advanced2",
     "codename": "gtaxladwifikx"
   },
@@ -132828,11 +132893,6 @@
     "brand": "Samsung",
     "name": "Galaxy-A9(2016)",
     "codename": "a9xltechn"
-  },
-  {
-    "brand": "Samsung",
-    "name": "GalaxyA53 5G",
-    "codename": "SC-53C"
   },
   {
     "brand": "Samsung",
@@ -136181,6 +136241,11 @@
   },
   {
     "brand": "SimiMobile",
+    "name": "S501",
+    "codename": "S501"
+  },
+  {
+    "brand": "SimiMobile",
     "name": "S502",
     "codename": "S502"
   },
@@ -136748,6 +136813,11 @@
     "brand": "Sky Devices",
     "name": "Elite T6",
     "codename": "Elite_T6"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "Elite T8",
+    "codename": "ELITE_T8"
   },
   {
     "brand": "Sky Devices",
@@ -137788,6 +137858,11 @@
     "brand": "Soda",
     "name": "soda",
     "codename": "soda_SW17W16"
+  },
+  {
+    "brand": "Solinftec",
+    "name": "SOL07",
+    "codename": "SOL07"
   },
   {
     "brand": "Solone",
@@ -141633,6 +141708,11 @@
     "brand": "Strong",
     "name": "LEAP-S1",
     "codename": "LAS"
+  },
+  {
+    "brand": "Strong",
+    "name": "SRT41",
+    "codename": "YYT"
   },
   {
     "brand": "Strong",
@@ -150826,6 +150906,11 @@
   },
   {
     "brand": "TIM",
+    "name": "TIMVISION Box",
+    "codename": "uzw4054tim"
+  },
+  {
+    "brand": "TIM",
     "name": "TIMVISION VSB",
     "codename": "m393vsb_tim"
   },
@@ -151218,6 +151303,11 @@
     "brand": "TOUMAI",
     "name": "MI_1",
     "codename": "MI_1"
+  },
+  {
+    "brand": "TOYIN",
+    "name": "RJ TOYIN",
+    "codename": "RJ_TOYIN"
   },
   {
     "brand": "TPS",
@@ -161041,11 +161131,6 @@
   },
   {
     "brand": "Vivo",
-    "name": "I2018",
-    "codename": "2018"
-  },
-  {
-    "brand": "Vivo",
     "name": "I2127",
     "codename": "I2127"
   },
@@ -161646,6 +161731,21 @@
   },
   {
     "brand": "Vivo",
+    "name": "V2054",
+    "codename": "2034"
+  },
+  {
+    "brand": "Vivo",
+    "name": "V2054",
+    "codename": "2034"
+  },
+  {
+    "brand": "Vivo",
+    "name": "V2054",
+    "codename": "2034"
+  },
+  {
+    "brand": "Vivo",
     "name": "V2054A",
     "codename": "PD2054"
   },
@@ -161871,11 +161971,6 @@
   },
   {
     "brand": "Vivo",
-    "name": "V2114",
-    "codename": "2114"
-  },
-  {
-    "brand": "Vivo",
     "name": "V2115",
     "codename": "2116"
   },
@@ -162076,11 +162171,6 @@
   },
   {
     "brand": "Vivo",
-    "name": "V2154A",
-    "codename": "PD2154"
-  },
-  {
-    "brand": "Vivo",
     "name": "V2156A",
     "codename": "PD2156"
   },
@@ -162273,6 +162363,11 @@
     "brand": "Vivo",
     "name": "X7Plus",
     "codename": "PD1603"
+  },
+  {
+    "brand": "Vivo",
+    "name": "X80",
+    "codename": "V2144"
   },
   {
     "brand": "Vivo",
@@ -162518,6 +162613,16 @@
     "brand": "Vivo",
     "name": "iQOO 9 SE",
     "codename": "2019"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Neo5S",
+    "codename": "PD2154"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Z5",
+    "codename": "2018"
   },
   {
     "brand": "Vivo",
@@ -162881,6 +162986,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "vivo X Fold",
+    "codename": "PD2178"
+  },
+  {
+    "brand": "Vivo",
     "name": "vivo X Note",
     "codename": "PD2170"
   },
@@ -162923,6 +163033,16 @@
     "brand": "Vivo",
     "name": "vivo X21UD A",
     "codename": "PD1728UD"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo X70 Pro+",
+    "codename": "2114"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo X80",
+    "codename": "PD2183"
   },
   {
     "brand": "Vivo",
@@ -167435,6 +167555,11 @@
     "codename": "XORO"
   },
   {
+    "brand": "XPLORE",
+    "name": "XPLORE X7U",
+    "codename": "X7U"
+  },
+  {
     "brand": "XTRATECH_IGUANAPAD",
     "name": "X8MT16",
     "codename": "X8MT16"
@@ -168793,11 +168918,6 @@
     "brand": "Xplore Technologies",
     "name": "XP8776",
     "codename": "XP8776"
-  },
-  {
-    "brand": "Xplore Technologies",
-    "name": "XPLORE X7U",
-    "codename": "X7U"
   },
   {
     "brand": "Xplore Technologies",
@@ -178735,6 +178855,11 @@
     "codename": "MAGNO_PLUS"
   },
   {
+    "brand": "Zuum",
+    "name": "ZUUM PAD Kids",
+    "codename": "ZUUM_PAD_Kids"
+  },
+  {
     "brand": "afriphone",
     "name": "smart_S5",
     "codename": "smart_S5"
@@ -179313,6 +179438,11 @@
     "brand": "eSTREAM 4K",
     "name": "Pyxis-SECV",
     "codename": "SEI500SECV"
+  },
+  {
+    "brand": "eSTREAM 4K",
+    "name": "SEI500TV",
+    "codename": "SEI500TV"
   },
   {
     "brand": "eTalk",

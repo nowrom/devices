@@ -9,3 +9,14 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Abdibekov Dauren"
 active = false
+
+[specs]
+cpu = "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)"
+weight = "201 g (7.09 oz)"
+year = "2022, January 11"
+os = "Android 12, OxygenOS 12.1 (International), ColorOS 12.1 (China)"
+chipset = "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)"
+gpu = "Adreno 730"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum, barometer"
+batlife = "Endurance rating 107h"
+internalmemory = "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"

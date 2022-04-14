@@ -1,7 +1,12 @@
-brand = "Xiaomi"
+brand = "Redmi"
 codename = "mi439"
-name = "Xiaomi SDM439"
+name = "Redmi SDM439 devices"
 recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/"
+recovery = "https://t.me/mi_sdm439/313"
 
 [[roms]]
 id = "evolutionx"
@@ -14,3 +19,9 @@ id = "havocos"
 url = "https://download.havoc-os.com/mi439/Havoc-OS-v4.15-20220330-mi439-Official-GApps.zip"
 maintainer = "IAmDeadlylxrd"
 group = "https://t.me/+-u0XrNIGepdkNDg6"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v5.4"
+developer = "iaiaian1"

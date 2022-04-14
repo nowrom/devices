@@ -27,8 +27,8 @@ id = "cherishos"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
-recovery = "https://dl.orangefox.download/60fbd820462e0f766bc300aa"
+gapps = "https://www.pling.com/p/1341681#files-panel"
+recovery = "https://orangefox.download/device/miatoll"
 
 [[roms]]
 id = "dotos"
