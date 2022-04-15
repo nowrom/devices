@@ -18656,6 +18656,11 @@
   },
   {
     "brand": "CHAINWAY",
+    "name": "C75_GL",
+    "codename": "C75"
+  },
+  {
+    "brand": "CHAINWAY",
     "name": "C90",
     "codename": "C90"
   },
@@ -40758,6 +40763,11 @@
     "brand": "HP",
     "name": "HP Chromebook 13 G1",
     "codename": "chell_cheets"
+  },
+  {
+    "brand": "HP",
+    "name": "HP Engage One Essential All-in-One System",
+    "codename": "napa_gw"
   },
   {
     "brand": "HP",
@@ -111921,6 +111931,11 @@
   },
   {
     "brand": "Prestigio",
+    "name": "PMT4518_4G_E_RU",
+    "codename": "HP80A20L"
+  },
+  {
+    "brand": "Prestigio",
     "name": "PMT4667_3G_RU",
     "codename": "HP70A7G"
   },
@@ -115988,11 +116003,6 @@
     "brand": "Realme",
     "name": "真我V11s 5G",
     "codename": "RE5485"
-  },
-  {
-    "brand": "Realme",
-    "name": "真我V13 5G",
-    "codename": "RE5081"
   },
   {
     "brand": "Realme",
@@ -181808,6 +181818,11 @@
     "brand": "realme",
     "name": "真我Q3s\t",
     "codename": "RE54BFL1"
+  },
+  {
+    "brand": "realme",
+    "name": "真我V13 5G",
+    "codename": "RE5081"
   },
   {
     "brand": "redfox",

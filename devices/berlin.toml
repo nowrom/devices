@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "Dees_Troy"
+
+[specs]
+cpu = "Octa-core (4x2.4 GHz Kryo 670 & 4x1.9 GHz Kryo 670)"
+weight = "163 g (5.75 oz)"
+year = "2021, July 29"
+os = "Android 11"
+chipset = "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)"
+gpu = "Adreno 642L"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 86h"
+internalmemory = "128GB 8GB RAM, 256GB 8GB RAM"
