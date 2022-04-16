@@ -97221,6 +97221,11 @@
   },
   {
     "brand": "NEC",
+    "name": "LAVIE Tab T10",
+    "codename": "LAVIETab10FHD3"
+  },
+  {
+    "brand": "NEC",
     "name": "LAVIETab T12 12QHD1",
     "codename": "LAVIETabT1212QHD1"
   },
@@ -116176,6 +116181,11 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi 10A",
+    "codename": "dandelion"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi 10C",
     "codename": "fog"
   },
@@ -121223,6 +121233,11 @@
     "brand": "Samsung",
     "name": "Galaxy A52s 5G",
     "codename": "a52sxq"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A53 5G",
+    "codename": "SC-53C"
   },
   {
     "brand": "Samsung",

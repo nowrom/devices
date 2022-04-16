@@ -76,6 +76,11 @@ deprecated = false
 id = "pixelextended"
 
 [[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/whyred/PixelExtended_whyred-12.1-20220415-1252-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-official-pixel-extended-rom-15-04-2022.4432345/"
+
+[[roms]]
 id = "pixyos"
 
 [[roms]]
