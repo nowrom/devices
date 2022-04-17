@@ -116010,16 +116010,6 @@
     "codename": "RE5485"
   },
   {
-    "brand": "Realme",
-    "name": "真我V13 5G",
-    "codename": "RE5081"
-  },
-  {
-    "brand": "Realme",
-    "name": "真我V13 5G",
-    "codename": "RE5081"
-  },
-  {
     "brand": "Realtek",
     "name": "RealtekHank",
     "codename": "RealtekHank"
@@ -181833,6 +181823,16 @@
     "brand": "realme",
     "name": "真我Q3s\t",
     "codename": "RE54BFL1"
+  },
+  {
+    "brand": "realme",
+    "name": "真我V13 5G",
+    "codename": "RE5081"
+  },
+  {
+    "brand": "realme",
+    "name": "真我V13 5G",
+    "codename": "RE5081"
   },
   {
     "brand": "realme",

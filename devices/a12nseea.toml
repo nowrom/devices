@@ -1,0 +1,9 @@
+brand = "Samsung"
+codename = "a12nseea"
+name = "Samsung Galaxy A12"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/aosp-11-unofficial-samsung-sm-a125f-twrp.4317131/"
+maintainer = "Edward0181"

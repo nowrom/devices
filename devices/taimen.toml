@@ -9,7 +9,7 @@ maintainer = "Dees_Troy, Bigbiff"
 [[roms]]
 id = "arrowos"
 maintainer = "ReallySnow"
-changelog = "- Fixup data usage\r\n- Add feature flag for FEATURE_IPSEC_TUNNELS"
+changelog = "- Flatten APEXs for performance\r\n- Re-enable Now Playing"
 
 [[roms]]
 id = "blissroms"
