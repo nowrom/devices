@@ -25,7 +25,7 @@ maintainer = "kubersharma001"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/canary/android-12.1/"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-12.1/"
 recovery = "https://sourceforge.net/projects/crdroid/files/vayu/8.x/recovery/"
 
 [[roms]]

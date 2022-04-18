@@ -45,7 +45,7 @@ developer = "magicxavi"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.0"
+version = "v5.4"
 developer = "magicxavi"
 
 [specs]

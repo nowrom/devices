@@ -6,6 +6,7 @@ recoveries = []
 [[roms]]
 id = "arrowos"
 maintainer = "Keertesh"
+changelog = "Merged android-12.1.0_r4\r\nAdded TouchGestures.\r\nAdapted TouchGestures to Android 12 style\r\nUsed new rebased kernel\r\nThermal-engine from OOS"
 
 [[roms]]
 id = "lineageos"

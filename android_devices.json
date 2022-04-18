@@ -125031,11 +125031,6 @@
   },
   {
     "brand": "Samsung",
-    "name": "Galaxy M53 5G",
-    "codename": "m53x"
-  },
-  {
-    "brand": "Samsung",
     "name": "Galaxy M62",
     "codename": "m62"
   },
@@ -126983,6 +126978,11 @@
     "brand": "Samsung",
     "name": "Galaxy Quantum2",
     "codename": "a82xq"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Quantum3",
+    "codename": "m53x"
   },
   {
     "brand": "Samsung",
