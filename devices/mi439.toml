@@ -1,6 +1,6 @@
-brand = "Xiaomi"
+brand = "Redmi"
 codename = "mi439"
-name = "MI439-Unified"
+name = "Redmi SDM439 devices"
 recoveries = []
 
 [[roms]]

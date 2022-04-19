@@ -12,8 +12,8 @@ id = "cherishos"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/22-Feb-2022/NikGapps-core-arm64-12-20220222-signed.zip/download"
-recovery = "https://sourceforge.net/projects/boxaltroms/files/recovery/lava-recovery-20220222.img/download"
+gapps = "http://downloads.codefi.re/jdcteam/javelinanddart/gapps/MindTheGapps-12.1.0-arm64-20220416_174313.zip"
+recovery = "https://telegra.ph/Recovery-Download-09-11"
 
 [[roms]]
 id = "pixelexperience"

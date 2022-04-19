@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "None"
+
+[specs]
+cpu = "Quad-core 1.5 GHz Krait"
+weight = "140 g (4.94 oz)"
+year = "2012, December. Released 2013, January"
+os = "Android 4.1.1 (Jelly Bean), upgradable to 4.4.2 (KitKat), Sense UI 5"
+chipset = "Qualcomm APQ8064 Snapdragon 600"
+gpu = "Adreno 320"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 45h"
+internalmemory = "16GB (11GB user available), 2GB RAM"

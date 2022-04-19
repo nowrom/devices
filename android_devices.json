@@ -291,6 +291,11 @@
   },
   {
     "brand": "AEEZO",
+    "name": "TK806_EEA",
+    "codename": "TK806_EEA"
+  },
+  {
+    "brand": "AEEZO",
     "name": "TP1001",
     "codename": "TP1001"
   },
@@ -19082,6 +19087,11 @@
   {
     "brand": "CWOWDEFU",
     "name": "C6 Pro",
+    "codename": "C6_Pro"
+  },
+  {
+    "brand": "CWOWDEFU",
+    "name": "C6 Pro ROW",
     "codename": "C6_Pro"
   },
   {
@@ -88196,6 +88206,11 @@
   },
   {
     "brand": "Megacable",
+    "name": "OTT Xview+ AV1",
+    "codename": "B866V2F"
+  },
+  {
+    "brand": "Megacable",
     "name": "XView+",
     "codename": "ucw4046meg"
   },
@@ -103021,6 +103036,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "CPH2421",
+    "codename": "OP5325"
+  },
+  {
+    "brand": "Oppo",
     "name": "F11",
     "codename": "OP4883"
   },
@@ -108823,6 +108843,11 @@
     "brand": "Pioneer",
     "name": "AV Receiver",
     "codename": "AVH_W4400NEX"
+  },
+  {
+    "brand": "Pioneer",
+    "name": "Android TV",
+    "codename": "R2"
   },
   {
     "brand": "Pioneer",
@@ -141166,6 +141191,11 @@
   },
   {
     "brand": "Speedata",
+    "name": "FG60",
+    "codename": "FG60"
+  },
+  {
+    "brand": "Speedata",
     "name": "FG60 EEA",
     "codename": "FG60"
   },
@@ -151043,6 +151073,11 @@
     "brand": "TJD(SZ)",
     "name": "MT-792OF_EEA",
     "codename": "MT-792OF_EEA"
+  },
+  {
+    "brand": "TJD(SZ)",
+    "name": "MT_1025QU",
+    "codename": "MT_1025QU"
   },
   {
     "brand": "TKDS",
@@ -181661,6 +181696,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme GT 2 Pro\t",
+    "codename": "RED8ACL1"
+  },
+  {
+    "brand": "realme",
     "name": "realme GT 5G",
     "codename": "RMX2202L1"
   },
@@ -181793,11 +181833,6 @@
     "brand": "realme",
     "name": "真我GT 2 Pro\t",
     "codename": "RE547F"
-  },
-  {
-    "brand": "realme",
-    "name": "真我GT 2 Pro\t",
-    "codename": "RED8ACL1"
   },
   {
     "brand": "realme",
@@ -182063,6 +182098,11 @@
     "brand": "truvii",
     "name": "Truvii",
     "codename": "seocho"
+  },
+  {
+    "brand": "uLesson",
+    "name": "uLesson_Education_Tab",
+    "codename": "uLesson_Education_Tab"
   },
   {
     "brand": "ucall",
