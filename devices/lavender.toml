@@ -98,7 +98,7 @@ active = false
 [[roms]]
 id = "sparkos"
 group = "https://t.me/infernobuilds"
-download = "https://downloads.spark-os.live/?dir=lavender"
+download = "https://downloads.spark-os.live/?dir=lavender/"
 
 [[roms]]
 id = "syberia"
