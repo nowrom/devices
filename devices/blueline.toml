@@ -35,7 +35,7 @@ deprecated = false
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = ""
-stable = false
+stable = true
 deprecated = false
 
 [specs]

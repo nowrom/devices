@@ -54,13 +54,13 @@ deprecated = true
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-gauguin-official-pixel-experience-12-mi-10t-lite-mi-10i-redmi-note-9-pro-5g.4352869/"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-gauguin-official-pixel-experience-12-mi-10t-lite-mi-10i-redmi-note-9-pro-5g.4352869/"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms]]
 id = "pixelextended"

@@ -1,0 +1,8 @@
+brand = "Xiaomi"
+codename = "thyme"
+name = "Mi 10S"
+recoveries = []
+
+[[roms]]
+id = "arrowos"
+maintainer = "TG_DEVICE_MAINTAINER"
