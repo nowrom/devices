@@ -43,7 +43,7 @@ wifi = "802.11 b/g/n, Wi-Fi Direct, Wi-Fi Display, Hotspot"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_asus_X01BD","device_asus_sdm660-common","kernel_asus_sdm660","vendor_asus_X01BD","vendor_asus_sdm660-common"]
+repostories = ["device_asus_X01BD","device_asus_sdm660-common","kernel_asus_sdm660","vendor_asus_X01BD","vendor_asus-firmware","vendor_asus_sdm660-common"]
 
 [[roms.supported_versions]]
 version_code = "eleven"

@@ -50761,6 +50761,11 @@
   },
   {
     "brand": "Honor",
+    "name": "HONOR Magic4 Lite",
+    "codename": "HNANY-Q1"
+  },
+  {
+    "brand": "Honor",
     "name": "HONOR X7",
     "codename": "HNCMA-Q"
   },
@@ -103366,6 +103371,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "Find X5",
+    "codename": "OP52D5L1"
+  },
+  {
+    "brand": "Oppo",
     "name": "Find X5 Pro",
     "codename": "OP52D1L1"
   },
@@ -118515,14 +118525,54 @@
     "codename": "SOSMART_T5"
   },
   {
-    "brand": "SPC Mobile",
-    "name": "APOLO",
-    "codename": "APOLO"
+    "brand": "SPC",
+    "name": "GRAVITY-2",
+    "codename": "GRAVITY-2"
+  },
+  {
+    "brand": "SPC",
+    "name": "GRAVITY-PRO-2",
+    "codename": "GRAVITY-PRO-2"
+  },
+  {
+    "brand": "SPC",
+    "name": "GRAVITY-SE",
+    "codename": "GRAVITY-SE"
+  },
+  {
+    "brand": "SPC",
+    "name": "GRAVITY-ULTIMATE-2",
+    "codename": "GRAVITY-ULTIMATE-2"
+  },
+  {
+    "brand": "SPC",
+    "name": "GRAVITY_3",
+    "codename": "GRAVITY_3"
+  },
+  {
+    "brand": "SPC",
+    "name": "GRAVITY_3_SE",
+    "codename": "GRAVITY_3_SE"
+  },
+  {
+    "brand": "SPC",
+    "name": "Gravity_Max_EEA",
+    "codename": "Gravity_Max"
+  },
+  {
+    "brand": "SPC",
+    "name": "LIGHTYEAR-2",
+    "codename": "LIGHTYEAR-2"
+  },
+  {
+    "brand": "SPC",
+    "name": "LIGHTYEAR-PRO-2",
+    "codename": "LIGHTYEAR-PRO-2"
   },
   {
     "brand": "SPC Mobile",
-    "name": "GRAVITY-2",
-    "codename": "GRAVITY-2"
+    "name": "APOLO",
+    "codename": "APOLO"
   },
   {
     "brand": "SPC Mobile",
@@ -118531,28 +118581,8 @@
   },
   {
     "brand": "SPC Mobile",
-    "name": "GRAVITY-PRO-2",
-    "codename": "GRAVITY-PRO-2"
-  },
-  {
-    "brand": "SPC Mobile",
-    "name": "GRAVITY-SE",
-    "codename": "GRAVITY-SE"
-  },
-  {
-    "brand": "SPC Mobile",
-    "name": "GRAVITY-ULTIMATE-2",
-    "codename": "GRAVITY-ULTIMATE-2"
-  },
-  {
-    "brand": "SPC Mobile",
     "name": "GRAVITY2-4G",
     "codename": "GRAVITY2-4G"
-  },
-  {
-    "brand": "SPC Mobile",
-    "name": "GRAVITY_3",
-    "codename": "GRAVITY_3"
   },
   {
     "brand": "SPC Mobile",
@@ -118568,16 +118598,6 @@
     "brand": "SPC Mobile",
     "name": "GRAVITY_3_PRO",
     "codename": "GRAVITY_3_PRO"
-  },
-  {
-    "brand": "SPC Mobile",
-    "name": "GRAVITY_3_SE",
-    "codename": "GRAVITY_3_SE"
-  },
-  {
-    "brand": "SPC Mobile",
-    "name": "Gravity_Max_EEA",
-    "codename": "Gravity_Max"
   },
   {
     "brand": "SPC Mobile",
@@ -118683,16 +118703,6 @@
     "brand": "SPC Mobile",
     "name": "L80_S",
     "codename": "L80_S"
-  },
-  {
-    "brand": "SPC Mobile",
-    "name": "LIGHTYEAR-2",
-    "codename": "LIGHTYEAR-2"
-  },
-  {
-    "brand": "SPC Mobile",
-    "name": "LIGHTYEAR-PRO-2",
-    "codename": "LIGHTYEAR-PRO-2"
   },
   {
     "brand": "SPC Mobile",
@@ -162326,11 +162336,6 @@
   },
   {
     "brand": "Vivo",
-    "name": "V2131",
-    "codename": "2131"
-  },
-  {
-    "brand": "Vivo",
     "name": "V2131A",
     "codename": "PD2131"
   },
@@ -162366,11 +162371,6 @@
   },
   {
     "brand": "Vivo",
-    "name": "V2135",
-    "codename": "2135"
-  },
-  {
-    "brand": "Vivo",
     "name": "V2135A",
     "codename": "PD2133"
   },
@@ -162388,6 +162388,11 @@
     "brand": "Vivo",
     "name": "V2139",
     "codename": "2120"
+  },
+  {
+    "brand": "Vivo",
+    "name": "V2140",
+    "codename": "2131"
   },
   {
     "brand": "Vivo",
@@ -169058,6 +169063,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi Civi",
     "codename": "mona"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Civi 1S",
+    "codename": "zijin"
   },
   {
     "brand": "Xiaomi",
@@ -181961,6 +181971,26 @@
   },
   {
     "brand": "realme",
+    "name": "realme C31",
+    "codename": "RE549C"
+  },
+  {
+    "brand": "realme",
+    "name": "realme C31",
+    "codename": "RE549C"
+  },
+  {
+    "brand": "realme",
+    "name": "realme C35",
+    "codename": "RE87BAL1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme C35",
+    "codename": "RE87BAL1"
+  },
+  {
+    "brand": "realme",
     "name": "realme C35",
     "codename": "RE87BAL1"
   },
@@ -182063,6 +182093,11 @@
     "brand": "realme",
     "name": "realme narzo 50A",
     "codename": "RED8AF"
+  },
+  {
+    "brand": "realme",
+    "name": "realme narzo 50A Prime",
+    "codename": "RE54D8L1"
   },
   {
     "brand": "realme",

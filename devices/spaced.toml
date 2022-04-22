@@ -1,0 +1,9 @@
+brand = "Realme"
+codename = "spaced"
+name = "Realme 8i / Narzo 50"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/twrp-rmx3151-rmx3286-realme-8i-narzo-50-twrp-recovery-unofficial.4369407/"
+maintainer = "DrtSinX98"

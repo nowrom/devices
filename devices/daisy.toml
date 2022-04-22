@@ -38,7 +38,7 @@ id = "revengeos"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.2"
+version = "v5.4"
 developer = "lupesoltec"
 
 [[roms]]

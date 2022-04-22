@@ -1,0 +1,8 @@
+brand = "Samsung"
+codename = "j1pop3g"
+name = "Galaxy J1 Ace"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "J110H-Android"
