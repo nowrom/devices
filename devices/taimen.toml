@@ -9,7 +9,7 @@ maintainer = "Dees_Troy, Bigbiff"
 [[roms]]
 id = "arrowos"
 maintainer = "ReallySnow"
-changelog = "- Flatten APEXs for performance\r\n- Re-enable Now Playing"
+changelog = "- Define physical buttons/fingerprint location\r\n- Optimize vibration intensity"
 
 [[roms]]
 id = "blissroms"

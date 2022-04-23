@@ -50766,6 +50766,11 @@
   },
   {
     "brand": "Honor",
+    "name": "HONOR Magic4 Lite 5G",
+    "codename": "HNANY-Q"
+  },
+  {
+    "brand": "Honor",
     "name": "HONOR X7",
     "codename": "HNCMA-Q"
   },
@@ -181868,6 +181873,11 @@
     "brand": "realme",
     "name": "realme 8 Pro",
     "codename": "RMX3081L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme 8i",
+    "codename": "RE54B4L1"
   },
   {
     "brand": "realme",
