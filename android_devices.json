@@ -118890,6 +118890,11 @@
     "codename": "heaven-10_1"
   },
   {
+    "brand": "SPECTRA",
+    "name": "tap-POS-AM",
+    "codename": "tap-POS-AM"
+  },
+  {
     "brand": "SPURT",
     "name": "Spurt_K800",
     "codename": "Spurt_K800"
@@ -152063,6 +152068,11 @@
     "brand": "Technicolor",
     "name": "Agile TV",
     "codename": "dwt765mm"
+  },
+  {
+    "brand": "Technicolor",
+    "name": "Elisa Elamus",
+    "codename": "uzw4026ele"
   },
   {
     "brand": "Technicolor",

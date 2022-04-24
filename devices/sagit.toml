@@ -16,7 +16,7 @@ id = "blissroms"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/sagit/Havoc-OS-v4.14-20220226-sagit-Official-GApps.zip"
+url = "https://download.havoc-os.com/sagit/Havoc-OS-v4.16-20220423-sagit-Official-GApps.zip"
 maintainer = "Den Chornyi"
 group = "https://t.me/+kI0Y8W59GFA3YzAy"
 

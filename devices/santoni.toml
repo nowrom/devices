@@ -28,7 +28,7 @@ recovery = "https://t.me/crDroidSantoni/71369"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/santoni/Havoc-OS-v4.15-20220401-santoni-Official-GApps.zip"
+url = "https://download.havoc-os.com/santoni/Havoc-OS-v4.16-20220423-santoni-Official-GApps.zip"
 maintainer = "Gabriel Nogueira"
 group = "https://t.me/+o0-G5ngIeVxiYmYx"
 
