@@ -29,7 +29,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/X00TD/Havoc-OS-v4.15-20220327-X00TD-Official-GApps.zip"
+url = "https://download.havoc-os.com/X00TD/Havoc-OS-v4.16-20220424-X00TD-Official-GApps.zip"
 maintainer = "Sukeerat Singh Goindi"
 group = "https://t.me/+BaJnedaBMMQxNzg9"
 

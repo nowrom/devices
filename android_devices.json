@@ -26676,6 +26676,11 @@
   },
   {
     "brand": "Danew",
+    "name": "Dslide808",
+    "codename": "Dslide808"
+  },
+  {
+    "brand": "Danew",
     "name": "Dslide971DC",
     "codename": "Dslide971DC"
   },
@@ -100448,6 +100453,11 @@
     "brand": "Now E",
     "name": "Now E",
     "codename": "hk101"
+  },
+  {
+    "brand": "NowTV",
+    "name": "3103A",
+    "codename": "3103"
   },
   {
     "brand": "Nowtha",
@@ -181921,6 +181931,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme 9i",
+    "codename": "RED8C1L1"
+  },
+  {
+    "brand": "realme",
     "name": "realme 9i\t",
     "codename": "RED8C1L1"
   },
@@ -182143,6 +182158,16 @@
     "brand": "realme",
     "name": "realme  X7 Pro ",
     "codename": "RMX2121CN"
+  },
+  {
+    "brand": "realme",
+    "name": "真我 GT NEO  3  150W",
+    "codename": "RE5489"
+  },
+  {
+    "brand": "realme",
+    "name": "真我 GT NEO 3",
+    "codename": "RE5489"
   },
   {
     "brand": "realme",
