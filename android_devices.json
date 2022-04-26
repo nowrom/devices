@@ -24921,6 +24921,11 @@
   },
   {
     "brand": "Cubot",
+    "name": "KINGKONG 6",
+    "codename": "KINGKONG_6"
+  },
+  {
+    "brand": "Cubot",
     "name": "KINGKONG 7",
     "codename": "KINGKONG_7"
   },
@@ -50773,6 +50778,11 @@
     "brand": "Honor",
     "name": "HONOR Magic4 Lite 5G",
     "codename": "HNANY-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR Magic4 Pro",
+    "codename": "HNLGE"
   },
   {
     "brand": "Honor",
@@ -143676,6 +143686,11 @@
   },
   {
     "brand": "TCL",
+    "name": "BeyondTV6",
+    "codename": "BeyondTV4"
+  },
+  {
+    "brand": "TCL",
     "name": "C02_4K_US",
     "codename": "BeyondTV"
   },
@@ -181821,11 +181836,6 @@
   },
   {
     "brand": "realme",
-    "name": "RMX3269",
-    "codename": "RED8F6"
-  },
-  {
-    "brand": "realme",
     "name": "Smart TV",
     "codename": "mateo"
   },
@@ -181903,6 +181913,11 @@
     "brand": "realme",
     "name": "realme 8s 5G",
     "codename": "RE58A0L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme 9",
+    "codename": "RE54E2L1"
   },
   {
     "brand": "realme",
@@ -182066,6 +182081,16 @@
   },
   {
     "brand": "realme",
+    "name": "realme Q5i",
+    "codename": "RE873D"
+  },
+  {
+    "brand": "realme",
+    "name": "realme V23",
+    "codename": "RE5487"
+  },
+  {
+    "brand": "realme",
     "name": "realme V25",
     "codename": "RE547D"
   },
@@ -182123,6 +182148,11 @@
     "brand": "realme",
     "name": "realme narzo 30A",
     "codename": "RMX3171"
+  },
+  {
+    "brand": "realme",
+    "name": "realme narzo 50",
+    "codename": "RE54B4L1"
   },
   {
     "brand": "realme",
