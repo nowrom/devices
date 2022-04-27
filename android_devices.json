@@ -15787,6 +15787,11 @@
   {
     "brand": "Blaupunkt",
     "name": "Blaupunkt",
+    "codename": "shilin"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "Blaupunkt",
     "codename": "sindang"
   },
   {
@@ -19156,6 +19161,11 @@
   },
   {
     "brand": "CWOWDEFU",
+    "name": "F10L ROW",
+    "codename": "F10L"
+  },
+  {
+    "brand": "CWOWDEFU",
     "name": "F12W",
     "codename": "F12W"
   },
@@ -19192,6 +19202,11 @@
   {
     "brand": "CWOWDEFU",
     "name": "P20L",
+    "codename": "P20L"
+  },
+  {
+    "brand": "CWOWDEFU",
+    "name": "P20L ROW",
     "codename": "P20L"
   },
   {
@@ -30200,6 +30215,11 @@
     "codename": "komagome"
   },
   {
+    "brand": "Dual",
+    "name": "Dual 4K Android TV",
+    "codename": "kenton"
+  },
+  {
     "brand": "Dunns",
     "name": "Dunns Slinger",
     "codename": "DunnsSlinger"
@@ -30530,6 +30550,11 @@
     "codename": "komagome"
   },
   {
+    "brand": "EDENWOOD",
+    "name": "EDENWOOD 4K Android TV",
+    "codename": "kenton"
+  },
+  {
     "brand": "EDUTAB",
     "name": "ELITE_10",
     "codename": "ELITE_10"
@@ -30617,6 +30642,11 @@
   {
     "brand": "EKO",
     "name": "EKO",
+    "codename": "shilin"
+  },
+  {
+    "brand": "EKO",
+    "name": "EKO",
     "codename": "zhongshan"
   },
   {
@@ -30648,6 +30678,11 @@
     "brand": "EKO",
     "name": "Eko",
     "codename": "stanford"
+  },
+  {
+    "brand": "EKO",
+    "name": "JVC",
+    "codename": "bruno"
   },
   {
     "brand": "EKO",
@@ -50761,11 +50796,6 @@
   },
   {
     "brand": "Honor",
-    "name": "HONOR 50 lite",
-    "codename": "HNNTN"
-  },
-  {
-    "brand": "Honor",
     "name": "HONOR Magic 4 Lite 5G",
     "codename": "HNANY-Q"
   },
@@ -50813,6 +50843,16 @@
     "brand": "Honor",
     "name": "HONOR X8",
     "codename": "HNTFY-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X9",
+    "codename": "HNANY-Q1"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X9",
+    "codename": "HNANY-Q1"
   },
   {
     "brand": "Honor",
@@ -59761,6 +59801,11 @@
   },
   {
     "brand": "Hyundai",
+    "name": "HYUNDAI 4K Android TV",
+    "codename": "kenton"
+  },
+  {
+    "brand": "Hyundai",
     "name": "HY_BDL163G_001",
     "codename": "HY_BDL163G_001_EEA"
   },
@@ -65747,6 +65792,11 @@
   {
     "brand": "JVC",
     "name": "JVC",
+    "codename": "bruno"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
     "codename": "komagome"
   },
   {
@@ -66893,6 +66943,11 @@
     "brand": "KONKA",
     "name": "KONKA  Y109",
     "codename": "Y109"
+  },
+  {
+    "brand": "KONKA",
+    "name": "KONKA 2K Android TV",
+    "codename": "lasalle"
   },
   {
     "brand": "KONKA",
@@ -77416,6 +77471,11 @@
   },
   {
     "brand": "Lanix",
+    "name": "Alpha 1R",
+    "codename": "Alpha_1R"
+  },
+  {
+    "brand": "Lanix",
     "name": "Alpha 1V",
     "codename": "Alpha_1V"
   },
@@ -86048,6 +86108,11 @@
     "brand": "MTC",
     "name": "SmartEver",
     "codename": "seocho"
+  },
+  {
+    "brand": "MTC",
+    "name": "SmartEver",
+    "codename": "shilin"
   },
   {
     "brand": "MTC",
@@ -105115,6 +105180,11 @@
     "codename": "LeNumero2"
   },
   {
+    "brand": "Ordissimo",
+    "name": "PixStarTouch",
+    "codename": "PixStarTouch"
+  },
+  {
     "brand": "Orient",
     "name": "Android TV",
     "codename": "R1"
@@ -116161,11 +116231,6 @@
   },
   {
     "brand": "Realme",
-    "name": "realme narzo 30",
-    "codename": "RMX2156L1"
-  },
-  {
-    "brand": "Realme",
     "name": "realme narzo 30 5G",
     "codename": "RE513CL1"
   },
@@ -117413,6 +117478,11 @@
     "brand": "Remdun",
     "name": "RD86QE",
     "codename": "RD86QE"
+  },
+  {
+    "brand": "Remdun",
+    "name": "RD895T",
+    "codename": "RD895T"
   },
   {
     "brand": "Remdun",
@@ -135016,6 +135086,11 @@
   },
   {
     "brand": "Sharp",
+    "name": "AQUOS sense6s",
+    "codename": "BOL"
+  },
+  {
+    "brand": "Sharp",
     "name": "AQUOS wish",
     "codename": "SX1"
   },
@@ -136113,6 +136188,11 @@
     "brand": "Sharp",
     "name": "シンプルスマホ５",
     "codename": "OI6"
+  },
+  {
+    "brand": "Sharp",
+    "name": "シンプルスマホ６",
+    "codename": "Levil"
   },
   {
     "brand": "Sharp",
@@ -157466,6 +157546,11 @@
   },
   {
     "brand": "Umax",
+    "name": "Umax",
+    "codename": "shilin"
+  },
+  {
+    "brand": "Umax",
     "name": "VisionBook P50 Plus LTE",
     "codename": "P50Plus_LTE"
   },
@@ -157802,6 +157887,11 @@
   {
     "brand": "Umidigi",
     "name": "F3",
+    "codename": "UMIDIGI_F3"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "F3 EEA",
     "codename": "UMIDIGI_F3"
   },
   {
@@ -181495,6 +181585,16 @@
     "codename": "R2"
   },
   {
+    "brand": "innos",
+    "name": "Innos",
+    "codename": "shilin"
+  },
+  {
+    "brand": "innos",
+    "name": "innos",
+    "codename": "bruno"
+  },
+  {
     "brand": "intelkom",
     "name": "meanIT_C1",
     "codename": "meanIT_C1"
@@ -182138,6 +182238,11 @@
     "brand": "realme",
     "name": "realme narzo 20 Pro",
     "codename": "RMX2161L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme narzo 30",
+    "codename": "RMX2156L1"
   },
   {
     "brand": "realme",

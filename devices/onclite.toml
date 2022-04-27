@@ -26,9 +26,9 @@ id = "dotos"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/onclite/Havoc-OS-v4.15-20220330-onclite-Official-GApps.zip"
-maintainer = "Aryan Karan"
-group = "https://t.me/+XzfcOvMtqO0yOGZl"
+url = "https://download.havoc-os.com/onclite/Havoc-OS-v4.16-20220426-onclite-Official-GApps.zip"
+maintainer = "Havoc-OS-CI"
+group = "https://t.me/+7pW4E25hRnQ5NDll"
 
 [[roms]]
 id = "lineageos"

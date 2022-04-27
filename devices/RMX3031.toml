@@ -1,6 +1,10 @@
-codename = "rmx3031"
-name = "Realme X7 Max 5G (RMX3031)"
-recoveries = []
+brand = "Realme"
+codename = "RMX3031"
+name = "Realme X7 Max"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "ManshuTyagi"
 
 [[roms]]
 id = "ancientos"
