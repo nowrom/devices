@@ -16622,6 +16622,11 @@
   {
     "brand": "Blu",
     "name": "G51",
+    "codename": "G0480WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "G51",
     "codename": "G0490WW"
   },
   {
@@ -96296,6 +96301,11 @@
   },
   {
     "brand": "Multilaser",
+    "name": "Multilaser F2",
+    "codename": "Multilaser_F2"
+  },
+  {
+    "brand": "Multilaser",
     "name": "Multilaser G",
     "codename": "Multilaser_G"
   },
@@ -137681,6 +137691,11 @@
   },
   {
     "brand": "Skyworth",
+    "name": "LEAP-S1",
+    "codename": "LAS"
+  },
+  {
+    "brand": "Skyworth",
     "name": "Leap-S2",
     "codename": "YYT"
   },
@@ -144421,22 +144436,22 @@
   },
   {
     "brand": "TCL",
-    "name": "TKEE MAX New",
+    "name": "TKEE MAX",
     "codename": "Aquaman_10_Smart_WIFI"
   },
   {
     "brand": "TCL",
-    "name": "TKEE MAX New",
+    "name": "TKEE MAX",
     "codename": "Aquaman_10_Smart_WIFI"
   },
   {
     "brand": "TCL",
-    "name": "TKEE MAX New",
+    "name": "TKEE MAX",
     "codename": "Aquaman_10_Smart_WIFI"
   },
   {
     "brand": "TCL",
-    "name": "TKEE MAX New",
+    "name": "TKEE MAX",
     "codename": "Aquaman_10_Smart_WIFI"
   },
   {
@@ -166243,11 +166258,6 @@
     "brand": "Wiko",
     "name": "Sunny5 Lite",
     "codename": "W-K211"
-  },
-  {
-    "brand": "Wiko",
-    "name": "T01",
-    "codename": "W-V674"
   },
   {
     "brand": "Wiko",

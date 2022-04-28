@@ -10,7 +10,7 @@ maintainer = "theincognito"
 [[roms]]
 id = "arrowos"
 maintainer = "hiper25"
-changelog = "Temporarily handed over to hiper25 for maintenance"
+changelog = "- initial Compile with Arrow-12.1"
 
 [[roms]]
 id = "crdroid"
