@@ -39,7 +39,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/lavender/Havoc-OS-v4.16-20220426-lavender-Official-GApps.zip"
+url = "https://download.havoc-os.com/lavender/Havoc-OS-v4.16-20220428-lavender-Official-GApps.zip"
 maintainer = "Vitor Leal"
 group = "https://t.me/+qalkNc-zwwkyMzEy"
 

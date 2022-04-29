@@ -14,6 +14,11 @@ photo = "https://telegra.ph/file/ff948e189daf62c245f27.png"
 id = "blissroms"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/"
+recovery = "https://sourceforge.net/projects/error-404-not-found1/files/RMX1971/crDroid/Recovery/PixelExperience_Plus_RMX1971-12.1-20220411-0803-OFFICIAL.img/download"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
