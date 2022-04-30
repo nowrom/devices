@@ -2676,6 +2676,11 @@
   },
   {
     "brand": "Admiral Overseas Corporation",
+    "name": "ADMIRAL TV",
+    "codename": "sunnyvale"
+  },
+  {
+    "brand": "Admiral Overseas Corporation",
     "name": "C7",
     "codename": "C7"
   },
@@ -16972,6 +16977,11 @@
   {
     "brand": "Blu",
     "name": "M8L",
+    "codename": "M0171WW_ND"
+  },
+  {
+    "brand": "Blu",
+    "name": "M8L",
     "codename": "M0172WW"
   },
   {
@@ -19608,6 +19618,11 @@
     "brand": "Casper",
     "name": "CASPER_L10_4_5G",
     "codename": "CASPER_L10_4_5G"
+  },
+  {
+    "brand": "Casper",
+    "name": "Casper 2K Smart TV",
+    "codename": "sunnyvale"
   },
   {
     "brand": "Casper",
@@ -26578,6 +26593,11 @@
     "brand": "Daewoo",
     "name": "4K SA Smart TV",
     "codename": "pioneer"
+  },
+  {
+    "brand": "Daewoo",
+    "name": "DAEWOO SMART TV",
+    "codename": "sunnyvale"
   },
   {
     "brand": "Daewoo",
@@ -36928,6 +36948,11 @@
     "brand": "G-TiDE",
     "name": "Klap_S1",
     "codename": "Klap_S1"
+  },
+  {
+    "brand": "G-TiDE",
+    "name": "Klap_S1_EEA",
+    "codename": "Klap_S1_EEA"
   },
   {
     "brand": "G-TiDE",
@@ -68623,6 +68648,11 @@
     "brand": "Kobo",
     "name": "Vox",
     "codename": "pegasus"
+  },
+  {
+    "brand": "Kodak",
+    "name": "D50PRO",
+    "codename": "Kodak_D50PRO"
   },
   {
     "brand": "Kodak",
@@ -109636,6 +109666,11 @@
   },
   {
     "brand": "Pluzz",
+    "name": "P13",
+    "codename": "P13"
+  },
+  {
+    "brand": "Pluzz",
     "name": "PL4010",
     "codename": "PL4010"
   },
@@ -113348,6 +113383,11 @@
     "brand": "Punos",
     "name": "Punos_7",
     "codename": "Punos_7"
+  },
+  {
+    "brand": "Q phone",
+    "name": "2022",
+    "codename": "2022"
   },
   {
     "brand": "QBell",
@@ -119111,8 +119151,18 @@
   },
   {
     "brand": "SSmooth",
+    "name": "Smooth 5.0 2022",
+    "codename": "Smooth_5_0_2022"
+  },
+  {
+    "brand": "SSmooth",
     "name": "Smooth 5.5 Lite",
     "codename": "Smooth5_5_Lite"
+  },
+  {
+    "brand": "SSmooth",
+    "name": "Smooth 5.5 MAX",
+    "codename": "Smooth_5_5_MAX"
   },
   {
     "brand": "SSmooth",
@@ -119548,6 +119598,16 @@
     "brand": "SUNWIND",
     "name": "SUNWIND_SKY_7_E200_3G",
     "codename": "ST7230MG"
+  },
+  {
+    "brand": "SUNWIND",
+    "name": "Sky_1123B_3G",
+    "codename": "SS1259PG"
+  },
+  {
+    "brand": "SUNWIND",
+    "name": "Sky_1262C_3G",
+    "codename": "SS1260PG"
   },
   {
     "brand": "SUNWIND",
@@ -142646,6 +142706,11 @@
   },
   {
     "brand": "Sunmi",
+    "name": "Sunmi L2H",
+    "codename": "SUNMI-L2HNFC"
+  },
+  {
+    "brand": "Sunmi",
     "name": "Sunmi L2Ks",
     "codename": "SUNMI-L2KsNFC"
   },
@@ -142653,6 +142718,21 @@
     "brand": "Sunmi",
     "name": "Sunmi L2Ks",
     "codename": "SUNMI-L2KsNFC"
+  },
+  {
+    "brand": "Sunmi",
+    "name": "Sunmi L2Ks",
+    "codename": "SUNMI-L2KsNFC"
+  },
+  {
+    "brand": "Sunmi",
+    "name": "Sunmi L2Ks",
+    "codename": "SUNMI-L2KsNFC"
+  },
+  {
+    "brand": "Sunmi",
+    "name": "Sunmi V2s",
+    "codename": "V2s"
   },
   {
     "brand": "Sunmi",
@@ -162791,6 +162871,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "X80 Pro",
+    "codename": "V2145"
+  },
+  {
+    "brand": "Vivo",
     "name": "X9",
     "codename": "PD1616"
   },
@@ -179288,6 +179373,11 @@
     "brand": "Zuum",
     "name": "ZUUM PAD Kids",
     "codename": "ZUUM_PAD_Kids"
+  },
+  {
+    "brand": "Zuum",
+    "name": "ZUUM PAD Lightyear",
+    "codename": "ZUUM_PAD_Lightyear"
   },
   {
     "brand": "afriphone",

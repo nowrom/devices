@@ -31,6 +31,12 @@ recovery = "https://dl.twrp.me/mojito/"
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/mojito/Havoc-OS-v4.16-20220422-mojito-Official-GApps.zip"
 maintainer = "Don Joaquin"

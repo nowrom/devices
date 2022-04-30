@@ -15,6 +15,12 @@ maintainer = "Baddar90"
 id = "blissroms"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "lineageos"
 cpu = "Exynos M3 & Cortex-A55"
 ram = "6/8 GB"
