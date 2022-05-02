@@ -22,7 +22,6 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Adithya (ghostrider_reborn)"
-changelog = "- Updated MIUI blobs from V12.5.1.0.RCOMIXM\r\n- Fixed USB OTG detection\r\n- Misc optimizations in kernel"
 
 [[roms]]
 id = "blissroms"

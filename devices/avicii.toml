@@ -6,7 +6,7 @@ recoveries = []
 [[roms]]
 id = "arrowos"
 maintainer = "Keertesh"
-changelog = "Merged android-12.1.0_r4\r\nAdded TouchGestures.\r\nAdapted TouchGestures to Android 12 style\r\nUsed new rebased kernel\r\nThermal-engine from OOS"
+changelog = "• Fixed keyguard indicator margin\r\n • Updated powerprofile\r\n • Adapted overlays for new status bar height APIs\r\n • Used thermal engine from OOS\r\n • Updated USB HAL to V1.3 implementation\r\n • Build media Codec2 modules\r\n • Removed 5g modes switcher\r\n • Updated CarrierConfig from OOS12 OB2\r\n • Added Vulkan dEQP feature flags\r\n • Disabled Dolby by default\r\n • Import QTI Codec2 HAL\r\n • Improved haptic and vibe patterns\r\n • SE Policy fixes\r\n • Disabled useless logs\r\n • Updated wifi configs\r\n • Updated rootdir scripts from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0"
 
 [[roms]]
 id = "crdroid"

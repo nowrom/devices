@@ -1000,6 +1000,11 @@
     "codename": "Mete8_EEA"
   },
   {
+    "brand": "AUZMAI",
+    "name": "V60",
+    "codename": "Azumi_V60F"
+  },
+  {
     "brand": "AV",
     "name": "AV10",
     "codename": "RCT6203W46"
@@ -3393,6 +3398,16 @@
     "brand": "AfriOne",
     "name": "moxie",
     "codename": "moxie"
+  },
+  {
+    "brand": "Afrrikia",
+    "name": "AFK-0001-1001",
+    "codename": "AFK-0001-1001"
+  },
+  {
+    "brand": "Afrrikia",
+    "name": "AFK-0001-1002",
+    "codename": "AFK-0001-1002"
   },
   {
     "brand": "Aikun",
@@ -12547,6 +12562,11 @@
   {
     "brand": "BMobile",
     "name": "BL62",
+    "codename": "Bmobile_BL62"
+  },
+  {
+    "brand": "BMobile",
+    "name": "BL62",
     "codename": "Bmobile_BL62H"
   },
   {
@@ -15596,8 +15616,18 @@
   },
   {
     "brand": "Blackview",
+    "name": "Tab11_EA",
+    "codename": "Tab11_EA"
+  },
+  {
+    "brand": "Blackview",
     "name": "Tab11_EEA",
     "codename": "Tab11_EEA"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Tab11_NEU",
+    "codename": "Tab11_NEU"
   },
   {
     "brand": "Blackview",
@@ -16617,6 +16647,11 @@
   {
     "brand": "Blu",
     "name": "G50 MEGA 2022",
+    "codename": "G0660WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "G50 MEGA 2022",
     "codename": "G0670WW"
   },
   {
@@ -17408,6 +17443,11 @@
     "brand": "Blu",
     "name": "Studio X10L",
     "codename": "S0570WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "Studio X10L 2022",
+    "codename": "S0590LL"
   },
   {
     "brand": "Blu",
@@ -20588,6 +20628,11 @@
     "brand": "Cherry Mobile",
     "name": "A1100",
     "codename": "A1100"
+  },
+  {
+    "brand": "Cherry Mobile",
+    "name": "A1130",
+    "codename": "A1130"
   },
   {
     "brand": "Cherry Mobile",
@@ -30946,6 +30991,11 @@
   },
   {
     "brand": "ENIE",
+    "name": "SKT119",
+    "codename": "SKT119"
+  },
+  {
+    "brand": "ENIE",
     "name": "SKT706",
     "codename": "SKT706"
   },
@@ -31508,6 +31558,11 @@
     "brand": "Edong",
     "name": "LOL-775",
     "codename": "LOL_775"
+  },
+  {
+    "brand": "Ehlel",
+    "name": "Ehlel C7 PRO",
+    "codename": "Ehlel-C7PRO"
   },
   {
     "brand": "Ehlel",
@@ -33813,6 +33868,11 @@
     "brand": "FAMIX",
     "name": "F10L",
     "codename": "F10L"
+  },
+  {
+    "brand": "FAMIX",
+    "name": "F11",
+    "codename": "F11"
   },
   {
     "brand": "FANGOR",
@@ -40620,6 +40680,11 @@
     "codename": "Hpad1"
   },
   {
+    "brand": "HEADWOLF",
+    "name": "Hpad2",
+    "codename": "Hpad2"
+  },
+  {
     "brand": "HEALTHJAY",
     "name": "JayPad_2_0",
     "codename": "JayPad_2_0"
@@ -43053,6 +43118,11 @@
     "brand": "HTC",
     "name": "HTC A100",
     "codename": "HTC_A100"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC A101",
+    "codename": "HTC_A101"
   },
   {
     "brand": "HTC",
@@ -45633,6 +45703,11 @@
     "brand": "Haier",
     "name": "i50",
     "codename": "i50"
+  },
+  {
+    "brand": "Haitech",
+    "name": "HPAD-M2",
+    "codename": "HPAD-M2"
   },
   {
     "brand": "Haitech",
@@ -67095,6 +67170,11 @@
     "codename": "RAINBOW"
   },
   {
+    "brand": "KOOMII",
+    "name": "KOOMII_A6",
+    "codename": "KOOMII_A6"
+  },
+  {
     "brand": "KOOOK",
     "name": "C600",
     "codename": "GBC_bravo"
@@ -67991,6 +68071,11 @@
   },
   {
     "brand": "Kenxinda",
+    "name": "D70",
+    "codename": "D70"
+  },
+  {
+    "brand": "Kenxinda",
     "name": "K10",
     "codename": "K10"
   },
@@ -68706,6 +68791,11 @@
   },
   {
     "brand": "Kodak",
+    "name": "Kodak_D50PROL",
+    "codename": "Kodak_D50PROL"
+  },
+  {
+    "brand": "Kodak",
     "name": "Kodak_D55L",
     "codename": "Kodak_D55L"
   },
@@ -68713,6 +68803,11 @@
     "brand": "Kodak",
     "name": "Kodak_D60LX",
     "codename": "Kodak_D60LX"
+  },
+  {
+    "brand": "Kodak",
+    "name": "Kodak_D65L",
+    "codename": "Kodak_D65L"
   },
   {
     "brand": "Kodak",
@@ -70133,6 +70228,11 @@
     "brand": "LAUNCH",
     "name": "X-431 PAD VII",
     "codename": "X-431PADVII"
+  },
+  {
+    "brand": "LAZOR",
+    "name": "InfinityT10101",
+    "codename": "InfinityT10101"
   },
   {
     "brand": "LBQ (UK)",
@@ -86771,6 +86871,11 @@
   },
   {
     "brand": "Mascom",
+    "name": "MASCOM WS517",
+    "codename": "MASCOM_WS517"
+  },
+  {
+    "brand": "Mascom",
     "name": "Mascom_L850",
     "codename": "Mascom_L850"
   },
@@ -95446,6 +95551,16 @@
   },
   {
     "brand": "Movitel",
+    "name": "M9111",
+    "codename": "M9111"
+  },
+  {
+    "brand": "Movitel",
+    "name": "M9112",
+    "codename": "M9112"
+  },
+  {
+    "brand": "Movitel",
     "name": "M9113",
     "codename": "M9113"
   },
@@ -103768,6 +103883,11 @@
     "brand": "Oppo",
     "name": "PFDM00",
     "codename": "OP5217"
+  },
+  {
+    "brand": "Oppo",
+    "name": "PFFM10",
+    "codename": "OP520DL1"
   },
   {
     "brand": "Oppo",
@@ -113056,6 +113176,11 @@
   },
   {
     "brand": "Pritom",
+    "name": "M10_Max",
+    "codename": "M10_Max"
+  },
+  {
+    "brand": "Pritom",
     "name": "M10_PLUS",
     "codename": "M10_PLUS"
   },
@@ -118293,6 +118418,11 @@
     "brand": "SFR.fr",
     "name": "FR",
     "codename": "DV8219"
+  },
+  {
+    "brand": "SGIN",
+    "name": "SGIN_E10M",
+    "codename": "SGIN_E10M"
   },
   {
     "brand": "SGIN",
@@ -141455,6 +141585,11 @@
     "codename": "SoyMomo_Pro_V2"
   },
   {
+    "brand": "SoyMomo_Tablet",
+    "name": "SoyMomo_PRO_V2MAX",
+    "codename": "SoyMomo_PRO_V2MAX"
+  },
+  {
     "brand": "Spark",
     "name": "Spark_Plus_3",
     "codename": "Spark_Plus_3"
@@ -142236,6 +142371,11 @@
   },
   {
     "brand": "Stylo",
+    "name": "INKULU_PRO",
+    "codename": "INKULU_PRO"
+  },
+  {
+    "brand": "Stylo",
     "name": "Ithemba",
     "codename": "Ithemba"
   },
@@ -142428,6 +142568,11 @@
     "brand": "Stylo",
     "name": "TAB4",
     "codename": "TAB4"
+  },
+  {
+    "brand": "Stylo",
+    "name": "TITAN",
+    "codename": "TITAN"
   },
   {
     "brand": "Stylo",
@@ -152616,6 +152761,11 @@
   },
   {
     "brand": "Teclast",
+    "name": "M40SE_Y_ROW",
+    "codename": "M40SE_Y_ROW"
+  },
+  {
+    "brand": "Teclast",
     "name": "M40_EEA",
     "codename": "M40_EEA"
   },
@@ -154588,6 +154738,16 @@
     "brand": "Tekwind",
     "name": "TC97RA1",
     "codename": "TC97RA1_1"
+  },
+  {
+    "brand": "Telas",
+    "name": "RKG107",
+    "codename": "RKG107"
+  },
+  {
+    "brand": "Telas",
+    "name": "RKG107_EEA",
+    "codename": "RKG107_EEA"
   },
   {
     "brand": "Telcel",
@@ -164983,6 +165143,11 @@
     "brand": "Walton",
     "name": "Orbit M20",
     "codename": "OrbitM20"
+  },
+  {
+    "brand": "Walton",
+    "name": "Orbit Y20",
+    "codename": "OrbitY20"
   },
   {
     "brand": "Walton",
