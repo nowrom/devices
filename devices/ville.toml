@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "mdmower"
+
+[specs]
+cpu = "Dual-core 1.5 GHz Krait"
+weight = "119.5 g (4.20 oz)"
+year = "2012, February. Released 2012, April"
+os = "Android 4.0 (Ice Cream Sandwich), upgradable to 4.1.1 (Jelly Bean), Sense UI"
+chipset = "Qualcomm MSM8290"
+gpu = "Adreno 225"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 35h"
+internalmemory = "16GB 1GB RAM"
