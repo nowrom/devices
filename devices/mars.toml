@@ -1,9 +1,22 @@
 brand = "Xiaomi"
 codename = "mars"
 name = "Mi 11 Pro"
-roms = []
 
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-11-star-mars-official-teamwin-recovery-project.4374111/"
 maintainer = "Nebrassy"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_mars","device_xiaomi_sm8350-common","kernel_xiaomi_mars","vendor_xiaomi_mars","vendor_xiaomi_sm8350-common","vendor_xiaomi_mars-firmware","wiki_blobs_mars"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+stable = true
+deprecated = false
