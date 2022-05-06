@@ -1,0 +1,8 @@
+brand = "Samsung"
+codename = "gtel3g"
+name = "Galaxy Tab E 9.6"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "KrutosX"

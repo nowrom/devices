@@ -1,0 +1,9 @@
+brand = "Samsung"
+codename = "c2s"
+name = "Galaxy Note20 Ultra 5G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/4441695/"
+maintainer = "corsicanu"

@@ -1,0 +1,9 @@
+brand = "Samsung"
+codename = "z3s"
+name = "Galaxy S20 Ultra 5G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/4441701/"
+maintainer = "corsicanu"

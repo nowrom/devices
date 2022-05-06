@@ -8,7 +8,7 @@ maintainer = "Rohan Hasabe"
 
 [[roms]]
 id = "crdroid"
-gapps = ""
+gapps = "https://androidfilehost.com/?w=files&flid=322935"
 recovery = "https://dl.twrp.me/chef/"
 
 [[roms]]

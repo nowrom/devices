@@ -61,6 +61,11 @@
   },
   {
     "brand": "3BBTV",
+    "name": "3BBTV",
+    "codename": "S3000"
+  },
+  {
+    "brand": "3BBTV",
     "name": "TBBTV01",
     "codename": "TBBTV01"
   },
@@ -67342,6 +67347,11 @@
   {
     "brand": "KTCtv",
     "name": "Banana",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "Banana",
     "codename": "zhongshan"
   },
   {
@@ -67382,6 +67392,11 @@
   {
     "brand": "KTCtv",
     "name": "SA",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "Zitro",
     "codename": "stanford"
   },
   {
@@ -86260,6 +86275,16 @@
     "codename": "Vodafone_875"
   },
   {
+    "brand": "MTC",
+    "name": "canada",
+    "codename": "S4000"
+  },
+  {
+    "brand": "MTC",
+    "name": "chile",
+    "codename": "S2000"
+  },
+  {
     "brand": "MTN Group",
     "name": "5982C3",
     "codename": "MTN-TBW5982C3"
@@ -101793,6 +101818,11 @@
     "brand": "OnePlus",
     "name": "OnePlus 7 Pro 5G",
     "codename": "OnePlus7ProNR"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 7T",
+    "codename": "OnePlus7T"
   },
   {
     "brand": "OnePlus",
@@ -120778,6 +120808,11 @@
     "brand": "Samsung",
     "name": "Galaxy A13",
     "codename": "a13"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A13 5G",
+    "codename": "a13x"
   },
   {
     "brand": "Samsung",
