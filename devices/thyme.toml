@@ -5,4 +5,5 @@ recoveries = []
 
 [[roms]]
 id = "arrowos"
-maintainer = "TG_DEVICE_MAINTAINER"
+maintainer = "Lynnrin"
+changelog = "Please check\r\nhttps://github.com/ArrowOS-Devices/android_device_xiaomi_thyme/commits/arrow-12.1\r\nand\r\nhttps://arrowos.net/changelog.php\r\nfor actual changes."

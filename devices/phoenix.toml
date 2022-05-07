@@ -8,13 +8,13 @@ supported = true
 
 [[recoveries]]
 id = "twrp"
-xdathread = "https://forum.xda-developers.com/zenfone-4-selfie/development/recovery-twrp-3-4-0-0-zenfone-4-selfie-t4129731"
-maintainer = "2003Frost and Seplx"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-5-1_10-0-twrp-for-poco-x2-k30.4223889/"
+maintainer = "Himanshu Raj (hraj9258)"
 
 [[recoveries]]
 id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-5-1_10-0-twrp-for-poco-x2-k30.4223889/"
-maintainer = "Himanshu Raj (hraj9258)"
+xdathread = "https://forum.xda-developers.com/zenfone-4-selfie/development/recovery-twrp-3-4-0-0-zenfone-4-selfie-t4129731"
+maintainer = "2003Frost and Seplx"
 
 [[roms]]
 id = "ancientos"

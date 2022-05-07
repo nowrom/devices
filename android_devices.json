@@ -1741,6 +1741,11 @@
   },
   {
     "brand": "Acer",
+    "name": "Acer_A61L",
+    "codename": "Acer_A61L"
+  },
+  {
+    "brand": "Acer",
     "name": "Acer_one_8_T2",
     "codename": "Acer_one_8_T2"
   },
@@ -12511,6 +12516,11 @@
   },
   {
     "brand": "BMobile",
+    "name": "BL52",
+    "codename": "Bmobile_BL52"
+  },
+  {
+    "brand": "BMobile",
     "name": "BL52_TG06",
     "codename": "Bmobile_BL52_TG06"
   },
@@ -16111,6 +16121,11 @@
   },
   {
     "brand": "Blu",
+    "name": "B3",
+    "codename": "B301"
+  },
+  {
+    "brand": "Blu",
     "name": "BLU",
     "codename": "G0430WW"
   },
@@ -16323,6 +16338,11 @@
     "brand": "Blu",
     "name": "C5L MAX",
     "codename": "C0160WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "C5L Max",
+    "codename": "C0161WW"
   },
   {
     "brand": "Blu",
@@ -16701,6 +16721,11 @@
   },
   {
     "brand": "Blu",
+    "name": "G51S",
+    "codename": "G0591WW"
+  },
+  {
+    "brand": "Blu",
     "name": "G6",
     "codename": "G0210"
   },
@@ -16898,6 +16923,11 @@
     "brand": "Blu",
     "name": "Grand_X",
     "codename": "Grand_X"
+  },
+  {
+    "brand": "Blu",
+    "name": "J6S",
+    "codename": "J210EQ"
   },
   {
     "brand": "Blu",
@@ -63901,6 +63931,11 @@
   },
   {
     "brand": "Ipro",
+    "name": "S200M",
+    "codename": "S200M"
+  },
+  {
+    "brand": "Ipro",
     "name": "S401",
     "codename": "S401"
   },
@@ -68812,6 +68847,11 @@
   {
     "brand": "Kodak",
     "name": "Kodak_D55L",
+    "codename": "Kodak_D55L"
+  },
+  {
+    "brand": "Kodak",
+    "name": "Kodak_D55L_R",
     "codename": "Kodak_D55L"
   },
   {
@@ -101796,6 +101836,16 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus 7",
+    "codename": "OnePlus7"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 7",
+    "codename": "OnePlus7"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus 7 Pro",
     "codename": "OP7ProNRSpr"
   },
@@ -101818,6 +101868,16 @@
     "brand": "OnePlus",
     "name": "OnePlus 7 Pro 5G",
     "codename": "OnePlus7ProNR"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 7T",
+    "codename": "OnePlus7T"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 7T",
+    "codename": "OnePlus7T"
   },
   {
     "brand": "OnePlus",
@@ -113166,6 +113226,11 @@
   },
   {
     "brand": "Pritom",
+    "name": "L8-T01",
+    "codename": "L8-T01"
+  },
+  {
+    "brand": "Pritom",
     "name": "L8_A01",
     "codename": "L8_A01"
   },
@@ -115758,6 +115823,11 @@
     "brand": "ROLLCALL",
     "name": "DT",
     "codename": "DT"
+  },
+  {
+    "brand": "RSEA",
+    "name": "RSE E1",
+    "codename": "RSE_E1"
   },
   {
     "brand": "RT Project",
@@ -118783,6 +118853,11 @@
     "brand": "SOHO STYLE",
     "name": "S1582C",
     "codename": "S1582C"
+  },
+  {
+    "brand": "SOHO STYLE",
+    "name": "S1587K",
+    "codename": "S1587K"
   },
   {
     "brand": "SOHO STYLE",
@@ -136606,6 +136681,11 @@
   },
   {
     "brand": "Sigma Mobile",
+    "name": "Tab A1020",
+    "codename": "TabA1020"
+  },
+  {
+    "brand": "Sigma Mobile",
     "name": "X-Style_S5501",
     "codename": "X-Style_S5501"
   },
@@ -137013,6 +137093,11 @@
     "brand": "Sky (CH)",
     "name": "Elite C55",
     "codename": "Elite_C55USA"
+  },
+  {
+    "brand": "Sky (CH)",
+    "name": "Elite OctaPlus",
+    "codename": "Elite_OctaPlusKK1"
   },
   {
     "brand": "Sky (CH)",
@@ -155346,6 +155431,11 @@
   },
   {
     "brand": "Tesla",
+    "name": "Explr 9",
+    "codename": "Explr_9"
+  },
+  {
+    "brand": "Tesla",
     "name": "M8.1 3G",
     "codename": "TTM813G"
   },
@@ -157195,6 +157285,16 @@
     "codename": "USP-201901"
   },
   {
+    "brand": "UTIME",
+    "name": "TH602",
+    "codename": "TH602"
+  },
+  {
+    "brand": "UTIME",
+    "name": "TH651",
+    "codename": "TH651"
+  },
+  {
     "brand": "UTVbox",
     "name": "MGV2002_HK",
     "codename": "MGV2002_HK"
@@ -158048,6 +158148,11 @@
     "brand": "Umidigi",
     "name": "A9 Pro_EEA",
     "codename": "A9_Pro"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "AblePad S EEA",
+    "codename": "AblePad_S"
   },
   {
     "brand": "Umidigi",
@@ -165468,6 +165573,11 @@
     "brand": "Walton",
     "name": "Primo HM6 Lite",
     "codename": "Primo_HM6_Lite"
+  },
+  {
+    "brand": "Walton",
+    "name": "Primo HM7",
+    "codename": "Primo_HM7"
   },
   {
     "brand": "Walton",
@@ -179676,6 +179786,11 @@
   },
   {
     "brand": "benco",
+    "name": "AE9230",
+    "codename": "AE9230"
+  },
+  {
+    "brand": "benco",
     "name": "AE9950",
     "codename": "AE9950"
   },
@@ -181321,6 +181436,11 @@
   },
   {
     "brand": "iMuz",
+    "name": "EG104",
+    "codename": "EG104"
+  },
+  {
+    "brand": "iMuz",
     "name": "G10",
     "codename": "G10"
   },
@@ -182371,6 +182491,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme 9i",
+    "codename": "RED8C1L1"
+  },
+  {
+    "brand": "realme",
     "name": "realme 9i\t",
     "codename": "RED8C1L1"
   },
@@ -182498,6 +182623,16 @@
     "brand": "realme",
     "name": "realme Pad mini",
     "codename": "RE87CCL1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme Q3s\t",
+    "codename": "RE548BL1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme Q3s\t",
+    "codename": "RE54BFL1"
   },
   {
     "brand": "realme",
@@ -182663,16 +182798,6 @@
     "brand": "realme",
     "name": "真我Q3s\t",
     "codename": "RE548B"
-  },
-  {
-    "brand": "realme",
-    "name": "真我Q3s\t",
-    "codename": "RE548BL1"
-  },
-  {
-    "brand": "realme",
-    "name": "真我Q3s\t",
-    "codename": "RE54BFL1"
   },
   {
     "brand": "realme",

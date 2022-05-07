@@ -22,6 +22,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Adithya (ghostrider_reborn)"
+changelog = "- Initial Android 12L release\r\n- Updated MIUI blobs from V12.5.2.0.RCOMIXM\r\n- Upgraded telephony stack from QSSI 12\r\n- Upgraded adreno drivers from sm8450\r\n- Merged latest CAF tag in kernel\r\n- Misc optimizations and fixes"
 
 [[roms]]
 id = "blissroms"
