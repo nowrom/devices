@@ -520,6 +520,11 @@
     "codename": "AGM_H3"
   },
   {
+    "brand": "AGM Mobile",
+    "name": "AGM H5",
+    "codename": "AGM_H5"
+  },
+  {
     "brand": "AIDATA",
     "name": "ADT1012L",
     "codename": "ADT1012L"
@@ -3231,6 +3236,11 @@
   },
   {
     "brand": "Advance",
+    "name": "SP5733",
+    "codename": "SP5733A"
+  },
+  {
+    "brand": "Advance",
     "name": "SP5760",
     "codename": "SP5760"
   },
@@ -5590,6 +5600,11 @@
     "codename": "TBQ_10321"
   },
   {
+    "brand": "Andersson",
+    "name": "TBX10",
+    "codename": "TBX10"
+  },
+  {
     "brand": "Antel",
     "name": "DV8547",
     "codename": "DV8547"
@@ -5948,6 +5963,11 @@
     "brand": "Apex",
     "name": "R10D",
     "codename": "R10D"
+  },
+  {
+    "brand": "Apex",
+    "name": "T40PRO_L1",
+    "codename": "T40PRO_L1"
   },
   {
     "brand": "Apex",
@@ -13915,6 +13935,16 @@
     "codename": "hanyang"
   },
   {
+    "brand": "Bauhn",
+    "name": "Smart TV",
+    "codename": "longshan"
+  },
+  {
+    "brand": "Bauhn",
+    "name": "Smart TV",
+    "codename": "redwood"
+  },
+  {
     "brand": "BeLeno",
     "name": "BeLeno_Neod_8",
     "codename": "BeLeno_Neod_8"
@@ -21760,6 +21790,11 @@
     "codename": "redwood"
   },
   {
+    "brand": "Classpro",
+    "name": "Smart TV",
+    "codename": "longshan"
+  },
+  {
     "brand": "Clementoni",
     "name": "CLEMPAD_2018",
     "codename": "CLEMPAD_2018"
@@ -23191,6 +23226,11 @@
   },
   {
     "brand": "Contixo",
+    "name": "V10A",
+    "codename": "V10A"
+  },
+  {
+    "brand": "Contixo",
     "name": "V10E",
     "codename": "V10E"
   },
@@ -23233,6 +23273,11 @@
     "brand": "Contixo",
     "name": "V90",
     "codename": "V90"
+  },
+  {
+    "brand": "Contixo",
+    "name": "V9S",
+    "codename": "V9S"
   },
   {
     "brand": "Contixo",
@@ -29473,6 +29518,11 @@
     "brand": "Doogee",
     "name": "S98",
     "codename": "S98"
+  },
+  {
+    "brand": "Doogee",
+    "name": "S98Pro",
+    "codename": "S98Pro"
   },
   {
     "brand": "Doogee",
@@ -37061,6 +37111,11 @@
   },
   {
     "brand": "G-TiDE",
+    "name": "V1_3G",
+    "codename": "V1_3G"
+  },
+  {
+    "brand": "G-TiDE",
     "name": "V1_4G",
     "codename": "V1_4G"
   },
@@ -37273,6 +37328,11 @@
     "brand": "GP-electronic",
     "name": "YC-3135D",
     "codename": "YC-3135D"
+  },
+  {
+    "brand": "GP-electronic",
+    "name": "YC-83P",
+    "codename": "YC-83P"
   },
   {
     "brand": "GP-electronic",
@@ -39583,6 +39643,11 @@
     "brand": "Glofiish",
     "name": "Gpad_U",
     "codename": "Gpad_U"
+  },
+  {
+    "brand": "Go Mobile",
+    "name": "G860",
+    "codename": "G860"
   },
   {
     "brand": "Go Mobile",
@@ -59501,6 +59566,11 @@
   },
   {
     "brand": "Hyatta",
+    "name": "Model 4",
+    "codename": "Model_4TR"
+  },
+  {
+    "brand": "Hyatta",
     "name": "Model 6s",
     "codename": "Model_6s"
   },
@@ -60233,6 +60303,11 @@
     "brand": "Hyundai",
     "name": "Smart TV",
     "codename": "kanda"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Smart TV",
+    "codename": "longshan"
   },
   {
     "brand": "Hyundai",
@@ -67061,6 +67136,11 @@
   },
   {
     "brand": "KONKA",
+    "name": "Cygnus",
+    "codename": "Cygnus"
+  },
+  {
+    "brand": "KONKA",
     "name": "KC516_Pro",
     "codename": "KC516_Pro"
   },
@@ -67638,6 +67718,11 @@
     "brand": "Kanji",
     "name": "KJ-AC05",
     "codename": "KJ_AC05"
+  },
+  {
+    "brand": "Kanji",
+    "name": "KJ-AC05",
+    "codename": "KJ_AC051"
   },
   {
     "brand": "Kanji",
@@ -68260,6 +68345,11 @@
     "codename": "TR10CS1_6"
   },
   {
+    "brand": "Keyphone",
+    "name": "KP523",
+    "codename": "KP523"
+  },
+  {
     "brand": "Kiano",
     "name": "ELEGANCE 6",
     "codename": "ELEGANCE_6"
@@ -68588,6 +68678,11 @@
     "brand": "Klipad",
     "name": "KL602",
     "codename": "KL602"
+  },
+  {
+    "brand": "Klipad",
+    "name": "KL608",
+    "codename": "KL608"
   },
   {
     "brand": "Klipad",
@@ -85551,6 +85646,11 @@
   },
   {
     "brand": "MARVUE",
+    "name": "M8",
+    "codename": "M8"
+  },
+  {
+    "brand": "MARVUE",
     "name": "Pad_M10",
     "codename": "Pad_M10"
   },
@@ -92731,6 +92831,11 @@
   },
   {
     "brand": "Motorola",
+    "name": "Android TV",
+    "codename": "redwood"
+  },
+  {
+    "brand": "Motorola",
     "name": "Atrix",
     "codename": "olympus"
   },
@@ -94253,6 +94358,11 @@
     "brand": "Motorola",
     "name": "Razr V",
     "codename": "umts_yangtze"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Smart TV",
+    "codename": "longshan"
   },
   {
     "brand": "Motorola",
@@ -100480,6 +100590,16 @@
     "codename": "R4"
   },
   {
+    "brand": "Nokia",
+    "name": "Smart TV",
+    "codename": "longshan"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Smart TV",
+    "codename": "redwood"
+  },
+  {
     "brand": "Nomi",
     "name": "CORSA 3 LTE",
     "codename": "Nomi_C070030"
@@ -100713,6 +100833,11 @@
     "brand": "Nomu",
     "name": "V58",
     "codename": "V58"
+  },
+  {
+    "brand": "NoonEast",
+    "name": "Smart TV",
+    "codename": "longshan"
   },
   {
     "brand": "NorthTech",
@@ -101413,6 +101538,11 @@
     "brand": "ORCA",
     "name": "OR-50UX400S",
     "codename": "samseong"
+  },
+  {
+    "brand": "ORION",
+    "name": "Smart TV",
+    "codename": "redwood"
   },
   {
     "brand": "OSCAL",
@@ -113231,6 +113361,11 @@
   },
   {
     "brand": "Pritom",
+    "name": "L8-T01_EEA",
+    "codename": "L8-T01_EEA"
+  },
+  {
+    "brand": "Pritom",
     "name": "L8_A01",
     "codename": "L8_A01"
   },
@@ -113286,6 +113421,11 @@
   },
   {
     "brand": "Pritom",
+    "name": "M10_Max_EEA",
+    "codename": "M10_Max_EEA"
+  },
+  {
+    "brand": "Pritom",
     "name": "M10_PLUS",
     "codename": "M10_PLUS"
   },
@@ -113321,6 +113461,11 @@
   },
   {
     "brand": "Pritom",
+    "name": "P7",
+    "codename": "P7_A1"
+  },
+  {
+    "brand": "Pritom",
     "name": "P7PLUS",
     "codename": "P7PLUS"
   },
@@ -113343,6 +113488,11 @@
     "brand": "Pritom",
     "name": "P7PRO_EEA",
     "codename": "P7PRO_EEA"
+  },
+  {
+    "brand": "Pritom",
+    "name": "P7_EEA",
+    "codename": "P7_A1_EEA"
   },
   {
     "brand": "Pritom",
@@ -118270,6 +118420,11 @@
     "codename": "redwood"
   },
   {
+    "brand": "SABA",
+    "name": "Smart TV",
+    "codename": "redwood"
+  },
+  {
     "brand": "SAELITE",
     "name": "MD1063B",
     "codename": "MD1063B"
@@ -118406,6 +118561,16 @@
   },
   {
     "brand": "SEBBE",
+    "name": "S22_EEA",
+    "codename": "S22_EEA"
+  },
+  {
+    "brand": "SEBBE",
+    "name": "S22_M_EEA",
+    "codename": "S22_M_EEA"
+  },
+  {
+    "brand": "SEBBE",
     "name": "S22_M_US",
     "codename": "S22_M_US"
   },
@@ -118413,6 +118578,21 @@
     "brand": "SEBBE",
     "name": "S22_US",
     "codename": "S22_US"
+  },
+  {
+    "brand": "SEBBE",
+    "name": "S23_EEA",
+    "codename": "S23_EEA"
+  },
+  {
+    "brand": "SEBBE",
+    "name": "S23_M_US",
+    "codename": "S23_M_US"
+  },
+  {
+    "brand": "SEBBE",
+    "name": "S23_US",
+    "codename": "S23_US"
   },
   {
     "brand": "SED Wireless",
@@ -133790,6 +133970,11 @@
     "codename": "TWIFI-07"
   },
   {
+    "brand": "Samtech",
+    "name": "TWIFI_Q07",
+    "codename": "TWIFI_Q07"
+  },
+  {
     "brand": "Sanaeko",
     "name": "FX9",
     "codename": "SANAEKO"
@@ -134093,6 +134278,11 @@
     "brand": "Scope",
     "name": "SP1089",
     "codename": "SP1089"
+  },
+  {
+    "brand": "Scope",
+    "name": "SP1089X",
+    "codename": "SP1089X"
   },
   {
     "brand": "Scope",
@@ -136683,6 +136873,11 @@
     "brand": "Sigma Mobile",
     "name": "Tab A1020",
     "codename": "TabA1020"
+  },
+  {
+    "brand": "Sigma Mobile",
+    "name": "X-Style S5502",
+    "codename": "X-Style_S5502"
   },
   {
     "brand": "Sigma Mobile",
@@ -142386,6 +142581,11 @@
   },
   {
     "brand": "Strong",
+    "name": "Android TV",
+    "codename": "redwood"
+  },
+  {
+    "brand": "Strong",
     "name": "LEAP-S1",
     "codename": "LAS"
   },
@@ -142393,6 +142593,11 @@
     "brand": "Strong",
     "name": "SRT41",
     "codename": "YYT"
+  },
+  {
+    "brand": "Strong",
+    "name": "Smart TV",
+    "codename": "longshan"
   },
   {
     "brand": "Strong",
@@ -151515,6 +151720,11 @@
     "codename": "samseong"
   },
   {
+    "brand": "TEKLIO",
+    "name": "Smart TV",
+    "codename": "redwood"
+  },
+  {
     "brand": "TELE System",
     "name": "UPT24K",
     "codename": "UPT24K"
@@ -157165,6 +157375,11 @@
     "codename": "osaki"
   },
   {
+    "brand": "UNITED TV",
+    "name": "Smart TV",
+    "codename": "redwood"
+  },
+  {
     "brand": "UNIWA",
     "name": "M101",
     "codename": "M101"
@@ -158253,6 +158468,11 @@
     "brand": "Umidigi",
     "name": "BISON_GT",
     "codename": "BISON_GT"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "BISON_GT2",
+    "codename": "BISON_GT2"
   },
   {
     "brand": "Umidigi",
@@ -159783,6 +160003,11 @@
     "brand": "Veidoo",
     "name": "T7S",
     "codename": "T7S"
+  },
+  {
+    "brand": "Veidoo",
+    "name": "T80",
+    "codename": "T80"
   },
   {
     "brand": "Veidoo",
@@ -165856,6 +166081,11 @@
   },
   {
     "brand": "Wansa",
+    "name": "Smart TV",
+    "codename": "redwood"
+  },
+  {
+    "brand": "Wansa",
     "name": "WUD55JOA63S",
     "codename": "samseong"
   },
@@ -167638,6 +167868,11 @@
     "brand": "Wintouch",
     "name": "K72P",
     "codename": "K72P"
+  },
+  {
+    "brand": "Wintouch",
+    "name": "Q705",
+    "codename": "Q705"
   },
   {
     "brand": "Wintouch",
