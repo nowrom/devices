@@ -1,0 +1,9 @@
+brand = "Redmi"
+codename = "spes"
+name = "Redmi Note 11"
+recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""

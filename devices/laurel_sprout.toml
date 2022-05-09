@@ -22,6 +22,11 @@ id = "blissroms"
 id = "cherishos"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/"
+recovery = "https://twrp.me/xiaomi/xiaomimia3.html"
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]
