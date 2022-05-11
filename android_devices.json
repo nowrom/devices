@@ -5401,6 +5401,11 @@
   },
   {
     "brand": "Altus",
+    "name": "Altus Android TV",
+    "codename": "sinchon"
+  },
+  {
+    "brand": "Altus",
     "name": "Altus UHD Android TV",
     "codename": "kunyang"
   },
@@ -19108,6 +19113,11 @@
     "brand": "CORN",
     "name": "C55",
     "codename": "C55"
+  },
+  {
+    "brand": "CORN",
+    "name": "C55 Pro",
+    "codename": "S55310"
   },
   {
     "brand": "CORN",
@@ -36951,6 +36961,11 @@
   },
   {
     "brand": "G-Tab",
+    "name": "Q6",
+    "codename": "Q6"
+  },
+  {
+    "brand": "G-Tab",
     "name": "Q69",
     "codename": "Q69"
   },
@@ -40398,6 +40413,11 @@
     "brand": "Greentel",
     "name": "X2",
     "codename": "X2"
+  },
+  {
+    "brand": "Greentel",
+    "name": "X2 Premium",
+    "codename": "X2_Premium"
   },
   {
     "brand": "Greentel",
@@ -60631,6 +60651,16 @@
   },
   {
     "brand": "INOI",
+    "name": "INOI A72",
+    "codename": "A170"
+  },
+  {
+    "brand": "INOI",
+    "name": "INOI A72",
+    "codename": "A171"
+  },
+  {
+    "brand": "INOI",
     "name": "INOI Note 12",
     "codename": "A180"
   },
@@ -67078,6 +67108,11 @@
     "brand": "KEYENCE",
     "name": "DX-A600",
     "codename": "DX-A600"
+  },
+  {
+    "brand": "KGTEL",
+    "name": "A56",
+    "codename": "A56"
   },
   {
     "brand": "KGTEL",
@@ -95171,11 +95206,6 @@
   },
   {
     "brand": "Motorola",
-    "name": "moto g60",
-    "codename": "hanoip"
-  },
-  {
-    "brand": "Motorola",
     "name": "moto g71 5G",
     "codename": "corfur"
   },
@@ -101473,6 +101503,11 @@
     "brand": "OMIX",
     "name": "X300",
     "codename": "X300"
+  },
+  {
+    "brand": "OMIX",
+    "name": "X400",
+    "codename": "X400"
   },
   {
     "brand": "OMIX",
@@ -110973,6 +111008,11 @@
     "brand": "Positivo",
     "name": "T800",
     "codename": "T800M"
+  },
+  {
+    "brand": "Positivo",
+    "name": "T810",
+    "codename": "T810"
   },
   {
     "brand": "Positivo",
@@ -125728,6 +125768,11 @@
     "brand": "Samsung",
     "name": "Galaxy M22",
     "codename": "m22"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M23 5G",
+    "codename": "m23xq"
   },
   {
     "brand": "Samsung",
@@ -162186,6 +162231,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "PA2170",
+    "codename": "DPD2106"
+  },
+  {
+    "brand": "Vivo",
     "name": "PD1304DL",
     "codename": "PD1304DL"
   },
@@ -162208,6 +162258,31 @@
     "brand": "Vivo",
     "name": "PD1731D",
     "codename": "PD1731D"
+  },
+  {
+    "brand": "Vivo",
+    "name": "T1",
+    "codename": "V2154"
+  },
+  {
+    "brand": "Vivo",
+    "name": "T1",
+    "codename": "V2154"
+  },
+  {
+    "brand": "Vivo",
+    "name": "T1 5G",
+    "codename": "V2151"
+  },
+  {
+    "brand": "Vivo",
+    "name": "T1 Pro 5G",
+    "codename": "V2151"
+  },
+  {
+    "brand": "Vivo",
+    "name": "T1 Pro 5G",
+    "codename": "V2151"
   },
   {
     "brand": "Vivo",
@@ -163566,6 +163641,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "Y55",
+    "codename": "V2154"
+  },
+  {
+    "brand": "Vivo",
     "name": "Y55A",
     "codename": "PD1613"
   },
@@ -163673,6 +163753,21 @@
     "brand": "Vivo",
     "name": "iQOO Z5 6000mAh",
     "codename": "PD2188"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Z6",
+    "codename": "I2203"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Z6",
+    "codename": "I2203"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Z6 Pro",
+    "codename": "I2126"
   },
   {
     "brand": "Vivo",
@@ -173996,6 +174091,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ISE-T100C",
+    "codename": "K96"
+  },
+  {
+    "brand": "ZTE",
     "name": "Infinity X^2 mini",
     "codename": "msm8226"
   },
@@ -177166,6 +177266,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "Z7540",
+    "codename": "Z7540"
+  },
+  {
+    "brand": "ZTE",
     "name": "Z755",
     "codename": "iris"
   },
@@ -177511,6 +177616,16 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE 7532N",
+    "codename": "P633S08"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE 7540N",
+    "codename": "P633F08"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE 8010",
     "codename": "P963F05"
   },
@@ -177556,6 +177671,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE 8040N",
+    "codename": "P633S05"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE 8045",
     "codename": "P606F02"
   },
@@ -177578,6 +177698,11 @@
     "brand": "ZTE",
     "name": "ZTE 9040N",
     "codename": "P653S11"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE 9041N",
+    "codename": "P633S21"
   },
   {
     "brand": "ZTE",
@@ -177673,6 +177798,11 @@
     "brand": "ZTE",
     "name": "ZTE A2022PG",
     "codename": "P875A11"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE A2023P",
+    "codename": "P898A01"
   },
   {
     "brand": "ZTE",
@@ -178166,6 +178296,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade A32",
+    "codename": "P963F90W"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade A3v",
     "codename": "Z5157"
   },
@@ -178243,6 +178378,11 @@
     "brand": "ZTE",
     "name": "ZTE Blade A52",
     "codename": "P963F61"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A52",
+    "codename": "P963F61_A"
   },
   {
     "brand": "ZTE",
@@ -180808,6 +180948,11 @@
     "brand": "i-PLUS",
     "name": "Nu65",
     "codename": "Nu65"
+  },
+  {
+    "brand": "i-PLUS",
+    "name": "Nu70",
+    "codename": "Nu70"
   },
   {
     "brand": "i5 (dza)",
