@@ -91331,6 +91331,11 @@
   },
   {
     "brand": "Mobicell",
+    "name": "EPIC_2",
+    "codename": "EPIC_2"
+  },
+  {
+    "brand": "Mobicell",
     "name": "FAME",
     "codename": "FAME"
   },
@@ -98260,6 +98265,11 @@
     "codename": "MW75QF6"
   },
   {
+    "brand": "NETOGY",
+    "name": "NOVA",
+    "codename": "YXU"
+  },
+  {
     "brand": "NETTV",
     "name": "NETTV",
     "codename": "SEI500NTV"
@@ -102011,8 +102021,18 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus 7",
+    "codename": "OnePlus7"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus 7 Pro",
     "codename": "OP7ProNRSpr"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 7 Pro",
+    "codename": "OnePlus7Pro"
   },
   {
     "brand": "OnePlus",
@@ -102058,6 +102078,11 @@
     "brand": "OnePlus",
     "name": "OnePlus 7T",
     "codename": "OnePlus7TTMO"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 7T Pro",
+    "codename": "OnePlus7TPro"
   },
   {
     "brand": "OnePlus",
@@ -138378,6 +138403,11 @@
     "brand": "Smart",
     "name": "Grand",
     "codename": "Grand"
+  },
+  {
+    "brand": "Smart",
+    "name": "M20",
+    "codename": "M20"
   },
   {
     "brand": "Smart",
