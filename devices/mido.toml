@@ -23,6 +23,11 @@ changelog = "- Upstream device sources\r\n- Move to R HALS\r\n- Switch to 4.9 ke
 id = "blissroms"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
+recovery = "https://dl.twrp.me/mido/"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

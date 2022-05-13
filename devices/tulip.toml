@@ -17,7 +17,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "IceBreaker2451"
-changelog = "- Testing with QTI haptics."
+changelog = "- Initial test build."
 
 [[roms]]
 id = "blissroms"
