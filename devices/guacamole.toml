@@ -17,7 +17,7 @@ id = "blissroms"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/"
 recovery = "https://sourceforge.net/projects/crdroid/files/guacamole/8.x/recovery/"
 
 [[roms]]

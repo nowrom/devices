@@ -13,7 +13,7 @@ photo = "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9-pro-1.jpg"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/"
 recovery = "https://sourceforge.net/projects/crdroid/files/lemonadep/8.x/recovery/"
 
 [[roms]]

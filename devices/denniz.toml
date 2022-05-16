@@ -1,6 +1,10 @@
+brand = "OnePlus"
 codename = "denniz"
-name = "OnePlus Nord 2 5G (denniz)"
-recoveries = []
+name = "OnePlus Nord 2 5G"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "SakilMondal"
 
 [[roms]]
 id = "ancientos"

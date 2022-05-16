@@ -10,7 +10,7 @@ maintainer = "theincognito"
 [[roms]]
 id = "arrowos"
 maintainer = "hiper25"
-changelog = "Temporarily handed over to hiper25 for maintenance"
+changelog = "- Disable some logs\r\n- Update WFD from lemonadep\r\n- Fix up Power-off Alarm\r\n- Update Graphics blobs"
 
 [[roms]]
 id = "crdroid"
