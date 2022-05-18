@@ -7,3 +7,17 @@ recoveries = []
 id = "arrowos"
 maintainer = "Lynnrin"
 changelog = "Please check\r\nhttps://github.com/ArrowOS-Devices/android_device_xiaomi_thyme/commits/arrow-12.1\r\nand\r\nhttps://arrowos.net/changelog.php\r\nfor actual changes."
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_thyme","kernel_xiaomi_thyme","vendor_xiaomi_thyme","vendor_xiaomi_thyme-prebuilt"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+stable = true
+deprecated = false
