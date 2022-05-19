@@ -83,8 +83,8 @@ id = "pixelextended"
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtended_raphael-12.1-20220429-0528-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-12-raphael-official-pixel-extended-rom-25-02-2022.4146471/"
+url = "https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtended_raphael-12.1-20220517-0742-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-raphael-official-pixel-extended-rom-29-04-2022.4146471/"
 
 [[roms]]
 id = "pixyos"
@@ -97,7 +97,7 @@ download = "https://downloads.spark-os.live/?dir=raphael/"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.4"
+version = "v3.9"
 developer = "NATO666613"
 
 [[roms]]
@@ -109,7 +109,7 @@ developer = "NATO666613"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.9"
+version = "v5.4"
 developer = "NATO666613"
 
 [specs]

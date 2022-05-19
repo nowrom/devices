@@ -73,13 +73,13 @@ developer = "DennySPb"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v3.9"
 developer = "DennySPb"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.9"
+version = "v4.9"
 developer = "DennySPb"
 
 [[roms]]
