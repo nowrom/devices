@@ -10,7 +10,6 @@ maintainer = "Nebrassy"
 [[roms]]
 id = "arrowos"
 maintainer = "alk3p"
-changelog = "- Bug fixes and stability improvements.\r\n- For more pls check <a href=\"https://forum.xda-developers.com/t/4355029\">XDA thread</a>"
 
 [[roms]]
 id = "blissroms"

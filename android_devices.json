@@ -20605,6 +20605,11 @@
     "codename": "stanford"
   },
   {
+    "brand": "Challenger",
+    "name": "challenger",
+    "codename": "zhongshan"
+  },
+  {
     "brand": "Chameleon",
     "name": "Chameleon-H",
     "codename": "Chameleon-H"
@@ -34385,6 +34390,11 @@
     "codename": "Smart601"
   },
   {
+    "brand": "Fastway",
+    "name": "FW-Plus Ultra 4K Box1",
+    "codename": "DV8545-C-KIF"
+  },
+  {
     "brand": "Fero",
     "name": "A4001 Plus 2019",
     "codename": "A4001_Plus_2019"
@@ -39971,6 +39981,11 @@
   },
   {
     "brand": "Google",
+    "name": "Intel Alder Lake Chromebook",
+    "codename": "brya_cheets"
+  },
+  {
+    "brand": "Google",
     "name": "Intel Amber Lake Y Chromebook",
     "codename": "rammus_cheets"
   },
@@ -40143,6 +40158,11 @@
     "brand": "Google",
     "name": "Pixel 6 Pro",
     "codename": "raven"
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel 6a",
+    "codename": "bluejay"
   },
   {
     "brand": "Google",
@@ -49771,6 +49791,11 @@
   },
   {
     "brand": "Hisense",
+    "name": "U6H",
+    "codename": "songshan"
+  },
+  {
+    "brand": "Hisense",
     "name": "U6H/A6H/U6G1",
     "codename": "songshan"
   },
@@ -50442,12 +50467,22 @@
   {
     "brand": "Honda",
     "name": "A-DA",
+    "codename": "yebisuCA"
+  },
+  {
+    "brand": "Honda",
+    "name": "A-DA",
     "codename": "yebisuDA"
   },
   {
     "brand": "Honda",
     "name": "A-DA",
     "codename": "yebisuGA"
+  },
+  {
+    "brand": "Honda",
+    "name": "A-DA",
+    "codename": "yebisuHA"
   },
   {
     "brand": "Honda",
@@ -50897,6 +50932,11 @@
   {
     "brand": "Honeywell",
     "name": "EDA52",
+    "codename": "EDA52"
+  },
+  {
+    "brand": "Honeywell",
+    "name": "EDA56",
     "codename": "EDA52"
   },
   {
@@ -60061,6 +60101,11 @@
   },
   {
     "brand": "Hyundai",
+    "name": "Hyundai",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Hyundai",
     "name": "Hyundai 2K TV",
     "codename": "shinjuku"
   },
@@ -66077,6 +66122,11 @@
   {
     "brand": "JVC",
     "name": "JVC",
+    "codename": "shilin"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
     "codename": "sugamo"
   },
   {
@@ -67511,12 +67561,22 @@
   },
   {
     "brand": "KTCtv",
+    "name": "COL",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
     "name": "DIGGIO",
     "codename": "stanford"
   },
   {
     "brand": "KTCtv",
     "name": "EU",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "Electroman",
     "codename": "zhongshan"
   },
   {
@@ -67537,6 +67597,11 @@
   {
     "brand": "KTCtv",
     "name": "Rosso",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "SA",
     "codename": "stanford"
   },
   {
@@ -85381,6 +85446,11 @@
   },
   {
     "brand": "M-Horse",
+    "name": "M2",
+    "codename": "M2"
+  },
+  {
+    "brand": "M-Horse",
     "name": "M2S",
     "codename": "M2S"
   },
@@ -85883,6 +85953,11 @@
     "brand": "MIAPRODUCT",
     "name": "AMBK290471",
     "codename": "AMBK290471"
+  },
+  {
+    "brand": "MIFONE",
+    "name": "Model 6 Pro Max 4G",
+    "codename": "Model-6-Pro-Max-4G"
   },
   {
     "brand": "MIKU",
@@ -86403,11 +86478,6 @@
     "brand": "MTC",
     "name": "Infiniton",
     "codename": "komagome"
-  },
-  {
-    "brand": "MTC",
-    "name": "JVC",
-    "codename": "shilin"
   },
   {
     "brand": "MTC",
@@ -87768,6 +87838,11 @@
     "brand": "Maze_speed",
     "name": "M1582C",
     "codename": "M1582C"
+  },
+  {
+    "brand": "Maze_speed",
+    "name": "M1587K",
+    "codename": "M1587K"
   },
   {
     "brand": "Maze_speed",
@@ -90826,6 +90901,11 @@
   },
   {
     "brand": "Mintt",
+    "name": "MinttM3",
+    "codename": "Mintt_M3"
+  },
+  {
+    "brand": "Mintt",
     "name": "MinttPoro",
     "codename": "MinttPoro"
   },
@@ -91293,6 +91373,11 @@
     "brand": "Mobicell",
     "name": "Clik plus",
     "codename": "Clik_plus"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "Cosmo LTE_1",
+    "codename": "Cosmo_LTE_1"
   },
   {
     "brand": "Mobicell",
@@ -96018,6 +96103,11 @@
     "brand": "Multilaser",
     "name": "M10 4G MON CLA",
     "codename": "WI0C_M10_4G_MON_CLA"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "M10 4G NOVA",
+    "codename": "ML_SO0C_M10_4G_NOVA"
   },
   {
     "brand": "Multilaser",
@@ -102047,6 +102137,11 @@
   {
     "brand": "OnePlus",
     "name": "OnePlus 7 Pro",
+    "codename": "OnePlus7Pro"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 7 Pro",
     "codename": "OnePlus7ProTMO"
   },
   {
@@ -102078,6 +102173,11 @@
     "brand": "OnePlus",
     "name": "OnePlus 7T",
     "codename": "OnePlus7TTMO"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 7T Pro",
+    "codename": "OnePlus7TPro"
   },
   {
     "brand": "OnePlus",
@@ -104051,6 +104151,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO Find X5 Pro",
+    "codename": "OP52D1L1"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO Reno5 A",
     "codename": "OP4F2BL1"
   },
@@ -104068,6 +104173,26 @@
     "brand": "Oppo",
     "name": "OPPO Reno5 pro",
     "codename": "OP4F1FL1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO Reno7",
+    "codename": "OP533FL1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO Reno7 5G",
+    "codename": "OPD4A1L1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO Reno7 5G/Find X5 Lite",
+    "codename": "OPD4A1L1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO Reno7/F21 Pro",
+    "codename": "OP533FL1"
   },
   {
     "brand": "Oppo",
@@ -105073,6 +105198,11 @@
     "brand": "Oppo",
     "name": "Reno6 Pro+ 5G",
     "codename": "OP4EC1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "Reno7",
+    "codename": "OP533FL1"
   },
   {
     "brand": "Oppo",
@@ -111666,6 +111796,16 @@
   },
   {
     "brand": "Premio",
+    "name": "EA07B00001H",
+    "codename": "EA07B00001H"
+  },
+  {
+    "brand": "Premio",
+    "name": "EA07C00001H",
+    "codename": "EA07C00001H"
+  },
+  {
+    "brand": "Premio",
     "name": "NEON_RAY_2",
     "codename": "X82"
   },
@@ -116080,6 +116220,11 @@
     "codename": "IMP-F01K"
   },
   {
+    "brand": "Radger",
+    "name": "Redmi 10C",
+    "codename": "fog"
+  },
+  {
     "brand": "Rainbow",
     "name": "WIKO",
     "codename": "s5501"
@@ -116948,6 +117093,16 @@
     "brand": "Redmi",
     "name": "Redmi 10C",
     "codename": "fog"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi 10C",
+    "codename": "rain"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi 10C",
+    "codename": "wind"
   },
   {
     "brand": "Redmi",
@@ -119030,6 +119185,11 @@
     "codename": "HY40A"
   },
   {
+    "brand": "SKY_Brasil",
+    "name": "Sky Brazil",
+    "codename": "usw8052skb"
+  },
+  {
     "brand": "SMART_KASSEL",
     "name": "ARGENTINA",
     "codename": "SK3402"
@@ -120043,6 +120203,26 @@
     "brand": "SUNMAX",
     "name": "Model_3",
     "codename": "Model_3"
+  },
+  {
+    "brand": "SUNMAX",
+    "name": "Model_6",
+    "codename": "Model_6"
+  },
+  {
+    "brand": "SUNMAX",
+    "name": "Model_6_Pro",
+    "codename": "Model_6_Pro"
+  },
+  {
+    "brand": "SUNMAX",
+    "name": "Model_6_Pro_4G",
+    "codename": "Model_6_pro_4G"
+  },
+  {
+    "brand": "SUNMAX",
+    "name": "Model_6_Pro_Max",
+    "codename": "Model_6_Pro_Max"
   },
   {
     "brand": "SUNMAX",
@@ -122078,6 +122258,11 @@
     "brand": "Samsung",
     "name": "Galaxy A53 5G",
     "codename": "SC-53C"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A53 5G",
+    "codename": "SCG15"
   },
   {
     "brand": "Samsung",
@@ -132107,6 +132292,11 @@
   {
     "brand": "Samsung",
     "name": "Galaxy Tab S6 Lite",
+    "codename": "gta4xlve"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S6 Lite",
     "codename": "gta4xlwifi"
   },
   {
@@ -137281,6 +137471,11 @@
   },
   {
     "brand": "Siragon",
+    "name": "SA",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Siragon",
     "name": "SP 6200",
     "codename": "SP-6200"
   },
@@ -138103,6 +138298,11 @@
     "brand": "Sky Devices",
     "name": "SKY BlackMax",
     "codename": "Sky_BlackMax"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "SKY KID1",
+    "codename": "SKY_KID1"
   },
   {
     "brand": "Sky Devices",
@@ -139246,6 +139446,31 @@
   },
   {
     "brand": "Sony",
+    "name": "Xperia 1 IV",
+    "codename": "A201SO"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 IV",
+    "codename": "SO-51C"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 IV",
+    "codename": "SOG06"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 IV",
+    "codename": "XQ-CT54"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 IV",
+    "codename": "XQ-CT72"
+  },
+  {
+    "brand": "Sony",
     "name": "Xperia 1 Professional Edition",
     "codename": "J9150"
   },
@@ -139498,6 +139723,11 @@
     "brand": "Sony",
     "name": "Xperia Ace II",
     "codename": "SO-41B"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia Ace III",
+    "codename": "SO-53C"
   },
   {
     "brand": "Sony",
@@ -156396,6 +156626,11 @@
   },
   {
     "brand": "Toshiba",
+    "name": "C350LK",
+    "codename": "songshan"
+  },
+  {
+    "brand": "Toshiba",
     "name": "JP:REGZA Tablet AT570  Others:TOSHIBA AT270",
     "codename": "tostab11BS"
   },
@@ -169946,6 +170181,11 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Xiaomi 11i",
+    "codename": "pissarroin"
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Xiaomi 12",
     "codename": "cupid"
   },
@@ -180236,6 +180476,11 @@
   },
   {
     "brand": "benco",
+    "name": "benco V62",
+    "codename": "AE9150"
+  },
+  {
+    "brand": "benco",
     "name": "benco Y11",
     "codename": "AH9110"
   },
@@ -183018,6 +183263,21 @@
     "brand": "realme",
     "name": "realme GT Master Edition\t",
     "codename": "RE54ABL1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme GT NEO 3",
+    "codename": "RED8BEL1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme GT NEO 3 150W",
+    "codename": "RED8BEL1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme GT NEO 3 150w",
+    "codename": "RED8BEL1"
   },
   {
     "brand": "realme",
