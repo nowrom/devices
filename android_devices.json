@@ -49771,6 +49771,11 @@
   },
   {
     "brand": "Hisense",
+    "name": "U60H",
+    "codename": "songshan"
+  },
+  {
+    "brand": "Hisense",
     "name": "U610",
     "codename": "U610"
   },
@@ -104156,6 +104161,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO Pad",
+    "codename": "OP5223"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO Reno5 A",
     "codename": "OP4F2BL1"
   },
@@ -118928,6 +118938,11 @@
     "brand": "SFR.fr",
     "name": "FR",
     "codename": "DV8219"
+  },
+  {
+    "brand": "SGIN",
+    "name": "C8",
+    "codename": "C8"
   },
   {
     "brand": "SGIN",
@@ -153951,6 +153966,16 @@
   },
   {
     "brand": "Tecno",
+    "name": "CAMON 19",
+    "codename": "TECNO-CI6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 19",
+    "codename": "TECNO-CI6n"
+  },
+  {
+    "brand": "Tecno",
     "name": "CAMON C7",
     "codename": "TECNO-C7"
   },
@@ -155468,6 +155493,11 @@
     "brand": "Tele2",
     "name": "Tele2fon V5",
     "codename": "Tele2fon_v5"
+  },
+  {
+    "brand": "Tele2",
+    "name": "Tv Hub Mini",
+    "codename": "SEI700TE"
   },
   {
     "brand": "Telecable",
