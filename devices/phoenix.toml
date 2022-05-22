@@ -23,7 +23,6 @@ photo = "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-x2-1.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "Sreekanth"
-changelog = "• Switch to libperfmgr\r\n• Use sunfish cpusets\r\n• Allow PowerHAL to change sched for ADPF\r\n• Allow PowerHAL to set sched\r\n• Add some missing BT props\r\n• Do not sign Wifi RROs with a platform certificate\r\n• Merge v4.14.266 into the kernel\r\n• Some cleanup and misc changes"
 
 [[roms]]
 id = "blissroms"

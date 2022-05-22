@@ -6,4 +6,3 @@ roms = []
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-twrp-for-goya-sm-t110-sm-t111.4388461/"
-maintainer = "T11x-TWRP"

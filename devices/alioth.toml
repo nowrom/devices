@@ -80,8 +80,8 @@ id = "pixelextended"
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.1-20220408-1249-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/pixelextended-for-alioth.4394125/"
+url = "https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.1-20220521-0538-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-5-android-12-1-alioth-aliothin-21-05-22.4355409/"
 
 [[roms]]
 id = "potato"
