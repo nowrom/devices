@@ -9,7 +9,7 @@ maintainer = "Bauuuuu, kubersharma001, Palaych"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_vangogh","device_xiaomi_sm7250-common","kernel_xiaomi_sm7250","vendor_xiaomi_vangogh"]
+repostories = ["device_xiaomi_vangogh","device_xiaomi_sm7250-common","kernel_xiaomi_vangogh","vendor_xiaomi_vangogh","vendor_xiaomi-firmware"]
 
 [[roms.supported_versions]]
 version_code = "twelve"
