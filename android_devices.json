@@ -3586,6 +3586,11 @@
   },
   {
     "brand": "Aiwa",
+    "name": "AIWA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "Aiwa",
     "name": "AIWA 2K TV",
     "codename": "shinagawa"
   },
@@ -15826,6 +15831,11 @@
   },
   {
     "brand": "Blaupunkt",
+    "name": "BLAUPUNKT",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "Blaupunkt",
     "name": "BLAUPUNKT2K",
     "codename": "nippori"
   },
@@ -19233,6 +19243,16 @@
     "brand": "CP Plus",
     "name": "CP-MUD-M721",
     "codename": "CP-MUD-M721"
+  },
+  {
+    "brand": "CROWN MUSTANG",
+    "name": "Argentina",
+    "codename": "martin"
+  },
+  {
+    "brand": "CROWN MUSTANG",
+    "name": "Argentina",
+    "codename": "patrick"
   },
   {
     "brand": "CWELL",
@@ -23191,6 +23211,11 @@
   },
   {
     "brand": "Continental Edison",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "Continental Edison",
     "name": "France",
     "codename": "tamachi"
   },
@@ -24098,6 +24123,11 @@
     "brand": "Coolpad",
     "name": "Cool 20",
     "codename": "k69v1_64"
+  },
+  {
+    "brand": "Coolpad",
+    "name": "Cool 20 pro",
+    "codename": "CP05"
   },
   {
     "brand": "Coolpad",
@@ -28111,6 +28141,11 @@
   },
   {
     "brand": "Digiquest",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "Digiquest",
     "name": "Italy",
     "codename": "tamachi"
   },
@@ -30801,6 +30836,16 @@
   },
   {
     "brand": "EKO",
+    "name": "\"Australia",
+    "codename": "Japan"
+  },
+  {
+    "brand": "EKO",
+    "name": "\"Australia",
+    "codename": "Japan"
+  },
+  {
+    "brand": "EKO",
     "name": "EKO",
     "codename": "bangbae"
   },
@@ -30843,6 +30888,11 @@
     "brand": "EKO",
     "name": "EKO android TV ISDB",
     "codename": "hanyang"
+  },
+  {
+    "brand": "EKO",
+    "name": "EU、UK、AP",
+    "codename": "martin"
   },
   {
     "brand": "EKO",
@@ -32326,6 +32376,11 @@
   },
   {
     "brand": "Energizer",
+    "name": "U608S",
+    "codename": "U608S"
+  },
+  {
+    "brand": "Energizer",
     "name": "Ultimate U710S",
     "codename": "Ultimate_U710S"
   },
@@ -32791,6 +32846,11 @@
   },
   {
     "brand": "Estar",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "Estar",
     "name": "GO! HD Quad core 3G",
     "codename": "MID7438G"
   },
@@ -32908,6 +32968,11 @@
     "brand": "Euskaltel",
     "name": "Deco 4K con Android TV",
     "codename": "m392"
+  },
+  {
+    "brand": "Euskaltel",
+    "name": "Deco 4K con Android TV",
+    "codename": "m393gena_esk"
   },
   {
     "brand": "Euskaltel",
@@ -33848,6 +33913,11 @@
     "brand": "EyeTech",
     "name": "EyeOnGo10",
     "codename": "EyeOnGo"
+  },
+  {
+    "brand": "F&U (Fandu)",
+    "name": "EU、UK、AP",
+    "codename": "martin"
   },
   {
     "brand": "F&U (Fandu)",
@@ -40523,6 +40593,11 @@
     "brand": "Grunhelm",
     "name": "Smart TV",
     "codename": "redwood"
+  },
+  {
+    "brand": "Grunkel",
+    "name": "EU、UK、AP",
+    "codename": "martin"
   },
   {
     "brand": "Grunkel",
@@ -59846,6 +59921,11 @@
   },
   {
     "brand": "Hyundai",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "Hyundai",
     "name": "Ecuador",
     "codename": "nippori"
   },
@@ -62076,6 +62156,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "Infinix NOTE 12",
+    "codename": "Infinix-X663C"
+  },
+  {
+    "brand": "Infinix",
     "name": "Infinix NOTE 12i",
     "codename": "Infinix-X6819"
   },
@@ -62143,6 +62228,11 @@
     "brand": "Infinix",
     "name": "Infinix X572",
     "codename": "Infinix-X572"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix ZERO 5G",
+    "codename": "Infinix-X6815B"
   },
   {
     "brand": "Infinix",
@@ -66056,6 +66146,11 @@
   },
   {
     "brand": "JVC",
+    "name": "Canada",
+    "codename": "martin"
+  },
+  {
+    "brand": "JVC",
     "name": "DM65UXR\\DM65USR\\DM85UXR",
     "codename": "mstarnapoli_atsc"
   },
@@ -66063,6 +66158,11 @@
     "brand": "JVC",
     "name": "Dixons",
     "codename": "sadang"
+  },
+  {
+    "brand": "JVC",
+    "name": "EU、UK、AP",
+    "codename": "martin"
   },
   {
     "brand": "JVC",
@@ -67576,6 +67676,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "DIGGIO",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
     "name": "EU",
     "codename": "zhongshan"
   },
@@ -67591,6 +67696,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "INNOVA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
     "name": "NA",
     "codename": "zhongshan"
   },
@@ -67598,6 +67708,11 @@
     "brand": "KTCtv",
     "name": "NAKAMICHI",
     "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "NAKAMICHI",
+    "codename": "zhongshan"
   },
   {
     "brand": "KTCtv",
@@ -67616,8 +67731,18 @@
   },
   {
     "brand": "KTCtv",
+    "name": "SA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
     "name": "Zitro",
     "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "Zitro",
+    "codename": "zhongshan"
   },
   {
     "brand": "KTV",
@@ -69123,6 +69248,11 @@
     "brand": "Kogan",
     "name": "Australia",
     "codename": "yeongdeungpo"
+  },
+  {
+    "brand": "Kogan",
+    "name": "EU、UK、AP",
+    "codename": "martin"
   },
   {
     "brand": "Kogan",
@@ -79156,6 +79286,11 @@
   },
   {
     "brand": "Lava",
+    "name": "Z3 PRO",
+    "codename": "LZG403_25"
+  },
+  {
+    "brand": "Lava",
     "name": "Z30",
     "codename": "AH9910"
   },
@@ -87130,6 +87265,11 @@
     "codename": "yeongdeungpo"
   },
   {
+    "brand": "Marcel",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
     "brand": "Marshall",
     "name": "London",
     "codename": "KB-1501"
@@ -87388,6 +87528,11 @@
     "brand": "Master-G",
     "name": "Android TV",
     "codename": "R2"
+  },
+  {
+    "brand": "Master-G",
+    "name": "\"Chile",
+    "codename": " Bolivia"
   },
   {
     "brand": "Master-G",
@@ -94336,6 +94481,11 @@
   },
   {
     "brand": "Motorola",
+    "name": "Motorola",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "Motorola",
     "name": "Motorola Android 9.0 TV",
     "codename": "shibuya"
   },
@@ -94826,6 +94976,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "moto g 5G (2022)",
+    "codename": "austin"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g 5G (2022)",
+    "codename": "austin"
+  },
+  {
+    "brand": "Motorola",
     "name": "moto g 5G plus",
     "codename": "nairo"
   },
@@ -94923,6 +95083,16 @@
     "brand": "Motorola",
     "name": "moto g stylus 5G",
     "codename": "denver"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g stylus 5G (2022)",
+    "codename": "milanf"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g stylus 5G (2022)",
+    "codename": "milanf"
   },
   {
     "brand": "Motorola",
@@ -98961,6 +99131,11 @@
   },
   {
     "brand": "Nano",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "Nano",
     "name": "Smart TV",
     "codename": "mateo"
   },
@@ -99382,6 +99557,11 @@
   {
     "brand": "Nebula",
     "name": "D2150",
+    "codename": "D2140-Cosmos"
+  },
+  {
+    "brand": "Nebula",
+    "name": "D2160",
     "codename": "D2140-Cosmos"
   },
   {
@@ -105208,11 +105388,6 @@
     "brand": "Oppo",
     "name": "Reno6 Pro+ 5G",
     "codename": "OP4EC1"
-  },
-  {
-    "brand": "Oppo",
-    "name": "Reno7",
-    "codename": "OP533FL1"
   },
   {
     "brand": "Oppo",
@@ -113991,6 +114166,11 @@
   },
   {
     "brand": "QBell",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "QBell",
     "name": "Italy",
     "codename": "tamachi"
   },
@@ -116516,11 +116696,6 @@
   },
   {
     "brand": "Realme",
-    "name": "realme 8 5G\t",
-    "codename": "RE513CL1"
-  },
-  {
-    "brand": "Realme",
     "name": "realme 8Pro\t",
     "codename": "RMX3081L1"
   },
@@ -116743,16 +116918,6 @@
     "brand": "Realme",
     "name": "realme V11 5G",
     "codename": "RMX3122CN"
-  },
-  {
-    "brand": "Realme",
-    "name": "realme V15 5G",
-    "codename": "RMX3092CN"
-  },
-  {
-    "brand": "Realme",
-    "name": "realme V15 5G",
-    "codename": "RMX3093CN"
   },
   {
     "brand": "Realme",
@@ -118576,6 +118741,16 @@
   },
   {
     "brand": "S Vision",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "S Vision",
+    "name": "\"Japan",
+    "codename": "USA"
+  },
+  {
+    "brand": "S Vision",
     "name": "S android TV",
     "codename": "hanyang"
   },
@@ -118763,6 +118938,11 @@
     "brand": "SCHNEIDER",
     "name": "Android TV",
     "codename": "R2"
+  },
+  {
+    "brand": "SCHNEIDER",
+    "name": "EU、UK、AP",
+    "codename": "martin"
   },
   {
     "brand": "SCHNEIDER",
@@ -119333,6 +119513,11 @@
     "brand": "SOSMART",
     "name": "T5",
     "codename": "SOSMART_T5"
+  },
+  {
+    "brand": "SPC",
+    "name": "EU、UK、AP",
+    "codename": "martin"
   },
   {
     "brand": "SPC",
@@ -131562,6 +131747,11 @@
   {
     "brand": "Samsung",
     "name": "Galaxy Tab A7",
+    "codename": "gta4lvewifi"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A7",
     "codename": "gta4lwifi"
   },
   {
@@ -132308,6 +132498,11 @@
     "brand": "Samsung",
     "name": "Galaxy Tab S6 Lite",
     "codename": "gta4xlve"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S6 Lite",
+    "codename": "gta4xlvewifi"
   },
   {
     "brand": "Samsung",
@@ -133543,6 +133738,11 @@
     "brand": "Samsung",
     "name": "Galaxy XCover4",
     "codename": "xcover4lte"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy XCover6 Pro",
+    "codename": "xcoverpro2"
   },
   {
     "brand": "Samsung",
@@ -137491,6 +137691,11 @@
   },
   {
     "brand": "Siragon",
+    "name": "SA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "Siragon",
     "name": "SP 6200",
     "codename": "SP-6200"
   },
@@ -138678,6 +138883,16 @@
     "brand": "Smart (BD)",
     "name": "SQ811G",
     "codename": "SQ811G"
+  },
+  {
+    "brand": "Smart-Tech TV",
+    "name": "Aiplus4K",
+    "codename": "guandu"
+  },
+  {
+    "brand": "Smart-Tech TV",
+    "name": "EU、UK、AP",
+    "codename": "martin"
   },
   {
     "brand": "Smart-Tech TV",
@@ -151996,6 +152211,11 @@
   },
   {
     "brand": "TD SYSTEMS",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "TD SYSTEMS",
     "name": "Spain",
     "codename": "tamachi"
   },
@@ -152046,6 +152266,11 @@
   },
   {
     "brand": "TELE System",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "TELE System",
     "name": "UPT24K",
     "codename": "UPT24K"
   },
@@ -152078,6 +152303,11 @@
     "brand": "TERRA",
     "name": "TERRA_PAD_1006",
     "codename": "TERRA_PAD_1006"
+  },
+  {
+    "brand": "TERRA",
+    "name": "TERRA_PAD_1006_V2",
+    "codename": "TERRA_PAD_1006_V2"
   },
   {
     "brand": "TES (Touch Embedded Solutions)",
@@ -155976,6 +156206,11 @@
   },
   {
     "brand": "Tesla",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "Tesla",
     "name": "Explr 9",
     "codename": "Explr_9"
   },
@@ -157301,6 +157536,11 @@
   },
   {
     "brand": "True",
+    "name": "Alpha_5G",
+    "codename": "Alpha_5G"
+  },
+  {
+    "brand": "True",
     "name": "HCH03",
     "codename": "TrueHCH03"
   },
@@ -157428,6 +157668,11 @@
     "brand": "Tunisie Telecom",
     "name": "Star Trail by TT",
     "codename": "startrail3_tt"
+  },
+  {
+    "brand": "Turbo-X",
+    "name": "EU、UK、AP",
+    "codename": "martin"
   },
   {
     "brand": "Turbo-X",
@@ -159758,6 +160003,11 @@
     "brand": "VIZZION",
     "name": "VIZZION TV",
     "codename": "shinjuku"
+  },
+  {
+    "brand": "VIZZION",
+    "name": "vizzion",
+    "codename": "zhongshan"
   },
   {
     "brand": "VNPT Technology",
@@ -162226,6 +162476,11 @@
   },
   {
     "brand": "Vision",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "Vision",
     "name": "VISION",
     "codename": "shibuya"
   },
@@ -164041,6 +164296,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "iQOO Neo6 SE",
+    "codename": "PD2199"
+  },
+  {
+    "brand": "Vivo",
     "name": "iQOO Z5",
     "codename": "2018"
   },
@@ -164418,6 +164678,11 @@
     "brand": "Vivo",
     "name": "vivo S1",
     "codename": "PD1831"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo T2",
+    "codename": "PD2199"
   },
   {
     "brand": "Vivo",
@@ -179326,6 +179591,11 @@
   },
   {
     "brand": "Zebra",
+    "name": "TC15",
+    "codename": "TC15"
+  },
+  {
+    "brand": "Zebra",
     "name": "TC20",
     "codename": "TC20RD"
   },
@@ -179371,6 +179641,16 @@
   },
   {
     "brand": "Zebra",
+    "name": "TC53",
+    "codename": "TC53"
+  },
+  {
+    "brand": "Zebra",
+    "name": "TC53A",
+    "codename": "TC53"
+  },
+  {
+    "brand": "Zebra",
     "name": "TC55",
     "codename": "TC55"
   },
@@ -179378,6 +179658,11 @@
     "brand": "Zebra",
     "name": "TC56",
     "codename": "TC56"
+  },
+  {
+    "brand": "Zebra",
+    "name": "TC58",
+    "codename": "TC58"
   },
   {
     "brand": "Zebra",
@@ -179748,6 +180033,11 @@
     "brand": "Zen",
     "name": "Zen M72 Smart",
     "codename": "M72_Smart"
+  },
+  {
+    "brand": "Zephir",
+    "name": "EU、UK、AP",
+    "codename": "martin"
   },
   {
     "brand": "Zephir",
@@ -183071,6 +183361,16 @@
   },
   {
     "brand": "realme",
+    "name": "narzo 50 5G",
+    "codename": "RED8CDL1"
+  },
+  {
+    "brand": "realme",
+    "name": "narzo 50 5G",
+    "codename": "RED8CDL1"
+  },
+  {
+    "brand": "realme",
     "name": "realme  8",
     "codename": "RMX3085L1"
   },
@@ -183143,6 +183443,11 @@
     "brand": "realme",
     "name": "realme 9",
     "codename": "RE54E2L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme 9 5G Speed Edition",
+    "codename": "RE54BFL1"
   },
   {
     "brand": "realme",
@@ -183331,13 +183636,18 @@
   },
   {
     "brand": "realme",
-    "name": "realme Q3s\t",
-    "codename": "RE54BFL1"
+    "name": "realme Q5i",
+    "codename": "RE873D"
   },
   {
     "brand": "realme",
-    "name": "realme Q5i",
-    "codename": "RE873D"
+    "name": "realme V15 5G",
+    "codename": "RMX3092CN"
+  },
+  {
+    "brand": "realme",
+    "name": "realme V15 5G",
+    "codename": "RMX3093CN"
   },
   {
     "brand": "realme",
