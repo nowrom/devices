@@ -26761,7 +26761,7 @@
   },
   {
     "brand": "Daewoo",
-    "name": "4K SA Smart TV",
+    "name": "4K Smart TV",
     "codename": "pioneer"
   },
   {
@@ -30493,6 +30493,11 @@
     "brand": "Dyon",
     "name": "Dyon",
     "codename": "komagome"
+  },
+  {
+    "brand": "Dyon",
+    "name": "Dyon",
+    "codename": "stanford"
   },
   {
     "brand": "E-Boda",
@@ -60570,6 +60575,11 @@
     "codename": "e551_Lite"
   },
   {
+    "brand": "Hyundai",
+    "name": "hyundai",
+    "codename": "stanford"
+  },
+  {
     "brand": "Hyve",
     "name": "Buzz BU01",
     "codename": "buzz_bu01"
@@ -66106,13 +66116,13 @@
   },
   {
     "brand": "JVC",
-    "name": "4K SA Smart TV",
-    "codename": "pioneer"
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
   },
   {
     "brand": "JVC",
     "name": "4K Smart TV",
-    "codename": "gangbyeon"
+    "codename": "pioneer"
   },
   {
     "brand": "JVC",
@@ -67651,6 +67661,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "AP",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
     "name": "Banana",
     "codename": "stanford"
   },
@@ -67702,6 +67717,11 @@
   {
     "brand": "KTCtv",
     "name": "NA",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "NA",
     "codename": "zhongshan"
   },
   {
@@ -67713,6 +67733,11 @@
     "brand": "KTCtv",
     "name": "NAKAMICHI",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "Nobrand",
+    "codename": "stanford"
   },
   {
     "brand": "KTCtv",
@@ -86900,6 +86925,11 @@
     "codename": "HY44G"
   },
   {
+    "brand": "Magenta TV",
+    "name": "TV Box",
+    "codename": "HY44G"
+  },
+  {
     "brand": "MagentaTV",
     "name": "DV6067Y-T",
     "codename": "DV6067Y_TVStick"
@@ -87516,7 +87546,7 @@
   },
   {
     "brand": "Master-G",
-    "name": "4K SA Smart TV",
+    "name": "4K Smart TV",
     "codename": "pioneer"
   },
   {
@@ -95478,6 +95508,16 @@
     "brand": "Motorola",
     "name": "moto g71 5G",
     "codename": "corfur"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g82 5G",
+    "codename": "rhodep"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g82 5G",
+    "codename": "rhodep"
   },
   {
     "brand": "Motorola",
@@ -115691,38 +115731,38 @@
   },
   {
     "brand": "RCA",
-    "name": "4K SA Smart TV",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "RCA",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "RCA",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "RCA",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "RCA",
+    "name": "4K Smart TV",
     "codename": "pioneer"
   },
   {
     "brand": "RCA",
-    "name": "4K SA Smart TV",
-    "codename": "pioneer"
-  },
-  {
-    "brand": "RCA",
-    "name": "4K SA Smart TV",
+    "name": "4K Smart TV",
     "codename": "pioneer"
   },
   {
     "brand": "RCA",
     "name": "4K Smart TV",
-    "codename": "gangbyeon"
-  },
-  {
-    "brand": "RCA",
-    "name": "4K Smart TV",
-    "codename": "gangbyeon"
-  },
-  {
-    "brand": "RCA",
-    "name": "4K Smart TV",
-    "codename": "gangbyeon"
-  },
-  {
-    "brand": "RCA",
-    "name": "4K Smart TV",
-    "codename": "gangbyeon"
+    "codename": "pioneer"
   },
   {
     "brand": "RCA",
@@ -117026,11 +117066,6 @@
   },
   {
     "brand": "Realme",
-    "name": "realme X7 5G",
-    "codename": "RMX2176CN"
-  },
-  {
-    "brand": "Realme",
     "name": "realme XT",
     "codename": "RMX1921"
   },
@@ -117048,11 +117083,6 @@
     "brand": "Realme",
     "name": "realme narzo 20A",
     "codename": "RMX2050"
-  },
-  {
-    "brand": "Realme",
-    "name": "realme narzo 30 5G",
-    "codename": "RE513CL1"
   },
   {
     "brand": "Realme",
@@ -155351,6 +155381,16 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO SPARK 9 Pro",
+    "codename": "TECNO-KH7n"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 9T",
+    "codename": "TECNO-KH6"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO SPARK Go",
     "codename": "TECNO-KC1"
   },
@@ -182406,7 +182446,7 @@
   },
   {
     "brand": "iMuz",
-    "name": "4K SA Smart TV",
+    "name": "4K Smart TV",
     "codename": "pioneer"
   },
   {
@@ -183698,6 +183738,11 @@
     "brand": "realme",
     "name": "realme X7Pro Ultra",
     "codename": "RMX3115CN"
+  },
+  {
+    "brand": "realme",
+    "name": "realme X7 5G",
+    "codename": "RMX2176CN"
   },
   {
     "brand": "realme",

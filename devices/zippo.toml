@@ -8,6 +8,11 @@ xdathread = "https://forum.xda-developers.com/t/official-tests-twrp-for-the-leno
 maintainer = "ThEMarD"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Config-Releases/NikGapps-SL/01-May-2022/NikGapps-zippo-arm64-12.1-20220501-signed.zip/download"
+recovery = "https://www.androidfilehost.com/?fid=17825722713688280828"
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]

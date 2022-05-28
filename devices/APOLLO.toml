@@ -13,7 +13,7 @@ photo = " https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-5g-pro.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "Dobsgw"
-changelog = "- attempt to fix 5G preference in settings\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial"
+changelog = "- Fixed firmware flashing :/\r\n- Update firmware to EEA 13.0.2.0\r\n- Add thermal settings back\r\n- Implement changes from LOS tree for perf, stability, battery\r\n- Update common blobs from alioth\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial"
 
 [[roms]]
 id = "dotos"
