@@ -11,7 +11,7 @@ wifi = "802.11 a/b/g/n/ac/ax, Dual-band, Wi-Fi Direct, Hotspot"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_motorola_nio","kernel_motorola_sm8250","packages_apps_MotCamera3","vendor_motorola_nio"]
+repostories = ["device_motorola_nio","kernel_motorola_sm8250","vendor_motorola_nio"]
 
 [[roms.supported_versions]]
 version_code = "twelve"

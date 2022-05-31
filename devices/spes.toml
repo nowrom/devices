@@ -7,3 +7,17 @@ recoveries = []
 id = "crdroid"
 gapps = ""
 recovery = ""
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_qcom_common","device_xiaomi_spes","kernel_xiaomi_spes","vendor_qcom_common","vendor_xiaomi_spes"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+stable = true
+deprecated = false
