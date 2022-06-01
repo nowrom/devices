@@ -12,7 +12,7 @@ id = "cherishos"
 
 [[roms]]
 id = "crdroid"
-gapps = "http://downloads.codefi.re/jdcteam/javelinanddart/gapps/MindTheGapps-12.1.0-arm64-20220416_174313.zip"
+gapps = "https://downloads.codefi.re/jdcteam/javelinanddart/gapps/MindTheGapps-12.1.0-arm64-20220416_174313.zip"
 recovery = "https://telegra.ph/Recovery-Download-09-11"
 
 [[roms]]

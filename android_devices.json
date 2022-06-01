@@ -32571,6 +32571,11 @@
   },
   {
     "brand": "Entel",
+    "name": "DECO ENTEL VSB3930",
+    "codename": "m393vsb_entel"
+  },
+  {
+    "brand": "Entel",
     "name": "OWN I62S",
     "codename": "OWN-I62S"
   },
@@ -50573,6 +50578,11 @@
     "brand": "Honda",
     "name": "Accord",
     "codename": "koelsch"
+  },
+  {
+    "brand": "Honda",
+    "name": "Gathers",
+    "codename": "pl0a"
   },
   {
     "brand": "Honda",
@@ -99853,6 +99863,11 @@
     "brand": "Nelson Mandela",
     "name": "Freedom 5.5",
     "codename": "Freedom_55"
+  },
+  {
+    "brand": "Neoregent",
+    "name": "KT1007_EEA",
+    "codename": "KT1007_EEA"
   },
   {
     "brand": "Neostra",
@@ -162853,6 +162868,11 @@
     "brand": "Vivo",
     "name": "PD1731D",
     "codename": "PD1731D"
+  },
+  {
+    "brand": "Vivo",
+    "name": "T1",
+    "codename": "V2154"
   },
   {
     "brand": "Vivo",
