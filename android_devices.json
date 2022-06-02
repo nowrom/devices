@@ -60176,6 +60176,11 @@
   },
   {
     "brand": "Hyundai",
+    "name": "HYUNDAI SMART TV",
+    "codename": "sunnyvale"
+  },
+  {
+    "brand": "Hyundai",
     "name": "HY_BDL163G_001",
     "codename": "HY_BDL163G_001_EEA"
   },
@@ -62773,6 +62778,11 @@
     "brand": "Infinix",
     "name": "ZERO 5G",
     "codename": "Infinix-X6815"
+  },
+  {
+    "brand": "Infinix",
+    "name": "ZERO X Pro",
+    "codename": "Infinix-X6811"
   },
   {
     "brand": "Infinix",
@@ -86940,6 +86950,11 @@
     "codename": "HY44G"
   },
   {
+    "brand": "Magenta TV",
+    "name": "TV box",
+    "codename": "HY44G"
+  },
+  {
     "brand": "MagentaTV",
     "name": "DV6067Y-T",
     "codename": "DV6067Y_TVStick"
@@ -100346,6 +100361,11 @@
   },
   {
     "brand": "Noblex",
+    "name": "NOBLEX Smart TV",
+    "codename": "sunnyvale"
+  },
+  {
+    "brand": "Noblex",
     "name": "Noblex TV",
     "codename": "SW4H"
   },
@@ -109296,6 +109316,11 @@
   },
   {
     "brand": "Philco",
+    "name": "Philco Smart TV",
+    "codename": "sunnyvale"
+  },
+  {
+    "brand": "Philco",
     "name": "PhilcoTV",
     "codename": "shinjuku"
   },
@@ -111058,6 +111083,11 @@
     "brand": "Polestar",
     "name": "Polestar Emu",
     "codename": "ihu_emulator"
+  },
+  {
+    "brand": "Polytron",
+    "name": "4K Smart TV",
+    "codename": "pioneer"
   },
   {
     "brand": "Polytron",
@@ -115781,6 +115811,11 @@
   },
   {
     "brand": "RCA",
+    "name": "4K Smart TV",
+    "codename": "pioneer"
+  },
+  {
+    "brand": "RCA",
     "name": "7 Mercury",
     "codename": "RCT6673W23M"
   },
@@ -117838,6 +117873,16 @@
     "brand": "Redmi",
     "name": "Redmi Note 9",
     "codename": "merlin"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 9",
+    "codename": "merlin"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 9",
+    "codename": "merlinnfc"
   },
   {
     "brand": "Redmi",
@@ -126191,6 +126236,21 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy M13",
+    "codename": "m13"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M13",
+    "codename": "m13"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M13",
+    "codename": "m13"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy M20",
     "codename": "m20"
   },
@@ -133796,6 +133856,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy XCover6 Pro",
+    "codename": "xcoverpro2"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Xcover",
     "codename": "GT-S5690"
   },
@@ -140007,7 +140072,17 @@
   {
     "brand": "Sony",
     "name": "Xperia Ace III",
+    "codename": "A203SO"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia Ace III",
     "codename": "SO-53C"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia Ace III",
+    "codename": "SOG08"
   },
   {
     "brand": "Sony",
