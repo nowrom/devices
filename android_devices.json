@@ -2591,6 +2591,16 @@
   },
   {
     "brand": "Aconatic",
+    "name": "ACONATIC",
+    "codename": "bruno"
+  },
+  {
+    "brand": "Aconatic",
+    "name": "ACONATIC",
+    "codename": "shilin"
+  },
+  {
+    "brand": "Aconatic",
     "name": "ACONATIC FHD TV",
     "codename": "takao"
   },
@@ -3663,6 +3673,11 @@
     "brand": "Aiwa",
     "name": "Smart TV",
     "codename": "redwood"
+  },
+  {
+    "brand": "Aiwa",
+    "name": "TA-07-232",
+    "codename": "TA-07-232"
   },
   {
     "brand": "Aiwa",
@@ -40931,6 +40946,11 @@
   },
   {
     "brand": "HIMADE",
+    "name": "HIMADE",
+    "codename": "shilin"
+  },
+  {
+    "brand": "HIMADE",
     "name": "UHD Android TV",
     "codename": "sindorim"
   },
@@ -62186,6 +62206,16 @@
   },
   {
     "brand": "Infinix",
+    "name": "Infinix NOTE 12 5G",
+    "codename": "Infinix-X671"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix NOTE 12 Pro 5G",
+    "codename": "Infinix-X671B"
+  },
+  {
+    "brand": "Infinix",
     "name": "Infinix NOTE 12i",
     "codename": "Infinix-X6819"
   },
@@ -66253,6 +66283,11 @@
     "brand": "JVC",
     "name": "JVC",
     "codename": "seocho"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
+    "codename": "shilin"
   },
   {
     "brand": "JVC",
@@ -111236,6 +111271,11 @@
   },
   {
     "brand": "Positivo",
+    "name": "M10 4G PRO X",
+    "codename": "T2040"
+  },
+  {
+    "brand": "Positivo",
     "name": "Mini",
     "codename": "mini"
   },
@@ -137122,12 +137162,22 @@
   {
     "brand": "Sharp",
     "name": "Sharp",
+    "codename": "bruno"
+  },
+  {
+    "brand": "Sharp",
+    "name": "Sharp",
     "codename": "ewha"
   },
   {
     "brand": "Sharp",
     "name": "Sharp",
     "codename": "ewha"
+  },
+  {
+    "brand": "Sharp",
+    "name": "Sharp",
+    "codename": "shilin"
   },
   {
     "brand": "Sharp",
@@ -154328,6 +154378,11 @@
     "brand": "Tecno",
     "name": "CAMON 19",
     "codename": "TECNO-CI6n"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 19 Pro 5G",
+    "codename": "TECNO-CI7n"
   },
   {
     "brand": "Tecno",
@@ -184192,7 +184247,17 @@
   {
     "brand": "truvii",
     "name": "Truvii",
+    "codename": "bruno"
+  },
+  {
+    "brand": "truvii",
+    "name": "Truvii",
     "codename": "seocho"
+  },
+  {
+    "brand": "truvii",
+    "name": "Truvii",
+    "codename": "shilin"
   },
   {
     "brand": "uLesson",
