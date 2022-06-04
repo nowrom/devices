@@ -88075,6 +88075,11 @@
     "codename": "TAB_MAX_7"
   },
   {
+    "brand": "Maxwest",
+    "name": "TAB_MAX_7",
+    "codename": "TAB_MAX_7"
+  },
+  {
     "brand": "Maze_speed",
     "name": "M1582C",
     "codename": "M1582C"
@@ -135378,6 +135383,16 @@
     "brand": "Sharp",
     "name": "4T-C**DS1/DN1",
     "codename": "tcvenuj"
+  },
+  {
+    "brand": "Sharp",
+    "name": "4T-C**EN1/EQ1/ES1/EU1",
+    "codename": "tcvenruj"
+  },
+  {
+    "brand": "Sharp",
+    "name": "4T-C**EN2/EL1/EQ2",
+    "codename": "tcvenruj"
   },
   {
     "brand": "Sharp",
