@@ -1,0 +1,9 @@
+brand = "Motorola"
+codename = "hanoip"
+name = "moto g40 fusion"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/unofficial-twrp-3-6-2-11-0-team-win-recovery-project-moto-g60-g40.4453417/"
+maintainer = "G Raghu Varma, DhineshCool"

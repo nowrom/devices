@@ -15806,6 +15806,11 @@
   },
   {
     "brand": "Blaupunkt",
+    "name": "\"AUSTRALIA",
+    "codename": " EU"
+  },
+  {
+    "brand": "Blaupunkt",
     "name": "Atlantis_A10_G403",
     "codename": "Atlantis_A10_G403"
   },
@@ -19038,6 +19043,11 @@
     "brand": "COCOMM",
     "name": "F910B0101",
     "codename": "F910B0101"
+  },
+  {
+    "brand": "COEX",
+    "name": "COEX 2K Smart TV",
+    "codename": "sunnyvale"
   },
   {
     "brand": "COMPUMAX",
@@ -61781,7 +61791,7 @@
   },
   {
     "brand": "Infinix",
-    "name": "HOT  11",
+    "name": "HOT",
     "codename": "Infinix-X689F"
   },
   {
@@ -65748,6 +65758,11 @@
     "brand": "Itel",
     "name": "itel A57 2GB",
     "codename": "itel-A611WP"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel A58 Lite",
+    "codename": "itel-A631W-R2"
   },
   {
     "brand": "Itel",
@@ -83907,6 +83922,11 @@
   {
     "brand": "Lenovo",
     "name": "启天K10 Pro",
+    "codename": "TB128XC"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "启天K10 Pro",
     "codename": "TB223FC"
   },
   {
@@ -95886,6 +95906,11 @@
   },
   {
     "brand": "Motorola Solutions",
+    "name": "LEX L11",
+    "codename": "lexl11g_64"
+  },
+  {
+    "brand": "Motorola Solutions",
     "name": "MOTOTRBO ION",
     "codename": "mkz_sdm660_64"
   },
@@ -103612,11 +103637,6 @@
   {
     "brand": "Oppo",
     "name": "A7x 中国版",
-    "codename": "OP4E7F"
-  },
-  {
-    "brand": "Oppo",
-    "name": "A7x 中国版",
     "codename": "PBBM00"
   },
   {
@@ -104353,6 +104373,11 @@
     "brand": "Oppo",
     "name": "K5",
     "codename": "OP4AA7"
+  },
+  {
+    "brand": "Oppo",
+    "name": "K7x 中国版",
+    "codename": "OP4E7F"
   },
   {
     "brand": "Oppo",
@@ -179891,6 +179916,11 @@
   },
   {
     "brand": "Zebra",
+    "name": "TC73",
+    "codename": "TC73"
+  },
+  {
+    "brand": "Zebra",
     "name": "TC75x",
     "codename": "TC75x"
   },
@@ -179903,6 +179933,11 @@
     "brand": "Zebra",
     "name": "TC8000",
     "codename": "TC8000"
+  },
+  {
+    "brand": "Zebra",
+    "name": "TN28",
+    "codename": "TN28"
   },
   {
     "brand": "Zebra",
@@ -183191,6 +183226,11 @@
   },
   {
     "brand": "imiia",
+    "name": "Smart TV",
+    "codename": "mateo"
+  },
+  {
+    "brand": "imiia",
     "name": "i-217D1",
     "codename": "YUL"
   },
@@ -183827,11 +183867,6 @@
   {
     "brand": "realme",
     "name": "realme GT NEO 3 150W",
-    "codename": "RED8BEL1"
-  },
-  {
-    "brand": "realme",
-    "name": "realme GT NEO 3 150w",
     "codename": "RED8BEL1"
   },
   {

@@ -5,7 +5,7 @@ roms = []
 
 [[recoveries]]
 id = "orangefox"
-supported = true
+supported = false
 
 [specs]
 cpu = "Octa-core (4x2.3 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)"
