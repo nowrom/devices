@@ -65716,6 +65716,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel A510W",
+    "codename": "itel-A510W"
+  },
+  {
+    "brand": "Itel",
     "name": "itel A52",
     "codename": "itel-A52"
   },
@@ -119281,6 +119286,11 @@
   },
   {
     "brand": "SGIN",
+    "name": "C10",
+    "codename": "C10"
+  },
+  {
+    "brand": "SGIN",
     "name": "C8",
     "codename": "C8"
   },
@@ -119673,6 +119683,11 @@
     "brand": "SOSMART",
     "name": "T5",
     "codename": "SOSMART_T5"
+  },
+  {
+    "brand": "SOWLY",
+    "name": "AG_1088_A133",
+    "codename": "AG_1088_A133"
   },
   {
     "brand": "SPC",
@@ -183223,6 +183238,11 @@
     "brand": "ibowin",
     "name": "M10ES11",
     "codename": "M10ES11"
+  },
+  {
+    "brand": "imiia",
+    "name": "4K Smart TV",
+    "codename": "pioneer"
   },
   {
     "brand": "imiia",
