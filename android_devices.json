@@ -3597,6 +3597,11 @@
   {
     "brand": "Aiwa",
     "name": "AIWA",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Aiwa",
+    "name": "AIWA",
     "codename": "zhongshan"
   },
   {
@@ -60241,6 +60246,11 @@
   },
   {
     "brand": "Hyundai",
+    "name": "Hyundai",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Hyundai",
     "name": "Hyundai 2K TV",
     "codename": "shinjuku"
   },
@@ -66336,6 +66346,11 @@
   },
   {
     "brand": "JVC",
+    "name": "JVC",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "JVC",
     "name": "JVC J20",
     "codename": "Cunda"
   },
@@ -66368,6 +66383,11 @@
     "brand": "JVC",
     "name": "LT-55KB597",
     "codename": "sindorim"
+  },
+  {
+    "brand": "JVC",
+    "name": "SA",
+    "codename": "stanford"
   },
   {
     "brand": "JVC",
@@ -67781,12 +67801,37 @@
   },
   {
     "brand": "KTCtv",
+    "name": "Enova",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "Global",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "Golbal",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
     "name": "INNOVA",
     "codename": "stanford"
   },
   {
     "brand": "KTCtv",
     "name": "INNOVA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "Maxsonic_elite",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "Maxsonic_elite",
     "codename": "zhongshan"
   },
   {
@@ -67832,6 +67877,16 @@
   {
     "brand": "KTCtv",
     "name": "SA",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "SA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "Siera",
     "codename": "zhongshan"
   },
   {
@@ -91861,6 +91916,11 @@
   },
   {
     "brand": "Mobicell",
+    "name": "Neo_Plus",
+    "codename": "Neo_Plus"
+  },
+  {
+    "brand": "Mobicell",
     "name": "ONYX",
     "codename": "ONYX"
   },
@@ -94598,6 +94658,11 @@
     "brand": "Motorola",
     "name": "Motoroi",
     "codename": "sholest"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Motorola",
+    "codename": "stanford"
   },
   {
     "brand": "Motorola",
@@ -117036,11 +117101,6 @@
   },
   {
     "brand": "Realme",
-    "name": "realme Q2 5G",
-    "codename": "RMX2117CN"
-  },
-  {
-    "brand": "Realme",
     "name": "realme Q3 5G",
     "codename": "RMX3161CN"
   },
@@ -117093,16 +117153,6 @@
     "brand": "Realme",
     "name": "realme V3 5G",
     "codename": "RMX2201CN"
-  },
-  {
-    "brand": "Realme",
-    "name": "realme V5 5G",
-    "codename": "RMX2111CN"
-  },
-  {
-    "brand": "Realme",
-    "name": "realme V5 5G",
-    "codename": "RMX2112CN"
   },
   {
     "brand": "Realme",
@@ -120211,6 +120261,11 @@
   },
   {
     "brand": "SSmooth",
+    "name": "Smooth Note 6.8",
+    "codename": "Smooth_Note_6_8"
+  },
+  {
+    "brand": "SSmooth",
     "name": "Smooth6_1",
     "codename": "Smooth6_1"
   },
@@ -121683,6 +121738,11 @@
     "brand": "Samsung",
     "name": "Galaxy A13",
     "codename": "a13"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A13 5G",
+    "codename": "a13x"
   },
   {
     "brand": "Samsung",
@@ -124326,6 +124386,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy F13",
+    "codename": "m13"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy F22",
     "codename": "f22"
   },
@@ -126318,11 +126383,6 @@
     "brand": "Samsung",
     "name": "Galaxy M12",
     "codename": "m12"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy M13",
-    "codename": "m13"
   },
   {
     "brand": "Samsung",
@@ -183906,6 +183966,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme Q2 5G",
+    "codename": "RMX2117CN"
+  },
+  {
+    "brand": "realme",
     "name": "realme Q3s\t",
     "codename": "RE548BL1"
   },
@@ -183933,6 +183998,16 @@
     "brand": "realme",
     "name": "realme V25",
     "codename": "RE547D"
+  },
+  {
+    "brand": "realme",
+    "name": "realme V5 5G",
+    "codename": "RMX2111CN"
+  },
+  {
+    "brand": "realme",
+    "name": "realme V5 5G",
+    "codename": "RMX2112CN"
   },
   {
     "brand": "realme",
