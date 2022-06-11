@@ -67476,6 +67476,11 @@
   },
   {
     "brand": "KONKA",
+    "name": "KONKA 4K Android TV-A",
+    "codename": "kenton"
+  },
+  {
+    "brand": "KONKA",
     "name": "KONKA Android TV",
     "codename": "hongik"
   },
@@ -95616,6 +95621,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "moto g42",
+    "codename": "hawao"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g42",
+    "codename": "hawao"
+  },
+  {
+    "brand": "Motorola",
     "name": "moto g51",
     "codename": "cypfq"
   },
@@ -95653,6 +95668,16 @@
     "brand": "Motorola",
     "name": "moto g6 play",
     "codename": "jeter"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g62 5G",
+    "codename": "rhodec"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g62 5G",
+    "codename": "rhodec"
   },
   {
     "brand": "Motorola",
@@ -95978,6 +96003,11 @@
     "brand": "Motorola Solutions",
     "name": "LEX L11",
     "codename": "lexl11g_64"
+  },
+  {
+    "brand": "Motorola Solutions",
+    "name": "MOTOTRBO ION",
+    "codename": "mkz_sdm660_64"
   },
   {
     "brand": "Motorola Solutions",
@@ -154503,6 +154533,16 @@
     "brand": "Tecno",
     "name": "CAMON 19",
     "codename": "TECNO-CI6n"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 19 Pro",
+    "codename": "TECNO-CI8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 19 Pro",
+    "codename": "TECNO-CI8n"
   },
   {
     "brand": "Tecno",

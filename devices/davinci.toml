@@ -18,7 +18,6 @@ photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "RemyL"
-changelog = "* Add back check for baseband version\r\n* Update common vendor to sweet MIUI 13 (Android 12)\r\n* Update some hals and gps\r\n* Update to latest Arian kernel\r\n* Remove powerhint modifications and go back to stock"
 
 [[roms]]
 id = "blissroms"
