@@ -35,6 +35,11 @@ ram = "8/12GB GB LPDDR5"
 wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
 
 [[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/lemonadep/PixelExtended_lemonadep-12.1-20220612-1044-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-12-1-lemonadep-12-06-22.4456631/"
+
+[[roms]]
 id = "sakura"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-2-lemonadep-official.4302751/"
 maintainer_url = "https://forum.xda-developers.com/m/erad1.3262342/"
