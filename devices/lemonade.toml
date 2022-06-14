@@ -27,8 +27,8 @@ wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotsp
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/lemonade/PixelExtended_lemonade-12.1-20220517-1117-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-5-android-12-1-lemonade-18-05-22.4447241/"
+url = "https://sourceforge.net/projects/pixelextended/files/lemonade/PixelExtended_lemonade-12.1-20220613-1143-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-6-android-12-1-lemonade-13-06-2022.4447241/#post-86908467"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680"
