@@ -4,6 +4,16 @@ name = "Realme 6 PRO"
 recoveries = []
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

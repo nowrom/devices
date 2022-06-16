@@ -33971,6 +33971,11 @@
   },
   {
     "brand": "F150",
+    "name": "Air1 Pro",
+    "codename": "Air1_Pro"
+  },
+  {
+    "brand": "F150",
     "name": "B2021",
     "codename": "B2021"
   },
@@ -87736,6 +87741,11 @@
   },
   {
     "brand": "Master-G",
+    "name": "\"Chile",
+    "codename": "Bolivia"
+  },
+  {
+    "brand": "Master-G",
     "name": "Smart TV",
     "codename": "mateo"
   },
@@ -116961,11 +116971,6 @@
   },
   {
     "brand": "Realme",
-    "name": "realme 7 5G",
-    "codename": "RMX2111L1"
-  },
-  {
-    "brand": "Realme",
     "name": "realme 7 Pro",
     "codename": "RMX2170L1"
   },
@@ -117141,11 +117146,6 @@
   },
   {
     "brand": "Realme",
-    "name": "realme Narzo 30 Pro 5G",
-    "codename": "RMX2117L1"
-  },
-  {
-    "brand": "Realme",
     "name": "realme Pad",
     "codename": "RE54C1L1"
   },
@@ -117153,11 +117153,6 @@
     "brand": "Realme",
     "name": "realme Q",
     "codename": "RMX1971CN"
-  },
-  {
-    "brand": "Realme",
-    "name": "realme Q3 5G",
-    "codename": "RMX3161CN"
   },
   {
     "brand": "Realme",
@@ -117641,6 +117636,11 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi 9",
+    "codename": "lancelot"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi 9 Power",
     "codename": "lime"
   },
@@ -118048,6 +118048,11 @@
     "brand": "Redmi",
     "name": "Redmi Note 9",
     "codename": "cannon"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 9",
+    "codename": "merlin"
   },
   {
     "brand": "Redmi",
@@ -121793,11 +121798,6 @@
     "brand": "Samsung",
     "name": "Galaxy A13",
     "codename": "a13"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy A13 5G",
-    "codename": "a13x"
   },
   {
     "brand": "Samsung",
@@ -126448,6 +126448,16 @@
     "brand": "Samsung",
     "name": "Galaxy M13",
     "codename": "m13"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M13",
+    "codename": "m13"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M13 5G",
+    "codename": "a13x"
   },
   {
     "brand": "Samsung",
@@ -139761,6 +139771,11 @@
   },
   {
     "brand": "Sony",
+    "name": "BRAVIA TL2",
+    "codename": "OD0M_EA_T32"
+  },
+  {
+    "brand": "Sony",
     "name": "BRAVIA VH1",
     "codename": "BRAVIA_VH1"
   },
@@ -145256,6 +145271,16 @@
   },
   {
     "brand": "TCL",
+    "name": "G03_4K_GB",
+    "codename": "BeyondTV4"
+  },
+  {
+    "brand": "TCL",
+    "name": "G03_4K_GB_NF",
+    "codename": "BeyondTV4"
+  },
+  {
+    "brand": "TCL",
     "name": "G03_4K_US",
     "codename": "BeyondTV4"
   },
@@ -145268,6 +145293,11 @@
     "brand": "TCL",
     "name": "G03_4K_US_NF",
     "codename": "BeyondTV4"
+  },
+  {
+    "brand": "TCL",
+    "name": "G05_4K_GB",
+    "codename": "G05"
   },
   {
     "brand": "TCL",
@@ -145333,6 +145363,11 @@
     "brand": "TCL",
     "name": "Percee TV",
     "codename": "tcl_sa"
+  },
+  {
+    "brand": "TCL",
+    "name": "Smart TV",
+    "codename": "BeyondTV"
   },
   {
     "brand": "TCL",
@@ -183776,6 +183811,16 @@
   },
   {
     "brand": "realme",
+    "name": "narzo 50 Pro 5G",
+    "codename": "RE879EL1"
+  },
+  {
+    "brand": "realme",
+    "name": "narzo 50 Pro 5G",
+    "codename": "RE879EL1"
+  },
+  {
+    "brand": "realme",
     "name": "realme  8",
     "codename": "RMX3085L1"
   },
@@ -183816,6 +183861,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme 7 5G",
+    "codename": "RMX2111L1"
+  },
+  {
+    "brand": "realme",
     "name": "realme 7 Pro",
     "codename": "RMX2170L1"
   },
@@ -183848,6 +183898,11 @@
     "brand": "realme",
     "name": "realme 9",
     "codename": "RE54E2L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme 9 5G",
+    "codename": "RE54CBL1"
   },
   {
     "brand": "realme",
@@ -184026,6 +184081,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme Narzo 30 Pro 5G",
+    "codename": "RMX2117L1"
+  },
+  {
+    "brand": "realme",
     "name": "realme Pad mini",
     "codename": "RE87CCL1"
   },
@@ -184038,6 +184098,11 @@
     "brand": "realme",
     "name": "realme Q2 5G",
     "codename": "RMX2117CN"
+  },
+  {
+    "brand": "realme",
+    "name": "realme Q3 5G",
+    "codename": "RMX3161CN"
   },
   {
     "brand": "realme",

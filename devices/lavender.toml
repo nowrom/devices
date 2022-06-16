@@ -20,6 +20,7 @@ xda_thread = "https://forum.xda-developers.com/t/title-rom-11-0-device-aospk-the
 [[roms]]
 id = "arrowos"
 maintainer = "Ratoriku, Hazama25"
+changelog = "- Optimize round corners\r\n- Fixed deprecated power profile items\r\n- Smarter decisions on whether to use a 2- or 5Ghz AP\r\n- Disable unneeded TDLS offchannel\r\n- Set max WFD resolution to 1080p\r\n- Disable ahardware buffer\r\n- Switch to threaded GLES render engine\r\n- Get back to default from long-standing VM tweaks\r\n- Fixes watchdog kicking in while formatting huge sdcards\r\n- Drop useless mock powerstats hal\r\n- Other fixes and improvements"
 
 [[roms]]
 id = "blissroms"
