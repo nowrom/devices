@@ -47051,6 +47051,11 @@
   },
   {
     "brand": "Hisense",
+    "name": "A6H/E6H/A6600H/A6500H/E7H/A6HA",
+    "codename": "songshan"
+  },
+  {
+    "brand": "Hisense",
     "name": "A6L",
     "codename": "HLTE730T"
   },
@@ -60216,6 +60221,11 @@
   },
   {
     "brand": "Hyundai",
+    "name": "HYUNDAI 2K Android TV",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "Hyundai",
     "name": "HYUNDAI 4K Android TV",
     "codename": "kenton"
   },
@@ -67492,6 +67502,11 @@
   {
     "brand": "KONKA",
     "name": "KONKA 2K Android TV",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "KONKA",
+    "name": "KONKA 2K Android TV-A",
     "codename": "lasalle"
   },
   {
@@ -111221,6 +111236,11 @@
   },
   {
     "brand": "Polaroid",
+    "name": "Polaroid 2K Android TV",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "Polaroid",
     "name": "Polaroid 4K Android TV",
     "codename": "kenton"
   },
@@ -118713,6 +118733,11 @@
     "brand": "Rinno",
     "name": "R550",
     "codename": "R550"
+  },
+  {
+    "brand": "Riviera",
+    "name": "HIKA5",
+    "codename": "songshan"
   },
   {
     "brand": "Riviera",
@@ -145306,6 +145331,11 @@
   },
   {
     "brand": "TCL",
+    "name": "G07_4K_GB_NF",
+    "codename": "G07"
+  },
+  {
+    "brand": "TCL",
     "name": "GO5c",
     "codename": "U3A_PLUS_4G"
   },
@@ -152597,21 +152627,21 @@
   {
     "brand": "TD SYSTEMS",
     "name": "Android TV",
-    "codename": "redwood"
-  },
-  {
-    "brand": "TD SYSTEMS",
-    "name": "EU、UK、AP",
     "codename": "martin"
   },
   {
     "brand": "TD SYSTEMS",
-    "name": "Spain",
+    "name": "Android TV",
+    "codename": "redwood"
+  },
+  {
+    "brand": "TD SYSTEMS",
+    "name": "Android TV",
     "codename": "tamachi"
   },
   {
     "brand": "TD SYSTEMS",
-    "name": "Spain",
+    "name": "Android TV",
     "codename": "yeongdeungpo"
   },
   {
@@ -157311,6 +157341,11 @@
   },
   {
     "brand": "Toshiba",
+    "name": "C350LP/C350LI/E350LP/E450LP/C350LT/M550LT",
+    "codename": "songshan"
+  },
+  {
+    "brand": "Toshiba",
     "name": "JP:REGZA Tablet AT570  Others:TOSHIBA AT270",
     "codename": "tostab11BS"
   },
@@ -157413,6 +157448,16 @@
     "brand": "Toshiba",
     "name": "L9450",
     "codename": "l9450"
+  },
+  {
+    "brand": "Toshiba",
+    "name": "M550LK",
+    "codename": "songshan"
+  },
+  {
+    "brand": "Toshiba",
+    "name": "M550LP/M550LI",
+    "codename": "songshan"
   },
   {
     "brand": "Toshiba",
@@ -176596,6 +176641,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "Russia",
+    "codename": "P606F02"
+  },
+  {
+    "brand": "ZTE",
     "name": "S118",
     "codename": "P189S10"
   },
@@ -178111,6 +178161,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "Z5156CC",
+    "codename": "Z5156U"
+  },
+  {
+    "brand": "ZTE",
     "name": "Z5158",
     "codename": "Z5158"
   },
@@ -179366,8 +179421,18 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade A52 Lite",
+    "codename": "P963F51W"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade A522",
     "codename": "P817E53"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A52RU",
+    "codename": "P963F61"
   },
   {
     "brand": "ZTE",

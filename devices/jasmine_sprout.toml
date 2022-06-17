@@ -17,7 +17,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Immanuel_Raj"
-changelog = "- Initial Build 3700\r\n- If you face any bugs please report\r\n- Encrypted\r\n- 4.19 Kernel\r\n- Dont Change Kernel\r\n- OSS camera build\r\n- Join https://t.me/yaa2g for support/guide/reporting or use ArrowOS bug tracker\r\n- Build Boots\r\n- EP"
+changelog = "- Initial Build 3800 USB IMS\r\n- If you face any bugs please report\r\n- Encrypted\r\n- 4.19 Kernel\r\n- Dont Change Kernel\r\n- OSS camera build\r\n- Join https://t.me/yaa2g for support/guide/reporting or use ArrowOS bug tracker\r\n- Build Boots\r\n- EP"
 
 [[roms]]
 id = "blissroms"

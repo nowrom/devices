@@ -94,11 +94,11 @@ download = "https://downloads.spark-os.live/?dir=alioth/"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
-developer = "mdeejay"
+version = "v5.4"
+developer = "DennySPb"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.4"
-developer = "DennySPb"
+version = "v4.9"
+developer = "mdeejay"
