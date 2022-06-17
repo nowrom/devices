@@ -1,4 +1,4 @@
-import { createClient } from 'https://deno.land/x/supabase/mod.ts';
+import { createClient } from 'https://esm.sh/@supabase/supabase-js';
 const client = createClient(
 	'https://hdabbjaktgetmyexzjtf.supabase.co',
 	Deno.env.get('SECRET')!
