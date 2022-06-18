@@ -47051,6 +47051,16 @@
   },
   {
     "brand": "Hisense",
+    "name": "A55",
+    "codename": "songshan"
+  },
+  {
+    "brand": "Hisense",
+    "name": "A65",
+    "codename": "songshan"
+  },
+  {
+    "brand": "Hisense",
     "name": "A6H/E6H/A6600H/A6500H/E7H/A6HA",
     "codename": "songshan"
   },
@@ -87770,6 +87780,11 @@
     "codename": "MTIPTVBox"
   },
   {
+    "brand": "MauritiusTelcom",
+    "name": "HP4411",
+    "codename": "HY44G"
+  },
+  {
     "brand": "Maxcom",
     "name": "MS453",
     "codename": "MS453"
@@ -121823,6 +121838,11 @@
     "brand": "Samsung",
     "name": "Galaxy A13",
     "codename": "a13"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A13",
+    "codename": "a13ve"
   },
   {
     "brand": "Samsung",
@@ -158901,6 +158921,11 @@
   },
   {
     "brand": "Ulefone",
+    "name": "Note 6T",
+    "codename": "Note_6T"
+  },
+  {
+    "brand": "Ulefone",
     "name": "Note 8",
     "codename": "Note_8"
   },
@@ -159418,6 +159443,11 @@
     "brand": "Umidigi",
     "name": "BISON",
     "codename": "BISON"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "BISON 2",
+    "codename": "BISON_2"
   },
   {
     "brand": "Umidigi",
