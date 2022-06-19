@@ -84031,6 +84031,16 @@
   },
   {
     "brand": "Lenovo",
+    "name": "moto tab g62",
+    "codename": "XT2261-1"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "moto tab g62 LTE",
+    "codename": "XT2261-2"
+  },
+  {
+    "brand": "Lenovo",
     "name": "启天K10 Pro",
     "codename": "TB128FU"
   },
