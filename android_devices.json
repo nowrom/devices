@@ -180,6 +180,16 @@
     "codename": "Ai-ES1059"
   },
   {
+    "brand": "ABCTECH",
+    "name": "X20",
+    "codename": "X20"
+  },
+  {
+    "brand": "ABCTECH",
+    "name": "X5",
+    "codename": "X5"
+  },
+  {
     "brand": "ACE (Global)",
     "name": "BUZZ 3",
     "codename": "BUZZ_3"
@@ -1418,11 +1428,6 @@
     "brand": "Accent",
     "name": "TANK_P55",
     "codename": "TANK_P55"
-  },
-  {
-    "brand": "Accent",
-    "name": "X20",
-    "codename": "X20"
   },
   {
     "brand": "Access",
@@ -117701,6 +117706,11 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi 9 Prime",
+    "codename": "lancelot"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi 9A",
     "codename": "dandelion"
   },
@@ -123911,6 +123921,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Buddy2",
+    "codename": "m23xq"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy C5",
     "codename": "c5ltechn"
   },
@@ -126558,11 +126573,6 @@
     "brand": "Samsung",
     "name": "Galaxy M22",
     "codename": "m22"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy M23 5G",
-    "codename": "m23xq"
   },
   {
     "brand": "Samsung",
@@ -129473,6 +129483,26 @@
     "brand": "Samsung",
     "name": "Galaxy S21 5G",
     "codename": "o1s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S21 FE 5G",
+    "codename": "r9q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S21 FE 5G",
+    "codename": "r9q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S21 FE 5G",
+    "codename": "r9q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S21 FE 5G",
+    "codename": "r9q"
   },
   {
     "brand": "Samsung",
@@ -134118,6 +134148,11 @@
     "brand": "Samsung",
     "name": "Galaxy XCover4",
     "codename": "xcover4lte"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy XCover6 Pro",
+    "codename": "xcoverpro2"
   },
   {
     "brand": "Samsung",

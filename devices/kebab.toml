@@ -10,7 +10,7 @@ maintainer = "theincognito"
 [[roms]]
 id = "arrowos"
 maintainer = "hiper25"
-changelog = "- Fix NFC bugs\r\n- Upstream Kernel\r\n- Update vibration effects\r\n- Add Dolby Atmos\r\n- Add unlimit edge touch switch\r\n- Cleanup some stock something\r\n- Fix some bugs"
+changelog = "Temporarily handed over to hiper25 for maintenance"
 
 [[roms]]
 id = "crdroid"
