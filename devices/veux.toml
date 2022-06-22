@@ -1,0 +1,9 @@
+brand = "Redmi"
+codename = "veux"
+name = "Redmi Note 11E Pro"
+recoveries = []
+
+[[roms]]
+id = "arrowos"
+maintainer = "TG_DEVICE_MAINTAINER"
+changelog = "Instructions: <a href=\"https://kubersharma001.com/arrowos-for-redmi-note-11-pro-plus-5g-and-poco-x4-pro-5g\">ArrowOS for RN11Pro+5G and Poco X4 Pro 5G</a>\r\nDonate to maintainer: <a href=\"https://www.paypal.com/paypalme/kubersharma001\">PayPal</a>"

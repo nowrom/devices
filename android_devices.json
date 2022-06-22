@@ -25186,6 +25186,11 @@
   },
   {
     "brand": "Cubot",
+    "name": "KINGKONG MINI2 Pro",
+    "codename": "KINGKONG_MINI2_Pro"
+  },
+  {
+    "brand": "Cubot",
     "name": "KINGKONG_MINI",
     "codename": "KINGKONG_MINI"
   },
@@ -50633,6 +50638,11 @@
     "brand": "Honda",
     "name": "A-DA",
     "codename": "yebisuDA"
+  },
+  {
+    "brand": "Honda",
+    "name": "A-DA",
+    "codename": "yebisuFA"
   },
   {
     "brand": "Honda",
@@ -136533,6 +136543,16 @@
     "brand": "Sharp",
     "name": "AQUOS wish",
     "codename": "YLI"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS wish2",
+    "codename": "SH-51C"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS wish2",
+    "codename": "SXI"
   },
   {
     "brand": "Sharp",
