@@ -67,7 +67,7 @@ active = true
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.9"
+version = "v5.4"
 developer = "DennySPb"
 
 [[roms]]
@@ -85,7 +85,7 @@ developer = "DennySPb"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.4"
+version = "v3.9"
 developer = "DennySPb"
 
 [specs]

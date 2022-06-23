@@ -102140,6 +102140,11 @@
     "codename": "X700"
   },
   {
+    "brand": "OMIX",
+    "name": "X700",
+    "codename": "X700"
+  },
+  {
     "brand": "ONDA TLC",
     "name": "T7 Pro",
     "codename": "T7_PRO"
@@ -102188,6 +102193,11 @@
     "brand": "ORCA",
     "name": "OR-50UX400S",
     "codename": "samseong"
+  },
+  {
+    "brand": "ORION",
+    "name": "Smart TV",
+    "codename": "longshan"
   },
   {
     "brand": "ORION",
@@ -112251,6 +112261,11 @@
   },
   {
     "brand": "Premier",
+    "name": "Smart TV",
+    "codename": "longshan"
+  },
+  {
+    "brand": "Premier",
     "name": "TAB-7001-16G",
     "codename": "TAB-7001-16G"
   },
@@ -119173,6 +119188,11 @@
     "brand": "SABA",
     "name": "A11",
     "codename": "redwood"
+  },
+  {
+    "brand": "SABA",
+    "name": "Smart TV",
+    "codename": "longshan"
   },
   {
     "brand": "SABA",
@@ -163218,6 +163238,11 @@
     "brand": "Vivax",
     "name": "Point_X503",
     "codename": "Point_X503"
+  },
+  {
+    "brand": "Vivax",
+    "name": "Smart TV",
+    "codename": "longshan"
   },
   {
     "brand": "Vivax",
