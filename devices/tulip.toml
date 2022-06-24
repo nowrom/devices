@@ -16,7 +16,7 @@ xda_thread = ""
 
 [[roms]]
 id = "arrowos"
-maintainer = "TG_DEVICE_MAINTAINER"
+maintainer = "Nischay Sanjay (IceBreaker2451)"
 changelog = "- Switch to 4.19 kernel."
 
 [[roms]]
