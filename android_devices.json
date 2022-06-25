@@ -1045,6 +1045,16 @@
     "codename": "AVA-RM-RX1"
   },
   {
+    "brand": "AVANGARD",
+    "name": "Android TV",
+    "codename": "R3"
+  },
+  {
+    "brand": "AVANGARD",
+    "name": "Android tv",
+    "codename": "R4"
+  },
+  {
     "brand": "AVATEL",
     "name": "DV8547_Avatel",
     "codename": "DV8547-KSA"
@@ -7956,6 +7966,16 @@
   },
   {
     "brand": "Artel",
+    "name": "Android TV",
+    "codename": "R3"
+  },
+  {
+    "brand": "Artel",
+    "name": "Android TV",
+    "codename": "R4"
+  },
+  {
+    "brand": "Artel",
     "name": "Artel 2K TV",
     "codename": "shinagawa"
   },
@@ -12653,6 +12673,11 @@
     "brand": "BMobile",
     "name": "BL65",
     "codename": "Bmobile_BL65_OM"
+  },
+  {
+    "brand": "BMobile",
+    "name": "BL65",
+    "codename": "Bmobile_BL65_TG"
   },
   {
     "brand": "BMobile",
@@ -18775,6 +18800,11 @@
     "codename": "R2"
   },
   {
+    "brand": "CG Inspiring Life",
+    "name": "Android TV",
+    "codename": "R3"
+  },
+  {
     "brand": "CG Mobile",
     "name": "Blaze  G",
     "codename": "Blaze_G"
@@ -19783,6 +19813,11 @@
     "brand": "Casper",
     "name": "Android TV",
     "codename": "R2"
+  },
+  {
+    "brand": "Casper",
+    "name": "Android TV",
+    "codename": "R3"
   },
   {
     "brand": "Casper",
@@ -32851,6 +32886,11 @@
   },
   {
     "brand": "EssentielB",
+    "name": "Android TV",
+    "codename": "R3"
+  },
+  {
+    "brand": "EssentielB",
     "name": "Black Diamond",
     "codename": "bird77_a_cu_ics2"
   },
@@ -36068,6 +36108,11 @@
     "brand": "Freetel",
     "name": "SAMURAI REI 2",
     "codename": "SAMURAI_REI2"
+  },
+  {
+    "brand": "Fresh",
+    "name": "Android TV",
+    "codename": "R3"
   },
   {
     "brand": "Fresh",
@@ -50468,6 +50513,11 @@
     "brand": "Home Elite",
     "name": "Android TV",
     "codename": "R1"
+  },
+  {
+    "brand": "Home Planet",
+    "name": "Android TV",
+    "codename": "R4"
   },
   {
     "brand": "Homeplustv",
@@ -101076,6 +101126,11 @@
   },
   {
     "brand": "Nokia",
+    "name": "Nokia C2 2nd Edition",
+    "codename": "DMN"
+  },
+  {
+    "brand": "Nokia",
     "name": "Nokia C2 Tennen",
     "codename": "ARV_CUS"
   },
@@ -101088,6 +101143,21 @@
     "brand": "Nokia",
     "name": "Nokia C20 Plus",
     "codename": "SUS"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C21",
+    "codename": "COR"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C21 Plus",
+    "codename": "HPE"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C21 Plus",
+    "codename": "HPE"
   },
   {
     "brand": "Nokia",
@@ -106323,6 +106393,16 @@
     "brand": "Orient",
     "name": "Android TV",
     "codename": "R2"
+  },
+  {
+    "brand": "Orient",
+    "name": "Android TV",
+    "codename": "R3"
+  },
+  {
+    "brand": "Orient",
+    "name": "Android TV",
+    "codename": "R4"
   },
   {
     "brand": "Orient",
@@ -138111,6 +138191,11 @@
   },
   {
     "brand": "Singer",
+    "name": "Android TV",
+    "codename": "R3"
+  },
+  {
+    "brand": "Singer",
     "name": "SINGER ANDROID TV",
     "codename": "sunnyvale"
   },
@@ -143633,6 +143718,16 @@
     "brand": "Stream System",
     "name": "Android TV",
     "codename": "R2"
+  },
+  {
+    "brand": "Stream System",
+    "name": "Android TV",
+    "codename": "R3"
+  },
+  {
+    "brand": "Stream System",
+    "name": "Android TV",
+    "codename": "R4"
   },
   {
     "brand": "Strong",
@@ -156931,6 +157026,16 @@
   },
   {
     "brand": "Thomson",
+    "name": "Android TV",
+    "codename": "R3"
+  },
+  {
+    "brand": "Thomson",
+    "name": "Android TV",
+    "codename": "R4"
+  },
+  {
+    "brand": "Thomson",
     "name": "Delight TH201",
     "codename": "Delight_TH201"
   },
@@ -163128,6 +163233,16 @@
     "brand": "Vision Technology",
     "name": "Android TV",
     "codename": "R2"
+  },
+  {
+    "brand": "Vision Technology",
+    "name": "Android TV",
+    "codename": "R3"
+  },
+  {
+    "brand": "Vision Technology",
+    "name": "Android TV",
+    "codename": "R4"
   },
   {
     "brand": "Visiontech",
