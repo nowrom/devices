@@ -62,6 +62,11 @@ deprecated = false
 id = "pixelextended"
 
 [[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/vince/PixelExtended_vince-12.1-20220624-1635-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-1-vince-official-pixel-extended-rom-25-06-2022.4461031/#post-87068343"
+
+[[roms]]
 id = "revengeos"
 
 [[roms]]
