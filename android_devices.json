@@ -171261,6 +171261,11 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Xiaomi MIX Fold",
+    "codename": "cetus"
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Xiaomi Pad 5",
     "codename": "nabu"
   },
