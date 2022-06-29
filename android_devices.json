@@ -16006,6 +16006,11 @@
   },
   {
     "brand": "Blaupunkt",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "Blaupunkt",
     "name": "Endeavour101",
     "codename": "Blaupunkt"
   },
@@ -16083,6 +16088,11 @@
     "brand": "Blaupunkt",
     "name": "TX01",
     "codename": "TX01"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "Turkey",
+    "codename": "martin"
   },
   {
     "brand": "Blaupunkt",
@@ -18683,6 +18693,11 @@
     "brand": "CAIXUN",
     "name": "Columbia",
     "codename": "patrick"
+  },
+  {
+    "brand": "CAIXUN",
+    "name": "Europe",
+    "codename": "martin"
   },
   {
     "brand": "CAIXUN",
@@ -23288,6 +23303,11 @@
     "brand": "Continental Edison",
     "name": "EU、UK、AP",
     "codename": "martin"
+  },
+  {
+    "brand": "Continental Edison",
+    "name": "France",
+    "codename": "guandu"
   },
   {
     "brand": "Continental Edison",
@@ -68221,6 +68241,16 @@
   },
   {
     "brand": "Kanji",
+    "name": "ARGENTINA",
+    "codename": "martin"
+  },
+  {
+    "brand": "Kanji",
+    "name": "ARGENTINA",
+    "codename": "patrick"
+  },
+  {
+    "brand": "Kanji",
     "name": "KANJI_AC05",
     "codename": "KANJI-AC05"
   },
@@ -87848,6 +87878,11 @@
     "brand": "Master-G",
     "name": "\"Chile",
     "codename": " Bolivia"
+  },
+  {
+    "brand": "Master-G",
+    "name": "\"Chile",
+    "codename": "Bolivia"
   },
   {
     "brand": "Master-G",
@@ -114432,6 +114467,11 @@
   {
     "brand": "Profilo",
     "name": "Turkey",
+    "codename": "martin"
+  },
+  {
+    "brand": "Profilo",
+    "name": "Turkey",
     "codename": "tamachi"
   },
   {
@@ -136821,6 +136861,11 @@
   },
   {
     "brand": "Sharp",
+    "name": "DJ1",
+    "codename": "banqiao"
+  },
+  {
+    "brand": "Sharp",
     "name": "DL1X",
     "codename": "banqiao"
   },
@@ -144356,6 +144401,11 @@
   },
   {
     "brand": "Sunmi",
+    "name": "Sunmi L2H",
+    "codename": "SUNMI-L2HNFC"
+  },
+  {
+    "brand": "Sunmi",
     "name": "Sunmi L2Ks",
     "codename": "SUNMI-L2KsNFC"
   },
@@ -144453,6 +144503,11 @@
     "brand": "Sunny",
     "name": "SN7032",
     "codename": "SN7032"
+  },
+  {
+    "brand": "Sunstech",
+    "name": "Spain / Portugal",
+    "codename": "martin"
   },
   {
     "brand": "Sunstech",
@@ -156021,6 +156076,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO SPARK 9",
+    "codename": "TECNO-KG5p"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO SPARK 9 Pro",
     "codename": "TECNO-KH7n"
   },
@@ -156918,6 +156978,11 @@
     "brand": "Tesla",
     "name": "Smartphone 6.4 Lite",
     "codename": "Tesla_SP6_4_Lite"
+  },
+  {
+    "brand": "Tesla",
+    "name": "South American",
+    "codename": "patrick"
   },
   {
     "brand": "Tesla",
@@ -165558,6 +165623,11 @@
     "brand": "Vivo",
     "name": "vivo Y75A",
     "codename": "PD1718"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo Y77",
+    "codename": "PD2219"
   },
   {
     "brand": "Vivo",
