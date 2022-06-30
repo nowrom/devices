@@ -43,7 +43,7 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_oneplus_guacamole","device_oneplus_sm8150-common","kernel_oneplus_sm8150","vendor_oneplus_guacamole","vendor_oneplus_sm8150-common"]
+repostories = ["device_oneplus_guacamole","device_oneplus_sm8150-common","kernel_oneplus_sm8150","vendor_oneplus_guacamole","vendor_oneplus_sm8150-common","vendor_oneplus_sm8150_apps"]
 
 [[roms.supported_versions]]
 version_code = "twelve"

@@ -7,6 +7,11 @@ id = "twrp"
 maintainer = "kaneawk"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/"
+recovery = "https://github.com/MotoExynos/recovery_release/releases/download/CrDroid/boot.img"
+
+[[roms]]
 id = "lineageos"
 cpu = "Cortex-A73 & Cortex-A53"
 ram = "4 GB"

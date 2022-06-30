@@ -82106,6 +82106,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Legion Y70",
+    "codename": "halo"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo",
     "codename": "A708t"
   },
@@ -84183,6 +84188,11 @@
     "brand": "Lenovo",
     "name": "小新Pad Pro 2021",
     "codename": "J716F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "小新Pad Pro 2022",
+    "codename": "TB132FU"
   },
   {
     "brand": "Lenovo",
@@ -101228,6 +101238,16 @@
     "brand": "Nokia",
     "name": "Nokia G11",
     "codename": "SCT_sprout"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia G11 Plus",
+    "codename": "MGKA"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia G11 Plus",
+    "codename": "MGKA_sprout"
   },
   {
     "brand": "Nokia",

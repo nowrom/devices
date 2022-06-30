@@ -18,7 +18,7 @@ photo = "https://telegra.ph/file/d44358afe0fe98893c1f7.png"
 [[roms]]
 id = "arrowos"
 maintainer = "Sreekanth"
-changelog = "- Fixup mobile data usage in network settings\r\n- Misc changes and fixes"
+changelog = "- Bluetooth HOTFIX build"
 
 [[roms]]
 id = "blissroms"
