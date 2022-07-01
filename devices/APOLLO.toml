@@ -13,7 +13,7 @@ photo = " https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-5g-pro.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "Dobsgw"
-changelog = "- switch to Quantic kernel (fix OIS)\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial"
+changelog = "- Fixed OIS for Pro model\r\n- Sync with LOS tree (cleanups)\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial"
 
 [[roms]]
 id = "dotos"

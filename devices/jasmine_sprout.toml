@@ -17,7 +17,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Immanuel_Raj"
-changelog = "Kernel and BT Test"
+changelog = "Test Build for testing\r\nUi Blur changes\r\nNew kernel changes\r\nNew CPU architecture changes"
 
 [[roms]]
 id = "blissroms"

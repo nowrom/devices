@@ -16,8 +16,8 @@ xda_thread = ""
 
 [[roms]]
 id = "arrowos"
-maintainer = "IceBreaker2451"
-changelog = "- Switch to Radical Ice kernel."
+maintainer = "TG_DEVICE_MAINTAINER"
+changelog = "- Switch to 4.19 kernel."
 
 [[roms]]
 id = "blissroms"

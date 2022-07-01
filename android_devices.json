@@ -51306,11 +51306,6 @@
   },
   {
     "brand": "Honor",
-    "name": "HONOR Magic 4 Lite 5G",
-    "codename": "HNANY-Q"
-  },
-  {
-    "brand": "Honor",
     "name": "HONOR Magic4 Lite",
     "codename": "HNANY-Q1"
   },
@@ -103021,6 +103016,16 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus Nord 2T 5G",
+    "codename": "OP557AL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord 2T 5G",
+    "codename": "OP557AL1"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus Nord CE 5G",
     "codename": "OnePlusNordCE"
   },
@@ -140438,6 +140443,11 @@
     "brand": "Sony",
     "name": "Xperia 10 III Lite",
     "codename": "XQ-BT44"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 IV",
+    "codename": "SO-52C"
   },
   {
     "brand": "Sony",
@@ -184273,6 +184283,11 @@
     "brand": "realme",
     "name": "realme  9i",
     "codename": "RED8C1L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme  V23i",
+    "codename": "RE873B"
   },
   {
     "brand": "realme",

@@ -11,6 +11,11 @@ id = "AOSPK"
 xda_thread = ""
 
 [[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/"
+recovery = "https://forum.xda-developers.com/t/twrp-unofficial-twrp-64-bit-3-6-1.4328145/"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_motorola_ali","device_motorola_msm8953-common","vendor_motorola_ali","vendor_motorola_msm8953-common","kernel_motorola_msm8953"]
 
