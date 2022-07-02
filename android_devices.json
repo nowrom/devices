@@ -66041,6 +66041,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel V51 LTE",
+    "codename": "itel-L5007S"
+  },
+  {
+    "brand": "Itel",
     "name": "itel Vision1(P36 Play)",
     "codename": "itel-L6005"
   },
@@ -102741,6 +102746,41 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus 10 Pro",
+    "codename": "OP516EL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 10 Pro 5G",
+    "codename": "OP516FL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 10 Pro 5G",
+    "codename": "OP516FL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 10 Pro 5G",
+    "codename": "OP516FL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 10 Pro 5G",
+    "codename": "OP516FL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 10R 5G",
+    "codename": "OP5566L1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 10R 5G",
+    "codename": "OP5567L1"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus 6",
     "codename": "OnePlus6"
   },
@@ -103006,6 +103046,16 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus Ace",
+    "codename": "OP5565"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus Ace 竞速版",
+    "codename": "OP5911"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus Nord",
     "codename": "Nord"
   },
@@ -103023,6 +103073,21 @@
     "brand": "OnePlus",
     "name": "OnePlus Nord 2T 5G",
     "codename": "OP557AL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord CE 2",
+    "codename": "OP555BL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord CE 2 Lite 5G",
+    "codename": "OP535DL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord CE 2 Lite 5G",
+    "codename": "OP535DL1"
   },
   {
     "brand": "OnePlus",
@@ -103093,6 +103158,16 @@
     "brand": "OnePlus",
     "name": "OnePlus Nord N100",
     "codename": "OnePlusN100TMO"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord N20 5G",
+    "codename": "OP5159L1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord N20 5G",
+    "codename": "OP515AL1"
   },
   {
     "brand": "OnePlus",
@@ -110003,6 +110078,11 @@
     "brand": "Philips",
     "name": "PI7100/93",
     "codename": "PI7100_93"
+  },
+  {
+    "brand": "Philips",
+    "name": "Philips Android TV",
+    "codename": "PH0M_EA_T32"
   },
   {
     "brand": "Philips",
@@ -140447,7 +140527,22 @@
   {
     "brand": "Sony",
     "name": "Xperia 10 IV",
+    "codename": "A202SO"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 IV",
     "codename": "SO-52C"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 IV",
+    "codename": "SOG07"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 IV",
+    "codename": "XQ-CC44"
   },
   {
     "brand": "Sony",
@@ -155706,6 +155801,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "SPARK 8C",
+    "codename": "TECNO-KG5q"
+  },
+  {
+    "brand": "Tecno",
     "name": "SPARK CM",
     "codename": "TECNO-KA9"
   },
@@ -160358,6 +160458,11 @@
     "brand": "Unitech",
     "name": "EA630_Plus",
     "codename": "EA630_Plus"
+  },
+  {
+    "brand": "Unitech",
+    "name": "HT330",
+    "codename": "HT330"
   },
   {
     "brand": "Unitech",
@@ -184533,6 +184638,11 @@
     "brand": "realme",
     "name": "realme GT NEO 3 150W",
     "codename": "RED8BEL1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme GT NEO 3T",
+    "codename": "RE54E4L1"
   },
   {
     "brand": "realme",
