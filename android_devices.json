@@ -2621,6 +2621,11 @@
   },
   {
     "brand": "Aconatic",
+    "name": "ACONATIC",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Aconatic",
     "name": "ACONATIC FHD TV",
     "codename": "takao"
   },
@@ -122181,11 +122186,6 @@
   },
   {
     "brand": "Samsung",
-    "name": "Galaxy A13 5G",
-    "codename": "a13x"
-  },
-  {
-    "brand": "Samsung",
     "name": "Galaxy A2 Core",
     "codename": "a2corelte"
   },
@@ -134318,6 +134318,11 @@
     "brand": "Samsung",
     "name": "Galaxy Wide5",
     "codename": "f42x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Wide6",
+    "codename": "a13x"
   },
   {
     "brand": "Samsung",
@@ -163633,6 +163638,11 @@
     "brand": "Vivax",
     "name": "TPC_8074G",
     "codename": "TPC_8074G"
+  },
+  {
+    "brand": "Vivax",
+    "name": "VIVAX",
+    "codename": "stanford"
   },
   {
     "brand": "Vivax",
