@@ -3711,6 +3711,11 @@
   },
   {
     "brand": "Aiwa",
+    "name": "TA-10-232",
+    "codename": "TA-10-232"
+  },
+  {
+    "brand": "Aiwa",
     "name": "TA07-2GB",
     "codename": "TA07-2GB"
   },
@@ -11500,6 +11505,11 @@
     "codename": "Azumi_V60"
   },
   {
+    "brand": "BAKEN",
+    "name": "M10",
+    "codename": "M10_A03"
+  },
+  {
     "brand": "BALMUDA",
     "name": "BALMUDA Phone",
     "codename": "A101BM"
@@ -15786,6 +15796,11 @@
   },
   {
     "brand": "Blackview",
+    "name": "Tab6s_NEU",
+    "codename": "Tab6s_NEU"
+  },
+  {
+    "brand": "Blackview",
     "name": "Tab8",
     "codename": "Tab8"
   },
@@ -17333,6 +17348,11 @@
     "brand": "Blu",
     "name": "S91",
     "codename": "S0690WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "S91 Pro",
+    "codename": "S0730WW"
   },
   {
     "brand": "Blu",
@@ -24086,6 +24106,11 @@
   },
   {
     "brand": "Coolpad",
+    "name": "COOL 20S 5G",
+    "codename": "CP07"
+  },
+  {
+    "brand": "Coolpad",
     "name": "COOLPAD_C202",
     "codename": "COOLPAD_C202"
   },
@@ -29586,6 +29611,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "S61",
+    "codename": "S61"
+  },
+  {
+    "brand": "Doogee",
     "name": "S68Pro",
     "codename": "S68Pro"
   },
@@ -33553,6 +33583,11 @@
     "brand": "Evertek",
     "name": "M20_S",
     "codename": "M20_S"
+  },
+  {
+    "brand": "Evertek",
+    "name": "M20_Ultra",
+    "codename": "M20_Ultra"
   },
   {
     "brand": "Evertek",
@@ -38806,6 +38841,11 @@
   },
   {
     "brand": "Gigaset",
+    "name": "GS5 LITE",
+    "codename": "GS5_LITE"
+  },
+  {
+    "brand": "Gigaset",
     "name": "GS5 PRO",
     "codename": "GS5_PRO"
   },
@@ -41013,6 +41053,11 @@
     "brand": "HDC S.A.",
     "name": "HDC",
     "codename": "TK718"
+  },
+  {
+    "brand": "HDC S.A.",
+    "name": "T10_232",
+    "codename": "T10_232"
   },
   {
     "brand": "HDC S.A.",
@@ -51653,6 +51698,11 @@
     "brand": "Hotwav",
     "name": "Symbol X",
     "codename": "Symbol_X"
+  },
+  {
+    "brand": "Hotwav",
+    "name": "T5 Pro",
+    "codename": "T5_Pro"
   },
   {
     "brand": "Hotwav",
@@ -66691,6 +66741,11 @@
   },
   {
     "brand": "Jesy",
+    "name": "JESY K1",
+    "codename": "JESY_K1"
+  },
+  {
+    "brand": "Jesy",
     "name": "JESY_K1",
     "codename": "JESY_K1"
   },
@@ -78995,6 +79050,11 @@
     "codename": "MID_789IPSA100"
   },
   {
+    "brand": "Laser",
+    "name": "MID_799IPS",
+    "codename": "MID_799IPS"
+  },
+  {
     "brand": "Lava",
     "name": "A1",
     "codename": "LAVAA1"
@@ -88148,11 +88208,6 @@
     "brand": "Maxwest",
     "name": "Astro 6M",
     "codename": "Astro_6M"
-  },
-  {
-    "brand": "Maxwest",
-    "name": "Astro 6R",
-    "codename": "Astro_6R"
   },
   {
     "brand": "Maxwest",
@@ -106996,6 +107051,11 @@
   },
   {
     "brand": "Oukitel",
+    "name": "WP20_EEA",
+    "codename": "WP20"
+  },
+  {
+    "brand": "Oukitel",
     "name": "WP5",
     "codename": "WP5"
   },
@@ -115668,6 +115728,11 @@
     "brand": "QUEST",
     "name": "Vibe",
     "codename": "Vibe"
+  },
+  {
+    "brand": "QUICK",
+    "name": "U55",
+    "codename": "U55"
   },
   {
     "brand": "Qilive",
@@ -139661,6 +139726,11 @@
   },
   {
     "brand": "Smart-Tech TV",
+    "name": "SMART TECHNOLOGY",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Smart-Tech TV",
     "name": "SmartTech",
     "codename": "yeongdeungpo"
   },
@@ -139733,6 +139803,11 @@
     "brand": "Smartab",
     "name": "ST8200",
     "codename": "ST8200"
+  },
+  {
+    "brand": "Smartab",
+    "name": "ST8888",
+    "codename": "ST8888"
   },
   {
     "brand": "Smartab",
@@ -144073,6 +144148,11 @@
     "brand": "Stylo",
     "name": "Luna",
     "codename": "Luna"
+  },
+  {
+    "brand": "Stylo",
+    "name": "MOSCOW",
+    "codename": "MOSCOW"
   },
   {
     "brand": "Stylo",
@@ -156971,6 +157051,11 @@
   },
   {
     "brand": "Telma",
+    "name": "Telma_S_Prime",
+    "codename": "Telma_S_Prime"
+  },
+  {
+    "brand": "Telma",
     "name": "telma_i401",
     "codename": "telma_i401"
   },
@@ -159641,6 +159726,11 @@
   },
   {
     "brand": "Umax",
+    "name": "8L_PLUS_EEA",
+    "codename": "8L_PLUS_EEA"
+  },
+  {
+    "brand": "Umax",
     "name": "MediaTek",
     "codename": "8Qa_3G"
   },
@@ -160341,6 +160431,11 @@
   },
   {
     "brand": "Unihertz",
+    "name": "TickTock-E",
+    "codename": "UNIA62"
+  },
+  {
+    "brand": "Unihertz",
     "name": "Ticktock",
     "codename": "Ticktock"
   },
@@ -160953,6 +161048,11 @@
     "brand": "VNPT Technology",
     "name": "VNPT SmartBox 2x",
     "codename": "vnptt_smb_v2x"
+  },
+  {
+    "brand": "VNPT Technology",
+    "name": "VNPTTechnology",
+    "codename": "VNTTab2"
   },
   {
     "brand": "VNPT Technology",
@@ -167805,6 +167905,11 @@
     "codename": "WE_A15"
   },
   {
+    "brand": "WeTap",
+    "name": "WeTap_Y10",
+    "codename": "WeTap_Y10"
+  },
+  {
     "brand": "WeTek",
     "name": "Play",
     "codename": "Play"
@@ -168851,6 +168956,11 @@
   },
   {
     "brand": "Wiko",
+    "name": "WIKO 10",
+    "codename": "VHEM"
+  },
+  {
+    "brand": "Wiko",
     "name": "WIM",
     "codename": "T9051AC"
   },
@@ -169113,6 +169223,11 @@
     "brand": "Wiko",
     "name": "Y81",
     "codename": "W-V680"
+  },
+  {
+    "brand": "Wiko",
+    "name": "Y82",
+    "codename": "W-K630"
   },
   {
     "brand": "Wiko",
