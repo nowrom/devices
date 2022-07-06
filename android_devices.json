@@ -526,6 +526,21 @@
   },
   {
     "brand": "AGM Mobile",
+    "name": "AGM Glory_G1S",
+    "codename": "AGM_Glory_G1S_EU"
+  },
+  {
+    "brand": "AGM Mobile",
+    "name": "AGM Glory_G1S",
+    "codename": "AGM_Glory_G1S_RU"
+  },
+  {
+    "brand": "AGM Mobile",
+    "name": "AGM Glory_G1S",
+    "codename": "AGM_Glory_G1S_US"
+  },
+  {
+    "brand": "AGM Mobile",
     "name": "AGM H3",
     "codename": "AGM_H3"
   },
@@ -19002,6 +19017,11 @@
   {
     "brand": "CHiQ",
     "name": "Smart TV",
+    "codename": "dundas"
+  },
+  {
+    "brand": "CHiQ",
+    "name": "Smart TV",
     "codename": "longshan"
   },
   {
@@ -29571,6 +29591,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "S51",
+    "codename": "S51"
+  },
+  {
+    "brand": "Doogee",
     "name": "S55",
     "codename": "S55"
   },
@@ -29613,6 +29638,11 @@
     "brand": "Doogee",
     "name": "S61",
     "codename": "S61"
+  },
+  {
+    "brand": "Doogee",
+    "name": "S61Pro",
+    "codename": "M19H"
   },
   {
     "brand": "Doogee",
@@ -29918,6 +29948,11 @@
     "brand": "Doogee",
     "name": "X96Pro",
     "codename": "X96ProT"
+  },
+  {
+    "brand": "Doogee",
+    "name": "X97Pro",
+    "codename": "X97Pro"
   },
   {
     "brand": "Doogee",
@@ -65957,6 +65992,11 @@
   {
     "brand": "Itel",
     "name": "itel A58 Lite",
+    "codename": "itel-A631W"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel A58 Lite",
     "codename": "itel-A631W-R2"
   },
   {
@@ -66993,6 +67033,11 @@
     "brand": "Jooyon",
     "name": "UHD Android TV",
     "codename": "sindorim"
+  },
+  {
+    "brand": "Jumper",
+    "name": "EZpad_M10S",
+    "codename": "EZpad_M10S"
   },
   {
     "brand": "Jumper",
@@ -106756,6 +106801,11 @@
   },
   {
     "brand": "Oukitel",
+    "name": "C31_EEA",
+    "codename": "C31"
+  },
+  {
+    "brand": "Oukitel",
     "name": "C6 Pro",
     "codename": "C6_Pro"
   },
@@ -111597,6 +111647,11 @@
   {
     "brand": "Polaroid",
     "name": "Polaroid",
+    "codename": "bruno"
+  },
+  {
+    "brand": "Polaroid",
+    "name": "Polaroid",
     "codename": "ewha"
   },
   {
@@ -114467,6 +114522,11 @@
   {
     "brand": "Pritom",
     "name": "M10",
+    "codename": "M10"
+  },
+  {
+    "brand": "Pritom",
+    "name": "M10",
     "codename": "M10_A01"
   },
   {
@@ -115853,6 +115913,11 @@
     "brand": "Qisur",
     "name": "X72",
     "codename": "X72"
+  },
+  {
+    "brand": "Qlink",
+    "name": "Scepter 8 Tablet",
+    "codename": "Scepter8_tablet"
   },
   {
     "brand": "Qlink",
@@ -139565,6 +139630,11 @@
     "codename": "shinjuku"
   },
   {
+    "brand": "Skyworth",
+    "name": "UrTV1",
+    "codename": "HY44J"
+  },
+  {
     "brand": "SledovaniTV",
     "name": "DV8220",
     "codename": "DV8220"
@@ -143548,6 +143618,11 @@
     "brand": "Spice",
     "name": "Xlife-Proton 5 pro",
     "codename": "Spice"
+  },
+  {
+    "brand": "Spider",
+    "name": "Spider_A10",
+    "codename": "Spider_A10"
   },
   {
     "brand": "Sprint",
@@ -171581,6 +171656,16 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Xiaomi 12 Pro Dimensity",
+    "codename": "daumier"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 12S Ultra",
+    "codename": "thor"
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Xiaomi 12X",
     "codename": "psyche"
   },
@@ -183236,6 +183321,11 @@
   },
   {
     "brand": "iHunt",
+    "name": "Cyber_Shark_EEA",
+    "codename": "Cyber_Shark"
+  },
+  {
+    "brand": "iHunt",
     "name": "Like 11 Panda Pro 2022",
     "codename": "iHunt"
   },
@@ -184741,6 +184831,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme GT 2\t",
+    "codename": "RE58B2L1"
+  },
+  {
+    "brand": "realme",
     "name": "realme GT 2 Pro\t",
     "codename": "RED8ACL1"
   },
@@ -184973,11 +185068,6 @@
     "brand": "realme",
     "name": "真我GT 2\t",
     "codename": "RE5471"
-  },
-  {
-    "brand": "realme",
-    "name": "真我GT 2\t",
-    "codename": "RE58B2L1"
   },
   {
     "brand": "realme",
