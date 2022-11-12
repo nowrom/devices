@@ -4,7 +4,7 @@ name = "LG G7 ThinQ"
 
 [[recoveries]]
 id = "orangefox"
-supported = true
+supported = false
 
 [[roms]]
 id = "evolutionx"

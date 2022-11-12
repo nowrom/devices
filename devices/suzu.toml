@@ -1,12 +1,17 @@
 brand = "Sony"
 codename = "suzu"
 name = "Xperia X"
-roms = []
 
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/showthread.php?t=3786431"
 maintainer = "Chippa_a"
+
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A53 & Cortex-A72"
+ram = "3 GB"
+wifi = "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, Hotspot"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"

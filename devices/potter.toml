@@ -19,12 +19,6 @@ changelog = "01/08/2021\r\n- Fixed night display"
 id = "dotos"
 
 [[roms]]
-id = "havocos"
-url = "https://sourceforge.net/projects/havoc-os/files/potter/Havoc-OS-v3.11-20201113-potter-Official-GApps.zip/download"
-maintainer = "abhijit1998"
-group = "https://t.me/havocofficial"
-
-[[roms]]
 id = "pixelexperience"
 repostories = ["device_motorola_potter","kernel_motorola_potter","vendor_motorola_potter"]
 

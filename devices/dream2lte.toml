@@ -15,12 +15,6 @@ maintainer = "corsicanu"
 id = "blissroms"
 
 [[roms]]
-id = "havocos"
-url = "https://sourceforge.net/projects/havoc-os/files/dream2lte/Havoc-OS-v3.12-20201229-dream2lte-Official-GApps.zip/download"
-maintainer = "EugW"
-group = "https://t.me/havocofficial"
-
-[[roms]]
 id = "sakura"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-project-sakura-5-r-official-monthly-updates-gapps.4261403"
 maintainer_url = "https://forum.xda-developers.com/m/haridhayal.9053429"

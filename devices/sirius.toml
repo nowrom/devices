@@ -10,11 +10,6 @@ maintainer = "None"
 id = "blissroms"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
-recovery = "https://t.me/uixdessDrive/20"
-
-[[roms]]
 id = "legionos"
 active = false
 maintainer = "dimasyudha"
@@ -47,10 +42,22 @@ deprecated = true
 version_code = "twelve"
 stable = true
 xda_thread = "https://forum.xda-developers.com/t/4355535/"
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
+stable = true
+xda_thread = "https://forum.xda-developers.com/t/4355535/"
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = true
+xda_thread = "https://forum.xda-developers.com/t/4355535/"
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
 stable = true
 xda_thread = "https://forum.xda-developers.com/t/4355535/"
 deprecated = false

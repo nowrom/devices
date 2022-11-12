@@ -1,0 +1,18 @@
+brand = "Xiaomi"
+codename = "chime"
+name = "Xiaomi POCO M3/Redmi 9T"
+recoveries = []
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_chime","kernel_xiaomi_chime","vendor_xiaomi_chime"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+stable = true
+deprecated = false

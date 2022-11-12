@@ -9,7 +9,7 @@ supported = false
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/Mi-9/development/recovery-unofficial-twrp-xiaomi-mi-9-t3905825"
-maintainer = "Mauronofrio"
+maintainer = "None"
 
 [[roms]]
 id = "arrowos"
@@ -17,11 +17,6 @@ maintainer = "lamjiidii1"
 
 [[roms]]
 id = "blissroms"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
-recovery = "https://forum.xda-developers.com/t/recovery-3-4-0-10-cepheus-official-unofficial-twrp-for-xiaomi-mi-9-stable.3905825/"
 
 [[roms]]
 id = "evolutionx"
@@ -49,12 +44,18 @@ deprecated = true
 version_code = "twelve"
 xda_thread = ""
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = ""
 stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+xda_thread = ""
+stable = false
 deprecated = false
 
 [[roms]]

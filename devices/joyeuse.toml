@@ -8,12 +8,6 @@ id = "AOSPK"
 xda_thread = ""
 
 [[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/joyeuse/Havoc-OS-v4.8-20210806-joyeuse-Official-GApps.zip"
-maintainer = "Rizak Kamal"
-group = "https://t.me/havocofficial"
-
-[[roms]]
 id = "sakura"
 xda_thread = ""
 maintainer_url = "null"

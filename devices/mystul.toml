@@ -6,3 +6,14 @@ roms = []
 [[recoveries]]
 id = "twrp"
 maintainer = "None"
+
+[specs]
+cpu = "Dual-core 1.4 GHz Krait"
+weight = "123.9 g (4.34 oz)"
+year = "2013, April. Released 2013, April"
+os = "Android 4.1 (Jelly Bean), Facebook Home UI"
+chipset = "Qualcomm MSM8930 Snapdragon 400 (28 nm)"
+gpu = "Adreno 305"
+sensors = "Accelerometer, gyro, proximity, compass"
+batlife = "Endurance rating 57h"
+internalmemory = "16GB 1GB RAM"

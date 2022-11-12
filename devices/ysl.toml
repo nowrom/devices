@@ -14,12 +14,6 @@ xda_thread = ""
 id = "dotos"
 
 [[roms]]
-id = "havocos"
-url = "https://sourceforge.net/projects/havoc-os/files/ysl/Havoc-OS-v3.1"
-maintainer = "Tushar Mahajan"
-group = "https://t.me/havocofficial"
-
-[[roms]]
 id = "legionos"
 active = true
 maintainer = "AYUSH"

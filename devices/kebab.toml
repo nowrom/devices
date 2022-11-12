@@ -13,11 +13,6 @@ maintainer = "hiper25"
 changelog = "- Fix NFC bugs\r\n- Upstream Kernel\r\n- Update vibration effects\r\n- Add Dolby Atmos\r\n- Add unlimit edge touch switch\r\n- Cleanup some stock something\r\n- Fix some bugs"
 
 [[roms]]
-id = "crdroid"
-gapps = ""
-recovery = "https://sourceforge.net/projects/crdroid/files/kebab/8.x/recovery/"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -27,15 +22,9 @@ id = "evolutionx"
 id = "evolutionx"
 
 [[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/kebab/Havoc-OS-v4.16-20220426-kebab-Official-GApps.zip"
-maintainer = "Chandu Dyavanapelli"
-group = "https://t.me/+gJBFyk53ihA5Mjll"
-
-[[roms]]
 id = "lineageos"
 cpu = "Kryo 585"
-ram = "8/12GB GB LPDDR4X"
+ram = "8/12GB GB LPDDR4X/LPDDR5"
 wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
 
 [[roms]]
@@ -57,12 +46,12 @@ deprecated = true
 [[roms.supported_versions]]
 version_code = "twelve"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms]]
 id = "pixelextended"

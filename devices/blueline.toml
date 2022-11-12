@@ -27,16 +27,22 @@ id = "pixelexperience"
 repostories = ["device_google_blueline","device_google_crosshatch","kernel_google_bluecross","vendor_google_blueline"]
 
 [[roms.supported_versions]]
-version_code = "twelve"
+version_code = "thirteen"
 xda_thread = ""
 stable = true
 deprecated = false
 
 [[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = ""
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = ""
 stable = true
-deprecated = false
+deprecated = true
 
 [specs]
 cpu = "Octa-core (4x2.5 GHz Kryo 385 Gold & 4x1.6 GHz Kryo 385 Silver)"

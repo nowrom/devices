@@ -6,11 +6,6 @@ recoveries = []
 [[roms]]
 id = "pixelextended"
 
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/rmx199x/PixelExtended_X2-12.0-20211224-0552-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-0-android-12-rmx199x-24-12-21.4378895/"
-
 [specs]
 cpu = "Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485)"
 weight = "199 g (7.02 oz)"

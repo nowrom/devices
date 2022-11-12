@@ -12,11 +12,6 @@ id = "ancientos"
 photo = "https://wiki.lineageos.org/images/devices/d2s.png"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://mega.nz/file/HIdRyIjK#UF0nw6glqHF1rU3jhHD4my5tQDmHbSKPlDEvIjgP3OY"
-recovery = "https://download.lineageos.org/d2s"
-
-[[roms]]
 id = "lineageos"
 cpu = "Exynos M4 & Cortex-A75 & Cortex-A55"
 ram = "12 GB"
@@ -37,11 +32,6 @@ version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-12-galaxy-note-10-5g-pixelexperience-aosp-encryption.4406327/"
 stable = true
 deprecated = false
-
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/d2s/PixelExtended_d2s-12.1-20220518-1120-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-12-1-galaxy-note-10-5g-pixelextended-aosp-encryption.4431327/"
 
 [specs]
 cpu = "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55) - EMEA/LATAMOcta-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485) - USA/China"

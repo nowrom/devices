@@ -9,6 +9,9 @@ gapps = ""
 recovery = ""
 
 [[roms]]
+id = "dotos"
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]
@@ -16,15 +19,25 @@ id = "evolutionx"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_qcom_common","device_xiaomi_spes","kernel_xiaomi_spes","vendor_qcom_common","vendor_xiaomi_spes","vendor_xiaomi_spes-firmware","vendor_xiaomi_spes-gcam"]
+repostories = ["device_qcom_common","device_qcom_qssi","device_qcom_vendor-common","device_xiaomi_spes","device_xiaomi_spes-kernel","kernel_xiaomi_spes","vendor_qcom_common","vendor_xiaomi_spes"]
 
 [[roms.supported_versions]]
 version_code = "twelve"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
 stable = true
 deprecated = false
 

@@ -19,11 +19,6 @@ xda_thread = ""
 id = "blissroms"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://bitgapps.github.io/"
-recovery = ""
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -46,11 +41,23 @@ deprecated = true
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-begonia-begoniain-pixel-experience-official-aosp.4196041/"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-begonia-begoniain-pixel-experience-official-aosp.4196041/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-begonia-begoniain-pixel-experience-official-aosp.4196041/"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-begonia-begoniain-pixel-experience-official-aosp.4196041/"
 stable = true
 deprecated = false
 
@@ -77,6 +84,12 @@ active = true
 id = "sparkos"
 group = "https://t.me/Uchiha_Clan_Begonia"
 download = "https://downloads.spark-os.live/?dir=begonia/"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v6.0"
+developer = "Bishwo"
 
 [specs]
 cpu = "Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)"

@@ -6,11 +6,6 @@ name = "Redmi 5A"
 id = "orangefox"
 supported = false
 
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/android/development/recovery-twrp-3-1-1-0-xiaomi-redmi-5a-t3712243"
-maintainer = "none"
-
 [[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_riva","kernel_xiaomi_riva","vendor_xiaomi_riva"]
@@ -28,3 +23,14 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.9"
 developer = "erwinabs"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

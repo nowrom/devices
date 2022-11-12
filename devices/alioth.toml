@@ -8,8 +8,7 @@ supported = true
 
 [[recoveries]]
 id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-alpha-teamwin-recovery-project.4272625/"
-maintainer = "Nebrassy"
+maintainer = "0xCAFEBABE"
 
 [[roms]]
 id = "ancientos"
@@ -22,12 +21,12 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "palaych"
-changelog = "<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.2.0.RKHMIXM (A12 Global) !!!</b>"
+changelog = "- msm_irqbalance config: Do not balance msm_drm and kgsl-3d0 IRQs\r\n- Do not touch sleep disabled\r\n- sepolicy: Lable more power supply sysfs\r\n- rootdir: Set proper cpusets for kona caf\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of google android/kernel/common\r\n- kernel: sched: Cleanup\r\n- arch: dts: alioth: Throttle charging speed at 42°C\r\n- Misc fixes and upstream changes, more info into github repo.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI:\r\nGlobal: V13.0.5.0.SKHMIXM\r\n</b>"
 
 [[roms]]
 id = "crdroid"
-gapps = ""
-recovery = "https://dl.akr-developers.com/?file=skkk/TWRP/A12/v3.0.4_A12/3.6.0_11-RedmiK40_v3.0.4_A12-alioth-skkk_f7ef1b18.img"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/08-Sep-2022/"
+recovery = "https://dl.akr-developers.com/?file=skkk/TWRP/A12/v6.3_A12/%5BBOOT%5D3.6.2_12-RedmiK40-POCOF3-Mi11X_v6.3_A12-alioth-skkk_a616ae6b.zip"
 
 [[roms]]
 id = "evolutionx"
@@ -37,9 +36,9 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/alioth/Havoc-OS-v4.16-20220419-alioth-Official-GApps.zip"
-maintainer = "Sukeerat Singh Goindi"
-group = "https://t.me/+lHrhajwm-HsyN2Q1"
+url = "https://download.havoc-os.com/alioth/Havoc-OS-v5.7-20220719-alioth-Official-GApps.zip"
+maintainer = "revolwoc"
+group = ""
 
 [[roms]]
 id = "lineageos"
@@ -49,7 +48,7 @@ wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotsp
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_alioth","device_xiaomi_sm8250-common","device_xiaomi_sm8250-extras","kernel_xiaomi_sm8250","vendor_xiaomi_alioth","vendor_xiaomi_sm8250-common","vendor_xiaomi-firmware"]
+repostories = ["device_xiaomi_alioth","device_xiaomi_sm8250-common","kernel_xiaomi_sm8250","vendor_xiaomi_alioth","vendor_xiaomi_sm8250-common","vendor_xiaomi-firmware","wiki_blobs_alioth"]
 
 [[roms.supported_versions]]
 version_code = "eleven"
@@ -67,21 +66,22 @@ deprecated = true
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-1-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4424733/"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-1-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4424733/"
 stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-1-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4424733/"
+stable = false
 deprecated = false
 
 [[roms]]
 id = "pixelextended"
-
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.1-20220521-0538-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-5-android-12-1-alioth-aliothin-21-05-22.4355409/"
 
 [[roms]]
 id = "potato"
@@ -94,11 +94,28 @@ download = "https://downloads.spark-os.live/?dir=alioth/"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.5"
+version = "v4.9"
+developer = "mdeejay"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v5.6"
 developer = "DennySPb"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
-developer = "mdeejay"
+version = "v6.1"
+developer = "DennySPb"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

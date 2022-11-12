@@ -12,11 +12,6 @@ id = "arrowos"
 maintainer = "John Paul Patigas"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://forum.xda-developers.com/t/gapps-arm64-flamegapps-for-android-9-0-10-0-11-0.4020917/"
-recovery = ""
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -24,12 +19,6 @@ id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/juice/Havoc-OS-v4.16-20220421-juice-Official-GApps.zip"
-maintainer = "Don Joaquin"
-group = "https://t.me/+5ANvTgRGu4MxOGNl"
 
 [[roms]]
 id = "legionos"
@@ -41,11 +30,6 @@ photo = "https://avatars.githubusercontent.com/u/63705885?v=4"
 
 [[roms]]
 id = "pixelextended"
-
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/juice/PixelExtended_juice-12.1-20220701-1219-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-a12-1-pixel-extended-4-6-for-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice.4393915/"
 
 [[roms]]
 id = "sparkos"

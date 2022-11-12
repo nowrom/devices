@@ -18,18 +18,13 @@ photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "RemyL"
-changelog = "* Add back check for baseband version\r\n* Update common vendor to sweet MIUI 13 (Android 12)\r\n* Update some hals and gps\r\n* Update to latest Arian kernel\r\n* Remove powerhint modifications and go back to stock"
+changelog = "* Update common vendor to sweet MIUI 13 (Android 12)\r\n* Update device vendor (davinci)"
 
 [[roms]]
 id = "blissroms"
 
 [[roms]]
 id = "cherishos"
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
 
 [[roms]]
 id = "dotos"
@@ -39,12 +34,6 @@ id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
-
-[[roms]]
-id = "havocos"
-url = "https://sourceforge.net/projects/havoc-os/files/davinci/Havoc-OS-v3.9-20201002-davinci-Official-GApps.zip/download"
-maintainer = ""
-group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "legionos"

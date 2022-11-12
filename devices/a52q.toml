@@ -1,12 +1,49 @@
 brand = "Samsung"
 codename = "a52q"
 name = "Galaxy A52"
-roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = true
 
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-5-2-for-galaxy-a52-4g.4276515/"
 maintainer = "Velosh, Simon1511"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 465 Gold & Kryo 465 Silver"
+ram = "4/6/8 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_samsung_a52q","device_samsung_sm7125-common","kernel_samsung_sm7125","vendor_samsung_sm7125-common","vendor_samsung_a52q"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = "https://forum.xda-developers.com/t/4434401/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+xda_thread = "https://forum.xda-developers.com/t/4434401/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+xda_thread = "https://forum.xda-developers.com/t/4434401/"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+xda_thread = "https://forum.xda-developers.com/t/4434401/"
+stable = true
+deprecated = false
 
 [specs]
 cpu = "Octa-core (4x2.4 GHz Kryo 670 & 4x1.9 GHz Kryo 670)"

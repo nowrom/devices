@@ -5,7 +5,7 @@ recoveries = []
 
 [[roms]]
 id = "arrowos"
-maintainer = "TG_DEVICE_MAINTAINER"
+maintainer = "perfectime94"
 
 [[roms]]
 id = "lineageos"

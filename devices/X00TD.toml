@@ -1,7 +1,11 @@
-brand = "Asus"
+brand = "ASUS"
 codename = "X00TD"
 name = "Asus Zenfone Max Pro M1"
-recoveries = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-7-0_12-0-twrp-for-x00t-x00td.4501769/"
+maintainer = "Himanshu Raj (hraj9258)"
 
 [[roms]]
 id = "ancientos"
@@ -14,11 +18,6 @@ id = "blissroms"
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Config-Releases/NikGapps-S/"
-recovery = "https://forum.xda-developers.com/t/recovery-x00t-kudprojects-unofficial-twrp-3-5-2_9-1-k4-4-k4-14-16-05-2021.3888110/"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -26,12 +25,6 @@ id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/X00TD/Havoc-OS-v4.16-20220424-X00TD-Official-GApps.zip"
-maintainer = "Sukeerat Singh Goindi"
-group = "https://t.me/+BaJnedaBMMQxNzg9"
 
 [[roms]]
 id = "lineageos"
@@ -44,16 +37,22 @@ id = "pixelexperience"
 repostories = ["device_asus_X00TD","kernel_asus_sdm660","vendor_asus_X00TD"]
 
 [[roms.supported_versions]]
+version_code = "thirteen"
+xda_thread = ""
+stable = false
+deprecated = false
+
+[[roms.supported_versions]]
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-x00td-pixelexperience-aosp"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-x00td-pixelexperience-aosp"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven"
@@ -74,3 +73,14 @@ id = "pixyos"
 id = "sparkos"
 group = "https://t.me/sparkx00td"
 download = "https://downloads.spark-os.live/?dir=X00TD/"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

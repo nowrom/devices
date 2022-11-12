@@ -10,3 +10,14 @@ supported = false
 [[recoveries]]
 id = "twrp"
 maintainer = "juliusssssmiui"
+
+[specs]
+cpu = "Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)"
+weight = "225 g (7.94 oz)"
+year = "2022, July 04"
+os = "Android 12, MIUI 13"
+chipset = "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)"
+gpu = "Adreno 730"
+sensors = "Fingerprint (under display, optical), accelerometer, gyro, compass, color spectrum, barometer"
+batlife = "Endurance rating 93h"
+internalmemory = "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"

@@ -11,3 +11,14 @@ wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Wi-Fi Hotspot"
 
 [[roms]]
 id = "revengeos"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

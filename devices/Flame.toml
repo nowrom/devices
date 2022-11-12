@@ -27,10 +27,26 @@ repostories = ["device_google_flame","device_google_coral","kernel_google_msm-4.
 version_code = "twelve"
 stable = true
 xda_thread = "https://forum.xda-developers.com/t/rom-12-0-flame-pixelexperience-aosp.4406401/"
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-0-coral-pixelexperience-aosp.4406399/"
 stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = false
 deprecated = false
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

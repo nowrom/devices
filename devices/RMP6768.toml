@@ -1,0 +1,9 @@
+brand = "Realme"
+codename = "RMP6768"
+name = "Realme Pad"
+recoveries = []
+
+[[roms]]
+id = "arrowos"
+maintainer = "NeilChetty"
+changelog = "Flash Only On A09 Firmware\r\nOSS Vendor Based\r\n\r\nUse Arrow Recovery:\r\nhttps://github.com/neilchetty/releases/releases/tag/25102022"

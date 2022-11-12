@@ -7,10 +7,6 @@ roms = []
 id = "orangefox"
 supported = false
 
-[[recoveries]]
-id = "twrp"
-maintainer = "zqm64, adislice"
-
 [specs]
 cpu = "Octa-core 1.4 GHz Cortex-A53"
 weight = "153 g (5.40 oz)"

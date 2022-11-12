@@ -8,8 +8,7 @@ supported = false
 
 [[recoveries]]
 id = "twrp"
-xdathread = "https://forum.xda-developers.com/android/development/official-twrp-xiaomi-redmi-5-plus-t3727162"
-maintainer = "Isaac Chen"
+maintainer = "0xCAFEBABE"
 
 [[roms]]
 id = "ancientos"
@@ -25,11 +24,6 @@ id = "blissroms"
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/"
-recovery = "https://t.me/rk134_projects/9824"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -39,32 +33,26 @@ id = "evolutionx"
 id = "evolutionx"
 
 [[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/vince/Havoc-OS-v4.16-20220424-vince-Official-GApps.zip"
-maintainer = "Mohammed Adnan"
-group = "https://t.me/+VHjIg542KdDqPfp4"
-
-[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_vince","kernel_xiaomi_vince","vendor_xiaomi_vince"]
 
 [[roms.supported_versions]]
 version_code = "twelve"
 stable = false
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
+stable = false
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
 stable = false
 deprecated = false
 
 [[roms]]
 id = "pixelextended"
-
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/vince/PixelExtended_vince-12.1-20220624-1635-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-12-1-vince-official-pixel-extended-rom-25-06-2022.4461031/#post-87068343"
 
 [[roms]]
 id = "revengeos"

@@ -1,0 +1,9 @@
+brand = "Samsung"
+codename = "hllte"
+name = "Galaxy Note3 Neo"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/team-win-recovery-project-3-6-x-for-note-3-neo-hllte-hl3g.4465381/"
+maintainer = "Rainbow_Dash"

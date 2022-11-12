@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 codename = "daisy"
-name = "Mi A2 Lite"
+name = "Xiaomi Mi A2 Lite"
 
 [[recoveries]]
 id = "orangefox"
@@ -22,15 +22,10 @@ maintainer = "acras"
 id = "blissroms"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://flamegapps.github.io/"
-recovery = "https://github.com/TWRP-Mi-A2-Lite/twrp_device_xiaomi_daisy/releases"
-
-[[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/daisy/Havoc-OS-v4.16-20220420-daisy-Official-GApps.zip"
+url = "https://download.havoc-os.com/daisy/Havoc-OS-v5.7-20220721-daisy-OFFICIAL-GApps.zip"
 maintainer = "LuPe"
-group = "https://t.me/havocofficial"
+group = "https://t.me/havoc_daisy"
 
 [[roms]]
 id = "revengeos"
@@ -38,13 +33,19 @@ id = "revengeos"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.4"
+version = "v4.9"
 developer = "lupesoltec"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v5.6"
+developer = "lupesoltec"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v6.0"
 developer = "lupesoltec"
 
 [specs]

@@ -6,11 +6,6 @@ name = "Redmi 4X"
 id = "orangefox"
 supported = true
 
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/xiaomi-redmi-4x/development/recovery-twrp-3-1-1-xiaomi-redmi-4x-t3633049"
-maintainer = "Isaac Chen"
-
 [[roms]]
 id = "ancientos"
 
@@ -20,17 +15,6 @@ xda_thread = ""
 
 [[roms]]
 id = "blissroms"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://androidfilehost.com/?fid=14655340768118446715"
-recovery = "https://t.me/crDroidSantoni/71369"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/santoni/Havoc-OS-v4.16-20220423-santoni-Official-GApps.zip"
-maintainer = "Gabriel Nogueira"
-group = "https://t.me/+o0-G5ngIeVxiYmYx"
 
 [[roms]]
 id = "lineageos"

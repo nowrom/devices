@@ -12,6 +12,25 @@ cpu = "Cortex-A73 & Cortex-A53"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
 
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_motorola_troika","device_motorola_exynos9610-common","vendor_motorola_troika","vendor_motorola_exynos9610-common","kernel_motorola_exynos9610"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = false
+deprecated = true
+
 [specs]
 cpu = "Octa-core (4x2.2 GHz Cortex-A73 & 4x1.6 GHz Cortex-A53)"
 weight = "176 g (6.21 oz)"

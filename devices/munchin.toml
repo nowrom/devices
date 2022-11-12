@@ -1,0 +1,9 @@
+brand = "Xiaomi"
+codename = "munchin"
+name = "POCO F4 / Redmi k40s"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-7-0_12-twrp-for-poco-f4.4512593/"
+maintainer = "Himanshu Raj (hraj9258)"

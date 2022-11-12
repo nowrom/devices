@@ -14,11 +14,6 @@ photo = "https://telegra.ph/file/ff948e189daf62c245f27.png"
 id = "blissroms"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/"
-recovery = "https://sourceforge.net/projects/error-404-not-found1/files/RMX1971/crDroid/Recovery/recovery.img/download"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -26,12 +21,6 @@ id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/RMX1971/Havoc-OS-v4.16-20220423-RMX1971-Official-GApps.zip"
-maintainer = "Krish Walecha"
-group = "https://t.me/+_O867uFgtt8xNTQ1"
 
 [[roms]]
 id = "pixelexperience"
@@ -59,11 +48,6 @@ deprecated = false
 
 [[roms]]
 id = "pixelextended"
-
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/RMX1971/PixelExtended_RMX1971-12.0-20220125-1453-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-1-android-12-rmx1971-25-01-22.4377001/"
 
 [[roms]]
 id = "revengeos"

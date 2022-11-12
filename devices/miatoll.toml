@@ -19,16 +19,16 @@ xda_thread = ""
 
 [[roms]]
 id = "arrowos"
-maintainer = "SonalSingh18"
-changelog = "• Upstreamed kernel to 4.14.275\r\n• Merged tag \"LA.UM.9.1.r1-11800-SMxxx0.0\" in treewide, qcacld-3.0, fw-api, qca-wifi-host-cmn, techpack/audio\r\n• Switched to new AIDL power hal\r\n• Add custom boost extension for scroll handling\r\n• Add custom mode extension for handling app launch\r\n• Bump max interactive duration to 5s\r\n• Turn on GPU protected composition (Fixes black PiP window in Netflix or other apps)\r\n• Switched to new XiaomiDoze implementation\r\n• Adapt XiaomiDoze to S style\r\n• Adapt XiaomiParts to S style\r\n• Label camera fmq props\r\n• Disable proximity usage during doze\r\n• Switch to AOSP/Pixel offline charging animation\r\n• Switched back to QTI WFD\r\n• Enable debug.sf.enable_hwc_vds\r\n• Added missing lib needed for depth camera sensor\r\n• Updated default screen density to 420\r\n• Converted all overlays into RR0 overlays\r\n• Disabled s2idle\r\n• Aligned audio properties with CAF\r\n• Use appropriate message on flashing vbmeta\r\n• Enable iorapd tracing with perfetto\r\n• Fixed deprecated power profile items\r\n• Set readahead_size_kb=128 to system and data\r\n• Ignore CNE in location indicator\r\n• Thermal settings app list improvement\r\n• Include Arrow recovery (optional)\r\n• Adjust statusbar paddings\r\n• Address camera related denials\r\n• Label remaining wakeup nodes\r\n• Allow all filesystems for USB-OTG"
+maintainer = "SonalSingh"
+changelog = "• Upstreamed kernel to 4.14.298\r\n• Synced props with V13.0.2.0.SJWMIXM\r\n• Updated rootdir from V13.0.2.0.SJWMIXM\r\n• Updated media from V13.0.2.0.SJWMIXM\r\n• Updated CarrierConfig and Telephony overlays from V13.0.2.0.SJWMIXM\r\n• Updated all blobs from V13.0.2.0.SJWMIXM\r\n• Switched back to OSS Audio HAL\r\n• Moved to common Xiaomi light AIDL\r\n• Moved to common Xiaomi fingerprint HIDL\r\n• Dropped QCOM WFD HDCP support\r\n• Disable UBWC for WFD\r\n• Dropped prebuilt megvii camera libs\r\n• Dropped prebuilt camera provider\r\n• Build android.hidl.memory.block@1.0 & its vendor variant from source\r\n• Use performance thermal as fallback for Gamespace in XiaomiParts\r\n• Enable zygote critical window\r\n• Dropped support for Snapdragon Camera\r\n• Fixed dirac_prop sepolicy namespace violation\r\n• Allow user to select WiFi Calling while roaming\r\n• Removed 32-bit CNE libs\r\n• Removed 32-bit CVP libs\r\n• Removed 32-bit DRM libs\r\n• Removed 32-bit DSP libs\r\n• Removed 32-bit GPS libs\r\n• Removed 32-bit IMS libs\r\n• Removed 32-bit NPU libs\r\n• Removed 32-bit RIL libs\r\n• Removed unused 32-bit Bluetooth libs\r\n• Removed unused 32-bit display libs\r\n• Removed unused 64-bit listen libs\r\n• Removed more unused 32-bit libs\r\n• Kanged aptX blobs from raven\r\n• Import 32 bit CamX libraries"
 
 [[roms]]
 id = "cherishos"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://www.pling.com/p/1341681#files-panel"
-recovery = "https://orangefox.download/device/miatoll"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
+recovery = "https://orangefox.download/release/6332df463c05f43c193c1512"
 
 [[roms]]
 id = "dotos"
@@ -38,12 +38,6 @@ id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/miatoll/Havoc-OS-v4.10-20211026-miatoll-Official-GApps.zip"
-maintainer = "Sairam Majgaonkar"
-group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "legionos"
@@ -61,23 +55,26 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_miatoll","device_xiaomi_sm6250-common","kernel_xiaomi_sm6250","vendor_xiaomi_miatoll","vendor_xiaomi_miatoll-gcam","vendor_xiaomi_sm6250-common"]
+repostories = ["device_xiaomi_miatoll","device_xiaomi_sm6250-common","kernel_xiaomi_sm6250","vendor_xiaomi_miatoll","vendor_xiaomi_miatoll-fw","vendor_xiaomi_miatoll-gcam","vendor_xiaomi_sm6250-common"]
 
 [[roms.supported_versions]]
 version_code = "twelve"
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
 deprecated = false
 
 [[roms]]
 id = "pixelextended"
-
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/miatoll/PixelExtended_miatoll-12.1-20220522-1653-OFFICIAL.zip/download"
-xda_thread = " https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-5-android-12-1-miatoll-22-05-22.4448897/"
 
 [[roms]]
 id = "pixyos"
@@ -96,3 +93,14 @@ active = false
 id = "sparkos"
 group = "https://t.me/SparkOSMiatoll"
 download = "https://downloads.spark-os.live/?dir=miatoll/"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

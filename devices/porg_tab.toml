@@ -1,4 +1,4 @@
-brand = "Nvidia"
+brand = "NVIDIA"
 codename = "porg_tab"
 name = "Jetson (Nano / Nano 2GB) [Tablet]"
 recoveries = []

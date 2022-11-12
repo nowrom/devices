@@ -11,3 +11,14 @@ supported = true
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/galaxy-j5/development/unofficial-twrp-3-3-1-galaxy-j5-2015-t3946500"
 maintainer = "palmbeach05"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

@@ -8,16 +8,15 @@ xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-r
 maintainer = "Nebrassy"
 
 [[roms]]
-id = "evolutionx"
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
+recovery = "https://sourceforge.net/projects/crdroid/files/lemonade/9.x/recovery/"
 
 [[roms]]
 id = "evolutionx"
 
 [[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/lemonade/Havoc-OS-v4.16-20220425-lemonade-Official-GApps.zip"
-maintainer = "eduardo"
-group = "https://t.me/+cU9PeFml8QI3MDJh"
+id = "evolutionx"
 
 [[roms]]
 id = "lineageos"
@@ -26,9 +25,10 @@ ram = "8/12 GB LPDDR5"
 wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
 
 [[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/lemonade/PixelExtended_lemonade-12.1-20220613-1143-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-6-android-12-1-lemonade-13-06-2022.4447241/#post-86908467"
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v6.1"
+developer = "DennySPb"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680"

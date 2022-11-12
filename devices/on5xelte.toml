@@ -11,3 +11,14 @@ supported = false
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/galaxy-j5/samsung-galaxy-j5-prime-roms-kernels-recoveries--other-development/twrp-touch-recovery-t3806409"
 maintainer = "awab228"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

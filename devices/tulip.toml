@@ -17,7 +17,6 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "IceBreaker2451"
-changelog = "- Switch to 4.19 kernel."
 
 [[roms]]
 id = "blissroms"
@@ -33,12 +32,6 @@ id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/tulip/Havoc-OS-v4.16-20220423-tulip-Official-GApps.zip"
-maintainer = "Akhil MS"
-group = "https://t.me/+lC3wpdFw0CdmMTk1"
 
 [[roms]]
 id = "lineageos"
@@ -62,3 +55,14 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.9"
 developer = "Niteshkumar15"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

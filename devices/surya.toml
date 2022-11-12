@@ -14,7 +14,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Ganesh Varma, palaych"
-changelog = "- Update blobs to V12.5.5.0.RJGMIXM\r\n- Update IMS blobs from sweet A12\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is MUST for arrow-12.0 (Android 12) !!!</b>"
+changelog = "- props: Disable redir_party_num\r\n- Modified QDCM Display Configs\r\n- display: Tune HDR & P3 profile\r\n- Sync EGL symlinks with CAF\r\n- Disable SDM rotator downscaler\r\n- Set arch variant to armv8-2a-dotprod\r\n- overlay: Add back saturated color mode\r\n- Import configs and props for display HDR/SDR\r\n- props: Disable SF client composition cache\r\n- props: Disable SDM Writeback support\r\n- overlay: Set default status bar height\r\n- props: Enable bluetooth hearing aid\r\n- nfc: Set Mifare Tag implementation to General\r\n- Update blobs to V12.5.8.0.RJGMIXM\r\n- Bump bluetooth.audio@2.1\r\n- Kernel: Merge branch android-4.14-stable of android/kernel/common\r\n- Kernel: Merge tag LA.UM.9.1.r1-12000.01-SMxxx0.QSSI12.0 of CLO\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is MUST for arrow-12.0 (Android 12) !!!</b>"
 
 [[roms]]
 id = "crdroid"
@@ -32,7 +32,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/surya/Havoc-OS-v4.16-20220423-surya-Official-GApps.zip"
+url = "https://download.havoc-os.com/surya/Havoc-OS-v5.7-20220718-surya-Official-GApps.zip"
 maintainer = "Tushar Mahajan"
 group = "https://t.me/+CsTtPCwRqiRlY2Jl"
 

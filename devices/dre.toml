@@ -1,0 +1,10 @@
+brand = "OnePlus"
+codename = "dre"
+name = "Nord N200"
+recoveries = []
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 460"
+ram = "4 GB LPDDR4x"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"

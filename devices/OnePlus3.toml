@@ -18,12 +18,6 @@ id = "blissroms"
 id = "dotos"
 
 [[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/oneplus3/Havoc-OS-v4.16-20220419-oneplus3-Official-GApps.zip"
-maintainer = "Anushek Prasal"
-group = "https://t.me/+RKCZvqYf-no-5_iO"
-
-[[roms]]
 id = "lineageos"
 cpu = "Kryo"
 ram = "6 GB LPDDR4"

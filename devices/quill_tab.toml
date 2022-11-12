@@ -1,4 +1,4 @@
-brand = "Nvidia"
+brand = "NVIDIA"
 codename = "quill_tab"
 name = "Jetson (TX2 / TX2 NX) [Tablet]"
 recoveries = []

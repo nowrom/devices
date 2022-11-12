@@ -4,12 +4,18 @@ name = "Galaxy Tab S6 Lite"
 recoveries = []
 
 [[roms]]
-id = "crdroid"
-gapps = "https://androidfilehost.com/?w=files&flid=322935"
-recovery = "https://sourceforge.net/projects/darkjoker360-developements/files/Samsung/Galaxy%20Tab%20S6%20Lite/gta4xlwifi-12.1-recovery.img/download"
-
-[[roms]]
 id = "lineageos"
 cpu = "Cortex-A73 & Cortex-A53"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

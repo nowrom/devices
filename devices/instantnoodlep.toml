@@ -1,6 +1,6 @@
 brand = "OnePlus"
 codename = "instantnoodlep"
-name = "OnePlus 8P"
+name = "8 Pro"
 
 [[recoveries]]
 id = "twrp"
@@ -8,21 +8,10 @@ xdathread = "https://forum.xda-developers.com/t/twrp-3-6-0-11-b1-instantnoodle-t
 maintainer = "infected_"
 
 [[roms]]
-id = "crdroid"
-gapps = ""
-recovery = "https://sourceforge.net/projects/crdroid/files/instantnoodlep/8.x/recovery/"
-
-[[roms]]
 id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/instantnoodlep/Havoc-OS-v4.16-20220425-instantnoodlep-Official-GApps.zip"
-maintainer = "Chris Chen"
-group = "https://t.me/+gJBFyk53ihA5Mjll"
 
 [[roms]]
 id = "lineageos"
@@ -32,28 +21,28 @@ wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotsp
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_oneplus_instantnoodlep","device_oneplus_sm8250-common","vendor_oneplus_instantnoodlep","vendor_oneplus_sm8250-common","kernel_oneplus_sm8250"]
-
-[[roms.supported_versions]]
-version_code = "eleven"
-xda_thread = "https://forum.xda-developers.com/oneplus-8-pro/development/rom-pixel-experience-t4166993"
-stable = true
-deprecated = true
-
-[[roms.supported_versions]]
-version_code = "eleven_plus"
-xda_thread = "https://forum.xda-developers.com/oneplus-8-pro/development/rom-pixel-experience-t4166993"
-stable = true
-deprecated = true
+repostories = ["device_oneplus_instantnoodlep","device_oneplus_sm8250-common","vendor_oneplus_instantnoodlep","vendor_oneplus_sm8250-common","kernel_oneplus_sm8250","wiki_blobs_instantnoodlep"]
 
 [[roms.supported_versions]]
 version_code = "twelve"
 xda_thread = ""
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
+xda_thread = ""
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+xda_thread = ""
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
 xda_thread = ""
 stable = true
 deprecated = false

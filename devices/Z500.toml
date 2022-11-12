@@ -1,0 +1,8 @@
+brand = "Singtech"
+codename = "Z500"
+name = "Z500"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "hejsekvojtech"

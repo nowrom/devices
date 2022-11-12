@@ -1,12 +1,12 @@
-brand = "Asus"
+brand = "ASUS"
 codename = "Z01R"
-name = "ASUS ZenFone 5Z"
+name = "Zenfone 5Z (ZS620KL)"
 recoveries = []
 
 [[roms]]
 id = "arrowos"
 maintainer = "EdwardWu"
-changelog = "Kernel: Update to 4.9.307 Icewiz\r\nDevice: Device Tree re-write based on Lineage OS, thanks ReallySnow for help\r\nDevice: SELinux is enofrcing now. Please  remember backup and format userdata."
+changelog = "• Kernel: Merge LA.UM.10.3.r1-01700-sdm845.0 tag\r\n• Sync latest ROM change"
 
 [[roms]]
 id = "blissroms"
@@ -15,21 +15,10 @@ id = "blissroms"
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/"
-recovery = "https://dl.twrp.me/Z01RD/twrp-installer-3.6.0_11-0-Z01RD.zip.html"
-
-[[roms]]
 id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/Z01R/Havoc-OS-v4.16-20220425-Z01R-Official-GApps.zip"
-maintainer = "Edward Wu"
-group = "https://t.me/+wYginzTHev03MmM1"
 
 [[roms]]
 id = "lineageos"

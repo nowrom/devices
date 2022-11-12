@@ -14,12 +14,6 @@ maintainer = "Parth Bhatia (TheStrix)"
 id = "blissroms"
 
 [[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/kenzo/Havoc-OS-v4.8-20210912-kenzo-Official-GApps.zip"
-maintainer = "Magicxavi"
-group = "https://t.me/havocofficial"
-
-[[roms]]
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A72"
 ram = "2/3 GB"

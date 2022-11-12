@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "http://forum.xda-developers.com/thunder-q45/general/recovery-twrp-2-8-5-0-touch-recovery-t3033364"
 maintainer = "Dees_Troy"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

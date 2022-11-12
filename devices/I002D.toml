@@ -1,17 +1,12 @@
-brand = "Asus"
+brand = "ASUS"
 codename = "I002D"
-name = "Asus ZenFone 7 / 7 Pro"
+name = "ASUS ZenFone 7/7 Pro"
+roms = []
 
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/asus-zenfone-7/development/recovery-twrp-asus-zenfone-7-series-t4161719"
 maintainer = "Captain_Throwback"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/I002D/Havoc-OS-v4.10-20211027-I002D-Official-GApps.zip"
-maintainer = "Raileanu Cosmin"
-group = "https://t.me/+n8WnpaOickA2Yzc0"
 
 [specs]
 cpu = "Not found"

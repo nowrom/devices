@@ -11,9 +11,3 @@ photo = " https://fdn2.gsmarena.com/vv/pics/realme/realme-c3-2020-2.jpg"
 id = "arrowos"
 maintainer = "sarthakroy2002"
 changelog = "NOTE: For Realme UI 1.0 FW only."
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/RMX2020/Havoc-OS-v4.16-20220423-RMX2020-Official-GApps.zip"
-maintainer = "Inder"
-group = "https://t.me/+Ibbv25YKk7IxNDBl"

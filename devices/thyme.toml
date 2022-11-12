@@ -5,19 +5,34 @@ recoveries = []
 
 [[roms]]
 id = "arrowos"
-maintainer = "Lynnrin"
-changelog = "Please check\r\nhttps://github.com/ArrowOS-Devices/android_device_xiaomi_thyme/commits/arrow-12.1\r\nand\r\nhttps://arrowos.net/changelog.php\r\nfor actual changes."
+maintainer = "TG_DEVICE_MAINTAINER"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_thyme","kernel_xiaomi_thyme","vendor_xiaomi_thyme","vendor_xiaomi_thyme-prebuilt"]
+repostories = ["device_xiaomi_thyme","kernel_xiaomi_thyme","vendor_xiaomi_thyme","vendor_xiaomi_thyme-prebuilt","vendor_xiaomi_thyme-miuicamera","vendor_xiaomi_thyme-firmware"]
 
 [[roms.supported_versions]]
 version_code = "twelve"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 stable = true
-deprecated = false
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = false
+deprecated = true
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

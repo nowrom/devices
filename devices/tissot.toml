@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 codename = "tissot"
-name = "Xiaomi Mi A1"
+name = "Mi A1"
 
 [[recoveries]]
 id = "twrp"
@@ -13,11 +13,6 @@ photo = "https://telegra.ph/file/e06852fd6da8fa1d75cb0.png"
 
 [[roms]]
 id = "blissroms"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/canary/android-12.1/"
-recovery = "https://dl.twrp.me/tissot/"
 
 [[roms]]
 id = "dotos"

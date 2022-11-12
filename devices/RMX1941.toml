@@ -11,11 +11,6 @@ id = "ancientos"
 photo = "https://fdn2.gsmarena.com/vv/pics/realme/realme-c2-1.jpg"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://bitgapps.github.io/"
-recovery = ""
-
-[[roms]]
 id = "pixelextended"
 
 [[roms]]
@@ -24,3 +19,14 @@ xda_thread = "https://forum.xda-developers.com/t/rom-a11-projectsakura-5-2-offic
 maintainer_url = "https://forum.xda-developers.com/m/ano0.10677975/"
 maintainer_name = "Anoos Ragh"
 active = true
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

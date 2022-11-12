@@ -1,0 +1,9 @@
+brand = "Motorola"
+codename = "caprip"
+name = "moto g(30)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/unofficial-twrp-for-the-motorola-g30-caprip.4499717/"
+maintainer = "themard"

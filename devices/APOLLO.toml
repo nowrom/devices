@@ -13,7 +13,7 @@ photo = " https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10t-5g-pro.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "Dobsgw"
-changelog = "- Fixed OIS for Pro model\r\n- Sync with LOS tree (cleanups)\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial"
+changelog = "***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial"
 
 [[roms]]
 id = "dotos"
@@ -25,14 +25,8 @@ id = "evolutionx"
 id = "evolutionx"
 
 [[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/apollo/Havoc-OS-v4.16-20220426-apollo-Official-GApps.zip"
-maintainer = "Tushar Mahajan"
-group = "https://t.me/+eEwUXXcdBbg3MDk5"
-
-[[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_apollo","device_xiaomi_sm8250-common","device_xiaomi_sm8250-extras","kernel_xiaomi_sm8250","vendor_xiaomi_apollo","vendor_xiaomi_sm8250-common"]
+repostories = ["device_xiaomi_apollo","device_xiaomi_sm8250-common","kernel_xiaomi_apollo","vendor_xiaomi_apollo","vendor_xiaomi_sm8250-common"]
 
 [[roms.supported_versions]]
 version_code = "eleven"
@@ -57,3 +51,20 @@ version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-apollo-apollopro-pixel-experience-official-aosp.4249647/"
 stable = true
 deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+xda_thread = ""
+stable = false
+deprecated = false
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

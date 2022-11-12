@@ -7,3 +7,14 @@ roms = []
 id = "twrp"
 xdathread = "http://forum.xda-developers.com/android/general/twrp-alcatel-pop-c2-t3421408"
 maintainer = "kirito9"
+
+[specs]
+cpu = "Octa-core (1x2.5 GHz Cortex-A78 & 3x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)"
+weight = "193.5 g (6.84 oz)"
+year = "2022, July 12"
+os = "Android 12, Nothing OS 1.1.0"
+chipset = "Qualcomm SM7325-AE Snapdragon 778G+ 5G (6 nm)"
+gpu = "Adreno 642L"
+sensors = "Fingerprint (under display, optical), accelerometer, proximity, gyro, compass"
+batlife = "Endurance rating 108h"
+internalmemory = "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"

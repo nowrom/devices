@@ -1,6 +1,6 @@
 brand = "Realme"
 codename = "RMX3031"
-name = "Realme X7 Max 5G"
+name = "Realme X7 Max"
 
 [[recoveries]]
 id = "twrp"
@@ -9,11 +9,6 @@ maintainer = "ManshuTyagi"
 [[roms]]
 id = "ancientos"
 photo = "https://fdn2.gsmarena.com/vv/bigpic/realme-x7-max-5g.jpg"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://github.com/neilchetty/releases/releases/download/11052022/MindTheGapps-12.1.0-arm64-20220416_174313.zip"
-recovery = "https://github.com/neilchetty/releases/releases/download/11052022/twrp-3.6.1_11-0-RMX3031.img"
 
 [specs]
 cpu = "Not found"

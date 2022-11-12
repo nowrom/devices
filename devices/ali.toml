@@ -11,11 +11,6 @@ id = "AOSPK"
 xda_thread = ""
 
 [[roms]]
-id = "crdroid"
-gapps = "https://nikgapps.com/"
-recovery = "https://forum.xda-developers.com/t/twrp-unofficial-twrp-64-bit-3-6-1.4328145/"
-
-[[roms]]
 id = "pixelexperience"
 repostories = ["device_motorola_ali","device_motorola_msm8953-common","vendor_motorola_ali","vendor_motorola_msm8953-common","kernel_motorola_msm8953"]
 
@@ -30,3 +25,14 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-moto-g6-pixelexperience-aosp.4223579"
 stable = true
 deprecated = true
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

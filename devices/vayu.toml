@@ -25,8 +25,8 @@ maintainer = "kubersharma001"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/android-12.1/"
-recovery = "https://sourceforge.net/projects/crdroid/files/vayu/8.x/recovery/"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
+recovery = "https://sourceforge.net/projects/crdroid/files/vayu/9.x/recovery/recovery-crDroidAndroid-13.0-20221108-vayu-v9.0.img/download"
 
 [[roms]]
 id = "dotos"
@@ -39,7 +39,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/vayu/Havoc-OS-v4.16-20220423-vayu-Official-GApps.zip"
+url = "https://download.havoc-os.com/vayu/Havoc-OS-v5.7-20220717-vayu-Official-GApps.zip"
 maintainer = "Alisson Grizotti"
 group = "https://t.me/+xesyU34aI7k2NWM1"
 
@@ -76,15 +76,28 @@ deprecated = true
 [[roms.supported_versions]]
 version_code = "twelve"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
 stable = true
 deprecated = false
 
 [[roms]]
 id = "pixelextended"
+
+[[roms]]
+id = "pixyos"
 
 [[roms]]
 id = "revengeos"

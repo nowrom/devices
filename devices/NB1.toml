@@ -11,19 +11,17 @@ id = "ancientos"
 photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices_gallery/main/Nokia8.png"
 
 [[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/NB1/Havoc-OS-v4.15-20220401-NB1-Official-GApps.zip"
-maintainer = "Edward Wu"
-group = "https://t.me/+m91dOnxt6mo3MzE1"
-
-[[roms]]
 id = "pixelexperience"
 repostories = ["device_nokia_NB1","vendor_nokia_NB1","kernel_nokia_msm8998"]
 
 [[roms.supported_versions]]
 version_code = "twelve"
-xda_thread = ""
 stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = false
 deprecated = false
 
 [specs]

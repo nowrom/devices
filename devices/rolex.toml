@@ -1,11 +1,7 @@
 brand = "ZTE"
 codename = "rolex"
 name = "AXON WATCH"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/redmi-4a/development/recovery-twrp-3-1-0-0-xiaomi-redmi-4a-t3576024"
-maintainer = "none"
+recoveries = []
 
 [[roms]]
 id = "ancientos"
@@ -15,3 +11,14 @@ id = "dotos"
 
 [[roms]]
 id = "pixelextended"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

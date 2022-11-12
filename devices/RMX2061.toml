@@ -4,32 +4,10 @@ name = "Realme 6 PRO"
 recoveries = []
 
 [[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
-
-[[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
-
-[[roms]]
 id = "dotos"
 
 [[roms]]
 id = "dotos"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/toco/Havoc-OS-v4.16-20220423-toco-Official-GApps.zip"
-maintainer = "Dennis Murimi"
-group = "https://t.me/+VuKhjhLo5ZYzM2Vk"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/toco/Havoc-OS-v4.16-20220423-toco-Official-GApps.zip"
-maintainer = "Dennis Murimi"
-group = "https://t.me/+VuKhjhLo5ZYzM2Vk"
 
 [[roms]]
 id = "pixelextended"

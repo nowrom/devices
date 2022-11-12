@@ -7,20 +7,15 @@ recoveries = []
 id = "dotos"
 
 [[roms]]
-id = "pixelexperience"
-repostories = ["device_xiaomi_olivewood","kernel_xiaomi_olivewood","vendor_xiaomi_olivewood"]
-
-[[roms.supported_versions]]
-version_code = "twelve"
-xda_thread = "https://forum.xda-developers.com/t/rom-12-olivewood-pixelexperience-aosp.4384167/"
-stable = true
-deprecated = false
-
-[[roms.supported_versions]]
-version_code = "twelve_plus"
-xda_thread = "https://forum.xda-developers.com/t/rom-12-olivewood-pixelexperience-aosp.4384167/"
-stable = true
-deprecated = false
-
-[[roms]]
 id = "pixelextended"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

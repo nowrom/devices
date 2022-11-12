@@ -1,12 +1,17 @@
 brand = "Sony"
 codename = "kugo"
-name = "Sony Xperia X Compact"
-roms = []
+name = "Xperia X Compact"
 
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/showthread.php?t=3793837"
 maintainer = "Chippa_a"
+
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A53 & Cortex-A72"
+ram = "3 GB"
+wifi = "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, Hotspot"
 
 [specs]
 cpu = "Octa-core (4x2.7 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"

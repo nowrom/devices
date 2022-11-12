@@ -16,17 +16,6 @@ id = "ancientos"
 photo = "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a10-0.jpg"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://bitgapps.github.io/"
-recovery = "https://twrp.me/samsung/samsunggalaxya10.html"
-
-[[roms]]
-id = "havocos"
-url = "https://sourceforge.net/projects/havoc-os/files/a10/Havoc-OS-v3.9-20200917-a10-Official-GApps.zip/download"
-maintainer = "Dark98"
-group = "https://t.me/havocofficial"
-
-[[roms]]
 id = "sakura"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-0-official-project-sakura-arm-arm64-galaxy-a10.4250301/"
 maintainer_url = "https://forum.xda-developers.com/m/chatur27.10997227/"
@@ -37,3 +26,14 @@ active = false
 id = "sparkos"
 group = "https://t.me/eureka_support_group2"
 download = "https://downloads.spark-os.live/?dir=a10/"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

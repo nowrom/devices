@@ -16,19 +16,13 @@ photo = "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms
 
 [[roms]]
 id = "arrowos"
-maintainer = "Aftab Ashrafi"
-changelog = "with wrapped key encryption, if encrypted on a build older than Jan 2022, you will need clean flash\r\n\r\n- Widevine L1 fixed\r\n- Tethering/OTG fixed\r\n- Encryption fixed (with aosp recovery)\r\n- Switched to Enforcing\r\n- Switched to Qti Bt\r\n- Fixed several bugs"
+maintainer = "TG_DEVICE_MAINTAINER"
 
 [[roms]]
 id = "blissroms"
 
 [[roms]]
 id = "cherishos"
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/"
-recovery = ""
 
 [[roms]]
 id = "dotos"
@@ -38,12 +32,6 @@ id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/violet/Havoc-OS-v4.16-20220424-violet-Official-GApps.zip"
-maintainer = "Athul Dinesan"
-group = "https://t.me/+r2lq1BYhIdM5ZDY1"
 
 [[roms]]
 id = "legionos"
@@ -91,11 +79,6 @@ deprecated = false
 id = "pixelextended"
 
 [[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/violet/PixelExtended_violet-12.0-20220102-1014-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/pixelextended-rom-for-redmi-note-7-pro-violet.4382883/"
-
-[[roms]]
 id = "pixyos"
 
 [[roms]]
@@ -109,3 +92,14 @@ active = true
 id = "sparkos"
 group = "https://t.me/sparkosviolet"
 download = "https://downloads.spark-os.live/?dir=violet/"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

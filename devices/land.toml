@@ -1,11 +1,7 @@
 brand = "Xiaomi"
 codename = "land"
 name = "Redmi 3S"
-
-[[recoveries]]
-id = "twrp"
-xdathread = "https://forum.xda-developers.com/xiaomi-redmi-3s/development/recovery-twrp-3-1-0-0-xiaomi-redmi-3s-t3585945"
-maintainer = "Darshan M. (darshan1205)"
+recoveries = []
 
 [[roms]]
 id = "ancientos"
@@ -15,12 +11,6 @@ photo = "https://camo.githubusercontent.com/3f833020eb7cd6aab7c72fe4f780828a897a
 id = "arrowos"
 maintainer = "Bauuuuu"
 changelog = "-"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/land/Havoc-OS-v4.16-20220422-land-Official-GApps.zip"
-maintainer = "Sairam Majgaonkar"
-group = "https://t.me/+w-uP9QgHzyUwODg1"
 
 [[roms]]
 id = "lineageos"

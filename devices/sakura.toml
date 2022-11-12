@@ -18,12 +18,6 @@ photo = "https://telegra.ph/file/dcb7beaa7dacae5fe6d83.png"
 id = "dotos"
 
 [[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/sakura/Havoc-OS-v4.8-20210805-sakura-Official-GApps.zip"
-maintainer = "Tushar Mahajan"
-group = "https://t.me/havocofficial"
-
-[[roms]]
 id = "legionos"
 active = true
 maintainer = "Soumyajit_Paul"
@@ -49,11 +43,23 @@ deprecated = true
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-sakura-sakurain-pixel-experience-official-aosp.4390723/"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-sakura-sakurain-pixel-experience-official-aosp.4390723/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-sakura-sakurain-pixel-experience-official-aosp.4390723/"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-sakura-sakurain-pixel-experience-official-aosp.4390723/"
 stable = true
 deprecated = false
 

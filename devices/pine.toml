@@ -27,9 +27,4 @@ stable = true
 deprecated = true
 
 [[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/pine/PixelExtended_pine-12.0-20220227-0902-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/64bit-12s-official-pixelextended-v4-2-rom-update-for-redmi-7a-pine-27-02-22.4408705/"
-
-[[roms]]
 id = "revengeos"

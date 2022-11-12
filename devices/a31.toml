@@ -1,0 +1,8 @@
+brand = "Samsung"
+codename = "a31"
+name = "Galaxy A31"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Hakalle"

@@ -8,7 +8,7 @@ supported = false
 
 [[recoveries]]
 id = "twrp"
-maintainer = "KostyaJRZ"
+maintainer = "KostyaJRZ, \"0xCAFEBABE\""
 
 [[roms]]
 id = "ancientos"
@@ -25,12 +25,6 @@ id = "blissroms"
 id = "dotos"
 
 [[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/onclite/Havoc-OS-v4.16-20220426-onclite-Official-GApps.zip"
-maintainer = "Havoc-OS-CI"
-group = "https://t.me/+7pW4E25hRnQ5NDll"
-
-[[roms]]
 id = "lineageos"
 cpu = "Kryo 250"
 ram = "2/3 GB"
@@ -38,11 +32,6 @@ wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
 
 [[roms]]
 id = "pixelextended"
-
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/onclite/PixelExtended_onclite-12.1-20220626-0804-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-4-android-12-1-onclite-05-05-22.4377045/"
 
 [[roms]]
 id = "pixyos"

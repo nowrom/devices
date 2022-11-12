@@ -1,16 +1,11 @@
 brand = "Xiaomi"
 codename = "markw"
 name = "Redmi 4 Pro"
+roms = []
 
 [[recoveries]]
 id = "orangefox"
 supported = false
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/markw/Havoc-OS-v4.9-20210929-markw-Official-GApps.zip"
-maintainer = "Shihab"
-group = "https://t.me/havocofficial"
 
 [specs]
 cpu = "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)"

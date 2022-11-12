@@ -1,7 +1,10 @@
 brand = "Xiaomi"
 codename = "mi8937"
-name = "Redmi 3S/3X/4A/4X/5A/Note5A/Y1"
-recoveries = []
+name = "Xiaomi MSM8917/MSM8937/MSM8940 Devices (Excluding Redmi Go)"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "0xCAFEBABE"
 
 [[roms]]
 id = "cherishos"

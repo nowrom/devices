@@ -1,13 +1,7 @@
 brand = "Meizu"
 codename = "m1882"
-name = "Meizu 16 TH"
+name = "Meizu 16TH"
 recoveries = []
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/m1882/Havoc-OS-v4.8-20210806-m1882-Official-GApps.zip"
-maintainer = "blackrow67"
-group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "sakura"
@@ -15,3 +9,14 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "Abdibekov Dauren"
 active = false
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

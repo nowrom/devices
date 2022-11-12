@@ -1,0 +1,10 @@
+brand = "Sony"
+codename = "pdx203"
+name = "Xperia 1 II"
+recoveries = []
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 585"
+ram = "8/12 GB"
+wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"

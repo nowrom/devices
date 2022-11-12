@@ -1,7 +1,10 @@
 brand = "Xiaomi"
 codename = "umi"
 name = "Mi 10"
-recoveries = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "0xCAFEBABE"
 
 [[roms]]
 id = "arrowos"

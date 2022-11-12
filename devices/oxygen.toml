@@ -1,7 +1,6 @@
 brand = "Xiaomi"
 codename = "oxygen"
 name = "MI MAX 2"
-roms = []
 
 [[recoveries]]
 id = "orangefox"
@@ -9,7 +8,33 @@ supported = true
 
 [[recoveries]]
 id = "twrp"
-maintainer = "MacTavishAO"
+maintainer = "0xCAFEBABE"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_oxygen","kernel_xiaomi_oxygen","vendor_xiaomi_oxygen"]
+
+[[roms.supported_versions]]
+version_code = "twelve"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = true
+xda_thread = "https://forum.xda-developers.com/t/4453453/"
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = true
+xda_thread = "https://forum.xda-developers.com/t/4453453/"
+deprecated = false
 
 [specs]
 cpu = "Octa-core 2.0 GHz Cortex-A53"

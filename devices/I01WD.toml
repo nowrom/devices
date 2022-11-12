@@ -1,6 +1,6 @@
-brand = "Asus"
+brand = "ASUS"
 codename = "I01WD"
-name = "Asus ZenFone 6"
+name = "Zenfone 6 (ZS630KL)"
 
 [[recoveries]]
 id = "twrp"
@@ -9,12 +9,6 @@ maintainer = "bigbiff, micky387"
 
 [[roms]]
 id = "blissroms"
-
-[[roms]]
-id = "havocos"
-url = "https://sourceforge.net/projects/havoc-os/files/I01WD/Havoc-OS-v3.8-20200919-I01WD-Official-GApps.zip/download"
-maintainer = "Raileanu Cosmin"
-group = "https://t.me/havocofficial"
 
 [[roms]]
 id = "lineageos"

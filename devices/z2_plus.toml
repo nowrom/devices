@@ -15,11 +15,6 @@ maintainer = "PranavTemkar"
 id = "blissroms"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/the-gapps-installer/files/Squeak_12/"
-recovery = "https://dl.twrp.me/z2_plus/"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

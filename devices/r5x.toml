@@ -1,18 +1,12 @@
 brand = "Realme"
 codename = "r5x"
-name = "Realme 5 / 5i / 5s"
+name = "Realme 5 Series"
 recoveries = []
 
 [[roms]]
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
 changelog = "Initial A12 build\r\nEnforcing"
-
-[[roms]]
-id = "havocos"
-url = "https://download.havoc-os.com/r5x/Havoc-OS-v4.16-20220422-r5x-Official-GApps.zip"
-maintainer = "Utkarsh Kanojiya"
-group = "https://t.me/+sM2txZ35vuQzMThl"
 
 [[roms]]
 id = "pixelexperience"

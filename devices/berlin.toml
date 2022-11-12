@@ -1,11 +1,16 @@
 brand = "Motorola"
 codename = "berlin"
 name = "motorola edge 轻奢版"
-roms = []
 
 [[recoveries]]
 id = "twrp"
 maintainer = "Dees_Troy"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 670"
+ram = "8 GB LPDDR4X"
+wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
 
 [specs]
 cpu = "Octa-core (4x2.4 GHz Kryo 670 & 4x1.9 GHz Kryo 670)"

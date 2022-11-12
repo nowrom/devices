@@ -12,11 +12,6 @@ cpu = "Kryo 250"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct"
 
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/FP3/PixelExtended_FP3-12.1-20220524-1803-OFFICIAL.zip/download"
-xda_thread = "https://forum.fairphone.com/t/rom-official-pixel-extended-rom-v4-5-android-12-1-fp3-fp3/85207"
-
 [specs]
 cpu = "Not found"
 weight = "Not found"

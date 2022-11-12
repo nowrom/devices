@@ -1,0 +1,13 @@
+brand = "Samsung"
+codename = "a52sxq"
+name = "Galaxy A52s 5G"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-unofficial-twrp-3-6-2-1-for-galaxy-a52s-5g.4488419/"
+maintainer = "BlackMesa123"

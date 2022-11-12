@@ -3,6 +3,10 @@ codename = "enchilada"
 name = "oneplus 6"
 
 [[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project.4306803/"
 maintainer = "Nebrassy"
@@ -28,7 +32,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/enchilada/Havoc-OS-v4.16-20220420-enchilada-Official-GApps.zip"
+url = "https://download.havoc-os.com/enchilada/Havoc-OS-v5.7-20220711-enchilada-Official-GApps.zip"
 maintainer = "Vikas Yaduvanshi"
 group = "https://t.me/+tNPSDUw3FUJlNDQ1"
 
@@ -67,7 +71,7 @@ active = true
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.5"
+version = "v3.9"
 developer = "DennySPb"
 
 [[roms]]
@@ -85,7 +89,7 @@ developer = "DennySPb"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.9"
+version = "v5.6"
 developer = "DennySPb"
 
 [specs]

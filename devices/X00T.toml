@@ -1,10 +1,15 @@
 brand = "ASUS"
 codename = "X00T"
-name = "ZenFone Max Pro M1"
+name = "ASUS ZenFone Max Pro M1"
 
 [[recoveries]]
 id = "orangefox"
 supported = false
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-7-0_12-0-twrp-for-x00t-x00td.4501769/"
+maintainer = "Himanshu Raj (hraj9258)"
 
 [[roms]]
 id = "arrowos"
@@ -20,3 +25,14 @@ xda_thread = ""
 maintainer_url = "null"
 maintainer_name = "LordShenron"
 active = false
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

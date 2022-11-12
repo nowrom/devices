@@ -18,17 +18,6 @@ xda_thread = ""
 id = "blissroms"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/01-May-2022/"
-recovery = "https://t.me/mi8litebrasil/558194"
-
-[[roms]]
-id = "havocos"
-url = "https://sourceforge.net/projects/havoc-os/files/platina/Havoc-OS-v3.9-20200929-platina-Official-GApps.zip/download"
-maintainer = "RiqueBarros"
-group = "https://t.me/havocofficial"
-
-[[roms]]
 id = "lineageos"
 cpu = "Kryo 260"
 ram = "4 GB / 6 GB (LPDDR4X)"
@@ -51,12 +40,12 @@ deprecated = true
 [[roms.supported_versions]]
 version_code = "twelve"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 stable = true
-deprecated = false
+deprecated = true
 
 [specs]
 cpu = "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)"

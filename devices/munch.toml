@@ -1,0 +1,27 @@
+brand = "Redmi"
+codename = "munch"
+name = "Redmi K40S"
+
+[[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-3-7-0_12-twrp-for-poco-f4.4512593/"
+maintainer = "Himanshu Raj (hraj9258)"
+
+[[roms]]
+id = "arrowos"
+maintainer = "madmax7896"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://wiki.lineageos.org/gapps"
+recovery = "https://orangefox.download/device/munch"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"

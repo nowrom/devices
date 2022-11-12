@@ -31,30 +31,37 @@ repostories = ["device_google_bonito","vendor_google_bonito","kernel_google_msm-
 [[roms.supported_versions]]
 version_code = "eleven"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-0-official-pixel-experience-aosp-beta.4499563/"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-0-official-pixel-experience-aosp-beta.4499563/"
 stable = true
 deprecated = false
 
 [[roms]]
 id = "pixelextended"
-
-[[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/bonito/PixelExtended_bonito-12.0-20211220-2341-OFFICIAL.zip/download"
-xda_thread = "https://www.xda-developers.com/"
 
 [specs]
 cpu = "Octa-core (2x2.0 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver)"

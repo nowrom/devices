@@ -6,4 +6,15 @@ recoveries = []
 [[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/"
-recovery = "https://sourceforge.net/projects/darkjoker360-developements/files/Oneplus/7T%20Pro%205G%20McLaren/Recovery/crDroid-12.1-recovery.img/download"
+recovery = "https://sourceforge.net/projects/crdroid/files/hotdogg/9.x/recovery/"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

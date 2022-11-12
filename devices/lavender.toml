@@ -20,7 +20,7 @@ xda_thread = "https://forum.xda-developers.com/t/title-rom-11-0-device-aospk-the
 [[roms]]
 id = "arrowos"
 maintainer = "Ratoriku, Hazama25"
-changelog = "- Optimize round corners\r\n- Fixed deprecated power profile items\r\n- Smarter decisions on whether to use a 2- or 5Ghz AP\r\n- Disable unneeded TDLS offchannel\r\n- Set max WFD resolution to 1080p\r\n- Disable ahardware buffer\r\n- Switch to threaded GLES render engine\r\n- Get back to default from long-standing VM tweaks\r\n- Fixes watchdog kicking in while formatting huge sdcards\r\n- Drop useless mock powerstats hal\r\n- Other fixes and improvements"
+changelog = "- Upstream"
 
 [[roms]]
 id = "blissroms"
@@ -32,14 +32,8 @@ id = "cherishos"
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "havocos"
-url = "https://download.havoc-os.com/lavender/Havoc-OS-v4.16-20220428-lavender-Official-GApps.zip"
+url = "https://download.havoc-os.com/lavender/Havoc-OS-v5.7-20220711-lavender-Official-GApps.zip"
 maintainer = "Vitor Leal"
 group = "https://t.me/+qalkNc-zwwkyMzEy"
 
@@ -51,7 +45,7 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_lavender","kernel_xiaomi_lavender","vendor_xiaomi_lavender"]
+repostories = ["device_xiaomi_lavender","device_xiaomi_sdm660-common","kernel_xiaomi_sdm660","vendor_xiaomi_lavender","vendor_xiaomi_lavender-extras","vendor_xiaomi_sdm660-common"]
 
 [[roms.supported_versions]]
 version_code = "eleven"
@@ -67,17 +61,24 @@ deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve"
-xda_thread = ""
+xda_thread = "https://forum.xda-developers.com/t/rom-12-lavender-official-pixelexperience-aosp.4470689/"
 stable = true
 deprecated = true
 
-[[roms]]
-id = "pixelextended"
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-lavender-official-pixelexperience-aosp.4470689/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = false
+xda_thread = "https://forum.xda-developers.com/t/rom-official-13-lavender-pixelexperience-aosp.4494403/"
+deprecated = false
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/lavender/PixelExtended_lavender-12.1-20220407-1004-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-12-lavender-26-01-22.4323719/"
 
 [[roms]]
 id = "pixyos"

@@ -1,0 +1,52 @@
+brand = "Xiaomi"
+codename = "mi439"
+name = "MI439-Unified"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "0xCAFEBABE"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_mi439","device_xiaomi_sdm439-common","kernel_xiaomi_mi439","vendor_xiaomi_mi439","vendor_xiaomi_sdm439-common"]
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+xda_thread = ""
+stable = false
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "twelve"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-olivewood-pixelexperience-aosp.4384167/"
+stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "twelve_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-olivewood-pixelexperience-aosp.4384167/"
+stable = true
+deprecated = true
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v5.4"
+developer = "iaiaian1"
+
+[specs]
+cpu = "Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)"
+weight = "179 g (6.31 oz)"
+year = "2022, January 26"
+os = "Android 11, MIUI 13"
+chipset = "Qualcomm SM6225 Snapdragon 680 4G (6 nm)"
+gpu = "Adreno 610"
+sensors = "Fingerprint (side-mounted), accelerometer, gyro, compass"
+batlife = "Endurance rating 126h"
+internalmemory = "64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
