@@ -32,6 +32,12 @@ id = "cherishos"
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/lavender/Havoc-OS-v5.7-20220711-lavender-Official-GApps.zip"
 maintainer = "Vitor Leal"

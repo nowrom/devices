@@ -1,0 +1,8 @@
+brand = "ASUS"
+codename = "AI2202"
+name = "ASUS ZenFone 9"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Captain_Throwback"

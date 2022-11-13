@@ -1,0 +1,8 @@
+brand = "ASUS"
+codename = "AI2201"
+name = "ASUS ROG Phone 6/6 Pro (Qualcomm ONLY)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Captain_Throwback"

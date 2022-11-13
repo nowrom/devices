@@ -73,7 +73,7 @@ deprecated = false
 version_code = "thirteen_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-11-0-12-0-dipper-pixel-experience-aosp.4244675/"
 stable = true
-deprecated = true
+deprecated = false
 
 [specs]
 cpu = "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)"

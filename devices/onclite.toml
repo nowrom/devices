@@ -4,7 +4,7 @@ name = "Redmi 7"
 
 [[recoveries]]
 id = "orangefox"
-supported = false
+supported = true
 
 [[recoveries]]
 id = "twrp"
