@@ -13,7 +13,7 @@ xda_thread = ""
 
 [[roms]]
 id = "crdroid"
-gapps = "http://downloads.codefi.re/jdcteam/javelinanddart/gapps"
+gapps = "https://downloads.codefi.re/jdcteam/javelinanddart/gapps"
 recovery = "https://sourceforge.net/projects/crdroid/files/hotdogb/9.x/recovery/"
 
 [[roms]]

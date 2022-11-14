@@ -47,6 +47,11 @@ version_code = "thirteen"
 stable = false
 deprecated = false
 
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = false
+deprecated = false
+
 [[roms]]
 id = "sakura"
 xda_thread = ""

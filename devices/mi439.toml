@@ -19,7 +19,13 @@ repostories = ["device_xiaomi_mi439","device_xiaomi_sdm439-common","kernel_xiaom
 [[roms.supported_versions]]
 version_code = "thirteen"
 xda_thread = ""
-stable = false
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+xda_thread = ""
+stable = true
 deprecated = false
 
 [[roms.supported_versions]]

@@ -1,0 +1,7 @@
+brand = "Nothing"
+codename = "Spacewar"
+name = "Nothing phone (1)"
+recoveries = []
+
+[[roms]]
+id = "pixyos"

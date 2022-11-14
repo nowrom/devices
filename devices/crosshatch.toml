@@ -33,6 +33,12 @@ stable = true
 deprecated = false
 
 [[roms.supported_versions]]
+version_code = "thirteen_plus"
+xda_thread = ""
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
 version_code = "twelve"
 xda_thread = ""
 stable = true
