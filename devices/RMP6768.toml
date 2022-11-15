@@ -6,4 +6,4 @@ recoveries = []
 [[roms]]
 id = "arrowos"
 maintainer = "NeilChetty"
-changelog = "Flash Only On A09 Firmware\r\nOSS Vendor Based\r\n\r\nUse Arrow Recovery:\r\nhttps://github.com/neilchetty/releases/releases/tag/25102022"
+changelog = "Flash Only On A09 Firmware\r\nOSS Vendor Based\r\n\r\nUse Arrow Recovery:\r\nhttps://tinyurl.com/arrowrecovery"
