@@ -1,6 +1,6 @@
-brand = "ASUS"
+brand = "Asus"
 codename = "Z01R"
-name = "Zenfone 5Z (ZS620KL)"
+name = "ASUS ZenFone 5Z"
 recoveries = []
 
 [[roms]]
@@ -13,6 +13,11 @@ id = "blissroms"
 
 [[roms]]
 id = "cherishos"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/"
+recovery = "https://dl.twrp.me/Z01RD/twrp-installer-3.7.0_12-0-Z01RD.zip.html"
 
 [[roms]]
 id = "evolutionx"

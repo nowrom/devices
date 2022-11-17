@@ -17,7 +17,6 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "IceBreaker2451"
-changelog = "- Initial Official build."
 
 [[roms]]
 id = "blissroms"
