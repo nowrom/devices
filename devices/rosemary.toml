@@ -1,0 +1,18 @@
+brand = "Xiaomi"
+codename = "rosemary"
+name = "POCO M5s"
+recoveries = []
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_redmi_rosemary","kernel_redmi_rosemary","vendor_redmi_rosemary","vendor_redmi_rosemary-firmware"]
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = true
+deprecated = false
