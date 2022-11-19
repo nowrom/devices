@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 codename = "lava"
-name = "Xiaomi Redmi 9 Prime / Poco M2"
+name = "Redmi 9 & Poco M2 (Lava)"
 recoveries = []
 
 [[roms]]
@@ -27,12 +27,12 @@ deprecated = true
 [[roms.supported_versions]]
 version_code = "thirteen"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms]]
 id = "pixelextended"
