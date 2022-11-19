@@ -4,9 +4,8 @@ import {
   AugmentedRequest,
   createRouteMap,
   createRouter,
-} from "https://deno.land/x/reno@v2.0.22/reno/mod.ts";
+} from "https://deno.land/x/reno@v2.0.70/reno/mod.ts";
 import { createClient } from "https://raw.githubusercontent.com/Tricked-dev/supabase-js/f90fcf1a603b695795e99b769e669b63ce79407a/mod.ts";
-import { getPhone } from "./gsm.ts";
 import { Devices, ROM, Roms } from "./types.ts";
 // import { Image } from 'https://deno.land/x/imagescript@1.2.9/mod.ts';
 const PORT = 8000;
