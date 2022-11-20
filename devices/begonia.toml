@@ -19,6 +19,11 @@ xda_thread = ""
 id = "blissroms"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/"
+recovery = ""
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
