@@ -19,5 +19,10 @@ deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen"
-stable = false
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = true
 deprecated = false

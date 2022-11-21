@@ -14,7 +14,7 @@ maintainer = "rohanpls"
 [[roms]]
 id = "arrowos"
 maintainer = "Arka"
-changelog = "- Initial A12 build"
+changelog = "- Added libperfmanager\r\n- Improved HWUI and performance\r\n- Improve App Launch speed\r\n- Import runtime cpusets from coral\r\n- Improve scrolling responsiveness.\r\n- Misc Improvements\r\n- Ship Aperture Camera\r\n- Added kcal\r\n- Added devfreqboost"
 
 [[roms]]
 id = "dotos"
