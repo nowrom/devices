@@ -29,7 +29,7 @@ id = "cherishos"
 
 [[roms]]
 id = "crdroid"
-gapps = "http://downloads.codefi.re/jdcteam/javelinanddart/gapps"
+gapps = "https://downloads.codefi.re/jdcteam/javelinanddart/gapps"
 recovery = "https://eu.dl.twrp.me/mojito/"
 
 [[roms]]
