@@ -12,6 +12,20 @@ cpu = "Kryo 670"
 ram = "8 GB LPDDR4X"
 wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
 
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_motorola_berlin","device_motorola_sm7325-common","kernel_motorola_sm7325","vendor_motorola_berlin","vendor_motorola_sm7325-common","wiki_blobs_berlin"]
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = true
+deprecated = false
+
 [specs]
 cpu = "Octa-core (4x2.4 GHz Kryo 670 & 4x1.9 GHz Kryo 670)"
 weight = "163 g (5.75 oz)"
