@@ -16,7 +16,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_veux","device_xiaomi_veux-kernel","kernel_xiaomi_sm6375","vendor_xiaomi_veux"]
+repostories = ["device_xiaomi_veux","device_xiaomi_veux-kernel","kernel_xiaomi_sm6375","vendor_xiaomi_veux","wiki_blobs_veux"]
 
 [[roms.supported_versions]]
 version_code = "thirteen"

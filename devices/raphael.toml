@@ -108,13 +108,13 @@ developer = "NATO666613"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.9"
+version = "v5.5"
 developer = "NATO666613"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.5"
+version = "v3.9"
 developer = "NATO666613"
 
 [specs]

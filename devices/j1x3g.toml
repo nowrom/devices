@@ -1,0 +1,9 @@
+brand = "Samsung"
+codename = "j1x3g"
+name = "Galaxy J1(2016)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-v3-7-0-for-galaxy-j1-2016-j120h.4511897/"
+maintainer = "Gabriel260"
