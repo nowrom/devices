@@ -29,6 +29,11 @@ id = "blissroms"
 id = "cherishos"
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://orangefox.download/device/lavender"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
