@@ -18,7 +18,6 @@ photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9t.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "RemyL"
-changelog = "* Update common vendor to sweet MIUI 13 (Android 12)\r\n* Update device vendor (davinci)"
 
 [[roms]]
 id = "blissroms"
