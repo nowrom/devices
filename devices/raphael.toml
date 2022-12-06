@@ -92,11 +92,6 @@ deprecated = false
 id = "pixelextended"
 
 [[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtended-5.2_raphael-13.0-20221204-1034-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-13-0-raphael-official-pixel-extended-rom-26-11-2022.4146471/"
-
-[[roms]]
 id = "pixyos"
 
 [[roms]]
