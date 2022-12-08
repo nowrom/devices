@@ -9,8 +9,8 @@ photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devi
 
 [[roms]]
 id = "arrowos"
-maintainer = "ganeshi4u"
-changelog = "- Fixed battery usage stats\r\n- More stability fixes & upstream changes\r\n\r\nNote : Clean flash required if coming from builds before 12-10-2022!"
+maintainer = "TG_DEVICE_MAINTAINER"
+changelog = "- Test build!"
 
 [[roms]]
 id = "evolutionx"
