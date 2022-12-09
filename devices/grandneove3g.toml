@@ -1,0 +1,8 @@
+brand = "Samsung"
+codename = "grandneove3g"
+name = "Galaxy Grand Neo Plus"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "KrutosX & aymanrgab"
