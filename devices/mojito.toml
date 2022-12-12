@@ -22,7 +22,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "sarthakroy2002, blur"
-changelog = "• Enforcing Userdebug Build \r\n• Switch back to QTI Power Stack"
+changelog = "• Enforcing Userdebug Build"
 
 [[roms]]
 id = "cherishos"

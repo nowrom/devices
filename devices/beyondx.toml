@@ -37,6 +37,11 @@ xda_thread = "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g
 stable = true
 deprecated = false
 
+[[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/beyondx/PixelExtended-5.2_beyondx-13.0-20221211-1520-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-13-0-galaxy-s10-e-5g-pixelextended-aosp-encryption.4501505/"
+
 [specs]
 cpu = "Not found"
 weight = "Not found"

@@ -33,6 +33,11 @@ xda_thread = "https://forum.xda-developers.com/t/rom-official-12-galaxy-note-10-
 stable = true
 deprecated = false
 
+[[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/d2s/PixelExtended-5.2_d2s-13.0-20221211-1554-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-13-0-galaxy-note-10-5g-pixelextended-aosp-encryption.4501871/"
+
 [specs]
 cpu = "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55) - EMEA/LATAMOcta-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485) - USA/China"
 weight = "196 g (6.91 oz)"

@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 codename = "chime"
-name = "Xiaomi POCO M3/Redmi 9T/Redmi 9T NFC/Redmi 9 Power"
+name = "POCO M3 / Redmi 9T / Redmi 9 Power / Redmi Note 9 4G"
 recoveries = []
 
 [[roms]]
@@ -26,3 +26,8 @@ deprecated = true
 version_code = "thirteen_plus"
 stable = true
 deprecated = true
+
+[[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/chime/PixelExtended-5.2_chime-13.0-20221210-1146-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-a13-pixel-extended-5-2-for-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-chime.4528649/"

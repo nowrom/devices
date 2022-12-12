@@ -1,0 +1,10 @@
+brand = "NVIDIA"
+codename = "mdarcy_tab"
+name = "Shield TV 2019 Pro [Tablet]"
+recoveries = []
+
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A57"
+ram = "3 GB"
+wifi = "802.11ac 2x2 Mimo 2.4 GHz and 5 GHz"

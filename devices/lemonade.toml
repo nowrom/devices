@@ -25,6 +25,11 @@ ram = "8/12 GB LPDDR5"
 wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
 
 [[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/lemonade/PixelExtended-5.2_lemonade-13.0-20221209-1425-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v5-1-android-13-0-lemonade-27-10-2022.4447241/"
+
+[[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v6.1"

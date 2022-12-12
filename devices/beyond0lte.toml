@@ -37,6 +37,11 @@ xda_thread = "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g
 stable = true
 deprecated = false
 
+[[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/beyond0lte/PixelExtended-5.2_beyond0lte-13.0-20221211-1430-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-13-0-galaxy-s10-e-5g-pixelextended-aosp-encryption.4501505/"
+
 [specs]
 cpu = "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA/LATAMOcta-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485) - USA/China"
 weight = "150 g (5.29 oz)"
