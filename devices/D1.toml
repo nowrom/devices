@@ -12,6 +12,11 @@ id = "ancientos"
 photo = "https://wiki.lineageos.org/images/devices/d1.png"
 
 [[roms]]
+id = "crdroid"
+gapps = "http://downloads.codefi.re/jdcteam/javelinanddart/gapps"
+recovery = "https://sourceforge.net/projects/crdroid/files/d1/9.x/recovery/crDroidAndroid-13.0-20221204-d1-v9.0-recovery.img/download"
+
+[[roms]]
 id = "lineageos"
 cpu = "Exynos M4 & Cortex-A75 & Cortex-A55"
 ram = "8 GB"
