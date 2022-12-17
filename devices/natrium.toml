@@ -21,11 +21,13 @@ repostories = ["device_xiaomi_natrium","device_xiaomi_msm8996-common","kernel_xi
 version_code = "eleven"
 xda_thread = "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4207141"
 deprecated = true
+stable = false
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/mi-5s-plus/development/rom-pixel-experience-t4207141"
 deprecated = true
+stable = false
 
 [specs]
 cpu = "Quad-core (2x2.35 GHz Kryo & 2x2.2 GHz Kryo)"

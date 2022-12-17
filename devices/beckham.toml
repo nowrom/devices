@@ -17,27 +17,15 @@ id = "pixelexperience"
 repostories = ["device_motorola_beckham","device_motorola_sdm660-common","kernel_motorola_msm8998","vendor_motorola_beckham","vendor_motorola_sdm660-common"]
 
 [[roms.supported_versions]]
-version_code = "eleven"
-xda_thread = "https://forum.xda-developers.com/t/rom-11-beckham-pixel-experience-aosp.4238561/"
-stable = true
-deprecated = true
-
-[[roms.supported_versions]]
-version_code = "eleven_plus"
-xda_thread = "https://forum.xda-developers.com/t/rom-11-beckham-pixel-experience-aosp.4238561/"
-stable = true
-deprecated = true
-
-[[roms.supported_versions]]
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-beckham-pixelexperience-12-beta-aosp.4358873"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-beckham-pixelexperience-12-official-aosp.4358873"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]

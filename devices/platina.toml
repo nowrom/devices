@@ -29,22 +29,22 @@ repostories = ["device_xiaomi_platina","kernel_xiaomi_platina","vendor_xiaomi_pl
 
 [[roms.supported_versions]]
 version_code = "eleven"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
-stable = true
+stable = false
 deprecated = true
 
 [specs]

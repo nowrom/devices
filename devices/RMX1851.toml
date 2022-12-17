@@ -29,12 +29,12 @@ repostories = ["device_realme_RMX1851","kernel_realme_sdm710","vendor_realme_RMX
 
 [[roms.supported_versions]]
 version_code = "eleven"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
-stable = true
+stable = false
 deprecated = true
 
 [specs]

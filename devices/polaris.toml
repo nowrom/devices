@@ -32,26 +32,14 @@ id = "pixelexperience"
 repostories = ["device_xiaomi_sdm845-common","vendor_xiaomi_sdm845-common","vendor_xiaomi_sdm845-common-extra","vendor_xiaomi-firmware","device_xiaomi_polaris","kernel_xiaomi_polaris","vendor_xiaomi_polaris"]
 
 [[roms.supported_versions]]
-version_code = "eleven"
-stable = true
-xda_thread = "https://forum.xda-developers.com/t/4038949/"
-deprecated = true
-
-[[roms.supported_versions]]
-version_code = "eleven_plus"
-stable = true
-xda_thread = "https://forum.xda-developers.com/t/4038949/"
-deprecated = true
-
-[[roms.supported_versions]]
 version_code = "twelve"
-stable = true
+stable = false
 xda_thread = "https://forum.xda-developers.com/t/4038949/"
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
-stable = true
+stable = false
 xda_thread = "https://forum.xda-developers.com/t/4038949/"
 deprecated = true
 

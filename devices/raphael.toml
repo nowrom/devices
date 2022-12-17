@@ -55,27 +55,13 @@ id = "pixelexperience"
 repostories = ["device_xiaomi_raphael","kernel_xiaomi_raphael","vendor_xiaomi_raphael"]
 
 [[roms.supported_versions]]
-version_code = "eleven"
-xda_thread = "https://forum.xda-developers.com/t/rom-11-raphael-pixelexperience-normal-plus-aosp.4247261/"
-telegram_url = "https://t.me/peraphaelofficial"
-stable = true
-deprecated = true
-
-[[roms.supported_versions]]
-version_code = "eleven_plus"
-xda_thread = "https://forum.xda-developers.com/t/rom-11-raphael-pixelexperience-normal-plus-aosp.4247261/"
-telegram_url = "https://t.me/peraphaelofficial"
-stable = true
-deprecated = true
-
-[[roms.supported_versions]]
 version_code = "twelve"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]

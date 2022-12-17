@@ -24,13 +24,13 @@ repostories = ["device_xiaomi_venus","device_xiaomi_sm8350-common","kernel_xiaom
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = true
-deprecated = false
+stable = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
-stable = true
-deprecated = false
+stable = false
+deprecated = true
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"

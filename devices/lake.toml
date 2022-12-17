@@ -38,23 +38,23 @@ repostories = ["device_motorola_lake","device_motorola_sdm660-common","vendor_mo
 [[roms.supported_versions]]
 version_code = "eleven"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-lake-pixelexperience-normal-plus-aosp.4247259/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-lake-pixelexperience-normal-plus-aosp.4247259/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
-stable = true
+stable = false
 deprecated = true
 
 [[roms]]

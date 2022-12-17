@@ -1,0 +1,8 @@
+brand = "Redmi"
+codename = "biloba"
+name = "Redmi Note 8"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = true

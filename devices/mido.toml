@@ -37,12 +37,12 @@ repostories = ["device_xiaomi_mido","kernel_xiaomi_mido","vendor_xiaomi_mido"]
 
 [[roms.supported_versions]]
 version_code = "eleven"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]

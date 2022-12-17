@@ -18,12 +18,12 @@ repostories = ["device_motorola_troika","device_motorola_exynos9610-common","ven
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]

@@ -8,27 +8,15 @@ id = "pixelexperience"
 repostories = ["device_lenovo_kunlun2_row","device_lenovo_sdm710-common","kernel_lenovo_sdm710","vendor_lenovo_kunlun2_row","vendor_lenovo_sdm710-common","vendor_lenovo-firmware"]
 
 [[roms.supported_versions]]
-version_code = "eleven"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/"
-stable = true
-deprecated = true
-
-[[roms.supported_versions]]
-version_code = "eleven_plus"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/"
-stable = true
-deprecated = true
-
-[[roms.supported_versions]]
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-11-0-12-0-kunlun2-pixel-experience-for-lenovo-z6-lite-aosp.4078791/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]

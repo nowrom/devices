@@ -15,12 +15,12 @@ repostories = ["device_razer_aura","kernel_razer_sdm845","vendor_razer_aura","ve
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]

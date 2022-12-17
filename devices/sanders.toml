@@ -36,13 +36,13 @@ repostories = ["device_motorola_sanders","device_motorola_msm8953-common","vendo
 [[roms.supported_versions]]
 version_code = "eleven"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-sanders-pixelexperience-normal-plus-aosp.4247243/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-sanders-pixelexperience-normal-plus-aosp.4247243/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms]]

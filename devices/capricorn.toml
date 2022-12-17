@@ -21,11 +21,13 @@ repostories = ["device_xiaomi_capricorn","device_xiaomi_msm8996-common","kernel_
 version_code = "eleven"
 xda_thread = "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4207137"
 deprecated = true
+stable = false
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/mi-5s/development/rom-pixel-experience-t4207137"
 deprecated = true
+stable = false
 
 [specs]
 cpu = "Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)"

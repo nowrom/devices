@@ -47,31 +47,26 @@ repostories = ["device_xiaomi_beryllium","kernel_xiaomi_beryllium","vendor_xiaom
 [[roms.supported_versions]]
 version_code = "eleven"
 xda_thread = "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t4196119"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t4196119"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-12-0-beryllium-pixel-experience-aosp-2022-01-19.4390697"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-12-0-beryllium-pixel-experience-aosp-2022-01-19.4390697"
-stable = true
-deprecated = true
-
-[[roms.supported_versions]]
-version_code = "thirteen"
 stable = false
-deprecated = false
+deprecated = true
 
 [[roms]]
 id = "pixelextended"

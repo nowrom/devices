@@ -16,7 +16,7 @@ repostories = ["device_nokia_NB1","vendor_nokia_NB1","kernel_nokia_msm8998"]
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]

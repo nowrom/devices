@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 codename = "lava"
-name = "Xiaomi Redmi 9 & Poco M2"
+name = "Xiaomi Redmi 9 Prime / Poco M2"
 recoveries = []
 
 [[roms]]
@@ -16,12 +16,12 @@ repostories = ["device_xiaomi_lava","device_xiaomi_mt6768-common","kernel_xiaomi
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]

@@ -26,13 +26,13 @@ repostories = ["device_oneplus_instantnoodlep","device_oneplus_sm8250-common","v
 [[roms.supported_versions]]
 version_code = "twelve"
 xda_thread = ""
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = ""
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]

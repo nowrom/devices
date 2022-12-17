@@ -13,13 +13,13 @@ repostories = ["device_motorola_parker","device_motorola_sm6150-common","vendor_
 [[roms.supported_versions]]
 version_code = "eleven"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-parker-pixelexperience-plus-aosp.4302667/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-parker-pixelexperience-plus-aosp.4302667/"
-stable = true
+stable = false
 deprecated = true
 
 [specs]

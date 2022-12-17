@@ -30,25 +30,15 @@ id = "pixelexperience"
 repostories = ["device_xiaomi_sakura","kernel_xiaomi_msm8953","vendor_xiaomi_sakura"]
 
 [[roms.supported_versions]]
-version_code = "eleven"
-stable = true
-deprecated = true
-
-[[roms.supported_versions]]
-version_code = "eleven_plus"
-stable = true
-deprecated = true
-
-[[roms.supported_versions]]
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-sakura-sakurain-pixel-experience-official-aosp.4390723/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-sakura-sakurain-pixel-experience-official-aosp.4390723/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]

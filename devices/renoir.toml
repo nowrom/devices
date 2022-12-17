@@ -17,13 +17,13 @@ repostories = ["device_xiaomi_renoir","device_xiaomi_sm7350-common","kernel_xiao
 [[roms.supported_versions]]
 version_code = "twelve"
 telegram_url = "https://t.me/arixeloroms"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 telegram_url = "https://t.me/arixeloroms"
-stable = true
+stable = false
 deprecated = true
 
 [specs]

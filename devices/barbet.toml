@@ -21,12 +21,12 @@ repostories = ["device_google_barbet","device_google_redbull","vendor_google_bar
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]

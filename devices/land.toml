@@ -24,16 +24,11 @@ repostories = ["device_xiaomi_land","kernel_xiaomi_msm8937","vendor_xiaomi_land"
 
 [[roms.supported_versions]]
 version_code = "eleven"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
-stable = true
-deprecated = true
-
-[[roms.supported_versions]]
-version_code = "twelve"
 stable = false
 deprecated = true
 

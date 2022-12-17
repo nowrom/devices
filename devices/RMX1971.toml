@@ -28,23 +28,23 @@ repostories = ["device_realme_RMX1971","device_realme_sdm710-common","kernel_rea
 
 [[roms.supported_versions]]
 version_code = "eleven"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = true
-deprecated = false
+stable = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
-stable = true
-deprecated = false
+stable = false
+deprecated = true
 
 [[roms]]
 id = "pixelextended"

@@ -13,12 +13,12 @@ repostories = ["device_xiaomi_thyme","kernel_xiaomi_thyme","vendor_xiaomi_thyme"
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]

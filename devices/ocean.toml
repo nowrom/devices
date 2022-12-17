@@ -35,12 +35,12 @@ repostories = ["device_motorola_ocean","device_motorola_sdm632-common","kernel_m
 
 [[roms.supported_versions]]
 version_code = "eleven"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
-stable = true
+stable = false
 deprecated = true
 
 [[roms]]

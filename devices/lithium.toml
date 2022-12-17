@@ -21,11 +21,13 @@ repostories = ["device_xiaomi_lithium","device_xiaomi_msm8996-common","kernel_xi
 version_code = "eleven"
 xda_thread = "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t4207151"
 deprecated = true
+stable = false
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/redmi-note-7/development/rom-pixel-experience-t4207151"
 deprecated = true
+stable = false
 
 [specs]
 cpu = "Not found"

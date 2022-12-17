@@ -27,27 +27,15 @@ id = "pixelexperience"
 repostories = ["device_google_walleye","device_google_wahoo","kernel_google_wahoo","vendor_google_walleye","wiki_blobs_wahoo"]
 
 [[roms.supported_versions]]
-version_code = "eleven"
-xda_thread = "https://forum.xda-developers.com/t/rom-11-0-walleye-pixelexperience-aosp-official.4244507/"
-stable = true
-deprecated = true
-
-[[roms.supported_versions]]
-version_code = "eleven_plus"
-xda_thread = "https://forum.xda-developers.com/t/rom-11-0-walleye-pixelexperience-aosp-official.4244507/"
-stable = true
-deprecated = true
-
-[[roms.supported_versions]]
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-0-walleye-pixelexperience-aosp-official.4365917/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-0-walleye-pixelexperience-aosp-official.4365917/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]

@@ -35,25 +35,25 @@ repostories = ["device_xiaomi_gauguin","kernel_xiaomi_gauguin","vendor_xiaomi_ga
 [[roms.supported_versions]]
 version_code = "eleven"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-gauguin-official-pixel-experience-mi-10t-lite-mi-10i-redmi-note-9-pro-5g.4236779/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-gauguin-official-pixel-experience-mi-10t-lite-mi-10i-redmi-note-9-pro-5g.4236779/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-gauguin-official-pixel-experience-12-mi-10t-lite-mi-10i-redmi-note-9-pro-5g.4352869/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-gauguin-official-pixel-experience-12-mi-10t-lite-mi-10i-redmi-note-9-pro-5g.4352869/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms]]

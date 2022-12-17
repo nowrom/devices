@@ -53,13 +53,13 @@ repostories = ["device_oneplus_enchilada","device_oneplus_sdm845-common","device
 
 [[roms.supported_versions]]
 version_code = "eleven"
-stable = true
+stable = false
 xda_thread = "https://forum.xda-developers.com/t/rom-11-enchilada-pixelexperience-aosp-official.4286169/"
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
-stable = true
+stable = false
 xda_thread = "https://forum.xda-developers.com/t/rom-11-enchilada-pixelexperience-aosp-official.4286169/"
 deprecated = true
 

@@ -10,7 +10,7 @@ repostories = ["device_teracube_v7101o","device_teracube_v7101o-modules","kernel
 [[roms.supported_versions]]
 version_code = "eleven"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-0-official-pixelexperience-for-teracube-one-v7101o.4197855/"
-stable = true
+stable = false
 deprecated = true
 
 [specs]

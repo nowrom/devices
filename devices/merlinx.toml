@@ -20,12 +20,12 @@ repostories = ["device_xiaomi_merlinx","device_xiaomi_mt6768-common","kernel_xia
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]

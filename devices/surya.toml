@@ -57,18 +57,18 @@ repostories = ["device_qcom_common","device_xiaomi_surya","device_xiaomi_J20C-se
 [[roms.supported_versions]]
 version_code = "eleven"
 xda_thread = ""
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
 xda_thread = ""
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve"
-stable = true
+stable = false
 deprecated = true
 
 [[roms]]

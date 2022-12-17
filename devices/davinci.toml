@@ -55,13 +55,13 @@ repostories = ["device_xiaomi_davinci","kernel_xiaomi_davinci","kernel_xiaomi_da
 [[roms.supported_versions]]
 version_code = "eleven"
 xda_thread = "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687"
-stable = true
+stable = false
 deprecated = true
 
 [[roms]]

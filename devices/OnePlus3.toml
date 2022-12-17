@@ -30,13 +30,13 @@ repostories = ["device_oneplus_oneplus3","vendor_oneplus_oneplus3","kernel_onepl
 [[roms.supported_versions]]
 version_code = "eleven"
 xda_thread = "https://forum.xda-developers.com/t/4196403/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/4196403/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms]]

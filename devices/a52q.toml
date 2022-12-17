@@ -24,13 +24,13 @@ repostories = ["device_samsung_a52q","device_samsung_sm7125-common","kernel_sams
 [[roms.supported_versions]]
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/4434401/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
 xda_thread = "https://forum.xda-developers.com/t/4434401/"
-stable = true
+stable = false
 deprecated = true
 
 [[roms.supported_versions]]
