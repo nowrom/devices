@@ -22,7 +22,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "daniml3"
-changelog = "- Enabled fingerprint tap/press to unlock settings"
+changelog = "- Initial Android 13 Build"
 
 [[roms]]
 id = "crdroid"

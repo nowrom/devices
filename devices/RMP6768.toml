@@ -6,4 +6,4 @@ recoveries = []
 [[roms]]
 id = "arrowos"
 maintainer = "NeilChetty"
-changelog = "Flash Only On A09&10 Firmware\r\nBased On OSS Vendor\r\nSelinux Is Enforcing\r\n\r\nRecovery:\r\nhttps://tinyurl.com/realmepadrecovery"
+changelog = "Flash Only On A09 And Above Firmware\r\nBased On OSS Vendor\r\nSelinux Is Enforcing\r\n\r\nRecovery:\r\nhttps://tinyurl.com/realmepadrecovery"
