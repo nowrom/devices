@@ -10,7 +10,7 @@ photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devi
 [[roms]]
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
-changelog = "- Test build!"
+changelog = "- Fixed 64MP mode in MIUI Camera"
 
 [[roms]]
 id = "evolutionx"
