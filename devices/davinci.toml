@@ -50,7 +50,7 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_davinci","kernel_xiaomi_davinci","kernel_xiaomi_davinci-headers","vendor_xiaomi_davinci"]
+repostories = ["device_xiaomi_davinci","kernel_xiaomi_sm6150","vendor_xiaomi_davinci"]
 
 [[roms.supported_versions]]
 version_code = "eleven"
@@ -63,6 +63,16 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/mi-9t/development/official-pixelexperience-10-davinci-t4151687"
 stable = false
 deprecated = true
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = true
+deprecated = false
 
 [[roms]]
 id = "pixyos"
