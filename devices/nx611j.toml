@@ -1,0 +1,10 @@
+brand = "Nubia"
+codename = "nx611j"
+name = "Z18 Mini"
+recoveries = []
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 260"
+ram = "6 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
