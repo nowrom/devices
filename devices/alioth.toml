@@ -100,7 +100,7 @@ developer = "DennySPb"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.1"
+version = "v6.2"
 developer = "DennySPb"
 
 [specs]

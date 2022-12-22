@@ -4,4 +4,18 @@ name = "Nothing phone (1)"
 recoveries = []
 
 [[roms]]
+id = "pixelexperience"
+repostories = ["device_nothing_Spacewar","vendor_nothing_Spacewar","kernel_nothing_sm7325"]
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = true
+deprecated = false
+
+[[roms]]
 id = "pixyos"
