@@ -5,4 +5,5 @@ roms = []
 
 [[recoveries]]
 id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-for-asus-rog-phone-6-6-pro-qualcomm-only.4518029"
 maintainer = "Captain_Throwback"

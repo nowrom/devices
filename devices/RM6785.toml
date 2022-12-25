@@ -1,6 +1,12 @@
+brand = "Realme"
 codename = "RM6785"
-name = "RM6785"
+name = "Realme RM6785"
 recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/08-Sep-2022/NikGapps-core-arm64-13-20220908-signed.zip/download"
+recovery = ""
 
 [[roms]]
 id = "sparkos"

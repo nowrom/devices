@@ -5,4 +5,5 @@ roms = []
 
 [[recoveries]]
 id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-official-twrp-for-asus-zenfone-9.4518025"
 maintainer = "Captain_Throwback"
