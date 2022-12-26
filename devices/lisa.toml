@@ -10,6 +10,7 @@ photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devi
 [[roms]]
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
+changelog = "- Fixed high brightness at lowest brightness\r\n- Enabled Extra Dim\r\n- Added Xiaomi Cit Service\r\n- Improved Fingerprint Unlocking Animation"
 
 [[roms]]
 id = "evolutionx"

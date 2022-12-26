@@ -1,10 +1,15 @@
-brand = "ASUS"
+brand = "Asus"
 codename = "X00QD"
-name = "ZenFone 5"
+name = "Asus ZenFone 5"
 
 [[recoveries]]
 id = "orangefox"
 supported = true
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
 
 [[roms]]
 id = "dotos"
