@@ -11,6 +11,11 @@ maintainer = "bigbiff"
 id = "calyxos"
 
 [[roms]]
+id = "crdroid"
+gapps = "http://downloads.codefi.re/jdcteam/javelinanddart/gapps"
+recovery = "https://sabina.amyrom.tech/redfin/crDroid90/"
+
+[[roms]]
 id = "grapheneos"
 
 [[roms]]
