@@ -4,8 +4,8 @@ name = "Nokia 6.1 Plus"
 
 [[recoveries]]
 id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/official-twrp-drg_sprout-support-thread.4363643/"
-maintainer = "Sid Pranjale"
+xdathread = "https://forum.xda-developers.com/t/official-twrp-3-7-0-0-team-win-recovery-project-nokia-6-1-plus.3893909/"
+maintainer = "G Raghu Varma"
 
 [[roms]]
 id = "potato"
