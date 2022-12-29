@@ -25,3 +25,9 @@ id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v6.2"
+developer = "erwinabs"
