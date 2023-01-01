@@ -25,12 +25,6 @@ recovery = "https://t.me/gtrcraft_surya/34606"
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/surya/Havoc-OS-v5.7-20220718-surya-Official-GApps.zip"
 maintainer = "Tushar Mahajan"

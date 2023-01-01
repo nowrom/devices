@@ -31,6 +31,18 @@ id = "pixelexperience"
 repostories = ["device_samsung_beyondx","device_samsung_exynos9820-common","kernel_samsung_exynos9820","vendor_samsung"]
 
 [[roms.supported_versions]]
+version_code = "thirteen"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-for-s10-series-aosp-dynamic-encryption.4523529/"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
 version_code = "twelve"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-12-galaxy-s10-e-5g-pixelexperience-aosp-encryption.4406323/"
 stable = false
