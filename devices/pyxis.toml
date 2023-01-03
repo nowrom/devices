@@ -17,12 +17,6 @@ id = "evolutionx"
 id = "evolutionx"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "lineageos"
 cpu = "Kryo 360"
 ram = "6 GB"
