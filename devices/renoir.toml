@@ -11,6 +11,12 @@ maintainer = "Nebrassy"
 id = "dotos"
 
 [[roms]]
+id = "lineageos"
+cpu = "Kryo 670"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_renoir","device_xiaomi_sm7350-common","kernel_xiaomi_sm7350","vendor_xiaomi_renoir","vendor_xiaomi_renoir-firmware","vendor_xiaomi_sm7350-common","wiki_blobs_renoir"]
 
