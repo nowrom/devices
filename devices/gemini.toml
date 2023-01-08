@@ -8,6 +8,11 @@ xdathread = "http://forum.xda-developers.com/mi-5/development/recovery-twrp-xiao
 maintainer = "Bruno Martins (bgcngm), Louis Popi (h2o64)"
 
 [[roms]]
+id = "crdroid"
+gapps = "http://downloads.codefi.re/jdcteam/javelinanddart/gapps/MindTheGapps-13.0.0-arm64-20221025_100653.zip"
+recovery = "https://build-106.keksla.wtf/gemini/crdroid/recovery.img"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo"
 ram = "3 GB LPDDR4 (Standard and Pro editions) / 4 GB LPDDR4 (Exclusive edition)"
