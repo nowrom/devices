@@ -9,7 +9,8 @@ maintainer = "DroidThug"
 
 [[roms]]
 id = "arrowos"
-maintainer = "Adithya (ghostrider_reborn)"
+maintainer = "Adithya (ghostrider_reborn) and EdwardWu"
+changelog = "x3: Bringup arrow-13.0 Android 13 Official build\r\nx3: Build GcamGO-V2\r\nKernel: Merge CLO tag to LA.UM.9.1.r1-12900-SMxxx0.QSSI13.0"
 
 [[roms]]
 id = "legionos"

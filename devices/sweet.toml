@@ -22,7 +22,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "daniml3"
-changelog = "- Initial Android 13 Build"
+changelog = "- Misc changes and improvements\r\n- Please check devices source for more information"
 
 [[roms]]
 id = "crdroid"
