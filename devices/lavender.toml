@@ -84,7 +84,13 @@ deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen"
-stable = false
+stable = true
+xda_thread = "https://forum.xda-developers.com/t/rom-12-lavender-official-pixelexperience-aosp.4470689/"
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = true
 xda_thread = "https://forum.xda-developers.com/t/rom-12-lavender-official-pixelexperience-aosp.4470689/"
 deprecated = false
 

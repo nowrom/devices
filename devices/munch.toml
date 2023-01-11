@@ -14,6 +14,7 @@ maintainer = "Himanshu Raj (hraj9258)"
 [[roms]]
 id = "arrowos"
 maintainer = "madmax7896"
+changelog = "* Switched to aidl btaudio\r\n* Updated wcnss config from stock\r\n* Enabled ramdisk compression by lz4\r\n* Labelled remaining wakeup nodes\r\n* Fixed fingerprint wakeup animation\r\n* Updated CarrierConfig from LA.QSSI.13.0.r1-07400-qssi.0\r\n* Fixed some issues with 4G+\r\n* Fixed rounded corners\r\n* Improved statusbar paddings\r\n* Silenced some useless logspams"
 
 [[roms]]
 id = "crdroid"
