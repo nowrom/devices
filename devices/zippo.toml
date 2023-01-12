@@ -10,7 +10,7 @@ maintainer = "ThEMarD"
 [[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Config-Releases/NikGapps-T/30-Oct-2022/NikGapps-zippo-arm64-13-20221030-signed.zip/download"
-recovery = "https://www.androidfilehost.com/?fid=17825722713688280828"
+recovery = "https://www.androidfilehost.com/?fid=4279422670115709052"
 
 [[roms]]
 id = "evolutionx"
