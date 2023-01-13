@@ -8,7 +8,7 @@ supported = true
 
 [[roms]]
 id = "crdroid"
-gapps = ""
+gapps = "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v1.8/BiTGApps-arm64-13.0.0-v1.8_signed.zip"
 recovery = ""
 
 [[roms]]
