@@ -19,6 +19,11 @@ maintainer = "TG_DEVICE_MAINTAINER"
 id = "blissroms"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://androidfilehost.com/?w=files&flid=322935"
+recovery = "https://sourceforge.net/projects/crdroid/files/chiron/recovery.img"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

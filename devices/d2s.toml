@@ -13,8 +13,8 @@ photo = "https://wiki.lineageos.org/images/devices/d2s.png"
 
 [[roms]]
 id = "crdroid"
-gapps = "http://downloads.codefi.re/jdcteam/javelinanddart/gapps"
-recovery = "https://sourceforge.net/projects/crdroid/files/d2s/9.x/recovery/crDroidAndroid-13.0-20221204-d2s-v9.0-recovery.img/download"
+gapps = "https://downloads.codefi.re/jdcteam/javelinanddart/gapps"
+recovery = "https://sourceforge.net/projects/crdroid/files/d2s/9.x/recovery/crDroidAndroid-13.0-20230113-d2s-v9.1-recovery.img/download"
 
 [[roms]]
 id = "lineageos"

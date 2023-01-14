@@ -17,8 +17,8 @@ xda_thread = ""
 
 [[roms]]
 id = "crdroid"
-gapps = "http://downloads.codefi.re/jdcteam/javelinanddart/gapps"
-recovery = "https://sourceforge.net/projects/crdroid/files/beyond0lte/9.x/recovery/crDroidAndroid-13.0-20221204-beyond0lte-v9.0-recovery.img"
+gapps = "https://downloads.codefi.re/jdcteam/javelinanddart/gapps"
+recovery = "https://sourceforge.net/projects/crdroid/files/beyond0lte/9.x/recovery/crDroidAndroid-13.0-20230113-beyond0lte-v9.1-recovery.img/download"
 
 [[roms]]
 id = "lineageos"
