@@ -7,6 +7,11 @@ id = "twrp"
 maintainer = "LuK1337"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://androidfilehost.com/?w=files&flid=322935"
+recovery = "https://twrp.me/samsung/samsunggalaxytabs5elte.html"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 360"
 ram = "4/6 GB"

@@ -5,7 +5,7 @@ recoveries = []
 
 [[roms]]
 id = "crdroid"
-gapps = "http://downloads.codefi.re/jdcteam/javelinanddart/gapps/MindTheGapps-13.0.0-arm64-20221025_100653.zip"
+gapps = "https://downloads.codefi.re/jdcteam/javelinanddart/gapps/MindTheGapps-13.0.0-arm64-20221025_100653.zip"
 recovery = ""
 
 [[roms]]

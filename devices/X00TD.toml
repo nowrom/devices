@@ -12,6 +12,10 @@ id = "ancientos"
 photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devices_gallery/main/X00TD.png"
 
 [[roms]]
+id = "arrowos"
+maintainer = "TG_DEVICE_MAINTAINER"
+
+[[roms]]
 id = "blissroms"
 
 [[roms]]
