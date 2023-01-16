@@ -13,7 +13,7 @@ photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devi
 
 [[roms]]
 id = "arrowos"
-maintainer = "TG_DEVICE_MAINTAINER"
+maintainer = "ATANYTHING"
 
 [[roms]]
 id = "blissroms"
