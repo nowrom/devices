@@ -9,8 +9,8 @@ photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devi
 
 [[roms]]
 id = "arrowos"
-maintainer = "TG_DEVICE_MAINTAINER"
-changelog = "- Merged LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0 for kernel\r\n- Corrected physical panel dimensions\r\n- Updated wireguard in kernel\r\n- Dropped xiaomi citsensor service\r\n- Misc improvements"
+maintainer = "ALKALiKong"
+changelog = "- Introduced Dolby Atmos\r\n- Add Dolby Vision Codecs\r\n- Switched to MIUI display stack\r\n- Switched to MIUI color modes\r\n- Enable suspend to RAM"
 
 [[roms]]
 id = "evolutionx"

@@ -17,6 +17,7 @@ photo = "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10i-5g.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "Hridaya & Lynrinn"
+changelog = "- Drop MIUICamera Support."
 
 [[roms]]
 id = "dotos"
