@@ -66,13 +66,13 @@ deprecated = true
 version_code = "thirteen"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-official-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp-10-31-22.4512511/"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-official-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp-10-31-22.4512511/"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms]]
 id = "pixelextended"
@@ -93,14 +93,14 @@ download = "https://downloads.spark-os.live/?dir=alioth/"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.2"
-developer = "DennySPb"
+version = "v4.9"
+developer = "mdeejay"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
-developer = "mdeejay"
+version = "v6.2"
+developer = "DennySPb"
 
 [[roms]]
 id = "syberia"

@@ -39,13 +39,13 @@ developer = "lupesoltec"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v6.2"
 developer = "lupesoltec"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.2"
+version = "v4.9"
 developer = "lupesoltec"
 
 [specs]

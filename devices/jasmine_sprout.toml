@@ -40,7 +40,7 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_jasmine_sprout","kernel_xiaomi_jasmine_sprout","vendor_xiaomi_jasmine_sprout"]
+repostories = ["device_xiaomi_jasmine_sprout","kernel_xiaomi_jasmine_sprout","vendor_xiaomi_jasmine_sprout","wiki_blobs_jasmine_sprout"]
 
 [[roms.supported_versions]]
 version_code = "twelve"
