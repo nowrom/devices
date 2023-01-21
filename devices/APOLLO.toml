@@ -26,7 +26,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_apollo","device_xiaomi_sm8250-common","kernel_xiaomi_apollo","vendor_xiaomi_apollo","vendor_xiaomi_sm8250-common"]
+repostories = ["device_xiaomi_apollo","device_xiaomi_sm8250-common","kernel_xiaomi_sm8250","vendor_xiaomi_apollo","vendor_xiaomi_sm8250-common"]
 
 [[roms.supported_versions]]
 version_code = "twelve"

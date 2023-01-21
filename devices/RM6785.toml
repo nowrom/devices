@@ -9,6 +9,20 @@ gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/08-
 recovery = ""
 
 [[roms]]
+id = "pixelexperience"
+repostories = ["device_realme_RM6785","kernel_realme_mt6785","vendor_realme_RM6785","vendor_realme-firmware"]
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = true
+deprecated = false
+
+[[roms]]
 id = "sparkos"
 group = "https://t.me/Atharva_RM6785_Chat"
 download = "https://downloads.spark-os.live/?dir=RM6785/"
