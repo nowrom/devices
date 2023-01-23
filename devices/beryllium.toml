@@ -21,7 +21,6 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-0-beryllium-aospk-the-kr
 [[roms]]
 id = "arrowos"
 maintainer = "Sourav (resist15)"
-changelog = "Initial OFFICIAL Release"
 
 [[roms]]
 id = "blissroms"
