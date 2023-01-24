@@ -19,6 +19,11 @@ maintainer = "lamjiidii1"
 id = "blissroms"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
+recovery = "https://dl.twrp.me/cepheus/twrp-3.5.2_9-0-cepheus.img.html"
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]
