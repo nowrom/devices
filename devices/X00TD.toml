@@ -42,8 +42,12 @@ repostories = ["device_asus_X00TD","kernel_asus_sdm660","vendor_asus_X00TD"]
 
 [[roms.supported_versions]]
 version_code = "thirteen"
-xda_thread = ""
-stable = false
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = true
 deprecated = false
 
 [[roms.supported_versions]]
