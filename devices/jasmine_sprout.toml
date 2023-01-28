@@ -17,6 +17,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Immanuel_Raj(@iamimmanuelraj)"
+changelog = "Initial A13 New trees test build"
 
 [[roms]]
 id = "blissroms"
