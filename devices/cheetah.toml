@@ -1,0 +1,10 @@
+brand = "Google"
+codename = "cheetah"
+name = "Pixel 7 Pro"
+recoveries = []
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
