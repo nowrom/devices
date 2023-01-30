@@ -1,0 +1,18 @@
+brand = "Redmi"
+codename = "lime"
+name = "Redmi Note 9 4G"
+recoveries = []
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_chime","device_xiaomi_lime","kernel_xiaomi_chime","vendor_xiaomi_chime","vendor_xiaomi_lime"]
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = true
+deprecated = false

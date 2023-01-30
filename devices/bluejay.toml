@@ -1,0 +1,10 @@
+brand = "Google"
+codename = "bluejay"
+name = "Pixel 6a"
+recoveries = []
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
