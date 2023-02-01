@@ -4,6 +4,12 @@ name = "POCO M5s"
 recoveries = []
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_redmi_rosemary","kernel_redmi_rosemary","vendor_redmi_rosemary","vendor_redmi_rosemary-firmware"]
 
