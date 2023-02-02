@@ -99,13 +99,13 @@ developer = "mdeejay"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.6"
+version = "v6.2"
 developer = "DennySPb"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.2"
+version = "v5.6"
 developer = "DennySPb"
 
 [specs]

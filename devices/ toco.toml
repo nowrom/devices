@@ -1,7 +1,0 @@
-brand = "Xiaomi"
-codename = " toco"
-name = "Mi Note 10 Lite"
-recoveries = []
-
-[[roms]]
-id = "pixelextended"
