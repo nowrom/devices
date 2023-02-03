@@ -26,7 +26,7 @@ wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotsp
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/lemonade/PixelExtended-5.3_lemonade-13.0-20221230-0936-OFFICIAL.zip/download"
+url = "https://sourceforge.net/projects/pixelextended/files/lemonade/PixelExtended-5.4_lemonade-13.0-20230202-0759-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v5-2-android-13-0-lemonade-09-12-2022.4447241/"
 
 [[roms]]
