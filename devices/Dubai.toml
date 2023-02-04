@@ -8,3 +8,17 @@ id = "lineageos"
 cpu = "Kryo 670"
 ram = "6/8 GB LPDDR5 (uMPC5)"
 wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot, Wi-Fi 6E, 4x4 MU-MIMO"
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_motorola_dubai","device_motorola_sm7325-common","kernel_motorola_sm7325","vendor_motorola_dubai","vendor_motorola_sm7325-common","wiki_blobs_dubai"]
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = true
+deprecated = false

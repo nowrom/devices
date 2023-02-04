@@ -27,17 +27,19 @@ deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve_plus"
-xda_thread = "https://forum.xda-developers.com/t/rom-12-0-coral-pixelexperience-aosp.4406399/"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-0-sunfish-pixelexperience-aosp.4392819/"
 stable = false
 deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-0-sunfish-pixelexperience-aosp.4548911/"
 stable = true
 deprecated = false
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-0-sunfish-pixelexperience-aosp.4548911/"
 stable = true
 deprecated = false
 
