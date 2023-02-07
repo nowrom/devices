@@ -67,16 +67,6 @@ version_code = "twelve_plus"
 stable = false
 deprecated = true
 
-[[roms.supported_versions]]
-version_code = "thirteen"
-stable = true
-deprecated = false
-
-[[roms.supported_versions]]
-version_code = "thirteen_plus"
-stable = true
-deprecated = false
-
 [[roms]]
 id = "pixelextended"
 

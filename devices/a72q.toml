@@ -4,7 +4,7 @@ name = "Galaxy A72"
 
 [[recoveries]]
 id = "orangefox"
-supported = true
+supported = false
 
 [[recoveries]]
 id = "twrp"
