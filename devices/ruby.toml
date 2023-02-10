@@ -1,6 +1,6 @@
-brand = "Mobicell"
-codename = "RUBY"
-name = "RUBY"
+brand = "Redmi"
+codename = "ruby"
+name = "Redmi Note 12 Pro"
 roms = []
 
 [[recoveries]]
