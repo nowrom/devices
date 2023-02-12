@@ -106371,6 +106371,11 @@
   },
   {
     "brand": "OnePlus",
+    "name": "E00",
+    "codename": "Edinburgh"
+  },
+  {
+    "brand": "OnePlus",
     "name": "One",
     "codename": "A0001"
   },
