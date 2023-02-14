@@ -11,6 +11,11 @@ maintainer = "bigbiff"
 id = "calyxos"
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]

@@ -53236,6 +53236,21 @@
   },
   {
     "brand": "Honor",
+    "name": "HONOR X8a",
+    "codename": "HNCRT-M1"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X8a",
+    "codename": "HNCRT-M1"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X8a",
+    "codename": "HNCRT-M1"
+  },
+  {
+    "brand": "Honor",
     "name": "HONOR X9",
     "codename": "HNANY-Q1"
   },
@@ -100277,6 +100292,11 @@
   {
     "brand": "Multilaser",
     "name": "M7 WIFI",
+    "codename": "ML_SO0P_M7_WIFI"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "M7 WIFI",
     "codename": "ML_SO1E_M7_Wifi"
   },
   {
@@ -107076,6 +107096,11 @@
   },
   {
     "brand": "OpelMobile",
+    "name": "OMSJ523B",
+    "codename": "OpelMobile_OMSJ523B"
+  },
+  {
+    "brand": "OpelMobile",
     "name": "Opel Mobile_Smart_J2",
     "codename": "Smart_J2"
   },
@@ -107717,6 +107742,16 @@
   {
     "brand": "Oppo",
     "name": "A77 5G",
+    "codename": "OP52F3L1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "A78 5G",
+    "codename": "OP52F3L1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "A78 5G",
     "codename": "OP52F3L1"
   },
   {
@@ -171743,6 +171778,11 @@
     "brand": "Vivo",
     "name": "Y33",
     "codename": "bbk6735_65c_l"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y33t",
+    "codename": "PD2236"
   },
   {
     "brand": "Vivo",
