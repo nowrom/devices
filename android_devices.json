@@ -52521,6 +52521,11 @@
   },
   {
     "brand": "Honda",
+    "name": "IVI-SYSTEM",
+    "codename": "msmnile_au"
+  },
+  {
+    "brand": "Honda",
     "name": "MY15ADA",
     "codename": "koelsch"
   },
@@ -67328,6 +67333,11 @@
     "brand": "Isafe",
     "name": "IS930",
     "codename": "IS930"
+  },
+  {
+    "brand": "Iskon",
+    "name": "Iskon.Play TV",
+    "codename": "HY44G"
   },
   {
     "brand": "Iskon",
@@ -99198,6 +99208,16 @@
     "brand": "Motorola",
     "name": "moto g72",
     "codename": "vicky"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g73 5G",
+    "codename": "devonf"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g73 5G",
+    "codename": "devonf"
   },
   {
     "brand": "Motorola",
@@ -162965,6 +162985,11 @@
     "codename": "V51"
   },
   {
+    "brand": "Telenor(HU)",
+    "name": "Hipernet TV Box",
+    "codename": "Hipernet_TV_Box_B866V2"
+  },
+  {
     "brand": "Teleone",
     "name": "I06",
     "codename": "I06"
@@ -170697,11 +170722,6 @@
   {
     "brand": "Vivo",
     "name": "V2035",
-    "codename": "2036"
-  },
-  {
-    "brand": "Vivo",
-    "name": "V2036",
     "codename": "2036"
   },
   {
