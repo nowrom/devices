@@ -36286,6 +36286,11 @@
   },
   {
     "brand": "Flow",
+    "name": "FlowBox-F2",
+    "codename": "HP44H"
+  },
+  {
+    "brand": "Flow",
     "name": "FlowSoundBox",
     "codename": "m393gena_teco"
   },
@@ -126436,11 +126441,6 @@
   },
   {
     "brand": "Samsung",
-    "name": "Galaxy 12",
-    "codename": "b0q"
-  },
-  {
-    "brand": "Samsung",
     "name": "Galaxy A",
     "codename": "archer"
   },
@@ -134722,6 +134722,31 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S22 Ultra",
+    "codename": "SC-52C"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22 Ultra",
+    "codename": "SCG14"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22 Ultra",
+    "codename": "b0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22 Ultra",
+    "codename": "b0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22 Ultra",
+    "codename": "b0q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S22 Ultra",
     "codename": "b0q"
   },
   {
@@ -134738,31 +134763,6 @@
     "brand": "Samsung",
     "name": "Galaxy S22 Ultra",
     "codename": "b0s"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy S22 Ultra ",
-    "codename": "SC-52C"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy S22 Ultra ",
-    "codename": "SCG14"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy S22 Ultra ",
-    "codename": "b0q"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy S22 Ultra ",
-    "codename": "b0q"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy S22 Ultra ",
-    "codename": "b0q"
   },
   {
     "brand": "Samsung",
@@ -167363,6 +167363,11 @@
     "brand": "VIZZION",
     "name": "vizzion",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "VNPT Technology",
+    "name": "VNPT SmartBox",
+    "codename": "vnptt_smb_3"
   },
   {
     "brand": "VNPT Technology",
