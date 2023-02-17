@@ -32850,6 +32850,11 @@
     "codename": "SEI800RCN"
   },
   {
+    "brand": "EVOFORCE1",
+    "name": "USA",
+    "codename": "SEI800MOBI"
+  },
+  {
     "brand": "EVVO",
     "name": "Android TV",
     "codename": "R1"
@@ -140166,6 +140171,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "asdf",
+    "codename": "q4q"
+  },
+  {
+    "brand": "Samsung",
     "name": "olleh",
     "codename": "ik1"
   },
@@ -143728,6 +143738,11 @@
     "brand": "Sirin",
     "name": "LABS SOLARIN",
     "codename": "solarin"
+  },
+  {
+    "brand": "Sky (CH)",
+    "name": "Elite A6",
+    "codename": "Elite_A6"
   },
   {
     "brand": "Sky (CH)",
@@ -151358,6 +151373,11 @@
     "brand": "TCL",
     "name": "TAB 10s New",
     "codename": "Odin2"
+  },
+  {
+    "brand": "TCL",
+    "name": "TBD",
+    "codename": "Apollo84GBoostR"
   },
   {
     "brand": "TCL",
@@ -165583,6 +165603,11 @@
     "brand": "Ulefone",
     "name": "Note 14",
     "codename": "Note_14"
+  },
+  {
+    "brand": "Ulefone",
+    "name": "Note 15",
+    "codename": "Note_15"
   },
   {
     "brand": "Ulefone",

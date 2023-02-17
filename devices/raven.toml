@@ -15,6 +15,12 @@ id = "evolutionx"
 [[roms]]
 id = "grapheneos"
 
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-X1 & Cortex-A76 & Cortex-A55"
+ram = "12 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
+
 [specs]
 cpu = "Octa-core (2x2.80 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.80 GHz Cortex-A55)"
 weight = "210 g (7.41 oz)"
