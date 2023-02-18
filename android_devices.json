@@ -72590,6 +72590,11 @@
     "codename": "MA4000"
   },
   {
+    "brand": "Korea Telecom",
+    "name": "MA4100",
+    "codename": "MA4100"
+  },
+  {
     "brand": "Krik Krak",
     "name": "Freedom",
     "codename": "Freedom"
@@ -125591,6 +125596,11 @@
   },
   {
     "brand": "STK(Santok)",
+    "name": "STK X3",
+    "codename": "X3"
+  },
+  {
+    "brand": "STK(Santok)",
     "name": "SYNC 5C",
     "codename": "STK_Sync_5c"
   },
@@ -140171,7 +140181,7 @@
   },
   {
     "brand": "Samsung",
-    "name": "asdf",
+    "name": "asdf121",
     "codename": "q4q"
   },
   {
@@ -144663,6 +144673,11 @@
     "brand": "SkyLife",
     "name": "KSTB6165",
     "codename": "KSTB6165"
+  },
+  {
+    "brand": "SkyLife",
+    "name": "MA5000",
+    "codename": "MA5000"
   },
   {
     "brand": "SkyLife",
