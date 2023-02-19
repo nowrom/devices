@@ -188326,6 +188326,11 @@
   },
   {
     "brand": "Zephir",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "Zephir",
     "name": "Italy",
     "codename": "guandu"
   },
