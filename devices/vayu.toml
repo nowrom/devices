@@ -26,7 +26,7 @@ maintainer = "K001droid and raghavt20"
 [[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
-recovery = "https://sourceforge.net/projects/crdroid/files/vayu/9.x/recovery/recovery-crDroidAndroid-13.0-20221108-vayu-v9.0.img/download"
+recovery = ""
 
 [[roms]]
 id = "dotos"

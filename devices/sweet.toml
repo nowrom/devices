@@ -27,7 +27,7 @@ changelog = "- Misc changes and improvements\r\n- Please check devices source fo
 [[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
-recovery = "https://sourceforge.net/projects/crdroid/files/sweet/9.x/recovery/recovery-crDroidAndroid-13.0-20221108-sweet-v9.0.img/download"
+recovery = ""
 
 [[roms]]
 id = "dotos"
