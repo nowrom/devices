@@ -16566,6 +16566,11 @@
   },
   {
     "brand": "Blaupunkt",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "Blaupunkt",
     "name": "Endeavour101",
     "codename": "Blaupunkt"
   },
@@ -123891,6 +123896,11 @@
   },
   {
     "brand": "S Vision",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "S Vision",
     "name": "\"Japan",
     "codename": "USA"
   },
@@ -124098,6 +124108,11 @@
     "brand": "SCHNEIDER",
     "name": "Android TV",
     "codename": "R2"
+  },
+  {
+    "brand": "SCHNEIDER",
+    "name": "EU、UK、AP",
+    "codename": "martin"
   },
   {
     "brand": "SCHNEIDER",
@@ -162178,6 +162193,11 @@
     "brand": "Tecno",
     "name": "TECNO SPARK 10",
     "codename": "TECNO-KI5n"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 10C",
+    "codename": "TECNO-KI5k"
   },
   {
     "brand": "Tecno",
