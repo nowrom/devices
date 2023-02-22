@@ -28191,6 +28191,11 @@
   },
   {
     "brand": "Datalogic",
+    "name": "Memor 11",
+    "codename": "m11"
+  },
+  {
+    "brand": "Datalogic",
     "name": "Memor 20",
     "codename": "Q10"
   },
@@ -32233,6 +32238,11 @@
     "brand": "EKO",
     "name": "EKO android TV ISDB",
     "codename": "hanyang"
+  },
+  {
+    "brand": "EKO",
+    "name": "EU、UK、AP",
+    "codename": "martin"
   },
   {
     "brand": "EKO",
@@ -119066,6 +119076,11 @@
   },
   {
     "brand": "QBell",
+    "name": "EU、UK、AP",
+    "codename": "martin"
+  },
+  {
+    "brand": "QBell",
     "name": "Italy",
     "codename": "guandu"
   },
@@ -141041,7 +141056,7 @@
   },
   {
     "brand": "Sharp",
-    "name": "4T-C**EN1/EQ1/ES1/EU1",
+    "name": "4T-C**EN1/EQ1/ES1/EU1/EP1",
     "codename": "tcvenruj"
   },
   {
@@ -145423,6 +145438,11 @@
     "brand": "Sonimtech",
     "name": "XP8",
     "codename": "XP8800"
+  },
+  {
+    "brand": "Soniq",
+    "name": "4K Smart TV",
+    "codename": "pioneer"
   },
   {
     "brand": "Soniq",
@@ -151636,6 +151656,11 @@
   },
   {
     "brand": "TCL",
+    "name": "TCL 30 LE",
+    "codename": "Jetta_Visible"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL 30 SE",
     "codename": "Cruze_Pro"
   },
@@ -151678,6 +151703,11 @@
     "brand": "TCL",
     "name": "TCL 30 Z",
     "codename": "Jetta_Dish"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 30 Z",
+    "codename": "Jetta_NA_OM"
   },
   {
     "brand": "TCL",
