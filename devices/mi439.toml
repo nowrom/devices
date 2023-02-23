@@ -13,6 +13,12 @@ id = "evolutionx"
 id = "evolutionx"
 
 [[roms]]
+id = "lineageos"
+cpu = "Cortex-A53 & Cortex-A53"
+ram = "2 / 3 / 4 GB"
+wifi = "802.11 b/g/n"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_mi439","device_xiaomi_sdm439-common","kernel_xiaomi_mi439","vendor_xiaomi_mi439","vendor_xiaomi_sdm439-common"]
 

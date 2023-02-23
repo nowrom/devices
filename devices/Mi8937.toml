@@ -1,6 +1,6 @@
 brand = "Xiaomi"
-codename = "mi8937"
-name = "Xiaomi MSM8917/MSM8937/MSM8940 Devices (Excluding Redmi Go)"
+codename = "Mi8937"
+name = "Redmi 3S / 3X / 4 (India) / 4X / [Note 5A / Y1 - Prime]"
 
 [[recoveries]]
 id = "twrp"
@@ -8,6 +8,12 @@ maintainer = "0xCAFEBABE"
 
 [[roms]]
 id = "cherishos"
+
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A53 & Cortex-A53"
+ram = "2 / 3 / 4 GB"
+wifi = "802.11 b/g/n"
 
 [specs]
 cpu = "Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)"
