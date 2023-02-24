@@ -22,7 +22,6 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Adithya (ghostrider_reborn)"
-changelog = "- Initial android 13 release\r\n- Kernel updated to latest CLO revision\r\n- Fixed fast charging on Chinese variants\r\n- Fixed 48MP in miui camera\r\n- Updated GPU drivers from latest sm8450 release\r\n- Updated telephony stack to android 13\r\n- Updated qcom media/display stack to latest CLO revision\r\n- Switched HWUI renderer back to default (skiagl) to fix green artifacts in videos\r\n- Misc optimizations and fixes."
 
 [[roms]]
 id = "blissroms"

@@ -31386,6 +31386,16 @@
   },
   {
     "brand": "Doro",
+    "name": "Doro 8200",
+    "codename": "DSB0440"
+  },
+  {
+    "brand": "Doro",
+    "name": "Doro 8220",
+    "codename": "DSB0440"
+  },
+  {
+    "brand": "Doro",
     "name": "Doro 824",
     "codename": "825A"
   },
@@ -140213,11 +140223,6 @@
     "brand": "Samsung",
     "name": "W2017",
     "codename": "veyronltectc"
-  },
-  {
-    "brand": "Samsung",
-    "name": "asdf121",
-    "codename": "q4q"
   },
   {
     "brand": "Samsung",

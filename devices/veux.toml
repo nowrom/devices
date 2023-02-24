@@ -25,11 +25,13 @@ repostories = ["device_xiaomi_veux","device_xiaomi_veux-kernel","kernel_xiaomi_s
 
 [[roms.supported_versions]]
 version_code = "thirteen"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-veux-pixelexperience-aosp.4557537/"
 stable = true
 deprecated = false
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-veux-pixelexperience-aosp.4557537/"
 stable = true
 deprecated = false
 

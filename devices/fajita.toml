@@ -46,13 +46,13 @@ repostories = ["device_oneplus_fajita","vendor_oneplus_fajita","device_oneplus_s
 [[roms.supported_versions]]
 version_code = "thirteen"
 stable = true
-xda_thread = "https://forum.xda-developers.com/t/rom-13-fajita-unofficial-pixelexperience-13-aosp-oneplus-6t.4500721/"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-fajita-official-pixelexperience-13-aosp-oneplus-6t.4500721/"
 deprecated = false
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 stable = true
-xda_thread = "https://forum.xda-developers.com/t/rom-13-fajita-unofficial-pixelexperience-13-aosp-oneplus-6t.4500721/"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-fajita-official-pixelexperience-13-aosp-oneplus-6t.4500721/"
 deprecated = false
 
 [[roms]]
