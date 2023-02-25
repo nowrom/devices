@@ -42,7 +42,7 @@ id = "pixelextended"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.1"
+version = "v6.3"
 developer = "magicxavi"
 
 [[roms]]

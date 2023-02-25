@@ -126941,6 +126941,21 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy A14",
+    "codename": "a14"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A14",
+    "codename": "a14m"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A14",
+    "codename": "a14m"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy A14 5G",
     "codename": "a14x"
   },
@@ -127501,6 +127516,31 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy A34 5G",
+    "codename": "a34x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A34 5G",
+    "codename": "a34x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A34 5G",
+    "codename": "a34x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A34 5G",
+    "codename": "a34x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A34 5G",
+    "codename": "a34x"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy A40",
     "codename": "a40"
   },
@@ -127998,6 +128038,46 @@
     "brand": "Samsung",
     "name": "Galaxy A53 5G UW",
     "codename": "a53x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A54 5G",
+    "codename": "a54x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A54 5G",
+    "codename": "a54x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A54 5G",
+    "codename": "a54x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A54 5G",
+    "codename": "a54x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A54 5G",
+    "codename": "a54x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A54 5G",
+    "codename": "a54x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A54 5G",
+    "codename": "a54x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A54 5G",
+    "codename": "a54x"
   },
   {
     "brand": "Samsung",
@@ -152048,6 +152128,11 @@
     "brand": "TCL",
     "name": "TCL TAB 8 4G",
     "codename": "Apollo_8_4G"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL TAB 8 LE",
+    "codename": "Luna_8_4G_TMO"
   },
   {
     "brand": "TCL",
@@ -176526,6 +176611,11 @@
   },
   {
     "brand": "Wiseasy",
+    "name": "Nano 6",
+    "codename": "Nano6"
+  },
+  {
+    "brand": "Wiseasy",
     "name": "Tech-A1",
     "codename": "Tech-A1"
   },
@@ -176533,6 +176623,11 @@
     "brand": "Wiseasy",
     "name": "WISENET5",
     "codename": "WISENET5"
+  },
+  {
+    "brand": "Wiseasy",
+    "name": "Wiseasy P5",
+    "codename": "P5"
   },
   {
     "brand": "Wishtel",
