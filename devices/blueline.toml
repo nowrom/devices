@@ -14,6 +14,12 @@ maintainer = "ReallySnow"
 id = "calyxos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "grapheneos"
 
 [[roms]]

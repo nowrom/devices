@@ -72996,6 +72996,11 @@
   },
   {
     "brand": "Kurio",
+    "name": "KURIO LITE GO NEW",
+    "codename": "U3A_7_WIFI_Refresh_KD"
+  },
+  {
+    "brand": "Kurio",
     "name": "Kurio Smart 2 in 1 PRO",
     "codename": "Aquaman_10_WIFI"
   },
@@ -105990,6 +105995,11 @@
     "codename": "MPC10T"
   },
   {
+    "brand": "ONERugged",
+    "name": "MPC80T",
+    "codename": "MPC80T"
+  },
+  {
     "brand": "ONYX",
     "name": "AKA Model A",
     "codename": "Model_A"
@@ -116311,6 +116321,16 @@
   },
   {
     "brand": "Positivo",
+    "name": "Twist Tab",
+    "codename": "T770G"
+  },
+  {
+    "brand": "Positivo",
+    "name": "Twist Tab",
+    "codename": "T770G"
+  },
+  {
+    "brand": "Positivo",
     "name": "Twist Tab Kids",
     "codename": "T770"
   },
@@ -123368,6 +123388,11 @@
     "brand": "Remdun",
     "name": "RD195T",
     "codename": "RD195T"
+  },
+  {
+    "brand": "Remdun",
+    "name": "RD1XT",
+    "codename": "RD1XT"
   },
   {
     "brand": "Remdun",
@@ -156748,11 +156773,6 @@
     "brand": "TCT (Alcatel)",
     "name": "Juke-A554C",
     "codename": "A554C"
-  },
-  {
-    "brand": "TCT (Alcatel)",
-    "name": "KURIO LITE GO NEW",
-    "codename": "U3A_7_WIFI_Refresh_KD"
   },
   {
     "brand": "TCT (Alcatel)",
