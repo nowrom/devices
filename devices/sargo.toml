@@ -16,6 +16,12 @@ id = "calyxos"
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "grapheneos"
 
 [[roms]]
