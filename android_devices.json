@@ -13071,6 +13071,11 @@
   },
   {
     "brand": "BMobile",
+    "name": "BL70",
+    "codename": "Bmobile_BL70"
+  },
+  {
+    "brand": "BMobile",
     "name": "Bella",
     "codename": "Bella"
   },
@@ -32138,6 +32143,11 @@
     "brand": "EGOTEK",
     "name": "Venus10",
     "codename": "Venus10"
+  },
+  {
+    "brand": "EKEMP",
+    "name": "T80 EEA",
+    "codename": "T80"
   },
   {
     "brand": "EKINOX",
@@ -148825,6 +148835,11 @@
     "codename": "NEO5"
   },
   {
+    "brand": "SparX",
+    "name": "S6",
+    "codename": "S6"
+  },
+  {
     "brand": "Spark",
     "name": "Spark_Plus_3",
     "codename": "Spark_Plus_3"
@@ -171646,6 +171661,16 @@
   },
   {
     "brand": "Vivo",
+    "name": "V27",
+    "codename": "V2231"
+  },
+  {
+    "brand": "Vivo",
+    "name": "V27",
+    "codename": "V2231"
+  },
+  {
+    "brand": "Vivo",
     "name": "V27 Pro",
     "codename": "V2230"
   },
@@ -192558,6 +192583,16 @@
     "brand": "realme",
     "name": "realme  X7 Pro ",
     "codename": "RMX2121CN"
+  },
+  {
+    "brand": "realme",
+    "name": "realmeGT Neo5 150W",
+    "codename": "RE5860"
+  },
+  {
+    "brand": "realme",
+    "name": "realmeGT Neo5 240W",
+    "codename": "RE5860"
   },
   {
     "brand": "realme",
