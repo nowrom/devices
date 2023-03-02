@@ -14,6 +14,11 @@ maintainer = "ReallySnow, baolong24"
 id = "calyxos"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
+recovery = "https://twrp.me/google/googlepixel2.html"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

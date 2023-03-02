@@ -28136,6 +28136,11 @@
   },
   {
     "brand": "Danew",
+    "name": "Konnect_557",
+    "codename": "Konnect_557"
+  },
+  {
+    "brand": "Danew",
     "name": "Konnect_607",
     "codename": "Konnect_607"
   },
@@ -28173,6 +28178,11 @@
     "brand": "Datalogic",
     "name": "Datalogic MEMOR 10",
     "codename": "dl35"
+  },
+  {
+    "brand": "Datalogic",
+    "name": "Joya Touch 22",
+    "codename": "jta11"
   },
   {
     "brand": "Datalogic",
@@ -38703,6 +38713,11 @@
     "brand": "G-Tab",
     "name": "S3",
     "codename": "S3"
+  },
+  {
+    "brand": "G-Tab",
+    "name": "S30_1",
+    "codename": "S30_1"
   },
   {
     "brand": "G-Tab",
@@ -138293,6 +138308,11 @@
     "brand": "Samsung",
     "name": "Galaxy Tab S6 Lite",
     "codename": "gta4xl"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S6 Lite",
+    "codename": "gta4xlve"
   },
   {
     "brand": "Samsung",
