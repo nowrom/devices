@@ -8361,6 +8361,11 @@
   },
   {
     "brand": "Asanzo",
+    "name": "E Series",
+    "codename": "umeda"
+  },
+  {
+    "brand": "Asanzo",
     "name": "EX Series",
     "codename": "SW6H"
   },
@@ -8493,6 +8498,11 @@
     "brand": "Aspera",
     "name": "AS7",
     "codename": "AS7"
+  },
+  {
+    "brand": "Aspera",
+    "name": "AS9",
+    "codename": "AS9"
   },
   {
     "brand": "Aspera",
@@ -11943,6 +11953,11 @@
     "brand": "BGH S.A.",
     "name": "BGH Joy 303",
     "codename": "BGH_Joy_303"
+  },
+  {
+    "brand": "BGH S.A.",
+    "name": "BGH Smart TV",
+    "codename": "sunnyvale"
   },
   {
     "brand": "BGH S.A.",
@@ -67241,6 +67256,11 @@
   },
   {
     "brand": "Iris",
+    "name": "IRIS 2K SmartTV",
+    "codename": "umeda"
+  },
+  {
+    "brand": "Iris",
     "name": "IRIS 4K Android TV",
     "codename": "SW4H_FF"
   },
@@ -73023,6 +73043,11 @@
     "brand": "Kunfabo",
     "name": "F99Pro",
     "codename": "F99Pro"
+  },
+  {
+    "brand": "Kurio",
+    "name": "KURIO LITE GO NEW",
+    "codename": "U3A_7_WIFI_Refresh_KD"
   },
   {
     "brand": "Kurio",
@@ -80793,6 +80818,11 @@
     "brand": "LLOYD",
     "name": "Android TV",
     "codename": "R2"
+  },
+  {
+    "brand": "LLOYD",
+    "name": "LLOYD 2K SMART TV",
+    "codename": "umeda"
   },
   {
     "brand": "LLOYD",
@@ -104260,6 +104290,11 @@
     "codename": "samseong"
   },
   {
+    "brand": "NobleSkiodo",
+    "name": "NS 2K SmartTV",
+    "codename": "sunnyvale"
+  },
+  {
     "brand": "Noblex",
     "name": "A50",
     "codename": "A50UNS"
@@ -105890,6 +105925,11 @@
     "codename": "yeongdeungpo"
   },
   {
+    "brand": "OK (Mediamark)",
+    "name": "ok 2K TV",
+    "codename": "umeda"
+  },
+  {
     "brand": "OKAPI",
     "name": "Okapi Rambo",
     "codename": "Okapi_Rambo"
@@ -107393,6 +107433,16 @@
     "brand": "Oppo",
     "name": "A1603",
     "codename": "A1603"
+  },
+  {
+    "brand": "Oppo",
+    "name": "A17",
+    "codename": "OP56F5"
+  },
+  {
+    "brand": "Oppo",
+    "name": "A17k",
+    "codename": "OP56F5"
   },
   {
     "brand": "Oppo",
@@ -111781,6 +111831,11 @@
   },
   {
     "brand": "PRISMPLUS",
+    "name": "PrismPlus 2KA",
+    "codename": "umeda"
+  },
+  {
+    "brand": "PRISMPLUS",
     "name": "PrismPlus 4K Android TV",
     "codename": "SW4H"
   },
@@ -113913,6 +113968,11 @@
     "brand": "Philco",
     "name": "Android TV",
     "codename": "ikebukuro"
+  },
+  {
+    "brand": "Philco",
+    "name": "Britania Smart TV",
+    "codename": "sunnyvale"
   },
   {
     "brand": "Philco",
@@ -126073,6 +126133,21 @@
     "brand": "SWTV",
     "name": "SWTV-22AE",
     "codename": "SW6H"
+  },
+  {
+    "brand": "SWTV",
+    "name": "SWTV-22AE-FHD",
+    "codename": "umeda"
+  },
+  {
+    "brand": "SWTV",
+    "name": "SWTV-22NA-FHD",
+    "codename": "umeda"
+  },
+  {
+    "brand": "SWTV",
+    "name": "SWTV-22SA-FHD",
+    "codename": "umeda"
   },
   {
     "brand": "SWTV",
@@ -150241,6 +150316,11 @@
   },
   {
     "brand": "Sunmi",
+    "name": "Sunmi V2s",
+    "codename": "V2s"
+  },
+  {
+    "brand": "Sunmi",
     "name": "V2sNC",
     "codename": "V2sNC"
   },
@@ -151918,6 +151998,16 @@
     "brand": "TCL",
     "name": "TCL 40 R 5G",
     "codename": "Levin"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 40 SE",
+    "codename": "Model_3"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 40 SE",
+    "codename": "Model_3"
   },
   {
     "brand": "TCL",
@@ -163531,6 +163621,11 @@
   },
   {
     "brand": "Tesla",
+    "name": "TESLA 2K SMART TV",
+    "codename": "umeda"
+  },
+  {
+    "brand": "Tesla",
     "name": "TESLA 4K SMART TV",
     "codename": "SW6H"
   },
@@ -163703,6 +163798,11 @@
     "brand": "Thomson",
     "name": "R4",
     "codename": "R4"
+  },
+  {
+    "brand": "Thomson",
+    "name": "SPPL 2K GSmartTV",
+    "codename": "umeda"
   },
   {
     "brand": "Thomson",
@@ -179338,6 +179438,11 @@
     "brand": "Yasin",
     "name": "YASIN",
     "codename": "komagome"
+  },
+  {
+    "brand": "Yasin",
+    "name": "YASIN 2K G Smart TV",
+    "codename": "umeda"
   },
   {
     "brand": "Yasin",

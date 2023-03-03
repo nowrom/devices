@@ -1,12 +1,17 @@
 brand = "Meitu"
 codename = "vela"
 name = "MI CC 9 Meitu Edition"
-roms = []
 
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/mi-cc9/development/recovery-unofficial-twrp-xiaomi-mi-9-t4029705"
 maintainer = "Mauronofrio"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 360"
+ram = "8 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
 
 [specs]
 cpu = "Not found"

@@ -28,7 +28,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_munch","device_xiaomi_sm8250-common","kernel_xiaomi_sm8250","vendor_xiaomi_munch","vendor_xiaomi_sm8250-common"]
+repostories = ["device_xiaomi_munch","device_xiaomi_sm8250-common","kernel_xiaomi_sm8250","vendor_xiaomi_munch","vendor_xiaomi_sm8250-common","wiki_blobs_munch"]
 
 [[roms.supported_versions]]
 version_code = "thirteen"
@@ -45,5 +45,5 @@ deprecated = false
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.2"
+version = "v6.3"
 developer = "erwinabs"

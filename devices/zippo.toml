@@ -9,7 +9,7 @@ maintainer = "ThEMarD"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Config-Releases/NikGapps-T/04-Feb-2023/NikGapps-chema-arm64-13-20230204-signed.zip/download"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Config-Releases/NikGapps-T/01-Mar-2023/NikGapps-chematelegram-arm64-13-20230301.zip/download"
 recovery = "https://www.androidfilehost.com/?fid=4279422670115709052"
 
 [[roms]]

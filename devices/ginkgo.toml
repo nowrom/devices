@@ -112,7 +112,7 @@ download = "https://downloads.spark-os.live/?dir=ginkgo/"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.2"
+version = "v6.3"
 developer = "erwinabs"
 
 [[roms]]

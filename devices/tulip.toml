@@ -40,6 +40,20 @@ ram = "3 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
 
 [[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_tulip","device_xiaomi_sdm660-common","kernel_xiaomi_sdm660","vendor_xiaomi_tulip","vendor_xiaomi_sdm660-common"]
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = true
+deprecated = false
+
+[[roms]]
 id = "pixelextended"
 
 [[roms]]
