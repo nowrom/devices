@@ -1,6 +1,6 @@
-brand = "LGE"
-codename = "c90"
-name = "LG Volt S"
+brand = "Oukitel"
+codename = "C90"
+name = "C90_EEA"
 roms = []
 
 [[recoveries]]
