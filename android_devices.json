@@ -123306,6 +123306,16 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi Note 12 Pro + 5G",
+    "codename": "rubypro"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 12 Pro 5G",
+    "codename": "ruby"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi Note 12 Pro Speed",
     "codename": "redwood"
   },
@@ -179318,6 +179328,21 @@
     "brand": "Xiaomi",
     "name": "Xiaomi 12T",
     "codename": "plato"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 12T Pro",
+    "codename": "diting"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 12T Pro",
+    "codename": "diting"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 12T Pro",
+    "codename": "diting"
   },
   {
     "brand": "Xiaomi",
