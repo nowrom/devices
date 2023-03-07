@@ -810,6 +810,11 @@
     "codename": "F11"
   },
   {
+    "brand": "AOSKEY",
+    "name": "P21",
+    "codename": "P21"
+  },
+  {
     "brand": "AOYODKG",
     "name": "A21S",
     "codename": "A21S"
@@ -19170,6 +19175,11 @@
     "codename": "M8047IU"
   },
   {
+    "brand": "Britania",
+    "name": "Britania Smart TV",
+    "codename": "sunnyvale"
+  },
+  {
     "brand": "British Telecom",
     "name": "BT Home SmartPhone III",
     "codename": "BT_Home_SmartPhone_III"
@@ -20976,16 +20986,6 @@
   },
   {
     "brand": "Cat",
-    "name": "BM1S1B",
-    "codename": "BM1S1B"
-  },
-  {
-    "brand": "Cat",
-    "name": "BM1S1B",
-    "codename": "BM1S1B"
-  },
-  {
-    "brand": "Cat",
     "name": "Cat S22 FLIP",
     "codename": "S22FLIP"
   },
@@ -21038,6 +21038,16 @@
     "brand": "Cat",
     "name": "Cat S62 Pro",
     "codename": "S62Pro"
+  },
+  {
+    "brand": "Cat",
+    "name": "Cat S75",
+    "codename": "BM1S1B"
+  },
+  {
+    "brand": "Cat",
+    "name": "Cat S75",
+    "codename": "BM1S1B"
   },
   {
     "brand": "Cat",
@@ -114313,11 +114323,6 @@
     "brand": "Philco",
     "name": "Android TV",
     "codename": "ikebukuro"
-  },
-  {
-    "brand": "Philco",
-    "name": "Britania Smart TV",
-    "codename": "sunnyvale"
   },
   {
     "brand": "Philco",
