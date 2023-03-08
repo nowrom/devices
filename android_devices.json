@@ -83605,6 +83605,11 @@
     "codename": "SEP011037"
   },
   {
+    "brand": "LeiaInc",
+    "name": "Lume Pad",
+    "codename": "LumePad"
+  },
+  {
     "brand": "Lenco",
     "name": "Lenovo Tab K8",
     "codename": "TB-8506N"
@@ -127477,6 +127482,11 @@
   {
     "brand": "Samsung",
     "name": "Galaxy A14",
+    "codename": "a14"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A14",
     "codename": "a14m"
   },
   {
@@ -130256,6 +130266,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy F14 5G",
+    "codename": "m14x"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy F22",
     "codename": "f22"
   },
@@ -132278,6 +132293,11 @@
     "brand": "Samsung",
     "name": "Galaxy M13 5G",
     "codename": "a13x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M14 5G",
+    "codename": "m14x"
   },
   {
     "brand": "Samsung",

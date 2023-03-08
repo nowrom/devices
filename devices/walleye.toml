@@ -22,6 +22,12 @@ recovery = "https://twrp.me/google/googlepixel2.html"
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 280"
 ram = "4 GB"
