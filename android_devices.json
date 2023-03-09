@@ -6285,6 +6285,16 @@
     "codename": "Z4PRO"
   },
   {
+    "brand": "Apolosign",
+    "name": "NW1495T_ROW",
+    "codename": "NW1495T"
+  },
+  {
+    "brand": "Apolosign",
+    "name": "elcnw tablet",
+    "codename": "NW1495T"
+  },
+  {
     "brand": "Aprix",
     "name": "Aprix_Tab64_T2",
     "codename": "Tab64_T2"
@@ -108898,6 +108908,16 @@
     "brand": "Oppo",
     "name": "Find N",
     "codename": "OP4E75L1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "Find N2 Flip",
+    "codename": "OP56CDL1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "Find N2 Flip 中国版",
+    "codename": "OP5605"
   },
   {
     "brand": "Oppo",

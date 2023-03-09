@@ -17,7 +17,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Immanuel_Raj(@iamimmanuelraj)"
-changelog = "Initial Stable Android 13 Build.\r\nSqashed and fixed many bugs like :-\r\n\r\nBroken Mic\r\nBroken Aptx and AptxHD\r\nBattery drain\r\nPhone heating\r\nCTS passed\r\nDevice verified\r\n\r\nRead install instructions :- https://wiki.pixelexperience.org/devices/jasmine_sprout/install/"
+changelog = "Initial A13 New trees test build"
 
 [[roms]]
 id = "blissroms"
