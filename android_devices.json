@@ -6391,6 +6391,11 @@
   },
   {
     "brand": "Arcelik",
+    "name": "Arcelik Google TV",
+    "codename": "wanchai"
+  },
+  {
+    "brand": "Arcelik",
     "name": "B55L 9682 5AS",
     "codename": "arcelik_eu"
   },
@@ -14628,6 +14633,11 @@
     "brand": "Beko",
     "name": "Beko Android TV",
     "codename": "sinchon"
+  },
+  {
+    "brand": "Beko",
+    "name": "Beko Google TV",
+    "codename": "wanchai"
   },
   {
     "brand": "Beko",
@@ -30766,7 +30776,7 @@
   },
   {
     "brand": "Doogee",
-    "name": "S1000",
+    "name": "S100",
     "codename": "M22"
   },
   {
@@ -143986,6 +143996,11 @@
   },
   {
     "brand": "Sigma Mobile",
+    "name": "Tab A802",
+    "codename": "Tab_A802"
+  },
+  {
+    "brand": "Sigma Mobile",
     "name": "Tab_A1010_Neo",
     "codename": "Tab_A1010_Neo"
   },
@@ -192483,6 +192498,11 @@
     "brand": "mytel",
     "name": "Mytel M9601",
     "codename": "Mytel_M9601"
+  },
+  {
+    "brand": "naomicase",
+    "name": "N4MAX",
+    "codename": "N4MAX"
   },
   {
     "brand": "neocore",

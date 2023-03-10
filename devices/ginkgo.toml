@@ -112,14 +112,14 @@ download = "https://downloads.spark-os.live/?dir=ginkgo/"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.3"
-developer = "erwinabs"
+version = "v3.8"
+developer = "TheHitMan"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.8"
-developer = "TheHitMan"
+version = "v6.3"
+developer = "erwinabs"
 
 [specs]
 cpu = "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)"
