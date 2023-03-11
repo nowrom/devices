@@ -70871,6 +70871,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "GHIA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
     "name": "Global",
     "codename": "stanford"
   },
@@ -141440,6 +141445,11 @@
     "codename": "S917V9"
   },
   {
+    "brand": "Senter",
+    "name": "SD917R",
+    "codename": "SD917R_Tablet"
+  },
+  {
     "brand": "Senwa",
     "name": "LS5",
     "codename": "Telcel_LS5"
@@ -142348,6 +142358,11 @@
     "brand": "Sharp",
     "name": "AQUOS V6 5G",
     "codename": "Levin"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS V7 plus",
+    "codename": "Model_3"
   },
   {
     "brand": "Sharp",
@@ -162891,6 +162906,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO POP 7",
+    "codename": "TECNO-BF6"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO POP X5",
     "codename": "TECNO-L6502S"
   },
@@ -163393,6 +163413,11 @@
     "brand": "Tecno Mobile",
     "name": "POVA Neo 2",
     "codename": "TECNO-Mobile-LG6n"
+  },
+  {
+    "brand": "Tecno Mobile",
+    "name": "SPARK Go 2023",
+    "codename": "TECNO-Mobile-BF7n"
   },
   {
     "brand": "Tecnomaster",
@@ -172543,6 +172568,11 @@
     "brand": "Vivo",
     "name": "Y02",
     "codename": "V2217"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y02",
+    "codename": "V2236"
   },
   {
     "brand": "Vivo",
