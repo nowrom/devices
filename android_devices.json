@@ -99071,6 +99071,11 @@
   },
   {
     "brand": "Motorola",
+    "name": "moto S30",
+    "codename": "tundra"
+  },
+  {
+    "brand": "Motorola",
     "name": "moto X30 屏下摄像版",
     "codename": "hiphid"
   },
@@ -99898,6 +99903,16 @@
     "brand": "Motorola",
     "name": "moto g73 5G",
     "codename": "devonf"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g82 5G",
+    "codename": "rhodep"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g82 5G",
+    "codename": "rhodep"
   },
   {
     "brand": "Motorola",
@@ -128998,6 +129013,11 @@
     "brand": "Samsung",
     "name": "Galaxy A53 5G UW",
     "codename": "a53x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A54 5G",
+    "codename": "a54x"
   },
   {
     "brand": "Samsung",

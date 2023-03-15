@@ -15,6 +15,11 @@ changelog = "- sdm845-common: Update blobs to MIUI polaris V12.5.1.0.QDGCNXM\r\n
 [[roms]]
 id = "dotos"
 
+[[roms]]
+id = "pixelextended"
+url = "https://sourceforge.net/projects/pixelextended/files/perseus/PixelExtended-5.5_perseus-13.0-20230313-2027-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-perseus-13-pixel-extended-5-5-unofficial.4541857"
+
 [specs]
 cpu = "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"
 weight = "218 g (7.69 oz)"
