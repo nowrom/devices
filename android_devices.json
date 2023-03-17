@@ -22021,6 +22021,21 @@
   },
   {
     "brand": "Cherry Mobile",
+    "name": "Aqua_Tab_S1_2023",
+    "codename": "Aqua_Tab_S1_2023"
+  },
+  {
+    "brand": "Cherry Mobile",
+    "name": "Aqua_Tab_S2_Pro",
+    "codename": "Aqua_Tab_S2_Pro"
+  },
+  {
+    "brand": "Cherry Mobile",
+    "name": "Aqua_Tab_Ultra",
+    "codename": "Aqua_Tab_Ultra"
+  },
+  {
+    "brand": "Cherry Mobile",
     "name": "Cherry Comet",
     "codename": "Cherry_Comet"
   },
@@ -105566,6 +105581,16 @@
   },
   {
     "brand": "Nokia",
+    "name": "Nokia G22",
+    "codename": "SFI"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia G22",
+    "codename": "SFIA"
+  },
+  {
+    "brand": "Nokia",
     "name": "Nokia G300",
     "codename": "AKT"
   },
@@ -107283,6 +107308,11 @@
     "brand": "OnePlus",
     "name": "OnePlus 10T 5G",
     "codename": "OP5552L1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 11 5G",
+    "codename": "OP594DL1"
   },
   {
     "brand": "OnePlus",
@@ -163186,6 +163216,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "SPARK Go 2023",
+    "codename": "TECNO-BF7n"
+  },
+  {
+    "brand": "Tecno",
     "name": "SPARK Go Plus",
     "codename": "TECNO-BB4k"
   },
@@ -166683,6 +166718,11 @@
     "brand": "Ulefone",
     "name": "Armor 2",
     "codename": "Armor_2"
+  },
+  {
+    "brand": "Ulefone",
+    "name": "Armor 20WT",
+    "codename": "Armor_20WT"
   },
   {
     "brand": "Ulefone",
@@ -173493,6 +173533,11 @@
     "brand": "Vivo",
     "name": "iQOO Z6x",
     "codename": "PD2164U"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Z7",
+    "codename": "PD2270"
   },
   {
     "brand": "Vivo",

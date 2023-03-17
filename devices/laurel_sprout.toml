@@ -48,13 +48,13 @@ developer = "HarukeyUA"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v6.3"
 developer = "magicxavi"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.3"
+version = "v4.9"
 developer = "magicxavi"
 
 [[roms]]
