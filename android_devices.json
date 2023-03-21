@@ -95541,6 +95541,11 @@
   },
   {
     "brand": "Mito",
+    "name": "Smart TV",
+    "codename": "mateo"
+  },
+  {
+    "brand": "Mito",
     "name": "T5091A",
     "codename": "MITO_A16"
   },
@@ -106521,6 +106526,11 @@
   },
   {
     "brand": "OK (Mediamark)",
+    "name": "4K Smart TV",
+    "codename": "pioneer"
+  },
+  {
+    "brand": "OK (Mediamark)",
     "name": "Android TV",
     "codename": "longshan"
   },
@@ -106558,6 +106568,11 @@
     "brand": "OK (Mediamark)",
     "name": "Smart TV",
     "codename": "longshan"
+  },
+  {
+    "brand": "OK (Mediamark)",
+    "name": "Smart TV",
+    "codename": "mateo"
   },
   {
     "brand": "OK (Mediamark)",
@@ -112052,6 +112067,11 @@
   {
     "brand": "PAX (CN)",
     "name": "A6650",
+    "codename": "A6650"
+  },
+  {
+    "brand": "PAX (CN)",
+    "name": "A6650_PLUS",
     "codename": "A6650"
   },
   {
@@ -193706,6 +193726,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme C55",
+    "codename": "REE2ADL1"
+  },
+  {
+    "brand": "realme",
     "name": "realme GT 2\t",
     "codename": "RE58B2L1"
   },
@@ -193833,6 +193858,11 @@
     "brand": "realme",
     "name": "realme V25",
     "codename": "RE547D"
+  },
+  {
+    "brand": "realme",
+    "name": "realme V30",
+    "codename": "RE584B"
   },
   {
     "brand": "realme",
