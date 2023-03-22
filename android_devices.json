@@ -34241,8 +34241,18 @@
   },
   {
     "brand": "Engel",
+    "name": "4K Smart TV",
+    "codename": "pioneer"
+  },
+  {
+    "brand": "Engel",
     "name": "ENGEL",
     "codename": "bangbae"
+  },
+  {
+    "brand": "Engel",
+    "name": "Smart TV",
+    "codename": "mateo"
   },
   {
     "brand": "Engel",
@@ -53686,6 +53696,11 @@
   },
   {
     "brand": "Honor",
+    "name": "HONOR Magic5",
+    "codename": "HNPGT"
+  },
+  {
+    "brand": "Honor",
     "name": "HONOR Magic5 Lite 5G",
     "codename": "HNRMO-Q"
   },
@@ -53693,6 +53708,11 @@
     "brand": "Honor",
     "name": "HONOR Magic5 Lite 5G",
     "codename": "HNRMO-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR Magic5 Pro",
+    "codename": "HNPGT"
   },
   {
     "brand": "Honor",
@@ -91381,6 +91401,11 @@
   },
   {
     "brand": "Marcel",
+    "name": "4K Smart TV",
+    "codename": "pioneer"
+  },
+  {
+    "brand": "Marcel",
     "name": "EU",
     "codename": "tamachi"
   },
@@ -95448,6 +95473,11 @@
     "brand": "Mirage",
     "name": "MI-SO-81T",
     "codename": "MI-SO-81T"
+  },
+  {
+    "brand": "Mito",
+    "name": "4K Smart TV",
+    "codename": "pioneer"
   },
   {
     "brand": "Mito",
@@ -152236,6 +152266,11 @@
   },
   {
     "brand": "Symphony",
+    "name": "innova10",
+    "codename": "innova10"
+  },
+  {
+    "brand": "Symphony",
     "name": "roarV95",
     "codename": "roarV95"
   },
@@ -153278,6 +153313,11 @@
     "brand": "TCL",
     "name": "TCL TAB 10s 4G",
     "codename": "Odin"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL TAB 7 Lite",
+    "codename": "U3A_7_WIFI_Refresh"
   },
   {
     "brand": "TCL",
@@ -160318,6 +160358,16 @@
     "brand": "TIANHOO",
     "name": "EOS Pro",
     "codename": "EOS_Pro"
+  },
+  {
+    "brand": "TIGO",
+    "name": "ONEtv",
+    "codename": "uiw4054mil"
+  },
+  {
+    "brand": "TIGO",
+    "name": "ONEtv",
+    "codename": "uiw4059mil"
   },
   {
     "brand": "TIGO",
@@ -175538,6 +175588,11 @@
     "brand": "Waf",
     "name": "THMTKAW01216_eea",
     "codename": "THMTKAW01216"
+  },
+  {
+    "brand": "Walton",
+    "name": "4K Smart TV",
+    "codename": "pioneer"
   },
   {
     "brand": "Walton",
