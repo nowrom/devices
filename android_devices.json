@@ -28226,6 +28226,11 @@
   },
   {
     "brand": "Daewoo",
+    "name": "4K Smart TV",
+    "codename": "pioneer"
+  },
+  {
+    "brand": "Daewoo",
     "name": "DAEWOO SMART TV",
     "codename": "sunnyvale"
   },
@@ -28243,6 +28248,11 @@
     "brand": "Daewoo",
     "name": "Neon",
     "codename": "Neon"
+  },
+  {
+    "brand": "Daewoo",
+    "name": "Smart TV",
+    "codename": "mateo"
   },
   {
     "brand": "Daewoo",
@@ -43218,6 +43228,16 @@
     "brand": "HKC Elec",
     "name": "4K Smart TV",
     "codename": "gangbyeon"
+  },
+  {
+    "brand": "HKC Elec",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
+  },
+  {
+    "brand": "HKC Elec",
+    "name": "4K Smart TV",
+    "codename": "pioneer"
   },
   {
     "brand": "HKC Elec",
@@ -96306,6 +96326,11 @@
   },
   {
     "brand": "Mobicell",
+    "name": "VX_18",
+    "codename": "VX18"
+  },
+  {
+    "brand": "Mobicell",
     "name": "X1",
     "codename": "X1"
   },
@@ -96323,6 +96348,11 @@
     "brand": "Mobicell",
     "name": "X9",
     "codename": "X9"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "XV19",
+    "codename": "VX19"
   },
   {
     "brand": "Mobicell",
@@ -111841,6 +111871,11 @@
   },
   {
     "brand": "Oukitel",
+    "name": "WP15",
+    "codename": "WP15"
+  },
+  {
+    "brand": "Oukitel",
     "name": "WP15 S",
     "codename": "WP15_S"
   },
@@ -112473,6 +112508,11 @@
     "brand": "POCO",
     "name": "POCO C50",
     "codename": "snow"
+  },
+  {
+    "brand": "POCO",
+    "name": "POCO C55",
+    "codename": "earth"
   },
   {
     "brand": "POCO",
@@ -121687,16 +121727,6 @@
   {
     "brand": "RCA",
     "name": "4K Smart TV",
-    "codename": "gangbyeon"
-  },
-  {
-    "brand": "RCA",
-    "name": "4K Smart TV",
-    "codename": "pioneer"
-  },
-  {
-    "brand": "RCA",
-    "name": "4K Smart TV",
     "codename": "pioneer"
   },
   {
@@ -122188,16 +122218,6 @@
     "brand": "RCA",
     "name": "Smart TV",
     "codename": "mateo"
-  },
-  {
-    "brand": "RCA",
-    "name": "Smart TV",
-    "codename": "mateo"
-  },
-  {
-    "brand": "RCA",
-    "name": "Smart TV",
-    "codename": "osaki"
   },
   {
     "brand": "RCA",
@@ -123306,6 +123326,26 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi 12C",
+    "codename": "aether"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi 12C",
+    "codename": "earth"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi 12C",
+    "codename": "earth"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi 12C",
+    "codename": "earth"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi 6",
     "codename": "cereus"
   },
@@ -123478,6 +123518,16 @@
     "brand": "Redmi",
     "name": "Redmi A1+",
     "codename": "snow"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi A2",
+    "codename": "cloud"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi A2",
+    "codename": "cloud"
   },
   {
     "brand": "Redmi",
@@ -141726,11 +141776,6 @@
   },
   {
     "brand": "Sceptre",
-    "name": "4K Smart TV",
-    "codename": "gangbyeon"
-  },
-  {
-    "brand": "Sceptre",
     "name": "Smart TV",
     "codename": "kanda"
   },
@@ -153331,11 +153376,6 @@
   },
   {
     "brand": "TCL",
-    "name": "TCL TAB 8",
-    "codename": "Luna"
-  },
-  {
-    "brand": "TCL",
     "name": "TCL TAB 8 4G",
     "codename": "Apollo_8_4G"
   },
@@ -153343,6 +153383,11 @@
     "brand": "TCL",
     "name": "TCL TAB 8 LE",
     "codename": "Luna_8_4G_TMO"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL TAB 8 Wi-Fi",
+    "codename": "Luna"
   },
   {
     "brand": "TCL",
@@ -166513,6 +166558,11 @@
     "brand": "ULCOOL",
     "name": "U2",
     "codename": "U2"
+  },
+  {
+    "brand": "UNICO",
+    "name": "Smart TV",
+    "codename": "osaki"
   },
   {
     "brand": "UNILORIN",
@@ -193028,6 +193078,11 @@
     "brand": "ibowin",
     "name": "M10ES11",
     "codename": "M10ES11"
+  },
+  {
+    "brand": "imiia",
+    "name": "4K Smart TV",
+    "codename": "gangbyeon"
   },
   {
     "brand": "imiia",
