@@ -10,12 +10,6 @@ maintainer = "Rohan Hasabe, kaneawk"
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "lineageos"
 cpu = "Kryo 470"
 ram = "4/6 GB"

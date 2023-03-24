@@ -12,12 +12,6 @@ id = "AOSPK"
 xda_thread = ""
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "legionos"
 active = false
 maintainer = "VitorSSSouza"

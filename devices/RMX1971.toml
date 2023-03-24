@@ -17,12 +17,6 @@ id = "blissroms"
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "pixelexperience"
 repostories = ["device_realme_RMX1971","device_realme_sdm710-common","kernel_realme_sdm710","vendor_realme_RMX1971","vendor_realme_sdm710-common"]
 

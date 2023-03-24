@@ -33,12 +33,6 @@ recovery = "https://t.me/PositronKernel/77"
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "legionos"
 active = true
 maintainer = "RajKale"

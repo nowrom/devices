@@ -24,12 +24,6 @@ recovery = "https://dl.twrp.me/dipper/"
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "lineageos"
 cpu = "Kryo 385"
 ram = "6/8 GB LPDDR4X"

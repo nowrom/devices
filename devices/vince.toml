@@ -27,12 +27,6 @@ id = "cherishos"
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_vince","kernel_xiaomi_vince","vendor_xiaomi_vince"]
 

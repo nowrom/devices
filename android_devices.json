@@ -5425,6 +5425,11 @@
     "codename": "OnePlace2"
   },
   {
+    "brand": "Allente",
+    "name": "Sweden Norway",
+    "codename": "SEI700ALLG"
+  },
+  {
     "brand": "Allfine",
     "name": "M721",
     "codename": "86S"
@@ -43248,6 +43253,11 @@
     "brand": "HKC Elec",
     "name": "4K Smart TV",
     "codename": "pioneer"
+  },
+  {
+    "brand": "HKC Elec",
+    "name": "Smart Monitor",
+    "codename": "mateo"
   },
   {
     "brand": "HKC Elec",
@@ -86441,11 +86451,6 @@
   },
   {
     "brand": "Lenovo",
-    "name": "Lenovo Tab M10 5G",
-    "codename": "TB-X607Z"
-  },
-  {
-    "brand": "Lenovo",
     "name": "Lenovo Tab M10 FHD Plus",
     "codename": "X606F"
   },
@@ -86803,6 +86808,11 @@
     "brand": "Lenovo",
     "name": "LenovoTAB2 A7-30DC",
     "codename": "A7-30HC"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "LenovoTB-X607Z_EEA",
+    "codename": "TB-X607Z"
   },
   {
     "brand": "Lenovo",
@@ -185461,6 +185471,26 @@
   },
   {
     "brand": "ZTE",
+    "name": "NX709S",
+    "codename": "NX709S-EEA"
+  },
+  {
+    "brand": "ZTE",
+    "name": "NX709S",
+    "codename": "NX709S-UN"
+  },
+  {
+    "brand": "ZTE",
+    "name": "NX711J",
+    "codename": "PQ82A01"
+  },
+  {
+    "brand": "ZTE",
+    "name": "NX729J",
+    "codename": "NX729J-EEA"
+  },
+  {
+    "brand": "ZTE",
     "name": "NX729J",
     "codename": "NX729J-UN"
   },
@@ -185483,6 +185513,11 @@
     "brand": "ZTE",
     "name": "Nubia 8011",
     "codename": "P963F05"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Nubia 8031",
+    "codename": "P963F06"
   },
   {
     "brand": "ZTE",
@@ -187396,6 +187431,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "Verve Connect",
+    "codename": "Z6201"
+  },
+  {
+    "brand": "ZTE",
     "name": "Vesta",
     "codename": "proline"
   },
@@ -188086,6 +188126,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE 8140N",
+    "codename": "P633F10"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE 9030",
     "codename": "P618F05"
   },
@@ -188243,6 +188288,11 @@
     "brand": "ZTE",
     "name": "ZTE A2121L",
     "codename": "P618A03"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE A2122H",
+    "codename": "P768A02"
   },
   {
     "brand": "ZTE",
@@ -188711,6 +188761,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade A31 Lite",
+    "codename": "P932F21_A"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade A31 Lite RU",
     "codename": "P932F21"
   },
@@ -188738,6 +188793,26 @@
     "brand": "ZTE",
     "name": "ZTE Blade A32",
     "codename": "P963F90W"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A33",
+    "codename": "P932F22"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A33 Core",
+    "codename": "P932F23"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A33+",
+    "codename": "P963F91"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A33+ Core",
+    "codename": "P963F92"
   },
   {
     "brand": "ZTE",
@@ -188846,6 +188921,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade A53",
+    "codename": "P963F62"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade A531",
     "codename": "P932F10"
   },
@@ -188933,6 +189013,11 @@
     "brand": "ZTE",
     "name": "ZTE Blade L210RU",
     "codename": "P731F50"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade L220",
+    "codename": "P731F60"
   },
   {
     "brand": "ZTE",
@@ -192483,6 +192568,11 @@
     "brand": "iLife",
     "name": "MISA",
     "codename": "MISA"
+  },
+  {
+    "brand": "iMACHINE",
+    "name": "MobilePOSTerminal",
+    "codename": "MobilePOSTerminal"
   },
   {
     "brand": "iMin",

@@ -15,12 +15,6 @@ maintainer = "John Paul Patigas"
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "legionos"
 active = true
 maintainer = "Nathaniel Quitua"

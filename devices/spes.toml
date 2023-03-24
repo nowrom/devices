@@ -12,14 +12,8 @@ recovery = ""
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "pixelexperience"
-repostories = ["device_qcom_common","device_qcom_common-sepolicy","device_qcom_qssi","device_qcom_vendor-common","device_qcom_wlan","device_xiaomi_spes","device_xiaomi_spes-kernel","kernel_xiaomi_spes","vendor_qcom_common","vendor_xiaomi_spes"]
+repostories = ["device_qcom_common","device_qcom_common-sepolicy","device_qcom_qssi","device_qcom_vendor-common","device_qcom_wlan","device_xiaomi_spes","device_xiaomi_sm6225-common","device_xiaomi_spes-kernel","kernel_xiaomi_sm6225","vendor_qcom_common","vendor_xiaomi_spes","vendor_xiaomi_sm6225-common"]
 
 [[roms.supported_versions]]
 version_code = "twelve"

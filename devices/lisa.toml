@@ -13,12 +13,6 @@ maintainer = "ALKALiKong"
 changelog = "- Fixed some issues in previous build"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "lineageos"
 cpu = "Kryo 670"
 ram = "6/8 GB"
