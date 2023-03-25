@@ -15956,6 +15956,11 @@
   },
   {
     "brand": "Blackview",
+    "name": "BV5300 Pro",
+    "codename": "BV5300_Pro"
+  },
+  {
+    "brand": "Blackview",
     "name": "BV5500",
     "codename": "BV5500"
   },
@@ -36268,6 +36273,11 @@
     "brand": "FLEX MOBILE",
     "name": "S9",
     "codename": "S9"
+  },
+  {
+    "brand": "FOSSiBOT",
+    "name": "F101",
+    "codename": "F101"
   },
   {
     "brand": "FOXXD",
@@ -102851,11 +102861,6 @@
   },
   {
     "brand": "NEC",
-    "name": "Lenovo Tab M7 3rd Gen",
-    "codename": "LAVIET77SD1"
-  },
-  {
-    "brand": "NEC",
     "name": "LifeTouch B",
     "codename": "LTB013"
   },
@@ -103193,6 +103198,11 @@
     "brand": "NEC",
     "name": "PC-TE510N1B",
     "codename": "LaVieTab"
+  },
+  {
+    "brand": "NEC",
+    "name": "Tab M7 3rd Gen",
+    "codename": "LAVIET77SD1"
   },
   {
     "brand": "NELATECH",
@@ -106346,8 +106356,18 @@
   },
   {
     "brand": "Nuu",
+    "name": "Tab 5",
+    "codename": "N5005LA_F"
+  },
+  {
+    "brand": "Nuu",
     "name": "Tab 8",
     "codename": "T0801LAV1"
+  },
+  {
+    "brand": "Nuu",
+    "name": "Tab 8",
+    "codename": "T0801LAV2"
   },
   {
     "brand": "Nuu",
@@ -106948,6 +106968,16 @@
     "brand": "OSCAL",
     "name": "S60Pro",
     "codename": "S60Pro"
+  },
+  {
+    "brand": "OSCAL",
+    "name": "S70",
+    "codename": "S70"
+  },
+  {
+    "brand": "OSCAL",
+    "name": "S70 Pro",
+    "codename": "S70_Pro"
   },
   {
     "brand": "OSCAL",
@@ -151491,6 +151521,11 @@
   },
   {
     "brand": "SuperLead",
+    "name": "P3S",
+    "codename": "P3S"
+  },
+  {
+    "brand": "SuperLead",
     "name": "P3S_EEA",
     "codename": "P3S"
   },
@@ -161731,6 +161766,11 @@
   },
   {
     "brand": "Teclast",
+    "name": "M40 Pro_EEA",
+    "codename": "M40Pro_T"
+  },
+  {
+    "brand": "Teclast",
     "name": "M40 Pro_ROW",
     "codename": "M40Pro_A_ROW"
   },
@@ -162013,6 +162053,11 @@
     "brand": "Teclast",
     "name": "P40HD_EEA",
     "codename": "P40HD_EEA"
+  },
+  {
+    "brand": "Teclast",
+    "name": "P40HD_EEA",
+    "codename": "P40HD_T"
   },
   {
     "brand": "Teclast",
@@ -162313,6 +162358,11 @@
     "brand": "Teclast",
     "name": "T50_2022_RUS",
     "codename": "T50_2022_RUS"
+  },
+  {
+    "brand": "Teclast",
+    "name": "T50_EEA",
+    "codename": "T50_T"
   },
   {
     "brand": "Teclast",
@@ -164100,6 +164150,11 @@
     "codename": "TECNO-Mobile-BF7n"
   },
   {
+    "brand": "Tecno Mobile",
+    "name": "TECNO SPARK 10",
+    "codename": "TECNO-Mobile-KI5q"
+  },
+  {
     "brand": "Tecnomaster",
     "name": "EDT800",
     "codename": "EDT800"
@@ -164128,6 +164183,11 @@
     "brand": "Tectoy",
     "name": "TECTOY ON 128GB",
     "codename": "TokyoPro"
+  },
+  {
+    "brand": "Tectoy",
+    "name": "TT1000",
+    "codename": "TT1000"
   },
   {
     "brand": "Teeno",
@@ -173706,6 +173766,21 @@
   },
   {
     "brand": "Vivo",
+    "name": "iQOO Z7 5G",
+    "codename": "I2213"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Z7x",
+    "codename": "PD2272"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Z7x (m)",
+    "codename": "PD2272"
+  },
+  {
+    "brand": "Vivo",
     "name": "vivo  1907",
     "codename": "1907"
   },
@@ -181891,11 +181966,6 @@
   },
   {
     "brand": "ZTE",
-    "name": "enterprise",
-    "codename": "enterprise"
-  },
-  {
-    "brand": "ZTE",
     "name": "enterprise_HK",
     "codename": "enterprise_HK"
   },
@@ -181918,11 +181988,6 @@
     "brand": "ZTE",
     "name": "frosty",
     "codename": "frosty"
-  },
-  {
-    "brand": "ZTE",
-    "name": "hct77_ics2",
-    "codename": "hct77_ics2"
   },
   {
     "brand": "ZTE",
@@ -182571,6 +182636,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "Avid Slate",
+    "codename": "K82"
+  },
+  {
+    "brand": "ZTE",
     "name": "Axon 10 Pro 5G",
     "codename": "P855A21"
   },
@@ -182728,6 +182798,11 @@
     "brand": "ZTE",
     "name": "BASE Lutea 2",
     "codename": "skate"
+  },
+  {
+    "brand": "ZTE",
+    "name": "BBC100-1",
+    "codename": "BBC100_1"
   },
   {
     "brand": "ZTE",
@@ -184451,6 +184526,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "K75",
+    "codename": "crane-zte7"
+  },
+  {
+    "brand": "ZTE",
     "name": "K81",
     "codename": "helen"
   },
@@ -185358,6 +185438,16 @@
     "brand": "ZTE",
     "name": "NX606J",
     "codename": "NX606J"
+  },
+  {
+    "brand": "ZTE",
+    "name": "NX607J",
+    "codename": "NX607J"
+  },
+  {
+    "brand": "ZTE",
+    "name": "NX608J",
+    "codename": "NX608J"
   },
   {
     "brand": "ZTE",
@@ -187147,6 +187237,11 @@
   {
     "brand": "ZTE",
     "name": "V865M",
+    "codename": "hct77_ics2"
+  },
+  {
+    "brand": "ZTE",
+    "name": "V865M",
     "codename": "hct77_jb"
   },
   {
@@ -187448,6 +187543,11 @@
     "brand": "ZTE",
     "name": "Vodafone Smart Chat",
     "codename": "turies"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Vodafone Smart X9",
+    "codename": "VFD820"
   },
   {
     "brand": "ZTE",
@@ -188516,6 +188616,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE BLADE A322",
+    "codename": "P809V52"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE BLADE A330",
     "codename": "P809F30"
   },
@@ -189148,6 +189253,11 @@
     "brand": "ZTE",
     "name": "ZTE Tempo X",
     "codename": "grayjoylite"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE U5",
+    "codename": "enterprise"
   },
   {
     "brand": "ZTE",

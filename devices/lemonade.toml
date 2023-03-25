@@ -32,7 +32,7 @@ xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.2"
+version = "v6.4"
 developer = "DennySPb"
 
 [specs]
