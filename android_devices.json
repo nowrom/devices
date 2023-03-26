@@ -181451,11 +181451,6 @@
   },
   {
     "brand": "ZTE",
-    "name": "P117T21",
-    "codename": "P117T21"
-  },
-  {
-    "brand": "ZTE",
     "name": "P188T10",
     "codename": "P188T10"
   },
@@ -189258,6 +189253,11 @@
     "brand": "ZTE",
     "name": "ZTE U5",
     "codename": "enterprise"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE U960E",
+    "codename": "P117T21"
   },
   {
     "brand": "ZTE",
