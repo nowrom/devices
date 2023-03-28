@@ -174161,6 +174161,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "vivo X Flip",
+    "codename": "PD2256"
+  },
+  {
+    "brand": "Vivo",
     "name": "vivo X Fold",
     "codename": "PD2178"
   },
@@ -181451,16 +181456,6 @@
   },
   {
     "brand": "ZTE",
-    "name": "P188T10",
-    "codename": "P188T10"
-  },
-  {
-    "brand": "ZTE",
-    "name": "P188T20",
-    "codename": "P188T20"
-  },
-  {
-    "brand": "ZTE",
     "name": "P253A20",
     "codename": "P253A20"
   },
@@ -181526,36 +181521,11 @@
   },
   {
     "brand": "ZTE",
-    "name": "P810A20",
-    "codename": "P810A20"
-  },
-  {
-    "brand": "ZTE",
-    "name": "P810T01",
-    "codename": "P810T01"
-  },
-  {
-    "brand": "ZTE",
-    "name": "P810T01",
-    "codename": "P810T01"
-  },
-  {
-    "brand": "ZTE",
     "name": "P810T02",
     "codename": "P810T02"
   },
   {
     "brand": "ZTE",
-    "name": "P825T10",
-    "codename": "P825T10"
-  },
-  {
-    "brand": "ZTE",
-    "name": "P825T10",
-    "codename": "P825T10"
-  },
-  {
-    "brand": "ZTE",
     "name": "QB7211",
     "codename": "QB7211"
   },
@@ -181563,11 +181533,6 @@
     "brand": "ZTE",
     "name": "QB7211",
     "codename": "QB7211"
-  },
-  {
-    "brand": "ZTE",
-    "name": "T77",
-    "codename": "T77"
   },
   {
     "brand": "ZTE",
@@ -186441,6 +186406,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "T77",
+    "codename": "T77"
+  },
+  {
+    "brand": "ZTE",
     "name": "T790",
     "codename": "roamer2"
   },
@@ -188561,6 +188531,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE B2017",
+    "codename": "msm8952_64"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE BLADE A0605",
     "codename": "P809F15"
   },
@@ -188838,6 +188813,11 @@
     "brand": "ZTE",
     "name": "ZTE Blade A3 2020",
     "codename": "P932F50"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A3 2020",
+    "codename": "P932K30"
   },
   {
     "brand": "ZTE",
@@ -189231,6 +189211,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE E7LS",
+    "codename": "ZTE_E7LS"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Fanfare 3",
     "codename": "kelly"
   },
@@ -189253,6 +189238,41 @@
     "brand": "ZTE",
     "name": "ZTE U5",
     "codename": "enterprise"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE U791",
+    "codename": "P810T01"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE U791",
+    "codename": "P810T01"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE U808",
+    "codename": "P825T10"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE U808",
+    "codename": "P825T10"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE U819",
+    "codename": "P188T20"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE U887",
+    "codename": "P810A20"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE U956",
+    "codename": "P188T10"
   },
   {
     "brand": "ZTE",

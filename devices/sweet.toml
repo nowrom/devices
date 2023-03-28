@@ -70,11 +70,6 @@ deprecated = false
 id = "pixelextended"
 
 [[roms]]
-id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/sweet/PixelExtended-5.5_sweet-13.0-20230223-0750-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v5-4-android-13-sweet-27-01-23.4523743/"
-
-[[roms]]
 id = "pixyos"
 
 [[roms]]
