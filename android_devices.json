@@ -43441,6 +43441,11 @@
   },
   {
     "brand": "HOT (il)",
+    "name": "HOT ONE",
+    "codename": "VSB3918_ALT_ME"
+  },
+  {
+    "brand": "HOT (il)",
     "name": "HOT Streamer",
     "codename": "DV8555-KIH"
   },
@@ -90150,6 +90155,11 @@
     "codename": "DIW3930-MEO"
   },
   {
+    "brand": "MEO(Portugal)",
+    "name": "MEOBox 4K v2",
+    "codename": "DIW377-MEO"
+  },
+  {
     "brand": "MG Series",
     "name": "Any 302",
     "codename": "TR10CS2_3"
@@ -98001,6 +98011,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "Lenovo K15",
+    "codename": "hawaii"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Lenovo K15",
+    "codename": "hawaii"
+  },
+  {
+    "brand": "Motorola",
     "name": "Lenovo XT2081-4",
     "codename": "guam"
   },
@@ -99308,6 +99328,16 @@
     "brand": "Motorola",
     "name": "moto e30",
     "codename": "cyprus"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto e32",
+    "codename": "hawaii"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto e32",
+    "codename": "hawaii"
   },
   {
     "brand": "Motorola",
@@ -136171,6 +136201,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy S23",
+    "codename": "dm1q"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy S23 Ultra",
     "codename": "dm3q"
   },
@@ -146678,6 +146713,11 @@
     "brand": "Soda",
     "name": "soda",
     "codename": "soda_SW17W16"
+  },
+  {
+    "brand": "SoftBank",
+    "name": "602ZT",
+    "codename": "P809F10"
   },
   {
     "brand": "Solinftec",
@@ -173411,6 +173451,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "Y16",
+    "codename": "V2204"
+  },
+  {
+    "brand": "Vivo",
     "name": "Y17",
     "codename": "1902D"
   },
@@ -174158,11 +174203,6 @@
     "brand": "Vivo",
     "name": "vivo T2",
     "codename": "PD2199"
-  },
-  {
-    "brand": "Vivo",
-    "name": "vivo X Flip",
-    "codename": "PD2256"
   },
   {
     "brand": "Vivo",
@@ -189006,6 +189046,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade A53+",
+    "codename": "P963F62"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade A531",
     "codename": "P932F10"
   },
@@ -189423,6 +189468,11 @@
     "brand": "ZTE",
     "name": "nubia Z5",
     "codename": "NX501"
+  },
+  {
+    "brand": "ZTE",
+    "name": "nubia Z50 Ultra",
+    "codename": "PQ82A11"
   },
   {
     "brand": "ZTE",

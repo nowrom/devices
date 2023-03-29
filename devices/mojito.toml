@@ -22,7 +22,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "sarthakroy2002, blur"
-changelog = "• Enforcing Userdebug Build"
+changelog = "- Based on MIUI 14 FW"
 
 [[roms]]
 id = "cherishos"
