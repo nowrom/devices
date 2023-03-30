@@ -53726,6 +53726,11 @@
   },
   {
     "brand": "Honor",
+    "name": "HONOR 70 Lite",
+    "codename": "HNRBN-Q"
+  },
+  {
+    "brand": "Honor",
     "name": "HONOR Magic4 Lite",
     "codename": "HNANY-Q1"
   },
@@ -112202,6 +112207,11 @@
   {
     "brand": "PAX (CN)",
     "name": "A6650",
+    "codename": "A6650"
+  },
+  {
+    "brand": "PAX (CN)",
+    "name": "A6650_EEA",
     "codename": "A6650"
   },
   {
@@ -181362,6 +181372,11 @@
   {
     "brand": "ZOLON",
     "name": "M9200",
+    "codename": "M9200"
+  },
+  {
+    "brand": "ZOLON",
+    "name": "M9200_ZLEEA",
     "codename": "M9200"
   },
   {
