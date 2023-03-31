@@ -53127,6 +53127,11 @@
   {
     "brand": "Honda",
     "name": "IVI-SYSTEM",
+    "codename": "emu_pub_h_30a_g_car"
+  },
+  {
+    "brand": "Honda",
+    "name": "IVI-SYSTEM",
     "codename": "msmnile_au"
   },
   {
@@ -65253,6 +65258,11 @@
     "brand": "Infinix",
     "name": "Infinix SMART 7",
     "codename": "Infinix-X6515"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix SMART 7 HD",
+    "codename": "Infinix-X6516"
   },
   {
     "brand": "Infinix",
@@ -112216,6 +112226,11 @@
   },
   {
     "brand": "PAX (CN)",
+    "name": "A6650_PEEA",
+    "codename": "A6650"
+  },
+  {
+    "brand": "PAX (CN)",
     "name": "A6650_PLUS",
     "codename": "A6650"
   },
@@ -123961,12 +123976,22 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi Note 12 Pro 5G",
+    "codename": "ruby"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi Note 12 Pro Speed",
     "codename": "redwood"
   },
   {
     "brand": "Redmi",
     "name": "Redmi Note 12 Pro+",
+    "codename": "rubypro"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 12 Pro+ 5G",
     "codename": "rubypro"
   },
   {
@@ -126816,7 +126841,7 @@
   },
   {
     "brand": "STK(Santok)",
-    "name": "STK X3",
+    "name": "STKX3",
     "codename": "X3"
   },
   {
@@ -172021,6 +172046,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "T2x 5G",
+    "codename": "V2225"
+  },
+  {
+    "brand": "Vivo",
     "name": "U5x",
     "codename": "PD2180"
   },
@@ -173646,6 +173676,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "Y78+",
+    "codename": "PD2271"
+  },
+  {
+    "brand": "Vivo",
     "name": "Y79A",
     "codename": "PD1708"
   },
@@ -173823,6 +173858,11 @@
     "brand": "Vivo",
     "name": "iQOO Z7 5G",
     "codename": "I2213"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Z7i",
+    "codename": "PD2230"
   },
   {
     "brand": "Vivo",
@@ -180306,8 +180346,18 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Xiaomi 13",
+    "codename": "fuxi"
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Xiaomi 13 Lite",
     "codename": "ziyi"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 13 Pro",
+    "codename": "nuwa"
   },
   {
     "brand": "Xiaomi",
@@ -193778,6 +193828,11 @@
     "brand": "realme",
     "name": "4K Smart TV",
     "codename": "gangbyeon"
+  },
+  {
+    "brand": "realme",
+    "name": "RMX3612",
+    "codename": "RE588DL1"
   },
   {
     "brand": "realme",
