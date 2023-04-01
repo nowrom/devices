@@ -48446,6 +48446,11 @@
   },
   {
     "brand": "Hammer",
+    "name": "Hammer Blade 4",
+    "codename": "Hammer_Blade_4"
+  },
+  {
+    "brand": "Hammer",
     "name": "Hammer Blade 5G",
     "codename": "Hammer_Blade_5G"
   },
@@ -65088,6 +65093,11 @@
     "brand": "Infinix",
     "name": "Infinix HOT 20",
     "codename": "Infinix-X6826C"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 30 PLAY",
+    "codename": "Infinix-X6835B"
   },
   {
     "brand": "Infinix",
@@ -123951,6 +123961,26 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi Note 12",
+    "codename": "tapas"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 12",
+    "codename": "tapas"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 12",
+    "codename": "tapas"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 12",
+    "codename": "topaz"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi Note 12 5G",
     "codename": "sunstone"
   },
@@ -128178,6 +128208,11 @@
     "brand": "Samsung",
     "name": "Galaxy A13 5G",
     "codename": "a13x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A14",
+    "codename": "a14"
   },
   {
     "brand": "Samsung",
@@ -162678,6 +162713,11 @@
     "brand": "Tecno",
     "name": "CAMON 19 Pro 5G",
     "codename": "TECNO-CI7n"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 20 Pro",
+    "codename": "TECNO-CK7n"
   },
   {
     "brand": "Tecno",

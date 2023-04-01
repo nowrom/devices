@@ -22,7 +22,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "daniml3"
-changelog = "- Misc changes and improvements\r\n- Please check devices source for more information"
+changelog = "- Test build"
 
 [[roms]]
 id = "crdroid"
