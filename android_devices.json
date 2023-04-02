@@ -42201,6 +42201,11 @@
   },
   {
     "brand": "Google",
+    "name": "AMD FP6 Chromebook",
+    "codename": "guybrush_cheets"
+  },
+  {
+    "brand": "Google",
     "name": "AMD Raven Ridge Chromebook",
     "codename": "zork_cheets"
   },
