@@ -11,3 +11,9 @@ photo = " https://fdn2.gsmarena.com/vv/pics/realme/realme-c3-2020-2.jpg"
 id = "arrowos"
 maintainer = "sarthakroy2002"
 changelog = "- Based on Realme UI 1.0 FW (A.77 recommended)"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
