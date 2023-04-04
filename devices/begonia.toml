@@ -20,7 +20,7 @@ id = "blissroms"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://nikgapps.com/"
+gapps = "https://sourceforge.net/projects/wsa-mtg/files/arm64/"
 recovery = ""
 
 [[roms]]

@@ -28705,6 +28705,11 @@
     "codename": "DS_CL2_Pro"
   },
   {
+    "brand": "Dcolor",
+    "name": "GD1 4K",
+    "codename": "YUL"
+  },
+  {
     "brand": "Ddm",
     "name": "ANDY 5EI",
     "codename": "AM5E3I047"
@@ -33268,6 +33273,11 @@
     "brand": "ETG（G）",
     "name": "ETG-BT1121",
     "codename": "ETG-BT1121"
+  },
+  {
+    "brand": "ETOE",
+    "name": "D1221",
+    "codename": "YUL"
   },
   {
     "brand": "EVEREST-EVERPAD",
@@ -65228,6 +65238,11 @@
     "brand": "Infinix",
     "name": "Infinix NOTE 12i",
     "codename": "Infinix-X6819"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix NOTE 30",
+    "codename": "Infinix-X6833B"
   },
   {
     "brand": "Infinix",
@@ -153412,6 +153427,11 @@
   {
     "brand": "TCL",
     "name": "TCL Stylus 5G",
+    "codename": "Challenger_CS"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL Stylus 5G",
     "codename": "Challenger_TMO"
   },
   {
@@ -161173,6 +161193,11 @@
     "brand": "TUPAD",
     "name": "TU7_58212_18222",
     "codename": "TU7_58212"
+  },
+  {
+    "brand": "TV Smart",
+    "name": "TV Smart 4K BOX",
+    "codename": "DV8981-KPV"
   },
   {
     "brand": "TVB",
@@ -192863,6 +192888,11 @@
     "brand": "iMACHINE",
     "name": "MobilePOSTerminal",
     "codename": "MobilePOSTerminal"
+  },
+  {
+    "brand": "iMESH",
+    "name": "IM-560",
+    "codename": "IM-560"
   },
   {
     "brand": "iMin",
