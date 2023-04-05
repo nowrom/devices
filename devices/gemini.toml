@@ -9,7 +9,7 @@ maintainer = "Bruno Martins (bgcngm), Louis Popi (h2o64)"
 
 [[roms]]
 id = "crdroid"
-gapps = "http://downloads.codefi.re/jdcteam/javelinanddart/gapps/MindTheGapps-13.0.0-arm64-20221025_100653.zip"
+gapps = "https://downloads.codefi.re/jdcteam/javelinanddart/gapps/MindTheGapps-13.0.0-arm64-20221025_100653.zip"
 recovery = "https://build-106.keksla.wtf/gemini/crdroid/recovery.img"
 
 [[roms]]

@@ -27,6 +27,12 @@ recovery = ""
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_begonia","device_xiaomi_begonia-kernel","kernel_xiaomi_begonia","vendor_xiaomi-firmware","vendor_xiaomi_begonia"]
 

@@ -18126,6 +18126,11 @@
   },
   {
     "brand": "Blu",
+    "name": "M8L_Plus",
+    "codename": "M0213_SM"
+  },
+  {
+    "brand": "Blu",
     "name": "NEO ENERGY MINI",
     "codename": "BLU_NEO_ENERGY_MINI"
   },
@@ -22943,6 +22948,11 @@
     "brand": "Cipherlab",
     "name": "RS35",
     "codename": "RS35"
+  },
+  {
+    "brand": "Cipherlab",
+    "name": "RS36",
+    "codename": "RS36"
   },
   {
     "brand": "Cipherlab",
@@ -27968,6 +27978,11 @@
     "brand": "DIRECTV",
     "name": "OTT-01",
     "codename": "HP40A"
+  },
+  {
+    "brand": "DIRECTV",
+    "name": "Pendant",
+    "codename": "p21kw500"
   },
   {
     "brand": "DL",
@@ -63591,6 +63606,11 @@
   },
   {
     "brand": "INFINITON",
+    "name": "Infiniton",
+    "codename": "shilin"
+  },
+  {
+    "brand": "INFINITON",
     "name": "\"SPAIN",
     "codename": " MOROCCO"
   },
@@ -65108,6 +65128,11 @@
     "brand": "Infinix",
     "name": "Infinix HOT 20",
     "codename": "Infinix-X6826C"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 30 PLAY",
+    "codename": "Infinix-X6835"
   },
   {
     "brand": "Infinix",
@@ -70878,6 +70903,11 @@
     "brand": "KONKA",
     "name": "N15",
     "codename": "N15"
+  },
+  {
+    "brand": "KONKA",
+    "name": "N17",
+    "codename": "N17"
   },
   {
     "brand": "KONKA",
@@ -117221,6 +117251,16 @@
   },
   {
     "brand": "Positivo",
+    "name": "T2050C",
+    "codename": "T2050C"
+  },
+  {
+    "brand": "Positivo",
+    "name": "T2050C",
+    "codename": "T2050C"
+  },
+  {
+    "brand": "Positivo",
     "name": "T701 TV",
     "codename": "T701"
   },
@@ -117373,6 +117413,11 @@
     "brand": "Positivo",
     "name": "Twist 4G",
     "codename": "S520_4G"
+  },
+  {
+    "brand": "Positivo",
+    "name": "Twist 5 Pro",
+    "codename": "S640"
   },
   {
     "brand": "Positivo",
@@ -173943,6 +173988,11 @@
     "brand": "Vivo",
     "name": "iQOO Z7x (m)",
     "codename": "PD2272"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Z7x 5G",
+    "codename": "I2216"
   },
   {
     "brand": "Vivo",
