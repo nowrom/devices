@@ -33325,6 +33325,11 @@
     "codename": "SEI800MOBI"
   },
   {
+    "brand": "EVOFORCE1",
+    "name": "USA",
+    "codename": "SEI800MOBI"
+  },
+  {
     "brand": "EVVO",
     "name": "Android TV",
     "codename": "R1"
@@ -40263,6 +40268,11 @@
     "brand": "General Motors",
     "name": "Infotainment 3.8",
     "codename": "gminfo37"
+  },
+  {
+    "brand": "General Motors",
+    "name": "VCU",
+    "codename": "aegean"
   },
   {
     "brand": "GeneralMobile",
@@ -190453,6 +190463,11 @@
     "brand": "Zenijust",
     "name": "H20",
     "codename": "H20_EEA"
+  },
+  {
+    "brand": "Zeop",
+    "name": "Zeop N9000",
+    "codename": "B866V2F"
   },
   {
     "brand": "Zephir",
