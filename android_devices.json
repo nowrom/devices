@@ -28836,6 +28836,16 @@
   },
   {
     "brand": "Dell",
+    "name": "Dell Latitude Chromebook Enterprise",
+    "codename": "sarien_cheets"
+  },
+  {
+    "brand": "Dell",
+    "name": "Dell Latitude Chromebook Enterprise",
+    "codename": "sarien_cheets"
+  },
+  {
+    "brand": "Dell",
     "name": "Latitude 7000",
     "codename": "drallion_cheets"
   },
@@ -42251,6 +42261,11 @@
   },
   {
     "brand": "Google",
+    "name": "Chromebase",
+    "codename": "kalista_cheets"
+  },
+  {
+    "brand": "Google",
     "name": "Chromebook 14 (CB3-431)",
     "codename": "edgar_cheets"
   },
@@ -42323,6 +42338,16 @@
     "brand": "Google",
     "name": "Intel Alder Lake Chromebook",
     "codename": "brya_cheets"
+  },
+  {
+    "brand": "Google",
+    "name": "Intel Alder Lake Chromebox",
+    "codename": "brask_cheets"
+  },
+  {
+    "brand": "Google",
+    "name": "Intel Alder Lake-N Chromebook",
+    "codename": "nissa_cheets"
   },
   {
     "brand": "Google",
@@ -42406,8 +42431,18 @@
   },
   {
     "brand": "Google",
+    "name": "Mediatek MT8186 Chromebook",
+    "codename": "corsola_cheets"
+  },
+  {
+    "brand": "Google",
     "name": "Mediatek MT8192 Chromebook",
     "codename": "asurada_cheets"
+  },
+  {
+    "brand": "Google",
+    "name": "Mediatek MT8195 Chromebook",
+    "codename": "cherry_cheets"
   },
   {
     "brand": "Google",
@@ -117206,6 +117241,16 @@
   },
   {
     "brand": "Positivo",
+    "name": "S620",
+    "codename": "S620"
+  },
+  {
+    "brand": "Positivo",
+    "name": "S620",
+    "codename": "S620"
+  },
+  {
+    "brand": "Positivo",
     "name": "SP2",
     "codename": "SP2"
   },
@@ -117423,6 +117468,11 @@
     "brand": "Positivo",
     "name": "Twist 4G",
     "codename": "S520_4G"
+  },
+  {
+    "brand": "Positivo",
+    "name": "Twist 5 Max",
+    "codename": "S650"
   },
   {
     "brand": "Positivo",
@@ -117773,6 +117823,11 @@
     "brand": "Positivo",
     "name": "quattro",
     "codename": "X435"
+  },
+  {
+    "brand": "Positivo BGH",
+    "name": "BGH Series Q10",
+    "codename": "M16QF1XMT8183"
   },
   {
     "brand": "Positivo BGH",
@@ -121641,8 +121696,18 @@
   },
   {
     "brand": "Quantum",
+    "name": "Q-Test",
+    "codename": "S518AR"
+  },
+  {
+    "brand": "Quantum",
     "name": "QSPT-1952",
     "codename": "QF3A"
+  },
+  {
+    "brand": "Quantum",
+    "name": "Qrash",
+    "codename": "S600AR"
   },
   {
     "brand": "Quantum",
@@ -129441,11 +129506,6 @@
   },
   {
     "brand": "Samsung",
-    "name": "Galaxy A54 5G",
-    "codename": "a54x"
-  },
-  {
-    "brand": "Samsung",
     "name": "Galaxy A6",
     "codename": "a6elteaio"
   },
@@ -136317,7 +136377,7 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S23",
-    "codename": "dm1q"
+    "codename": "SC-51D"
   },
   {
     "brand": "Samsung",
@@ -136348,6 +136408,16 @@
     "brand": "Samsung",
     "name": "Galaxy S23",
     "codename": "dm1q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S23",
+    "codename": "dm1q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S23 Ultra",
+    "codename": "SC-52D"
   },
   {
     "brand": "Samsung",
@@ -153596,6 +153666,16 @@
   },
   {
     "brand": "TCL",
+    "name": "TCL TAB 11",
+    "codename": "Eternals11"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL TAB 11 LTE",
+    "codename": "Eternals11"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL TAB 7 Lite",
     "codename": "U3A_7_WIFI_Refresh"
   },
@@ -163698,6 +163778,16 @@
     "brand": "Tecno",
     "name": "TECNO CAMON 19 Neo",
     "codename": "TECNO-CH6IS"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO CAMON 20",
+    "codename": "TECNO-CK6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO CAMON 20 PRO",
+    "codename": "TECNO-CK6n"
   },
   {
     "brand": "Tecno",
