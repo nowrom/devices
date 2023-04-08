@@ -1,7 +1,12 @@
 brand = "Xiaomi"
 codename = "apollon"
-name = "Mi 10T / Mi 10T Pro / Redmi K30S Ultra"
+name = "Xiaomi Mi 10T/Pro"
 recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/apollo/twrp-3.7.0_12-v7.5_A13-apollo-skkk.img/download"
 
 [[roms]]
 id = "lineageos"

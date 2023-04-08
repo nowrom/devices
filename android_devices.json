@@ -16631,6 +16631,11 @@
   },
   {
     "brand": "Blaupunkt",
+    "name": "Android TV",
+    "codename": "redwood"
+  },
+  {
+    "brand": "Blaupunkt",
     "name": "Atlantis_A10_G403",
     "codename": "Atlantis_A10_G403"
   },
@@ -27952,6 +27957,11 @@
   {
     "brand": "DIRECTV",
     "name": "DIRECTV",
+    "codename": "c71kw400-4gb"
+  },
+  {
+    "brand": "DIRECTV",
+    "name": "DIRECTV",
     "codename": "c71kw400-BEAM"
   },
   {
@@ -27968,11 +27978,6 @@
     "brand": "DIRECTV",
     "name": "DIRECTV STREAM",
     "codename": "c71kw400"
-  },
-  {
-    "brand": "DIRECTV",
-    "name": "DIRECTV STREAM",
-    "codename": "c71kw400-4gb"
   },
   {
     "brand": "DIRECTV",
@@ -28158,6 +28163,11 @@
     "brand": "DORA",
     "name": "Android TV",
     "codename": "R2"
+  },
+  {
+    "brand": "DORA",
+    "name": "Smart TV",
+    "codename": "redwood"
   },
   {
     "brand": "DSIC",
@@ -37558,6 +37568,11 @@
     "brand": "Fossil",
     "name": "Fossil Gen 5e",
     "codename": "sole"
+  },
+  {
+    "brand": "Fossil",
+    "name": "Fossil Gen 6",
+    "codename": "hoki"
   },
   {
     "brand": "Fossil",
@@ -62682,6 +62697,11 @@
   {
     "brand": "Hyundai",
     "name": "Android TV",
+    "codename": "redwood"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "BS5002",
     "codename": "redwood"
   },
   {
@@ -117973,6 +117993,11 @@
     "brand": "Premier",
     "name": "Smart TV",
     "codename": "longshan"
+  },
+  {
+    "brand": "Premier",
+    "name": "Smart TV",
+    "codename": "redwood"
   },
   {
     "brand": "Premier",
@@ -181283,6 +181308,11 @@
     "brand": "Yettel",
     "name": "MediaBox",
     "codename": "MediaBox_B866V2"
+  },
+  {
+    "brand": "Yettel",
+    "name": "STB BG",
+    "codename": "STB_BG_B866V2H01"
   },
   {
     "brand": "Yezz",
