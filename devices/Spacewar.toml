@@ -4,6 +4,11 @@ name = "Nothing phone (1)"
 recoveries = []
 
 [[roms]]
+id = "arrowos"
+maintainer = "hiper25"
+changelog = "- Inital build."
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_nothing_Spacewar","vendor_nothing_Spacewar","kernel_nothing_sm7325"]
 
