@@ -1,0 +1,20 @@
+brand = "Samsung"
+codename = "a51"
+name = "Galaxy A51"
+recoveries = []
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_samsung_a51","device_samsung_universal9611-common","kernel_samsung_universal9611","vendor_samsung_a51","vendor_samsung_universal9611-common"]
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-official-pixelexperience-thirteen-for-galaxy-a51-4g.4573443/"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-official-pixelexperience-thirteen-for-galaxy-a51-4g.4573443/"
+stable = true
+deprecated = false
