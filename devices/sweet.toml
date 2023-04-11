@@ -22,7 +22,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "daniml3"
-changelog = "- Test build"
+changelog = "- Updated blobs to MIUI 14 TKFMIXM"
 
 [[roms]]
 id = "crdroid"
