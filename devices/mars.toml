@@ -9,7 +9,7 @@ maintainer = "Nebrassy"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://androidfilehost.com/?fid=14871746926876840643"
+gapps = "https://wiki.lineageos.org/gapps"
 recovery = "https://sourceforge.net/projects/crdroid/files/mars/9.x/recovery/"
 
 [[roms]]

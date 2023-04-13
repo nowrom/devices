@@ -20291,6 +20291,11 @@
   },
   {
     "brand": "CORN",
+    "name": "Note13",
+    "codename": "Note13"
+  },
+  {
+    "brand": "CORN",
     "name": "R10",
     "codename": "R10S"
   },
@@ -40366,6 +40371,16 @@
   },
   {
     "brand": "Geshem",
+    "name": "GS0882T",
+    "codename": "GS0882T"
+  },
+  {
+    "brand": "Geshem",
+    "name": "GS0883T",
+    "codename": "GS0883T"
+  },
+  {
+    "brand": "Geshem",
     "name": "GS1081T",
     "codename": "GS1081T"
   },
@@ -43228,6 +43243,16 @@
     "brand": "HAOVM",
     "name": "T2000",
     "codename": "T2000"
+  },
+  {
+    "brand": "HAOWEI",
+    "name": "HBDC-1122",
+    "codename": "HBDC-1122"
+  },
+  {
+    "brand": "HAOWEI",
+    "name": "HBDC-822",
+    "codename": "HBDC-822"
   },
   {
     "brand": "HBESTORE",
@@ -91623,6 +91648,11 @@
     "brand": "Marcel",
     "name": "EU、UK、AP",
     "codename": "martin"
+  },
+  {
+    "brand": "Marcel",
+    "name": "Smart TV",
+    "codename": "mateo"
   },
   {
     "brand": "Marshall",
@@ -165080,6 +165110,11 @@
     "codename": "M1s"
   },
   {
+    "brand": "Telpo",
+    "name": "M1K",
+    "codename": "M1K"
+  },
+  {
     "brand": "Telus",
     "name": "HMB2213PW22TS",
     "codename": "HMB2213PW22TS"
@@ -170008,6 +170043,11 @@
     "brand": "Veidoo",
     "name": "VEIDOO_T40_EEA",
     "codename": "VEIDOO_T40_EEA"
+  },
+  {
+    "brand": "Veidoo",
+    "name": "VEIDOO_T50",
+    "codename": "VEIDOO_T50"
   },
   {
     "brand": "Veidoo",
@@ -176652,6 +176692,11 @@
   {
     "brand": "Walton",
     "name": "Smart TV",
+    "codename": "mateo"
+  },
+  {
+    "brand": "Walton",
+    "name": "Smart TV",
     "codename": "osaki"
   },
   {
@@ -180708,6 +180753,11 @@
     "brand": "Xiaomi",
     "name": "小米手表",
     "codename": "baiji"
+  },
+  {
+    "brand": "Xinlian",
+    "name": "HC750",
+    "codename": "HC750"
   },
   {
     "brand": "Xmobile",
