@@ -69256,6 +69256,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel S23",
+    "codename": "itel-S665L"
+  },
+  {
+    "brand": "Itel",
     "name": "itel S32LTE",
     "codename": "itel-S32LTE"
   },
@@ -194103,6 +194108,11 @@
     "brand": "onn.",
     "name": "MID8016",
     "codename": "mid8016_mk_32"
+  },
+  {
+    "brand": "onn.",
+    "name": "onn. 4K Streaming Box",
+    "codename": "YOC"
   },
   {
     "brand": "onn.",

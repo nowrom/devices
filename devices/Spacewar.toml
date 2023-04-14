@@ -6,7 +6,7 @@ recoveries = []
 [[roms]]
 id = "arrowos"
 maintainer = "hiper25"
-changelog = "- Inital build."
+changelog = "- April patch.\r\n- Fix mic call noise cancellation.\r\n- Fix Auto Brightness.\r\n- System stability."
 
 [[roms]]
 id = "pixelexperience"

@@ -21,7 +21,7 @@ xda_thread = ""
 
 [[roms]]
 id = "arrowos"
-maintainer = "daniml3"
+maintainer = "TG_DEVICE_MAINTAINER"
 changelog = "- Updated blobs to MIUI 14 TKFMIXM"
 
 [[roms]]
