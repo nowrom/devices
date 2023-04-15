@@ -9266,6 +9266,16 @@
   },
   {
     "brand": "Asus",
+    "name": "ROG Phone 7 (AI2205)",
+    "codename": "ASUS_AI2205"
+  },
+  {
+    "brand": "Asus",
+    "name": "ROG Phone 7 (AI2205)",
+    "codename": "ASUS_AI2205"
+  },
+  {
+    "brand": "Asus",
     "name": "ROG Phone ll",
     "codename": "ASUS_I001_1"
   },
@@ -90382,6 +90392,11 @@
   {
     "brand": "MGS",
     "name": "MGS",
+    "codename": "expo"
+  },
+  {
+    "brand": "MGS",
+    "name": "MGS",
     "codename": "komagome"
   },
   {
@@ -109508,6 +109523,21 @@
     "brand": "Oppo",
     "name": "CPH2365",
     "codename": "OP4F11L1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "CPH2385",
+    "codename": "OP571DL1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "CPH2387",
+    "codename": "OP571F"
+  },
+  {
+    "brand": "Oppo",
+    "name": "CPH2407",
+    "codename": "OP571F"
   },
   {
     "brand": "Oppo",

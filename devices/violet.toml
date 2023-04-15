@@ -16,7 +16,7 @@ photo = "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms
 
 [[roms]]
 id = "arrowos"
-maintainer = "TG_DEVICE_MAINTAINER"
+maintainer = "raghavt20"
 
 [[roms]]
 id = "blissroms"

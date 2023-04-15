@@ -34,6 +34,12 @@ recovery = "https://sourceforge.net/projects/crdroid/files/beryllium/9.x/recover
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 385"
 ram = "6/8 GB LPDDR4X"
