@@ -50,6 +50,16 @@ version_code = "twelve"
 stable = false
 deprecated = true
 
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = true
+deprecated = false
+
 [specs]
 cpu = "Not found"
 weight = "Not found"

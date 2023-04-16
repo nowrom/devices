@@ -22,7 +22,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
-changelog = "- Updated blobs to MIUI 14 TKFMIXM"
+changelog = "- Switched to common trees"
 
 [[roms]]
 id = "crdroid"
