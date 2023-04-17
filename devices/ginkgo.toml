@@ -22,6 +22,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Adithya (ghostrider_reborn)"
+changelog = "ROM: Sync with latest sources."
 
 [[roms]]
 id = "blissroms"
