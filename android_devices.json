@@ -26681,6 +26681,11 @@
   },
   {
     "brand": "Cubot",
+    "name": "P80",
+    "codename": "P80"
+  },
+  {
+    "brand": "Cubot",
     "name": "POCKET 3",
     "codename": "POCKET_3"
   },
@@ -69742,6 +69747,11 @@
   {
     "brand": "JVC",
     "name": "JVC",
+    "codename": "expo"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
     "codename": "kaitak"
   },
   {
@@ -108016,6 +108026,11 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus Nord CE 3 Lite 5G",
+    "codename": "OP5958L1"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus Nord CE 5G",
     "codename": "OnePlusNordCE"
   },
@@ -128778,6 +128793,21 @@
     "brand": "Samsung",
     "name": "Galaxy A23 5G UW",
     "codename": "a23xq"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A24",
+    "codename": "a24"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A24",
+    "codename": "a24"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A24",
+    "codename": "a24"
   },
   {
     "brand": "Samsung",
@@ -169371,6 +169401,11 @@
   },
   {
     "brand": "VIMOQ",
+    "name": "VIMOQ Vision 3",
+    "codename": "VIMOQ-S661LS"
+  },
+  {
+    "brand": "VIMOQ",
     "name": "itel A18",
     "codename": "VIMOQ-A512WS"
   },
@@ -174036,6 +174071,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "Y78",
+    "codename": "PD2278"
+  },
+  {
+    "brand": "Vivo",
     "name": "Y78 5G",
     "codename": "V2244"
   },
@@ -174043,6 +174083,11 @@
     "brand": "Vivo",
     "name": "Y78+",
     "codename": "PD2271"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y78m",
+    "codename": "PD2278"
   },
   {
     "brand": "Vivo",
@@ -174623,6 +174668,11 @@
     "brand": "Vivo",
     "name": "vivo T2",
     "codename": "PD2199"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo X Flip",
+    "codename": "PD2256"
   },
   {
     "brand": "Vivo",
@@ -175908,6 +175958,11 @@
     "brand": "Vu Televisions",
     "name": "Android TV",
     "codename": "longshan"
+  },
+  {
+    "brand": "Vu Televisions",
+    "name": "ULED",
+    "codename": "wuyishan"
   },
   {
     "brand": "Vu Televisions",

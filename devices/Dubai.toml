@@ -4,6 +4,10 @@ name = "D00"
 recoveries = []
 
 [[roms]]
+id = "arrowos"
+maintainer = "Adithya (ghostrider_reborn)"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 670"
 ram = "6/8 GB LPDDR5 (uMPC5)"
