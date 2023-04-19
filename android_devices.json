@@ -90341,7 +90341,7 @@
   },
   {
     "brand": "MEFERI",
-    "name": "ME40K",
+    "name": "ME40M",
     "codename": "ME40K_M"
   },
   {
@@ -108031,6 +108031,11 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus Nord CE 3 Lite 5G",
+    "codename": "OP5958L1"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus Nord CE 5G",
     "codename": "OnePlusNordCE"
   },
@@ -125081,6 +125086,11 @@
   },
   {
     "brand": "Riviera",
+    "name": "Android TV",
+    "codename": "sindorim"
+  },
+  {
+    "brand": "Riviera",
     "name": "HIKA5",
     "codename": "songshan"
   },
@@ -125088,11 +125098,6 @@
     "brand": "Riviera",
     "name": "RLED-AND42CHG6F",
     "codename": "ikebukuro"
-  },
-  {
-    "brand": "Riviera",
-    "name": "RLED-AND50CHG6FP",
-    "codename": "sindorim"
   },
   {
     "brand": "Riviera",
@@ -131333,6 +131338,11 @@
     "brand": "Samsung",
     "name": "Galaxy F52 5G",
     "codename": "f52x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy F54 5G",
+    "codename": "m54x"
   },
   {
     "brand": "Samsung",
@@ -152613,6 +152623,16 @@
     "brand": "Symphony",
     "name": "Z45",
     "codename": "Z45"
+  },
+  {
+    "brand": "Symphony",
+    "name": "Z60",
+    "codename": "Z60"
+  },
+  {
+    "brand": "Symphony",
+    "name": "Z60",
+    "codename": "Z60"
   },
   {
     "brand": "Symphony",
@@ -180848,6 +180868,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi civi2",
     "codename": "ziyi"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi pad 6 Pro",
+    "codename": "liuqin"
   },
   {
     "brand": "Xiaomi",

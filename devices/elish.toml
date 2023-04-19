@@ -1,0 +1,9 @@
+brand = "Xiaomi"
+codename = "elish"
+name = "Xiaomi Pad 5 Pro"
+recoveries = []
+
+[[roms]]
+id = "arrowos"
+maintainer = "TG_DEVICE_MAINTAINER"
+changelog = "- Welcome Xiaomi Pad 5 Pro (elish) to join Arrow-OS"
