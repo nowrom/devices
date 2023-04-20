@@ -4,7 +4,7 @@ name = "Redmi 4X"
 
 [[recoveries]]
 id = "orangefox"
-supported = true
+supported = false
 
 [[roms]]
 id = "ancientos"

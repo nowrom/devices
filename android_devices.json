@@ -42471,7 +42471,7 @@
   },
   {
     "brand": "Google",
-    "name": "Mediatek MT8173 Chromebook",
+    "name": "Mediatek MT8183 Chromebook",
     "codename": "jacuzzi_cheets"
   },
   {
@@ -52826,6 +52826,11 @@
   },
   {
     "brand": "Hisense",
+    "name": "fushan_sa",
+    "codename": "hamamatsucho"
+  },
+  {
+    "brand": "Hisense",
     "name": "huangshan",
     "codename": "huangshan"
   },
@@ -54021,6 +54026,11 @@
   },
   {
     "brand": "Honor",
+    "name": "HONOR X8a 5G",
+    "codename": "HNRBN-Q"
+  },
+  {
+    "brand": "Honor",
     "name": "HONOR X9",
     "codename": "HNANY-Q1"
   },
@@ -54043,6 +54053,11 @@
     "brand": "Honor",
     "name": "HONOR X9a 5G",
     "codename": "HNRMO-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "RBN-NX1",
+    "codename": "HNRBN-Q"
   },
   {
     "brand": "Hoozo",
@@ -108123,6 +108138,16 @@
     "brand": "OnePlus",
     "name": "OnePlus Nord N200 5G",
     "codename": "OnePlusN200TMO"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord N30 5G",
+    "codename": "OP5958L1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord N30 5G",
+    "codename": "OP5958L1"
   },
   {
     "brand": "OnePlus",

@@ -4,7 +4,7 @@ name = "OnePlus 7T Pro"
 
 [[recoveries]]
 id = "orangefox"
-supported = true
+supported = false
 
 [[recoveries]]
 id = "twrp"

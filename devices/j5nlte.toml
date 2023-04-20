@@ -5,7 +5,7 @@ roms = []
 
 [[recoveries]]
 id = "orangefox"
-supported = true
+supported = false
 
 [[recoveries]]
 id = "twrp"

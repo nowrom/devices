@@ -5,7 +5,7 @@ recoveries = []
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/"
+gapps = "https://sourceforge.net/projects/wsa-mtg/files/arm64/"
 recovery = "https://sourceforge.net/projects/crdroid/files/hotdogg/9.x/recovery/"
 
 [specs]

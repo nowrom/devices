@@ -5,5 +5,5 @@ recoveries = []
 
 [[roms]]
 id = "arrowos"
-maintainer = "TG_DEVICE_MAINTAINER"
+maintainer = "EdwardWu"
 changelog = "- Welcome Xiaomi Pad 5 Pro (elish) to join Arrow-OS"
