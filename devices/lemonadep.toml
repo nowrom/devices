@@ -30,8 +30,8 @@ wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotsp
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/lemonadep/PixelExtended-5.6_lemonadep-13.0-20230329-1531-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-13-0-lemonadep-19-02-23.4456631/"
+url = "https://sourceforge.net/projects/pixelextended/files/lemonadep/PixelExtended-5.7_lemonadep-13.0-20230420-0728-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-oos-cam-pixel-extended-rom-android-13-0-lemonadep-29-03-23.4456631/"
 
 [[roms]]
 id = "sakura"

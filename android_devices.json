@@ -3801,11 +3801,6 @@
   },
   {
     "brand": "Aiwa",
-    "name": "AFL0065S",
-    "codename": "sindorim"
-  },
-  {
-    "brand": "Aiwa",
     "name": "AIWA",
     "codename": "stanford"
   },
@@ -3818,11 +3813,6 @@
     "brand": "Aiwa",
     "name": "AIWA 2K TV",
     "codename": "shinagawa"
-  },
-  {
-    "brand": "Aiwa",
-    "name": "AW-LED43GKF",
-    "codename": "ikebukuro"
   },
   {
     "brand": "Aiwa",
@@ -3883,6 +3873,11 @@
     "brand": "Aiwa",
     "name": "Android TV",
     "codename": "samseong"
+  },
+  {
+    "brand": "Aiwa",
+    "name": "Android TV",
+    "codename": "sindorim"
   },
   {
     "brand": "Aiwa",
@@ -21891,6 +21886,16 @@
   },
   {
     "brand": "Changhong",
+    "name": "Android TV",
+    "codename": "ikebukuro"
+  },
+  {
+    "brand": "Changhong",
+    "name": "Android TV",
+    "codename": "sindorim"
+  },
+  {
+    "brand": "Changhong",
     "name": "G7P",
     "codename": "hapjeong"
   },
@@ -21921,11 +21926,6 @@
   },
   {
     "brand": "Changhong",
-    "name": "L42G6F",
-    "codename": "ikebukuro"
-  },
-  {
-    "brand": "Changhong",
     "name": "Smart TV",
     "codename": "longshan"
   },
@@ -21938,11 +21938,6 @@
     "brand": "Changhong",
     "name": "U50H7",
     "codename": "samseong"
-  },
-  {
-    "brand": "Changhong",
-    "name": "U58H7",
-    "codename": "sindorim"
   },
   {
     "brand": "Changhong",
@@ -48081,6 +48076,11 @@
   },
   {
     "brand": "Haier",
+    "name": "Haier MatrixTV AS",
+    "codename": "irvine"
+  },
+  {
+    "brand": "Haier",
     "name": "Haier MatrixTV BE",
     "codename": "jordan"
   },
@@ -62752,12 +62752,22 @@
   {
     "brand": "Hyundai",
     "name": "Android TV",
+    "codename": "ikebukuro"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Android TV",
     "codename": "redwood"
   },
   {
     "brand": "Hyundai",
     "name": "Android TV",
     "codename": "redwood"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Android TV",
+    "codename": "sindorim"
   },
   {
     "brand": "Hyundai",
@@ -63071,18 +63081,8 @@
   },
   {
     "brand": "Hyundai",
-    "name": "HYLED4321AiM",
-    "codename": "ikebukuro"
-  },
-  {
-    "brand": "Hyundai",
     "name": "HYLED5015A4KM",
     "codename": "samseong"
-  },
-  {
-    "brand": "Hyundai",
-    "name": "HYLED5520A4KM",
-    "codename": "sindorim"
   },
   {
     "brand": "Hyundai",
@@ -69676,6 +69676,16 @@
   },
   {
     "brand": "JVC",
+    "name": "Android TV",
+    "codename": "ikebukuro"
+  },
+  {
+    "brand": "JVC",
+    "name": "Android TV",
+    "codename": "sindorim"
+  },
+  {
+    "brand": "JVC",
     "name": "Australia",
     "codename": "martin"
   },
@@ -69861,11 +69871,6 @@
   },
   {
     "brand": "JVC",
-    "name": "LT-40KB308",
-    "codename": "ikebukuro"
-  },
-  {
-    "brand": "JVC",
     "name": "LT-40N5115A",
     "codename": "ikebukuro"
   },
@@ -69878,11 +69883,6 @@
     "brand": "JVC",
     "name": "LT-50N7115A",
     "codename": "samseong"
-  },
-  {
-    "brand": "JVC",
-    "name": "LT-55KB597",
-    "codename": "sindorim"
   },
   {
     "brand": "JVC",
@@ -90820,6 +90820,11 @@
     "codename": "Tab-1"
   },
   {
+    "brand": "MONOMAX",
+    "name": "Max Play",
+    "codename": "DV6071Z-KTM"
+  },
+  {
     "brand": "MOVI",
     "name": "Movi Projector Phone",
     "codename": "Movi"
@@ -105801,6 +105806,21 @@
   },
   {
     "brand": "Nokia",
+    "name": "Nokia C12",
+    "codename": "NVA"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C12 Pro",
+    "codename": "NVA"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C12 Pro",
+    "codename": "NVA"
+  },
+  {
+    "brand": "Nokia",
     "name": "Nokia C2",
     "codename": "NBL"
   },
@@ -107253,6 +107273,11 @@
     "brand": "OSCAL",
     "name": "S80_RU",
     "codename": "S80"
+  },
+  {
+    "brand": "OSN tv",
+    "name": "NGB22-OSN",
+    "codename": "HY45N"
   },
   {
     "brand": "OTHO",
@@ -115211,6 +115236,11 @@
   },
   {
     "brand": "Philco",
+    "name": "Android TV",
+    "codename": "sindorim"
+  },
+  {
+    "brand": "Philco",
     "name": "HIT P10a",
     "codename": "HIT_P10a"
   },
@@ -115293,16 +115323,6 @@
     "brand": "Philco",
     "name": "PTB8R4G",
     "codename": "PTB8R4G"
-  },
-  {
-    "brand": "Philco",
-    "name": "PTV40G71AGBL-VA",
-    "codename": "ikebukuro"
-  },
-  {
-    "brand": "Philco",
-    "name": "PTV55G71AGBLS-4K-VA",
-    "codename": "sindorim"
   },
   {
     "brand": "Philco",
@@ -118121,7 +118141,7 @@
   },
   {
     "brand": "Premier",
-    "name": "32FSV720",
+    "name": "Android TV",
     "codename": "ikebukuro"
   },
   {
@@ -125112,17 +125132,17 @@
   {
     "brand": "Riviera",
     "name": "Android TV",
+    "codename": "ikebukuro"
+  },
+  {
+    "brand": "Riviera",
+    "name": "Android TV",
     "codename": "sindorim"
   },
   {
     "brand": "Riviera",
     "name": "HIKA5",
     "codename": "songshan"
-  },
-  {
-    "brand": "Riviera",
-    "name": "RLED-AND42CHG6F",
-    "codename": "ikebukuro"
   },
   {
     "brand": "Riviera",
@@ -180836,6 +180856,11 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Xiaomi 13 Ultra",
+    "codename": "ishtar"
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Xiaomi 13 pro",
     "codename": "nuwa"
   },
@@ -180893,6 +180918,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi civi2",
     "codename": "ziyi"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi pad 6",
+    "codename": "pipa"
   },
   {
     "brand": "Xiaomi",
@@ -185081,6 +185111,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "K70",
+    "codename": "K70"
+  },
+  {
+    "brand": "ZTE",
     "name": "K75",
     "codename": "crane-zte7"
   },
@@ -186128,6 +186163,11 @@
     "brand": "ZTE",
     "name": "NX711J",
     "codename": "PQ82A01"
+  },
+  {
+    "brand": "ZTE",
+    "name": "NX729J",
+    "codename": "NX729J"
   },
   {
     "brand": "ZTE",
