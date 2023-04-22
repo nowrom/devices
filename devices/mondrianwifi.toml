@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "mondrianwifi"
-name = "Galaxy Tap Pro 8.4"
+name = "Galaxy Tab Pro 8.4"
 
 [[recoveries]]
 id = "twrp"

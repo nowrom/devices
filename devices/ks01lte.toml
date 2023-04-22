@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "ks01lte"
-name = "Galaxy S4"
+name = "Galaxy S4 LTE-A (GT-I9506)"
 
 [[recoveries]]
 id = "orangefox"

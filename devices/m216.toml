@@ -1,6 +1,6 @@
-brand = "LGE"
+brand = "LG"
 codename = "m216"
-name = "LG K10"
+name = "K10"
 
 [[recoveries]]
 id = "twrp"

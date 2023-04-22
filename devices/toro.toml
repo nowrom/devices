@@ -1,6 +1,6 @@
-brand = "Samsung"
+brand = "Google"
 codename = "toro"
-name = "Galaxy Nexus"
+name = "Galaxy Nexus LTE (Verizon)"
 
 [[recoveries]]
 id = "twrp"

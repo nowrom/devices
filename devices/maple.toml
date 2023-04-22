@@ -1,6 +1,6 @@
-brand = "HP"
+brand = "Sony"
 codename = "maple"
-name = "8 G2"
+name = "Sony Xperia XZ Premium"
 
 [[recoveries]]
 id = "twrp"

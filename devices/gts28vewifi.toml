@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "gts28vewifi"
-name = "Galaxy Tab S2 8.0"
+name = "Galaxy Tab S2"
 
 [[recoveries]]
 id = "twrp"

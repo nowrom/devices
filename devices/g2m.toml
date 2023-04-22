@@ -1,6 +1,6 @@
-brand = "LGE"
+brand = "LG"
 codename = "g2m"
-name = "G2 MINI"
+name = "G2 Mini"
 recoveries = []
 
 [[roms]]

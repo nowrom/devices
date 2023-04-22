@@ -1,6 +1,6 @@
 brand = "Motorola"
 codename = "addison"
-name = "Moto Z Play Droid"
+name = "moto z play"
 
 [[recoveries]]
 id = "twrp"

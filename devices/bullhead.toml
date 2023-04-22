@@ -1,6 +1,6 @@
-brand = "LGE"
+brand = "Blackshark"
 codename = "bullhead"
-name = "Nexus 5X"
+name = "Shark 1S"
 
 [[recoveries]]
 id = "twrp"

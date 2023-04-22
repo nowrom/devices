@@ -1,8 +1,0 @@
-brand = "bq"
-codename = "FREEZERLTE"
-name = "Aquaris M10 4G"
-roms = []
-
-[[recoveries]]
-id = "twrp"
-maintainer = "R0rt1z2"

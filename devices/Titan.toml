@@ -1,0 +1,24 @@
+brand = "Unihertz"
+codename = "Titan"
+name = "Titan"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "luca020400"
+
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A7"
+ram = "1 GB"
+wifi = "Wi-Fi 802.11 b/g/n, Hotspot"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

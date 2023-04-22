@@ -1,6 +1,6 @@
 brand = "NVIDIA"
 codename = "shieldtablet"
-name = "SHIELD Tablet"
+name = "Shield Tablet"
 
 [[recoveries]]
 id = "twrp"

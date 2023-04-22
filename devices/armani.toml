@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 codename = "armani"
-name = "HM 1SC"
+name = "Redmi 1S"
 
 [[recoveries]]
 id = "twrp"

@@ -1,0 +1,8 @@
+brand = "LG"
+codename = "p500"
+name = "LG Optimus One"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "None"

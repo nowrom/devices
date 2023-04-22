@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 codename = "ido"
-name = "Redmi 3"
+name = "Redmi 3/Prime"
 
 [[recoveries]]
 id = "orangefox"

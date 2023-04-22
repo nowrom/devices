@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "t0lte"
-name = "Galaxy Note2"
+name = "Galaxy Note 2 (LTE)"
 
 [[recoveries]]
 id = "twrp"

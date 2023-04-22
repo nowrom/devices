@@ -1,6 +1,6 @@
 brand = "ZTE"
 codename = "sweet"
-name = "Z839V"
+name = "Z839"
 
 [[recoveries]]
 id = "orangefox"

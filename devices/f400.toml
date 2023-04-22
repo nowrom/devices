@@ -1,6 +1,6 @@
-brand = "Emtec"
+brand = "LG"
 codename = "f400"
-name = "F400"
+name = "G3 (Korea)"
 
 [[recoveries]]
 id = "twrp"

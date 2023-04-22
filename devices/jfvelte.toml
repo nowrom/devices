@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "jfvelte"
-name = "Galaxy S4"
+name = "Galaxy S4 Value Edition (GT-I9515/L)"
 
 [[recoveries]]
 id = "twrp"

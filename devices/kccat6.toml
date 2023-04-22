@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "kccat6"
-name = "Galaxy S5 LTE-A"
+name = "Galaxy S5 Plus"
 
 [[recoveries]]
 id = "twrp"

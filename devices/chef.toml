@@ -1,6 +1,6 @@
 brand = "Motorola"
 codename = "chef"
-name = "moto P30 NOTE"
+name = "Motorola One Power"
 
 [[recoveries]]
 id = "twrp"

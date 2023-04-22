@@ -1,6 +1,6 @@
 brand = "NVIDIA"
 codename = "roth"
-name = "Shield"
+name = "Shield Portable"
 
 [[recoveries]]
 id = "twrp"

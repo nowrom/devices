@@ -1,6 +1,6 @@
-brand = "ZTE"
+brand = "Redmi"
 codename = "lavender"
-name = "Z717VL"
+name = "Redmi Note 7"
 
 [[recoveries]]
 id = "orangefox"
@@ -86,13 +86,13 @@ deprecated = true
 version_code = "thirteen"
 stable = true
 xda_thread = "https://forum.xda-developers.com/t/rom-12-lavender-official-pixelexperience-aosp.4470689/"
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 stable = true
 xda_thread = "https://forum.xda-developers.com/t/rom-12-lavender-official-pixelexperience-aosp.4470689/"
-deprecated = false
+deprecated = true
 
 [[roms]]
 id = "pixelextended"

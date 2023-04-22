@@ -1,6 +1,6 @@
-brand = "Lenovo"
+brand = "HTC"
 codename = "passion"
-name = "P1"
+name = "HTC Nexus One"
 roms = []
 
 [[recoveries]]

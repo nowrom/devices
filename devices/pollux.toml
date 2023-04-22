@@ -1,6 +1,6 @@
-brand = "Coolpad"
+brand = "Sony"
 codename = "pollux"
-name = "Coolpad POL-A0"
+name = "Xperia Tablet Z LTE"
 
 [[recoveries]]
 id = "twrp"

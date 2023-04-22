@@ -1,6 +1,6 @@
-brand = "Oppo"
+brand = "Handsfree"
 codename = "R5"
-name = "R8106"
+name = "R5"
 
 [[recoveries]]
 id = "twrp"

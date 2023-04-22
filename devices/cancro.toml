@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 codename = "cancro"
-name = "MI 4LTE-CT"
+name = "Mi 3 / Mi 4"
 
 [[recoveries]]
 id = "twrp"
