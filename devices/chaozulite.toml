@@ -1,6 +1,6 @@
-brand = "BQ"
+brand = "bq"
 codename = "chaozulite"
-name = "BQ Aquaris U Lite (chaozulite)"
+name = "Aquaris U lite"
 roms = []
 
 [[recoveries]]

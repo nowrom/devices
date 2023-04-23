@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "d2tmo"
-name = "Galaxy S III (T-Mobile)"
+name = "Galaxy S3"
 
 [[recoveries]]
 id = "twrp"

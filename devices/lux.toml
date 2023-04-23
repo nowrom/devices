@@ -1,6 +1,6 @@
 brand = "Motorola"
 codename = "lux"
-name = "moto x play"
+name = "Moto X Play"
 
 [[recoveries]]
 id = "twrp"

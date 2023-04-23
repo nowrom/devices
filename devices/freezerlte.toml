@@ -1,8 +1,0 @@
-brand = "BQ"
-codename = "freezerlte"
-name = "BQ Aquaris M10 4G"
-roms = []
-
-[[recoveries]]
-id = "twrp"
-maintainer = "R0rt1z2"

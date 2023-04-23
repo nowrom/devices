@@ -1,6 +1,6 @@
 brand = "Motorola"
 codename = "victara"
-name = "moto x (2014)"
+name = "Moto X (2nd Gen)"
 
 [[recoveries]]
 id = "twrp"

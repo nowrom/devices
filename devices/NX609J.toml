@@ -1,0 +1,20 @@
+brand = "ZTE"
+codename = "NX609J"
+name = "NX609J"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/red-magic/development/nx609j-twrp-stock-rominternational-t3964626"
+maintainer = "youyim, Captain_Throwback"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

@@ -1,6 +1,6 @@
-brand = "LG"
+brand = "LGE"
 codename = "geeb"
-name = "LG Optimus G AT&T"
+name = "LG Optimus G"
 roms = []
 
 [[recoveries]]

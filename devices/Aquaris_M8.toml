@@ -1,6 +1,6 @@
-brand = "BQ"
+brand = "bq"
 codename = "Aquaris_M8"
-name = "BQ Aquaris M8"
+name = "M8"
 roms = []
 
 [[recoveries]]

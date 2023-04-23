@@ -1,6 +1,6 @@
 brand = "Motorola"
 codename = "sunfire"
-name = "Motorola Photon 4G"
+name = "Photon 4G"
 roms = []
 
 [[recoveries]]

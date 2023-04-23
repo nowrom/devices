@@ -1,6 +1,6 @@
 brand = "Motorola"
 codename = "harpia"
-name = "moto g4 play"
+name = "Moto G4 Play"
 
 [[recoveries]]
 id = "orangefox"

@@ -1,6 +1,6 @@
-brand = "Sony"
+brand = "Samsung"
 codename = "mint"
-name = "Xperia T"
+name = "Galaxy Star"
 
 [[recoveries]]
 id = "twrp"

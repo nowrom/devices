@@ -1,6 +1,6 @@
-brand = "Redmi"
+brand = "ZTE"
 codename = "lavender"
-name = "Redmi Note 7"
+name = "Z717VL"
 
 [[recoveries]]
 id = "orangefox"

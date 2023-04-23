@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "espressowifi"
-name = "Galaxy Tab 2 7.0 / Tab 2 10.1 (Wi-Fi / Wi-Fi + IR)"
+name = "Galaxy Tab2 7.0"
 
 [[recoveries]]
 id = "twrp"

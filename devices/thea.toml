@@ -1,6 +1,6 @@
 brand = "Motorola"
 codename = "thea"
-name = "moto g LTE (2014)"
+name = "Moto G with 4G LTE (2nd Gen)"
 
 [[recoveries]]
 id = "twrp"

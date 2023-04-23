@@ -1,7 +1,11 @@
 brand = "Samsung"
 codename = "a51"
 name = "Galaxy A51"
-recoveries = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-unofficial-twrp-3-7-0-for-galaxy-a51-4g.4558645/"
+maintainer = "roynatech2544"
 
 [[roms]]
 id = "pixelexperience"

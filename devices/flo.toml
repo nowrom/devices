@@ -1,6 +1,6 @@
-brand = "Google"
+brand = "Asus"
 codename = "flo"
-name = "Nexus 7 (Wi-Fi, 2013 version)"
+name = "Nexus 7 (2013)"
 
 [[recoveries]]
 id = "twrp"

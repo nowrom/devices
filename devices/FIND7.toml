@@ -1,0 +1,24 @@
+brand = "Oppo"
+codename = "FIND7"
+name = "X9077"
+
+[[recoveries]]
+id = "twrp"
+maintainer = "bigbiff"
+
+[[roms]]
+id = "lineageos"
+cpu = "Krait 400"
+ram = "2/3 GB"
+wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

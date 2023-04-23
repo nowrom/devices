@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "gtesqltespr"
-name = "Galaxy Tab E 8.0 LTE (Sprint)"
+name = "Galaxy Tab E 8.0"
 
 [[recoveries]]
 id = "twrp"

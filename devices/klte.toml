@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "klte"
-name = "Galaxy S5"
+name = "Galaxy S5 Dual SIM"
 
 [[recoveries]]
 id = "orangefox"

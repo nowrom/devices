@@ -1,6 +1,6 @@
-brand = "Xiaomi"
+brand = "ZTE"
 codename = "tulip"
-name = "Redmi  Note  6  Pro"
+name = "B2017G"
 
 [[recoveries]]
 id = "orangefox"

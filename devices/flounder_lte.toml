@@ -1,6 +1,6 @@
-brand = "Google"
+brand = "HTC"
 codename = "flounder_lte"
-name = "Nexus 9 (LTE)"
+name = "Nexus 9 LTE"
 recoveries = []
 
 [[roms]]

@@ -1,6 +1,6 @@
-brand = "Google"
+brand = "Asus"
 codename = "deb"
-name = "Nexus 7 (LTE, 2013 version)"
+name = "Nexus 7 (2013)"
 
 [[recoveries]]
 id = "twrp"

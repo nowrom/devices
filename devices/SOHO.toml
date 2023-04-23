@@ -1,0 +1,20 @@
+brand = "Polaroid"
+codename = "SOHO"
+name = "SOHO"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "http://forum.xda-developers.com/kindle-fire-hd/7-development/unlock-kfsowi-bootloader-unlock-t3262770/"
+maintainer = "spudowiar"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"

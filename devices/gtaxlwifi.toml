@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "gtaxlwifi"
-name = "Galaxy Tab A (2016)"
+name = "Galaxy Tab A 10.1"
 
 [[recoveries]]
 id = "twrp"

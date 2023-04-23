@@ -1,6 +1,6 @@
-brand = "Minix"
+brand = "ZTE"
 codename = "p200_2G"
-name = "Minix NEO U1"
+name = "B860AV2"
 roms = []
 
 [[recoveries]]

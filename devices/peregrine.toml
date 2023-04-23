@@ -1,6 +1,6 @@
 brand = "Motorola"
 codename = "peregrine"
-name = "moto g 4G"
+name = "Moto G with 4G LTE (1st Gen)"
 
 [[recoveries]]
 id = "twrp"

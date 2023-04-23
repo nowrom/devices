@@ -1,6 +1,6 @@
 brand = "Nokia"
 codename = "PL2"
-name = "Nokia 6"
+name = "Nokia 6.1"
 
 [[recoveries]]
 id = "twrp"

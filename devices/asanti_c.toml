@@ -1,6 +1,6 @@
 brand = "Motorola"
 codename = "asanti_c"
-name = "Motorola Photon Q"
+name = "Photon"
 roms = []
 
 [[recoveries]]

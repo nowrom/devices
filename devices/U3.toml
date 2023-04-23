@@ -1,0 +1,19 @@
+brand = "TCT (Alcatel)"
+codename = "U3"
+name = "4055U"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Abdess"
+
+[specs]
+cpu = "Not found"
+weight = "Not found"
+year = "Not found"
+os = "Not found"
+chipset = "Not found"
+gpu = "Not found"
+sensors = "Not found"
+batlife = "Not found"
+internalmemory = "Not found"
