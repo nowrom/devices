@@ -43346,6 +43346,11 @@
   },
   {
     "brand": "HEADWOLF",
+    "name": "WPAD2",
+    "codename": "WPAD2"
+  },
+  {
+    "brand": "HEADWOLF",
     "name": "Wpad1",
     "codename": "Wpad1"
   },
@@ -63775,6 +63780,11 @@
     "codename": " MOROCCO"
   },
   {
+    "brand": "INNOCN",
+    "name": "32S1U Pro",
+    "codename": "32S1U_Pro"
+  },
+  {
     "brand": "INOI",
     "name": "A126",
     "codename": "A126"
@@ -65618,6 +65628,11 @@
     "brand": "Infinix",
     "name": "NOTE 30 Pro",
     "codename": "Infinix-X678B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 30 VIP",
+    "codename": "Infinix-X6710"
   },
   {
     "brand": "Infinix",
