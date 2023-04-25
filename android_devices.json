@@ -73940,6 +73940,11 @@
     "codename": "F99Pro"
   },
   {
+    "brand": "Kuori",
+    "name": "KH660",
+    "codename": "Nupiton"
+  },
+  {
     "brand": "Kurio",
     "name": "KURIO LITE GO NEW",
     "codename": "U3A_7_WIFI_Refresh_KD"
@@ -99608,6 +99613,16 @@
     "brand": "Motorola",
     "name": "moto e(7i) power",
     "codename": "maltalsc"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto e13",
+    "codename": "sabahl"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto e13",
+    "codename": "sabahl"
   },
   {
     "brand": "Motorola",
@@ -153851,6 +153866,11 @@
   },
   {
     "brand": "TCL",
+    "name": "TCL NXTPAPER 11",
+    "codename": "Eternals11"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL PLEX",
     "codename": "T1"
   },
@@ -164103,6 +164123,11 @@
     "brand": "Tecno",
     "name": "TECNO CAMON 20",
     "codename": "TECNO-CK6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO CAMON 20",
+    "codename": "TECNO-CK6n"
   },
   {
     "brand": "Tecno",
