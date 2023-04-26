@@ -5725,6 +5725,16 @@
     "codename": "kunyang"
   },
   {
+    "brand": "Altus",
+    "name": "Europe",
+    "codename": "marina"
+  },
+  {
+    "brand": "Altus",
+    "name": "Turkey",
+    "codename": "martin"
+  },
+  {
     "brand": "Americamovil",
     "name": "KIREI A5Q PLUS",
     "codename": "Azumi_KIREI_A5Q_PLUS_AC06"
@@ -7328,6 +7338,11 @@
     "brand": "Archos",
     "name": "ARCHOS T101 4G",
     "codename": "act1014g"
+  },
+  {
+    "brand": "Archos",
+    "name": "ARCHOS T101HD 4G",
+    "codename": "act101hd4g2"
   },
   {
     "brand": "Archos",
@@ -14931,6 +14946,11 @@
   },
   {
     "brand": "BenQ",
+    "name": "QS02",
+    "codename": "YUL"
+  },
+  {
+    "brand": "BenQ",
     "name": "Smart TV",
     "codename": "longshan"
   },
@@ -19651,6 +19671,16 @@
   },
   {
     "brand": "CAIXUN",
+    "name": "EXPRESS",
+    "codename": "marina"
+  },
+  {
+    "brand": "CAIXUN",
+    "name": "Europe",
+    "codename": "martin"
+  },
+  {
+    "brand": "CAIXUN",
     "name": "Europe",
     "codename": "martin"
   },
@@ -21141,6 +21171,11 @@
   },
   {
     "brand": "Casper",
+    "name": "VIA_L40",
+    "codename": "VIA_L40"
+  },
+  {
+    "brand": "Casper",
     "name": "VIA_M4",
     "codename": "VIA_M4"
   },
@@ -21178,6 +21213,11 @@
     "brand": "Casper",
     "name": "VIA_S30_0",
     "codename": "VIA_S30_0"
+  },
+  {
+    "brand": "Casper",
+    "name": "VIA_S40",
+    "codename": "VIA_S40"
   },
   {
     "brand": "Casper",
@@ -26968,6 +27008,11 @@
     "brand": "DEA Factory",
     "name": "KTAB",
     "codename": "KTAB"
+  },
+  {
+    "brand": "DEED",
+    "name": "DC-WT15",
+    "codename": "DC-WT15"
   },
   {
     "brand": "DEPLAY",
@@ -43380,6 +43425,11 @@
     "codename": "C-TABLET"
   },
   {
+    "brand": "HIGRACE",
+    "name": "OC101",
+    "codename": "OC101"
+  },
+  {
     "brand": "HIMADE",
     "name": "HIMADE",
     "codename": "shilin"
@@ -48107,6 +48157,11 @@
   {
     "brand": "Haier",
     "name": "Haier MatrixTV BE",
+    "codename": "jordan"
+  },
+  {
+    "brand": "Haier",
+    "name": "Haier MatrixTV BN",
     "codename": "jordan"
   },
   {
@@ -73941,6 +73996,11 @@
   },
   {
     "brand": "Kuori",
+    "name": "KH3566",
+    "codename": "Kivi"
+  },
+  {
+    "brand": "Kuori",
     "name": "KH660",
     "codename": "Nupiton"
   },
@@ -91756,6 +91816,11 @@
   },
   {
     "brand": "Marcel",
+    "name": "\"Asia",
+    "codename": " EU (Including UK)"
+  },
+  {
+    "brand": "Marcel",
     "name": "EU",
     "codename": "tamachi"
   },
@@ -96138,6 +96203,11 @@
     "brand": "Mobicell",
     "name": "Clik plus",
     "codename": "Clik_plus"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "Cosmo LTE",
+    "codename": "Cosmo_LTE"
   },
   {
     "brand": "Mobicell",
@@ -112986,6 +113056,11 @@
   },
   {
     "brand": "POCO",
+    "name": "POCO C51",
+    "codename": "water"
+  },
+  {
+    "brand": "POCO",
     "name": "POCO C55",
     "codename": "earth"
   },
@@ -124071,6 +124146,11 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi A2+",
+    "codename": "water"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi K20",
     "codename": "davinci"
   },
@@ -124428,6 +124508,11 @@
     "brand": "Redmi",
     "name": "Redmi Note 12 Pro",
     "codename": "ruby"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 12 Pro",
+    "codename": "sweet"
   },
   {
     "brand": "Redmi",
@@ -142373,6 +142458,11 @@
     "brand": "Satewave",
     "name": "HPAD-IP8045",
     "codename": "HPAD-IP8045"
+  },
+  {
+    "brand": "Scanfrost",
+    "name": "Nigeria",
+    "codename": "martin"
   },
   {
     "brand": "Sceptre",
@@ -165366,6 +165456,11 @@
   },
   {
     "brand": "Telpo",
+    "name": "C1",
+    "codename": "C1"
+  },
+  {
+    "brand": "Telpo",
     "name": "M1",
     "codename": "M1s"
   },
@@ -165641,6 +165736,11 @@
   },
   {
     "brand": "Thomson",
+    "name": "Europe",
+    "codename": "martin"
+  },
+  {
+    "brand": "Thomson",
     "name": "Friendly TH101",
     "codename": "Friendly_TH101"
   },
@@ -165743,6 +165843,11 @@
     "brand": "Thomson",
     "name": "TEO8-A2BK32",
     "codename": "TEO8-A2BK32"
+  },
+  {
+    "brand": "Thomson",
+    "name": "TEO84G",
+    "codename": "TEO84G332"
   },
   {
     "brand": "Thomson",
@@ -168673,6 +168778,11 @@
     "brand": "Umidigi",
     "name": "G1 Max RU",
     "codename": "G1_Max"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "G2",
+    "codename": "UMIDIGI_G2"
   },
   {
     "brand": "Umidigi",
@@ -181043,6 +181153,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi Pad 5 Pro 5G",
     "codename": "enuma"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi TV Box S (2nd Gen)",
+    "codename": "jaws"
   },
   {
     "brand": "Xiaomi",
