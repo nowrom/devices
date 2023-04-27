@@ -36266,6 +36266,11 @@
   },
   {
     "brand": "FEONAL",
+    "name": "K104",
+    "codename": "K104"
+  },
+  {
+    "brand": "FEONAL",
     "name": "K118_EEA",
     "codename": "K118_EEA"
   },
@@ -101161,6 +101166,11 @@
   },
   {
     "brand": "Mpgio",
+    "name": "IKP104",
+    "codename": "IKP104"
+  },
+  {
+    "brand": "Mpgio",
     "name": "LEGEND_EZ",
     "codename": "LEGEND_EZ"
   },
@@ -106548,6 +106558,11 @@
     "brand": "Novinsun",
     "name": "TN618",
     "codename": "TN618"
+  },
+  {
+    "brand": "Novinsun",
+    "name": "TN618pro",
+    "codename": "TN618pro"
   },
   {
     "brand": "Now E",
@@ -142306,6 +142321,11 @@
   },
   {
     "brand": "Sansui",
+    "name": "North American",
+    "codename": "marina"
+  },
+  {
+    "brand": "Sansui",
     "name": "SANSUI SmartTV",
     "codename": "sunnyvale"
   },
@@ -142458,6 +142478,11 @@
     "brand": "Satewave",
     "name": "HPAD-IP8045",
     "codename": "HPAD-IP8045"
+  },
+  {
+    "brand": "Scanfrost",
+    "name": "Nigeria",
+    "codename": "marina"
   },
   {
     "brand": "Scanfrost",
@@ -164226,6 +164251,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO CAMON 20 Premier 5G",
+    "codename": "TECNO-CK9n"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO CAMON iACE 2",
     "codename": "TECNO-KB2"
   },
@@ -168783,6 +168813,11 @@
     "brand": "Umidigi",
     "name": "G2",
     "codename": "UMIDIGI_G2"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "G3 Plus",
+    "codename": "G3_Plus"
   },
   {
     "brand": "Umidigi",

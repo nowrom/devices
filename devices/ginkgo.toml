@@ -91,8 +91,8 @@ id = "pixelextended"
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/ginkgo//download"
-xda_thread = "https://forum.xda-developers.com/t/rom-13-0-ginkgo-willow-unified-official-pixel-extended-rom-v5-6-24-04-2023.4570123"
+url = "https://sourceforge.net/projects/pixelextended/files/ginkgo/PixelExtended-5.7_ginkgo-13.0-20230426-0658-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-0-ginkgo-willow-unified-official-pixel-extended-rom-v5-7-26-04-2023.4570123/"
 
 [[roms]]
 id = "pixyos"
@@ -118,14 +118,14 @@ download = "https://downloads.spark-os.live/?dir=ginkgo/"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.3"
-developer = "erwinabs"
+version = "v3.8"
+developer = "TheHitMan"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.8"
-developer = "TheHitMan"
+version = "v6.3"
+developer = "erwinabs"
 
 [specs]
 cpu = "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)"

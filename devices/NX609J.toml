@@ -1,12 +1,17 @@
 brand = "ZTE"
 codename = "NX609J"
 name = "NX609J"
-roms = []
 
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/red-magic/development/nx609j-twrp-stock-rominternational-t3964626"
 maintainer = "youyim, Captain_Throwback"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 280"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
 
 [specs]
 cpu = "Not found"
