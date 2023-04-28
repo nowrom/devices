@@ -53741,6 +53741,11 @@
   },
   {
     "brand": "Honeywell",
+    "name": "EDA10A",
+    "codename": "EDA10A"
+  },
+  {
+    "brand": "Honeywell",
     "name": "EDA40",
     "codename": "EDA40-0"
   },
@@ -69348,6 +69353,11 @@
     "brand": "Itel",
     "name": "itel P40",
     "codename": "itel-P662L"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel P40+",
+    "codename": "itel-P683L"
   },
   {
     "brand": "Itel",
