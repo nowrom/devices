@@ -1781,8 +1781,18 @@
   },
   {
     "brand": "Acer",
+    "name": "ACTAB1024",
+    "codename": "ACTAB1024"
+  },
+  {
+    "brand": "Acer",
     "name": "ACTAB10KB23",
     "codename": "ACTAB10KB23"
+  },
+  {
+    "brand": "Acer",
+    "name": "ACTAB10KB24",
+    "codename": "ACTAB10KB24"
   },
   {
     "brand": "Acer",
@@ -15073,6 +15083,11 @@
     "brand": "Benten",
     "name": "Benten_T20",
     "codename": "Benten_T20"
+  },
+  {
+    "brand": "Benten",
+    "name": "Benten_T30",
+    "codename": "Benten_T30"
   },
   {
     "brand": "Benten",
@@ -43476,6 +43491,11 @@
   },
   {
     "brand": "HKC Elec",
+    "name": "Google TV",
+    "codename": "nagai"
+  },
+  {
+    "brand": "HKC Elec",
     "name": "Smart Monitor",
     "codename": "mateo"
   },
@@ -51513,6 +51533,11 @@
     "brand": "Hisense",
     "name": "Hisense U964",
     "codename": "HLTE106E_02"
+  },
+  {
+    "brand": "Hisense",
+    "name": "Hisense U964",
+    "codename": "HS7731ESP"
   },
   {
     "brand": "Hisense",
@@ -101811,6 +101836,11 @@
   },
   {
     "brand": "Multilaser",
+    "name": "M9_WIFI",
+    "codename": "ML_JI0T_M9_WIFI"
+  },
+  {
+    "brand": "Multilaser",
     "name": "ML-JI-M7_3G_PLUS",
     "codename": "ML-JI-M7_3G_PLUS"
   },
@@ -105168,6 +105198,11 @@
     "brand": "Newland",
     "name": "Newland NLS-N7",
     "codename": "NLS-N7-GL"
+  },
+  {
+    "brand": "Newline",
+    "name": "Q23",
+    "codename": "rk3588_t"
   },
   {
     "brand": "Newsday",
@@ -112983,6 +113018,11 @@
     "brand": "PEAQ",
     "name": "PET-1081-LH332S",
     "codename": "PET-1081-LH332S"
+  },
+  {
+    "brand": "PEAQ",
+    "name": "PET-882-H232S",
+    "codename": "PET-882-H232S"
   },
   {
     "brand": "PEAQ",
@@ -151291,6 +151331,11 @@
   },
   {
     "brand": "Storex",
+    "name": "MDDDI13310",
+    "codename": "MDDDI13310"
+  },
+  {
+    "brand": "Storex",
     "name": "MDDDI13311",
     "codename": "MDDDI13311"
   },
@@ -153836,6 +153881,11 @@
   },
   {
     "brand": "TCL",
+    "name": "TCL 40XL",
+    "codename": "Sonata_Pro_OM"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL A3X",
     "codename": "Delhi_TF"
   },
@@ -154118,6 +154168,11 @@
     "brand": "TCL",
     "name": "TCL TAB 10s 4G",
     "codename": "Odin"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL TAB 10s 5G",
+    "codename": "Odin_5G"
   },
   {
     "brand": "TCL",
@@ -175013,6 +175068,11 @@
     "brand": "Vivo",
     "name": "vivo S16 Pro",
     "codename": "PD2245"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo S17e",
+    "codename": "PD2285"
   },
   {
     "brand": "Vivo",
