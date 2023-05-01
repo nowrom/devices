@@ -1,0 +1,10 @@
+brand = "LG"
+codename = "us996d"
+name = "V20 (GSM Unlocked - DirtySanta)"
+recoveries = []
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo"
+ram = "4 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
