@@ -14,6 +14,24 @@ ram = "8/12 GB"
 wifi = "802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
 
 [[roms]]
+id = "lineageos"
+cpu = "Kryo 680"
+ram = "8/12 GB"
+wifi = "802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 680"
+ram = "8/12 GB"
+wifi = "802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 680"
+ram = "8/12 GB"
+wifi = "802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_haydn","kernel_xiaomi_haydn","vendor_xiaomi_haydn","vendor_xiaomi_haydn-firmware","wiki_blobs_haydn"]
 

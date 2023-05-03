@@ -59,6 +59,12 @@ ram = "3/4/6 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"
 
 [[roms]]
+id = "lineageos"
+cpu = "Kryo 260"
+ram = "3/4/6 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_ginkgo","device_xiaomi_ginkgo-sepolicy","device_xiaomi_ginkgo-kernel","kernel_xiaomi_ginkgo","vendor_xiaomi_ginkgo"]
 

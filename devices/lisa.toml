@@ -10,7 +10,19 @@ photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devi
 [[roms]]
 id = "arrowos"
 maintainer = "ALKALiKong"
-changelog = "- Updated blobs to MIUI V14.0.6.0.TKOCNXM\r\n- Switched to MIUI display stack"
+changelog = "- Updated blobs to MIUI V14.0.6.0.TKOCNXM\r\n- Switched to MIUI display stack\r\n- Improved misc stuffs"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 670"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 670"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
 
 [[roms]]
 id = "lineageos"

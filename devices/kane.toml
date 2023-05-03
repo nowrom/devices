@@ -13,6 +13,12 @@ ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
 
 [[roms]]
+id = "lineageos"
+cpu = "Cortex-A73 & Cortex-A53"
+ram = "4 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_motorola_kane","device_motorola_exynos9610-common","vendor_motorola_kane","vendor_motorola_exynos9610-common","kernel_motorola_exynos9610"]
 

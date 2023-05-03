@@ -1,10 +1,16 @@
 brand = "NVIDIA"
 codename = "quill"
-name = "Jetson (TX2 / TX2 NX) [Android TV]"
+name = "Jetson TX2 NX [Android TV]"
 
 [[recoveries]]
 id = "twrp"
 maintainer = "webgeek1234"
+
+[[roms]]
+id = "lineageos"
+cpu = "Denver 2 & Cortex-A57"
+ram = "4/8 GB"
+wifi = "802.11ac 2x2 Mimo 2.4 GHz and 5 GHz"
 
 [[roms]]
 id = "lineageos"

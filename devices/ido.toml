@@ -16,6 +16,12 @@ cpu = "Cortex-A53 & Cortex-A53"
 ram = "2/3 GB"
 wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
 
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A53 & Cortex-A53"
+ram = "2/3 GB"
+wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
+
 [specs]
 cpu = "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A72)"
 weight = "164 g (5.78 oz)"

@@ -14,6 +14,18 @@ cpu = "Kryo 585"
 ram = "6/8 GB"
 wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
 
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 585"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 585"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
 [specs]
 cpu = "Not found"
 weight = "Not found"

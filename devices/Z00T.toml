@@ -1,10 +1,16 @@
 brand = "ASUS"
 codename = "Z00T"
-name = "Zenfone 2 Laser / Selfie (1080p)"
+name = "Zenfone 2 Selfie (1080p)"
 
 [[recoveries]]
 id = "twrp"
 maintainer = "LuK1337"
+
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A53"
+ram = "2/3 GB"
+wifi = "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
 
 [[roms]]
 id = "lineageos"

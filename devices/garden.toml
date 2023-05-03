@@ -4,7 +4,7 @@ name = "Redmi 9C / 9C NFC / 9A / 9 India / POCO C3 (garden)"
 
 [[recoveries]]
 id = "orangefox"
-supported = true
+supported = false
 
 [[roms]]
 id = "ancientos"

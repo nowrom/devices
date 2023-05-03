@@ -13,6 +13,12 @@ cpu = "Cortex-A53"
 ram = "2 GB (R5), 3 GB (R5s)"
 wifi = "802.11 a/b/g/n, Dual-band"
 
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A53"
+ram = "2 GB (R5), 3 GB (R5s)"
+wifi = "802.11 a/b/g/n, Dual-band"
+
 [specs]
 cpu = "Octa-core (4x1.7 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)"
 weight = "155 g (5.47 oz)"

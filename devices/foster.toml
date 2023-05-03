@@ -13,6 +13,12 @@ cpu = "Cortex-A57"
 ram = "3 GB"
 wifi = "802.11ac 2x2 Mimo 2.4 GHz and 5 GHz"
 
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A57"
+ram = "3 GB"
+wifi = "802.11ac 2x2 Mimo 2.4 GHz and 5 GHz"
+
 [specs]
 cpu = "Not found"
 weight = "Not found"

@@ -1,0 +1,9 @@
+brand = "Samsung"
+codename = "a505f"
+name = "Samsung Galaxy A505F"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-unofficial-twrp-3-7-0_11-for-galaxy-a50.4581017/"
+maintainer = "GiovanYCringe"

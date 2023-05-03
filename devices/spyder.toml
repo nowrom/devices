@@ -1,7 +1,13 @@
 brand = "Motorola"
 codename = "spyder"
-name = "DROID RAZR/RAZR MAXX (CDMA)"
+name = "DROID RAZR (CDMA)"
 recoveries = []
+
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A9"
+ram = "1 GB"
+wifi = "Wi-Fi 802.11 b/g/n"
 
 [[roms]]
 id = "lineageos"

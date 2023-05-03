@@ -47,6 +47,36 @@ ram = "4/6/8 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
 
 [[roms]]
+id = "lineageos"
+cpu = "Kryo 465"
+ram = "4/6 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 465"
+ram = "4/6 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 465"
+ram = "4/6 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 465"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 465"
+ram = "4/6 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_miatoll","device_xiaomi_sm6250-common","kernel_xiaomi_sm6250","vendor_xiaomi_miatoll","vendor_xiaomi_miatoll-fw","vendor_xiaomi_miatoll-gcam","vendor_xiaomi_sm6250-common"]
 

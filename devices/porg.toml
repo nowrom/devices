@@ -1,12 +1,18 @@
 brand = "NVIDIA"
 codename = "porg"
-name = "Jetson (Nano / Nano 2GB) [Android TV]"
+name = "Jetson Nano [Android TV]"
 recoveries = []
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A57"
-ram = "2/4 GB"
+ram = "4 GB"
+wifi = "None"
+
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A57"
+ram = "2 GB"
 wifi = "None"
 
 [specs]
