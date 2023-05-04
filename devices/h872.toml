@@ -1,6 +1,6 @@
 brand = "LG"
 codename = "h872"
-name = "G6 (H872)"
+name = "G6 (T-Mobile)"
 
 [[recoveries]]
 id = "orangefox"
@@ -8,6 +8,12 @@ supported = false
 
 [[roms]]
 id = "blissroms"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo"
+ram = "4 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
 
 [specs]
 cpu = "Not found"

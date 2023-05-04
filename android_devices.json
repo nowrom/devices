@@ -67441,6 +67441,11 @@
   },
   {
     "brand": "Invens",
+    "name": "Spain",
+    "codename": "nagata"
+  },
+  {
+    "brand": "Invens",
     "name": "UNO",
     "codename": "UNO"
   },
@@ -105978,6 +105983,16 @@
     "brand": "Nokia",
     "name": "Nokia C01 Plus",
     "codename": "IRS"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C02",
+    "codename": "CYR"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C02",
+    "codename": "CYR"
   },
   {
     "brand": "Nokia",
@@ -147043,6 +147058,11 @@
     "brand": "Smart-Tech TV",
     "name": "EU、UK、AP",
     "codename": "martin"
+  },
+  {
+    "brand": "Smart-Tech TV",
+    "name": "Europe",
+    "codename": "nagata"
   },
   {
     "brand": "Smart-Tech TV",
