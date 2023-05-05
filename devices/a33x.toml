@@ -1,0 +1,9 @@
+brand = "Samsung"
+codename = "a33x"
+name = "Galaxy A33 5G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-a33x-teamwin-recovery-project-3-for-galaxy-a33-5g-exynos.4536771/"
+maintainer = "Gabriel2392"

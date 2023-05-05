@@ -17806,6 +17806,11 @@
   },
   {
     "brand": "Blu",
+    "name": "G73",
+    "codename": "G0771"
+  },
+  {
+    "brand": "Blu",
     "name": "G8",
     "codename": "G0160LL"
   },
@@ -18943,6 +18948,11 @@
     "brand": "Bluebird",
     "name": "EF550R",
     "codename": "EF550R"
+  },
+  {
+    "brand": "Bluebird",
+    "name": "EF551",
+    "codename": "EF551"
   },
   {
     "brand": "Bluebird",
@@ -63875,6 +63885,11 @@
     "codename": "32S1U_Pro"
   },
   {
+    "brand": "INNOCN",
+    "name": "S1",
+    "codename": "YUL"
+  },
+  {
     "brand": "INOI",
     "name": "A126",
     "codename": "A126"
@@ -82275,6 +82290,11 @@
     "codename": "Lt6248"
   },
   {
+    "brand": "Lango Tech",
+    "name": "LANGO OPS8195",
+    "codename": "OPS-8195A"
+  },
+  {
     "brand": "Lanix",
     "name": "Alpha 1R",
     "codename": "Alpha_1R"
@@ -88688,6 +88708,11 @@
     "brand": "LinkNet",
     "name": "X1 Prime",
     "codename": "DCN88_72604_LN"
+  },
+  {
+    "brand": "LinkNet",
+    "name": "X1-Prime-R2",
+    "codename": "DTC2160"
   },
   {
     "brand": "LinkNet",
@@ -100316,6 +100341,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "moto g13",
+    "codename": "penangf"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g13",
+    "codename": "penangf"
+  },
+  {
+    "brand": "Motorola",
     "name": "moto g200 5G",
     "codename": "xpeng"
   },
@@ -100333,6 +100368,11 @@
     "brand": "Motorola",
     "name": "moto g22",
     "codename": "hawaiip"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g23",
+    "codename": "penangf"
   },
   {
     "brand": "Motorola",
@@ -100658,6 +100698,16 @@
     "brand": "Motorola",
     "name": "motorola edge 30 ultra",
     "codename": "eqs"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola edge 40 pro",
+    "codename": "rtwo"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola edge 40 pro",
+    "codename": "rtwo"
   },
   {
     "brand": "Motorola",
@@ -116913,6 +116963,11 @@
     "brand": "Point of view",
     "name": "TAB_TS101S_LTE",
     "codename": "TAB_TS101S_LTE"
+  },
+  {
+    "brand": "PointMobile",
+    "name": "PM86",
+    "codename": "PM86"
   },
   {
     "brand": "Pokini",
@@ -153901,6 +153956,11 @@
   },
   {
     "brand": "TCL",
+    "name": "TCL 40 XE 5G",
+    "codename": "Encore_CAN"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL 40XL",
     "codename": "Sonata_Pro_OM"
   },
@@ -153933,6 +153993,11 @@
     "brand": "TCL",
     "name": "TCL C9 Plus",
     "codename": "Venice"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL ION V",
+    "codename": "Bora_NA_OM"
   },
   {
     "brand": "TCL",
@@ -163918,6 +163983,11 @@
     "brand": "Tecno",
     "name": "POVA 4",
     "codename": "TECNO-LG7n"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POVA 5",
+    "codename": "TECNO-LH7n"
   },
   {
     "brand": "Tecno",
@@ -174416,6 +174486,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "Y35+",
+    "codename": "PD2279"
+  },
+  {
+    "brand": "Vivo",
     "name": "Y35A",
     "codename": "PD1502A"
   },
@@ -174423,6 +174498,11 @@
     "brand": "Vivo",
     "name": "Y35m",
     "codename": "PD2230"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y35m+",
+    "codename": "PD2279"
   },
   {
     "brand": "Vivo",
