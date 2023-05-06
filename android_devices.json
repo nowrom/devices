@@ -82125,6 +82125,11 @@
     "codename": "SPURT_K600"
   },
   {
+    "brand": "LTC(LR)",
+    "name": "LTC1066",
+    "codename": "LTC1066"
+  },
+  {
     "brand": "LUCOMS",
     "name": "Android TV",
     "codename": "R1"
@@ -144861,6 +144866,11 @@
   },
   {
     "brand": "Sharp",
+    "name": "R4-SH",
+    "codename": "R4"
+  },
+  {
+    "brand": "Sharp",
     "name": "ROUVO V",
     "codename": "STTM21VAPP"
   },
@@ -153993,11 +154003,6 @@
     "brand": "TCL",
     "name": "TCL C9 Plus",
     "codename": "Venice"
-  },
-  {
-    "brand": "TCL",
-    "name": "TCL ION V",
-    "codename": "Bora_NA_OM"
   },
   {
     "brand": "TCL",
@@ -164338,6 +164343,11 @@
     "brand": "Tecno",
     "name": "TECNO",
     "codename": "TECNO-BF7n"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO",
+    "codename": "TECNO-BF7s"
   },
   {
     "brand": "Tecno",
@@ -194828,6 +194838,11 @@
     "brand": "realme",
     "name": "4K Smart TV",
     "codename": "gangbyeon"
+  },
+  {
+    "brand": "realme",
+    "name": "RMX3268",
+    "codename": "RED8D7"
   },
   {
     "brand": "realme",

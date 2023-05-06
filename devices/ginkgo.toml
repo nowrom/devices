@@ -22,7 +22,6 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Adithya (ghostrider_reborn)"
-changelog = "- Use pie chromatix libs for better camera quality\r\n- Updated adreno drivers to V@0530.47\r\n- Fixed artifacts when switching tabs in Google Chrome\r\n- Improved cpusets and cpufreq governor ratelimits\r\n- Disable radio redir_party_num feature\r\n- Updated kernel to latest CLO revision (13400-SMxxx0)"
 
 [[roms]]
 id = "blissroms"
