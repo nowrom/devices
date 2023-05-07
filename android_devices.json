@@ -100001,6 +100001,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "moto g power 5G - 2023",
+    "codename": "devonn"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g power 5G - 2023",
+    "codename": "devonn"
+  },
+  {
+    "brand": "Motorola",
     "name": "moto g pro",
     "codename": "sofiap_sprout"
   },
@@ -100703,6 +100713,16 @@
     "brand": "Motorola",
     "name": "motorola edge 30 ultra",
     "codename": "eqs"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola edge 40",
+    "codename": "lyriq"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola edge 40",
+    "codename": "lyriq"
   },
   {
     "brand": "Motorola",
@@ -174733,6 +174753,11 @@
     "brand": "Vivo",
     "name": "iQOO Neo7 竞速版",
     "codename": "PD2232"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Neo8 Pro",
+    "codename": "PD2302"
   },
   {
     "brand": "Vivo",
