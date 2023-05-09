@@ -13141,6 +13141,11 @@
   },
   {
     "brand": "BMobile",
+    "name": "BL52Pro",
+    "codename": "Bmobile_BL52Pro"
+  },
+  {
+    "brand": "BMobile",
     "name": "BL52_TG06",
     "codename": "Bmobile_BL52_TG06"
   },
@@ -48778,6 +48783,11 @@
     "brand": "Handheld Group",
     "name": "Nautiz X41 EEA",
     "codename": "albatross_EEA"
+  },
+  {
+    "brand": "Handheld Group",
+    "name": "Nautiz X81",
+    "codename": "Nautiz_X81"
   },
   {
     "brand": "Handheld Group",
@@ -164661,6 +164671,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO SPARK 10",
+    "codename": "TECNO-KI5qs"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO SPARK 10C",
     "codename": "TECNO-KI5k"
   },
@@ -168528,6 +168543,11 @@
     "brand": "Umax",
     "name": "U452TL",
     "codename": "U452TL"
+  },
+  {
+    "brand": "Umax",
+    "name": "UMAX",
+    "codename": "kaitak"
   },
   {
     "brand": "Umax",
@@ -174813,6 +174833,11 @@
     "brand": "Vivo",
     "name": "iQOO Z7i",
     "codename": "PD2230"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Z7s 5G",
+    "codename": "I2223"
   },
   {
     "brand": "Vivo",
