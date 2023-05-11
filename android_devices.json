@@ -18041,6 +18041,11 @@
   },
   {
     "brand": "Blu",
+    "name": "M10L PLUS",
+    "codename": "M0223_ND"
+  },
+  {
+    "brand": "Blu",
     "name": "M6",
     "codename": "M0030TT"
   },
@@ -26816,6 +26821,11 @@
   },
   {
     "brand": "Cubot",
+    "name": "TAB KINGKONG",
+    "codename": "TAB_KINGKONG"
+  },
+  {
+    "brand": "Cubot",
     "name": "X19",
     "codename": "X19"
   },
@@ -27043,6 +27053,11 @@
     "brand": "DEED",
     "name": "DC-WT15",
     "codename": "DC-WT15"
+  },
+  {
+    "brand": "DEPLAY",
+    "name": "BS101_EEA",
+    "codename": "BS101_EEA"
   },
   {
     "brand": "DEPLAY",
@@ -28558,6 +28573,11 @@
     "brand": "Danew",
     "name": "Dslide_809",
     "codename": "Dslide_809_EEA"
+  },
+  {
+    "brand": "Danew",
+    "name": "Dslide_809Pro_EEA",
+    "codename": "Dslide_809Pro"
   },
   {
     "brand": "Danew",
@@ -39758,6 +39778,11 @@
     "brand": "GREATASIA",
     "name": "E10A133_EEA",
     "codename": "E10A133_EEA"
+  },
+  {
+    "brand": "GREATASIA",
+    "name": "E10_A133_EEA",
+    "codename": "E10_A133_EEA"
   },
   {
     "brand": "GREATASIA",
@@ -64761,6 +64786,11 @@
   },
   {
     "brand": "IkuMobile",
+    "name": "T5",
+    "codename": "T5"
+  },
+  {
+    "brand": "IkuMobile",
     "name": "T6",
     "codename": "T6"
   },
@@ -82140,6 +82170,11 @@
     "codename": "LTC1066"
   },
   {
+    "brand": "LT_Mobile",
+    "name": "LT_mobile_S22",
+    "codename": "LT_mobile_S22"
+  },
+  {
     "brand": "LUCOMS",
     "name": "Android TV",
     "codename": "R1"
@@ -82753,6 +82788,11 @@
     "brand": "Lanix",
     "name": "Llium L910",
     "codename": "Ilium_L910"
+  },
+  {
+    "brand": "Lanix",
+    "name": "M1R",
+    "codename": "M1R"
   },
   {
     "brand": "Lanix",
@@ -92713,6 +92753,11 @@
     "brand": "Maze_speed",
     "name": "SSB1001T",
     "codename": "SSB1001T"
+  },
+  {
+    "brand": "Maze_speed",
+    "name": "SSB10T323",
+    "codename": "SSB10T323"
   },
   {
     "brand": "Maze_speed",
@@ -103180,6 +103225,11 @@
     "codename": "NpadAir"
   },
   {
+    "brand": "N-one",
+    "name": "NpadS",
+    "codename": "NpadS"
+  },
+  {
     "brand": "NAGU",
     "name": "R1",
     "codename": "NAGU_R1"
@@ -106401,6 +106451,11 @@
   },
   {
     "brand": "Nokia",
+    "name": "Nokia XR21",
+    "codename": "SNT_sprout"
+  },
+  {
+    "brand": "Nokia",
     "name": "R4",
     "codename": "R4"
   },
@@ -107368,6 +107423,11 @@
     "brand": "OLAX",
     "name": "Magic_Q1",
     "codename": "Magic_Q1"
+  },
+  {
+    "brand": "OLAX",
+    "name": "Magic_Q8",
+    "codename": "Magic_Q8"
   },
   {
     "brand": "OLAX",
@@ -112031,6 +112091,11 @@
   },
   {
     "brand": "Orbic",
+    "name": "RC10RLT-RW1",
+    "codename": "VC_Device"
+  },
+  {
+    "brand": "Orbic",
     "name": "RC506LT",
     "codename": "Orbic-RC506LT"
   },
@@ -112043,6 +112108,16 @@
     "brand": "Orbic",
     "name": "RC609L",
     "codename": "RC609L"
+  },
+  {
+    "brand": "Orbic",
+    "name": "RC609LP-RWANZ",
+    "codename": "RC609LP"
+  },
+  {
+    "brand": "Orbic",
+    "name": "RC609LP-RWANZ",
+    "codename": "RC609LP"
   },
   {
     "brand": "Orbic",
@@ -120466,6 +120541,11 @@
   },
   {
     "brand": "Pritom",
+    "name": "M10_B01",
+    "codename": "M10"
+  },
+  {
+    "brand": "Pritom",
     "name": "M10_B01_EEA",
     "codename": "M10_EEA"
   },
@@ -127653,6 +127733,11 @@
     "brand": "SUNMAX",
     "name": "Model_6_Pro_Max",
     "codename": "Model_6_Pro_Max"
+  },
+  {
+    "brand": "SUNMAX",
+    "name": "Model_One",
+    "codename": "Model_One"
   },
   {
     "brand": "SUNMAX",
@@ -168506,6 +168591,11 @@
   },
   {
     "brand": "Umax",
+    "name": "11T-LTE-Pro_EEA",
+    "codename": "11T-LTE-Pro_EEA"
+  },
+  {
+    "brand": "Umax",
     "name": "7A_3G",
     "codename": "7A_3G"
   },
@@ -169027,6 +169117,11 @@
   {
     "brand": "Umidigi",
     "name": "G3 Plus",
+    "codename": "G3_Plus"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "G3 Plus EEA",
     "codename": "G3_Plus"
   },
   {
@@ -170633,6 +170728,11 @@
     "brand": "Veidoo",
     "name": "T20_Play_EEA",
     "codename": "T20_Play_EEA"
+  },
+  {
+    "brand": "Veidoo",
+    "name": "T30_EEA",
+    "codename": "T30_EEA"
   },
   {
     "brand": "Veidoo",
@@ -175895,6 +175995,11 @@
     "codename": "X100_EEA"
   },
   {
+    "brand": "Volkano",
+    "name": "VK_740_12",
+    "codename": "VK_740_12"
+  },
+  {
     "brand": "Volt Mobile",
     "name": "VOLT_SV451_Vision",
     "codename": "VOLT_SV451_Vision"
@@ -180093,6 +180198,11 @@
     "brand": "Xgody",
     "name": "T702Pro-EEA",
     "codename": "T702Pro-EEA"
+  },
+  {
+    "brand": "Xgody",
+    "name": "T702Pro_S",
+    "codename": "T702Pro_S"
   },
   {
     "brand": "Xgody",
