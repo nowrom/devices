@@ -27,13 +27,13 @@ id = "dotos"
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 250"
-ram = "2/3 GB"
+ram = "2/3/4 GB"
 wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 250"
-ram = "2/3/4 GB"
+ram = "2/3 GB"
 wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
 
 [[roms]]

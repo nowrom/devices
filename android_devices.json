@@ -10765,6 +10765,11 @@
     "codename": "P80W"
   },
   {
+    "brand": "Atozee",
+    "name": "YQ10S_Gold",
+    "codename": "YQ10S_Gold"
+  },
+  {
     "brand": "Atria Convergence Technologies",
     "name": "ACT",
     "codename": "B860H_V1"
@@ -90756,6 +90761,11 @@
   },
   {
     "brand": "MIRAY",
+    "name": "R3",
+    "codename": "R3"
+  },
+  {
+    "brand": "MIRAY",
     "name": "R4",
     "codename": "R4"
   },
@@ -114496,6 +114506,11 @@
   },
   {
     "brand": "Panasonic",
+    "name": "G4_GTV",
+    "codename": "R4_GTV"
+  },
+  {
+    "brand": "Panasonic",
     "name": "GS655",
     "codename": "shibuya"
   },
@@ -114878,6 +114893,11 @@
     "brand": "Panasonic",
     "name": "R4",
     "codename": "R4"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "R4_GTV",
+    "codename": "R4_GTV"
   },
   {
     "brand": "Panasonic",
@@ -135941,6 +135961,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Quantum4",
+    "codename": "a54x"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy R-Style",
     "codename": "jaguark"
   },
@@ -154441,6 +154466,11 @@
   },
   {
     "brand": "TCL",
+    "name": "TCL stylus 5G",
+    "codename": "Challenger_TH"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL201",
     "codename": "Macau"
   },
@@ -169276,6 +169306,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "UMIDIGI C2",
+    "codename": "UMIDIGI_C2"
+  },
+  {
+    "brand": "Umidigi",
     "name": "UMIDIGI F3 Pro",
     "codename": "UMIDIGI_F3_Pro"
   },
@@ -169293,6 +169328,16 @@
     "brand": "Umidigi",
     "name": "UMIDIGI G1 EEA",
     "codename": "UMIDIGI_G1"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "UMIDIGI G3 Max",
+    "codename": "G3_Max"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "UMIDIGI G3 Max EEA",
+    "codename": "G3_Max"
   },
   {
     "brand": "Umidigi",
@@ -181541,6 +181586,11 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Xiaomi Pad 6",
+    "codename": "pipa"
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Xiaomi TV Box S (2nd Gen)",
     "codename": "jaws"
   },
@@ -181553,11 +181603,6 @@
     "brand": "Xiaomi",
     "name": "Xiaomi civi2",
     "codename": "ziyi"
-  },
-  {
-    "brand": "Xiaomi",
-    "name": "Xiaomi pad 6",
-    "codename": "pipa"
   },
   {
     "brand": "Xiaomi",
