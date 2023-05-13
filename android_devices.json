@@ -276,6 +276,11 @@
   },
   {
     "brand": "ACE France",
+    "name": "BUZZ_3E",
+    "codename": "BUZZ_3E"
+  },
+  {
+    "brand": "ACE France",
     "name": "URBAN 1",
     "codename": "URBAN_1"
   },
@@ -31426,6 +31431,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "T30Pro",
+    "codename": "P3Pro"
+  },
+  {
+    "brand": "Doogee",
     "name": "T5",
     "codename": "T5"
   },
@@ -42718,6 +42728,11 @@
     "brand": "Google",
     "name": "Pixel 7 Pro",
     "codename": "cheetah"
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel 7a",
+    "codename": "lynx"
   },
   {
     "brand": "Google",
@@ -123697,11 +123712,6 @@
   {
     "brand": "Realme",
     "name": "realme C21Y",
-    "codename": "RMX3261"
-  },
-  {
-    "brand": "Realme",
-    "name": "realme C21Y",
     "codename": "RMX3262"
   },
   {
@@ -148171,6 +148181,11 @@
   },
   {
     "brand": "Sony",
+    "name": "Xperia 1 V",
+    "codename": "SO-51D"
+  },
+  {
+    "brand": "Sony",
     "name": "Xperia 10",
     "codename": "I3113"
   },
@@ -148293,6 +148308,11 @@
     "brand": "Sony",
     "name": "Xperia 10 Plus",
     "codename": "I4293"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 V",
+    "codename": "SO-52D"
   },
   {
     "brand": "Sony",
@@ -169143,6 +169163,11 @@
     "brand": "Umidigi",
     "name": "G2",
     "codename": "UMIDIGI_G2"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "G3",
+    "codename": "UMIDIGI_G3"
   },
   {
     "brand": "Umidigi",
@@ -195338,6 +195363,11 @@
     "brand": "realme",
     "name": "realme C21-Y",
     "codename": "RED8D1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme C21Y",
+    "codename": "RMX3261"
   },
   {
     "brand": "realme",
