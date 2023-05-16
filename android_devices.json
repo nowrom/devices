@@ -17761,6 +17761,11 @@
   },
   {
     "brand": "Blu",
+    "name": "G53",
+    "codename": "G0850"
+  },
+  {
+    "brand": "Blu",
     "name": "G6",
     "codename": "G0210"
   },
@@ -91316,6 +91321,11 @@
   },
   {
     "brand": "MTC",
+    "name": "S4000-C0C10",
+    "codename": "S4000"
+  },
+  {
+    "brand": "MTC",
     "name": "SmartEver",
     "codename": "seocho"
   },
@@ -91343,11 +91353,6 @@
     "brand": "MTC",
     "name": "Vodafone Smart mini",
     "codename": "Vodafone_875"
-  },
-  {
-    "brand": "MTC",
-    "name": "canada",
-    "codename": "S4000"
   },
   {
     "brand": "MTC",
@@ -151591,6 +151596,11 @@
   },
   {
     "brand": "Storex",
+    "name": "MDDDI13311",
+    "codename": "MDDDI13311"
+  },
+  {
+    "brand": "Storex",
     "name": "eZee'Tab7Q11-M",
     "codename": "Tab7Q11"
   },
@@ -168346,6 +168356,11 @@
   },
   {
     "brand": "Ulefone",
+    "name": "Note 16 Pro",
+    "codename": "Note_16_Pro"
+  },
+  {
+    "brand": "Ulefone",
     "name": "Note 6",
     "codename": "Note_6"
   },
@@ -169162,6 +169177,11 @@
   {
     "brand": "Umidigi",
     "name": "G2",
+    "codename": "UMIDIGI_G2"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "G2 EEA",
     "codename": "UMIDIGI_G2"
   },
   {
@@ -186946,6 +186966,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "Optus X Max",
+    "codename": "P606F05"
+  },
+  {
+    "brand": "ZTE",
     "name": "Orange Hi 4G",
     "codename": "Orange_Hi_4G"
   },
@@ -190342,6 +190367,11 @@
   {
     "brand": "ZTE",
     "name": "ZTE Blade A53",
+    "codename": "P963F62"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A53+",
     "codename": "P963F62"
   },
   {
@@ -195501,6 +195531,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme GT3 240W",
+    "codename": "REE2B2L1"
+  },
+  {
+    "brand": "realme",
     "name": "realme Narzo 30 Pro 5G",
     "codename": "RMX2117L1"
   },
@@ -195578,6 +195613,11 @@
     "brand": "realme",
     "name": "realme V25",
     "codename": "RE547D"
+  },
+  {
+    "brand": "realme",
+    "name": "realme V30",
+    "codename": "RE584B"
   },
   {
     "brand": "realme",
@@ -195718,6 +195758,16 @@
     "brand": "realme",
     "name": "realmeGT Neo5 240W",
     "codename": "RE5860"
+  },
+  {
+    "brand": "realme",
+    "name": "真我 10 Pro",
+    "codename": "RE5869"
+  },
+  {
+    "brand": "realme",
+    "name": "真我 11 Pro+",
+    "codename": "RE5865"
   },
   {
     "brand": "realme",
