@@ -3601,6 +3601,11 @@
   },
   {
     "brand": "Advantage Air",
+    "name": "PIC8GS12",
+    "codename": "PIC8GS12"
+  },
+  {
+    "brand": "Advantage Air",
     "name": "PIC8GS8",
     "codename": "PIC8GS8"
   },
@@ -36190,6 +36195,11 @@
     "codename": "Q3pro_eea"
   },
   {
+    "brand": "FACETEL",
+    "name": "Q5_EEA",
+    "codename": "Q5_EEA"
+  },
+  {
     "brand": "FACILOTAB",
     "name": "Facilotab_L_Rubis",
     "codename": "Facilotab_L_Rubis"
@@ -42983,6 +42993,11 @@
     "brand": "Green House",
     "name": "GREEN HOUSE TV",
     "codename": "SW6H"
+  },
+  {
+    "brand": "Green House",
+    "name": "Smart TV",
+    "codename": "mateo"
   },
   {
     "brand": "Greentel",
@@ -112925,6 +112940,11 @@
     "codename": "Tab-T8"
   },
   {
+    "brand": "PAWBO",
+    "name": "Tab_M12",
+    "codename": "Tab_M12"
+  },
+  {
     "brand": "PAX (CN)",
     "name": "A50",
     "codename": "A50"
@@ -115788,6 +115808,11 @@
     "brand": "Philco",
     "name": "PhilcoTV",
     "codename": "shinjuku"
+  },
+  {
+    "brand": "Philco",
+    "name": "TP10A332",
+    "codename": "TP10A332"
   },
   {
     "brand": "Philco",
@@ -123180,6 +123205,11 @@
     "codename": "Q882"
   },
   {
+    "brand": "REBEOSOII",
+    "name": "C11",
+    "codename": "C11"
+  },
+  {
     "brand": "RECCO",
     "name": "Android TV",
     "codename": "R1"
@@ -123718,16 +123748,6 @@
     "brand": "Realme",
     "name": "realme C21 Y",
     "codename": "RMX3261"
-  },
-  {
-    "brand": "Realme",
-    "name": "realme C21Y",
-    "codename": "RMX3262"
-  },
-  {
-    "brand": "Realme",
-    "name": "realme C25Y",
-    "codename": "RE54D1"
   },
   {
     "brand": "Realme",
@@ -126143,6 +126163,11 @@
     "brand": "SARL WISE TECHNOLOGIE",
     "name": "Wise_Tech_Wifi",
     "codename": "Wise_Tech_Wifi"
+  },
+  {
+    "brand": "SATCO",
+    "name": "SATCO_Y-20",
+    "codename": "Y-20"
   },
   {
     "brand": "SAWINK",
@@ -146768,6 +146793,11 @@
     "brand": "Sky Devices",
     "name": "Platinum_J5",
     "codename": "Platinum_J5"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "Platinum_J5US",
+    "codename": "Platinum_J5US"
   },
   {
     "brand": "Sky Devices",
@@ -169196,6 +169226,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "G3 EEA",
+    "codename": "UMIDIGI_G3"
+  },
+  {
+    "brand": "Umidigi",
     "name": "G3 Plus",
     "codename": "G3_Plus"
   },
@@ -169357,6 +169392,11 @@
   {
     "brand": "Umidigi",
     "name": "UMIDIGI C2",
+    "codename": "UMIDIGI_C2"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "UMIDIGI C2 EEA",
     "codename": "UMIDIGI_C2"
   },
   {
@@ -189481,6 +189521,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE 7160N",
+    "codename": "P720F02"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE 7530N",
     "codename": "P633S07"
   },
@@ -190376,6 +190421,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade A53 Pro",
+    "codename": "P963F63"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade A53+",
     "codename": "P963F62"
   },
@@ -190383,6 +190433,11 @@
     "brand": "ZTE",
     "name": "ZTE Blade A53+",
     "codename": "P963F62"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A53+",
+    "codename": "P963F62_A"
   },
   {
     "brand": "ZTE",
@@ -195406,6 +195461,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme C21Y",
+    "codename": "RMX3262"
+  },
+  {
+    "brand": "realme",
     "name": "realme C25",
     "codename": "RMX3191"
   },
@@ -195413,6 +195473,11 @@
     "brand": "realme",
     "name": "realme C25",
     "codename": "RMX3193"
+  },
+  {
+    "brand": "realme",
+    "name": "realme C25Y",
+    "codename": "RE54D1"
   },
   {
     "brand": "realme",
