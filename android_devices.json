@@ -71846,16 +71846,6 @@
   },
   {
     "brand": "KTCtv",
-    "name": "XITRIX",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "XITRIX",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
     "name": "Zitro",
     "codename": "stanford"
   },
@@ -144586,6 +144576,11 @@
   },
   {
     "brand": "Sharp",
+    "name": "FV1",
+    "codename": "sandiego"
+  },
+  {
+    "brand": "Sharp",
     "name": "GALAPAGOS SoftBank 003SH",
     "codename": "SBM003SH"
   },
@@ -181708,6 +181703,16 @@
     "brand": "Xinlian",
     "name": "HC750",
     "codename": "HC750"
+  },
+  {
+    "brand": "Xitrix",
+    "name": "XITRIX",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Xitrix",
+    "name": "XITRIX",
+    "codename": "zhongshan"
   },
   {
     "brand": "Xmobile",
