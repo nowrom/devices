@@ -1,0 +1,10 @@
+brand = "Hurricane"
+codename = "Lynx"
+name = "Lynx"
+recoveries = []
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"

@@ -9306,22 +9306,22 @@
   },
   {
     "brand": "Asus",
-    "name": "ROG Phone ll",
+    "name": "ROG Phone II",
     "codename": "ASUS_I001_1"
   },
   {
     "brand": "Asus",
-    "name": "ROG Phone ll",
+    "name": "ROG Phone II",
     "codename": "ASUS_I001_1"
   },
   {
     "brand": "Asus",
-    "name": "ROG Phone ll",
+    "name": "ROG Phone II",
     "codename": "ASUS_I001_1"
   },
   {
     "brand": "Asus",
-    "name": "ROG Phone ll",
+    "name": "ROG Phone II",
     "codename": "ASUS_I001_1"
   },
   {
@@ -46111,6 +46111,16 @@
   },
   {
     "brand": "HTC",
+    "name": "HTC Desire 23 Pro",
+    "codename": "htc_soodugls"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC Desire 23 Pro",
+    "codename": "htc_soodugls"
+  },
+  {
+    "brand": "HTC",
     "name": "HTC Desire 610",
     "codename": "htc_a3ul"
   },
@@ -52822,6 +52832,11 @@
   {
     "brand": "Hisense",
     "name": "ULED",
+    "codename": "hengshan"
+  },
+  {
+    "brand": "Hisense",
+    "name": "ULED",
     "codename": "wuyishan"
   },
   {
@@ -54056,11 +54071,6 @@
   },
   {
     "brand": "Honor",
-    "name": "FRI",
-    "codename": "HNFRI"
-  },
-  {
-    "brand": "Honor",
     "name": "HONOR 50",
     "codename": "HNNTH"
   },
@@ -54088,6 +54098,11 @@
     "brand": "Honor",
     "name": "HONOR 70 Lite",
     "codename": "HNRBN-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR Magic Vs",
+    "codename": "HNFRI"
   },
   {
     "brand": "Honor",
@@ -100151,6 +100166,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "moto g stylus (2023)",
+    "codename": "gnevan"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g stylus (2023)",
+    "codename": "gnevan"
+  },
+  {
+    "brand": "Motorola",
     "name": "moto g stylus 5G",
     "codename": "denver"
   },
@@ -125233,6 +125258,11 @@
     "brand": "Reeder",
     "name": "S19 Max Pro",
     "codename": "S19_Max_Pro"
+  },
+  {
+    "brand": "Reeder",
+    "name": "S23 Pro Max",
+    "codename": "S23_Pro_Max"
   },
   {
     "brand": "Reeder",
@@ -175016,6 +175046,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "iQOO Neo8",
+    "codename": "PD2301"
+  },
+  {
+    "brand": "Vivo",
     "name": "iQOO Neo8 Pro",
     "codename": "PD2302"
   },
@@ -175578,6 +175613,11 @@
     "brand": "Vivo",
     "name": "vivo X90 Pro+",
     "codename": "PD2227"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo X90s",
+    "codename": "PD2241"
   },
   {
     "brand": "Vivo",
