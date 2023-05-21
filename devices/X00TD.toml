@@ -14,7 +14,6 @@ photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devi
 [[roms]]
 id = "arrowos"
 maintainer = "ATANYTHING"
-changelog = "Fixed Wifi related issues\r\nHotfix Update"
 
 [[roms]]
 id = "blissroms"

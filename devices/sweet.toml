@@ -22,7 +22,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
-changelog = "- Switched to common trees"
+changelog = "EXPERIMENTAL BUILD - DO NOT FLASH"
 
 [[roms]]
 id = "crdroid"

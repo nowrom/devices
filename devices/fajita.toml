@@ -41,7 +41,7 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_oneplus_fajita","vendor_oneplus_fajita","device_oneplus_sdm845-common","device_oneplus_common","kernel_oneplus_sdm845","vendor_oneplus_sdm845-common"]
+repostories = ["device_oneplus_fajita","vendor_oneplus_fajita","device_oneplus_sdm845-common","kernel_oneplus_sdm845","vendor_oneplus_sdm845-common"]
 
 [[roms.supported_versions]]
 version_code = "thirteen"
