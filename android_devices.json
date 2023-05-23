@@ -153281,6 +153281,11 @@
   },
   {
     "brand": "Symphony",
+    "name": "Z60 Plus",
+    "codename": "Z60_plus"
+  },
+  {
+    "brand": "Symphony",
     "name": "ZVII",
     "codename": "ZVII"
   },
@@ -174831,6 +174836,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "Y36 5G",
+    "codename": "V2248"
+  },
+  {
+    "brand": "Vivo",
     "name": "Y51",
     "codename": "Y51"
   },
@@ -195578,6 +195588,11 @@
     "brand": "realme",
     "name": "realme C33",
     "codename": "RE5894"
+  },
+  {
+    "brand": "realme",
+    "name": "realme C33 128GB",
+    "codename": "RE58AF"
   },
   {
     "brand": "realme",

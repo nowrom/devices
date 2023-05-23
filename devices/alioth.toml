@@ -60,7 +60,7 @@ wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotsp
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_alioth","device_xiaomi_sm8250-common","kernel_xiaomi_sm8250","vendor_xiaomi_alioth","vendor_xiaomi_sm8250-common","vendor_xiaomi-firmware","wiki_blobs_alioth"]
+repostories = ["device_xiaomi_alioth","kernel_xiaomi_alioth","vendor_xiaomi_alioth","wiki_blobs_alioth"]
 
 [[roms.supported_versions]]
 version_code = "twelve"
@@ -76,15 +76,15 @@ deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen"
-xda_thread = "https://forum.xda-developers.com/t/rom-13-official-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp-10-31-22.4512511/"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4578781/"
 stable = true
-deprecated = true
+deprecated = false
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
-xda_thread = "https://forum.xda-developers.com/t/rom-13-official-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp-10-31-22.4512511/"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-alioth-pixelexperience-for-redmi-k40-poco-f3-mi-11x-aosp.4578781/"
 stable = true
-deprecated = true
+deprecated = false
 
 [[roms]]
 id = "pixelextended"
