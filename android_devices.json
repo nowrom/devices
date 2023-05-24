@@ -46111,16 +46111,6 @@
   },
   {
     "brand": "HTC",
-    "name": "HTC Desire 23 Pro",
-    "codename": "htc_soodugls"
-  },
-  {
-    "brand": "HTC",
-    "name": "HTC Desire 23 Pro",
-    "codename": "htc_soodugls"
-  },
-  {
-    "brand": "HTC",
     "name": "HTC Desire 610",
     "codename": "htc_a3ul"
   },
@@ -46223,6 +46213,16 @@
     "brand": "HTC",
     "name": "HTC U19e",
     "codename": "htc_tetdugl"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC U23 Pro",
+    "codename": "htc_soodugls"
+  },
+  {
+    "brand": "HTC",
+    "name": "HTC U23 Pro",
+    "codename": "htc_soodugls"
   },
   {
     "brand": "HTC",
@@ -130212,6 +130212,11 @@
   {
     "brand": "Samsung",
     "name": "Galaxy A54 5G",
+    "codename": "SC-53D"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A54 5G",
     "codename": "a54x"
   },
   {
@@ -171286,6 +171291,11 @@
   },
   {
     "brand": "Verizon Wireless",
+    "name": "TCL TAB Pro 5G",
+    "codename": "Transformer_VZW"
+  },
+  {
+    "brand": "Verizon Wireless",
     "name": "Wear24",
     "codename": "dorado"
   },
@@ -173221,6 +173231,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "S17 Pro",
+    "codename": "PD2284"
+  },
+  {
+    "brand": "Vivo",
     "name": "T1",
     "codename": "V2154"
   },
@@ -175068,6 +175083,11 @@
     "brand": "Vivo",
     "name": "iQOO Neo8 Pro",
     "codename": "PD2302"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Pad",
+    "codename": "DPD2307"
   },
   {
     "brand": "Vivo",
