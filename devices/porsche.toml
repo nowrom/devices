@@ -6,4 +6,4 @@ recoveries = []
 [[roms]]
 id = "arrowos"
 maintainer = "danielml3"
-changelog = "- Initial official release\r\n\r\nFlashing instructions:\r\n- Download the ArrowOS recovery at https://files.danielml.dev/android/porsche/arrow-recovery.zip\r\n- Unpack it, and using fastboot flash the vbmeta, vendor_boot and boot:\r\n* fastboot flash vbmeta vbmeta.img\r\n* fastboot flash vendor_boot vendor_boot.img\r\n* fastboot flash boot boot.img\r\n- Then, reboot to recovery and flash the ROM using ADB sideload"
+changelog = "EXPERIMENTA BUILD - DO NOT FLASH"

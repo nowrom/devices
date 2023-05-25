@@ -65241,6 +65241,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "HOT 30 5G",
+    "codename": "Infinix-X6832"
+  },
+  {
+    "brand": "Infinix",
     "name": "HOT 4",
     "codename": "Infinix-X5511"
   },
@@ -117121,6 +117126,11 @@
   },
   {
     "brand": "Point Mobile",
+    "name": "PM86",
+    "codename": "PM86"
+  },
+  {
+    "brand": "Point Mobile",
     "name": "PM90",
     "codename": "pm90"
   },
@@ -117158,11 +117168,6 @@
     "brand": "Point of view",
     "name": "TAB_TS101S_LTE",
     "codename": "TAB_TS101S_LTE"
-  },
-  {
-    "brand": "PointMobile",
-    "name": "PM86",
-    "codename": "PM86"
   },
   {
     "brand": "Pokini",
@@ -120873,6 +120878,11 @@
     "brand": "Prolink",
     "name": "NeoSmart5",
     "codename": "NeoSmart5"
+  },
+  {
+    "brand": "Promethean",
+    "name": "Promethean OPS-A1",
+    "codename": "XM3566D"
   },
   {
     "brand": "Proscan",
@@ -144581,6 +144591,11 @@
   },
   {
     "brand": "Sharp",
+    "name": "EN3/EL3",
+    "codename": "banqiao"
+  },
+  {
+    "brand": "Sharp",
     "name": "EQ3/DN5",
     "codename": "banqiao"
   },
@@ -148258,6 +148273,11 @@
     "brand": "Sony",
     "name": "Xperia 1 V",
     "codename": "SO-51D"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 V",
+    "codename": "XQ-DQ72"
   },
   {
     "brand": "Sony",
@@ -190741,6 +190761,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE PA01",
+    "codename": "P898P01"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE T0801\t\t",
     "codename": "P876T01J"
   },
@@ -190968,6 +190993,16 @@
     "brand": "ZTE",
     "name": "zBox 1",
     "codename": "YXE"
+  },
+  {
+    "brand": "ZTE",
+    "name": "中兴畅行40",
+    "codename": "P963S71"
+  },
+  {
+    "brand": "ZTE",
+    "name": "中兴远航41",
+    "codename": "P720S11"
   },
   {
     "brand": "ZUKU",
@@ -191373,6 +191408,11 @@
     "brand": "Zebra",
     "name": "TC75xDF",
     "codename": "TC75xDF"
+  },
+  {
+    "brand": "Zebra",
+    "name": "TC78",
+    "codename": "TC78"
   },
   {
     "brand": "Zebra",
