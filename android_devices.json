@@ -5746,7 +5746,7 @@
   },
   {
     "brand": "Altus",
-    "name": "Europe",
+    "name": "Altus UHD Pro TV",
     "codename": "marina"
   },
   {
@@ -46216,12 +46216,12 @@
   },
   {
     "brand": "HTC",
-    "name": "HTC U23 Pro",
+    "name": "HTC U23 pro",
     "codename": "htc_soodugls"
   },
   {
     "brand": "HTC",
-    "name": "HTC U23 Pro",
+    "name": "HTC U23 pro",
     "codename": "htc_soodugls"
   },
   {
@@ -65106,6 +65106,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "50X3",
+    "codename": "barking"
+  },
+  {
+    "brand": "Infinix",
     "name": "55X1",
     "codename": "samseong"
   },
@@ -69566,6 +69571,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel S23",
+    "codename": "itel-S665LN"
+  },
+  {
+    "brand": "Itel",
     "name": "itel S32LTE",
     "codename": "itel-S32LTE"
   },
@@ -70053,6 +70063,11 @@
     "brand": "JVC",
     "name": "JVC",
     "codename": "kaitak"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
+    "codename": "komagome"
   },
   {
     "brand": "JVC",
@@ -97581,6 +97596,11 @@
   },
   {
     "brand": "Mobvoi",
+    "name": "TicWatch Pro 5",
+    "codename": "dace"
+  },
+  {
+    "brand": "Mobvoi",
     "name": "Ticwatch Pro 4G",
     "codename": "catshark"
   },
@@ -108193,6 +108213,11 @@
     "brand": "OnePlus",
     "name": "OnePlus 11 5G 中国版",
     "codename": "OP591BL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 11R 5G",
+    "codename": "OP5961L1"
   },
   {
     "brand": "OnePlus",
@@ -130227,6 +130252,11 @@
   {
     "brand": "Samsung",
     "name": "Galaxy A54 5G",
+    "codename": "SCG21"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A54 5G",
     "codename": "a54x"
   },
   {
@@ -137152,6 +137182,11 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S23",
+    "codename": "SCG19"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S23",
     "codename": "dm1q"
   },
   {
@@ -137188,6 +137223,11 @@
     "brand": "Samsung",
     "name": "Galaxy S23 Ultra",
     "codename": "SC-52D"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S23 Ultra",
+    "codename": "SCG20"
   },
   {
     "brand": "Samsung",
@@ -154578,6 +154618,11 @@
     "brand": "TCL",
     "name": "TCL TAB Disney Edition",
     "codename": "Thor_8_4G_VZW"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL TAB Disney Edition 2",
+    "codename": "Luna_8_4G_VZW"
   },
   {
     "brand": "TCL",
@@ -189221,6 +189266,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "Z667G",
+    "codename": "demi"
+  },
+  {
+    "brand": "ZTE",
     "name": "Z667T",
     "codename": "bonnie"
   },
@@ -190753,6 +190803,26 @@
     "brand": "ZTE",
     "name": "ZTE Fanfare 3",
     "codename": "kelly"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE N939Sc",
+    "codename": "zx55q05_64"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE N939Sc",
+    "codename": "zx55q05_64"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE N939Sc",
+    "codename": "zx55q05_64"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE N939Sc",
+    "codename": "zx55q05_64"
   },
   {
     "brand": "ZTE",
@@ -195928,6 +195998,11 @@
     "brand": "realme",
     "name": "realme narzo 50i Prime",
     "codename": "RE588E"
+  },
+  {
+    "brand": "realme",
+    "name": "realme narzo N53",
+    "codename": "RE58C6"
   },
   {
     "brand": "realme",
