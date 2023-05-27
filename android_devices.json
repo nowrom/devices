@@ -86891,6 +86891,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo Tab Extreme",
+    "codename": "TB570FU"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo Tab K10",
     "codename": "X6C6F"
   },
@@ -154621,11 +154626,6 @@
   },
   {
     "brand": "TCL",
-    "name": "TCL TAB Disney Edition 2",
-    "codename": "Luna_8_4G_VZW"
-  },
-  {
-    "brand": "TCL",
     "name": "TCL TAB Lite",
     "codename": "Apollo84GBoostR"
   },
@@ -171258,6 +171258,11 @@
     "brand": "Verizon",
     "name": "Stream TV",
     "codename": "JS8V"
+  },
+  {
+    "brand": "Verizon",
+    "name": "Stream TV",
+    "codename": "SCSIP02"
   },
   {
     "brand": "Verizon",
