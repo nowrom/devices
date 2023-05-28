@@ -15,6 +15,11 @@ id = "arrowos"
 maintainer = "Deivid Ignacio"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/18-Apr-2023/NikGapps-core-arm64-13-20230418-signed.zip/download"
+recovery = ""
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

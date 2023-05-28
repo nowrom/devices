@@ -142896,6 +142896,11 @@
   },
   {
     "brand": "Sceptre",
+    "name": "A557CV-UMRBX",
+    "codename": "barking"
+  },
+  {
+    "brand": "Sceptre",
     "name": "Smart TV",
     "codename": "kanda"
   },
@@ -194743,6 +194748,16 @@
     "brand": "iRulu",
     "name": "iRULU_G36",
     "codename": "iRULU_G36"
+  },
+  {
+    "brand": "iSTAR",
+    "name": "S32WD02",
+    "codename": "beaudry"
+  },
+  {
+    "brand": "iSTAR",
+    "name": "S55WD01",
+    "codename": "barking"
   },
   {
     "brand": "iSWAG",
