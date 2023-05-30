@@ -22,7 +22,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "TG_DEVICE_MAINTAINER"
-changelog = "EXPERIMENTAL BUILD - DO NOT FLASH"
+changelog = "- Upstreamed to latest common kernel\r\n- Various other improvements"
 
 [[roms]]
 id = "crdroid"

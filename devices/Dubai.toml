@@ -20,9 +20,9 @@ repostories = ["device_motorola_dubai","device_motorola_sm7325-common","kernel_m
 [[roms.supported_versions]]
 version_code = "thirteen"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 stable = true
-deprecated = false
+deprecated = true
