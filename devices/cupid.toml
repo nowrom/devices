@@ -1,0 +1,10 @@
+brand = "Xiaomi"
+codename = "cupid"
+name = "Xiaomi 12"
+recoveries = []
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"

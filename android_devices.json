@@ -23245,6 +23245,11 @@
     "codename": "longshan"
   },
   {
+    "brand": "ClearTouch",
+    "name": "six_zero_XXAplus",
+    "codename": "rk3588_t"
+  },
+  {
     "brand": "Clementoni",
     "name": "CLEMPAD_2018",
     "codename": "CLEMPAD_2018"
@@ -124921,6 +124926,21 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi Note 12S",
+    "codename": "ocean"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 12S",
+    "codename": "ocean"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 12S",
+    "codename": "sea"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi Note 7",
     "codename": "lavender"
   },
@@ -144678,6 +144698,11 @@
     "brand": "Sharp",
     "name": "FS8014",
     "codename": "SE3"
+  },
+  {
+    "brand": "Sharp",
+    "name": "FV1",
+    "codename": "sandiego"
   },
   {
     "brand": "Sharp",
