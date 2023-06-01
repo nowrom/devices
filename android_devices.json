@@ -51632,6 +51632,11 @@
   {
     "brand": "Hisense",
     "name": "Hisense U964",
+    "codename": "HLTE106E_01"
+  },
+  {
+    "brand": "Hisense",
+    "name": "Hisense U964",
     "codename": "HLTE106E_02"
   },
   {
@@ -64781,6 +64786,11 @@
   },
   {
     "brand": "IkuMobile",
+    "name": "A7_Plus",
+    "codename": "A7_Plus"
+  },
+  {
+    "brand": "IkuMobile",
     "name": "I3",
     "codename": "I3"
   },
@@ -64888,6 +64898,11 @@
     "brand": "IkuMobile",
     "name": "X5",
     "codename": "X5"
+  },
+  {
+    "brand": "IkuMobile",
+    "name": "X8",
+    "codename": "X8"
   },
   {
     "brand": "IkuMobile",
@@ -71413,6 +71428,11 @@
     "brand": "KONKA",
     "name": "sp6",
     "codename": "SP6"
+  },
+  {
+    "brand": "KOOLMAAX",
+    "name": "GEMINI",
+    "codename": "GEMINI"
   },
   {
     "brand": "KOOLNEE",
@@ -118981,6 +119001,11 @@
   },
   {
     "brand": "Premio",
+    "name": "X76",
+    "codename": "X76"
+  },
+  {
+    "brand": "Premio",
     "name": "X80",
     "codename": "X80"
   },
@@ -148482,7 +148507,32 @@
   {
     "brand": "Sony",
     "name": "Xperia 10 V",
+    "codename": "A302SO"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 V",
     "codename": "SO-52D"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 V",
+    "codename": "SOG11"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 V",
+    "codename": "XQ-DC44"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 V",
+    "codename": "XQ-DC54"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 V",
+    "codename": "XQ-DC72"
   },
   {
     "brand": "Sony",
@@ -153857,6 +153907,11 @@
   {
     "brand": "TCL",
     "name": "G03_4K_US_NF",
+    "codename": "BeyondTV4"
+  },
+  {
+    "brand": "TCL",
+    "name": "G03_4K_US_NF_DB",
     "codename": "BeyondTV4"
   },
   {
@@ -176208,6 +176263,11 @@
     "brand": "Vodafone",
     "name": "VIP6102W",
     "codename": "vip6102w"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "VODAFONE TV",
+    "codename": "m393gena_vf"
   },
   {
     "brand": "Vodafone",
