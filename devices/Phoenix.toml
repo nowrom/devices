@@ -1,6 +1,6 @@
-brand = "Redmi"
-codename = "phoenix"
-name = "Redmi K30"
+brand = "Stylo"
+codename = "Phoenix"
+name = "Phoenix"
 
 [[recoveries]]
 id = "orangefox"

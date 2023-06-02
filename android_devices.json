@@ -221,6 +221,11 @@
   },
   {
     "brand": "ACE (Global)",
+    "name": "BUZZ 4",
+    "codename": "BUZZ_4"
+  },
+  {
+    "brand": "ACE (Global)",
     "name": "CLEVER 3",
     "codename": "CLEVER_3"
   },
@@ -263,6 +268,11 @@
     "brand": "ACE France",
     "name": "BUZZ 3 Lite",
     "codename": "BUZZ_3_Lite"
+  },
+  {
+    "brand": "ACE France",
+    "name": "BUZZ 4S",
+    "codename": "BUZZ_4S"
   },
   {
     "brand": "ACE France",
@@ -683,6 +693,11 @@
     "brand": "ALPHA_LING",
     "name": "A97GT",
     "codename": "A97GT"
+  },
+  {
+    "brand": "ALPHA_LING",
+    "name": "A97GT_Pro",
+    "codename": "A97GT_Pro"
   },
   {
     "brand": "ALT.STYLEFOLDER",
@@ -4233,6 +4248,16 @@
     "brand": "Aligator",
     "name": "Aligator S5066",
     "codename": "Aligator_S5066"
+  },
+  {
+    "brand": "Aligator",
+    "name": "Aligator_S6100",
+    "codename": "Aligator_S6100"
+  },
+  {
+    "brand": "Aligator",
+    "name": "Aligator_S6550",
+    "codename": "Aligator_S6550"
   },
   {
     "brand": "Aligator",
@@ -22876,6 +22901,11 @@
   },
   {
     "brand": "Chuwi",
+    "name": "Hi10_XPro",
+    "codename": "Hi10_XPro"
+  },
+  {
+    "brand": "Chuwi",
     "name": "Hi9",
     "codename": "Hi9"
   },
@@ -36063,6 +36093,16 @@
     "brand": "F-Plus",
     "name": "SH60_23230",
     "codename": "SH60_23230"
+  },
+  {
+    "brand": "F-Plus",
+    "name": "SH65_23248",
+    "codename": "SH65_23248"
+  },
+  {
+    "brand": "F-Plus",
+    "name": "SH65_23248",
+    "codename": "SH65_23248"
   },
   {
     "brand": "F150",
@@ -64713,6 +64753,11 @@
     "brand": "IkuMobile",
     "name": "A10",
     "codename": "A10"
+  },
+  {
+    "brand": "IkuMobile",
+    "name": "A10s",
+    "codename": "A10s"
   },
   {
     "brand": "IkuMobile",
@@ -126585,6 +126630,11 @@
     "codename": "ST_810A"
   },
   {
+    "brand": "SILVERWIN",
+    "name": "SWA10E5LTE",
+    "codename": "SWA10E5LTE"
+  },
+  {
     "brand": "SITI_Playtop",
     "name": "SITIH3455N",
     "codename": "DTC2141"
@@ -152141,6 +152191,11 @@
   },
   {
     "brand": "Stylo",
+    "name": "Phoenix",
+    "codename": "Phoenix"
+  },
+  {
+    "brand": "Stylo",
     "name": "S40 Vino",
     "codename": "S40_Vino"
   },
@@ -166366,6 +166421,11 @@
   },
   {
     "brand": "Thomson",
+    "name": "Origin_679",
+    "codename": "Origin_679"
+  },
+  {
+    "brand": "Thomson",
     "name": "PRIMO7 Tablet",
     "codename": "PRIMO7"
   },
@@ -174831,6 +174891,16 @@
   },
   {
     "brand": "Vivo",
+    "name": "Y02t",
+    "codename": "V2254"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y02t",
+    "codename": "V2254"
+  },
+  {
+    "brand": "Vivo",
     "name": "Y100",
     "codename": "V2239"
   },
@@ -176353,6 +176423,11 @@
     "brand": "Vodafone",
     "name": "Vodafone TV",
     "codename": "uiw4030vha"
+  },
+  {
+    "brand": "Vodafone",
+    "name": "Vodafone TV 3",
+    "codename": "m377_vf"
   },
   {
     "brand": "Voger",
@@ -182698,6 +182773,11 @@
     "brand": "Yezz",
     "name": "LIV3_LTE",
     "codename": "LIV3_LTE"
+  },
+  {
+    "brand": "Yezz",
+    "name": "LIV_3S",
+    "codename": "LIV_3S"
   },
   {
     "brand": "Yezz",
@@ -192640,6 +192720,11 @@
     "codename": "P10SU_Plus"
   },
   {
+    "brand": "amulet7",
+    "name": "P10SU_Pro",
+    "codename": "P10SU_Pro"
+  },
+  {
     "brand": "angel care",
     "name": "S6525 RU",
     "codename": "S6525_RU"
@@ -194591,6 +194676,11 @@
   },
   {
     "brand": "iPlus",
+    "name": "Nu70",
+    "codename": "NU70"
+  },
+  {
+    "brand": "iPlus",
     "name": "Omega7",
     "codename": "Omega7"
   },
@@ -196533,6 +196623,11 @@
     "brand": "vatenick",
     "name": "v7-EEA",
     "codename": "v7-EEA"
+  },
+  {
+    "brand": "verifone",
+    "name": "IX90_CQA1103",
+    "codename": "IX90_CQA1103"
   },
   {
     "brand": "verifone",
