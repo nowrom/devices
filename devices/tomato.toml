@@ -1,6 +1,6 @@
 brand = "YU"
 codename = "tomato"
-name = "Yureka Plus"
+name = "Yureka"
 
 [[recoveries]]
 id = "twrp"
