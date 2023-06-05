@@ -326,6 +326,11 @@
   },
   {
     "brand": "ADOC",
+    "name": "ADOC EX650",
+    "codename": "rk3588_t"
+  },
+  {
+    "brand": "ADOC",
     "name": "D30",
     "codename": "D30"
   },
@@ -20573,6 +20578,11 @@
     "brand": "CROWN MUSTANG",
     "name": "Argentina",
     "codename": "patrick"
+  },
+  {
+    "brand": "CVTE",
+    "name": "edu_v2",
+    "codename": "rk3588_t"
   },
   {
     "brand": "CWELL",
@@ -173871,6 +173881,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "T2x 5G",
+    "codename": "V2225"
+  },
+  {
+    "brand": "Vivo",
     "name": "U5x",
     "codename": "PD2180"
   },
@@ -175513,6 +175528,11 @@
     "brand": "Vivo",
     "name": "Y55s",
     "codename": "PD2164"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y56 5G",
+    "codename": "V2225"
   },
   {
     "brand": "Vivo",

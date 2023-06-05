@@ -12,6 +12,12 @@ cpu = "Kryo 250"
 ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct"
 
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 250"
+ram = "4 GB"
+wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct"
+
 [specs]
 cpu = "Not found"
 weight = "Not found"
