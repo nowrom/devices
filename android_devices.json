@@ -17871,6 +17871,11 @@
   },
   {
     "brand": "Blu",
+    "name": "G63",
+    "codename": "G0870"
+  },
+  {
+    "brand": "Blu",
     "name": "G70",
     "codename": "G0151WW"
   },
@@ -18128,6 +18133,11 @@
     "brand": "Blu",
     "name": "Life One X3",
     "codename": "L0150WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "M10L",
+    "codename": "M0178_ND"
   },
   {
     "brand": "Blu",
@@ -101046,6 +101056,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "moto razr 40",
+    "codename": "lynkco"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto razr 40 Ultra",
+    "codename": "zeekr"
+  },
+  {
+    "brand": "Motorola",
     "name": "moto tab g20",
     "codename": "mototabg20"
   },
@@ -154763,6 +154783,11 @@
     "brand": "TCL",
     "name": "TCL 40 SE",
     "codename": "Model_3"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 40 X 5G",
+    "codename": "Encore_OM"
   },
   {
     "brand": "TCL",
