@@ -985,6 +985,16 @@
     "codename": "yeongdeungpo"
   },
   {
+    "brand": "ASTEX",
+    "name": "ASTEX 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "ASTEX",
+    "name": "ASTEX Google TV",
+    "codename": "bandra"
+  },
+  {
     "brand": "ASTON",
     "name": "IDEA",
     "codename": "IDEA"
@@ -16881,6 +16891,11 @@
   },
   {
     "brand": "Blaupunkt",
+    "name": "Blaupunkt 4K Google TV",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "Blaupunkt",
     "name": "Blaupunkt SL 01",
     "codename": "Blaupunkt_SL_01"
   },
@@ -29680,6 +29695,11 @@
     "codename": "DIGIT_INFINITY_MAX"
   },
   {
+    "brand": "DigiKing",
+    "name": "Digiking 4K Google TV",
+    "codename": "keoneae"
+  },
+  {
     "brand": "DigiLand",
     "name": "10542843",
     "codename": "10542843"
@@ -32571,6 +32591,16 @@
   },
   {
     "brand": "Dyon",
+    "name": "DYON 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "Dyon",
+    "name": "DYON 4K Google TV",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "Dyon",
     "name": "Dyon",
     "codename": "bangbae"
   },
@@ -32978,6 +33008,11 @@
     "brand": "EKO",
     "name": "EKO",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "EKO",
+    "name": "EKO 4K Google TV",
+    "codename": "keoneae"
   },
   {
     "brand": "EKO",
@@ -43193,6 +43228,11 @@
     "brand": "Green House",
     "name": "Smart TV",
     "codename": "mateo"
+  },
+  {
+    "brand": "GreenLion",
+    "name": "G-10_ULTRA",
+    "codename": "G-10_ULTRA"
   },
   {
     "brand": "Greentel",
@@ -71511,6 +71551,16 @@
   },
   {
     "brand": "KONKA",
+    "name": "HK 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "KONKA",
+    "name": "HK 4K Google TV-A",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "KONKA",
     "name": "KC516",
     "codename": "KC516"
   },
@@ -71563,6 +71613,16 @@
     "brand": "KONKA",
     "name": "KONKA 4K Android TV-A",
     "codename": "kenton"
+  },
+  {
+    "brand": "KONKA",
+    "name": "KONKA 4K Google TV",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "KONKA",
+    "name": "KONKA 4K OLED Google TV",
+    "codename": "bandra"
   },
   {
     "brand": "KONKA",
@@ -73786,6 +73846,11 @@
   },
   {
     "brand": "Kogan",
+    "name": "Android TV",
+    "codename": "samseong"
+  },
+  {
+    "brand": "Kogan",
     "name": "Australia",
     "codename": "nippori"
   },
@@ -73818,11 +73883,6 @@
     "brand": "Kogan",
     "name": "KALED32RH9210STA",
     "codename": "ikebukuro"
-  },
-  {
-    "brand": "Kogan",
-    "name": "KALED50XU9210STA",
-    "codename": "samseong"
   },
   {
     "brand": "Kogan",
@@ -110471,6 +110531,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "CPH2527",
+    "codename": "OP56E7L1"
+  },
+  {
+    "brand": "Oppo",
     "name": "F11",
     "codename": "OP4883"
   },
@@ -117273,6 +117338,11 @@
     "brand": "Plimpton",
     "name": "Kids_8",
     "codename": "Kids_8"
+  },
+  {
+    "brand": "Plimpton",
+    "name": "P60Plus",
+    "codename": "P60Plus"
   },
   {
     "brand": "Plimpton",
@@ -125323,6 +125393,11 @@
     "brand": "Redmi",
     "name": "Redmi Note 12S",
     "codename": "sea"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 12T Pro",
+    "codename": "pearl"
   },
   {
     "brand": "Redmi",
@@ -152321,6 +152396,16 @@
   },
   {
     "brand": "Stream",
+    "name": "STREAM 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "Stream",
+    "name": "STREAM 4K Google TV",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "Stream",
     "name": "Stream",
     "codename": "DV8555-Altice"
   },
@@ -165441,6 +165526,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO POVA Neo 3",
+    "codename": "TECNO-LH6n"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO R6S",
     "codename": "TECNO-R6"
   },
@@ -177526,6 +177616,11 @@
   },
   {
     "brand": "Vu Televisions",
+    "name": "VU 4K Google TV",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "Vu Televisions",
     "name": "fushan_vu",
     "codename": "hamamatsucho"
   },
@@ -182433,6 +182528,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi TV stick 4K",
     "codename": "soul"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi civi 3",
+    "codename": "yuechu"
   },
   {
     "brand": "Xiaomi",
@@ -195638,6 +195738,16 @@
     "brand": "innos",
     "name": "innos",
     "codename": "bruno"
+  },
+  {
+    "brand": "innos",
+    "name": "innos 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "innos",
+    "name": "innos 4K Google TV",
+    "codename": "keoneae"
   },
   {
     "brand": "intelkom",
