@@ -1541,6 +1541,11 @@
   },
   {
     "brand": "Accent",
+    "name": "C5L PLUS",
+    "codename": "C5_PLUS"
+  },
+  {
+    "brand": "Accent",
     "name": "CAMELEON C5",
     "codename": "CAMELEON_C5"
   },
@@ -12372,12 +12377,22 @@
   {
     "brand": "BMAX",
     "name": "I10_Plus",
+    "codename": "I10_Plus"
+  },
+  {
+    "brand": "BMAX",
+    "name": "I10_Plus",
     "codename": "I10_Plus_EEA"
   },
   {
     "brand": "BMAX",
     "name": "I10_Pro_EEA",
     "codename": "I10_Pro_EEA"
+  },
+  {
+    "brand": "BMAX",
+    "name": "I10_Pro_LTE",
+    "codename": "I10_Pro_LTE"
   },
   {
     "brand": "BMAX",
@@ -15121,6 +15136,11 @@
   },
   {
     "brand": "Beneve",
+    "name": "M51",
+    "codename": "M51"
+  },
+  {
+    "brand": "Beneve",
     "name": "M51_EEA",
     "codename": "M51_EEA"
   },
@@ -15163,6 +15183,16 @@
     "brand": "Beneve",
     "name": "M7152D1_EEA",
     "codename": "M7152D1_EEA"
+  },
+  {
+    "brand": "Beneve",
+    "name": "M7152P",
+    "codename": "M7152P"
+  },
+  {
+    "brand": "Beneve",
+    "name": "M7152P_EEA",
+    "codename": "M7152P_EEA"
   },
   {
     "brand": "Beneve",
@@ -16507,6 +16537,11 @@
   {
     "brand": "Blackview",
     "name": "Tab 8 WiFi",
+    "codename": "Tab8_WiFi_EEA"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Tab 8 WiFi",
     "codename": "Tab8_WiFi_ROW"
   },
   {
@@ -16526,8 +16561,18 @@
   },
   {
     "brand": "Blackview",
+    "name": "Tab11SE_RU",
+    "codename": "Tab11SE_RU"
+  },
+  {
+    "brand": "Blackview",
     "name": "Tab11WiFi_EEA",
     "codename": "Tab11WiFi_EEA"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Tab11WiFi_NEU",
+    "codename": "Tab11WiFi_NEU"
   },
   {
     "brand": "Blackview",
@@ -20491,6 +20536,11 @@
   },
   {
     "brand": "CORN",
+    "name": "G60_Pro_4G",
+    "codename": "G60_Pro_4G"
+  },
+  {
+    "brand": "CORN",
     "name": "Note13",
     "codename": "Note13"
   },
@@ -21258,6 +21308,11 @@
     "brand": "Casper",
     "name": "VIA X20",
     "codename": "VIA_X20"
+  },
+  {
+    "brand": "Casper",
+    "name": "VIA X30",
+    "codename": "VIA_X30"
   },
   {
     "brand": "Casper",
@@ -27045,6 +27100,11 @@
     "codename": "P-Ranger"
   },
   {
+    "brand": "Custom",
+    "name": "P-Ranger",
+    "codename": "P_Ranger"
+  },
+  {
     "brand": "Cutepad",
     "name": "Tab_4_M7078",
     "codename": "Tab_4_M7078"
@@ -27138,6 +27198,11 @@
     "brand": "D-Tech",
     "name": "LM-01",
     "codename": "LM_01"
+  },
+  {
+    "brand": "DABLIU",
+    "name": "E13R_B65G",
+    "codename": "rk3588_E13R"
   },
   {
     "brand": "DAIICHI",
@@ -33645,6 +33710,11 @@
     "codename": "YUL"
   },
   {
+    "brand": "EUDORA",
+    "name": "R10 Pro",
+    "codename": "R10_Pro"
+  },
+  {
     "brand": "EVEREST-EVERPAD",
     "name": "DC-1032",
     "codename": "mid1032_mk"
@@ -36683,6 +36753,11 @@
     "brand": "FOSSiBOT",
     "name": "F101",
     "codename": "F101"
+  },
+  {
+    "brand": "FOXX",
+    "name": "T8C",
+    "codename": "T8C"
   },
   {
     "brand": "FOXXD",
@@ -46276,6 +46351,11 @@
   },
   {
     "brand": "HTC",
+    "name": "HTC A102",
+    "codename": "HTC_A102"
+  },
+  {
+    "brand": "HTC",
     "name": "HTC A103",
     "codename": "HTC_A103"
   },
@@ -53573,6 +53653,11 @@
     "brand": "Hometech",
     "name": "ALFA_10BS",
     "codename": "ALFA_10BS"
+  },
+  {
+    "brand": "Hometech",
+    "name": "ALFA_10BT",
+    "codename": "ALFA_10BT"
   },
   {
     "brand": "Hometech",
@@ -71461,6 +71546,11 @@
   },
   {
     "brand": "KEMPLER STRAUSS",
+    "name": "ZKEMPLER_11",
+    "codename": "ZKEMPLER_11"
+  },
+  {
+    "brand": "KEMPLER STRAUSS",
     "name": "ZKEMPLER_PLUS",
     "codename": "ZKEMPLER_PLUS"
   },
@@ -82566,6 +82656,21 @@
   },
   {
     "brand": "LT_Mobile",
+    "name": "LT_6217",
+    "codename": "LT_6217"
+  },
+  {
+    "brand": "LT_Mobile",
+    "name": "LT_6509",
+    "codename": "LT_6509"
+  },
+  {
+    "brand": "LT_Mobile",
+    "name": "LT_9701",
+    "codename": "LT_9701"
+  },
+  {
+    "brand": "LT_Mobile",
     "name": "LT_mobile_S22",
     "codename": "LT_mobile_S22"
   },
@@ -89411,6 +89516,11 @@
   },
   {
     "brand": "Logic Mobility",
+    "name": "L66 LITE",
+    "codename": "L66_LITE"
+  },
+  {
+    "brand": "Logic Mobility",
     "name": "L68",
     "codename": "LOGIC_L68"
   },
@@ -92883,6 +92993,11 @@
     "brand": "Maxwest",
     "name": "ASTRO 8R",
     "codename": "MX-A81RWW"
+  },
+  {
+    "brand": "Maxwest",
+    "name": "ASTRO 8R",
+    "codename": "MX-A82RWW"
   },
   {
     "brand": "Maxwest",
@@ -96478,6 +96593,11 @@
     "brand": "Mirage",
     "name": "MI-SO-81T",
     "codename": "MI-SO-81T"
+  },
+  {
+    "brand": "Miramage",
+    "name": "MF3D2211",
+    "codename": "MF3D2211"
   },
   {
     "brand": "Mito",
@@ -106656,6 +106776,16 @@
   },
   {
     "brand": "Nokia",
+    "name": "Nokia C110",
+    "codename": "DGC"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C110",
+    "codename": "DGF"
+  },
+  {
+    "brand": "Nokia",
     "name": "Nokia C12",
     "codename": "NVA"
   },
@@ -106726,6 +106856,11 @@
   },
   {
     "brand": "Nokia",
+    "name": "Nokia C22",
+    "codename": "HKEA"
+  },
+  {
+    "brand": "Nokia",
     "name": "Nokia C3",
     "codename": "GMR"
   },
@@ -106741,8 +106876,18 @@
   },
   {
     "brand": "Nokia",
+    "name": "Nokia C300",
+    "codename": "ORT"
+  },
+  {
+    "brand": "Nokia",
     "name": "Nokia C31",
     "codename": "VSI"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C32",
+    "codename": "MKDA"
   },
   {
     "brand": "Nokia",
@@ -108116,6 +108261,11 @@
   },
   {
     "brand": "OSCAL",
+    "name": "Pad60_NEU",
+    "codename": "Pad60_NEU"
+  },
+  {
+    "brand": "OSCAL",
     "name": "Pad_10_EEA",
     "codename": "Pad_10_EEA"
   },
@@ -108243,6 +108393,11 @@
     "brand": "OXYGEN (in)",
     "name": "India",
     "codename": "yeongdeungpo"
+  },
+  {
+    "brand": "OX_TAB",
+    "name": "Ox-p010-2",
+    "codename": "OX_TAB_10"
   },
   {
     "brand": "OYYU",
@@ -125773,6 +125928,11 @@
     "brand": "Reeder",
     "name": "S19 Max",
     "codename": "S19_Max"
+  },
+  {
+    "brand": "Reeder",
+    "name": "S19 Max 32GB",
+    "codename": "S19_Max_32GB"
   },
   {
     "brand": "Reeder",
@@ -152816,6 +152976,11 @@
   },
   {
     "brand": "Stylo",
+    "name": "UNIVERSE",
+    "codename": "UNIVERSE"
+  },
+  {
+    "brand": "Stylo",
     "name": "Ultra",
     "codename": "Ultra"
   },
@@ -154103,6 +154268,11 @@
     "brand": "Symphony",
     "name": "roar_V150",
     "codename": "roar_V150"
+  },
+  {
+    "brand": "Synetech",
+    "name": "Synetech Elite Taurus",
+    "codename": "rk3588_t"
   },
   {
     "brand": "T-Mobile",
@@ -163886,6 +164056,11 @@
   },
   {
     "brand": "Teclast",
+    "name": "P80T_Y_EEA",
+    "codename": "P80T_Y_EEA"
+  },
+  {
+    "brand": "Teclast",
     "name": "P80T_Y_ROW",
     "codename": "P80T_Y_ROW"
   },
@@ -163963,6 +164138,11 @@
     "brand": "Teclast",
     "name": "P85Pro_EEA",
     "codename": "P85Pro_EEA"
+  },
+  {
+    "brand": "Teclast",
+    "name": "P85Pro_ROW",
+    "codename": "P85Pro_ROW"
   },
   {
     "brand": "Teclast",
@@ -168833,6 +169013,11 @@
     "brand": "Ulefone",
     "name": "Armor 20WT",
     "codename": "Armor_20WT"
+  },
+  {
+    "brand": "Ulefone",
+    "name": "Armor 21",
+    "codename": "Armor_21"
   },
   {
     "brand": "Ulefone",
@@ -182556,6 +182741,11 @@
   },
   {
     "brand": "Xitrix",
+    "name": "TravelPad A10",
+    "codename": "TravelPad_A10"
+  },
+  {
+    "brand": "Xitrix",
     "name": "XITRIX",
     "codename": "stanford"
   },
@@ -195848,6 +196038,11 @@
     "brand": "kozen",
     "name": "T5",
     "codename": "T05"
+  },
+  {
+    "brand": "leaderhub",
+    "name": "S19_EEA",
+    "codename": "S19_EEA"
   },
   {
     "brand": "mMax",

@@ -22,7 +22,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "danielml3"
-changelog = "EXPERIMENTAL BUILD"
+changelog = "Use the ArrowOS recovery when installing the ROM for avoiding issues: https://files.danielml.dev/android/sweet/arrow-13.1/arrow-recovery.img"
 
 [[roms]]
 id = "crdroid"
