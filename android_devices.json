@@ -2761,6 +2761,11 @@
   },
   {
     "brand": "Acer",
+    "name": "R4_GTV",
+    "codename": "R4_GTV"
+  },
+  {
+    "brand": "Acer",
     "name": "TA2",
     "codename": "ta2"
   },
@@ -4238,6 +4243,11 @@
     "brand": "Alhafidh",
     "name": "R4",
     "codename": "R4"
+  },
+  {
+    "brand": "Alhafidh",
+    "name": "R4_GTV",
+    "codename": "R4_GTV"
   },
   {
     "brand": "Aligator",
@@ -19445,6 +19455,11 @@
     "codename": "BSTAR_PLUS"
   },
   {
+    "brand": "Brandt",
+    "name": "R4_GTV",
+    "codename": "R4_GTV"
+  },
+  {
     "brand": "Brantel",
     "name": "E-tel_i10",
     "codename": "E-tel_i10"
@@ -28263,6 +28278,11 @@
     "brand": "DIADEM",
     "name": "CUTE_5",
     "codename": "CUTE_5"
+  },
+  {
+    "brand": "DIALN",
+    "name": "X8ULTRA",
+    "codename": "X8ULTRA"
   },
   {
     "brand": "DIAMANT",
@@ -65491,6 +65511,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "GT 10 Pro",
+    "codename": "Infinix-X6739"
+  },
+  {
+    "brand": "Infinix",
     "name": "HOT",
     "codename": "Infinix-X689F"
   },
@@ -101446,6 +101471,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "motorola edge+ (2023)",
+    "codename": "rtwo"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola edge+ (2023)",
+    "codename": "rtwo"
+  },
+  {
+    "brand": "Motorola",
     "name": "motorola egde s",
     "codename": "nio"
   },
@@ -101578,6 +101613,16 @@
     "brand": "Motorola",
     "name": "motorola razr 2022",
     "codename": "oneli"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola razr 40 ultra",
+    "codename": "zeekr"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola razr 40 ultra",
+    "codename": "zeekr"
   },
   {
     "brand": "Motorola",
@@ -115183,11 +115228,6 @@
     "brand": "Panasonic",
     "name": "FZ-X1",
     "codename": "FZ-X1VUC"
-  },
-  {
-    "brand": "Panasonic",
-    "name": "G4_GTV",
-    "codename": "R4_GTV"
   },
   {
     "brand": "Panasonic",
@@ -152590,6 +152630,11 @@
     "codename": "R4"
   },
   {
+    "brand": "Stream System",
+    "name": "R4_GTV",
+    "codename": "R4_GTV"
+  },
+  {
     "brand": "Strong",
     "name": "Android TV",
     "codename": "R1"
@@ -155318,6 +155363,11 @@
     "brand": "TCL",
     "name": "TCL TAB 10L",
     "codename": "Aquaman_10_Smart_WIFI"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL TAB 10L Gen 2",
+    "codename": "Freyr_10_1_WiFi"
   },
   {
     "brand": "TCL",
@@ -175293,6 +175343,11 @@
     "brand": "Vivo",
     "name": "V2220A",
     "codename": "PD2220"
+  },
+  {
+    "brand": "Vivo",
+    "name": "V2282A",
+    "codename": "PD2282"
   },
   {
     "brand": "Vivo",

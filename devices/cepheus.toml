@@ -68,14 +68,14 @@ download = "https://downloads.spark-os.live/?dir=cepheus/"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.7"
-developer = "Evasi0nXiao"
+version = "v5.4"
+developer = "RDS-007"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.4"
-developer = "RDS-007"
+version = "v3.7"
+developer = "Evasi0nXiao"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"

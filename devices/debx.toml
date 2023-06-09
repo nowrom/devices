@@ -1,0 +1,10 @@
+brand = "Google"
+codename = "debx"
+name = "Nexus 7 2013 (LTE, Repartitioned)"
+recoveries = []
+
+[[roms]]
+id = "lineageos"
+cpu = "Krait 300"
+ram = "2 GB"
+wifi = "802.11 a/b/g/n @ 2.4 GHz & 5 GHz"
