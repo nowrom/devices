@@ -925,6 +925,11 @@
     "codename": "GT78-VN"
   },
   {
+    "brand": "ARBOR",
+    "name": "HT10",
+    "codename": "HT10"
+  },
+  {
     "brand": "ARMADILOS",
     "name": "Listo22",
     "codename": "Listo22"
@@ -17911,6 +17916,11 @@
   },
   {
     "brand": "Blu",
+    "name": "G53",
+    "codename": "G0850_IW"
+  },
+  {
+    "brand": "Blu",
     "name": "G6",
     "codename": "G0210"
   },
@@ -28278,6 +28288,11 @@
     "brand": "DIADEM",
     "name": "CUTE_5",
     "codename": "CUTE_5"
+  },
+  {
+    "brand": "DIALN",
+    "name": "X8PRO",
+    "codename": "X8PRO"
   },
   {
     "brand": "DIALN",
@@ -69551,6 +69566,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel A04",
+    "codename": "itel-A632WM"
+  },
+  {
+    "brand": "Itel",
     "name": "itel A11",
     "codename": "itel_A11"
   },
@@ -82678,6 +82698,11 @@
     "brand": "LTC(LR)",
     "name": "LTC1066",
     "codename": "LTC1066"
+  },
+  {
+    "brand": "LT_Mobile",
+    "name": "LT 2003",
+    "codename": "LT_2003"
   },
   {
     "brand": "LT_Mobile",
@@ -171221,6 +171246,11 @@
   },
   {
     "brand": "VIVIVIEW",
+    "name": "V10",
+    "codename": "V10"
+  },
+  {
+    "brand": "VIVIVIEW",
     "name": "V5Pro",
     "codename": "V5Pro"
   },
@@ -174183,6 +174213,11 @@
     "brand": "Vivo",
     "name": "PD1731D",
     "codename": "PD1731D"
+  },
+  {
+    "brand": "Vivo",
+    "name": "S17",
+    "codename": "PD2283"
   },
   {
     "brand": "Vivo",
@@ -196391,6 +196426,11 @@
   },
   {
     "brand": "realme",
+    "name": "RMX3771",
+    "codename": "RE58B8L1"
+  },
+  {
+    "brand": "realme",
     "name": "Smart TV",
     "codename": "mateo"
   },
@@ -196476,6 +196516,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme 10 Pro 5G",
+    "codename": "RE58B8L1"
+  },
+  {
+    "brand": "realme",
     "name": "realme 10 Pro+ 5G",
     "codename": "RE58A5L1"
   },
@@ -196488,6 +196533,16 @@
     "brand": "realme",
     "name": "realme 10s",
     "codename": "RE5851"
+  },
+  {
+    "brand": "realme",
+    "name": "realme 11 Pro 5G",
+    "codename": "RE58B8L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme 11 Pro+ 5G",
+    "codename": "RE58B6L1"
   },
   {
     "brand": "realme",
