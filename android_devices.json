@@ -101476,6 +101476,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "motorola edge plus 2023",
+    "codename": "rtwo"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola edge plus 2023",
+    "codename": "rtwo"
+  },
+  {
+    "brand": "Motorola",
     "name": "motorola edge plus 5G UW (2022)",
     "codename": "hiphi"
   },
@@ -101493,16 +101503,6 @@
     "brand": "Motorola",
     "name": "motorola edge 轻奢版",
     "codename": "berlin"
-  },
-  {
-    "brand": "Motorola",
-    "name": "motorola edge+ (2023)",
-    "codename": "rtwo"
-  },
-  {
-    "brand": "Motorola",
-    "name": "motorola edge+ (2023)",
-    "codename": "rtwo"
   },
   {
     "brand": "Motorola",
@@ -101653,6 +101653,16 @@
     "brand": "Motorola",
     "name": "motorola razr 5G",
     "codename": "smith"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola razr plus 2023",
+    "codename": "zeekr"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola razr plus 2023",
+    "codename": "zeekr"
   },
   {
     "brand": "Motorola Solutions",
@@ -171171,6 +171181,11 @@
   },
   {
     "brand": "VIMOQ",
+    "name": "VIMOQ A40",
+    "codename": "VIMOQ-A662LS"
+  },
+  {
+    "brand": "VIMOQ",
     "name": "VIMOQ A507LT",
     "codename": "VIMOQ-A507LT"
   },
@@ -173723,6 +173738,11 @@
     "brand": "ViewSonic",
     "name": "VIEWSONIC",
     "codename": "VIEWPAD_AW7M_PLUS"
+  },
+  {
+    "brand": "ViewSonic",
+    "name": "VPC-A31-O1",
+    "codename": "VPC-A31-O1"
   },
   {
     "brand": "ViewSonic",

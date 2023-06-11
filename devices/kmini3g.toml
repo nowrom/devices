@@ -1,0 +1,9 @@
+brand = "Samsung"
+codename = "kmini3g"
+name = "Galaxy S5 mini"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-unofficial-twrp-3-7-0-for-galaxy-s5-mini-qualcomm.4590967/"
+maintainer = "prototype74"
