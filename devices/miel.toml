@@ -1,8 +1,0 @@
-brand = "Redmi"
-codename = "miel"
-name = "Redmi Note 11S"
-roms = []
-
-[[recoveries]]
-id = "twrp"
-maintainer = "ShazuxD"
