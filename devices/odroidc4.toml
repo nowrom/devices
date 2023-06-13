@@ -1,0 +1,10 @@
+brand = "HardKernel"
+codename = "odroidc4"
+name = "ODROID-C4"
+recoveries = []
+
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A53"
+ram = "4 GB"
+wifi = "802.11 a/b/g/n/ac"

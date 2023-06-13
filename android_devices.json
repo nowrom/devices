@@ -29791,13 +29791,18 @@
   },
   {
     "brand": "Digi",
+    "name": "Digiking 4K Google TV",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "Digi",
     "name": "INFINITY MAX",
     "codename": "DIGIT_INFINITY_MAX"
   },
   {
     "brand": "DigiKing",
-    "name": "Digiking 4K Google TV",
-    "codename": "keoneae"
+    "name": "Digiking 2K Google TV",
+    "codename": "capitolhill"
   },
   {
     "brand": "DigiLand",
@@ -49706,6 +49711,11 @@
   },
   {
     "brand": "Hiking",
+    "name": "A51",
+    "codename": "A51"
+  },
+  {
+    "brand": "Hiking",
     "name": "A55",
     "codename": "A55"
   },
@@ -63706,8 +63716,18 @@
   },
   {
     "brand": "Hyundai",
+    "name": "HYUNDAI 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "Hyundai",
     "name": "HYUNDAI 4K Android TV",
     "codename": "kenton"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "HYUNDAI 4K Google TV",
+    "codename": "keoneae"
   },
   {
     "brand": "Hyundai",
@@ -128965,6 +128985,31 @@
     "codename": "kanda"
   },
   {
+    "brand": "SYLVOX",
+    "name": "SYLVOX 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "SYLVOX",
+    "name": "SYLVOX 4K Google TV-A",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "SYLVOX",
+    "name": "SYLVOX 4K Google TV-B",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "SYLVOX",
+    "name": "SYLVOX 4K Google TV-D",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "SYLVOX",
+    "name": "SYLVOX 4K Google TV-E",
+    "codename": "keoneae"
+  },
+  {
     "brand": "SZSUPER",
     "name": "KIDS05-X5",
     "codename": "KIDS05-X5"
@@ -144181,12 +144226,12 @@
   },
   {
     "brand": "Sharp",
-    "name": "4T-C**EN1/EQ1/ES1/EU1/EP1",
+    "name": "4T-C**EN1/EQ1/ES1/EU1/EP1/FN1",
     "codename": "tcvenruj"
   },
   {
     "brand": "Sharp",
-    "name": "4T-C**EN2/EL1/EQ2",
+    "name": "4T-C**EN2/EL1/EQ2/FN2/FL1",
     "codename": "tcvenruj"
   },
   {
@@ -170228,6 +170273,11 @@
     "brand": "Umidigi",
     "name": "G1 Max RU",
     "codename": "G1_Max"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "G1 Plus",
+    "codename": "G1_Plus"
   },
   {
     "brand": "Umidigi",
