@@ -8561,6 +8561,11 @@
   },
   {
     "brand": "Asanzo",
+    "name": "EX FF Series",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "Asanzo",
     "name": "EX Series",
     "codename": "SW6H"
   },
@@ -19620,6 +19625,11 @@
     "codename": "sunnyvale"
   },
   {
+    "brand": "Britania",
+    "name": "Britania Smart plus TV",
+    "codename": "SW6H"
+  },
+  {
     "brand": "British Telecom",
     "name": "BT Home SmartPhone III",
     "codename": "BT_Home_SmartPhone_III"
@@ -28637,6 +28647,11 @@
   {
     "brand": "Daewoo",
     "name": "DAEWOO SMART TV",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "Daewoo",
+    "name": "DAEWOO SMART TV",
     "codename": "sunnyvale"
   },
   {
@@ -29068,6 +29083,11 @@
     "brand": "Datsun",
     "name": "Datsun_D5500",
     "codename": "D5500"
+  },
+  {
+    "brand": "Dawlance",
+    "name": "DAWLANCE GSMART 4KTV",
+    "codename": "SW6H"
   },
   {
     "brand": "DayMark",
@@ -101721,6 +101741,11 @@
   },
   {
     "brand": "Motorola Solutions",
+    "name": "LEX L11",
+    "codename": "lexl11g_64"
+  },
+  {
+    "brand": "Motorola Solutions",
     "name": "MOTOTRBO ION",
     "codename": "mkz_sdm660_64"
   },
@@ -106058,6 +106083,11 @@
     "brand": "Newland",
     "name": "Newland NLS-N7",
     "codename": "NLS-N7-GL"
+  },
+  {
+    "brand": "Newline",
+    "name": "23QA",
+    "codename": "velvet"
   },
   {
     "brand": "Newline",
@@ -114543,6 +114573,16 @@
     "brand": "Panasonic",
     "name": "4KTV-0SUW",
     "codename": "SW4H"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "4KTV-3SU",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "4KTV-3SUF",
+    "codename": "SW6H"
   },
   {
     "brand": "Panasonic",
@@ -128837,6 +128877,11 @@
   {
     "brand": "SWTV",
     "name": "SW-22AE NF",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "SWTV",
+    "name": "SW-22HK NF",
     "codename": "SW6H"
   },
   {
@@ -146813,6 +146858,11 @@
     "brand": "Singer",
     "name": "SINGER SL SMART TV",
     "codename": "SW4H"
+  },
+  {
+    "brand": "Singer",
+    "name": "Singer 4K GSMART TV",
+    "codename": "SW6H"
   },
   {
     "brand": "Singer",
@@ -178836,6 +178886,11 @@
   },
   {
     "brand": "Walton",
+    "name": "WALTON GSMART 4KTV FF",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "Walton",
     "name": "Walton Primo X5",
     "codename": "Primo_X5"
   },
@@ -183115,6 +183170,11 @@
     "codename": "shinjuku"
   },
   {
+    "brand": "Xtreme",
+    "name": "Xtreme 4K Smart TV",
+    "codename": "SW6H"
+  },
+  {
     "brand": "Xwave",
     "name": "Xpad",
     "codename": "Xpad"
@@ -183431,6 +183491,11 @@
   },
   {
     "brand": "Yasin",
+    "name": "YASIN 4K G Smart TV FF",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "Yasin",
     "name": "Yasin",
     "codename": "bangbae"
   },
@@ -183703,6 +183768,11 @@
     "brand": "Yota Devices",
     "name": "YotaPhone2",
     "codename": "yotaphone2"
+  },
+  {
+    "brand": "YouSee",
+    "name": "YouSee Streamer",
+    "codename": "VIP7020_YouSee"
   },
   {
     "brand": "Youfone",
@@ -196618,6 +196688,16 @@
     "brand": "realme",
     "name": "realme 11 Pro+ 5G",
     "codename": "RE58B6L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme 4K G Smart TV",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "realme",
+    "name": "realme 4K G Smart TV FF",
+    "codename": "SW6H"
   },
   {
     "brand": "realme",
