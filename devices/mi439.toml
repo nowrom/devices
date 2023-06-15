@@ -1,6 +1,6 @@
 brand = "Xiaomi"
-codename = "Mi439"
-name = "Redmi 8A Dual"
+codename = "mi439"
+name = "MI439-Unified"
 
 [[recoveries]]
 id = "twrp"
@@ -27,13 +27,13 @@ wifi = "802.11 b/g/n"
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
-ram = "2 / 3 / 4 GB"
+ram = "2 / 3 GB"
 wifi = "802.11 b/g/n"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
-ram = "2 / 3 GB"
+ram = "2 / 3 / 4 GB"
 wifi = "802.11 b/g/n"
 
 [[roms]]

@@ -12011,6 +12011,11 @@
   },
   {
     "brand": "Azumi",
+    "name": "V52B",
+    "codename": "Azumi_V52B"
+  },
+  {
+    "brand": "Azumi",
     "name": "V54_AC24",
     "codename": "Azumi_V54_AC24"
   },
@@ -12023,6 +12028,11 @@
     "brand": "Azumi",
     "name": "V55_AC04",
     "codename": "Azumi_V55_AC04"
+  },
+  {
+    "brand": "Azumi",
+    "name": "V56B",
+    "codename": "Azumi_V56B"
   },
   {
     "brand": "Azumi",
@@ -12053,6 +12063,16 @@
     "brand": "Azumi",
     "name": "V60",
     "codename": "Azumi_V60"
+  },
+  {
+    "brand": "Azumi",
+    "name": "V61",
+    "codename": "Azumi_V61"
+  },
+  {
+    "brand": "Azumi",
+    "name": "V66",
+    "codename": "AZUMI_V66"
   },
   {
     "brand": "BAKEN",
@@ -14613,6 +14633,11 @@
     "brand": "BYYBUO",
     "name": "BYYBUO_SmartPad_T10",
     "codename": "BYYBUO_SmartPad_T10"
+  },
+  {
+    "brand": "BYYBUO",
+    "name": "SmartPad_A70W",
+    "codename": "SmartPad_A70W"
   },
   {
     "brand": "BYYBUO",
@@ -24096,6 +24121,11 @@
   },
   {
     "brand": "Compaq",
+    "name": "COMPAQ",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "Compaq",
     "name": "CT101",
     "codename": "fireball"
   },
@@ -27188,6 +27218,11 @@
     "brand": "Cyrus",
     "name": "CS45XA",
     "codename": "CS45XA"
+  },
+  {
+    "brand": "Cyrus",
+    "name": "CS45XA_EEA",
+    "codename": "CS45XA2"
   },
   {
     "brand": "Cyrus",
@@ -39223,6 +39258,11 @@
     "brand": "Funai Electric",
     "name": "Smart TV",
     "codename": "peach"
+  },
+  {
+    "brand": "Funkwerk",
+    "name": "focX2_Row",
+    "codename": "focX2"
   },
   {
     "brand": "Fusion5",
@@ -70636,6 +70676,11 @@
   },
   {
     "brand": "JVC",
+    "name": "MTC",
+    "codename": "tennoji"
+  },
+  {
+    "brand": "JVC",
     "name": "R4",
     "codename": "R4"
   },
@@ -72096,6 +72141,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "ACONATIC",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
     "name": "AP",
     "codename": "stanford"
   },
@@ -72117,6 +72167,16 @@
   {
     "brand": "KTCtv",
     "name": "BAUF",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "BOTECH",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "BOTECH",
     "codename": "zhongshan"
   },
   {
@@ -72151,6 +72211,41 @@
   },
   {
     "brand": "KTCtv",
+    "name": "CONTI",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "CONTI",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "DAHUA",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "DAHUA",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "DAHUA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "DAHUA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "DAHUA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
     "name": "DIGGIO",
     "codename": "stanford"
   },
@@ -72158,6 +72253,16 @@
     "brand": "KTCtv",
     "name": "DIGGIO",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "DYON",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "ELECTROMAN",
+    "codename": "stanford"
   },
   {
     "brand": "KTCtv",
@@ -72221,12 +72326,32 @@
   },
   {
     "brand": "KTCtv",
+    "name": "ICE",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "ICE",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
     "name": "INNOVA",
     "codename": "stanford"
   },
   {
     "brand": "KTCtv",
     "name": "INNOVA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "ITEL",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "ITEL",
     "codename": "zhongshan"
   },
   {
@@ -72316,6 +72441,26 @@
   },
   {
     "brand": "KTCtv",
+    "name": "QBELL",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "QBELL",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "ROSSO",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "ROYALRAHMANI",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
     "name": "Rosso",
     "codename": "stanford"
   },
@@ -72338,6 +72483,26 @@
     "brand": "KTCtv",
     "name": "SIERA",
     "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "SKY-ONE",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "SKY-ONE",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "SONEVIEW",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "SONEVIEW",
+    "codename": "zhongshan"
   },
   {
     "brand": "KTCtv",
@@ -72372,6 +72537,16 @@
   {
     "brand": "KTCtv",
     "name": "VON",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "ZEPHIR",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "ZEPHIR",
     "codename": "zhongshan"
   },
   {
@@ -82816,6 +82991,11 @@
   },
   {
     "brand": "LUNA",
+    "name": "LUNA_G6",
+    "codename": "G6"
+  },
+  {
+    "brand": "LUNA",
     "name": "LUNA_G6E",
     "codename": "G6E"
   },
@@ -82878,6 +83058,11 @@
     "brand": "LVILLE",
     "name": "TP1005_EEA",
     "codename": "TP1005_EEA"
+  },
+  {
+    "brand": "LVILLE",
+    "name": "TPC1013",
+    "codename": "TPC1013"
   },
   {
     "brand": "LW",
@@ -108391,6 +108576,11 @@
   },
   {
     "brand": "OSCAL",
+    "name": "Pad13_RU",
+    "codename": "Pad13_NEU"
+  },
+  {
+    "brand": "OSCAL",
     "name": "Pad60_EEA",
     "codename": "Pad60_EEA"
   },
@@ -113528,6 +113718,16 @@
     "brand": "Oukitel",
     "name": "WP21_EEA",
     "codename": "WP21"
+  },
+  {
+    "brand": "Oukitel",
+    "name": "WP22",
+    "codename": "S109"
+  },
+  {
+    "brand": "Oukitel",
+    "name": "WP23",
+    "codename": "S111"
   },
   {
     "brand": "Oukitel",
@@ -126083,6 +126283,11 @@
     "brand": "Reeder",
     "name": "S19 Max Pro",
     "codename": "S19_Max_Pro"
+  },
+  {
+    "brand": "Reeder",
+    "name": "S19 Max Pro S",
+    "codename": "S19_Max_Pro_S"
   },
   {
     "brand": "Reeder",
@@ -152046,6 +152251,11 @@
   },
   {
     "brand": "SparX",
+    "name": "Neo 7 Ultra",
+    "codename": "Neo_7_Ultra"
+  },
+  {
+    "brand": "SparX",
     "name": "S3",
     "codename": "S3"
   },
@@ -169646,6 +169856,11 @@
   },
   {
     "brand": "Ulefone",
+    "name": "Power_Armor_19T",
+    "codename": "Power_Armor_19T"
+  },
+  {
+    "brand": "Ulefone",
     "name": "S10_Pro",
     "codename": "S10_Pro"
   },
@@ -177753,6 +177968,11 @@
     "brand": "Vortex",
     "name": "Sync",
     "codename": "Sync"
+  },
+  {
+    "brand": "Vortex",
+    "name": "T10U",
+    "codename": "T10U"
   },
   {
     "brand": "Vortex",
@@ -192166,6 +192386,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "nubia Pad 3D",
+    "codename": "LumePad"
+  },
+  {
+    "brand": "ZTE",
     "name": "nubia Play",
     "codename": "NX651J"
   },
@@ -194213,6 +194438,11 @@
     "brand": "eBox",
     "name": "Ebox",
     "codename": "diw387eb"
+  },
+  {
+    "brand": "eNOVA",
+    "name": "ENOVA",
+    "codename": "stanford"
   },
   {
     "brand": "eNOVA",
@@ -196293,6 +196523,11 @@
     "brand": "menfop",
     "name": "HaierP8B",
     "codename": "HaierP8B"
+  },
+  {
+    "brand": "mipo",
+    "name": "mipo_M17",
+    "codename": "mipo_M17"
   },
   {
     "brand": "moderness.online",
