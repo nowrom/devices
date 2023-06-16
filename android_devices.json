@@ -24911,6 +24911,11 @@
   },
   {
     "brand": "Continental Edison",
+    "name": "ContinentalEdison 4K Android TV",
+    "codename": "kenton"
+  },
+  {
+    "brand": "Continental Edison",
     "name": "Continential_Edison",
     "codename": "bangbae"
   },
@@ -34198,6 +34203,11 @@
     "brand": "Electroneum",
     "name": "electroneumM1",
     "codename": "electroneumM1"
+  },
+  {
+    "brand": "Element",
+    "name": "Element",
+    "codename": "tennoji"
   },
   {
     "brand": "Element",
@@ -114570,6 +114580,11 @@
     "codename": "lasalle"
   },
   {
+    "brand": "PROTON",
+    "name": "PROTON 4K Android",
+    "codename": "kenton"
+  },
+  {
     "brand": "PS_Mobile",
     "name": "Neo_Pro",
     "codename": "Neo_Pro"
@@ -147981,6 +147996,11 @@
   },
   {
     "brand": "Sky Devices",
+    "name": "Premier_Pro",
+    "codename": "Premier_Pro"
+  },
+  {
+    "brand": "Sky Devices",
     "name": "Prestige2",
     "codename": "SKY_Prestige2_FP"
   },
@@ -155438,6 +155458,11 @@
     "brand": "TCL",
     "name": "TCL 40 XE 5G",
     "codename": "Encore_CAN"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 406",
+    "codename": "Civic_S"
   },
   {
     "brand": "TCL",
@@ -170077,6 +170102,11 @@
   {
     "brand": "Umax",
     "name": "UMAX",
+    "codename": "tennoji"
+  },
+  {
+    "brand": "Umax",
+    "name": "UMAX",
     "codename": "visionbook_P55_LTE"
   },
   {
@@ -170542,6 +170572,11 @@
   {
     "brand": "Umidigi",
     "name": "G1 Plus",
+    "codename": "G1_Plus"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "G1 Plus EEA",
     "codename": "G1_Plus"
   },
   {
@@ -176113,6 +176148,11 @@
     "brand": "Vivo",
     "name": "Y27 5G",
     "codename": "V2248"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y27 5G",
+    "codename": "V2248G"
   },
   {
     "brand": "Vivo",

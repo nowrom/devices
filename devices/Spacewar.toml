@@ -9,18 +9,4 @@ maintainer = "hiper25"
 changelog = "- May patch.\r\n- Update the vibration motor feel.\r\n- System stability.\r\n\r\nbased ROM: 1.5.3"
 
 [[roms]]
-id = "pixelexperience"
-repostories = ["device_nothing_Spacewar","vendor_nothing_Spacewar","kernel_nothing_sm7325"]
-
-[[roms.supported_versions]]
-version_code = "thirteen"
-stable = true
-deprecated = false
-
-[[roms.supported_versions]]
-version_code = "thirteen_plus"
-stable = true
-deprecated = false
-
-[[roms]]
 id = "pixyos"
