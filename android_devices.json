@@ -991,8 +991,18 @@
   },
   {
     "brand": "ASTEX",
+    "name": "ASTEX 2K Android",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "ASTEX",
     "name": "ASTEX 2K Google TV",
     "codename": "capitolhill"
+  },
+  {
+    "brand": "ASTEX",
+    "name": "ASTEX 4K Android",
+    "codename": "kenton"
   },
   {
     "brand": "ASTEX",
@@ -2998,6 +3008,11 @@
     "brand": "Adreamer (Shenzhen)",
     "name": "KidsPad_7",
     "codename": "KidsPad_7"
+  },
+  {
+    "brand": "Adreamer (Shenzhen)",
+    "name": "LeoPad 10X",
+    "codename": "LeoPad_10X"
   },
   {
     "brand": "Adreamer (Shenzhen)",
@@ -12193,6 +12208,16 @@
     "brand": "BEISTA",
     "name": "X80-EEA",
     "codename": "X80-EEA"
+  },
+  {
+    "brand": "BGH S.A.",
+    "name": "BGH 2K Android TV",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "BGH S.A.",
+    "name": "BGH 4K Android TV",
+    "codename": "kenton"
   },
   {
     "brand": "BGH S.A.",
@@ -29861,6 +29886,16 @@
   },
   {
     "brand": "DigiKing",
+    "name": "DigiKing 2K Android",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "DigiKing",
+    "name": "DigiKing 4K Android",
+    "codename": "kenton"
+  },
+  {
+    "brand": "DigiKing",
     "name": "Digiking 2K Google TV",
     "codename": "capitolhill"
   },
@@ -33833,6 +33868,11 @@
     "brand": "EVOFORCE1",
     "name": "FRC1-MOBI",
     "codename": "SEI800MOBI"
+  },
+  {
+    "brand": "EVOFORCE1",
+    "name": "FRC1-Midco",
+    "codename": "SEI800MC"
   },
   {
     "brand": "EVOFORCE1",
@@ -74461,6 +74501,11 @@
   },
   {
     "brand": "Korea Telecom",
+    "name": "KG4100",
+    "codename": "KG4100"
+  },
+  {
+    "brand": "Korea Telecom",
     "name": "KI1101",
     "codename": "KI1101"
   },
@@ -75663,6 +75708,16 @@
     "brand": "LBQ (UK)",
     "name": "LbQ_F8v2",
     "codename": "LbQ_F8v2"
+  },
+  {
+    "brand": "LEADER",
+    "name": "LEADER 2K Android TV",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "LEADER",
+    "name": "LEADER 4K Android TV",
+    "codename": "kenton"
   },
   {
     "brand": "LEGEND",
@@ -92396,6 +92451,16 @@
   },
   {
     "brand": "Majestic",
+    "name": "MAJESTIC 2K Android TV",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "Majestic",
+    "name": "MAJESTIC 4K Android TV",
+    "codename": "kenton"
+  },
+  {
+    "brand": "Majestic",
     "name": "TAB 611 3G",
     "codename": "TAB_611_3G"
   },
@@ -98036,8 +98101,18 @@
   },
   {
     "brand": "Mobiwire",
+    "name": "ALTICE S35",
+    "codename": "S35"
+  },
+  {
+    "brand": "Mobiwire",
     "name": "Ahiga",
     "codename": "Ahiga"
+  },
+  {
+    "brand": "Mobiwire",
+    "name": "Altice E55",
+    "codename": "E55"
   },
   {
     "brand": "Mobiwire",
@@ -108525,6 +108600,16 @@
     "codename": "samseong"
   },
   {
+    "brand": "ORCA",
+    "name": "ORCA 2K Android TV",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "ORCA",
+    "name": "ORCA 4K Android TV",
+    "codename": "kenton"
+  },
+  {
     "brand": "ORION",
     "name": "Smart TV",
     "codename": "longshan"
@@ -114533,6 +114618,16 @@
     "brand": "POSSAFE",
     "name": "OrderGo5_EEA",
     "codename": "OrderGo5"
+  },
+  {
+    "brand": "PRIMA",
+    "name": "PRIMA 2K Android TV",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "PRIMA",
+    "name": "PRIMA 4K Android TV",
+    "codename": "kenton"
   },
   {
     "brand": "PRISMPLUS",
@@ -123846,6 +123941,16 @@
   },
   {
     "brand": "RCA",
+    "name": "RCA 2K Android TV",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "RCA",
+    "name": "RCA 4K Android TV",
+    "codename": "kenton"
+  },
+  {
+    "brand": "RCA",
     "name": "RCA DRP2091",
     "codename": "DRP2091"
   },
@@ -129273,6 +129378,31 @@
     "brand": "SYLVOX",
     "name": "SYLVOX 4K Google TV-E",
     "codename": "keoneae"
+  },
+  {
+    "brand": "SYLVOX",
+    "name": "Smart TV 2K",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "SYLVOX",
+    "name": "Smart TV 2K-A",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "SYLVOX",
+    "name": "Smart TV 2K-B",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "SYLVOX",
+    "name": "Smart TV 4K",
+    "codename": "kenton"
+  },
+  {
+    "brand": "SYLVOX",
+    "name": "Smart TV 4K-B",
+    "codename": "kenton"
   },
   {
     "brand": "SZSUPER",
@@ -149397,7 +149527,17 @@
   {
     "brand": "Sony",
     "name": "Xperia 1 V",
+    "codename": "A301SO"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 V",
     "codename": "SO-51D"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 V",
+    "codename": "SOG10"
   },
   {
     "brand": "Sony",
@@ -155458,6 +155598,11 @@
     "brand": "TCL",
     "name": "TCL 40 XE 5G",
     "codename": "Encore_CAN"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 40 XE 5G",
+    "codename": "Encore_USCC"
   },
   {
     "brand": "TCL",
@@ -166593,6 +166738,11 @@
     "brand": "Tecno Mobile",
     "name": "PHANTOM X2 5G",
     "codename": "TECNO-Mobile-AD8"
+  },
+  {
+    "brand": "Tecno Mobile",
+    "name": "POVA 5",
+    "codename": "TECNO-Mobile-LH7n"
   },
   {
     "brand": "Tecno Mobile",
@@ -184200,6 +184350,11 @@
     "codename": "2QRK"
   },
   {
+    "brand": "ZENOS",
+    "name": "ZENOS 4K Android TV",
+    "codename": "kenton"
+  },
+  {
     "brand": "ZENTALITY",
     "name": "C-601",
     "codename": "C-601"
@@ -194385,6 +194540,16 @@
     "codename": "AIM-H1"
   },
   {
+    "brand": "carp(IN)",
+    "name": "carp 2K Android TV",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "carp(IN)",
+    "name": "carp 4K Android TV",
+    "codename": "kenton"
+  },
+  {
     "brand": "carrozzeria",
     "name": "SDA-700TAB",
     "codename": "SDA_700TAB"
@@ -195278,6 +195443,11 @@
     "brand": "iData",
     "name": "iData K1",
     "codename": "iData_K1_EEA"
+  },
+  {
+    "brand": "iData",
+    "name": "iData P1",
+    "codename": "iData_P1"
   },
   {
     "brand": "iData",
