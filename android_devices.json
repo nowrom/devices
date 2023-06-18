@@ -83636,6 +83636,11 @@
   },
   {
     "brand": "Lanix",
+    "name": "NA",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Lanix",
     "name": "RX8",
     "codename": "Ilium_PAD_RX8"
   },
@@ -101953,6 +101958,16 @@
     "brand": "Motorola",
     "name": "motorola razr 2022",
     "codename": "oneli"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola razr 40",
+    "codename": "lynkco"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola razr 40",
+    "codename": "lynkco"
   },
   {
     "brand": "Motorola",
