@@ -14,6 +14,7 @@ maintainer = "Himanshu Raj (hraj9258)"
 [[roms]]
 id = "arrowos"
 maintainer = "madmax7896"
+changelog = "* Update blobs to V14.0.2.0.TLMMIXM\r\n* Adjusted statusbar height\r\n* Updated punch-hole cutout\r\n* Removed unnecessary powerhints\r\n* Decreased launch boost to 3sec\r\n* Tweaked powerhint for better performance and interaction\r\n* Fixed qs lags with new QS clock"
 
 [[roms]]
 id = "crdroid"
