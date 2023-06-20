@@ -22,7 +22,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "sarthakroy2002, blur"
-changelog = "- Based on MIUI 14 FW"
+changelog = "- Based on MIUI 14 FW\r\n- Powered by NetErnels kernel!\r\n\r\nArrowOS Recovery: https://t.me/ashwin_cloud/374\r\n\r\nFlashing Guide:\r\n- Flash ArrowOS Recovery\r\n- Boot to ArrowOS Recovery\r\n- Sideload the ROM\r\n- Reboot to system"
 
 [[roms]]
 id = "cherishos"
