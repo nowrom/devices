@@ -1,0 +1,10 @@
+brand = "Samsung"
+codename = "m52xq"
+name = "Galaxy M52 5G"
+recoveries = []
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 670"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac/ax, Dual-band, Wi-Fi Direct, Hotspot"

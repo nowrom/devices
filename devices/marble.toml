@@ -1,0 +1,10 @@
+brand = "Xiaomi"
+codename = "marble"
+name = "POCO F5 / Redmi Note 12 Turbo"
+recoveries = []
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"

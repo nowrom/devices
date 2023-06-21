@@ -33921,6 +33921,46 @@
   },
   {
     "brand": "EVOFORCE1",
+    "name": "FRC1-ABB",
+    "codename": "SEI800ABB"
+  },
+  {
+    "brand": "EVOFORCE1",
+    "name": "FRC1-Armstrong",
+    "codename": "SEI800AS"
+  },
+  {
+    "brand": "EVOFORCE1",
+    "name": "FRC1-BlueRidge",
+    "codename": "SEI800BR"
+  },
+  {
+    "brand": "EVOFORCE1",
+    "name": "FRC1-BlueStream",
+    "codename": "SEI800BS"
+  },
+  {
+    "brand": "EVOFORCE1",
+    "name": "FRC1-CBT",
+    "codename": "SEI800CB"
+  },
+  {
+    "brand": "EVOFORCE1",
+    "name": "FRC1-CableCo",
+    "codename": "SEI800TV"
+  },
+  {
+    "brand": "EVOFORCE1",
+    "name": "FRC1-Eastlink",
+    "codename": "SEI800ESTL"
+  },
+  {
+    "brand": "EVOFORCE1",
+    "name": "FRC1-MDCOM",
+    "codename": "SEI800MDCOM"
+  },
+  {
+    "brand": "EVOFORCE1",
     "name": "FRC1-MOBI",
     "codename": "SEI800MOBI"
   },
@@ -33936,12 +33976,37 @@
   },
   {
     "brand": "EVOFORCE1",
+    "name": "FRC1-SECV",
+    "codename": "SEI800SECV"
+  },
+  {
+    "brand": "EVOFORCE1",
+    "name": "FRC1-TDS",
+    "codename": "SEI800TDS"
+  },
+  {
+    "brand": "EVOFORCE1",
+    "name": "\"US",
+    "codename": " Canada"
+  },
+  {
+    "brand": "EVOFORCE1",
     "name": "USA",
     "codename": "SEI800MOBI"
   },
   {
     "brand": "EVOFORCE1",
     "name": "USA",
+    "codename": "SEI800MOBI"
+  },
+  {
+    "brand": "EVOFORCE1",
+    "name": "USA&Canada",
+    "codename": "SEI800MOBI"
+  },
+  {
+    "brand": "EVOFORCE1",
+    "name": "USA&Canada",
     "codename": "SEI800MOBI"
   },
   {
@@ -69916,6 +69981,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel A24 2023",
+    "codename": "itel-A507LSP"
+  },
+  {
+    "brand": "Itel",
     "name": "itel A24 Pro",
     "codename": "itel-A511LP2"
   },
@@ -70068,6 +70138,11 @@
     "brand": "Itel",
     "name": "itel A60",
     "codename": "itel-A662L"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel A60s",
+    "codename": "itel-A662LM"
   },
   {
     "brand": "Itel",
@@ -164571,6 +164646,16 @@
   },
   {
     "brand": "Teclast",
+    "name": "M40_Plus_EEA",
+    "codename": "M40_Plus_EEA"
+  },
+  {
+    "brand": "Teclast",
+    "name": "M40_Plus_ROW",
+    "codename": "M40_Plus_ROW"
+  },
+  {
+    "brand": "Teclast",
     "name": "M40_ROW",
     "codename": "M40_ROW"
   },
@@ -164753,6 +164838,16 @@
     "brand": "Teclast",
     "name": "P30S_ROW",
     "codename": "P30S_ROW"
+  },
+  {
+    "brand": "Teclast",
+    "name": "P30S_W_EEA",
+    "codename": "P30S_W_EEA"
+  },
+  {
+    "brand": "Teclast",
+    "name": "P30S_W_ROW",
+    "codename": "P30S_W_ROW"
   },
   {
     "brand": "Teclast",
@@ -165033,6 +165128,16 @@
     "brand": "Teclast",
     "name": "T40_Plus_RUS",
     "codename": "T40_Plus_RUS"
+  },
+  {
+    "brand": "Teclast",
+    "name": "T40_Pro_W_EEA",
+    "codename": "T40_Pro_W_EEA"
+  },
+  {
+    "brand": "Teclast",
+    "name": "T40_Pro_W_ROW",
+    "codename": "T40_Pro_W_ROW"
   },
   {
     "brand": "Teclast",
@@ -194923,6 +195028,11 @@
     "brand": "eSTREAM 4K",
     "name": "Pyxis-SECV",
     "codename": "SEI500SECV"
+  },
+  {
+    "brand": "eSTREAM 4K",
+    "name": "Pyxis-TDS",
+    "codename": "SEI500TDS"
   },
   {
     "brand": "eSTREAM 4K",

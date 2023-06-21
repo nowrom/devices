@@ -1,0 +1,9 @@
+brand = "Oppo"
+codename = "A37f"
+name = "A37fw"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-twrp-recovery-for-oppo-a37f.4597741/"
+maintainer = "Meghthedev"
