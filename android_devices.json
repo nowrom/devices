@@ -17606,6 +17606,11 @@
   },
   {
     "brand": "Blu",
+    "name": "C5L Max",
+    "codename": "C0175"
+  },
+  {
+    "brand": "Blu",
     "name": "C5L PLUS",
     "codename": "C0130UU"
   },
@@ -26996,6 +27001,11 @@
   },
   {
     "brand": "Cubot",
+    "name": "KINGKONG STAR",
+    "codename": "KINGKONG_STAR"
+  },
+  {
+    "brand": "Cubot",
     "name": "KINGKONG_MINI",
     "codename": "KINGKONG_MINI"
   },
@@ -28433,6 +28443,11 @@
     "brand": "DIFRNCE",
     "name": "DIT702201",
     "codename": "DIT702201"
+  },
+  {
+    "brand": "DIJITSU",
+    "name": "DCT 90",
+    "codename": "DCT_90"
   },
   {
     "brand": "DIJITSU",
@@ -43351,6 +43366,11 @@
   },
   {
     "brand": "Google",
+    "name": "Pixel Tablet",
+    "codename": "tangorpro"
+  },
+  {
+    "brand": "Google",
     "name": "Pixel Watch",
     "codename": "r11"
   },
@@ -52268,6 +52288,11 @@
     "brand": "Hisense",
     "name": "Hisense U964",
     "codename": "HLTE106E_02"
+  },
+  {
+    "brand": "Hisense",
+    "name": "Hisense U964",
+    "codename": "HS7731ESP"
   },
   {
     "brand": "Hisense",
@@ -63971,6 +63996,11 @@
   },
   {
     "brand": "Hyundai",
+    "name": "HYUNDAI",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Hyundai",
     "name": "HYUNDAI 2K Android TV",
     "codename": "lasalle"
   },
@@ -72772,6 +72802,16 @@
   {
     "brand": "KTCtv",
     "name": "VON",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "WISMANN",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "WISMANN",
     "codename": "zhongshan"
   },
   {
@@ -168011,6 +168051,11 @@
   },
   {
     "brand": "Thomson",
+    "name": "TEO8M2BK32LTE",
+    "codename": "TEO8M2BK32LTE"
+  },
+  {
+    "brand": "Thomson",
     "name": "TEOX102",
     "codename": "TEOX102"
   },
@@ -192491,6 +192536,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade A72s",
+    "codename": "P606F05"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade A7s",
     "codename": "P662F02"
   },
@@ -192613,6 +192663,11 @@
     "brand": "ZTE",
     "name": "ZTE Blade V2020 Vita",
     "codename": "P671F70"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade V50 Design 5G",
+    "codename": "P720F03"
   },
   {
     "brand": "ZTE",
