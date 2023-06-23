@@ -19,8 +19,7 @@ xda_thread = "https://forum.xda-developers.com/t/title-rom-11-0-device-aospk-the
 
 [[roms]]
 id = "arrowos"
-maintainer = "Ratoriku, Hazama25"
-changelog = "- Upstream"
+maintainer = "Aaradhay Vijay"
 
 [[roms]]
 id = "blissroms"

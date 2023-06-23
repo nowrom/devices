@@ -10,7 +10,7 @@ changelog = "<h4>Supported devices:</h4>\r\n<ul><li>POCO X4 Pro 5G (Global/India
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/18-Apr-2023/"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/21-Jun-2023/"
 recovery = ""
 
 [[roms]]
@@ -27,13 +27,13 @@ repostories = ["device_xiaomi_veux","device_xiaomi_veux-kernel","kernel_xiaomi_s
 version_code = "thirteen"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-veux-pixelexperience-aosp.4557537/"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-veux-pixelexperience-aosp.4557537/"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms]]
 id = "pixelextended"
