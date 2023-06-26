@@ -25,6 +25,12 @@ id = "blissroms"
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 250"
 ram = "2/3/4 GB"

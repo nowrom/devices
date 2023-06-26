@@ -114746,6 +114746,11 @@
   },
   {
     "brand": "POCO",
+    "name": "POCO F5",
+    "codename": "marble"
+  },
+  {
+    "brand": "POCO",
     "name": "POCO M2",
     "codename": "shiva"
   },
@@ -125536,6 +125541,11 @@
   },
   {
     "brand": "Redmi",
+    "name": "POCO F5",
+    "codename": "marblein"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi  7A",
     "codename": "pine"
   },
@@ -126288,6 +126298,11 @@
     "brand": "Redmi",
     "name": "Redmi Note 12 Pro+ 5G",
     "codename": "rubypro"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 12 Turbo",
+    "codename": "marble"
   },
   {
     "brand": "Redmi",
@@ -155310,6 +155325,11 @@
     "codename": "T7K-PLUS"
   },
   {
+    "brand": "TAIFA",
+    "name": "TL1B_68",
+    "codename": "TL1B_68"
+  },
+  {
     "brand": "TASKPHONE",
     "name": "T20",
     "codename": "T20P"
@@ -165861,7 +165881,7 @@
   },
   {
     "brand": "Tecno",
-    "name": "PHANTOM V  Fold",
+    "name": "PHANTOM V Fold",
     "codename": "TECNO-AD10"
   },
   {
@@ -183646,6 +183666,11 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Xiaomi 13 Ultra",
+    "codename": "ishtar"
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Xiaomi 13 pro",
     "codename": "nuwa"
   },
@@ -183693,6 +183718,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi Pad 5 Pro 5G",
     "codename": "enuma"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Pad 6",
+    "codename": "pipa"
   },
   {
     "brand": "Xiaomi",
@@ -188658,6 +188688,11 @@
     "brand": "ZTE",
     "name": "NOS NOVU III",
     "codename": "P637F10"
+  },
+  {
+    "brand": "ZTE",
+    "name": "NP01J",
+    "codename": "P898P02"
   },
   {
     "brand": "ZTE",
@@ -194323,6 +194358,11 @@
     "brand": "Zuum",
     "name": "MAGNO C",
     "codename": "MAGNO_C"
+  },
+  {
+    "brand": "Zuum",
+    "name": "MAGNO C PLUS",
+    "codename": "Magno_C_Plus"
   },
   {
     "brand": "Zuum",
