@@ -20,12 +20,6 @@ recovery = "https://sourceforge.net/projects/crdroid/files/hotdog/9.x/recovery/"
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/hotdog/Havoc-OS-v5.7-20220710-hotdog-Official-GApps.zip"
 maintainer = "Anushek Prasal"

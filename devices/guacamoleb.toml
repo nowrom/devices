@@ -8,12 +8,6 @@ xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-r
 maintainer = "Nebrassy"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "lineageos"
 cpu = "Kryo 485"
 ram = "6/8 GB LPDDR4X"

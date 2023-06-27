@@ -117496,6 +117496,16 @@
   },
   {
     "brand": "Philips",
+    "name": "Philips Google TV TA6",
+    "codename": "kujo"
+  },
+  {
+    "brand": "Philips",
+    "name": "Philips Google TV TA7",
+    "codename": "PH3M_AL_T32"
+  },
+  {
+    "brand": "Philips",
     "name": "Philips S257",
     "codename": "S257"
   },
@@ -125693,6 +125703,26 @@
     "brand": "Redmi",
     "name": "Redmi 11 Prime 5G",
     "codename": "light"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi 12",
+    "codename": "fire"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi 12",
+    "codename": "fire"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi 12",
+    "codename": "fire"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi 12",
+    "codename": "heat"
   },
   {
     "brand": "Redmi",
@@ -171903,6 +171933,11 @@
     "brand": "V2COM",
     "name": "T2",
     "codename": "ROCKY_T2"
+  },
+  {
+    "brand": "V7",
+    "name": "IFPXX03-V7PRO",
+    "codename": "rk3588_t"
   },
   {
     "brand": "V7",

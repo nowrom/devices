@@ -24,12 +24,6 @@ recovery = "https://sourceforge.net/projects/crdroid/files/guacamole/9.x/recover
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/guacamole/Havoc-OS-v5.7-20220710-guacamole-Official-GApps.zip"
 maintainer = "Anushek Prasal"

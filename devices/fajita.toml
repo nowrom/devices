@@ -22,12 +22,6 @@ recovery = ""
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/fajita/Havoc-OS-v5.7-20220711-fajita-Official-GApps.zip"
 maintainer = "Vikas Yaduvanshi"

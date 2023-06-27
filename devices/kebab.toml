@@ -21,12 +21,6 @@ recovery = "https://sourceforge.net/projects/crdroid/files/kebab/9.x/recovery/"
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "lineageos"
 cpu = "Kryo 585"
 ram = "8/12GB GB LPDDR4X/LPDDR5"
