@@ -54766,6 +54766,11 @@
   },
   {
     "brand": "Honor",
+    "name": "HONOR 90",
+    "codename": "HNREA"
+  },
+  {
+    "brand": "Honor",
     "name": "HONOR Magic Vs",
     "codename": "HNFRI"
   },
@@ -54943,11 +54948,6 @@
     "brand": "Honor",
     "name": "HONOR X9a 5G",
     "codename": "HNRMO-Q"
-  },
-  {
-    "brand": "Honor",
-    "name": "RBN-NX1",
-    "codename": "HNRBN-Q"
   },
   {
     "brand": "Hoozo",
