@@ -8731,6 +8731,11 @@
   },
   {
     "brand": "Aspera",
+    "name": "AS57",
+    "codename": "AS57"
+  },
+  {
+    "brand": "Aspera",
     "name": "AS6",
     "codename": "AS6"
   },
@@ -34001,11 +34006,6 @@
   },
   {
     "brand": "EVOFORCE1",
-    "name": "\"US",
-    "codename": " Canada"
-  },
-  {
-    "brand": "EVOFORCE1",
     "name": "USA",
     "codename": "SEI800MOBI"
   },
@@ -37168,6 +37168,11 @@
     "brand": "FUNKER",
     "name": "E500i",
     "codename": "E500i"
+  },
+  {
+    "brand": "FUSE4K",
+    "name": "FUSE 4K",
+    "codename": "SEI700TV"
   },
   {
     "brand": "FaceVsion",
@@ -43348,6 +43353,11 @@
     "brand": "Google",
     "name": "Pixel C",
     "codename": "dragon"
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel Fold",
+    "codename": "felix"
   },
   {
     "brand": "Google",
@@ -165278,6 +165288,11 @@
     "brand": "Teclast",
     "name": "T50Air_EEA",
     "codename": "T50Air"
+  },
+  {
+    "brand": "Teclast",
+    "name": "T50Pro_W_ROW",
+    "codename": "T50Pro_W_ROW"
   },
   {
     "brand": "Teclast",
