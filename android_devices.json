@@ -8731,6 +8731,11 @@
   },
   {
     "brand": "Aspera",
+    "name": "AS5",
+    "codename": "AS5"
+  },
+  {
+    "brand": "Aspera",
     "name": "AS57",
     "codename": "AS57"
   },
@@ -8743,6 +8748,11 @@
     "brand": "Aspera",
     "name": "AS7",
     "codename": "AS7"
+  },
+  {
+    "brand": "Aspera",
+    "name": "AS8",
+    "codename": "AS8"
   },
   {
     "brand": "Aspera",
@@ -24253,6 +24263,11 @@
     "brand": "Compaq",
     "name": "QTab8_LTE",
     "codename": "QTab8_LTE"
+  },
+  {
+    "brand": "Compaq",
+    "name": "Qtab 10.1 with keyboard",
+    "codename": "Qtab10"
   },
   {
     "brand": "Concord",
@@ -48943,6 +48958,11 @@
     "brand": "Haier",
     "name": "Haier MatrixTV BS",
     "codename": "jordan"
+  },
+  {
+    "brand": "Haier",
+    "name": "Haier OLED TV AE",
+    "codename": "irvine"
   },
   {
     "brand": "Haier",
@@ -129656,6 +129676,11 @@
   },
   {
     "brand": "SWTV",
+    "name": "SWTV-22AE-4K",
+    "codename": "anaheim"
+  },
+  {
+    "brand": "SWTV",
     "name": "SWTV-22AE-FHD",
     "codename": "umeda"
   },
@@ -169101,6 +169126,11 @@
   },
   {
     "brand": "Trident",
+    "name": "A55",
+    "codename": "A55"
+  },
+  {
+    "brand": "Trident",
     "name": "A75 Pro Max",
     "codename": "A75"
   },
@@ -171063,6 +171093,16 @@
     "brand": "Umidigi",
     "name": "C1 Max EEA",
     "codename": "C1_Max"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "C1 Plus",
+    "codename": "C1_Plus"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "C1 Plus EEA",
+    "codename": "C1_Plus"
   },
   {
     "brand": "Umidigi",
