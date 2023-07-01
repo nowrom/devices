@@ -1,0 +1,9 @@
+brand = "OnePlus"
+codename = "opkona"
+name = "kona"
+recoveries = []
+
+[[roms]]
+id = "arrowos"
+maintainer = "DawfukFR"
+changelog = "Initial Build :\r\nAdd Dolby Audio\r\nUpdate to OOS 13.1.0.580(EX01) \r\nUnify Oneplus 8/8T/8P/9R\r\nSwitch to adreno and perf stack from qcom common\r\nSwitch to armv8-2a-dotprod CPU variant \r\nEnable touchpanel offscreen gestures\r\nSome optimisation, etc..."

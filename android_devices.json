@@ -4001,6 +4001,11 @@
   },
   {
     "brand": "Aiwa",
+    "name": "JA3-TBA1005",
+    "codename": "JA3-TBA1005"
+  },
+  {
+    "brand": "Aiwa",
     "name": "R3",
     "codename": "R3"
   },
@@ -8648,6 +8653,36 @@
     "brand": "Ascom",
     "name": "Ascom Myco 3",
     "codename": "ADAA"
+  },
+  {
+    "brand": "Ascom",
+    "name": "Myco 4 Cellular Wi-Fi",
+    "codename": "SH4-1"
+  },
+  {
+    "brand": "Ascom",
+    "name": "Myco 4 Cellular Wi-Fi EEA",
+    "codename": "SH4-1"
+  },
+  {
+    "brand": "Ascom",
+    "name": "Myco 4 Slim",
+    "codename": "SH4-2"
+  },
+  {
+    "brand": "Ascom",
+    "name": "Myco 4 Slim EEA",
+    "codename": "SH4-2"
+  },
+  {
+    "brand": "Ascom",
+    "name": "Myco 4 Wi-Fi",
+    "codename": "SH4-2"
+  },
+  {
+    "brand": "Ascom",
+    "name": "Myco 4 Wi-Fi EEA",
+    "codename": "SH4-2"
   },
   {
     "brand": "Ascom Wireless Solutions",
@@ -23693,6 +23728,11 @@
     "brand": "Clementoni",
     "name": "Neo_Clempad_2021",
     "codename": "Neo_Clempad_2021"
+  },
+  {
+    "brand": "Clevertouch",
+    "name": "\"Clevertouch 65\"\" Impact LUX\"",
+    "codename": "rk3588_t"
   },
   {
     "brand": "Click",
@@ -71610,6 +71650,11 @@
     "codename": "KTB-168"
   },
   {
+    "brand": "KAT(AF)",
+    "name": "SM1_Tablet",
+    "codename": "SM1_Tablet"
+  },
+  {
     "brand": "KAZAM",
     "name": "TROOPER X3.5",
     "codename": "KAZAM"
@@ -101923,6 +101968,11 @@
     "brand": "Motorola",
     "name": "moto z4",
     "codename": "foles"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola defy x",
+    "codename": "BM2S1E"
   },
   {
     "brand": "Motorola",
@@ -166508,6 +166558,11 @@
     "brand": "Tecno",
     "name": "TECNO CAMON 20",
     "codename": "TECNO-CK6n"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO CAMON 20",
+    "codename": "TECNO-CK6ns"
   },
   {
     "brand": "Tecno",
