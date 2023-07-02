@@ -13,6 +13,12 @@ gapps = ""
 recovery = "https://sourceforge.net/projects/crdroid/files/instantnoodlep/9.x/recovery/"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 585"
 ram = "8/12GB GB LPDDR4X"

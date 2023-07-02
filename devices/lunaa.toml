@@ -1,0 +1,9 @@
+brand = "Realme"
+codename = "lunaa"
+name = "Realme GT Master Editon"
+recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T"
+recovery = ""

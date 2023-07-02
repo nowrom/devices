@@ -29,7 +29,7 @@ id = "cherishos"
 
 [[roms]]
 id = "crdroid"
-gapps = ""
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/27-Jun-2023/NikGapps-omni-arm64-13-20230627-signed.zip/download"
 recovery = "https://orangefox.download/device/lavender"
 
 [[roms]]

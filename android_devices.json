@@ -10766,6 +10766,11 @@
   },
   {
     "brand": "Asus",
+    "name": "Zenfone 10 (VanGogh)",
+    "codename": "ASUS_AI2302"
+  },
+  {
+    "brand": "Asus",
     "name": "Zenfone 8 / ASUS 8Z",
     "codename": "ASUS_I006D"
   },
@@ -143293,6 +143298,26 @@
     "brand": "Samsung",
     "name": "Galaxy Watch5 Pro",
     "codename": "projectxul"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Watch6",
+    "codename": "fresh6bl"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Watch6",
+    "codename": "fresh6bs"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Watch6 Classic",
+    "codename": "wise6bl"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Watch6 Classic",
+    "codename": "wise6bs"
   },
   {
     "brand": "Samsung",
