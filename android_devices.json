@@ -10766,7 +10766,7 @@
   },
   {
     "brand": "Asus",
-    "name": "Zenfone 10 (VanGogh)",
+    "name": "Zenfone 10 (AI2302)",
     "codename": "ASUS_AI2302"
   },
   {
@@ -55023,6 +55023,11 @@
     "brand": "Honor",
     "name": "HONOR X9a 5G",
     "codename": "HNRMO-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "RBN-NX1",
+    "codename": "HNRBN-Q"
   },
   {
     "brand": "Hoozo",
@@ -135711,6 +135716,26 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy M34 5G",
+    "codename": "m34x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M34 5G",
+    "codename": "m34x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M34 5G",
+    "codename": "m34x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M34 5G",
+    "codename": "m34x"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy M40",
     "codename": "m40"
   },
@@ -143298,26 +143323,6 @@
     "brand": "Samsung",
     "name": "Galaxy Watch5 Pro",
     "codename": "projectxul"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Watch6",
-    "codename": "fresh6bl"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Watch6",
-    "codename": "fresh6bs"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Watch6 Classic",
-    "codename": "wise6bl"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy Watch6 Classic",
-    "codename": "wise6bs"
   },
   {
     "brand": "Samsung",
