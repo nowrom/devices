@@ -15016,11 +15016,6 @@
   },
   {
     "brand": "BenQ",
-    "name": "730",
-    "codename": "redwood"
-  },
-  {
-    "brand": "BenQ",
     "name": "A3",
     "codename": "A3"
   },
@@ -15218,6 +15213,11 @@
     "brand": "BenQ",
     "name": "Smart TV",
     "codename": "longshan"
+  },
+  {
+    "brand": "BenQ",
+    "name": "Smart TV",
+    "codename": "redwood"
   },
   {
     "brand": "BenQ",
@@ -27113,6 +27113,11 @@
     "brand": "Cubot",
     "name": "NOTE 30",
     "codename": "NOTE_30"
+  },
+  {
+    "brand": "Cubot",
+    "name": "NOTE 50",
+    "codename": "NOTE_50"
   },
   {
     "brand": "Cubot",
@@ -44262,6 +44267,11 @@
   {
     "brand": "HKC Elec",
     "name": "Google TV",
+    "codename": "lakeside"
+  },
+  {
+    "brand": "HKC Elec",
+    "name": "Google TV",
     "codename": "nagai"
   },
   {
@@ -54846,6 +54856,16 @@
   },
   {
     "brand": "Honor",
+    "name": "HONOR 90 Lite",
+    "codename": "HNCRT-M2"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR 90 Lite",
+    "codename": "HNCRT-M2"
+  },
+  {
+    "brand": "Honor",
     "name": "HONOR Magic Vs",
     "codename": "HNFRI"
   },
@@ -54903,6 +54923,11 @@
     "brand": "Honor",
     "name": "HONOR Pad X8 Lite",
     "codename": "HNAGM"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR Pad X9",
+    "codename": "HNELN-Q"
   },
   {
     "brand": "Honor",
