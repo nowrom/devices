@@ -150,6 +150,11 @@
     "codename": "Swegue_2"
   },
   {
+    "brand": "8849",
+    "name": "TANK2",
+    "codename": "TANK2"
+  },
+  {
     "brand": "9mobile",
     "name": "DM_T901",
     "codename": "DM_T901"
@@ -10936,6 +10941,11 @@
   },
   {
     "brand": "Atozee",
+    "name": "CP20_MAX",
+    "codename": "CP20_MAX"
+  },
+  {
+    "brand": "Atozee",
     "name": "CP30",
     "codename": "CP30"
   },
@@ -10953,6 +10963,11 @@
     "brand": "Atozee",
     "name": "YQ10S_Gold",
     "codename": "YQ10S_Gold"
+  },
+  {
+    "brand": "Atozee",
+    "name": "YQ10S_MAX",
+    "codename": "YQ10S_MAX"
   },
   {
     "brand": "Atria Convergence Technologies",
@@ -16201,6 +16216,11 @@
   },
   {
     "brand": "Blackview",
+    "name": "Active 8 Pro",
+    "codename": "Active8Pro"
+  },
+  {
+    "brand": "Blackview",
     "name": "BL5000",
     "codename": "BL5000"
   },
@@ -16448,6 +16468,11 @@
     "brand": "Blackview",
     "name": "BV8800",
     "codename": "BV8800"
+  },
+  {
+    "brand": "Blackview",
+    "name": "BV8900",
+    "codename": "BV8900"
   },
   {
     "brand": "Blackview",
@@ -17053,6 +17078,16 @@
     "brand": "Blaupunkt",
     "name": "BP_6110",
     "codename": "BP_6110"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "BP_T6108X",
+    "codename": "BP_T6108X"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "BP_T6110X",
+    "codename": "BP_T6110X"
   },
   {
     "brand": "Blaupunkt",
@@ -28481,6 +28516,11 @@
   },
   {
     "brand": "DIALN",
+    "name": "S8",
+    "codename": "S8"
+  },
+  {
+    "brand": "DIALN",
     "name": "X10ULTRA",
     "codename": "X10ULTRA"
   },
@@ -28716,6 +28756,11 @@
   },
   {
     "brand": "DOMATON",
+    "name": "D102",
+    "codename": "D102"
+  },
+  {
+    "brand": "DOMATON",
     "name": "K111",
     "codename": "K111"
   },
@@ -28728,6 +28773,11 @@
     "brand": "DOMATON",
     "name": "MID_1099IPS",
     "codename": "MID_1099IPS"
+  },
+  {
+    "brand": "DOMATON",
+    "name": "Ocean_K10",
+    "codename": "Ocean_K10"
   },
   {
     "brand": "DORA",
@@ -31666,6 +31716,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "R10",
+    "codename": "PT1"
+  },
+  {
+    "brand": "Doogee",
     "name": "S100",
     "codename": "M22"
   },
@@ -31673,6 +31728,11 @@
     "brand": "Doogee",
     "name": "S100Pro",
     "codename": "M22H"
+  },
+  {
+    "brand": "Doogee",
+    "name": "S110",
+    "codename": "M22P"
   },
   {
     "brand": "Doogee",
@@ -31938,6 +31998,11 @@
     "brand": "Doogee",
     "name": "T20",
     "codename": "P2_2"
+  },
+  {
+    "brand": "Doogee",
+    "name": "T20S",
+    "codename": "P2D"
   },
   {
     "brand": "Doogee",
@@ -34903,6 +34968,11 @@
     "brand": "Emerson",
     "name": "EM9",
     "codename": "EM9"
+  },
+  {
+    "brand": "Emporia",
+    "name": "E6_EEA",
+    "codename": "E6"
   },
   {
     "brand": "Emporia",
@@ -39833,6 +39903,11 @@
     "brand": "G-TOUCH",
     "name": "Stella_Omega",
     "codename": "Stella_Omega"
+  },
+  {
+    "brand": "G-Tab",
+    "name": "C10",
+    "codename": "C10-pro"
   },
   {
     "brand": "G-Tab",
@@ -55141,6 +55216,11 @@
   },
   {
     "brand": "Hot Pepper",
+    "name": "AP17",
+    "codename": "AP17"
+  },
+  {
+    "brand": "Hot Pepper",
     "name": "Bola",
     "codename": "Bola"
   },
@@ -55163,6 +55243,11 @@
     "brand": "Hot Pepper",
     "name": "H5",
     "codename": "H5"
+  },
+  {
+    "brand": "Hot Pepper",
+    "name": "HPPAP16",
+    "codename": "HPPAP16"
   },
   {
     "brand": "Hot Pepper",
@@ -72990,6 +73075,11 @@
     "codename": "UPAD2021"
   },
   {
+    "brand": "KUVA",
+    "name": "Pad",
+    "codename": "Pad"
+  },
+  {
     "brand": "KXD mobile",
     "name": "D68S",
     "codename": "D68S"
@@ -84098,6 +84188,11 @@
     "brand": "Lanix",
     "name": "ilium_PADE10",
     "codename": "ilium_PADE10"
+  },
+  {
+    "brand": "Lanix",
+    "name": "ilium_PAD_RX10",
+    "codename": "RX10V6"
   },
   {
     "brand": "Lanix",
@@ -108406,6 +108501,11 @@
   },
   {
     "brand": "Nuu",
+    "name": "N6001L",
+    "codename": "N6001LA"
+  },
+  {
+    "brand": "Nuu",
     "name": "NUU A3",
     "codename": "N5001WA"
   },
@@ -114046,6 +114146,11 @@
   },
   {
     "brand": "Oukitel",
+    "name": "RT6_EEA",
+    "codename": "RT6"
+  },
+  {
+    "brand": "Oukitel",
     "name": "S115_EEA",
     "codename": "S115"
   },
@@ -119178,6 +119283,11 @@
     "brand": "Polestar",
     "name": "Polestar Emu",
     "codename": "ihu_emulator"
+  },
+  {
+    "brand": "Polytron",
+    "name": "2K",
+    "codename": "hayward"
   },
   {
     "brand": "Polytron",
@@ -148681,6 +148791,16 @@
   },
   {
     "brand": "Sky Devices",
+    "name": "SKY PAD10Max",
+    "codename": "SKY_PAD10MaxNUS"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "SKY PAD10Max",
+    "codename": "SKY_PADMaxNAL"
+  },
+  {
+    "brand": "Sky Devices",
     "name": "SKY Pad10",
     "codename": "SKY_Pad10k"
   },
@@ -165046,6 +165166,16 @@
   },
   {
     "brand": "Teclast",
+    "name": "P26T_EEA",
+    "codename": "P26T"
+  },
+  {
+    "brand": "Teclast",
+    "name": "P26T_ROW",
+    "codename": "P26T"
+  },
+  {
+    "brand": "Teclast",
     "name": "P30Air_EEA",
     "codename": "P30Air_EEA"
   },
@@ -171656,6 +171786,11 @@
   },
   {
     "brand": "Unihertz",
+    "name": "Jelly Star",
+    "codename": "Jelly_Star"
+  },
+  {
+    "brand": "Unihertz",
     "name": "Jelly2",
     "codename": "Jelly2"
   },
@@ -171888,6 +172023,11 @@
     "brand": "Unnion Technologies",
     "name": "Unnion SP10",
     "codename": "SP10"
+  },
+  {
+    "brand": "UnoPhone",
+    "name": "NewPad 10",
+    "codename": "NewPad_10"
   },
   {
     "brand": "UnoPhone",
@@ -172183,6 +172323,11 @@
     "brand": "VASOUN",
     "name": "L10-T01",
     "codename": "L10-T01"
+  },
+  {
+    "brand": "VASOUN",
+    "name": "L10_A01",
+    "codename": "L10_A01"
   },
   {
     "brand": "VASOUN",
@@ -177156,6 +177301,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "iQOO 11S",
+    "codename": "PD2304"
+  },
+  {
+    "brand": "Vivo",
     "name": "iQOO 9 Pro",
     "codename": "2022"
   },
@@ -180741,6 +180891,11 @@
   },
   {
     "brand": "Wiko",
+    "name": "T60",
+    "codename": "T60"
+  },
+  {
+    "brand": "Wiko",
     "name": "TOMMY",
     "codename": "P4901AC"
   },
@@ -183988,6 +184143,11 @@
     "brand": "Xmobile",
     "name": "X10",
     "codename": "XMOBILE"
+  },
+  {
+    "brand": "Xmobile",
+    "name": "X10Max",
+    "codename": "X10Max"
   },
   {
     "brand": "Xmobile",
@@ -195803,6 +195963,11 @@
     "brand": "iBRIT",
     "name": "i5Plus",
     "codename": "i5Plus"
+  },
+  {
+    "brand": "iBRIT",
+    "name": "iBRIT",
+    "codename": "Diamond_Pro_Max"
   },
   {
     "brand": "iBRIT",
