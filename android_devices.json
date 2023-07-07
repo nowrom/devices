@@ -8256,6 +8256,11 @@
   },
   {
     "brand": "Archos",
+    "name": "SPAT101FHDW_EEA",
+    "codename": "at101fhdw"
+  },
+  {
+    "brand": "Archos",
     "name": "Smart Home Tablet",
     "codename": "hometablet"
   },
@@ -13486,6 +13491,16 @@
   },
   {
     "brand": "BMobile",
+    "name": "BL65Plus_TG07",
+    "codename": "Bmobile_BL65Plus_TG07"
+  },
+  {
+    "brand": "BMobile",
+    "name": "BL65Plus_TG07",
+    "codename": "Bmobile_BL65Plus_TG07"
+  },
+  {
+    "brand": "BMobile",
     "name": "BL70",
     "codename": "Bmobile_BL70"
   },
@@ -18413,6 +18428,11 @@
     "brand": "Blu",
     "name": "M10L PLUS",
     "codename": "M0223_ND"
+  },
+  {
+    "brand": "Blu",
+    "name": "M10L Pro",
+    "codename": "M0214_ND"
   },
   {
     "brand": "Blu",
@@ -27263,6 +27283,11 @@
     "brand": "Cubot",
     "name": "TAB 20",
     "codename": "TAB_20"
+  },
+  {
+    "brand": "Cubot",
+    "name": "TAB 40",
+    "codename": "TAB_40"
   },
   {
     "brand": "Cubot",
@@ -37026,6 +37051,11 @@
   },
   {
     "brand": "FEONAL",
+    "name": "D106_EEA",
+    "codename": "D106_EEA"
+  },
+  {
+    "brand": "FEONAL",
     "name": "K104",
     "codename": "K104"
   },
@@ -43038,6 +43068,11 @@
     "brand": "GoClever",
     "name": "TQ700/QUANTUM 700/TAB",
     "codename": "TQ700"
+  },
+  {
+    "brand": "GoPlus",
+    "name": "GoPlus 4k",
+    "codename": "SEI700STL"
   },
   {
     "brand": "Gobox",
@@ -70541,6 +70576,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel V52LTE",
+    "codename": "itel-A507LV"
+  },
+  {
+    "brand": "Itel",
     "name": "itel VISION 5 Plus",
     "codename": "itel-S662LCN"
   },
@@ -75008,6 +75048,11 @@
     "brand": "Krono",
     "name": "NET_ONE",
     "codename": "NET_ONE"
+  },
+  {
+    "brand": "Krono",
+    "name": "NET_R7",
+    "codename": "NET_R7"
   },
   {
     "brand": "Krono",
@@ -93936,6 +93981,11 @@
   },
   {
     "brand": "Maxwest",
+    "name": "MX-A4R",
+    "codename": "MX-A4R"
+  },
+  {
+    "brand": "Maxwest",
     "name": "Nitro 4N LTE",
     "codename": "Nitro_4N_LTE"
   },
@@ -110008,6 +110058,16 @@
     "brand": "OnePlus",
     "name": "OnePlus Nord 2T 5G",
     "codename": "OP557AL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord 3 5G",
+    "codename": "OP556FL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord 3 5G",
+    "codename": "OP556FL1"
   },
   {
     "brand": "OnePlus",
@@ -166331,6 +166391,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "POVA 5 Pro 5G",
+    "codename": "TECNO-LH8n"
+  },
+  {
+    "brand": "Tecno",
     "name": "POVA Neo",
     "codename": "TECNO-LE6"
   },
@@ -177348,6 +177413,11 @@
     "brand": "Vivo",
     "name": "iQOO Neo7 SE",
     "codename": "PD2238"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Neo7 竞速版",
+    "codename": ""
   },
   {
     "brand": "Vivo",
@@ -195833,6 +195903,11 @@
     "brand": "i-PLUS",
     "name": "Nu70",
     "codename": "Nu70"
+  },
+  {
+    "brand": "i5 (dza)",
+    "name": "TABLET_PC",
+    "codename": "10080"
   },
   {
     "brand": "i5 (dza)",
