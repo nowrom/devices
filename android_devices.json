@@ -13651,13 +13651,13 @@
   },
   {
     "brand": "BPL",
-    "name": "A4310",
-    "codename": "samseong"
+    "name": "Android TV",
+    "codename": "longshan"
   },
   {
     "brand": "BPL",
     "name": "Android TV",
-    "codename": "longshan"
+    "codename": "samseong"
   },
   {
     "brand": "BPL",
@@ -49111,6 +49111,11 @@
   },
   {
     "brand": "Haier",
+    "name": "Haier MatrixTV AS",
+    "codename": "irvine"
+  },
+  {
+    "brand": "Haier",
     "name": "Haier MatrixTV BE",
     "codename": "jordan"
   },
@@ -50183,6 +50188,11 @@
     "brand": "Hiking",
     "name": "A42",
     "codename": "A42"
+  },
+  {
+    "brand": "Hiking",
+    "name": "A47",
+    "codename": "A42_A47"
   },
   {
     "brand": "Hiking",
@@ -91138,6 +91148,11 @@
     "brand": "Logicom",
     "name": "Logikids_6",
     "codename": "Logikids_6"
+  },
+  {
+    "brand": "Logicom",
+    "name": "Lunar Pro",
+    "codename": "Lunar_Pro"
   },
   {
     "brand": "Logicom",
@@ -184143,6 +184158,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi Pad 5 Pro 5G",
     "codename": "enuma"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Pad 6",
+    "codename": "pipa"
   },
   {
     "brand": "Xiaomi",
