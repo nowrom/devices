@@ -55,7 +55,7 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, Hotspot"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_lavender","device_xiaomi_sdm660-common","kernel_xiaomi_sdm660","vendor_xiaomi_lavender","vendor_xiaomi_lavender-extras","vendor_xiaomi_sdm660-common"]
+repostories = ["device_xiaomi_lavender","device_xiaomi_sdm660-common","kernel_xiaomi_lavender","kernel_xiaomi_sdm660","vendor_xiaomi_lavender","vendor_xiaomi_sdm660-common"]
 
 [[roms.supported_versions]]
 version_code = "eleven"

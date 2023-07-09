@@ -1,0 +1,9 @@
+brand = "realme"
+codename = "redwood"
+name = "Smart TV"
+recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/"
+recovery = ""
