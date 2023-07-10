@@ -1,0 +1,10 @@
+brand = "ZTE"
+codename = "NX606J"
+name = "NX606J"
+recoveries = []
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 385"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"

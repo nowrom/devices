@@ -36,6 +36,12 @@ recovery = "https://sourceforge.net/projects/crdroid/files/raphael/9.x/recovery/
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/raphael/Havoc-OS-v4.16-20220423-raphael-Official-GApps.zip"
 maintainer = "Sukeerat Singh"
