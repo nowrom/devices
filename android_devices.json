@@ -50181,6 +50181,11 @@
   },
   {
     "brand": "Hiking",
+    "name": "A30",
+    "codename": "A30"
+  },
+  {
+    "brand": "Hiking",
     "name": "A40",
     "codename": "A40"
   },
@@ -133791,6 +133796,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy F34 5G",
+    "codename": "m34x"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy F41",
     "codename": "f41"
   },
@@ -135923,11 +135933,6 @@
     "brand": "Samsung",
     "name": "Galaxy M33 5G",
     "codename": "m33x"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy M34 5G",
-    "codename": "m34x"
   },
   {
     "brand": "Samsung",
@@ -172703,6 +172708,16 @@
     "brand": "VORCOM",
     "name": "SXPro-P40",
     "codename": "SXPro-P40"
+  },
+  {
+    "brand": "VOXelectronics",
+    "name": "VOXelectronics 2K Android TV",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "VOXelectronics",
+    "name": "VOXelectronics 4K Android TV",
+    "codename": "kenton"
   },
   {
     "brand": "VSN",
