@@ -5,8 +5,8 @@ recoveries = []
 
 [[roms]]
 id = "crdroid"
-gapps = ""
-recovery = "https://drive.google.com/drive/folders/1ZD5MFi0cd5xcjmx31hgIXYGc32KtS-ty?usp=share_link"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
+recovery = ""
 
 [[roms]]
 id = "evolutionx"
