@@ -18,7 +18,7 @@ wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Wi-Fi Display, Hotspot"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_nokia_PL2","device_nokia_sdm660-common","vendor_nokia_PL2","vendor_nokia_sdm660-common","kernel_nokia_sdm660"]
+repostories = ["device_nokia_PL2","device_nokia_sdm660-common","vendor_nokia_PL2","vendor_nokia_sdm660-common","vendor_nokia_Camera","kernel_nokia_sdm660"]
 
 [[roms.supported_versions]]
 version_code = "thirteen"

@@ -6426,6 +6426,11 @@
   },
   {
     "brand": "Aocwei",
+    "name": "X700_EEA",
+    "codename": "X700_EEA"
+  },
+  {
+    "brand": "Aocwei",
     "name": "X900_EEA",
     "codename": "X900_EEA"
   },
@@ -75698,6 +75703,11 @@
     "brand": "Kyocera",
     "name": "DuraForce PRO 2 with Sapphire shield",
     "codename": "E6910"
+  },
+  {
+    "brand": "Kyocera",
+    "name": "DuraForce PRO 3",
+    "codename": "KY22M-RG100"
   },
   {
     "brand": "Kyocera",
@@ -145886,6 +145896,16 @@
   },
   {
     "brand": "Sharp",
+    "name": "AQUOS R8 pro",
+    "codename": "Kamille"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS R8 pro",
+    "codename": "SH-51D"
+  },
+  {
+    "brand": "Sharp",
     "name": "AQUOS SERIE SHL25",
     "codename": "SHL25"
   },
@@ -146583,6 +146603,11 @@
     "brand": "Sharp",
     "name": "Europe",
     "codename": "martin"
+  },
+  {
+    "brand": "Sharp",
+    "name": "FK1",
+    "codename": "mongkok"
   },
   {
     "brand": "Sharp",
@@ -155931,11 +155956,6 @@
   },
   {
     "brand": "TCL",
-    "name": "Jitterbug Smart4",
-    "codename": "Sonata_BBH"
-  },
-  {
-    "brand": "TCL",
     "name": "L55E6700UDS",
     "codename": "movo_la"
   },
@@ -156401,6 +156421,11 @@
   },
   {
     "brand": "TCL",
+    "name": "TCL ION V",
+    "codename": "Bora_NA_OM"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL ION X",
     "codename": "Bora_TMO"
   },
@@ -156638,6 +156663,11 @@
     "brand": "TCL",
     "name": "TCL TAB 10L Gen 2",
     "codename": "Freyr_10_1_WiFi"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL TAB 10L LTE Gen 2",
+    "codename": "Freyr_10_1_4G"
   },
   {
     "brand": "TCL",
@@ -172498,6 +172528,11 @@
     "brand": "VASOUN",
     "name": "TAB12",
     "codename": "TAB12"
+  },
+  {
+    "brand": "VASOUN",
+    "name": "TAB12_EEA",
+    "codename": "TAB12_EEA"
   },
   {
     "brand": "VBox",

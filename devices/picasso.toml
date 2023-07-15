@@ -31,7 +31,7 @@ photo = "https://avatars.githubusercontent.com/u/64311706?v=4"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_picasso","kernel_xiaomi_picasso","vendor_xiaomi_picasso"]
+repostories = ["device_xiaomi_picasso_48m","device_xiaomi_picasso","kernel_xiaomi_picasso","vendor_xiaomi_picasso","vendor_xiaomi_picasso_48m"]
 
 [[roms.supported_versions]]
 version_code = "eleven"

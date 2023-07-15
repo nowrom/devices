@@ -5,7 +5,7 @@ recoveries = []
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_picasso","kernel_xiaomi_picasso","vendor_xiaomi_picasso_48m"]
+repostories = ["device_xiaomi_picasso_48m","device_xiaomi_picasso","kernel_xiaomi_picasso","vendor_xiaomi_picasso","vendor_xiaomi_picasso_48m"]
 
 [[roms.supported_versions]]
 version_code = "thirteen"
