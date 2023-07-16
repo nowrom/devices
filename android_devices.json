@@ -108361,8 +108361,18 @@
   },
   {
     "brand": "Nothing",
-    "name": "Nothing phone (1)",
+    "name": "Nothing Phone (1)",
     "codename": "Spacewar"
+  },
+  {
+    "brand": "Nothing",
+    "name": "Nothing Phone (2)",
+    "codename": "Pong"
+  },
+  {
+    "brand": "Nothing",
+    "name": "Nothing Phone (2)",
+    "codename": "Pong"
   },
   {
     "brand": "Nous",
@@ -110051,18 +110061,8 @@
   },
   {
     "brand": "OnePlus",
-    "name": "OnePlus 9Pro 5G",
-    "codename": "OnePlus9Pro"
-  },
-  {
-    "brand": "OnePlus",
-    "name": "OnePlus 9Pro 5G",
-    "codename": "OnePlus9Pro"
-  },
-  {
-    "brand": "OnePlus",
-    "name": "OnePlus 9Pro 5G",
-    "codename": "OnePlus9Pro"
+    "name": "OnePlus 9R",
+    "codename": "OnePlus9R"
   },
   {
     "brand": "OnePlus",
@@ -110293,16 +110293,6 @@
     "brand": "OnePlus",
     "name": "OnePlus6T",
     "codename": "OnePlus6TSingle"
-  },
-  {
-    "brand": "OnePlus",
-    "name": "OnePlus9R",
-    "codename": "OnePlus9R"
-  },
-  {
-    "brand": "OnePlus",
-    "name": "OnePlus9R",
-    "codename": "OnePlus9R"
   },
   {
     "brand": "OnePlus",

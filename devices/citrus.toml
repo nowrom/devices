@@ -8,7 +8,7 @@ supported = false
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_chime","device_xiaomi_citrus","kernel_xiaomi_chime","vendor_xiaomi_chime","vendor_xiaomi_citrus"]
+repostories = ["device_xiaomi_chime","device_xiaomi_citrus","kernel_xiaomi_chime","vendor_xiaomi_chime","vendor_xiaomi_chime-perf","vendor_xiaomi_citrus"]
 
 [[roms.supported_versions]]
 version_code = "thirteen"
