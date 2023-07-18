@@ -191,6 +191,11 @@
   },
   {
     "brand": "AAUW",
+    "name": "T60Pro_2023",
+    "codename": "T60Pro_2023"
+  },
+  {
+    "brand": "AAUW",
     "name": "T_50",
     "codename": "T_50"
   },
@@ -1118,6 +1123,11 @@
     "brand": "ATILIM UNIVERSITY",
     "name": "ATILIM_mPAD07",
     "codename": "ATILIM_mPAD07"
+  },
+  {
+    "brand": "ATM (Brazil)",
+    "name": "IT-1001A",
+    "codename": "IT-1001A"
   },
   {
     "brand": "ATM (Brazil)",
@@ -20625,6 +20635,11 @@
     "codename": "SW6H"
   },
   {
+    "brand": "COLORROOM",
+    "name": "K12",
+    "codename": "K12"
+  },
+  {
     "brand": "COMPUMAX",
     "name": "BLUEPAD10",
     "codename": "BLUEPAD10"
@@ -23383,6 +23398,11 @@
     "brand": "Chuwi",
     "name": "HiPad_XPro_EEA",
     "codename": "HiPad_XPro_EEA"
+  },
+  {
+    "brand": "Chuwi",
+    "name": "HiPad_XPro_EEA13",
+    "codename": "HiPad_XPro"
   },
   {
     "brand": "Chuwi",
@@ -27481,6 +27501,11 @@
   },
   {
     "brand": "D-Tech",
+    "name": "DT10-TAB4G-T101",
+    "codename": "DT10-TAB4G-T101"
+  },
+  {
+    "brand": "D-Tech",
     "name": "H70_G",
     "codename": "H70_G"
   },
@@ -29448,6 +29473,16 @@
     "brand": "DeWALT",
     "name": "DeWalt md501",
     "codename": "md501"
+  },
+  {
+    "brand": "Decaview",
+    "name": "Decaview 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "Decaview",
+    "name": "Decaview 4K Google TV",
+    "codename": "keoneae"
   },
   {
     "brand": "Delephas",
@@ -34361,6 +34396,11 @@
   },
   {
     "brand": "Eaglesoar",
+    "name": "EE10A",
+    "codename": "EE10A"
+  },
+  {
+    "brand": "Eaglesoar",
     "name": "Z_766_EEA",
     "codename": "Z_766_EEA"
   },
@@ -37206,6 +37246,11 @@
   },
   {
     "brand": "FIVAHIVA",
+    "name": "FF10A",
+    "codename": "FF10A"
+  },
+  {
+    "brand": "FIVAHIVA",
     "name": "YY_766",
     "codename": "YY_766"
   },
@@ -37218,6 +37263,11 @@
     "brand": "FLEX MOBILE",
     "name": "S9",
     "codename": "S9"
+  },
+  {
+    "brand": "FOLG",
+    "name": "KS20",
+    "codename": "KS20"
   },
   {
     "brand": "FOSSiBOT",
@@ -40171,6 +40221,11 @@
   },
   {
     "brand": "G-Tab",
+    "name": "S50",
+    "codename": "S50"
+  },
+  {
+    "brand": "G-Tab",
     "name": "S8",
     "codename": "S8"
   },
@@ -41400,6 +41455,11 @@
     "codename": "LYNX"
   },
   {
+    "brand": "Gfast",
+    "name": "MD_97_S464A",
+    "codename": "MD_97_S464A"
+  },
+  {
     "brand": "Ghia",
     "name": "A7LED2",
     "codename": "A7LED2"
@@ -41446,6 +41506,11 @@
   },
   {
     "brand": "Ghia",
+    "name": "GA8N",
+    "codename": "GA8N"
+  },
+  {
+    "brand": "Ghia",
     "name": "GHIA",
     "codename": "stanford"
   },
@@ -41478,6 +41543,11 @@
     "brand": "Ghia",
     "name": "GHIA_VECTOR_3G",
     "codename": "GHIA_VECTOR_3G"
+  },
+  {
+    "brand": "Ghia",
+    "name": "GK133",
+    "codename": "GK133"
   },
   {
     "brand": "Ghia",
@@ -42940,6 +43010,16 @@
     "codename": "GIONEE_SWW1627"
   },
   {
+    "brand": "GlobalSec",
+    "name": "BW819E_CR",
+    "codename": "BW819E_CR_EEA"
+  },
+  {
+    "brand": "GlobalSec",
+    "name": "BW819E_SK",
+    "codename": "BW819E_SK_EEA"
+  },
+  {
     "brand": "Globe Phoenix",
     "name": "DX768Pro",
     "codename": "DX768Pro"
@@ -44281,8 +44361,18 @@
   },
   {
     "brand": "HEADWOLF",
+    "name": "F2A",
+    "codename": "F2A"
+  },
+  {
+    "brand": "HEADWOLF",
     "name": "Fpad2",
     "codename": "Fpad2"
+  },
+  {
+    "brand": "HEADWOLF",
+    "name": "Fpad3",
+    "codename": "Fpad3"
   },
   {
     "brand": "HEADWOLF",
@@ -64863,6 +64953,26 @@
     "brand": "IKALL",
     "name": "N5",
     "codename": "N5"
+  },
+  {
+    "brand": "IMARFLEX",
+    "name": "IMARFLEX 2K Android TV",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "IMARFLEX",
+    "name": "IMARFLEX 4K Android TV",
+    "codename": "kenton"
+  },
+  {
+    "brand": "IMARFLEX",
+    "name": "imarflex 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "IMARFLEX",
+    "name": "imarflex 4K Google TV",
+    "codename": "keoneae"
   },
   {
     "brand": "IMO(In My Opinion)",
@@ -90851,6 +90961,11 @@
   },
   {
     "brand": "Logicom",
+    "name": "LOGIKIDS11",
+    "codename": "LOGIKIDS11"
+  },
+  {
+    "brand": "Logicom",
     "name": "LOGIKIDS5",
     "codename": "LOGIKIDS5"
   },
@@ -91298,6 +91413,11 @@
     "brand": "Logicom",
     "name": "SOLAR",
     "codename": "SOLAR"
+  },
+  {
+    "brand": "Logicom",
+    "name": "TAB76",
+    "codename": "TAB76"
   },
   {
     "brand": "Logicom",
@@ -93068,6 +93188,11 @@
     "brand": "Majestic",
     "name": "TAB_916_4G",
     "codename": "TAB_916_4G"
+  },
+  {
+    "brand": "Majestic",
+    "name": "TAB_918_PRO_4G",
+    "codename": "TAB_918_PRO_4G"
   },
   {
     "brand": "Making Life Simple",
@@ -99183,6 +99308,11 @@
     "brand": "Montblanc",
     "name": "Summit Lite",
     "codename": "icefish"
+  },
+  {
+    "brand": "Mookia",
+    "name": "MM10A",
+    "codename": "MM10A"
   },
   {
     "brand": "Moolah Mobile",
@@ -124346,6 +124476,11 @@
   },
   {
     "brand": "RAYO_MOVIl",
+    "name": "Atlas",
+    "codename": "Atlas"
+  },
+  {
+    "brand": "RAYO_MOVIl",
     "name": "RAYO X1",
     "codename": "RAYO_X1"
   },
@@ -128325,6 +128460,16 @@
     "codename": "M5855"
   },
   {
+    "brand": "SICON",
+    "name": "SICON 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "SICON",
+    "name": "SICON 4K Google TV",
+    "codename": "keoneae"
+  },
+  {
     "brand": "SILVER MAX",
     "name": "ST-710G",
     "codename": "ST_710G"
@@ -130843,6 +130988,11 @@
     "brand": "Samsung",
     "name": "Galaxy A10s",
     "codename": "a10s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A11",
+    "codename": "a11q"
   },
   {
     "brand": "Samsung",
@@ -144993,6 +145143,16 @@
     "brand": "Semeakoko",
     "name": "SS1010",
     "codename": "SS1010"
+  },
+  {
+    "brand": "Semeakoko",
+    "name": "SS10A",
+    "codename": "SS10A"
+  },
+  {
+    "brand": "Semeakoko",
+    "name": "SS10A_EEA",
+    "codename": "SS10A_EEA"
   },
   {
     "brand": "Senseit",
@@ -163560,6 +163720,11 @@
     "codename": "guandu"
   },
   {
+    "brand": "TD Tech",
+    "name": "TD Tech V800",
+    "codename": "V800"
+  },
+  {
     "brand": "TDS",
     "name": "VIP6102W",
     "codename": "vip6102w"
@@ -163618,6 +163783,16 @@
     "brand": "TELOX",
     "name": "TE620G",
     "codename": "TE620G"
+  },
+  {
+    "brand": "TELSTAR",
+    "name": "TELSTAR 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "TELSTAR",
+    "name": "TELSTAR 4K Google TV",
+    "codename": "keoneae"
   },
   {
     "brand": "TERRA",
@@ -165201,6 +165376,16 @@
   },
   {
     "brand": "Teclast",
+    "name": "M50Pro_EEA",
+    "codename": "M50Pro_EEA"
+  },
+  {
+    "brand": "Teclast",
+    "name": "M50Pro_ROW",
+    "codename": "M50Pro_ROW"
+  },
+  {
+    "brand": "Teclast",
     "name": "P10HD_N5H6",
     "codename": "P10S_ROW"
   },
@@ -165423,6 +165608,16 @@
     "brand": "Teclast",
     "name": "P40HD_RUS",
     "codename": "P40HD_RUS"
+  },
+  {
+    "brand": "Teclast",
+    "name": "P40HD_T_EEA",
+    "codename": "P40HD_T_EEA"
+  },
+  {
+    "brand": "Teclast",
+    "name": "P40HD_T_ROW",
+    "codename": "P40HD_T_ROW"
   },
   {
     "brand": "Teclast",
@@ -165713,6 +165908,11 @@
     "brand": "Teclast",
     "name": "T50Air_EEA",
     "codename": "T50Air"
+  },
+  {
+    "brand": "Teclast",
+    "name": "T50Pro_W_EEA",
+    "codename": "T50Pro_W_EEA"
   },
   {
     "brand": "Teclast",
@@ -168935,6 +169135,11 @@
     "codename": "mdt1060"
   },
   {
+    "brand": "Topsand",
+    "name": "N8",
+    "codename": "N8"
+  },
+  {
     "brand": "Torex",
     "name": "Rugged_tablets",
     "codename": "Torex8plus"
@@ -170063,6 +170268,11 @@
     "brand": "UAUU",
     "name": "T60",
     "codename": "T60"
+  },
+  {
+    "brand": "UAUU",
+    "name": "T90_NEW",
+    "codename": "T90_NEW"
   },
   {
     "brand": "UBCtv",
@@ -171601,6 +171811,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "G1_Tab_Kids",
+    "codename": "G1_Tab_Kids"
+  },
+  {
+    "brand": "Umidigi",
     "name": "G2",
     "codename": "UMIDIGI_G2"
   },
@@ -172501,6 +172716,11 @@
   },
   {
     "brand": "VASOUN",
+    "name": "L10-T02",
+    "codename": "L10-T02"
+  },
+  {
+    "brand": "VASOUN",
     "name": "L10_A01",
     "codename": "L10_A01"
   },
@@ -172533,6 +172753,11 @@
     "brand": "VENSTAR",
     "name": "VENSTAR2050",
     "codename": "VENSTAR2050"
+  },
+  {
+    "brand": "VETOO",
+    "name": "V10",
+    "codename": "V10"
   },
   {
     "brand": "VFONE",
@@ -179081,6 +179306,26 @@
   },
   {
     "brand": "Vortex",
+    "name": "HD60",
+    "codename": "HD60"
+  },
+  {
+    "brand": "Vortex",
+    "name": "HD60L",
+    "codename": "HD60L"
+  },
+  {
+    "brand": "Vortex",
+    "name": "HD60i",
+    "codename": "HD60i"
+  },
+  {
+    "brand": "Vortex",
+    "name": "HD65",
+    "codename": "HD65"
+  },
+  {
+    "brand": "Vortex",
     "name": "MUV",
     "codename": "MUV"
   },
@@ -179093,6 +179338,11 @@
     "brand": "Vortex",
     "name": "Sync",
     "codename": "Sync"
+  },
+  {
+    "brand": "Vortex",
+    "name": "T10M_Pro",
+    "codename": "T10M_Pro"
   },
   {
     "brand": "Vortex",
@@ -196581,6 +196831,21 @@
   },
   {
     "brand": "iGet",
+    "name": "SMART_L30",
+    "codename": "SMART_L30"
+  },
+  {
+    "brand": "iGet",
+    "name": "SMART_L31",
+    "codename": "SMART_L31"
+  },
+  {
+    "brand": "iGet",
+    "name": "SMART_L32",
+    "codename": "SMART_L32"
+  },
+  {
+    "brand": "iGet",
     "name": "SMART_W101",
     "codename": "SMART_W101"
   },
@@ -198890,6 +199155,16 @@
     "codename": "HHT7A_TW1"
   },
   {
+    "brand": "simfer",
+    "name": "simfer 2K Android TV",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "simfer",
+    "name": "simfer 4K Android TV",
+    "codename": "kenton"
+  },
+  {
     "brand": "simpliTV",
     "name": "Strong-SRT4150",
     "codename": "HY43X"
@@ -199176,6 +199451,11 @@
   },
   {
     "brand": "weelikeit",
+    "name": "C76W_EEA",
+    "codename": "C76W_EEA"
+  },
+  {
+    "brand": "weelikeit",
     "name": "C81W",
     "codename": "C81W"
   },
@@ -199193,6 +199473,16 @@
     "brand": "weelikeit",
     "name": "C83W_EEA",
     "codename": "C83W_EEA"
+  },
+  {
+    "brand": "weelikeit",
+    "name": "C85W",
+    "codename": "C85W"
+  },
+  {
+    "brand": "weelikeit",
+    "name": "C85W_EEA",
+    "codename": "C85W_EEA"
   },
   {
     "brand": "weelikeit",
