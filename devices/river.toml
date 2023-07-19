@@ -17,7 +17,7 @@ maintainer = "Deivid Ignacio"
 [[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/18-Apr-2023/NikGapps-core-arm64-13-20230418-signed.zip/download"
-recovery = "https://sourceforge.net/projects/crdroid/files/river/9.x/recovery/boot-20230619.img/download"
+recovery = "https://sourceforge.net/projects/crdroid/files/river/9.x/recovery/boot-20230717.img/download"
 
 [[roms]]
 id = "havocos"

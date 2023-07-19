@@ -35,6 +35,16 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-0-sailfish-pixelexperien
 stable = false
 deprecated = true
 
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = true
+deprecated = false
+
 [specs]
 cpu = "Octa-core (2x2.80 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.80 GHz Cortex-A55)"
 weight = "210 g (7.41 oz)"

@@ -2886,6 +2886,11 @@
   },
   {
     "brand": "Aconatic",
+    "name": "ACONATIC",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "Aconatic",
     "name": "ACONATIC FHD TV",
     "codename": "takao"
   },
@@ -72791,11 +72796,6 @@
   },
   {
     "brand": "KTCtv",
-    "name": "ACONATIC",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
     "name": "AP",
     "codename": "stanford"
   },
@@ -89843,6 +89843,11 @@
     "brand": "Lenovo",
     "name": "小新平板",
     "codename": "X804F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "拯救者平板Y900",
+    "codename": "TB570FU"
   },
   {
     "brand": "Lenovo",
@@ -108108,6 +108113,11 @@
     "brand": "Nokia",
     "name": "Nokia G400 5G",
     "codename": "STO"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia G42 5G",
+    "codename": "SDW"
   },
   {
     "brand": "Nokia",
