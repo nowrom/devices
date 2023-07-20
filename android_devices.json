@@ -50816,6 +50816,11 @@
   },
   {
     "brand": "Hisense",
+    "name": "75MR6DE",
+    "codename": "changjiang"
+  },
+  {
+    "brand": "Hisense",
     "name": "9980",
     "codename": "taishan"
   },
@@ -69603,6 +69608,11 @@
     "brand": "Iskon",
     "name": "wh220_iskon",
     "codename": "wh220_iskon"
+  },
+  {
+    "brand": "Itel",
+    "name": "A05S",
+    "codename": "itel-A663L"
   },
   {
     "brand": "Itel",
@@ -184576,6 +184586,11 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Xiaomi pad 6",
+    "codename": "pipa"
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Xiaomi pad 6 Pro",
     "codename": "liuqin"
   },
@@ -198421,6 +198436,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme 11",
+    "codename": "RE5852"
+  },
+  {
+    "brand": "realme",
     "name": "realme 11 Pro 5G",
     "codename": "RE58B8L1"
   },
@@ -198963,6 +198983,11 @@
     "brand": "realme",
     "name": "realme narzo 50i Prime",
     "codename": "RE588E"
+  },
+  {
+    "brand": "realme",
+    "name": "realme narzo 60 5G",
+    "codename": "RE58B1L1"
   },
   {
     "brand": "realme",
