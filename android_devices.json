@@ -55426,6 +55426,11 @@
   },
   {
     "brand": "Hot Pepper",
+    "name": "Pulla",
+    "codename": "Pulla"
+  },
+  {
+    "brand": "Hot Pepper",
     "name": "Serrano",
     "codename": "HPP-L55"
   },
@@ -70561,6 +70566,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel A60E",
+    "codename": "itel-A662L"
+  },
+  {
+    "brand": "Itel",
     "name": "itel A60s",
     "codename": "itel-A662LM"
   },
@@ -74328,6 +74338,16 @@
     "brand": "Kiowa",
     "name": "A5_CRISTAL",
     "codename": "A5_CRISTAL"
+  },
+  {
+    "brand": "Kiowa",
+    "name": "KIOWA",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Kiowa",
+    "name": "KIOWA",
+    "codename": "zhongshan"
   },
   {
     "brand": "Kiowa",
@@ -94351,6 +94371,11 @@
   },
   {
     "brand": "Maze_speed",
+    "name": "MS5614G",
+    "codename": "MS5614G"
+  },
+  {
+    "brand": "Maze_speed",
     "name": "SSB1000T",
     "codename": "SSB1000T"
   },
@@ -100183,6 +100208,11 @@
     "brand": "Motorola",
     "name": "Lenovo XT2091-7",
     "codename": "cebu"
+  },
+  {
+    "brand": "Motorola",
+    "name": "MOTOROLA",
+    "codename": "stanford"
   },
   {
     "brand": "Motorola",

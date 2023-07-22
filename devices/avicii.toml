@@ -12,6 +12,11 @@ maintainer = "Keertesh"
 changelog = "* Merged July Patch\r\n* Blobs cleanup\r\n* Thermal config from OOS\r\n* Improved statusbar dimensions\r\n* Enable Qualcomm TrueWireless™ Stereo \r\n* Update blobs from LA.UM.9.12.r1-14000.02-SMxx50.QSSI12.0\r\n* Update blobs from LA.UM.9.12.r1-14200.02-SMxx50.QSSI12.0"
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 475"
 ram = "6/8/12 GB LPDDR4"
