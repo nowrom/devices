@@ -14,7 +14,7 @@ recovery = "https://dl.twrp.me/chef/"
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 260"
-ram = "4 GB, 6 GB"
+ram = "4/6 GB LPDDR4X"
 wifi = "802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
 
 [[roms]]

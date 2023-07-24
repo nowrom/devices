@@ -15,10 +15,10 @@ repostories = ["device_samsung_a51","device_samsung_universal9611-common","kerne
 version_code = "thirteen"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-official-pixelexperience-thirteen-for-galaxy-a51-4g.4573443/"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-official-pixelexperience-thirteen-for-galaxy-a51-4g.4573443/"
 stable = true
-deprecated = false
+deprecated = true
