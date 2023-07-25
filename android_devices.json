@@ -26901,6 +26901,11 @@
   },
   {
     "brand": "Crosscall",
+    "name": "Stellar-X5",
+    "codename": "L780"
+  },
+  {
+    "brand": "Crosscall",
     "name": "TREKKER- X3",
     "codename": "HS8952QC"
   },
@@ -102286,6 +102291,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "moto g62 5G",
+    "codename": "rhodei"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g62 5G",
+    "codename": "rhodei"
+  },
+  {
+    "brand": "Motorola",
     "name": "moto g71 5G",
     "codename": "corfur"
   },
@@ -156146,6 +156161,11 @@
   },
   {
     "brand": "TCL",
+    "name": "G08",
+    "codename": "G08"
+  },
+  {
+    "brand": "TCL",
     "name": "GO5c",
     "codename": "U3A_PLUS_4G"
   },
@@ -163773,6 +163793,11 @@
     "brand": "TD Tech",
     "name": "TD Tech V800",
     "codename": "V800"
+  },
+  {
+    "brand": "TD Tech",
+    "name": "TD Tech V900",
+    "codename": "V900"
   },
   {
     "brand": "TDS",
@@ -198753,6 +198778,11 @@
     "brand": "realme",
     "name": "realme C53",
     "codename": "RE58C2"
+  },
+  {
+    "brand": "realme",
+    "name": "realme C53",
+    "codename": "RE58CE"
   },
   {
     "brand": "realme",

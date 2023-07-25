@@ -6,3 +6,8 @@ recoveries = []
 [[roms]]
 id = "arrowos"
 maintainer = "K001droid and ganeshi4u"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""

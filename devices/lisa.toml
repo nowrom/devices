@@ -10,7 +10,7 @@ photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devi
 [[roms]]
 id = "arrowos"
 maintainer = "ALKALiKong"
-changelog = "- Updated blobs to MIUI V14.0.6.0.TKOCNXM\r\n- Switched to MIUI display stack\r\n- Improved misc stuffs"
+changelog = "- Updated blobs to MIUI V14.0.10.0.TKOCNXM"
 
 [[roms]]
 id = "lineageos"
