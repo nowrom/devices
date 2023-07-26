@@ -1021,6 +1021,11 @@
   },
   {
     "brand": "ASTEX",
+    "name": "ASTEX 4K Google TV",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "ASTEX",
     "name": "ASTEX Google TV",
     "codename": "bandra"
   },
@@ -95596,6 +95601,11 @@
   },
   {
     "brand": "Meizu",
+    "name": "MEIZU 20 Inf",
+    "codename": "meizu20Inf"
+  },
+  {
+    "brand": "Meizu",
     "name": "Meizu 6T",
     "codename": "Meizu6T"
   },
@@ -95658,6 +95668,16 @@
     "brand": "Meizu",
     "name": "meizu 18 Pro",
     "codename": "meizu18Pro"
+  },
+  {
+    "brand": "Meizu",
+    "name": "meizu 20",
+    "codename": "meizu20"
+  },
+  {
+    "brand": "Meizu",
+    "name": "meizu 20 Pro",
+    "codename": "meizu20Pro"
   },
   {
     "brand": "Meizu",
@@ -132191,6 +132211,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy A51",
+    "codename": "a51"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy A51 5G",
     "codename": "SC-54A"
   },
@@ -132663,6 +132688,11 @@
     "brand": "Samsung",
     "name": "Galaxy A70s",
     "codename": "a70s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A71",
+    "codename": "a71"
   },
   {
     "brand": "Samsung",
@@ -136236,6 +136266,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy M54 5G",
+    "codename": "m54x"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy M62",
     "codename": "m62"
   },
@@ -136923,6 +136958,11 @@
     "brand": "Samsung",
     "name": "Galaxy Note10 5G",
     "codename": "d1x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Note10 Lite",
+    "codename": "r7"
   },
   {
     "brand": "Samsung",
@@ -177168,6 +177208,11 @@
     "brand": "Vivo",
     "name": "V27e",
     "codename": "V2237"
+  },
+  {
+    "brand": "Vivo",
+    "name": "V29",
+    "codename": "V2250"
   },
   {
     "brand": "Vivo",
