@@ -27536,6 +27536,11 @@
   },
   {
     "brand": "DABLIU",
+    "name": "E13R",
+    "codename": "E13R_B86G"
+  },
+  {
+    "brand": "DABLIU",
     "name": "E13R_B65G",
     "codename": "rk3588_E13R"
   },
@@ -83951,6 +83956,11 @@
   },
   {
     "brand": "Lanix",
+    "name": "ILIUM PAD RX10 Pro",
+    "codename": "RX10ProV7"
+  },
+  {
+    "brand": "Lanix",
     "name": "ILIUM S670",
     "codename": "Ilium_S670"
   },
@@ -92325,6 +92335,11 @@
     "codename": "TPM4G_105"
   },
   {
+    "brand": "MIRAY",
+    "name": "TPM4G_E108_A",
+    "codename": "TPM4G_E108_A"
+  },
+  {
     "brand": "MITSUSHIBA",
     "name": "MITSUSHIBA",
     "codename": "TP-10-0232P3G"
@@ -94433,6 +94448,11 @@
     "brand": "MeanIT",
     "name": "X3",
     "codename": "X3"
+  },
+  {
+    "brand": "MeanIT",
+    "name": "X5",
+    "codename": "Smartphone_X5"
   },
   {
     "brand": "MeanIT",
@@ -150572,6 +150592,11 @@
   {
     "brand": "Sony",
     "name": "Xperia 1 V",
+    "codename": "XQ-DQ62"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 V",
     "codename": "XQ-DQ72"
   },
   {
@@ -177092,6 +177117,11 @@
   {
     "brand": "Vivo",
     "name": "V2164PA",
+    "codename": "PD2164"
+  },
+  {
+    "brand": "Vivo",
+    "name": "V2164PA",
     "codename": "PD2164U"
   },
   {
@@ -177733,6 +177763,11 @@
     "brand": "Vivo",
     "name": "Y71",
     "codename": "1801"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y77t",
+    "codename": "PD2278"
   },
   {
     "brand": "Vivo",

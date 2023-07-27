@@ -17,7 +17,7 @@ wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotsp
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_oneplus_martini","vendor_oneplus_martini","kernel_oneplus_martini","wiki_blobs_martini"]
+repostories = ["device_oneplus_martini","vendor_oneplus_martini","vendor_oneplus-firmware","kernel_oneplus_martini","wiki_blobs_martini"]
 
 [[roms.supported_versions]]
 version_code = "thirteen"
