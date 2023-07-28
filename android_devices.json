@@ -44521,6 +44521,11 @@
   },
   {
     "brand": "HKC Elec",
+    "name": "Google TV",
+    "codename": "nagai"
+  },
+  {
+    "brand": "HKC Elec",
     "name": "Smart Monitor",
     "codename": "mateo"
   },
@@ -102766,6 +102771,11 @@
   },
   {
     "brand": "Motorola",
+    "name": "motorola razr 2023",
+    "codename": "lynkco"
+  },
+  {
+    "brand": "Motorola",
     "name": "motorola razr 40",
     "codename": "lynkco"
   },
@@ -115273,6 +115283,11 @@
     "brand": "POCO",
     "name": "POCO C50",
     "codename": "snow"
+  },
+  {
+    "brand": "POCO",
+    "name": "POCO C51",
+    "codename": "water"
   },
   {
     "brand": "POCO",
@@ -142866,6 +142881,61 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Tab S9",
+    "codename": "gts9wifi"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9 5G",
+    "codename": "gts9"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9 5G",
+    "codename": "gts9"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9 Ultra",
+    "codename": "gts9uwifi"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9 Ultra 5G",
+    "codename": "gts9u"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9 Ultra 5G",
+    "codename": "gts9u"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9 Ultra 5G",
+    "codename": "gts9u"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9+",
+    "codename": "gts9pwifi"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9+ 5G",
+    "codename": "gts9p"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9+ 5G",
+    "codename": "gts9p"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9+ 5G",
+    "codename": "gts9p"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Tab2 10.1",
     "codename": "espresso10att"
   },
@@ -143856,6 +143926,26 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Watch6",
+    "codename": "fresh6bl"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Watch6",
+    "codename": "fresh6bs"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Watch6 Classic",
+    "codename": "wise6bl"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Watch6 Classic",
+    "codename": "wise6bs"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Wide",
     "codename": "on7nlteskt"
   },
@@ -144396,6 +144486,36 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Z Flip5",
+    "codename": "b5q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip5",
+    "codename": "b5q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip5",
+    "codename": "b5q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip5",
+    "codename": "b5q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip5",
+    "codename": "b5q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip5",
+    "codename": "b5q"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Z Fold2 5G",
     "codename": "f2q"
   },
@@ -144508,6 +144628,36 @@
     "brand": "Samsung",
     "name": "Galaxy Z Fold4",
     "codename": "q4q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold5",
+    "codename": "q5q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold5",
+    "codename": "q5q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold5",
+    "codename": "q5q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold5",
+    "codename": "q5q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold5",
+    "codename": "q5q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold5",
+    "codename": "q5q"
   },
   {
     "brand": "Samsung",
@@ -164683,6 +164833,11 @@
     "brand": "TVB",
     "name": "A15",
     "codename": "A151"
+  },
+  {
+    "brand": "TVB",
+    "name": "A20",
+    "codename": "A20"
   },
   {
     "brand": "TVCore",

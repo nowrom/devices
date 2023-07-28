@@ -1,6 +1,6 @@
-brand = "Samsung"
-codename = "a20"
-name = "Galaxy Wide4"
+brand = "TVB"
+codename = "A20"
+name = "A20"
 
 [[recoveries]]
 id = "orangefox"
