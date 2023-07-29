@@ -6,7 +6,7 @@ recoveries = []
 [[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/Addons-T/"
-recovery = "https://sourceforge.net/projects/darkjoker360-developements/files/Samsung/Galaxy%20Tab%20S6%20Lite/gta4xl-12.1-recovery.img/download"
+recovery = "https://sourceforge.net/projects/s6lite/files/gta4xlwifi/crdroid/recovery.img/download"
 
 [[roms]]
 id = "lineageos"
