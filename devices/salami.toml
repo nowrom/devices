@@ -1,0 +1,9 @@
+brand = "OnePlus"
+codename = "salami"
+name = "OnePlus 11 5G"
+recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""

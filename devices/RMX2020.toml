@@ -10,7 +10,7 @@ photo = " https://fdn2.gsmarena.com/vv/pics/realme/realme-c3-2020-2.jpg"
 [[roms]]
 id = "arrowos"
 maintainer = "sarthakroy2002"
-changelog = "- Based on Realme UI 1.0 FW (A.77 recommended)\r\n\r\nArrowOS Recovery: https://t.me/arrowosRMX2020/7633\r\n\r\nFlashing Guide:\r\n- Flash ArrowOS Recovery\r\n- Boot to ArrowOS Recovery\r\n- Sideload the ROM\r\n- Reboot to system\r\nOR\r\n- Flash PBRP/TWRP\r\n- Boot to it\r\n- Flash the ROM zip\r\n- Reboot to system"
+changelog = "- Based on Realme UI 1.0 FW (A.77 recommended)"
 
 [[roms]]
 id = "crdroid"

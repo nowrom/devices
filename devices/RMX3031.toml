@@ -1,6 +1,6 @@
 brand = "Realme"
 codename = "RMX3031"
-name = "Realme X7 Max"
+name = "Realme X7 Max/GT Neo"
 
 [[recoveries]]
 id = "twrp"
@@ -9,6 +9,11 @@ maintainer = "ManshuTyagi"
 [[roms]]
 id = "ancientos"
 photo = "https://fdn2.gsmarena.com/vv/bigpic/realme-x7-max-5g.jpg"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
+recovery = ""
 
 [specs]
 cpu = "Not found"
