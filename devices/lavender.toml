@@ -20,7 +20,7 @@ xda_thread = "https://forum.xda-developers.com/t/title-rom-11-0-device-aospk-the
 [[roms]]
 id = "arrowos"
 maintainer = "D3nesyan"
-changelog = "- Initial build\r\n- Kernel baseline 4.19\r\n- Added MGLRU optimization\r\n- Retrofited to dynamic partitions\r\n- Build and enable fastbootd\r\n- Using erofs for dynamic partitions\r\n- Killed debugfs\r\n- Proper cdsp support\r\n- Fixed camera issues\r\n- Fixed dtbo breaks boot issue and added it to flash list again\r\n- Updated GcamGO version\r\n- Updateable APEX\r\n- Pixel Thermal & Pixel PowerHal are reserved\r\n- F2FS userdata with FBEv2\r\n- lmkd support\r\n- Use logdump as /metadata\r\n- Other fixes and improvements\r\n\r\nFlash tutorial:\r\nhttps://github.com/Ratoriku-Studio/Tutorials/blob/main/arrowos_lavender_flash.md"
+changelog = "- Mount fstab via ramdisk instead of kernel dts for init first stage\r\n- Updated blobs from honeywell hon660 & QSSI\r\n- Updated Bluetooth blobs from hon660\r\n- Updated GPS blobs from hon660\r\n- Sched optimizations\r\n- Disabled HD notification\r\n- Enabled Project Quota\r\n- Better backlight adjustment\r\n- Inherited several Android Go configurations\r\n- Implement spatial audio function\r\n- Other fixes and improvements\r\n\r\nFlash tutorial:\r\nhttps://github.com/Ratoriku-Studio/Tutorials/blob/main/arrowos_lavender_flash.md"
 
 [[roms]]
 id = "blissroms"

@@ -17,7 +17,7 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_redmi_rosemary","kernel_redmi_rosemary","vendor_redmi_rosemary","vendor_redmi_rosemary-firmware"]
+repostories = ["device_redmi_rosemary","kernel_redmi_rosemary","vendor_redmi_rosemary","vendor_redmi_rosemary-firmware","device_mediatek_common","vendor_mediatek-opensource","vendor_mediatek_interfaces"]
 
 [[roms.supported_versions]]
 version_code = "thirteen"
