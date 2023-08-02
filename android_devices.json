@@ -640,6 +640,11 @@
     "codename": "AGM_H5_PRO"
   },
   {
+    "brand": "AGM Mobile",
+    "name": "AGM_Note_N1",
+    "codename": "AGM_Note_N1"
+  },
+  {
     "brand": "AIDATA",
     "name": "ADT1012L",
     "codename": "ADT1012L"
@@ -3051,6 +3056,11 @@
   },
   {
     "brand": "Adreamer (Shenzhen)",
+    "name": "Libra PAD",
+    "codename": "Libra_PAD"
+  },
+  {
+    "brand": "Adreamer (Shenzhen)",
     "name": "TH10",
     "codename": "TH10"
   },
@@ -4101,6 +4111,11 @@
   },
   {
     "brand": "Akai",
+    "name": "AKAI",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Akai",
     "name": "FZ101",
     "codename": "FZ101"
   },
@@ -4308,6 +4323,11 @@
     "brand": "Alhafidh",
     "name": "R4_GTV",
     "codename": "R4_GTV"
+  },
+  {
+    "brand": "Aligator",
+    "name": "'Aligator_S5550",
+    "codename": "Aligator_S5550"
   },
   {
     "brand": "Aligator",
@@ -10881,6 +10901,11 @@
   },
   {
     "brand": "Athesi",
+    "name": "AP5501",
+    "codename": "AP5501"
+  },
+  {
+    "brand": "Athesi",
     "name": "AP5701",
     "codename": "AP5701"
   },
@@ -13668,6 +13693,16 @@
     "brand": "BOTECH",
     "name": "Android TV",
     "codename": "R2"
+  },
+  {
+    "brand": "BOTECH",
+    "name": "BOTECH",
+    "codename": "stanford"
+  },
+  {
+    "brand": "BOTECH",
+    "name": "BOTECH",
+    "codename": "zhongshan"
   },
   {
     "brand": "BOTECH",
@@ -24347,6 +24382,11 @@
   {
     "brand": "Compaq",
     "name": "COMPAQ",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Compaq",
+    "name": "COMPAQ",
     "codename": "zhongshan"
   },
   {
@@ -25566,6 +25606,11 @@
   },
   {
     "brand": "Coolpad",
+    "name": "3631",
+    "codename": "CP12t"
+  },
+  {
+    "brand": "Coolpad",
     "name": "3632A",
     "codename": "cp3632a"
   },
@@ -26493,6 +26538,11 @@
     "brand": "Coolpad",
     "name": "Y92-9",
     "codename": "Y92-9"
+  },
+  {
+    "brand": "Coolpad",
+    "name": "coolpad 5651",
+    "codename": "CP12p"
   },
   {
     "brand": "Coolpad",
@@ -33096,6 +33146,11 @@
   },
   {
     "brand": "Dyon",
+    "name": "DYON",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "Dyon",
     "name": "DYON 2K Google TV",
     "codename": "capitolhill"
   },
@@ -36836,6 +36891,11 @@
   },
   {
     "brand": "F-Plus",
+    "name": "SA55_21624",
+    "codename": "SA55_21624"
+  },
+  {
+    "brand": "F-Plus",
     "name": "SH60_23230",
     "codename": "SH60_23230"
   },
@@ -37260,6 +37320,11 @@
     "codename": "VIVID_PRO"
   },
   {
+    "brand": "FIRICH_ENTERPRISE_CO",
+    "name": "PPX13X_Series",
+    "codename": "PPX13X"
+  },
+  {
     "brand": "FIVAHIVA",
     "name": "FF1010",
     "codename": "FF1010"
@@ -37298,6 +37363,11 @@
     "brand": "FOXX",
     "name": "T8C",
     "codename": "T8C"
+  },
+  {
+    "brand": "FOXXD",
+    "name": "A2023",
+    "codename": "A2023"
   },
   {
     "brand": "FOXXD",
@@ -41533,6 +41603,11 @@
     "brand": "Ghia",
     "name": "GHIA",
     "codename": "stanford"
+  },
+  {
+    "brand": "Ghia",
+    "name": "GHIA",
+    "codename": "zhongshan"
   },
   {
     "brand": "Ghia",
@@ -48685,6 +48760,11 @@
     "codename": "KHATARH20PRO"
   },
   {
+    "brand": "HYPRO",
+    "name": "S6",
+    "codename": "HYPRO_S6"
+  },
+  {
     "brand": "HYUNDAI_MAESTRO",
     "name": "HDT-7427GU",
     "codename": "HDT-7427GU"
@@ -50338,6 +50418,11 @@
     "brand": "Hiking",
     "name": "A47",
     "codename": "A42_A47"
+  },
+  {
+    "brand": "Hiking",
+    "name": "A48",
+    "codename": "A43_A48"
   },
   {
     "brand": "Hiking",
@@ -69891,6 +69976,16 @@
   },
   {
     "brand": "Itel",
+    "name": "ITEL",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Itel",
+    "name": "ITEL",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "Itel",
     "name": "ITELL_K4700Q",
     "codename": "ITELL_K4700Q"
   },
@@ -72861,16 +72956,6 @@
   },
   {
     "brand": "KTCtv",
-    "name": "BOTECH",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "BOTECH",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
     "name": "Banana",
     "codename": "stanford"
   },
@@ -72896,11 +72981,6 @@
   },
   {
     "brand": "KTCtv",
-    "name": "COMPAQ",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
     "name": "CONTI",
     "codename": "stanford"
   },
@@ -72942,11 +73022,6 @@
   {
     "brand": "KTCtv",
     "name": "DIGGIO",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "DYON",
     "codename": "zhongshan"
   },
   {
@@ -72981,11 +73056,6 @@
   },
   {
     "brand": "KTCtv",
-    "name": "Enova",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
     "name": "FASTLIFE",
     "codename": "zhongshan"
   },
@@ -72997,11 +73067,6 @@
   {
     "brand": "KTCtv",
     "name": "GAZER",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "GHIA",
     "codename": "zhongshan"
   },
   {
@@ -73036,16 +73101,6 @@
   },
   {
     "brand": "KTCtv",
-    "name": "ITEL",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "ITEL",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
     "name": "KENSTAR",
     "codename": "stanford"
   },
@@ -73072,16 +73127,6 @@
   {
     "brand": "KTCtv",
     "name": "MTEK",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "Maxsonic_elite",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "Maxsonic_elite",
     "codename": "zhongshan"
   },
   {
@@ -73133,16 +73178,6 @@
     "brand": "KTCtv",
     "name": "PROMETHEUS",
     "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "QBELL",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "QBELL",
-    "codename": "zhongshan"
   },
   {
     "brand": "KTCtv",
@@ -73206,11 +73241,6 @@
   },
   {
     "brand": "KTCtv",
-    "name": "Telsa",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
     "name": "VISTA",
     "codename": "stanford"
   },
@@ -73218,11 +73248,6 @@
     "brand": "KTCtv",
     "name": "VISTA",
     "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "VIZZION",
-    "codename": "stanford"
   },
   {
     "brand": "KTCtv",
@@ -73242,16 +73267,6 @@
   {
     "brand": "KTCtv",
     "name": "WISMANN",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "ZEPHIR",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "ZEPHIR",
     "codename": "zhongshan"
   },
   {
@@ -94010,6 +94025,16 @@
     "codename": "Parrot_3G"
   },
   {
+    "brand": "Maxsonic Elite",
+    "name": "Maxsonic_elite",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Maxsonic Elite",
+    "name": "Maxsonic_elite",
+    "codename": "zhongshan"
+  },
+  {
     "brand": "Maxtron",
     "name": "MAXTRON Genio",
     "codename": "MAXTRON_Genio"
@@ -97228,6 +97253,11 @@
     "brand": "Microtech",
     "name": "ETW101GT_EEA",
     "codename": "ETW101GT_EEA"
+  },
+  {
+    "brand": "Microtech",
+    "name": "IDC_Series",
+    "codename": "IDC_Series"
   },
   {
     "brand": "Microtech",
@@ -101208,6 +101238,11 @@
     "brand": "Motorola",
     "name": "Motorola Defy",
     "codename": "bathena"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Motorola Defy 2",
+    "codename": "BM2S1E"
   },
   {
     "brand": "Motorola",
@@ -107228,6 +107263,11 @@
     "brand": "Next",
     "name": "4K TV Stick",
     "codename": "YYT"
+  },
+  {
+    "brand": "Next",
+    "name": "NEXT",
+    "codename": "stanford"
   },
   {
     "brand": "Next",
@@ -119231,6 +119271,11 @@
   },
   {
     "brand": "Polaroid",
+    "name": "BDLE716PR",
+    "codename": "BDLE716PR"
+  },
+  {
+    "brand": "Polaroid",
     "name": "BDLT107",
     "codename": "BDLT107"
   },
@@ -123078,6 +123123,16 @@
     "brand": "QBell",
     "name": "Italy",
     "codename": "yeongdeungpo"
+  },
+  {
+    "brand": "QBell",
+    "name": "QBELL",
+    "codename": "stanford"
+  },
+  {
+    "brand": "QBell",
+    "name": "QBELL",
+    "codename": "zhongshan"
   },
   {
     "brand": "QBell",
@@ -128803,6 +128858,16 @@
     "brand": "SKY_Brasil",
     "name": "Sky Brazil",
     "codename": "usw8052skb"
+  },
+  {
+    "brand": "SMART Technologies",
+    "name": "AM60 series",
+    "codename": "komodo"
+  },
+  {
+    "brand": "SMART Technologies",
+    "name": "SMART Board MX Series (V5)",
+    "codename": "groundhog"
   },
   {
     "brand": "SMART_KASSEL",
@@ -148256,6 +148321,11 @@
   },
   {
     "brand": "Simbans",
+    "name": "PICASSOTABX14",
+    "codename": "PICASSOTABX14"
+  },
+  {
+    "brand": "Simbans",
     "name": "PicassoTab",
     "codename": "PicassoTab"
   },
@@ -149701,11 +149771,6 @@
   },
   {
     "brand": "Smart",
-    "name": "AM60 series",
-    "codename": "komodo"
-  },
-  {
-    "brand": "Smart",
     "name": "ATV device",
     "codename": "tcl_eu"
   },
@@ -149763,11 +149828,6 @@
     "brand": "Smart",
     "name": "SK3401",
     "codename": "SK3401"
-  },
-  {
-    "brand": "Smart",
-    "name": "SMART Board MX Series (V5)",
-    "codename": "groundhog"
   },
   {
     "brand": "Smart",
@@ -150396,6 +150456,11 @@
   },
   {
     "brand": "Sony",
+    "name": "BRAVIA AE M6L",
+    "codename": "BRAVIA_AE_M6L"
+  },
+  {
+    "brand": "Sony",
     "name": "BRAVIA Smart Stick",
     "codename": "NSZGU1"
   },
@@ -150738,6 +150803,11 @@
     "brand": "Sony",
     "name": "Xperia 1 V",
     "codename": "SOG10"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 V",
+    "codename": "XQ-DQ54"
   },
   {
     "brand": "Sony",
@@ -156791,6 +156861,11 @@
   },
   {
     "brand": "TCL",
+    "name": "TCL 40 NXTPAPER 5G",
+    "codename": "Firefly"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL 40 R 5G",
     "codename": "Levin"
   },
@@ -157183,6 +157258,16 @@
     "brand": "TCL",
     "name": "TCL TAB kids",
     "codename": "Thor_8_4G_VZW"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL TAB10 Gen2",
+    "codename": "Gaia"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL TAB10 LTE Gen2",
+    "codename": "Gaia"
   },
   {
     "brand": "TCL",
@@ -168081,6 +168166,11 @@
   },
   {
     "brand": "Tecno Mobile",
+    "name": "POVA 5 Pro 5G",
+    "codename": "TECNO-Mobile-LH8n"
+  },
+  {
+    "brand": "Tecno Mobile",
     "name": "POVA Neo 2",
     "codename": "TECNO-Mobile-LG6n"
   },
@@ -168813,6 +168903,11 @@
     "brand": "Tesla",
     "name": "South American",
     "codename": "patrick"
+  },
+  {
+    "brand": "Tesla",
+    "name": "TESLA",
+    "codename": "zhongshan"
   },
   {
     "brand": "Tesla",
@@ -171866,6 +171961,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "Active T1",
+    "codename": "Active_T1"
+  },
+  {
+    "brand": "Umidigi",
     "name": "BISON",
     "codename": "BISON"
   },
@@ -173198,6 +173298,11 @@
     "brand": "VIVIVIEW",
     "name": "V8",
     "codename": "V8"
+  },
+  {
+    "brand": "VIZZION",
+    "name": "VIZZION",
+    "codename": "stanford"
   },
   {
     "brand": "VIZZION",
@@ -185616,6 +185721,16 @@
   },
   {
     "brand": "Yezz",
+    "name": "ART_3S",
+    "codename": "ART_3S"
+  },
+  {
+    "brand": "Yezz",
+    "name": "ART_3_Lite",
+    "codename": "ART_3_Lite"
+  },
+  {
+    "brand": "Yezz",
     "name": "E400A",
     "codename": "E400A"
   },
@@ -185678,6 +185793,11 @@
     "brand": "Yezz",
     "name": "LIV_3S",
     "codename": "LIV_3S"
+  },
+  {
+    "brand": "Yezz",
+    "name": "MAX 3 ULTRA",
+    "codename": "MAX3_ULTRA"
   },
   {
     "brand": "Yezz",
@@ -194996,6 +195116,16 @@
   },
   {
     "brand": "Zephir",
+    "name": "ZEPHIR",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Zephir",
+    "name": "ZEPHIR",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "Zephir",
     "name": "Zephir",
     "codename": "bangbae"
   },
@@ -196213,6 +196343,11 @@
     "brand": "eNOVA",
     "name": "ENOVA",
     "codename": "stanford"
+  },
+  {
+    "brand": "eNOVA",
+    "name": "Enova",
+    "codename": "zhongshan"
   },
   {
     "brand": "eNOVA",
@@ -198241,6 +198376,11 @@
   },
   {
     "brand": "kiddoboo",
+    "name": "KB101",
+    "codename": "KB101"
+  },
+  {
+    "brand": "kiddoboo",
     "name": "Kiddoboo Plus KB80P",
     "codename": "KB80P"
   },
@@ -199008,6 +199148,11 @@
     "brand": "realme",
     "name": "realme C35",
     "codename": "RE87BAL1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme C51",
+    "codename": "RE58BC"
   },
   {
     "brand": "realme",
