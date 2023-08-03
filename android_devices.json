@@ -5546,6 +5546,11 @@
   },
   {
     "brand": "Alldocube",
+    "name": "iPlay50 Pro",
+    "codename": "T1030M"
+  },
+  {
+    "brand": "Alldocube",
     "name": "iPlay50_SE",
     "codename": "iPlay50_SE"
   },
@@ -12263,6 +12268,11 @@
     "brand": "BALMUDA",
     "name": "BALMUDA Phone",
     "codename": "X01A"
+  },
+  {
+    "brand": "BAMtelecoms",
+    "name": "N3",
+    "codename": "N3"
   },
   {
     "brand": "BAMtelecoms",
@@ -29386,11 +29396,6 @@
   },
   {
     "brand": "Datalogic",
-    "name": "Memor 11",
-    "codename": "m11"
-  },
-  {
-    "brand": "Datalogic",
     "name": "Memor 20",
     "codename": "Q10"
   },
@@ -30603,6 +30608,11 @@
     "brand": "Digit",
     "name": "DIGIT INFINITY",
     "codename": "DIGIT_INFINITY"
+  },
+  {
+    "brand": "Digit",
+    "name": "DigitPad10",
+    "codename": "DigitPad10"
   },
   {
     "brand": "Digit",
@@ -33713,6 +33723,11 @@
     "brand": "ELEXIA",
     "name": "ELEXIA",
     "codename": "komagome"
+  },
+  {
+    "brand": "ELITESOFT",
+    "name": "Tab101",
+    "codename": "Tab101"
   },
   {
     "brand": "ELO Touch",
@@ -44461,6 +44476,11 @@
   },
   {
     "brand": "HEADWOLF",
+    "name": "Fpad1",
+    "codename": "Fpad1"
+  },
+  {
+    "brand": "HEADWOLF",
     "name": "Fpad2",
     "codename": "Fpad2"
   },
@@ -50923,6 +50943,11 @@
     "brand": "Hisense",
     "name": "75MR6DE",
     "codename": "changjiang"
+  },
+  {
+    "brand": "Hisense",
+    "name": "86MR6DE",
+    "codename": "huaihe"
   },
   {
     "brand": "Hisense",
@@ -70518,6 +70543,11 @@
     "brand": "Itel",
     "name": "itel A24",
     "codename": "itel-L5007"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel A24 2023",
+    "codename": "itel-A507LC"
   },
   {
     "brand": "Itel",
@@ -90720,6 +90750,11 @@
     "codename": "LOGIC_X5A"
   },
   {
+    "brand": "Logic Mobility",
+    "name": "l409",
+    "codename": "LOGIC_L40"
+  },
+  {
     "brand": "Logicom",
     "name": "B bot 50",
     "codename": "BBOT50"
@@ -92353,6 +92388,11 @@
     "brand": "MIRAY",
     "name": "TPM4G_105",
     "codename": "TPM4G_105"
+  },
+  {
+    "brand": "MIRAY",
+    "name": "TPM4G_E108",
+    "codename": "TPM4G_E108"
   },
   {
     "brand": "MIRAY",
@@ -101601,6 +101641,26 @@
   },
   {
     "brand": "Motorola",
+    "name": "moto e22",
+    "codename": "borag"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto e22",
+    "codename": "borag"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto e22i",
+    "codename": "borago"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto e22i",
+    "codename": "borago"
+  },
+  {
+    "brand": "Motorola",
     "name": "moto e30",
     "codename": "cyprus"
   },
@@ -103436,6 +103496,11 @@
   },
   {
     "brand": "Multilaser",
+    "name": "M10 4G NOVA",
+    "codename": "ML_SO1C_M10_4G_NOVA"
+  },
+  {
+    "brand": "Multilaser",
     "name": "M10 4G PRO",
     "codename": "ML_JI0B_M10_4G_PRO"
   },
@@ -104443,6 +104508,11 @@
     "brand": "MyPhone (PL)",
     "name": "myPhone_Prime_2",
     "codename": "myPhone_Prime_2"
+  },
+  {
+    "brand": "MyTab_pro",
+    "name": "My-10-13-1",
+    "codename": "MyTab_Pro_13"
   },
   {
     "brand": "MyanmarNet",
@@ -153701,6 +153771,11 @@
   },
   {
     "brand": "SparX",
+    "name": "S7",
+    "codename": "Sparx_S7"
+  },
+  {
+    "brand": "SparX",
     "name": "S9",
     "codename": "S9"
   },
@@ -166163,6 +166238,11 @@
     "brand": "Teclast",
     "name": "T40Air_EEA",
     "codename": "T40Air"
+  },
+  {
+    "brand": "Teclast",
+    "name": "T40Air_ROW",
+    "codename": "T40Air_ROW"
   },
   {
     "brand": "Teclast",
@@ -178666,6 +178746,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "vivo S16e",
+    "codename": "PD2239"
+  },
+  {
+    "brand": "Vivo",
     "name": "vivo S17e",
     "codename": "PD2285"
   },
@@ -185333,6 +185418,11 @@
     "brand": "YOUIN",
     "name": "SEI600EN",
     "codename": "HND"
+  },
+  {
+    "brand": "YOUNG",
+    "name": "YETC_1123",
+    "codename": "YETC_1123"
   },
   {
     "brand": "YOUTAB",
@@ -195883,6 +195973,11 @@
     "brand": "benco",
     "name": "AE9240",
     "codename": "AE9240"
+  },
+  {
+    "brand": "benco",
+    "name": "AE9310",
+    "codename": "AE9310"
   },
   {
     "brand": "benco",

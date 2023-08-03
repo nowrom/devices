@@ -22,3 +22,6 @@ id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
+
+[[roms]]
+id = "pixyos"
