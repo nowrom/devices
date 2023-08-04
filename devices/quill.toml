@@ -1,6 +1,6 @@
 brand = "NVIDIA"
 codename = "quill"
-name = "Jetson TX2 [Android TV]"
+name = "Jetson TX2 NX [Android TV]"
 
 [[recoveries]]
 id = "twrp"

@@ -11575,6 +11575,16 @@
     "codename": "ICN"
   },
   {
+    "brand": "Azatech",
+    "name": "AZATECH",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Azatech",
+    "name": "AZATECH",
+    "codename": "zhongshan"
+  },
+  {
     "brand": "Azeyou",
     "name": "AT1011E",
     "codename": "AT1011E"
@@ -14933,6 +14943,16 @@
     "brand": "Battcell",
     "name": "M7042F",
     "codename": "M7042F"
+  },
+  {
+    "brand": "Bauf",
+    "name": "BAUF",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Bauf",
+    "name": "BAUF",
+    "codename": "zhongshan"
   },
   {
     "brand": "Bauhn",
@@ -25180,6 +25200,16 @@
     "codename": "yeongdeungpo"
   },
   {
+    "brand": "Conti",
+    "name": "CONTI",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Conti",
+    "name": "CONTI",
+    "codename": "zhongshan"
+  },
+  {
     "brand": "Continental Edison",
     "name": "CE10402",
     "codename": "CE10402"
@@ -29093,6 +29123,31 @@
     "brand": "Dahl Sweden",
     "name": "People Plus",
     "codename": "People_Plus"
+  },
+  {
+    "brand": "Dahua",
+    "name": "DAHUA",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Dahua",
+    "name": "DAHUA",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Dahua",
+    "name": "DAHUA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "Dahua",
+    "name": "DAHUA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "Dahua",
+    "name": "DAHUA",
+    "codename": "zhongshan"
   },
   {
     "brand": "Daihatsu",
@@ -34685,6 +34740,16 @@
     "codename": "NASCO_Allure"
   },
   {
+    "brand": "Electroman",
+    "name": "Electroman",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Electroman",
+    "name": "Electroman",
+    "codename": "zhongshan"
+  },
+  {
     "brand": "Electroneum",
     "name": "electroneumM1",
     "codename": "electroneumM1"
@@ -35328,6 +35393,11 @@
     "brand": "Engel",
     "name": "Smart TV",
     "codename": "osaki"
+  },
+  {
+    "brand": "Englaon",
+    "name": "ENGLAON",
+    "codename": "stanford"
   },
   {
     "brand": "Enspert",
@@ -37618,6 +37688,11 @@
     "brand": "FarEasTone",
     "name": "Smart601",
     "codename": "Smart601"
+  },
+  {
+    "brand": "Fastlife",
+    "name": "FASTLIFE",
+    "codename": "zhongshan"
   },
   {
     "brand": "Fastway",
@@ -40515,6 +40590,11 @@
     "codename": "G200"
   },
   {
+    "brand": "GDL(BD)",
+    "name": "GDL Xtreme6",
+    "codename": "Xtreme_6"
+  },
+  {
     "brand": "GDM (es)",
     "name": "MB10",
     "codename": "MB10"
@@ -41063,6 +41143,16 @@
     "brand": "Gateway",
     "name": "GWAT8_1",
     "codename": "GWAT8_1"
+  },
+  {
+    "brand": "Gazer",
+    "name": "GAZER",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Gazer",
+    "name": "GAZER",
+    "codename": "zhongshan"
   },
   {
     "brand": "Geanee",
@@ -67581,6 +67671,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "ZERO 30 5G",
+    "codename": "Infinix-X6731"
+  },
+  {
+    "brand": "Infinix",
     "name": "ZERO 5G",
     "codename": "Infinix-X6815"
   },
@@ -72966,26 +73061,6 @@
   },
   {
     "brand": "KTCtv",
-    "name": "AZATECH",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "AZATECH",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "BAUF",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "BAUF",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
     "name": "Banana",
     "codename": "stanford"
   },
@@ -73011,41 +73086,6 @@
   },
   {
     "brand": "KTCtv",
-    "name": "CONTI",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "CONTI",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "DAHUA",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "DAHUA",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "DAHUA",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "DAHUA",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "DAHUA",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
     "name": "DIGGIO",
     "codename": "stanford"
   },
@@ -73053,16 +73093,6 @@
     "brand": "KTCtv",
     "name": "DIGGIO",
     "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "ELECTROMAN",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "ENGLAON",
-    "codename": "stanford"
   },
   {
     "brand": "KTCtv",
@@ -73078,26 +73108,6 @@
     "brand": "KTCtv",
     "name": "EcoTV Plus D",
     "codename": "hongkong"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "Electroman",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "FASTLIFE",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "GAZER",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "GAZER",
-    "codename": "zhongshan"
   },
   {
     "brand": "KTCtv",
@@ -73131,11 +73141,6 @@
   },
   {
     "brand": "KTCtv",
-    "name": "KENSTAR",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
     "name": "KTC",
     "codename": "stanford"
   },
@@ -73151,16 +73156,6 @@
   },
   {
     "brand": "KTCtv",
-    "name": "MTEK",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "MTEK",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
     "name": "NA",
     "codename": "stanford"
   },
@@ -73178,21 +73173,6 @@
     "brand": "KTCtv",
     "name": "NAKAMICHI",
     "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "NEXT_G",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "NEXT_G",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "Nobrand",
-    "codename": "stanford"
   },
   {
     "brand": "KTCtv",
@@ -73202,26 +73182,6 @@
   {
     "brand": "KTCtv",
     "name": "POWER_GREEN",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "PROMETHEUS",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "ROSSO",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "ROYALRAHMANI",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "Rosso",
     "codename": "stanford"
   },
   {
@@ -73256,16 +73216,6 @@
   },
   {
     "brand": "KTCtv",
-    "name": "SONEVIEW",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "SONEVIEW",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
     "name": "Siera",
     "codename": "zhongshan"
   },
@@ -73287,16 +73237,6 @@
   {
     "brand": "KTCtv",
     "name": "VON",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "WISMANN",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "WISMANN",
     "codename": "zhongshan"
   },
   {
@@ -74048,6 +73988,11 @@
     "brand": "Kennex",
     "name": "MD7053G",
     "codename": "MD7053G"
+  },
+  {
+    "brand": "Kenstar",
+    "name": "KENSTAR",
+    "codename": "stanford"
   },
   {
     "brand": "Kenwood",
@@ -94161,6 +94106,11 @@
   },
   {
     "brand": "Maxwest",
+    "name": "Astro 4T",
+    "codename": "Astro_4T"
+  },
+  {
+    "brand": "Maxwest",
     "name": "Astro 5 Go LTE",
     "codename": "Astro_5_GO_LTE"
   },
@@ -102411,6 +102361,11 @@
   },
   {
     "brand": "Motorola",
+    "name": "moto g53y 5G",
+    "codename": "penang"
+  },
+  {
+    "brand": "Motorola",
     "name": "moto g6 play",
     "codename": "jeter"
   },
@@ -103358,6 +103313,16 @@
     "brand": "Mswipe",
     "name": "WiseposGo",
     "codename": "L200"
+  },
+  {
+    "brand": "Mtek",
+    "name": "MTEK",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Mtek",
+    "name": "MTEK",
+    "codename": "zhongshan"
   },
   {
     "brand": "Multilaser",
@@ -107360,6 +107325,16 @@
     "codename": "N7526"
   },
   {
+    "brand": "Next-G",
+    "name": "NEXT_G",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Next-G",
+    "name": "NEXT_G",
+    "codename": "zhongshan"
+  },
+  {
     "brand": "Nexta",
     "name": "Smart_Study_1",
     "codename": "Smart_Study_1"
@@ -107678,6 +107653,11 @@
     "brand": "Noblex",
     "name": "X9500",
     "codename": "songshan"
+  },
+  {
+    "brand": "Nobrand",
+    "name": "Nobrand",
+    "codename": "stanford"
   },
   {
     "brand": "Nokia",
@@ -122990,6 +122970,11 @@
     "codename": "XM3566D"
   },
   {
+    "brand": "Prometheus",
+    "name": "PROMETHEUS",
+    "codename": "stanford"
+  },
+  {
     "brand": "Proscan",
     "name": "PELTDVD1029",
     "codename": "mdt1008_mr_32"
@@ -127923,6 +127908,21 @@
     "brand": "Rombica",
     "name": "myPhone Jet",
     "codename": "myPhone_Jet"
+  },
+  {
+    "brand": "Rosso",
+    "name": "ROSSO",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "Rosso",
+    "name": "Rosso",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Royal-rahmani",
+    "name": "ROYALRAHMANI",
+    "codename": "stanford"
   },
   {
     "brand": "Royaltek",
@@ -150350,6 +150350,16 @@
     "codename": "W1452"
   },
   {
+    "brand": "Soneview",
+    "name": "SONEVIEW",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Soneview",
+    "name": "SONEVIEW",
+    "codename": "zhongshan"
+  },
+  {
     "brand": "Sonimtech",
     "name": "Ex-Handy 09",
     "codename": "XP6700Z1"
@@ -172301,6 +172311,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "G2_Tab_Kids",
+    "codename": "G2_Tab_Kids"
+  },
+  {
+    "brand": "Umidigi",
     "name": "G3",
     "codename": "UMIDIGI_G3"
   },
@@ -179881,6 +179896,11 @@
   },
   {
     "brand": "Vortex",
+    "name": "Vortex Z23",
+    "codename": "Z23"
+  },
+  {
+    "brand": "Vortex",
     "name": "VortexV20",
     "codename": "VortexV20"
   },
@@ -182918,6 +182938,16 @@
     "brand": "Wishtel",
     "name": "IRA_S2",
     "codename": "IRA_S2"
+  },
+  {
+    "brand": "Wismann",
+    "name": "WISMANN",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Wismann",
+    "name": "WISMANN",
+    "codename": "zhongshan"
   },
   {
     "brand": "Wistron",

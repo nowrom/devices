@@ -55,18 +55,6 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 465"
-ram = "4/6 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
-
-[[roms]]
-id = "lineageos"
-cpu = "Kryo 465"
-ram = "4/6 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
-
-[[roms]]
-id = "lineageos"
-cpu = "Kryo 465"
 ram = "6/8 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
 
@@ -80,6 +68,18 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot
 id = "lineageos"
 cpu = "Kryo 465"
 ram = "4/6/8 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 465"
+ram = "4/6 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 465"
+ram = "4/6 GB"
 wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
 
 [[roms]]
