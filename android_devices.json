@@ -3996,6 +3996,16 @@
   },
   {
     "brand": "Aiwa",
+    "name": "Aiwa",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Aiwa",
+    "name": "Aiwa",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "Aiwa",
     "name": "Android TV",
     "codename": "ikebukuro"
   },
@@ -12385,6 +12395,11 @@
     "codename": "X80-EEA"
   },
   {
+    "brand": "BERGSTROM",
+    "name": "H634_BLK",
+    "codename": "H634_BLK"
+  },
+  {
     "brand": "BGH S.A.",
     "name": "BGH 2K Android TV",
     "codename": "lasalle"
@@ -17157,6 +17172,11 @@
   {
     "brand": "Blaupunkt",
     "name": "BLAUPUNKT",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "BLAUPUNKT",
     "codename": "stanford"
   },
   {
@@ -17217,7 +17237,32 @@
   {
     "brand": "Blaupunkt",
     "name": "Blaupunkt",
+    "codename": "expo"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "Blaupunkt",
+    "codename": "kaitak"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "Blaupunkt",
     "codename": "komagome"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "Blaupunkt",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "Blaupunkt",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "Blaupunkt",
+    "codename": "mountbaker"
   },
   {
     "brand": "Blaupunkt",
@@ -17228,6 +17273,11 @@
     "brand": "Blaupunkt",
     "name": "Blaupunkt",
     "codename": "sindang"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "Blaupunkt",
+    "codename": "tennoji"
   },
   {
     "brand": "Blaupunkt",
@@ -18101,6 +18151,11 @@
   },
   {
     "brand": "Blu",
+    "name": "G33",
+    "codename": "G0892"
+  },
+  {
+    "brand": "Blu",
     "name": "G40",
     "codename": "G0730WW"
   },
@@ -18278,6 +18333,11 @@
     "brand": "Blu",
     "name": "G71_PLUS_TIGO",
     "codename": "G0560WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "G72 MAX",
+    "codename": "G0770"
   },
   {
     "brand": "Blu",
@@ -18526,8 +18586,18 @@
   },
   {
     "brand": "Blu",
+    "name": "M10L PLUS",
+    "codename": "M0224_ND"
+  },
+  {
+    "brand": "Blu",
     "name": "M10L Pro",
     "codename": "M0214_ND"
+  },
+  {
+    "brand": "Blu",
+    "name": "M10L Pro",
+    "codename": "M0215_ND"
   },
   {
     "brand": "Blu",
@@ -20683,6 +20753,11 @@
     "brand": "CMCC",
     "name": "M811",
     "codename": "m811hk"
+  },
+  {
+    "brand": "COCOMM",
+    "name": "ENOS",
+    "codename": "ENOS"
   },
   {
     "brand": "COCOMM",
@@ -23523,6 +23598,21 @@
     "brand": "Cidea",
     "name": "CM82",
     "codename": "CM82"
+  },
+  {
+    "brand": "Cidea",
+    "name": "CM826",
+    "codename": "CM826"
+  },
+  {
+    "brand": "Cidea",
+    "name": "CM90",
+    "codename": "CM90"
+  },
+  {
+    "brand": "Cidea",
+    "name": "CM91_EEA",
+    "codename": "CM91_EEA"
   },
   {
     "brand": "Ciontek",
@@ -33622,12 +33712,27 @@
   {
     "brand": "EKO",
     "name": "EKO",
+    "codename": "expo"
+  },
+  {
+    "brand": "EKO",
+    "name": "EKO",
+    "codename": "kaitak"
+  },
+  {
+    "brand": "EKO",
+    "name": "EKO",
     "codename": "komagome"
   },
   {
     "brand": "EKO",
     "name": "EKO",
     "codename": "shilin"
+  },
+  {
+    "brand": "EKO",
+    "name": "EKO",
+    "codename": "tennoji"
   },
   {
     "brand": "EKO",
@@ -33777,7 +33882,22 @@
   {
     "brand": "ELEXIA",
     "name": "ELEXIA",
+    "codename": "bruno"
+  },
+  {
+    "brand": "ELEXIA",
+    "name": "ELEXIA",
+    "codename": "expo"
+  },
+  {
+    "brand": "ELEXIA",
+    "name": "ELEXIA",
     "codename": "komagome"
+  },
+  {
+    "brand": "ELEXIA",
+    "name": "ELEXIA",
+    "codename": "tennoji"
   },
   {
     "brand": "ELITESOFT",
@@ -33883,6 +34003,11 @@
     "brand": "ELO Touch",
     "name": "PayPoint® for Android",
     "codename": "Elo-PP3-13"
+  },
+  {
+    "brand": "ELSONIC",
+    "name": "ECQ-DAT01",
+    "codename": "ECQ-DAT01"
   },
   {
     "brand": "ELSONIC",
@@ -34742,6 +34867,11 @@
   {
     "brand": "Electroman",
     "name": "Electroman",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Electroman",
+    "name": "Electroman",
     "codename": "stanford"
   },
   {
@@ -34753,6 +34883,21 @@
     "brand": "Electroneum",
     "name": "electroneumM1",
     "codename": "electroneumM1"
+  },
+  {
+    "brand": "Element",
+    "name": "Element",
+    "codename": "bruno"
+  },
+  {
+    "brand": "Element",
+    "name": "Element",
+    "codename": "kaitak"
+  },
+  {
+    "brand": "Element",
+    "name": "Element",
+    "codename": "shilin"
   },
   {
     "brand": "Element",
@@ -37111,6 +37256,11 @@
   },
   {
     "brand": "FACETEL",
+    "name": "Q3-EEA",
+    "codename": "Q3-EEA"
+  },
+  {
+    "brand": "FACETEL",
     "name": "Q3-pro",
     "codename": "Q3_pro"
   },
@@ -37133,6 +37283,11 @@
     "brand": "FACETEL",
     "name": "Q5_EEA",
     "codename": "Q5_EEA"
+  },
+  {
+    "brand": "FACETEL",
+    "name": "Q5_US",
+    "codename": "Q5_US"
   },
   {
     "brand": "FACILOTAB",
@@ -65267,6 +65422,11 @@
   {
     "brand": "INFINITON",
     "name": "Infiniton",
+    "codename": "bruno"
+  },
+  {
+    "brand": "INFINITON",
+    "name": "Infiniton",
     "codename": "shilin"
   },
   {
@@ -66378,6 +66538,21 @@
     "brand": "Indurama",
     "name": "INDURAMA",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "Indurama",
+    "name": "Indurama",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Indurama",
+    "name": "Indurama",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Indurama",
+    "name": "Indurama",
+    "codename": "mountbaker"
   },
   {
     "brand": "Indurama",
@@ -71285,6 +71460,11 @@
     "codename": "JR_J7"
   },
   {
+    "brand": "JTYPDA",
+    "name": "X20L",
+    "codename": "X20L"
+  },
+  {
     "brand": "JUSYEA",
     "name": "J3",
     "codename": "JUSYEA_J3"
@@ -71467,6 +71647,36 @@
   {
     "brand": "JVC",
     "name": "JVC",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
+    "codename": "kaitak"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
+    "codename": "kaitak"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
+    "codename": "kaitak"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
     "codename": "kaitak"
   },
   {
@@ -71487,7 +71697,27 @@
   {
     "brand": "JVC",
     "name": "JVC",
-    "codename": "seocho"
+    "codename": "lavender"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
+    "codename": "lavender"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
+    "codename": "mountbaker"
   },
   {
     "brand": "JVC",
@@ -71503,6 +71733,16 @@
     "brand": "JVC",
     "name": "JVC",
     "codename": "seocho"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
+    "codename": "seocho"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
+    "codename": "shilin"
   },
   {
     "brand": "JVC",
@@ -71538,6 +71778,16 @@
     "brand": "JVC",
     "name": "JVC",
     "codename": "sugamo"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
+    "codename": "tennoji"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
+    "codename": "tennoji"
   },
   {
     "brand": "JVC",
@@ -71653,6 +71903,16 @@
     "brand": "JabrBox",
     "name": "S502",
     "codename": "S502"
+  },
+  {
+    "brand": "Jam",
+    "name": "JAM",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Jam",
+    "name": "JAM",
+    "codename": "mountbaker"
   },
   {
     "brand": "Janam",
@@ -73045,6 +73305,21 @@
     "codename": "e100"
   },
   {
+    "brand": "KTC",
+    "name": "EcoTVCOL",
+    "codename": "lavender"
+  },
+  {
+    "brand": "KTC",
+    "name": "EcoTVDVB",
+    "codename": "lavender"
+  },
+  {
+    "brand": "KTC",
+    "name": "EcoTVISDB",
+    "codename": "lavender"
+  },
+  {
     "brand": "KTC (PD)",
     "name": "BLISS503",
     "codename": "BLISS503"
@@ -73086,6 +73361,31 @@
   },
   {
     "brand": "KTCtv",
+    "name": "DANILUX",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "DANILUX",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "DIGGIO",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "DIGGIO",
+    "codename": "lavender"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "DIGGIO",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
     "name": "DIGGIO",
     "codename": "stanford"
   },
@@ -73093,6 +73393,21 @@
     "brand": "KTCtv",
     "name": "DIGGIO",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "ELEMENT",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "ESLEY",
+    "codename": "lavender"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "ESLEY",
+    "codename": "mountbaker"
   },
   {
     "brand": "KTCtv",
@@ -73108,6 +73423,21 @@
     "brand": "KTCtv",
     "name": "EcoTV Plus D",
     "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "Global",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "Global",
+    "codename": "lavender"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "Global",
+    "codename": "mountbaker"
   },
   {
     "brand": "KTCtv",
@@ -73128,6 +73458,21 @@
     "brand": "KTCtv",
     "name": "ICE",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "INNOVA",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "INNOVA",
+    "codename": "lavender"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "INNOVA",
+    "codename": "mountbaker"
   },
   {
     "brand": "KTCtv",
@@ -73167,12 +73512,32 @@
   {
     "brand": "KTCtv",
     "name": "NAKAMICHI",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "NAKAMICHI",
+    "codename": "lavender"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "NAKAMICHI",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "NAKAMICHI",
     "codename": "stanford"
   },
   {
     "brand": "KTCtv",
     "name": "NAKAMICHI",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "PHIMARK",
+    "codename": "lavender"
   },
   {
     "brand": "KTCtv",
@@ -73183,6 +73548,16 @@
     "brand": "KTCtv",
     "name": "POWER_GREEN",
     "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "RENYA",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "REYNA",
+    "codename": "hongkong"
   },
   {
     "brand": "KTCtv",
@@ -73221,6 +73596,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "Smart TV",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
     "name": "VISTA",
     "codename": "stanford"
   },
@@ -73238,6 +73618,26 @@
     "brand": "KTCtv",
     "name": "VON",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "VOXELECTRONICS",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "VOXELECTRONICS",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "XELL",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "XELL",
+    "codename": "mountbaker"
   },
   {
     "brand": "KTCtv",
@@ -73998,6 +74398,46 @@
     "brand": "Kenwood",
     "name": "KWSA80K",
     "codename": "XP8800"
+  },
+  {
+    "brand": "Kenwood",
+    "name": "Kenwood",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Kenwood",
+    "name": "Kenwood",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Kenwood",
+    "name": "Kenwood",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Kenwood",
+    "name": "Kenwood",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Kenwood",
+    "name": "Kenwood",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Kenwood",
+    "name": "Kenwood",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "Kenwood",
+    "name": "Kenwood",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "Kenwood",
+    "name": "Kenwood",
+    "codename": "mountbaker"
   },
   {
     "brand": "Kenxinda",
@@ -74793,6 +75233,11 @@
     "brand": "Kodak",
     "name": "IM5",
     "codename": "IM5"
+  },
+  {
+    "brand": "Kodak",
+    "name": "KODAK",
+    "codename": "shilin"
   },
   {
     "brand": "Kodak",
@@ -83686,6 +84131,11 @@
   },
   {
     "brand": "LUCOMS",
+    "name": "LUCMOS",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "LUCOMS",
     "name": "LUCOMS",
     "codename": "stanford"
   },
@@ -92237,12 +92687,22 @@
   {
     "brand": "MGS",
     "name": "MGS",
+    "codename": "bruno"
+  },
+  {
+    "brand": "MGS",
+    "name": "MGS",
     "codename": "expo"
   },
   {
     "brand": "MGS",
     "name": "MGS",
     "codename": "komagome"
+  },
+  {
+    "brand": "MGS",
+    "name": "MGS",
+    "codename": "tennoji"
   },
   {
     "brand": "MHL Mobile Company",
@@ -92801,6 +93261,21 @@
   },
   {
     "brand": "MTC",
+    "name": "ANAM",
+    "codename": "shilin"
+  },
+  {
+    "brand": "MTC",
+    "name": "ANDRINO",
+    "codename": "shilin"
+  },
+  {
+    "brand": "MTC",
+    "name": "DWSUMMUS",
+    "codename": "shilin"
+  },
+  {
+    "brand": "MTC",
     "name": "ENTV",
     "codename": "seocho"
   },
@@ -92811,8 +93286,18 @@
   },
   {
     "brand": "MTC",
+    "name": "GRANZ",
+    "codename": "shilin"
+  },
+  {
+    "brand": "MTC",
     "name": "Hansung",
     "codename": "seocho"
+  },
+  {
+    "brand": "MTC",
+    "name": "Hansung",
+    "codename": "shilin"
   },
   {
     "brand": "MTC",
@@ -92826,7 +93311,17 @@
   },
   {
     "brand": "MTC",
+    "name": "JVC",
+    "codename": "shilin"
+  },
+  {
+    "brand": "MTC",
     "name": "KIVI",
+    "codename": "shilin"
+  },
+  {
+    "brand": "MTC",
+    "name": "KLEINZ",
     "codename": "shilin"
   },
   {
@@ -92876,6 +93371,11 @@
   },
   {
     "brand": "MTC",
+    "name": "Sansui",
+    "codename": "shilin"
+  },
+  {
+    "brand": "MTC",
     "name": "SmartEver",
     "codename": "seocho"
   },
@@ -92891,6 +93391,11 @@
   },
   {
     "brand": "MTC",
+    "name": "Tesla",
+    "codename": "shilin"
+  },
+  {
+    "brand": "MTC",
     "name": "VINCENT",
     "codename": "bruno"
   },
@@ -92903,6 +93408,11 @@
     "brand": "MTC",
     "name": "Vodafone Smart mini",
     "codename": "Vodafone_875"
+  },
+  {
+    "brand": "MTC",
+    "name": "WasabiMango",
+    "codename": "shilin"
   },
   {
     "brand": "MTC",
@@ -93386,6 +93896,16 @@
   },
   {
     "brand": "Mango",
+    "name": "MANGO",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Mango",
+    "name": "Mango",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "Mango",
     "name": "Mango_S5",
     "codename": "Mango_S5"
   },
@@ -93838,6 +94358,16 @@
     "brand": "Master-G",
     "name": "\"Chile",
     "codename": "Bolivia"
+  },
+  {
+    "brand": "Master-G",
+    "name": "Master-G",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Master-G",
+    "name": "Master-G",
+    "codename": "mountbaker"
   },
   {
     "brand": "Master-G",
@@ -99385,6 +99915,11 @@
     "codename": "M10"
   },
   {
+    "brand": "Monster",
+    "name": "MONSTER",
+    "codename": "shilin"
+  },
+  {
     "brand": "Monsterpad",
     "name": "Monsterpad7",
     "codename": "Monsterpad7"
@@ -101208,6 +101743,26 @@
     "brand": "Motorola",
     "name": "Motoroi",
     "codename": "sholest"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Motorola",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Motorola",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Motorola",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Motorola",
+    "name": "Motorola",
+    "codename": "mountbaker"
   },
   {
     "brand": "Motorola",
@@ -110053,6 +110608,21 @@
     "brand": "OnePlus",
     "name": "E00",
     "codename": "Edinburgh"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "H93A",
+    "codename": "songni"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "N1",
+    "codename": "songni"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "N1 Pro",
+    "codename": "songni"
   },
   {
     "brand": "OnePlus",
@@ -120991,6 +121561,11 @@
   },
   {
     "brand": "Premio",
+    "name": "S91",
+    "codename": "S91"
+  },
+  {
+    "brand": "Premio",
     "name": "T1",
     "codename": "T1"
   },
@@ -125550,6 +126125,21 @@
     "codename": "P780"
   },
   {
+    "brand": "Rangs",
+    "name": "RANGS",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Rangs",
+    "name": "RANGS",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Rangs",
+    "name": "RANGS",
+    "codename": "mountbaker"
+  },
+  {
     "brand": "Ratel",
     "name": "Cell",
     "codename": "Cell"
@@ -127401,6 +127991,11 @@
   },
   {
     "brand": "Reeder",
+    "name": "P13_Blue_MaxL_2021",
+    "codename": "P13_Blue_MaxL_2021"
+  },
+  {
+    "brand": "Reeder",
     "name": "P13_Blue_Plus_2022",
     "codename": "P13_Blue_Plus_2022"
   },
@@ -127918,6 +128513,11 @@
     "brand": "Rosso",
     "name": "Rosso",
     "codename": "stanford"
+  },
+  {
+    "brand": "Royal-rahmani",
+    "name": "ROYALRAHMANI",
+    "codename": "hongkong"
   },
   {
     "brand": "Royal-rahmani",
@@ -128488,6 +129088,11 @@
     "brand": "SEBBE",
     "name": "S23_EEA",
     "codename": "S23_EEA"
+  },
+  {
+    "brand": "SEBBE",
+    "name": "S23_EEA_A",
+    "codename": "S23_EEA_A"
   },
   {
     "brand": "SEBBE",
@@ -146456,6 +147061,11 @@
   },
   {
     "brand": "Sharp",
+    "name": "AQUOS R8",
+    "codename": "SH-52D"
+  },
+  {
+    "brand": "Sharp",
     "name": "AQUOS R8 pro",
     "codename": "Kamille"
   },
@@ -148345,6 +148955,16 @@
     "codename": "BP2"
   },
   {
+    "brand": "Silo",
+    "name": "SILO",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Silo",
+    "name": "SILO",
+    "codename": "mountbaker"
+  },
+  {
     "brand": "Silver line",
     "name": "SL1021",
     "codename": "SL1021"
@@ -148673,6 +149293,16 @@
     "brand": "Siragon",
     "name": "SP-7100",
     "codename": "SP-7100"
+  },
+  {
+    "brand": "Siragon",
+    "name": "Siragon",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Siragon",
+    "name": "Siragon",
+    "codename": "mountbaker"
   },
   {
     "brand": "Siragon",
@@ -164205,6 +164835,11 @@
     "codename": "F102-T610-EEA"
   },
   {
+    "brand": "TECHcomputer",
+    "name": "TEC-M1310",
+    "codename": "TEC-M1310"
+  },
+  {
     "brand": "TECO",
     "name": "Android TV",
     "codename": "longshan"
@@ -164333,6 +164968,11 @@
     "brand": "THEHAM",
     "name": "Android TV",
     "codename": "longshan"
+  },
+  {
+    "brand": "THEHAM",
+    "name": "THEHAM",
+    "codename": "hongkong"
   },
   {
     "brand": "THEHAM",
@@ -174298,6 +174938,11 @@
     "brand": "Veon",
     "name": "VEON",
     "codename": "bruno"
+  },
+  {
+    "brand": "Veon",
+    "name": "VEON",
+    "codename": "shilin"
   },
   {
     "brand": "Veon",
@@ -185350,6 +185995,11 @@
     "codename": "HND"
   },
   {
+    "brand": "YCQ_SZ",
+    "name": "YCQ_Q88",
+    "codename": "YCQ_Q88"
+  },
+  {
     "brand": "YELLYOUTH",
     "name": "TAB_101",
     "codename": "TAB_101"
@@ -185518,6 +186168,11 @@
     "brand": "YSFEN",
     "name": "B9000",
     "codename": "B9000"
+  },
+  {
+    "brand": "YSFPHONE",
+    "name": "Rugged tablet",
+    "codename": "Rugged_tablet"
   },
   {
     "brand": "YU",
@@ -185718,6 +186373,16 @@
     "brand": "YesTeL",
     "name": "Note_30_pro",
     "codename": "Note_30_pro"
+  },
+  {
+    "brand": "YesTeL",
+    "name": "T13_EEA",
+    "codename": "T13_EEA"
+  },
+  {
+    "brand": "YesTeL",
+    "name": "T13_US",
+    "codename": "T13_US"
   },
   {
     "brand": "YesTeL",
@@ -195401,6 +196066,11 @@
   },
   {
     "brand": "Zonko",
+    "name": "D106",
+    "codename": "D106"
+  },
+  {
+    "brand": "Zonko",
     "name": "D118",
     "codename": "D118"
   },
@@ -198713,6 +199383,11 @@
     "brand": "onn.",
     "name": "\tonn_100003561",
     "codename": "mid8011"
+  },
+  {
+    "brand": "onn.",
+    "name": "10.4“ Tablet Pro",
+    "codename": "100110603"
   },
   {
     "brand": "onn.",
