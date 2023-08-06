@@ -8591,8 +8591,18 @@
   },
   {
     "brand": "Artel",
+    "name": "R3_GTV",
+    "codename": "R3_GTV"
+  },
+  {
+    "brand": "Artel",
     "name": "R4",
     "codename": "R4"
+  },
+  {
+    "brand": "Artel",
+    "name": "R4_GTV",
+    "codename": "R4_GTV"
   },
   {
     "brand": "Artel",
@@ -17367,12 +17377,22 @@
   {
     "brand": "Blaupunkt",
     "name": "Europe",
+    "codename": "marina"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "Europe",
     "codename": "martin"
   },
   {
     "brand": "Blaupunkt",
     "name": "Europe",
     "codename": "martin"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "Europe",
+    "codename": "nagata"
   },
   {
     "brand": "Blaupunkt",
@@ -20272,11 +20292,21 @@
   {
     "brand": "CAIXUN",
     "name": "Columbia",
+    "codename": "marina"
+  },
+  {
+    "brand": "CAIXUN",
+    "name": "Columbia",
     "codename": "patrick"
   },
   {
     "brand": "CAIXUN",
     "name": "EXPRESS",
+    "codename": "marina"
+  },
+  {
+    "brand": "CAIXUN",
+    "name": "Europe",
     "codename": "marina"
   },
   {
@@ -20296,6 +20326,16 @@
   },
   {
     "brand": "CAIXUN",
+    "name": "Europe",
+    "codename": "nagata"
+  },
+  {
+    "brand": "CAIXUN",
+    "name": "Korea",
+    "codename": "marina"
+  },
+  {
+    "brand": "CAIXUN",
     "name": "Malaysia",
     "codename": "yeongdeungpo"
   },
@@ -20303,6 +20343,16 @@
     "brand": "CAIXUN",
     "name": "Mexico",
     "codename": "yeongdeungpo"
+  },
+  {
+    "brand": "CAIXUN",
+    "name": "Sgamer",
+    "codename": "cottongreen"
+  },
+  {
+    "brand": "CAIXUN",
+    "name": "South of America",
+    "codename": "marina"
   },
   {
     "brand": "CAIXUN",
@@ -25298,6 +25348,11 @@
     "brand": "Conti",
     "name": "CONTI",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "Continental Edison",
+    "name": "CDI SMART TV",
+    "codename": "marina"
   },
   {
     "brand": "Continental Edison",
@@ -36835,6 +36890,11 @@
     "codename": "SMY_M07R7"
   },
   {
+    "brand": "Exclusiv",
+    "name": "Columbia",
+    "codename": "marina"
+  },
+  {
     "brand": "Exertis",
     "name": "7GW_eea",
     "codename": "7GW"
@@ -44398,6 +44458,11 @@
     "brand": "Grunkel",
     "name": "EU、UK、AP",
     "codename": "martin"
+  },
+  {
+    "brand": "Grunkel",
+    "name": "Europe",
+    "codename": "nagata"
   },
   {
     "brand": "Grunkel",
@@ -64426,6 +64491,11 @@
   },
   {
     "brand": "Hyundai",
+    "name": "BOLIVIA",
+    "codename": "marina"
+  },
+  {
+    "brand": "Hyundai",
     "name": "BS5002",
     "codename": "redwood"
   },
@@ -65413,6 +65483,16 @@
     "brand": "IMPEX",
     "name": "Grande FHD TV",
     "codename": "takao"
+  },
+  {
+    "brand": "IMPEX",
+    "name": "IMPEX evoQ 2K",
+    "codename": "nagata"
+  },
+  {
+    "brand": "IMPEX",
+    "name": "IMPEX evoQ 4K",
+    "codename": "marina"
   },
   {
     "brand": "IMTO",
@@ -69123,6 +69203,11 @@
     "brand": "Inverse Net",
     "name": "LT101",
     "codename": "LT101"
+  },
+  {
+    "brand": "Inves",
+    "name": "Europe",
+    "codename": "marina"
   },
   {
     "brand": "Inves",
@@ -74766,6 +74851,11 @@
   },
   {
     "brand": "Kioto",
+    "name": "CHILE",
+    "codename": "patrick"
+  },
+  {
+    "brand": "Kioto",
     "name": "Chile",
     "codename": "martin"
   },
@@ -75321,6 +75411,11 @@
   },
   {
     "brand": "Kodak",
+    "name": "Panama",
+    "codename": "marina"
+  },
+  {
+    "brand": "Kodak",
     "name": "SMARTWAY L2",
     "codename": "SMARTWAY_L2"
   },
@@ -75343,6 +75438,11 @@
     "brand": "Kodak",
     "name": "Smartway_T1",
     "codename": "Smartway_T1"
+  },
+  {
+    "brand": "Kodak",
+    "name": "South America",
+    "codename": "marina"
   },
   {
     "brand": "Kogan",
@@ -75423,6 +75523,11 @@
     "brand": "Kogan",
     "name": "Kogan Agora XS",
     "codename": "Kogan_Agora_XS"
+  },
+  {
+    "brand": "Kogan",
+    "name": "Kogan G5",
+    "codename": "marina"
   },
   {
     "brand": "Kogan",
@@ -93567,6 +93672,16 @@
   {
     "brand": "MULTYNET",
     "name": "Pakistan",
+    "codename": "marina"
+  },
+  {
+    "brand": "MULTYNET",
+    "name": "Pakistan",
+    "codename": "nagata"
+  },
+  {
+    "brand": "MULTYNET",
+    "name": "Pakistan",
     "codename": "tamachi"
   },
   {
@@ -106992,6 +107107,16 @@
   {
     "brand": "Nano",
     "name": "Thailand",
+    "codename": "marina"
+  },
+  {
+    "brand": "Nano",
+    "name": "Thailand",
+    "codename": "nagata"
+  },
+  {
+    "brand": "Nano",
+    "name": "Thailand",
     "codename": "tamachi"
   },
   {
@@ -115996,6 +116121,11 @@
   },
   {
     "brand": "POCO",
+    "name": "POCO F5",
+    "codename": "marble"
+  },
+  {
+    "brand": "POCO",
     "name": "POCO M2",
     "codename": "shiva"
   },
@@ -123481,13 +123611,28 @@
   },
   {
     "brand": "Profilo",
+    "name": "Profilo Smart TV",
+    "codename": "marina"
+  },
+  {
+    "brand": "Profilo",
     "name": "Smart TV",
     "codename": "mateo"
   },
   {
     "brand": "Profilo",
     "name": "Turkey",
+    "codename": "guandu"
+  },
+  {
+    "brand": "Profilo",
+    "name": "Turkey",
     "codename": "martin"
+  },
+  {
+    "brand": "Profilo",
+    "name": "Turkey",
+    "codename": "nagata"
   },
   {
     "brand": "Profilo",
@@ -125096,6 +125241,11 @@
   },
   {
     "brand": "Quantum",
+    "name": "Q03",
+    "codename": "Q03"
+  },
+  {
+    "brand": "Quantum",
     "name": "QSPT-1952",
     "codename": "QF3A"
   },
@@ -125888,6 +126038,11 @@
     "brand": "RCA",
     "name": "Smart TV",
     "codename": "ueno"
+  },
+  {
+    "brand": "RCA",
+    "name": "US",
+    "codename": "marina"
   },
   {
     "brand": "RCA",
@@ -145746,6 +145901,11 @@
   },
   {
     "brand": "Sansui",
+    "name": "Apollo Premium2K TV",
+    "codename": "nagata"
+  },
+  {
+    "brand": "Sansui",
     "name": "ETAB M9021G",
     "codename": "ETAB_M9021G"
   },
@@ -145953,6 +146113,11 @@
     "brand": "Scanfrost",
     "name": "Nigeria",
     "codename": "martin"
+  },
+  {
+    "brand": "Scanfrost",
+    "name": "Scanfrost TV",
+    "codename": "nagata"
   },
   {
     "brand": "Sceptre",
@@ -154681,6 +154846,11 @@
   },
   {
     "brand": "Star-X",
+    "name": "Europe",
+    "codename": "marina"
+  },
+  {
+    "brand": "Star-X",
     "name": "Middle East",
     "codename": "tamachi"
   },
@@ -154688,6 +154858,11 @@
     "brand": "Star-X",
     "name": "Middle East",
     "codename": "yeongdeungpo"
+  },
+  {
+    "brand": "Star-X",
+    "name": "STAR-X 2K SMART TV",
+    "codename": "nagata"
   },
   {
     "brand": "Star-X",
@@ -169725,6 +169900,21 @@
     "codename": "Tesla_SP9_2"
   },
   {
+    "brand": "Tesla",
+    "name": "Venezuela",
+    "codename": "martin"
+  },
+  {
+    "brand": "Tesla",
+    "name": "Venezuela",
+    "codename": "martin"
+  },
+  {
+    "brand": "Tesla",
+    "name": "Venezuela",
+    "codename": "patrick"
+  },
+  {
     "brand": "Tetratab",
     "name": "TF10EA2",
     "codename": "TF10EA2_Medical_1"
@@ -169778,6 +169968,11 @@
     "brand": "Thomson",
     "name": "EGO_5014G",
     "codename": "EGO_5014G"
+  },
+  {
+    "brand": "Thomson",
+    "name": "Europe",
+    "codename": "guandu"
   },
   {
     "brand": "Thomson",
@@ -169933,6 +170128,16 @@
     "brand": "Thomson",
     "name": "Thomson T50",
     "codename": "Thomson_T50"
+  },
+  {
+    "brand": "Thomson",
+    "name": "Thomson TV",
+    "codename": "marina"
+  },
+  {
+    "brand": "Thomson",
+    "name": "Thomson TV",
+    "codename": "nagata"
   },
   {
     "brand": "Thomson",
@@ -174631,6 +174836,11 @@
   },
   {
     "brand": "Vega",
+    "name": "Europe",
+    "codename": "marina"
+  },
+  {
+    "brand": "Vega",
     "name": "European and African countries",
     "codename": "guandu"
   },
@@ -174643,6 +174853,11 @@
     "brand": "Vega",
     "name": "\"Tunisa",
     "codename": " Europe and Algeria\""
+  },
+  {
+    "brand": "Vega",
+    "name": "VEGA Smart TV",
+    "codename": "nagata"
   },
   {
     "brand": "Vega",
@@ -176658,6 +176873,16 @@
     "brand": "Vision",
     "name": "VISION",
     "codename": "shibuya"
+  },
+  {
+    "brand": "Vision",
+    "name": "VISION 2K SMART TV",
+    "codename": "nagata"
+  },
+  {
+    "brand": "Vision",
+    "name": "VISION 4K SMART TV",
+    "codename": "marina"
   },
   {
     "brand": "Vision",
@@ -184235,6 +184460,11 @@
     "codename": "martin"
   },
   {
+    "brand": "XENON",
+    "name": "PHILIPPINES",
+    "codename": "marina"
+  },
+  {
     "brand": "XGIMI",
     "name": "Halo",
     "codename": "xgimiapollo"
@@ -185923,6 +186153,16 @@
     "brand": "Xtratech",
     "name": "BRIO_X31",
     "codename": "BRIO_X31"
+  },
+  {
+    "brand": "Xtratech",
+    "name": "\"South America",
+    "codename": "Ecuador\""
+  },
+  {
+    "brand": "Xtratech",
+    "name": "\"South America",
+    "codename": "Ecuador\""
   },
   {
     "brand": "Xtratech",
@@ -193671,6 +193911,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE 7060",
+    "codename": "P606F07"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE 7160N",
     "codename": "P720F02"
   },
@@ -194461,6 +194706,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade A33s",
+    "codename": "P963F93"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade A3v",
     "codename": "Z5157"
   },
@@ -195053,6 +195303,11 @@
     "brand": "ZTE",
     "name": "nubia Z50 Ultra",
     "codename": "PQ82A11"
+  },
+  {
+    "brand": "ZTE",
+    "name": "nubia Z50S Pro",
+    "codename": "PQ82A02"
   },
   {
     "brand": "ZTE",
