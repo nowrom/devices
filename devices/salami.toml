@@ -5,5 +5,5 @@ recoveries = []
 
 [[roms]]
 id = "crdroid"
-gapps = ""
+gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/Gwolf2u/NikGapps-T/"
 recovery = ""
