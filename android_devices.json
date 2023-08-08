@@ -645,6 +645,11 @@
     "codename": "AGM_Note_N1"
   },
   {
+    "brand": "AGM Mobile",
+    "name": "AGM_PAD_P1",
+    "codename": "AGM_PAD_P1"
+  },
+  {
     "brand": "AIDATA",
     "name": "ADT1012L",
     "codename": "ADT1012L"
@@ -12710,6 +12715,11 @@
     "codename": "I9_Plus_ROW"
   },
   {
+    "brand": "BMAX",
+    "name": "I9_Plus_WLAN",
+    "codename": "I9_Plus_WLAN"
+  },
+  {
     "brand": "BMPRO",
     "name": "BMPRO7DI",
     "codename": "BMPRO7DI"
@@ -15461,6 +15471,16 @@
   },
   {
     "brand": "Beneve",
+    "name": "M55",
+    "codename": "M55"
+  },
+  {
+    "brand": "Beneve",
+    "name": "M55_EEA",
+    "codename": "M55_EEA"
+  },
+  {
+    "brand": "Beneve",
     "name": "M7133",
     "codename": "M7133"
   },
@@ -16516,6 +16536,16 @@
   },
   {
     "brand": "Blackview",
+    "name": "BV6200",
+    "codename": "BV6200"
+  },
+  {
+    "brand": "Blackview",
+    "name": "BV6200 Pro",
+    "codename": "BV6200Pro"
+  },
+  {
+    "brand": "Blackview",
     "name": "BV6300",
     "codename": "BV6300"
   },
@@ -16773,6 +16803,11 @@
     "brand": "Blackview",
     "name": "MAX1",
     "codename": "MAX1"
+  },
+  {
+    "brand": "Blackview",
+    "name": "N6000",
+    "codename": "N6000"
   },
   {
     "brand": "Blackview",
@@ -28841,6 +28876,11 @@
   },
   {
     "brand": "DIALN",
+    "name": "G65",
+    "codename": "G65"
+  },
+  {
+    "brand": "DIALN",
     "name": "S8",
     "codename": "S8"
   },
@@ -29118,6 +29158,11 @@
     "brand": "DORA",
     "name": "Smart TV",
     "codename": "redwood"
+  },
+  {
+    "brand": "DREAMTECH",
+    "name": "STARPAD",
+    "codename": "STARPAD"
   },
   {
     "brand": "DSIC",
@@ -32356,6 +32401,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "T10SE",
+    "codename": "P4"
+  },
+  {
+    "brand": "Doogee",
     "name": "T20",
     "codename": "P2"
   },
@@ -32363,6 +32413,11 @@
     "brand": "Doogee",
     "name": "T20",
     "codename": "P2_2"
+  },
+  {
+    "brand": "Doogee",
+    "name": "T20Mini",
+    "codename": "P3Mini"
   },
   {
     "brand": "Doogee",
@@ -32428,6 +32483,11 @@
     "brand": "Doogee",
     "name": "V30T",
     "codename": "M23T"
+  },
+  {
+    "brand": "Doogee",
+    "name": "V31GT",
+    "codename": "M23S"
   },
   {
     "brand": "Doogee",
@@ -35556,6 +35616,11 @@
   },
   {
     "brand": "Energizer",
+    "name": "U506S",
+    "codename": "U506S"
+  },
+  {
+    "brand": "Energizer",
     "name": "U608S",
     "codename": "U608S"
   },
@@ -37658,6 +37723,11 @@
     "brand": "FOSSiBOT",
     "name": "F101",
     "codename": "F101"
+  },
+  {
+    "brand": "FOSSiBOT",
+    "name": "F102",
+    "codename": "F102"
   },
   {
     "brand": "FOXX",
@@ -55746,6 +55816,16 @@
   },
   {
     "brand": "Hoozo",
+    "name": "F13",
+    "codename": "F13"
+  },
+  {
+    "brand": "Hoozo",
+    "name": "F13_EEA",
+    "codename": "F13_EEA"
+  },
+  {
+    "brand": "Hoozo",
     "name": "HZ0010",
     "codename": "HZ0010"
   },
@@ -55863,6 +55943,16 @@
     "brand": "Hot Pepper",
     "name": "HPPAP16",
     "codename": "HPPAP16"
+  },
+  {
+    "brand": "Hot Pepper",
+    "name": "KT10",
+    "codename": "KT10"
+  },
+  {
+    "brand": "Hot Pepper",
+    "name": "KT10_EEA",
+    "codename": "KT10_EEA"
   },
   {
     "brand": "Hot Pepper",
@@ -64826,6 +64916,11 @@
   },
   {
     "brand": "Hyundai",
+    "name": "HYUNDAI 2K Google TV-E",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "Hyundai",
     "name": "HYUNDAI 4K Android TV",
     "codename": "kenton"
   },
@@ -73032,6 +73127,21 @@
   {
     "brand": "KONKA",
     "name": "HK 4K Google TV-A",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "KONKA",
+    "name": "HK 4K Google TV-B",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "KONKA",
+    "name": "HK 4K Google TV-C",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "KONKA",
+    "name": "HYUNDAI 4K Google TV-E",
     "codename": "keoneae"
   },
   {
@@ -113096,6 +113206,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO A58",
+    "codename": "OP574FL1"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO A74 5G",
     "codename": "OP4F39L1"
   },
@@ -114875,6 +114990,11 @@
     "codename": "RC555L"
   },
   {
+    "brand": "OrbitWorld",
+    "name": "OrbitWorld_Tablet",
+    "codename": "OrbitWorld_Tablet"
+  },
+  {
     "brand": "Ordissimo",
     "name": "Celia",
     "codename": "Celia"
@@ -115263,6 +115383,11 @@
     "brand": "Oukitel",
     "name": "OKT1",
     "codename": "OKT1"
+  },
+  {
+    "brand": "Oukitel",
+    "name": "P07_EEA",
+    "codename": "P07"
   },
   {
     "brand": "Oukitel",
@@ -125691,6 +125816,11 @@
   },
   {
     "brand": "RCA",
+    "name": "RCA 4K Google TV",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "RCA",
     "name": "RCA DRP2091",
     "codename": "DRP2091"
   },
@@ -128308,6 +128438,11 @@
     "brand": "Reliance",
     "name": "Smartphone JS LS-5010",
     "codename": "LS-5010"
+  },
+  {
+    "brand": "Relndoo",
+    "name": "TB02",
+    "codename": "TB02"
   },
   {
     "brand": "Remdun",
@@ -130993,6 +131128,16 @@
     "brand": "SUPERSONIC",
     "name": "SC_1010JBBT",
     "codename": "SC_1010JBBT"
+  },
+  {
+    "brand": "SUPERSONIC",
+    "name": "SC_3107",
+    "codename": "SC_3107"
+  },
+  {
+    "brand": "SUPERSONIC",
+    "name": "SC_3110",
+    "codename": "SC_3110"
   },
   {
     "brand": "SUPERSONIC",
@@ -149931,6 +150076,11 @@
   },
   {
     "brand": "Sky Devices",
+    "name": "Elite_A63Max",
+    "codename": "Elite_A63Max"
+  },
+  {
+    "brand": "Sky Devices",
     "name": "Elite_A65",
     "codename": "Elite_A65"
   },
@@ -150308,6 +150458,11 @@
     "brand": "Sky Devices",
     "name": "SKY PAD10Max",
     "codename": "SKY_PAD10MaxNUS"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "SKY PAD10Max",
+    "codename": "SKY_PAD10MaxOPM"
   },
   {
     "brand": "Sky Devices",
@@ -156353,6 +156508,16 @@
     "brand": "Syco",
     "name": "RS-403_EEA",
     "codename": "RS-403"
+  },
+  {
+    "brand": "Syco",
+    "name": "SYCO_RS-441",
+    "codename": "SYCO_RS-441"
+  },
+  {
+    "brand": "Syco",
+    "name": "SYCO_RT-401",
+    "codename": "SYCO_RT-401"
   },
   {
     "brand": "Syinix",
@@ -167066,6 +167231,11 @@
   },
   {
     "brand": "Teclast",
+    "name": "T40Air_EEA",
+    "codename": "T40Air_EEA"
+  },
+  {
+    "brand": "Teclast",
     "name": "T40Air_ROW",
     "codename": "T40Air_ROW"
   },
@@ -169115,6 +169285,16 @@
     "codename": "sugamo"
   },
   {
+    "brand": "Tecnomaster",
+    "name": "Tecnomaster 2K Android TV",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "Tecnomaster",
+    "name": "Tecnomaster 4K Android TV",
+    "codename": "kenton"
+  },
+  {
     "brand": "Tectoy",
     "name": "TECTOY ON 128GB",
     "codename": "TokyoPro"
@@ -170458,6 +170638,11 @@
     "brand": "Topicon",
     "name": "Topicon MDT1060",
     "codename": "mdt1060"
+  },
+  {
+    "brand": "Topsand",
+    "name": "N10",
+    "codename": "N10_T"
   },
   {
     "brand": "Topsand",
@@ -181311,6 +181496,11 @@
   },
   {
     "brand": "Walton",
+    "name": "G 4K TV Dongle",
+    "codename": "YQX"
+  },
+  {
+    "brand": "Walton",
     "name": "LT750",
     "codename": "LT750"
   },
@@ -186023,6 +186213,11 @@
     "brand": "Xmobile",
     "name": "X3",
     "codename": "Xmobile_X3"
+  },
+  {
+    "brand": "Xmobile",
+    "name": "X63Pro",
+    "codename": "X63Pro"
   },
   {
     "brand": "Xmobile",
@@ -200708,6 +200903,11 @@
     "brand": "sincoole",
     "name": "ST11-A5",
     "codename": "ST11-A5"
+  },
+  {
+    "brand": "sky HCN",
+    "name": "skyhcn Android UHD STB",
+    "codename": "IMT-H6300"
   },
   {
     "brand": "stc myhome",

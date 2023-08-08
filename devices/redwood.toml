@@ -7,3 +7,17 @@ recoveries = []
 id = "crdroid"
 gapps = "https://nikgapps.com/"
 recovery = ""
+
+[[roms]]
+id = "pixelexperience"
+repostories = ["device_xiaomi_redwood","device_xiaomi_sm7325-common","vendor_xiaomi_redwood","vendor_xiaomi_sm7325-common","kernel_xiaomi_sm7325"]
+
+[[roms.supported_versions]]
+version_code = "thirteen"
+stable = true
+deprecated = false
+
+[[roms.supported_versions]]
+version_code = "thirteen_plus"
+stable = true
+deprecated = false
