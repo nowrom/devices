@@ -13,6 +13,12 @@ gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/Gwolf2u/
 recovery = "https://sourceforge.net/projects/crdroid/files/lemonade/9.x/recovery/"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 680"
 ram = "8/12 GB LPDDR5"
