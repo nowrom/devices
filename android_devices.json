@@ -55796,8 +55796,18 @@
   },
   {
     "brand": "Honor",
-    "name": "HONOR X6",
-    "codename": "HNVNE-M"
+    "name": "HONOR X5 Plus",
+    "codename": "HNWDY-M"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X5 Plus",
+    "codename": "HNWDY-M"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X5 Plus",
+    "codename": "HNWDY-M"
   },
   {
     "brand": "Honor",
@@ -55808,6 +55818,26 @@
     "brand": "Honor",
     "name": "HONOR X6",
     "codename": "HNVNE-M"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X6",
+    "codename": "HNVNE-M"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X6a",
+    "codename": "HNWDY-M"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X6a",
+    "codename": "HNWDY-M"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X6a",
+    "codename": "HNWDY-M"
   },
   {
     "brand": "Honor",
@@ -71615,6 +71645,11 @@
     "codename": "TPC-G109"
   },
   {
+    "brand": "JCB_UK",
+    "name": "JCB_TP231",
+    "codename": "JCB_TP231"
+  },
+  {
     "brand": "JEEMAK",
     "name": "M70",
     "codename": "M70"
@@ -73166,7 +73201,17 @@
   },
   {
     "brand": "KEYENCE",
+    "name": "DX-A400_",
+    "codename": "DX-A400"
+  },
+  {
+    "brand": "KEYENCE",
     "name": "DX-A600",
+    "codename": "DX-A600"
+  },
+  {
+    "brand": "KEYENCE",
+    "name": "DX-A600_",
     "codename": "DX-A600"
   },
   {
@@ -75558,6 +75603,11 @@
     "brand": "Kodak",
     "name": "IM5",
     "codename": "IM5"
+  },
+  {
+    "brand": "Kodak",
+    "name": "KODAK",
+    "codename": "bruno"
   },
   {
     "brand": "Kodak",
@@ -93866,6 +93916,16 @@
   },
   {
     "brand": "MTS (RU)",
+    "name": "DV9157-C",
+    "codename": "DV9157-C-KRM"
+  },
+  {
+    "brand": "MTS (RU)",
+    "name": "IPTVSTB",
+    "codename": "DV9135-KRM"
+  },
+  {
+    "brand": "MTS (RU)",
     "name": "Smart_Bit",
     "codename": "Smart_Bit"
   },
@@ -104113,6 +104173,11 @@
     "brand": "Moxee Technologies",
     "name": "MT-T8B22",
     "codename": "MT-T8B22"
+  },
+  {
+    "brand": "Moxee Technologies",
+    "name": "Moxee_T2310",
+    "codename": "T2310"
   },
   {
     "brand": "Moxee Technologies",
@@ -115566,6 +115631,11 @@
   },
   {
     "brand": "Oukitel",
+    "name": "S118_EEA",
+    "codename": "S118"
+  },
+  {
+    "brand": "Oukitel",
     "name": "U11_Plus",
     "codename": "U11_Plus"
   },
@@ -119466,6 +119536,11 @@
   },
   {
     "brand": "Phone Max",
+    "name": "M3PRO",
+    "codename": "M3PRO"
+  },
+  {
+    "brand": "Phone Max",
     "name": "P1000",
     "codename": "P1000"
   },
@@ -119488,6 +119563,11 @@
     "brand": "Phone Max",
     "name": "X1",
     "codename": "X1"
+  },
+  {
+    "brand": "Phone Max",
+    "name": "X1_Pro",
+    "codename": "X1_Pro"
   },
   {
     "brand": "Pioneer",
@@ -147986,6 +148066,11 @@
   },
   {
     "brand": "Sharp",
+    "name": "AQUOS wish3",
+    "codename": "SX3"
+  },
+  {
+    "brand": "Sharp",
     "name": "AQUOS zero",
     "codename": "SG801SH"
   },
@@ -149198,6 +149283,11 @@
     "brand": "Shenzhen SEI Robotics",
     "name": "ADT-2",
     "codename": "adt2"
+  },
+  {
+    "brand": "Shenzhen SEI Robotics",
+    "name": "AMLogic Ref",
+    "codename": "planck"
   },
   {
     "brand": "Shenzhen SEI Robotics",
@@ -174307,6 +174397,11 @@
   {
     "brand": "Urovo",
     "name": "DT40",
+    "codename": "DT40"
+  },
+  {
+    "brand": "Urovo",
+    "name": "DT40_EEA",
     "codename": "DT40"
   },
   {
@@ -200373,6 +200468,11 @@
     "brand": "realme",
     "name": "realme 11",
     "codename": "RE5852"
+  },
+  {
+    "brand": "realme",
+    "name": "realme 11",
+    "codename": "RE5C7CL1"
   },
   {
     "brand": "realme",

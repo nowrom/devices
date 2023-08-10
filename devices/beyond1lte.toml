@@ -56,7 +56,7 @@ deprecated = true
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/beyond1lte/PixelExtended-5.5_beyond1lte-13.0-20230312-1534-OFFICIAL.zip/download"
+url = "https://sourceforge.net/projects/pixelextended/files/beyond1lte/PixelExtended-5.9_beyond1lte-13.0-20230809-0316-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-13-0-galaxy-s10-e-5g-pixelextended-aosp-encryption.4501505/"
 
 [specs]

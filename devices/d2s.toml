@@ -52,7 +52,7 @@ deprecated = true
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/d2s/PixelExtended-5.5_d2s-13.0-20230312-2024-OFFICIAL.zip/download"
+url = "https://sourceforge.net/projects/pixelextended/files/d2s/PixelExtended-5.9_d2s-13.0-20230809-1454-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/rom-official-13-0-galaxy-note-10-5g-pixelextended-aosp-encryption.4501871/"
 
 [specs]
