@@ -37626,6 +37626,11 @@
   },
   {
     "brand": "FELUX",
+    "name": "X-ONE",
+    "codename": "X-ONE"
+  },
+  {
+    "brand": "FELUX",
     "name": "X_Pro",
     "codename": "X_Pro"
   },
@@ -41353,6 +41358,11 @@
     "brand": "GTPL",
     "name": "Shockwave",
     "codename": "Shockwave"
+  },
+  {
+    "brand": "GTX(A)",
+    "name": "GTX_JACULUS",
+    "codename": "GTX_JACULUS"
   },
   {
     "brand": "GYRO",
@@ -75676,6 +75686,11 @@
   },
   {
     "brand": "Kodak",
+    "name": "Kodak_D61L",
+    "codename": "Kodak_D61L"
+  },
+  {
+    "brand": "Kodak",
     "name": "Kodak_D65L",
     "codename": "Kodak_D65L"
   },
@@ -95018,6 +95033,11 @@
     "brand": "Maxwest",
     "name": "ASTRO 10R",
     "codename": "MX-A10RWW"
+  },
+  {
+    "brand": "Maxwest",
+    "name": "ASTRO_10",
+    "codename": "MX-A10WW"
   },
   {
     "brand": "Maxwest",
@@ -122086,6 +122106,11 @@
   },
   {
     "brand": "Premio",
+    "name": "X750-2021",
+    "codename": "X75-2021"
+  },
+  {
+    "brand": "Premio",
     "name": "X76",
     "codename": "X76"
   },
@@ -131176,8 +131201,18 @@
   },
   {
     "brand": "SUNMAX",
+    "name": "Model 6 Pro Max 4G",
+    "codename": "Model_6_Pro_Max_4G"
+  },
+  {
+    "brand": "SUNMAX",
     "name": "Model D",
     "codename": "Model_D"
+  },
+  {
+    "brand": "SUNMAX",
+    "name": "Model E",
+    "codename": "Model_E"
   },
   {
     "brand": "SUNMAX",
@@ -131188,6 +131223,11 @@
     "brand": "SUNMAX",
     "name": "Model K  4G",
     "codename": "Model_K_4G"
+  },
+  {
+    "brand": "SUNMAX",
+    "name": "Model X 4G",
+    "codename": "Model_X_4G_A"
   },
   {
     "brand": "SUNMAX",
@@ -131678,6 +131718,16 @@
     "brand": "Safaricom",
     "name": "NEON PLUS",
     "codename": "NEON_PLUS"
+  },
+  {
+    "brand": "Safaricom",
+    "name": "NEON RAY 2",
+    "codename": "NEON-RAY-2"
+  },
+  {
+    "brand": "Safaricom",
+    "name": "NEON SKY",
+    "codename": "NEON_SKY"
   },
   {
     "brand": "Safaricom",
@@ -201418,6 +201468,11 @@
     "brand": "truvii",
     "name": "Truvii",
     "codename": "shilin"
+  },
+  {
+    "brand": "truvii",
+    "name": "Truvii",
+    "codename": "sugamo"
   },
   {
     "brand": "uLesson",
