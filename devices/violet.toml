@@ -54,7 +54,7 @@ wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_violet","kernel_xiaomi_violet","vendor_xiaomi_violet","vendor_xiaomi-firmware"]
+repostories = ["device_xiaomi_violet","kernel_xiaomi_violet","vendor_xiaomi_violet","vendor_xiaomi_violet-miuicamera","vendor_xiaomi-firmware"]
 
 [[roms.supported_versions]]
 version_code = "twelve"

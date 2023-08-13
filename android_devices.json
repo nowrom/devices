@@ -27860,6 +27860,11 @@
     "codename": "OD0M_EA_T32"
   },
   {
+    "brand": "DAIYU",
+    "name": "MBTWDY01",
+    "codename": "Mediabox"
+  },
+  {
     "brand": "DBM Maroc",
     "name": "ACCENT SURF 1000",
     "codename": "SURF1000"
@@ -34030,6 +34035,11 @@
     "codename": "X80"
   },
   {
+    "brand": "EL (Africa)",
+    "name": "X90",
+    "codename": "X90a"
+  },
+  {
     "brand": "ELC(cn)",
     "name": "M108",
     "codename": "M108"
@@ -34497,6 +34507,11 @@
   {
     "brand": "EPIKONE",
     "name": "X650",
+    "codename": "X650"
+  },
+  {
+    "brand": "EPIKONE",
+    "name": "X650_tigo",
     "codename": "X650"
   },
   {
@@ -38353,6 +38368,11 @@
     "brand": "Flow",
     "name": "FlowBox-F2",
     "codename": "HP44H"
+  },
+  {
+    "brand": "Flow",
+    "name": "FlowBox-S2",
+    "codename": "m250_t"
   },
   {
     "brand": "Flow",
@@ -50673,6 +50693,11 @@
     "brand": "Hi TFG",
     "name": "Spitfire",
     "codename": "Spitfire"
+  },
+  {
+    "brand": "Hi(HMR)",
+    "name": "Boost Hypa",
+    "codename": "Boost_Hypa"
   },
   {
     "brand": "Hi-online",
@@ -65836,6 +65861,11 @@
   },
   {
     "brand": "INOI",
+    "name": "INOI A62 64GB",
+    "codename": "A161_Plus"
+  },
+  {
+    "brand": "INOI",
     "name": "INOI A72",
     "codename": "A170"
   },
@@ -65843,6 +65873,11 @@
     "brand": "INOI",
     "name": "INOI A72",
     "codename": "A170"
+  },
+  {
+    "brand": "INOI",
+    "name": "INOI A72",
+    "codename": "A171"
   },
   {
     "brand": "INOI",
@@ -74963,6 +74998,11 @@
     "brand": "Kenxinda",
     "name": "X8",
     "codename": "X8"
+  },
+  {
+    "brand": "Kenxinda",
+    "name": "X85",
+    "codename": "X85"
   },
   {
     "brand": "Kenxinda",
@@ -116751,6 +116791,11 @@
   },
   {
     "brand": "Packard Bell",
+    "name": "DAYTONA-G6",
+    "codename": "DAYTONA-G6"
+  },
+  {
+    "brand": "Packard Bell",
     "name": "INTERLAGOS-T32",
     "codename": "INTERLAGOS-T32"
   },
@@ -121406,6 +121451,11 @@
   },
   {
     "brand": "Positivo",
+    "name": "Twist Tab",
+    "codename": "T770G"
+  },
+  {
+    "brand": "Positivo",
     "name": "Twist Tab Kids",
     "codename": "T770"
   },
@@ -122971,6 +123021,16 @@
   },
   {
     "brand": "Prestigio",
+    "name": "PMT4528_4G_E_RU",
+    "codename": "TL80A17L"
+  },
+  {
+    "brand": "Prestigio",
+    "name": "PMT4541_4G_E_RU",
+    "codename": "TL10A16L"
+  },
+  {
+    "brand": "Prestigio",
     "name": "PMT4667_3G_RU",
     "codename": "HP70A7G"
   },
@@ -123983,6 +124043,11 @@
     "brand": "Prixton",
     "name": "T9120_EEA",
     "codename": "T9120"
+  },
+  {
+    "brand": "ProDVX",
+    "name": "APPC-10SLBe",
+    "codename": "rk3399_Android11"
   },
   {
     "brand": "Prodigi Connect12",
@@ -128516,6 +128581,11 @@
   },
   {
     "brand": "Reeder",
+    "name": "P13 Blue MaxL 2022s",
+    "codename": "P13_Blue_MaxL_2022"
+  },
+  {
+    "brand": "Reeder",
     "name": "P13 Blue Plus",
     "codename": "P13_Blue_Plus"
   },
@@ -129778,6 +129848,11 @@
     "brand": "SFR.fr",
     "name": "Connect TV de SFR",
     "codename": "DV8945-KFS"
+  },
+  {
+    "brand": "SFR.fr",
+    "name": "Connect V3",
+    "codename": "DIW377_ALT_FR"
   },
   {
     "brand": "SFR.fr",
@@ -131241,6 +131316,11 @@
   },
   {
     "brand": "SUNMAX",
+    "name": "Model_6_4G",
+    "codename": "Model_6_4G"
+  },
+  {
+    "brand": "SUNMAX",
     "name": "Model_6_Pro",
     "codename": "Model_6_Pro"
   },
@@ -131728,6 +131808,11 @@
     "brand": "Safaricom",
     "name": "NEON SKY",
     "codename": "NEON_SKY"
+  },
+  {
+    "brand": "Safaricom",
+    "name": "NEON STREAM",
+    "codename": "NEON_STREAM"
   },
   {
     "brand": "Safaricom",
@@ -158271,6 +158356,11 @@
   },
   {
     "brand": "TCL",
+    "name": "TCL 40 SE",
+    "codename": "Model_3"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL 40 X 5G",
     "codename": "Encore_OM"
   },
@@ -158278,6 +158368,31 @@
     "brand": "TCL",
     "name": "TCL 40 XE 5G",
     "codename": "Encore_CAN"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 40 XE 5G",
+    "codename": "Encore_Spectrum"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 403",
+    "codename": "Rio"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 403",
+    "codename": "Rio"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 403",
+    "codename": "Rio"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 403",
+    "codename": "Rio"
   },
   {
     "brand": "TCL",
@@ -158646,6 +158761,11 @@
   },
   {
     "brand": "TCL",
+    "name": "TCL TAB 8",
+    "codename": "Luna"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL TAB 8 4G",
     "codename": "Apollo_8_4G"
   },
@@ -158656,6 +158776,16 @@
   },
   {
     "brand": "TCL",
+    "name": "TCL TAB 8 Plus",
+    "codename": "Luna_8_4G_VZW"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL TAB 8 V",
+    "codename": "Luna"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL TAB 8 Wi-Fi",
     "codename": "Luna"
   },
@@ -158663,6 +158793,11 @@
     "brand": "TCL",
     "name": "TCL TAB Disney Edition",
     "codename": "Thor_8_4G_VZW"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL TAB Disney Edition 2",
+    "codename": "Luna_8_4G_VZW"
   },
   {
     "brand": "TCL",
@@ -173731,6 +173866,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "G5 Mecha",
+    "codename": "G5_Mecha"
+  },
+  {
+    "brand": "Umidigi",
     "name": "MT02_EEA",
     "codename": "MT02_EEA"
   },
@@ -173871,6 +174011,16 @@
   },
   {
     "brand": "Umidigi",
+    "name": "UMIDIGI A15",
+    "codename": "UMIDIGI_A15"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "UMIDIGI A15C",
+    "codename": "UMIDIGI_A15C"
+  },
+  {
+    "brand": "Umidigi",
     "name": "UMIDIGI C1",
     "codename": "UMIDIGI_C1"
   },
@@ -173918,6 +174068,11 @@
     "brand": "Umidigi",
     "name": "UMIDIGI G3 Max EEA",
     "codename": "G3_Max"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "UMIDIGI G5",
+    "codename": "UMIDIGI_G5"
   },
   {
     "brand": "Umidigi",

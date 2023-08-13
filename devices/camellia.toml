@@ -1,0 +1,9 @@
+brand = "ZTE"
+codename = "camellia"
+name = "Z833"
+recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
+recovery = "https://sourceforge.net/projects/crdroid/files/camellia/9.x/recovery/boot-20230812.img/download"

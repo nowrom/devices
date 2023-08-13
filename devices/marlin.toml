@@ -34,13 +34,3 @@ version_code = "eleven_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-11-0-marlin-pixelexperience-aosp-official.4247199/"
 stable = false
 deprecated = true
-
-[[roms.supported_versions]]
-version_code = "thirteen"
-stable = true
-deprecated = false
-
-[[roms.supported_versions]]
-version_code = "thirteen_plus"
-stable = true
-deprecated = false
