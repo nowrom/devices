@@ -36,13 +36,13 @@ repostories = ["device_google_crosshatch","kernel_google_bluecross","vendor_goog
 version_code = "thirteen"
 xda_thread = ""
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 xda_thread = ""
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve"

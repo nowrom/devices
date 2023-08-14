@@ -18,6 +18,12 @@ gapps = "https://nikgapps.com/"
 recovery = "https://sourceforge.net/projects/crdroid/files/lisa/9.x/recovery_images"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 670"
 ram = "6/8 GB"
