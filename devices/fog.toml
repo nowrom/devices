@@ -11,10 +11,10 @@ repostories = ["device_qcom_common","device_qcom_common-sepolicy","device_qcom_q
 version_code = "thirteen"
 xda_thread = ""
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 xda_thread = ""
 stable = true
-deprecated = false
+deprecated = true

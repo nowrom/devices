@@ -650,6 +650,11 @@
     "codename": "AGM_PAD_P1"
   },
   {
+    "brand": "AHA(A)",
+    "name": "IFPD",
+    "codename": "AHA_ULTRA_RK3588"
+  },
+  {
     "brand": "AIDATA",
     "name": "ADT1012L",
     "codename": "ADT1012L"
@@ -110545,6 +110550,16 @@
     "codename": "MPC80T"
   },
   {
+    "brand": "ONIDA",
+    "name": "ONIDA 2K Android TV",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "ONIDA",
+    "name": "ONIDA 4K Android TV",
+    "codename": "kenton"
+  },
+  {
     "brand": "ONYX",
     "name": "AKA Model A",
     "codename": "Model_A"
@@ -129281,6 +129296,16 @@
   },
   {
     "brand": "Ruggear",
+    "name": "RG750",
+    "codename": "RG750_EEA"
+  },
+  {
+    "brand": "Ruggear",
+    "name": "RG750",
+    "codename": "RG750_ROW"
+  },
+  {
+    "brand": "Ruggear",
     "name": "RG760",
     "codename": "RG760"
   },
@@ -130923,6 +130948,11 @@
     "brand": "STARK_FUTURE",
     "name": "VARG",
     "codename": "VARG"
+  },
+  {
+    "brand": "STARSHINE",
+    "name": "STARSHINE 2K Google TV",
+    "codename": "capitolhill"
   },
   {
     "brand": "STF Mobile",
@@ -173871,6 +173901,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "G5 Mecha EEA",
+    "codename": "G5_Mecha"
+  },
+  {
+    "brand": "Umidigi",
     "name": "MT02_EEA",
     "codename": "MT02_EEA"
   },
@@ -174021,6 +174056,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "UMIDIGI A15C EEA",
+    "codename": "UMIDIGI_A15C"
+  },
+  {
+    "brand": "Umidigi",
     "name": "UMIDIGI C1",
     "codename": "UMIDIGI_C1"
   },
@@ -174072,6 +174112,11 @@
   {
     "brand": "Umidigi",
     "name": "UMIDIGI G5",
+    "codename": "UMIDIGI_G5"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "UMIDIGI G5 EEA",
     "codename": "UMIDIGI_G5"
   },
   {
@@ -199083,6 +199128,11 @@
     "brand": "iGet",
     "name": "SMART_L30",
     "codename": "SMART_L30"
+  },
+  {
+    "brand": "iGet",
+    "name": "SMART_L31",
+    "codename": "SMART_L31"
   },
   {
     "brand": "iGet",

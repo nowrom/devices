@@ -1,0 +1,8 @@
+brand = "Samsung"
+codename = "a60q"
+name = "Galaxy A60"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "summerelement"

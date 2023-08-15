@@ -13,6 +13,12 @@ gapps = "https://wiki.lineageos.org/gapps"
 recovery = "https://sourceforge.net/projects/crdroid/files/venus/9.x/recovery/"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_venus","device_xiaomi_sm8350-common","kernel_xiaomi_venus","vendor_xiaomi_venus","vendor_xiaomi_sm8350-common","vendor_xiaomi_venus-firmware","wiki_blobs_venus"]
 
