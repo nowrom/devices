@@ -9,7 +9,7 @@ maintainer = "Nebrassy"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/13-Jul-2023/"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/16-Jul-2023/"
 recovery = "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/haydn/"
 
 [[roms]]

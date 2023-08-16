@@ -866,6 +866,11 @@
   },
   {
     "brand": "AOC",
+    "name": "AOC Google TV TA7",
+    "codename": "PH3M_AL_T32"
+  },
+  {
+    "brand": "AOC",
     "name": "Q10107L-ME",
     "codename": "Q10107L-ME"
   },
@@ -20336,6 +20341,11 @@
   },
   {
     "brand": "CAIXUN",
+    "name": "Apollo Premium TV",
+    "codename": "nagata"
+  },
+  {
+    "brand": "CAIXUN",
     "name": "Australian/EU",
     "codename": "yeongdeungpo"
   },
@@ -25411,6 +25421,11 @@
   },
   {
     "brand": "Continental Edison",
+    "name": "CDI SMART TV",
+    "codename": "nagata"
+  },
+  {
+    "brand": "Continental Edison",
     "name": "CE10402",
     "codename": "CE10402"
   },
@@ -25418,11 +25433,6 @@
     "brand": "Continental Edison",
     "name": "Continental Edison",
     "codename": "yeongdeungpo"
-  },
-  {
-    "brand": "Continental Edison",
-    "name": "ContinentalEdison 4K Android TV",
-    "codename": "kenton"
   },
   {
     "brand": "Continental Edison",
@@ -112451,6 +112461,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "A58",
+    "codename": "OP574FL1"
+  },
+  {
+    "brand": "Oppo",
     "name": "A59",
     "codename": "A59"
   },
@@ -113483,11 +113498,6 @@
     "brand": "Oppo",
     "name": "OPPO A57s",
     "codename": "OP5353L1"
-  },
-  {
-    "brand": "Oppo",
-    "name": "OPPO A58",
-    "codename": "OP574FL1"
   },
   {
     "brand": "Oppo",
@@ -114646,6 +114656,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "Reno5 A (eSIM)",
+    "codename": "OP4F2BL1"
+  },
+  {
+    "brand": "Oppo",
     "name": "Reno5 F",
     "codename": "OP4F43L1"
   },
@@ -114678,6 +114693,16 @@
     "brand": "Oppo",
     "name": "Reno8 T 5G",
     "codename": "OP56EDL1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "Reno9 A",
+    "codename": "OP5701L1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "Reno9 A",
+    "codename": "OP5701L1"
   },
   {
     "brand": "Oppo",
@@ -126158,6 +126183,11 @@
     "brand": "RCA",
     "name": "RCA 2K Android TV",
     "codename": "lasalle"
+  },
+  {
+    "brand": "RCA",
+    "name": "RCA 2K SMART TV",
+    "codename": "nagata"
   },
   {
     "brand": "RCA",
@@ -179186,6 +179216,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "V2314A",
+    "codename": "PD2314"
+  },
+  {
+    "brand": "Vivo",
     "name": "V25",
     "codename": "V2202"
   },
@@ -185248,6 +185283,11 @@
     "brand": "XENON",
     "name": "PHILIPPINES",
     "codename": "marina"
+  },
+  {
+    "brand": "XENON",
+    "name": "XENON ANDROID TV",
+    "codename": "nagata"
   },
   {
     "brand": "XGIMI",
@@ -201513,6 +201553,11 @@
     "brand": "sincoole",
     "name": "ST11-A5",
     "codename": "ST11-A5"
+  },
+  {
+    "brand": "sky HCN",
+    "name": "KSTB1157",
+    "codename": "K1100UA"
   },
   {
     "brand": "sky HCN",
