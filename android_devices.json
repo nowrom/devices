@@ -65590,6 +65590,11 @@
     "codename": "HL106"
   },
   {
+    "brand": "I3-TECHNOLOGIES",
+    "name": "GOOGLE EDLA CERTIFIED SLOT-IN OPS",
+    "codename": "i3COMPUTER-A01-OPS"
+  },
+  {
     "brand": "IAIWAI",
     "name": "A103",
     "codename": "A103"
@@ -100002,6 +100007,11 @@
   {
     "brand": "Mobiwire",
     "name": "Kicka 5 Plus 4G",
+    "codename": "H5032U"
+  },
+  {
+    "brand": "Mobiwire",
+    "name": "Kicka 5 Plus 4G",
     "codename": "K5P_4G"
   },
   {
@@ -128003,6 +128013,11 @@
     "brand": "Redmi",
     "name": "Redmi K60 Pro",
     "codename": "socrates"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi K60 Ultra",
+    "codename": "corot"
   },
   {
     "brand": "Redmi",
@@ -174081,6 +174096,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "UMIDIGI A15 EEA",
+    "codename": "UMIDIGI_A15"
+  },
+  {
+    "brand": "Umidigi",
     "name": "UMIDIGI A15C",
     "codename": "UMIDIGI_A15C"
   },
@@ -186736,6 +186756,11 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Xiaomi MIX Fold 3",
+    "codename": "babylon"
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Xiaomi Pad 5",
     "codename": "nabu"
   },
@@ -186773,6 +186798,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi Pad 6",
     "codename": "pipa"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Pad 6 Max 14",
+    "codename": "yudi"
   },
   {
     "brand": "Xiaomi",

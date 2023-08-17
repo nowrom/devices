@@ -5,7 +5,7 @@ recoveries = []
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Config-Releases/NikGapps-T/23-Jul-2023/NikGapps-khaeru-arm64-13-20230723.zip/download"
 recovery = "https://sourceforge.net/projects/crdroid/files/camellia/9.x/recovery/"
 
 [[roms]]
