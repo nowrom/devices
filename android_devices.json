@@ -18576,6 +18576,11 @@
   },
   {
     "brand": "Blu",
+    "name": "J10L",
+    "codename": "J0150"
+  },
+  {
+    "brand": "Blu",
     "name": "J6L",
     "codename": "J0110"
   },
@@ -74708,6 +74713,11 @@
     "brand": "Kbro",
     "name": "A25751P",
     "codename": "A2_5751P"
+  },
+  {
+    "brand": "Kbro",
+    "name": "A2S905X4",
+    "codename": "A2_S905X4"
   },
   {
     "brand": "Kbro",
@@ -167798,6 +167808,11 @@
     "brand": "Teclast",
     "name": "T40Air_EEA",
     "codename": "T40Air"
+  },
+  {
+    "brand": "Teclast",
+    "name": "T40Air_EEA",
+    "codename": "T40Air_EEA"
   },
   {
     "brand": "Teclast",

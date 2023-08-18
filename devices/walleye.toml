@@ -35,7 +35,7 @@ wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_google_walleye","device_google_wahoo","kernel_google_wahoo","vendor_google_walleye","wiki_blobs_wahoo"]
+repostories = ["device_google_walleye","device_google_wahoo","kernel_google_wahoo","vendor_google_walleye","wiki_blobs_wahoo","vendor_google_wahoo-googlecamera"]
 
 [[roms.supported_versions]]
 version_code = "twelve"

@@ -17,8 +17,8 @@ id = "dotos"
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/perseus/PixelExtended-5.9_perseus-13.0-20230731-0629-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-perseus-13-pixel-extended-5-8-official.4541857/"
+url = "https://sourceforge.net/projects/pixelextended/files/perseus/PixelExtended-5.10_perseus-13.0-20230815-0935-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-perseus-13-pixel-extended-5-9-official.4541857/"
 
 [specs]
 cpu = "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"
