@@ -1,0 +1,9 @@
+brand = "Deutsche Telekom"
+codename = "Lion"
+name = "T Phone Pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-twrp-for-infinix-hot-12-play-lion.4598241/"
+maintainer = "IMYdev"
