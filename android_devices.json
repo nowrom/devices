@@ -84820,7 +84820,7 @@
     "codename": "Lt6248"
   },
   {
-    "brand": "Lango Tech",
+    "brand": "Lango",
     "name": "LANGO OPS8195",
     "codename": "OPS-8195A"
   },
@@ -100133,6 +100133,11 @@
     "brand": "Mobiwire",
     "name": "MobiWire Kosumi",
     "codename": "Kosumi"
+  },
+  {
+    "brand": "Mobiwire",
+    "name": "ONE",
+    "codename": "H5032U"
   },
   {
     "brand": "Mobiwire",
@@ -172871,6 +172876,11 @@
   },
   {
     "brand": "Ulefone",
+    "name": "Armor X13",
+    "codename": "Armor_X13"
+  },
+  {
+    "brand": "Ulefone",
     "name": "Armor X2",
     "codename": "Armor_X2"
   },
@@ -173003,6 +173013,11 @@
     "brand": "Ulefone",
     "name": "Armor_9E",
     "codename": "Armor_9E"
+  },
+  {
+    "brand": "Ulefone",
+    "name": "Armor_X13",
+    "codename": "Armor_X13"
   },
   {
     "brand": "Ulefone",

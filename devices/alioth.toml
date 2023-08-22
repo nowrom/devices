@@ -111,14 +111,14 @@ developer = "DennySPb"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.6"
-developer = "DennySPb"
+version = "v4.9"
+developer = "mdeejay"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
-developer = "mdeejay"
+version = "v5.6"
+developer = "DennySPb"
 
 [specs]
 cpu = "Not found"
