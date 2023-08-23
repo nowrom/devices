@@ -97,8 +97,8 @@ id = "pixelextended"
 
 [[roms]]
 id = "pixelextended"
-url = "https://sourceforge.net/projects/pixelextended/files/ginkgo/PixelExtended-5.9_ginkgo-13.0-20230726-1036-OFFICIAL.zip/download"
-xda_thread = "https://forum.xda-developers.com/t/rom-13-0-ginkgo-willow-unified-official-pixel-extended-rom-v5-9-26-07-2023.4570123/"
+url = "https://sourceforge.net/projects/pixelextended/files/ginkgo/PixelExtended-5.10_ginkgo-13.0-20230821-1307-OFFICIAL.zip/download"
+xda_thread = "https://forum.xda-developers.com/t/rom-13-0-ginkgo-willow-unified-official-pixel-extended-rom-v5-10-22-08-2023.4570123"
 
 [[roms]]
 id = "pixyos"

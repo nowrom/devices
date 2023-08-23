@@ -50,14 +50,20 @@ photo = "https://avatars.githubusercontent.com/u/16484432?v=4"
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 470"
-ram = "6/8 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+ram = "6 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 470"
 ram = "6/8 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 470"
+ram = "6 GB"
+wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
 
 [[roms]]
 id = "pixelexperience"

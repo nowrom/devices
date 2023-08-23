@@ -8771,32 +8771,32 @@
   },
   {
     "brand": "Ascom",
-    "name": "Myco 4 Cellular Wi-Fi",
+    "name": "Ascom Myco 4",
     "codename": "SH4-1"
   },
   {
     "brand": "Ascom",
-    "name": "Myco 4 Cellular Wi-Fi EEA",
+    "name": "Ascom Myco 4",
     "codename": "SH4-1"
   },
   {
     "brand": "Ascom",
-    "name": "Myco 4 Slim",
+    "name": "Ascom Myco 4",
     "codename": "SH4-2"
   },
   {
     "brand": "Ascom",
-    "name": "Myco 4 Slim EEA",
+    "name": "Ascom Myco 4",
     "codename": "SH4-2"
   },
   {
     "brand": "Ascom",
-    "name": "Myco 4 Wi-Fi",
+    "name": "Ascom Myco 4",
     "codename": "SH4-2"
   },
   {
     "brand": "Ascom",
-    "name": "Myco 4 Wi-Fi EEA",
+    "name": "Ascom Myco 4",
     "codename": "SH4-2"
   },
   {
@@ -8913,6 +8913,11 @@
     "brand": "Aspera",
     "name": "ASPERA R9",
     "codename": "R9"
+  },
+  {
+    "brand": "Aspera",
+    "name": "ASPERA_R10",
+    "codename": "ASPERA_R10"
   },
   {
     "brand": "Aspera",
@@ -17247,6 +17252,11 @@
   {
     "brand": "Blaupunkt",
     "name": "BLAUPUNKT",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "BLAUPUNKT",
     "codename": "stanford"
   },
   {
@@ -25438,6 +25448,11 @@
     "brand": "Continental Edison",
     "name": "Continental Edison",
     "codename": "yeongdeungpo"
+  },
+  {
+    "brand": "Continental Edison",
+    "name": "ContinentalEdison 4K Android TV",
+    "codename": "kenton"
   },
   {
     "brand": "Continental Edison",
@@ -35096,6 +35111,11 @@
   },
   {
     "brand": "Element",
+    "name": "ELEMENT",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Element",
     "name": "Element",
     "codename": "bruno"
   },
@@ -44666,6 +44686,11 @@
   },
   {
     "brand": "Grunkel",
+    "name": "GRUNKEL SMART TV",
+    "codename": "marina"
+  },
+  {
+    "brand": "Grunkel",
     "name": "Spain",
     "codename": "tamachi"
   },
@@ -49421,6 +49446,11 @@
   },
   {
     "brand": "Haier",
+    "name": "2K Haier TV",
+    "codename": "umeda"
+  },
+  {
+    "brand": "Haier",
     "name": "A-TT00",
     "codename": "A-TT00"
   },
@@ -53228,6 +53258,11 @@
     "brand": "Hisense",
     "name": "Hisense U605",
     "codename": "Hisense"
+  },
+  {
+    "brand": "Hisense",
+    "name": "Hisense U70 Pro",
+    "codename": "HLTE109E"
   },
   {
     "brand": "Hisense",
@@ -73831,6 +73866,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "CONTINUUS",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
     "name": "DANILUX",
     "codename": "hongkong"
   },
@@ -87646,6 +87686,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "A301LV",
+    "codename": "A301LV"
+  },
+  {
+    "brand": "Lenovo",
     "name": "A305E",
     "codename": "A305e"
   },
@@ -88706,6 +88751,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Legion Tab Y700",
+    "codename": "TB320FC"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Legion Y70",
     "codename": "halo"
   },
@@ -89321,6 +89371,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo Tab Extreme",
+    "codename": "TB570ZU"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo Tab K10",
     "codename": "X6C6F"
   },
@@ -89433,6 +89488,11 @@
     "brand": "Lenovo",
     "name": "Lenovo Tab M10 (HD)",
     "codename": "TB-X505X"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo Tab M10 5G",
+    "codename": "TB360ZU"
   },
   {
     "brand": "Lenovo",
@@ -89606,6 +89666,16 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo Tab M8 (4th Gen) 2024",
+    "codename": "TB301FU"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo Tab M8 (4th Gen) 2024",
+    "codename": "TB301XU"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo Tab M8 (4th gen)",
     "codename": "TB300FU"
   },
@@ -89688,6 +89758,11 @@
     "brand": "Lenovo",
     "name": "Lenovo Tab P11 Pro (2nd Gen)",
     "codename": "TB132FU"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo Tab P12",
+    "codename": "TB370FU"
   },
   {
     "brand": "Lenovo",
@@ -90356,6 +90431,16 @@
   },
   {
     "brand": "Lenovo",
+    "name": "TB360ZJ",
+    "codename": "TB360ZJ"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TB360ZU",
+    "codename": "TB360ZU"
+  },
+  {
+    "brand": "Lenovo",
     "name": "TBD",
     "codename": "kunlun2"
   },
@@ -90796,6 +90881,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "xiaoxin pad Pro 12.7",
+    "codename": "TB371FC"
+  },
+  {
+    "brand": "Lenovo",
     "name": "启天K10 Pro",
     "codename": "TB128FU"
   },
@@ -90836,6 +90926,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "小新Pad Pro 12.7 (天玑版）",
+    "codename": "TB370FU"
+  },
+  {
+    "brand": "Lenovo",
     "name": "小新Pad Pro 2021",
     "codename": "J716F"
   },
@@ -90851,6 +90946,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "小新学习平板",
+    "codename": "TB372FC"
+  },
+  {
+    "brand": "Lenovo",
     "name": "小新平板",
     "codename": "TB-8804F"
   },
@@ -90863,6 +90963,11 @@
     "brand": "Lenovo",
     "name": "拯救者平板Y900",
     "codename": "TB570FU"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "拯救者平板Y900",
+    "codename": "TB570ZU"
   },
   {
     "brand": "Lenovo",
@@ -90903,6 +91008,11 @@
     "brand": "Lenovo",
     "name": "联想平板电脑 启天K11 Gen2",
     "codename": "TB230XC"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "联想平板电脑 启天K12",
+    "codename": "TB240FC"
   },
   {
     "brand": "Lenovo",
@@ -108696,6 +108806,11 @@
   },
   {
     "brand": "NobleSkiodo",
+    "name": "2K NSTV",
+    "codename": "umeda"
+  },
+  {
+    "brand": "NobleSkiodo",
     "name": "32VRCHG5SP",
     "codename": "ikebukuro"
   },
@@ -110441,6 +110556,11 @@
   },
   {
     "brand": "OK (Mediamark)",
+    "name": "OK",
+    "codename": "kaitak"
+  },
+  {
+    "brand": "OK (Mediamark)",
     "name": "OK 2K TV",
     "codename": "shinagawa"
   },
@@ -111803,6 +111923,11 @@
     "brand": "OnePlus",
     "name": "Oneplus_Dosa_IN",
     "codename": "Oneplus_Dosa_IN"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "PHP110",
+    "codename": "OP5927"
   },
   {
     "brand": "OnePlus",
@@ -131812,6 +131937,11 @@
   {
     "brand": "SWTV",
     "name": "SWTV-22HK-4K NF",
+    "codename": "anaheim"
+  },
+  {
+    "brand": "SWTV",
+    "name": "SWTV-22NA-4K",
     "codename": "anaheim"
   },
   {
@@ -181606,11 +181736,6 @@
   },
   {
     "brand": "Vortex",
-    "name": "HD60L",
-    "codename": "HD60L"
-  },
-  {
-    "brand": "Vortex",
     "name": "HD60i",
     "codename": "HD60i"
   },
@@ -200373,6 +200498,16 @@
     "brand": "ioutdoor",
     "name": "Polar3_EEA",
     "codename": "Polar3"
+  },
+  {
+    "brand": "jAC-EG",
+    "name": "43JB822",
+    "codename": "beaudry"
+  },
+  {
+    "brand": "jAC-EG",
+    "name": "55JB832",
+    "codename": "barking"
   },
   {
     "brand": "jetfon",
