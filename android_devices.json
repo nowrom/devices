@@ -71591,6 +71591,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel S23+",
+    "codename": "itel-S681LN"
+  },
+  {
+    "brand": "Itel",
     "name": "itel S32LTE",
     "codename": "itel-S32LTE"
   },
@@ -118376,6 +118381,11 @@
   },
   {
     "brand": "Panasonic",
+    "name": "SPU-A05-SWG",
+    "codename": "SPU-A05-SWG"
+  },
+  {
+    "brand": "Panasonic",
     "name": "SV-ME1000",
     "codename": "K1"
   },
@@ -118458,6 +118468,11 @@
     "brand": "Panasonic",
     "name": "TAB-A05-SA",
     "codename": "TAB-A05"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "TAB-A05-SA2",
+    "codename": "TAB-A05-SA2"
   },
   {
     "brand": "Panasonic",
@@ -146197,6 +146212,16 @@
   {
     "brand": "Samsung",
     "name": "Galaxy Z Flip5",
+    "codename": "SC-54D"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip5",
+    "codename": "SCG23"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Flip5",
     "codename": "b5q"
   },
   {
@@ -146338,6 +146363,16 @@
     "brand": "Samsung",
     "name": "Galaxy Z Fold4",
     "codename": "q4q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold5",
+    "codename": "SC-55D"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold5",
+    "codename": "SCG22"
   },
   {
     "brand": "Samsung",
@@ -178313,6 +178348,11 @@
     "brand": "Vivo",
     "name": "T1x",
     "codename": "2135"
+  },
+  {
+    "brand": "Vivo",
+    "name": "T2",
+    "codename": "V2237"
   },
   {
     "brand": "Vivo",

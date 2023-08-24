@@ -4,6 +4,12 @@ name = "Pixel Tablet"
 recoveries = []
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "lineageos"
 cpu = "Cortex-X1 & Cortex-A78 & Cortex-A55"
 ram = "8 GB"

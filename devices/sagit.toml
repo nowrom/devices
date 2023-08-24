@@ -17,7 +17,7 @@ id = "blissroms"
 [[roms]]
 id = "crdroid"
 gapps = "https://androidfilehost.com/?w=files&flid=322935"
-recovery = "https://sourceforge.net/projects/crdroid-9-sagit/files/recovery.img/download"
+recovery = "https://sourceforge.net/projects/crdroid/files/sagit/9.x/recovery.img/download"
 
 [[roms]]
 id = "lineageos"
