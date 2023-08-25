@@ -25,7 +25,7 @@ maintainer = "K001droid and raghavt20"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://androidfilehost.com/?fid=4279422670115734716"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/Gwolf2u/NikGapps-T/"
 recovery = ""
 
 [[roms]]

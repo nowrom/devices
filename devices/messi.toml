@@ -1,11 +1,16 @@
 brand = "Motorola"
 codename = "messi"
 name = "Moto Z(3)"
-roms = []
 
 [[recoveries]]
 id = "twrp"
 maintainer = "kaneawk, erfanoabdi"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 280"
+ram = "4/6 GB LPDDR4X"
+wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, DLNA, Hotspot"
 
 [specs]
 cpu = "Octa-core (1x2.99 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"

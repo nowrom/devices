@@ -6131,6 +6131,11 @@
   },
   {
     "brand": "Amstrad",
+    "name": "R3",
+    "codename": "R3"
+  },
+  {
+    "brand": "Amstrad",
     "name": "R4",
     "codename": "R4"
   },
@@ -19936,6 +19941,16 @@
   },
   {
     "brand": "Brandt",
+    "name": "R3",
+    "codename": "R3"
+  },
+  {
+    "brand": "Brandt",
+    "name": "R4",
+    "codename": "R4"
+  },
+  {
+    "brand": "Brandt",
     "name": "R4_GTV",
     "codename": "R4_GTV"
   },
@@ -20558,6 +20573,11 @@
     "brand": "CG Inspiring Life",
     "name": "R3",
     "codename": "R3"
+  },
+  {
+    "brand": "CG Inspiring Life",
+    "name": "R4",
+    "codename": "R4"
   },
   {
     "brand": "CG Mobile",
@@ -25206,6 +25226,11 @@
   },
   {
     "brand": "Condor",
+    "name": "R4",
+    "codename": "R4"
+  },
+  {
+    "brand": "Condor",
     "name": "SP530",
     "codename": "SP530"
   },
@@ -27548,6 +27573,11 @@
     "brand": "Cubot",
     "name": "NOTE 30",
     "codename": "NOTE_30"
+  },
+  {
+    "brand": "Cubot",
+    "name": "NOTE 40",
+    "codename": "NOTE_40"
   },
   {
     "brand": "Cubot",
@@ -36226,6 +36256,11 @@
   },
   {
     "brand": "EssentielB",
+    "name": "R4",
+    "codename": "R4"
+  },
+  {
+    "brand": "EssentielB",
     "name": "ST7001 Tablet",
     "codename": "ST7001"
   },
@@ -39638,6 +39673,11 @@
     "brand": "Freebox",
     "name": "Mini 4K",
     "codename": "fbx6lcv2"
+  },
+  {
+    "brand": "Freemobile",
+    "name": "FS500",
+    "codename": "FS500"
   },
   {
     "brand": "Freetel",
@@ -72291,6 +72331,11 @@
   },
   {
     "brand": "JVC",
+    "name": "R3",
+    "codename": "R3"
+  },
+  {
+    "brand": "JVC",
     "name": "R4",
     "codename": "R4"
   },
@@ -100101,6 +100146,11 @@
   },
   {
     "brand": "Mobiwire",
+    "name": "Airtel Imagine",
+    "codename": "H5032U"
+  },
+  {
+    "brand": "Mobiwire",
     "name": "Altice E55",
     "codename": "E55"
   },
@@ -126915,6 +126965,11 @@
     "codename": "R8"
   },
   {
+    "brand": "ROWA",
+    "name": "R4",
+    "codename": "R4"
+  },
+  {
     "brand": "RSEA",
     "name": "RSE E1",
     "codename": "RSE_E1"
@@ -128663,6 +128718,11 @@
     "brand": "Redmi",
     "name": "Redmi Pad",
     "codename": "yunluo"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Pad SE",
+    "codename": "xun"
   },
   {
     "brand": "Redmi",
@@ -131003,6 +131063,16 @@
     "brand": "SPJtv",
     "name": "Android TV",
     "codename": "R2"
+  },
+  {
+    "brand": "SPJtv",
+    "name": "R3",
+    "codename": "R3"
+  },
+  {
+    "brand": "SPJtv",
+    "name": "R4",
+    "codename": "R4"
   },
   {
     "brand": "SPURT",
@@ -146756,6 +146826,11 @@
   },
   {
     "brand": "Sansui",
+    "name": "Apollo Premium4K TV",
+    "codename": "marina"
+  },
+  {
+    "brand": "Sansui",
     "name": "ETAB M9021G",
     "codename": "ETAB_M9021G"
   },
@@ -146793,11 +146868,6 @@
     "brand": "Sansui",
     "name": "Nitro",
     "codename": "Nitro"
-  },
-  {
-    "brand": "Sansui",
-    "name": "North American",
-    "codename": "marina"
   },
   {
     "brand": "Sansui",
@@ -157431,6 +157501,11 @@
   },
   {
     "brand": "Symphony",
+    "name": "SYMTAB 80",
+    "codename": "SYMTAB_80"
+  },
+  {
+    "brand": "Symphony",
     "name": "SYMTAB25",
     "codename": "SYMTAB25"
   },
@@ -166110,6 +166185,11 @@
     "codename": "R2"
   },
   {
+    "brand": "THE UHD",
+    "name": "R4",
+    "codename": "R4"
+  },
+  {
     "brand": "THEHAM",
     "name": "Android TV",
     "codename": "longshan"
@@ -173502,6 +173582,11 @@
   {
     "brand": "Ulefone",
     "name": "Tab A8",
+    "codename": "GQ3286"
+  },
+  {
+    "brand": "Ulefone",
+    "name": "Tab A8",
     "codename": "Tab_A8"
   },
   {
@@ -177903,6 +177988,16 @@
     "brand": "Vise",
     "name": "32VRCHG5SP",
     "codename": "ikebukuro"
+  },
+  {
+    "brand": "Vise",
+    "name": "R3",
+    "codename": "R3"
+  },
+  {
+    "brand": "Vise",
+    "name": "R4",
+    "codename": "R4"
   },
   {
     "brand": "Vision",
@@ -198638,6 +198733,16 @@
     "brand": "efioo",
     "name": "efiootabn7a",
     "codename": "efiootabn7a"
+  },
+  {
+    "brand": "elactron",
+    "name": "R3",
+    "codename": "R3"
+  },
+  {
+    "brand": "elactron",
+    "name": "R4",
+    "codename": "R4"
   },
   {
     "brand": "elevn",
