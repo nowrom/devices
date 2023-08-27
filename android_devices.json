@@ -15451,6 +15451,11 @@
   },
   {
     "brand": "BenQ",
+    "name": "TEY1A",
+    "codename": "TEY1A"
+  },
+  {
+    "brand": "BenQ",
     "name": "laoshan_BenQ",
     "codename": "laoshan"
   },
@@ -17373,6 +17378,11 @@
     "brand": "Blaupunkt",
     "name": "Blaupunkt 4K Google TV",
     "codename": "keoneae"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "Blaupunkt Google TV",
+    "codename": "bandra"
   },
   {
     "brand": "Blaupunkt",
@@ -27493,6 +27503,11 @@
     "brand": "Cubot",
     "name": "KINGKONG 7",
     "codename": "KINGKONG_7"
+  },
+  {
+    "brand": "Cubot",
+    "name": "KINGKONG 8",
+    "codename": "KINGKONG_8"
   },
   {
     "brand": "Cubot",
@@ -158758,6 +158773,11 @@
     "brand": "TCL",
     "name": "TCL 40 XE 5G",
     "codename": "Encore_Spectrum"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 40 XE 5G",
+    "codename": "Encore_Visible"
   },
   {
     "brand": "TCL",
