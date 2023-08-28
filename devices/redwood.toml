@@ -10,7 +10,7 @@ recovery = ""
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_redwood","device_xiaomi_sm7325-common","vendor_xiaomi_redwood","vendor_xiaomi_sm7325-common","vendor_xiaomi_redwood-firmware","kernel_xiaomi_sm7325","wiki_blobs_redwood"]
+repostories = ["device_xiaomi_redwood","device_xiaomi_sm7325-common","vendor_xiaomi_redwood","vendor_xiaomi_sm7325-common","vendor_xiaomi_redwood-firmware","vendor_xiaomi_redwood-miuicamera","kernel_xiaomi_sm7325","wiki_blobs_redwood"]
 
 [[roms.supported_versions]]
 version_code = "thirteen"
