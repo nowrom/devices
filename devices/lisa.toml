@@ -10,7 +10,7 @@ photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devi
 [[roms]]
 id = "arrowos"
 maintainer = "ALKALiKong"
-changelog = "- Updated blobs to MIUI V14.0.10.0.TKOCNXM"
+changelog = "- Merged upstream QuicksliveR kernel changes (Thanks to ghostrider_reborn for his work on lisa!)\r\n- Enabled Secure NFC for CN variant\r\n- Fixed DC Dimming issue (Updated DC Dimming node)\r\n- Lowered default screen density to 400 dpi"
 
 [[roms]]
 id = "crdroid"

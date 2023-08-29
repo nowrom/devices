@@ -1,6 +1,6 @@
 brand = "Xiaomi"
-codename = "mi439"
-name = "MI439-Unified"
+codename = "Mi439"
+name = "Redmi 7A"
 
 [[recoveries]]
 id = "twrp"
