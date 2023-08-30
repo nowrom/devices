@@ -12641,6 +12641,11 @@
   },
   {
     "brand": "BLOW",
+    "name": "PlatinumTAB11_4G",
+    "codename": "PlatinumTAB11_4G"
+  },
+  {
+    "brand": "BLOW",
     "name": "PlatinumTAB8_4G",
     "codename": "PlatinumTAB8_4G"
   },
@@ -20438,6 +20443,16 @@
     "brand": "CAIXUN",
     "name": "Korea",
     "codename": "marina"
+  },
+  {
+    "brand": "CAIXUN",
+    "name": "MAXWELL SMART TV",
+    "codename": "marina"
+  },
+  {
+    "brand": "CAIXUN",
+    "name": "MAXWELL SMART TV",
+    "codename": "nagata"
   },
   {
     "brand": "CAIXUN",
@@ -76046,6 +76061,11 @@
   },
   {
     "brand": "Kogan",
+    "name": "Kogan G5",
+    "codename": "nagata"
+  },
+  {
+    "brand": "Kogan",
     "name": "Kogan SmarterTV",
     "codename": "hanyang"
   },
@@ -98985,6 +99005,11 @@
     "codename": "MF3D2211"
   },
   {
+    "brand": "Miramage",
+    "name": "TV3223HDA11SMARTG",
+    "codename": "beaudry"
+  },
+  {
     "brand": "Mito",
     "name": "4K Smart TV",
     "codename": "pioneer"
@@ -103523,6 +103548,16 @@
     "brand": "Motorola",
     "name": "moto g13",
     "codename": "penangf"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g14",
+    "codename": "cancun"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g14",
+    "codename": "cancun"
   },
   {
     "brand": "Motorola",
@@ -112951,6 +112986,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "A98 5G",
+    "codename": "OP56E8L1"
+  },
+  {
+    "brand": "Oppo",
     "name": "A9x",
     "codename": "OP46F3"
   },
@@ -117078,6 +117118,11 @@
     "brand": "PROTON",
     "name": "PROTON 4K Android",
     "codename": "kenton"
+  },
+  {
+    "brand": "PROTON",
+    "name": "PROTON 4K Google TV",
+    "codename": "keoneae"
   },
   {
     "brand": "PS_Mobile",
@@ -125693,6 +125738,16 @@
     "brand": "Qilive",
     "name": "QT22101B",
     "codename": "QT22101B"
+  },
+  {
+    "brand": "Qilive",
+    "name": "Qilive SMART TV",
+    "codename": "marina"
+  },
+  {
+    "brand": "Qilive",
+    "name": "Qilive SMART TV",
+    "codename": "nagata"
   },
   {
     "brand": "Qilive",
@@ -158897,6 +158952,11 @@
   {
     "brand": "TCL",
     "name": "TCL ION X",
+    "codename": "Bora_NA_OM"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL ION X",
     "codename": "Bora_TMO"
   },
   {
@@ -174327,6 +174387,11 @@
   {
     "brand": "Umidigi",
     "name": "G5 Mecha EEA",
+    "codename": "G5_Mecha"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "G5 Mecha RU",
     "codename": "G5_Mecha"
   },
   {
@@ -201558,6 +201623,16 @@
     "brand": "realme",
     "name": "realme GT Neo2 5G\t",
     "codename": "RE879AL1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme GT Neo5",
+    "codename": "RE5C33"
+  },
+  {
+    "brand": "realme",
+    "name": "realme GT Neo5 240W",
+    "codename": "RE5C33"
   },
   {
     "brand": "realme",

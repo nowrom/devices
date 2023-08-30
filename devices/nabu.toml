@@ -6,7 +6,6 @@ recoveries = []
 [[roms]]
 id = "arrowos"
 maintainer = "K001droid and ganeshi4u"
-changelog = "- Test build to test Launcher crash issues"
 
 [[roms]]
 id = "crdroid"

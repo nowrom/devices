@@ -15,12 +15,12 @@ repostories = ["device_realme_RM6785","kernel_realme_mt6785","vendor_realme_RM67
 [[roms.supported_versions]]
 version_code = "thirteen"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms]]
 id = "sparkos"
