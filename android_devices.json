@@ -15411,6 +15411,11 @@
   },
   {
     "brand": "BenQ",
+    "name": "RM7504",
+    "codename": "RM7504"
+  },
+  {
+    "brand": "BenQ",
     "name": "Smart TV",
     "codename": "longshan"
   },
@@ -25501,7 +25506,7 @@
   },
   {
     "brand": "Continental Edison",
-    "name": "ContinentalEdison 4K Android TV",
+    "name": "ContinentalEdison 4K Android",
     "codename": "kenton"
   },
   {
@@ -29053,6 +29058,11 @@
     "brand": "DIJITSU",
     "name": "DCT 90",
     "codename": "DCT_90"
+  },
+  {
+    "brand": "DIJITSU",
+    "name": "DIJITSU",
+    "codename": "hongkong"
   },
   {
     "brand": "DIJITSU",
@@ -73912,6 +73922,11 @@
   {
     "brand": "KTCtv",
     "name": "ASAANO",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "ASAANO",
     "codename": "lavender"
   },
   {
@@ -74012,6 +74027,11 @@
   {
     "brand": "KTCtv",
     "name": "EcoTV Plus D",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "FPS",
     "codename": "hongkong"
   },
   {
@@ -74127,6 +74147,11 @@
   {
     "brand": "KTCtv",
     "name": "PHIMARK",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "PHIMARK",
     "codename": "lavender"
   },
   {
@@ -74138,6 +74163,11 @@
     "brand": "KTCtv",
     "name": "POWER GREEN",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "POWEROLOGY",
+    "codename": "hongkong"
   },
   {
     "brand": "KTCtv",
@@ -74233,6 +74263,11 @@
     "brand": "KTCtv",
     "name": "XELL",
     "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "YARA",
+    "codename": "hongkong"
   },
   {
     "brand": "KTCtv",
@@ -87065,6 +87100,11 @@
     "codename": "CSX8"
   },
   {
+    "brand": "Leica",
+    "name": "Leica Laser",
+    "codename": "wuyishan"
+  },
+  {
     "brand": "Lenco",
     "name": "Lenovo Tab K8",
     "codename": "TB-8506N"
@@ -99008,6 +99048,11 @@
     "brand": "Miramage",
     "name": "TV3223HDA11SMARTG",
     "codename": "beaudry"
+  },
+  {
+    "brand": "Miramage",
+    "name": "TV5023UHDA11SMARTG",
+    "codename": "barking"
   },
   {
     "brand": "Mito",
@@ -113831,6 +113876,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO Pad 2",
+    "codename": "OP5989"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO Pad Air",
     "codename": "OP5225"
   },
@@ -116703,6 +116753,11 @@
     "brand": "PEAQ",
     "name": "PET-101-F464S",
     "codename": "PET-101-F464S"
+  },
+  {
+    "brand": "PEAQ",
+    "name": "PET-101-H232E",
+    "codename": "PET-101-H232E"
   },
   {
     "brand": "PEAQ",
@@ -132936,6 +132991,16 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy A05",
+    "codename": "a05m"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A05",
+    "codename": "a05m"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy A10",
     "codename": "a10"
   },
@@ -144781,6 +144846,41 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Tab S9 FE 5G",
+    "codename": "gts9fe"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9 FE 5G",
+    "codename": "gts9fe"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9 FE 5G",
+    "codename": "gts9fe"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9 FE 5G",
+    "codename": "gts9fe"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9 FE+ 5G",
+    "codename": "gts9fep"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9 FE+ 5G",
+    "codename": "gts9fep"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9 FE+ 5G",
+    "codename": "gts9fep"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Tab S9 Ultra",
     "codename": "gts9uwifi"
   },
@@ -146858,6 +146958,11 @@
     "brand": "Samtech",
     "name": "TWIFI_Q07",
     "codename": "TWIFI_Q07"
+  },
+  {
+    "brand": "Samview",
+    "name": "SAMVIEW",
+    "codename": "hongkong"
   },
   {
     "brand": "Sanaeko",
@@ -169001,6 +169106,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "PHANTOM V Flip 5G",
+    "codename": "TECNO-AD11"
+  },
+  {
+    "brand": "Tecno",
     "name": "PHANTOM V Fold",
     "codename": "TECNO-AD10"
   },
@@ -174613,6 +174723,11 @@
     "brand": "Umidigi",
     "name": "UMIDIGI G5 EEA",
     "codename": "UMIDIGI_G5"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "UMIDIGI G5A",
+    "codename": "UMIDIGI_G5A"
   },
   {
     "brand": "Umidigi",
@@ -198008,6 +198123,11 @@
     "brand": "Zuum",
     "name": "MAGNO MINI",
     "codename": "MAGNO_MINI"
+  },
+  {
+    "brand": "Zuum",
+    "name": "Magno Pro",
+    "codename": "Magno_Pro"
   },
   {
     "brand": "Zuum",
