@@ -21,10 +21,10 @@ repostories = ["device_redmi_rosemary","kernel_redmi_rosemary","vendor_redmi_ros
 
 [[roms.supported_versions]]
 version_code = "thirteen"
-stable = true
-deprecated = false
+stable = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
-stable = true
-deprecated = false
+stable = false
+deprecated = true

@@ -39,12 +39,12 @@ repostories = ["device_xiaomi_msm8998-common","vendor_xiaomi_msm8998-common","ke
 [[roms.supported_versions]]
 version_code = "thirteen"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 stable = true
-deprecated = false
+deprecated = true
 
 [specs]
 cpu = "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)"

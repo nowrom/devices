@@ -40,14 +40,14 @@ deprecated = true
 [[roms.supported_versions]]
 version_code = "thirteen"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-0-sunfish-pixelexperience-aosp.4548911/"
-stable = true
-deprecated = false
+stable = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-0-sunfish-pixelexperience-aosp.4548911/"
-stable = true
-deprecated = false
+stable = false
+deprecated = true
 
 [specs]
 cpu = "Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)"

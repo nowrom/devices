@@ -25511,6 +25511,11 @@
   },
   {
     "brand": "Continental Edison",
+    "name": "ContinentalEdison 4K Android",
+    "codename": "kenton"
+  },
+  {
+    "brand": "Continental Edison",
     "name": "Continential_Edison",
     "codename": "bangbae"
   },
@@ -159016,6 +159021,11 @@
   },
   {
     "brand": "TCL",
+    "name": "TCL 40T",
+    "codename": "Sonata_TF"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL 40XL",
     "codename": "Sonata_Pro_OM"
   },
@@ -180303,6 +180313,11 @@
     "brand": "Vivo",
     "name": "Y35m+",
     "codename": "PD2279"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y36",
+    "codename": "V2247"
   },
   {
     "brand": "Vivo",
