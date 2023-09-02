@@ -110226,6 +110226,11 @@
   },
   {
     "brand": "Nuu",
+    "name": "A15",
+    "codename": "S6512LA"
+  },
+  {
+    "brand": "Nuu",
     "name": "A19L",
     "codename": "S6303LA_Go"
   },
@@ -113886,6 +113891,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO Pad 2",
+    "codename": "OP59BBL1"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO Pad Air",
     "codename": "OP5225"
   },
@@ -117293,6 +117303,11 @@
     "brand": "Packard Bell",
     "name": "SILVERSTONE-T10",
     "codename": "SILVERSTONE-T10"
+  },
+  {
+    "brand": "Packard Bell",
+    "name": "SILVERSTONE-T11",
+    "codename": "SILVERSTONE-T11"
   },
   {
     "brand": "Packard Bell",
@@ -153146,6 +153161,16 @@
   },
   {
     "brand": "Sony",
+    "name": "Xperia 5 V",
+    "codename": "XQ-DE54"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5 V",
+    "codename": "XQ-DE72"
+  },
+  {
+    "brand": "Sony",
     "name": "Xperia 8",
     "codename": "902SO"
   },
@@ -180663,6 +180688,11 @@
     "brand": "Vivo",
     "name": "iQOO Z7x 5G",
     "codename": "I2216"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Z8x",
+    "codename": "PD2312"
   },
   {
     "brand": "Vivo",
