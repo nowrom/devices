@@ -97185,6 +97185,11 @@
     "codename": "hera_pro"
   },
   {
+    "brand": "MicroTouch",
+    "name": "IDC_Series",
+    "codename": "IDC_Series"
+  },
+  {
     "brand": "Micromax",
     "name": "32CAM6SHD",
     "codename": "ikebukuro"
@@ -98558,11 +98563,6 @@
     "brand": "Microtech",
     "name": "ETW101GT_EEA",
     "codename": "ETW101GT_EEA"
-  },
-  {
-    "brand": "Microtech",
-    "name": "IDC_Series",
-    "codename": "IDC_Series"
   },
   {
     "brand": "Microtech",
@@ -148787,6 +148787,11 @@
   {
     "brand": "Sharp",
     "name": "AQUOS wish3",
+    "codename": "SH-53D"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS wish3",
     "codename": "SX3"
   },
   {
@@ -174766,6 +174771,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "UMIDIGI G5A EEA",
+    "codename": "UMIDIGI_G5A"
+  },
+  {
+    "brand": "Umidigi",
     "name": "UMIDIGI X",
     "codename": "UMIDIGI_X"
   },
@@ -182138,6 +182148,11 @@
     "brand": "Vortex",
     "name": "HD60",
     "codename": "HD60"
+  },
+  {
+    "brand": "Vortex",
+    "name": "HD60L",
+    "codename": "HD60L"
   },
   {
     "brand": "Vortex",
@@ -197173,6 +197188,11 @@
     "brand": "Zebra",
     "name": "TC26",
     "codename": "TC26"
+  },
+  {
+    "brand": "Zebra",
+    "name": "TC27",
+    "codename": "TC27"
   },
   {
     "brand": "Zebra",

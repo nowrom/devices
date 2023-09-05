@@ -1,0 +1,10 @@
+brand = "Xiaomi"
+codename = "vili"
+name = "Xiaomi 11T Pro"
+recoveries = []
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
