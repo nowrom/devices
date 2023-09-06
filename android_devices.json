@@ -36101,6 +36101,11 @@
   },
   {
     "brand": "Epson",
+    "name": "EH-LS650",
+    "codename": "sti6290d101"
+  },
+  {
+    "brand": "Epson",
     "name": "EH-LS800",
     "codename": "sti6202d101"
   },
@@ -71618,6 +71623,11 @@
     "brand": "Itel",
     "name": "itel P41",
     "codename": "itel_P41"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel P55 5G",
+    "codename": "itel-P661N"
   },
   {
     "brand": "Itel",
@@ -148376,6 +148386,16 @@
   },
   {
     "brand": "Sharp",
+    "name": "AQUOS R8s",
+    "codename": "FaYuiry"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS R8s pro",
+    "codename": "Kamille"
+  },
+  {
+    "brand": "Sharp",
     "name": "AQUOS SERIE SHL25",
     "codename": "SHL25"
   },
@@ -189671,6 +189691,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "5G UG Phone U23",
+    "codename": "P720F02"
+  },
+  {
+    "brand": "ZTE",
     "name": "901ZT",
     "codename": "P450A01"
   },
@@ -195496,6 +195521,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE 8050",
+    "codename": "P606F08"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE 8140N",
     "codename": "P633F10"
   },
@@ -195548,6 +195578,11 @@
     "brand": "ZTE",
     "name": "ZTE 9047",
     "codename": "P618F08"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE 9050N",
+    "codename": "P720F05"
   },
   {
     "brand": "ZTE",
@@ -195688,6 +195723,11 @@
     "brand": "ZTE",
     "name": "ZTE A520S",
     "codename": "P809S10"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE A53",
+    "codename": "P963F62"
   },
   {
     "brand": "ZTE",
@@ -196511,6 +196551,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade V41 Smart",
+    "codename": "P606F05"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade V50 Design 5G",
     "codename": "P720F03"
   },
@@ -196778,6 +196823,11 @@
     "brand": "ZTE",
     "name": "nubia  Z30 Pro",
     "codename": "P875N02"
+  },
+  {
+    "brand": "ZTE",
+    "name": "nubia Neo 5G",
+    "codename": "P720F03_A"
   },
   {
     "brand": "ZTE",
@@ -199598,6 +199648,11 @@
     "brand": "iBao",
     "name": "iS1",
     "codename": "iS1"
+  },
+  {
+    "brand": "iBoard",
+    "name": "IFPD",
+    "codename": "TE_QS"
   },
   {
     "brand": "iCare",
