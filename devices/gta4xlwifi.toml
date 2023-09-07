@@ -9,6 +9,12 @@ gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/Addons-T/"
 recovery = "https://sourceforge.net/projects/s6lite/files/gta4xlwifi/crdroid/recovery.img/download"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "lineageos"
 cpu = "Cortex-A73 & Cortex-A53"
 ram = "4 GB"

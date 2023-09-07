@@ -24171,7 +24171,7 @@
   },
   {
     "brand": "Clevertouch",
-    "name": "\"Clevertouch 65\"\" Impact LUX\"",
+    "name": "IMPACT Lux",
     "codename": "rk3588_t"
   },
   {
@@ -110246,6 +110246,11 @@
   },
   {
     "brand": "Nuu",
+    "name": "A25",
+    "codename": "S6703LA"
+  },
+  {
+    "brand": "Nuu",
     "name": "A3",
     "codename": "NUU_A3"
   },
@@ -158576,6 +158581,11 @@
   },
   {
     "brand": "TCL",
+    "name": "Jitterbug Smart4",
+    "codename": "Sonata_BBH"
+  },
+  {
+    "brand": "TCL",
     "name": "L55E6700UDS",
     "codename": "movo_la"
   },
@@ -180693,6 +180703,11 @@
     "brand": "Vivo",
     "name": "iQOO Z7 5G",
     "codename": "I2213"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Z7 Pro 5G",
+    "codename": "I2301"
   },
   {
     "brand": "Vivo",
