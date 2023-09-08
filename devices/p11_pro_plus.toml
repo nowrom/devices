@@ -1,0 +1,9 @@
+brand = "Lenovo"
+codename = "p11_pro_plus"
+name = "Lenovo Xiaoxin Pad Pro 2021 (TB-J716F)"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/4373039/"
+maintainer = "David Wronek (ungeskriptet)"

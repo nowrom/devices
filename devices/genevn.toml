@@ -1,0 +1,8 @@
+brand = "Motorola"
+codename = "genevn"
+name = "moto g stylus 5G - 2023"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "lexingtontezz"

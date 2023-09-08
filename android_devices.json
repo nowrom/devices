@@ -3626,6 +3626,11 @@
   },
   {
     "brand": "Advance",
+    "name": "SP7348",
+    "codename": "SP7348"
+  },
+  {
+    "brand": "Advance",
     "name": "Sp5730",
     "codename": "Sp5730"
   },
@@ -31923,6 +31928,11 @@
     "brand": "Dish",
     "name": "EVOLVE",
     "codename": "dish_cable_bcm"
+  },
+  {
+    "brand": "Dish",
+    "name": "EVOLVE 2",
+    "codename": "m377_dish"
   },
   {
     "brand": "Dish",
@@ -65891,6 +65901,11 @@
   },
   {
     "brand": "IMO(In My Opinion)",
+    "name": "IMO Q5",
+    "codename": "IMO_Q5"
+  },
+  {
+    "brand": "IMO(In My Opinion)",
     "name": "IMO S2",
     "codename": "S2"
   },
@@ -70553,6 +70568,11 @@
     "brand": "Itel",
     "name": "A05S",
     "codename": "itel-A663L"
+  },
+  {
+    "brand": "Itel",
+    "name": "A05s",
+    "codename": "itel-A663LC"
   },
   {
     "brand": "Itel",
@@ -92641,6 +92661,11 @@
   },
   {
     "brand": "Logicom",
+    "name": "ONIX",
+    "codename": "ONIX"
+  },
+  {
+    "brand": "Logicom",
     "name": "POWER bot",
     "codename": "POWERBOT"
   },
@@ -95063,6 +95088,11 @@
     "brand": "Masstel",
     "name": "Tab10_Edu",
     "codename": "Tab10_Edu"
+  },
+  {
+    "brand": "Masstel",
+    "name": "Tab10_Edu",
+    "codename": "Tab10_EduV2"
   },
   {
     "brand": "Masstel",
@@ -99773,6 +99803,11 @@
     "brand": "Mobicell",
     "name": "RUSH",
     "codename": "RUSH"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "RX PRO",
+    "codename": "RX_PRO"
   },
   {
     "brand": "Mobicell",
@@ -117143,6 +117178,11 @@
     "brand": "POSSAFE",
     "name": "OrderGo5_EEA",
     "codename": "OrderGo5"
+  },
+  {
+    "brand": "PRAZteck",
+    "name": "PT7EduPad",
+    "codename": "PT7EduPad"
   },
   {
     "brand": "PRIMA",
@@ -148377,6 +148417,11 @@
   {
     "brand": "Sharp",
     "name": "AQUOS R8",
+    "codename": "FaYuiry"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS R8",
     "codename": "SH-52D"
   },
   {
@@ -148387,17 +148432,12 @@
   {
     "brand": "Sharp",
     "name": "AQUOS R8 pro",
-    "codename": "SH-51D"
-  },
-  {
-    "brand": "Sharp",
-    "name": "AQUOS R8s",
-    "codename": "FaYuiry"
-  },
-  {
-    "brand": "Sharp",
-    "name": "AQUOS R8s pro",
     "codename": "Kamille"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS R8 pro",
+    "codename": "SH-51D"
   },
   {
     "brand": "Sharp",
@@ -158648,6 +158688,11 @@
     "brand": "TCL",
     "name": "South America",
     "codename": "tcl"
+  },
+  {
+    "brand": "TCL",
+    "name": "T607DL",
+    "codename": "Bora_TF"
   },
   {
     "brand": "TCL",
