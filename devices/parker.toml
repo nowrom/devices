@@ -10,7 +10,7 @@ maintainer = "kaneawk"
 id = "lineageos"
 cpu = "Kryo 460"
 ram = "4 GB LPDDR4x"
-wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "pixelexperience"

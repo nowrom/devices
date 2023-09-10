@@ -15,7 +15,7 @@ maintainer = "TG_DEVICE_MAINTAINER"
 id = "lineageos"
 cpu = "Cortex-A7"
 ram = "1 GB"
-wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
+wifi = "802.11 b/g/n"
 
 [specs]
 cpu = "Not found"

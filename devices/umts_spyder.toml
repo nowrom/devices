@@ -7,13 +7,13 @@ recoveries = []
 id = "lineageos"
 cpu = "Cortex-A9"
 ram = "1 GB"
-wifi = "Wi-Fi 802.11 b/g/n"
+wifi = "802.11 b/g/n"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A9"
 ram = "1 GB"
-wifi = "Wi-Fi 802.11 b/g/n"
+wifi = "802.11 b/g/n"
 
 [specs]
 cpu = "Dual-core 1.5 GHz Krait"

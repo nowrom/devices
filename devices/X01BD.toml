@@ -34,7 +34,7 @@ id = "evolutionx"
 id = "lineageos"
 cpu = "Kryo 260"
 ram = "3/4/6 GB"
-wifi = "802.11 b/g/n, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+wifi = "802.11 b/g/n"
 
 [[roms]]
 id = "pixelexperience"

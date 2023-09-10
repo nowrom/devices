@@ -11,7 +11,7 @@ maintainer = "ripee"
 id = "lineageos"
 cpu = "Krait 400"
 ram = "3 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, DLNA, Wi-Fi Direct, Hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)"

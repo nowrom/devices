@@ -11,7 +11,7 @@ maintainer = "webgeek1234"
 id = "lineageos"
 cpu = "Cortex-A15"
 ram = "2 GB"
-wifi = "802.11n 2x2 Mimo 2.4 GHz and 5 GHz"
+wifi = "802.11 a/b/g/n"
 
 [specs]
 cpu = "Not found"

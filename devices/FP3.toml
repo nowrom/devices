@@ -10,13 +10,13 @@ maintainer = "Chaosmaster"
 id = "lineageos"
 cpu = "Kryo 250"
 ram = "4 GB"
-wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct"
+wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 250"
 ram = "4 GB"
-wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Not found"

@@ -34,13 +34,13 @@ id = "evolutionx"
 id = "lineageos"
 cpu = "Kryo 250"
 ram = "2/3/4 GB"
-wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
+wifi = "802.11 b/g/n"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 250"
 ram = "3/4 GB"
-wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
+wifi = "802.11 b/g/n"
 
 [[roms]]
 id = "pixelextended"

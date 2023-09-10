@@ -10,7 +10,7 @@ maintainer = "magdeoz"
 id = "lineageos"
 cpu = "Cortex-A7"
 ram = "1 GB"
-wifi = "802.11 b/g/n, Hotspot"
+wifi = "802.11 b/g/n"
 
 [specs]
 cpu = "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)"

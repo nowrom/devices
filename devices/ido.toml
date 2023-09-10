@@ -14,13 +14,13 @@ maintainer = "Anik khan (Anik1199)"
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
 ram = "2/3 GB"
-wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
+wifi = "802.11 b/g/n"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
 ram = "2/3 GB"
-wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
+wifi = "802.11 b/g/n"
 
 [specs]
 cpu = "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A72)"

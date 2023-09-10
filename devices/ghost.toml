@@ -10,7 +10,7 @@ maintainer = "None"
 id = "lineageos"
 cpu = "Krait 200"
 ram = "2 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, DLNA, Hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Not found"

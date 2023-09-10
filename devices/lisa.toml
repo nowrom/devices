@@ -27,19 +27,19 @@ id = "evolutionx"
 id = "lineageos"
 cpu = "Kryo 670"
 ram = "6/8 GB"
-wifi = "802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+wifi = "802.11 a/b/g/n/ac/ax"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 670"
 ram = "6/8 GB"
-wifi = "802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+wifi = "802.11 a/b/g/n/ac/ax"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 670"
 ram = "6/8 GB"
-wifi = "802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+wifi = "802.11 a/b/g/n/ac/ax"
 
 [[roms]]
 id = "pixelexperience"

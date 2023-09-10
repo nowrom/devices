@@ -7,7 +7,7 @@ recoveries = []
 id = "lineageos"
 cpu = "Krait 400"
 ram = "2 GB"
-wifi = "802.11 b/g/n/ac 2.4/5GHz"
+wifi = "802.11 b/g/n/ac"
 
 [specs]
 cpu = "Not found"

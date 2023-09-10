@@ -21,7 +21,7 @@ id = "evolutionx"
 id = "lineageos"
 cpu = "Kryo 475"
 ram = "6/8 GB"
-wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "pixelexperience"

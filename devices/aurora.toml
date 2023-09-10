@@ -7,7 +7,7 @@ recoveries = []
 id = "lineageos"
 cpu = "Kryo 385"
 ram = "6 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Octa-core (4x2.7 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"

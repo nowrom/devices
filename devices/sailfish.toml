@@ -17,7 +17,7 @@ id = "blissroms"
 id = "lineageos"
 cpu = "Kryo"
 ram = "4 GB"
-wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "pixelexperience"

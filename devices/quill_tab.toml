@@ -7,13 +7,13 @@ recoveries = []
 id = "lineageos"
 cpu = "Denver 2 & Cortex-A57"
 ram = "4/8 GB"
-wifi = "802.11ac 2x2 Mimo 2.4 GHz and 5 GHz"
+wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "lineageos"
 cpu = "Denver 2 & Cortex-A57"
 ram = "4/8 GB"
-wifi = "802.11ac 2x2 Mimo 2.4 GHz and 5 GHz"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Not found"

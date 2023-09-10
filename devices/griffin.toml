@@ -10,7 +10,7 @@ maintainer = "kaneawk"
 id = "lineageos"
 cpu = "Kryo"
 ram = "4 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, WiFi Direct, Hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)"

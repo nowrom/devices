@@ -11,7 +11,7 @@ maintainer = "Dees_Troy"
 id = "lineageos"
 cpu = "Cortex-A15"
 ram = "2 GB"
-wifi = "802.11 b/g/n, Wi-Fi Direct, DLNA"
+wifi = "802.11 b/g/n"
 
 [specs]
 cpu = "Not found"

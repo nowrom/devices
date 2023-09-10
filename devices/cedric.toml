@@ -10,7 +10,7 @@ maintainer = "Theitfixer85, Jarl-Penguin"
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "2/3 GB"
-wifi = "802.11 a/b/g/n, Dual band, Wi-Fi Direct, Hotspot"
+wifi = "802.11 a/b/g/n"
 
 [[roms]]
 id = "sakura"

@@ -12,19 +12,19 @@ recovery = "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/a
 id = "lineageos"
 cpu = "Kryo 585"
 ram = "6/8 GB"
-wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+wifi = "802.11 a/b/g/n/ac/ax"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 585"
 ram = "6/8 GB"
-wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+wifi = "802.11 a/b/g/n/ac/ax"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 585"
 ram = "6/8 GB"
-wifi = "802.11 a/b/g/n/ac/6, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+wifi = "802.11 a/b/g/n/ac/ax"
 
 [specs]
 cpu = "Not found"

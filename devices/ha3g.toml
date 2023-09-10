@@ -11,7 +11,7 @@ maintainer = "jcadduono"
 id = "lineageos"
 cpu = "Cortex-A15 & Cortex-A7"
 ram = "3 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, DLNA, Wi-Fi Direct, Hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Quad-core 2.3 GHz Krait 400 - N9005, N9002Octa-core (4x1.9 GHz Cortex-A15 & 4x1.3 GHz Cortex-A7) - N9000"

@@ -7,10 +7,10 @@ recoveries = []
 id = "lineageos"
 cpu = "Cortex-A57"
 ram = "3 GB"
-wifi = "802.11ac 2x2 Mimo 2.4 GHz and 5 GHz"
+wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A57"
 ram = "3 GB"
-wifi = "802.11ac 2x2 Mimo 2.4 GHz and 5 GHz"
+wifi = "802.11 a/b/g/n/ac"

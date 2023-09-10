@@ -10,7 +10,7 @@ maintainer = "None"
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A57"
 ram = "3/4 GB"
-wifi = "2.4GHz 802.11 b/g/n and 5GHz 802.11 a/n/ac, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"

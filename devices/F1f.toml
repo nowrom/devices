@@ -10,7 +10,7 @@ maintainer = "brinlyaus"
 id = "lineageos"
 cpu = "Cortex-A53"
 ram = "3 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Not found"

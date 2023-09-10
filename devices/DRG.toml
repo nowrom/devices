@@ -11,7 +11,7 @@ photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devi
 id = "lineageos"
 cpu = "Kryo 260"
 ram = "4/6 GB LPDDR4X"
-wifi = "802.11 a/b/g/n/ac, Wi-Fi Direct, Wi-Fi Display, Hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "pixelexperience"

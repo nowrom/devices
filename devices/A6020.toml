@@ -20,13 +20,13 @@ changelog = "- Blacklisted google hotword service to fix mic issues\r\n- Enabled
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
 ram = "2/3 GB"
-wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
+wifi = "802.11 b/g/n"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
 ram = "2/3 GB"
-wifi = "802.11 b/g/n, Wi-Fi Direct, Hotspot"
+wifi = "802.11 b/g/n"
 
 [specs]
 cpu = "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)"

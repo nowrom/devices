@@ -42,7 +42,7 @@ photo = "https://avatars.githubusercontent.com/u/49910923?v=4"
 id = "lineageos"
 cpu = "Kryo 470"
 ram = "6/8 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Wi-Fi Display, DLNA, Hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "pixelexperience"

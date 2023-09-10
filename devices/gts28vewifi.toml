@@ -11,7 +11,7 @@ maintainer = "LuK1337, luca020400"
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A72"
 ram = "3 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Not found"

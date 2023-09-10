@@ -10,7 +10,7 @@ maintainer = "followmsi"
 id = "lineageos"
 cpu = "Cortex-A57"
 ram = "3 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Not found"

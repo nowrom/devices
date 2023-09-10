@@ -10,7 +10,7 @@ maintainer = "jcadduono"
 id = "lineageos"
 cpu = "Krait 300"
 ram = "2 GB"
-wifi = "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Quad-core 1.9 GHz Krait 300"

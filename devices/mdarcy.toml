@@ -11,7 +11,7 @@ maintainer = "webgeek1234"
 id = "lineageos"
 cpu = "Cortex-A57"
 ram = "3 GB"
-wifi = "802.11ac 2x2 Mimo 2.4 GHz and 5 GHz"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver)"

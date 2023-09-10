@@ -7,7 +7,7 @@ recoveries = []
 id = "lineageos"
 cpu = "Krait 300"
 ram = "2 GB"
-wifi = "802.11 a/b/g/n/ac, DLNA, Wi-Fi Display"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Octa-core (4x1.6 GHz Cortex-A15 & 4x1.2 GHz Cortex-A7)"

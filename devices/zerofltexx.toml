@@ -7,7 +7,7 @@ recoveries = []
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A57"
 ram = "3 GB"
-wifi = "802.11 a/b/g/n/ac, Dual Band, Wi-Fi Direct, Hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Octa-core (4x2.1 GHz Cortex-A57 & 4x1.5 GHz Cortex-A53)"

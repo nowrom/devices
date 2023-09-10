@@ -15,7 +15,7 @@ maintainer = "NextDroid"
 id = "lineageos"
 cpu = "Kryo"
 ram = "4 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, DLNA, Hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [specs]
 cpu = "Not found"

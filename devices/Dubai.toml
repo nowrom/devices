@@ -11,7 +11,7 @@ maintainer = "Adithya (ghostrider_reborn)"
 id = "lineageos"
 cpu = "Kryo 670"
 ram = "6/8 GB LPDDR5 (uMPC5)"
-wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot, Wi-Fi 6E, 4x4 MU-MIMO"
+wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "pixelexperience"

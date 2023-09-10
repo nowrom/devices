@@ -7,4 +7,4 @@ recoveries = []
 id = "lineageos"
 cpu = "Kryo 570"
 ram = "6/8 GB LPDDR4X"
-wifi = "802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot"
+wifi = "802.11 a/b/g/n/ac"

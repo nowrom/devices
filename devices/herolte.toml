@@ -11,7 +11,7 @@ maintainer = "ivanmeler"
 id = "lineageos"
 cpu = "Exynos M1 & Cortex-A53"
 ram = "4 GB"
-wifi = "802.11 a/b/g/n/ac, Dual-band, Wi-Fi Direct, Hotspot"
+wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "pixelexperience"
