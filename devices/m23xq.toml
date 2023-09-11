@@ -1,0 +1,8 @@
+brand = "Samsung"
+codename = "m23xq"
+name = "Galaxy M23 5G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "mrsiri"
