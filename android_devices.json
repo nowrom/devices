@@ -35676,6 +35676,11 @@
   },
   {
     "brand": "Emporia",
+    "name": "E5mini",
+    "codename": "E5mini"
+  },
+  {
+    "brand": "Emporia",
     "name": "E6_EEA",
     "codename": "E6"
   },
@@ -70567,6 +70572,11 @@
   {
     "brand": "Itel",
     "name": "A05S",
+    "codename": "itel-A663L"
+  },
+  {
+    "brand": "Itel",
+    "name": "A05s",
     "codename": "itel-A663L"
   },
   {
@@ -113948,6 +113958,11 @@
     "brand": "Oppo",
     "name": "OPPO Pad Air",
     "codename": "OP5225"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO Reno10 Pro+ 5G",
+    "codename": "OP564B"
   },
   {
     "brand": "Oppo",
