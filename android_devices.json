@@ -1951,6 +1951,11 @@
   },
   {
     "brand": "Acer",
+    "name": "ATAB1024E",
+    "codename": "ATAB1024E"
+  },
+  {
+    "brand": "Acer",
     "name": "ATAB1422E",
     "codename": "ATAB1422E"
   },
@@ -18391,6 +18396,11 @@
   },
   {
     "brand": "Blu",
+    "name": "G53",
+    "codename": "G0851"
+  },
+  {
+    "brand": "Blu",
     "name": "G6",
     "codename": "G0210"
   },
@@ -23841,6 +23851,11 @@
   },
   {
     "brand": "Cipherlab",
+    "name": "RK26",
+    "codename": "RK26"
+  },
+  {
+    "brand": "Cipherlab",
     "name": "RK95",
     "codename": "RK95"
   },
@@ -24693,6 +24708,16 @@
     "brand": "Compaq",
     "name": "COMPAQ",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "Compaq",
+    "name": "COMPAQ SMART TV",
+    "codename": "marina"
+  },
+  {
+    "brand": "Compaq",
+    "name": "COMPAQ SMART TV",
+    "codename": "nagata"
   },
   {
     "brand": "Compaq",
@@ -32616,6 +32641,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "U10",
+    "codename": "RK1"
+  },
+  {
+    "brand": "Doogee",
     "name": "V MAX",
     "codename": "M23H"
   },
@@ -35093,6 +35123,11 @@
     "brand": "Edong",
     "name": "LOL-775",
     "codename": "LOL_775"
+  },
+  {
+    "brand": "Ehlel",
+    "name": "Defender",
+    "codename": "Ehlel_Defender_D23"
   },
   {
     "brand": "Ehlel",
@@ -44873,6 +44908,11 @@
     "brand": "Gtel",
     "name": "A770_XL7",
     "codename": "A770_XL7"
+  },
+  {
+    "brand": "Gtel",
+    "name": "Delta_14",
+    "codename": "Delta_14"
   },
   {
     "brand": "Gtel",
@@ -73471,17 +73511,7 @@
   },
   {
     "brand": "KEYENCE",
-    "name": "DX-A400_",
-    "codename": "DX-A400"
-  },
-  {
-    "brand": "KEYENCE",
     "name": "DX-A600",
-    "codename": "DX-A600"
-  },
-  {
-    "brand": "KEYENCE",
-    "name": "DX-A600_",
     "codename": "DX-A600"
   },
   {
@@ -73958,6 +73988,11 @@
     "brand": "KTC (PD)",
     "name": "BLISS_8",
     "codename": "BLISS_8"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "ADSUN",
+    "codename": "stanford"
   },
   {
     "brand": "KTCtv",
@@ -105092,6 +105127,11 @@
   {
     "brand": "Multilaser",
     "name": "M7 WIFI",
+    "codename": "ML_SO0R_M7_WIFI"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "M7 WIFI",
     "codename": "ML_SO1E_M7_Wifi"
   },
   {
@@ -116943,6 +116983,11 @@
     "brand": "PIXPRO",
     "name": "PIXPRO T3",
     "codename": "T3"
+  },
+  {
+    "brand": "PLDT",
+    "name": "PLDT-GMB8260",
+    "codename": "DS8942-KPP"
   },
   {
     "brand": "PLDT",
@@ -152731,6 +152776,11 @@
   },
   {
     "brand": "Sony",
+    "name": "BRAVIA_VU31",
+    "codename": "BRAVIA_VU31_4K"
+  },
+  {
+    "brand": "Sony",
     "name": "Ericsson Live with Walkman",
     "codename": "WT19a"
   },
@@ -155918,6 +155968,11 @@
     "brand": "SparX",
     "name": "S9",
     "codename": "S9"
+  },
+  {
+    "brand": "SparX",
+    "name": "Sparx",
+    "codename": "Neo_8"
   },
   {
     "brand": "SparX",
@@ -167941,6 +167996,11 @@
   },
   {
     "brand": "Techpad",
+    "name": "X11",
+    "codename": "X11"
+  },
+  {
+    "brand": "Techpad",
     "name": "X6",
     "codename": "X6"
   },
@@ -174856,6 +174916,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "UMIDIGI A15 RU",
+    "codename": "UMIDIGI_A15"
+  },
+  {
+    "brand": "Umidigi",
     "name": "UMIDIGI A15C",
     "codename": "UMIDIGI_A15C"
   },
@@ -175708,6 +175773,11 @@
     "brand": "VIKUSHA",
     "name": "VZ-30",
     "codename": "VZ-30"
+  },
+  {
+    "brand": "VILLAON",
+    "name": "V20",
+    "codename": "V20"
   },
   {
     "brand": "VIMOQ",
@@ -187107,6 +187177,11 @@
   {
     "brand": "Xiaomi",
     "name": "MiTV",
+    "codename": "irobot"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MiTV",
     "codename": "machuca"
   },
   {
@@ -187142,7 +187217,17 @@
   {
     "brand": "Xiaomi",
     "name": "MiTV",
+    "codename": "venom"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MiTV",
     "codename": "volver"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MiTV",
+    "codename": "watchmen"
   },
   {
     "brand": "Xiaomi",
@@ -202378,6 +202463,11 @@
     "brand": "rephone",
     "name": "rephone",
     "codename": "rephone"
+  },
+  {
+    "brand": "rephone",
+    "name": "rephone5G",
+    "codename": "rephone5G"
   },
   {
     "brand": "robi",
