@@ -1,10 +1,15 @@
 brand = "Xiaomi"
-codename = "mi439"
-name = "MI439-Unified"
+codename = "Mi439"
+name = "Mi439"
 
 [[recoveries]]
 id = "twrp"
 maintainer = "0xCAFEBABE"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://sourceforge.net/projects/crdroid/files/Mi439/9.x/recovery.img/download"
 
 [[roms]]
 id = "evolutionx"

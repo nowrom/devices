@@ -18,7 +18,7 @@ xda_thread = ""
 [[roms]]
 id = "crdroid"
 gapps = "https://androidfilehost.com/?w=files&flid=322935&sort_by=name&sort_dir=DESC"
-recovery = "https://sourceforge.net/projects/crdroid/files/beyond1lte/9.x/recovery/recovery-20230731.img/download"
+recovery = "https://sourceforge.net/projects/crdroid/files/beyond1lte/9.x/recovery/recovery-20230911.img/download"
 
 [[roms]]
 id = "lineageos"

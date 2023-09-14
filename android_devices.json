@@ -15085,6 +15085,11 @@
     "codename": "BeLeno_Neod_8"
   },
   {
+    "brand": "BeLeno",
+    "name": "BeLeno_Turbo_101",
+    "codename": "BeLeno_Turbo_101"
+  },
+  {
     "brand": "Becrypt",
     "name": "Convex 430",
     "codename": "granite"
@@ -45301,6 +45306,11 @@
   },
   {
     "brand": "HKC Elec",
+    "name": "Google TV",
+    "codename": "nagai"
+  },
+  {
+    "brand": "HKC Elec",
     "name": "Smart Monitor",
     "codename": "mateo"
   },
@@ -66493,6 +66503,11 @@
     "brand": "IRIS_OHYAMA",
     "name": "TE082M2",
     "codename": "Luna"
+  },
+  {
+    "brand": "IRIS_OHYAMA",
+    "name": "TE083M3",
+    "codename": "TE083M3"
   },
   {
     "brand": "IRIS_OHYAMA",
@@ -100036,6 +100051,11 @@
   },
   {
     "brand": "Mobicell",
+    "name": "Z3",
+    "codename": "RX17"
+  },
+  {
+    "brand": "Mobicell",
     "name": "ZEN",
     "codename": "ZEN"
   },
@@ -112138,6 +112158,11 @@
     "brand": "OnePlus",
     "name": "OnePlus Nord2 5G",
     "codename": "OP515BL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus Pad",
+    "codename": "OP59BCL1"
   },
   {
     "brand": "OnePlus",
@@ -128993,6 +129018,11 @@
     "brand": "Redmi",
     "name": "Redmi Pad",
     "codename": "yunluo"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Pad SE",
+    "codename": "xun"
   },
   {
     "brand": "Redmi",
