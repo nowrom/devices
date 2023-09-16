@@ -38161,6 +38161,11 @@
   },
   {
     "brand": "Fairphone",
+    "name": "Fairphone 5 5G",
+    "codename": "FP5"
+  },
+  {
+    "brand": "Fairphone",
     "name": "Fairphone3",
     "codename": "FP3"
   },
@@ -67348,6 +67353,11 @@
     "brand": "Infinix",
     "name": "HOT 2",
     "codename": "Infinix_X510"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 20 PLAY",
+    "codename": "Infinix-X6825"
   },
   {
     "brand": "Infinix",
@@ -100583,6 +100593,11 @@
     "brand": "Mobiwire",
     "name": "Smart N12",
     "codename": "Smart_N12"
+  },
+  {
+    "brand": "Mobiwire",
+    "name": "Smart P24",
+    "codename": "Smart_P24"
   },
   {
     "brand": "Mobiwire",
@@ -159213,6 +159228,11 @@
     "brand": "TCL",
     "name": "TCL 30E",
     "codename": "Cruze"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 40 NXTPAPER",
+    "codename": "Ladybird_Pro"
   },
   {
     "brand": "TCL",
