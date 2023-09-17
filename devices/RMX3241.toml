@@ -6,7 +6,7 @@ roms = []
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/unofficial-unified-twrp-recovery-for-8-5g-narzo-30-5g.4406121/"
-maintainer = "crazo7924"
+maintainer = "None"
 
 [specs]
 cpu = "Not found"

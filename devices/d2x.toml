@@ -30,13 +30,13 @@ repostories = ["device_samsung_d2x","device_samsung_exynos9820-common","kernel_s
 version_code = "thirteen"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-unofficial-ota-pixelexperience-pixelexperience-plus-aosp-for-note-10-series-dynamic-encryption.4523537/"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve"
