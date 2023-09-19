@@ -1560,6 +1560,11 @@
     "codename": "K749B"
   },
   {
+    "brand": "AZPEN",
+    "name": "K750",
+    "codename": "K750"
+  },
+  {
     "brand": "Aamra WE",
     "name": "A10",
     "codename": "A10"
@@ -3603,6 +3608,11 @@
     "brand": "Advance",
     "name": "SP5735",
     "codename": "SP5735"
+  },
+  {
+    "brand": "Advance",
+    "name": "SP5736",
+    "codename": "SP5736"
   },
   {
     "brand": "Advance",
@@ -38016,6 +38026,11 @@
   },
   {
     "brand": "FOXXD",
+    "name": "FOXXD C65",
+    "codename": "FOXXD_C65"
+  },
+  {
+    "brand": "FOXXD",
     "name": "MIRO",
     "codename": "L590A"
   },
@@ -45048,6 +45063,11 @@
     "brand": "HANET",
     "name": "T432",
     "codename": "SmartEdu"
+  },
+  {
+    "brand": "HANKOOK_CREA",
+    "name": "HANKOOK_CREA_IFPD",
+    "codename": "HANKOOK_CREA_RK3588"
   },
   {
     "brand": "HANYEAL",
@@ -129768,6 +129788,11 @@
     "brand": "Rizzen",
     "name": "NovaTab_R10",
     "codename": "NovaTab_R10"
+  },
+  {
+    "brand": "RoadQuest",
+    "name": "RQ-G",
+    "codename": "RQ-G"
   },
   {
     "brand": "RockTek",
