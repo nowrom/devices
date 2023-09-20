@@ -1936,6 +1936,11 @@
   },
   {
     "brand": "Acer",
+    "name": "ACTABKID",
+    "codename": "ACTABKID"
+  },
+  {
+    "brand": "Acer",
     "name": "AK330s",
     "codename": "C8n"
   },
@@ -34426,6 +34431,11 @@
   },
   {
     "brand": "EONSmartBox",
+    "name": "CHSTB02",
+    "codename": "CHSTB02"
+  },
+  {
+    "brand": "EONSmartBox",
     "name": "SDOTT0202",
     "codename": "DV8519"
   },
@@ -53081,6 +53091,11 @@
   },
   {
     "brand": "Hisense",
+    "name": "Hisense E70",
+    "codename": "HLTE262E"
+  },
+  {
+    "brand": "Hisense",
     "name": "Hisense E76MINIM",
     "codename": "HS8937QC"
   },
@@ -65356,6 +65371,11 @@
   },
   {
     "brand": "Hyundai",
+    "name": "HYUNDAI SMART 2K TV",
+    "codename": "nagata"
+  },
+  {
+    "brand": "Hyundai",
     "name": "HYUNDAI SMART TV",
     "codename": "SW6H"
   },
@@ -65403,6 +65423,11 @@
     "brand": "Hyundai",
     "name": "Hyundai 2K TV",
     "codename": "shinjuku"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Hyundai 4K Smart TV",
+    "codename": "marina"
   },
   {
     "brand": "Hyundai",
@@ -71953,6 +71978,11 @@
     "brand": "Itel",
     "name": "itel-A510W",
     "codename": "itel-A510W"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel-IKP-31",
+    "codename": "itel-IKP-31"
   },
   {
     "brand": "Itel",
@@ -103908,6 +103938,16 @@
     "brand": "Motorola",
     "name": "moto g53y 5G",
     "codename": "penang"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g54 5G",
+    "codename": "cancunf"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g54 5G",
+    "codename": "cancunf"
   },
   {
     "brand": "Motorola",
@@ -149391,6 +149431,11 @@
   },
   {
     "brand": "Sharp",
+    "name": "FV1",
+    "codename": "sandiego"
+  },
+  {
+    "brand": "Sharp",
     "name": "GALAPAGOS SoftBank 003SH",
     "codename": "SBM003SH"
   },
@@ -178651,6 +178696,11 @@
   },
   {
     "brand": "Vision Technology",
+    "name": "2K SMART TV",
+    "codename": "nagata"
+  },
+  {
+    "brand": "Vision Technology",
     "name": "Android TV",
     "codename": "R1"
   },
@@ -202196,18 +202246,18 @@
   },
   {
     "brand": "realme",
-    "name": "realme GT Neo5",
-    "codename": "RE5C33"
-  },
-  {
-    "brand": "realme",
-    "name": "realme GT Neo5 240W",
-    "codename": "RE5C33"
-  },
-  {
-    "brand": "realme",
     "name": "realme GT3 240W",
     "codename": "REE2B2L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme GT5",
+    "codename": "RE5C33"
+  },
+  {
+    "brand": "realme",
+    "name": "realme GT5 240W",
+    "codename": "RE5C33"
   },
   {
     "brand": "realme",

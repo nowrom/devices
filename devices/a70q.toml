@@ -10,7 +10,7 @@ maintainer = "Haky86"
 [[roms]]
 id = "crdroid"
 gapps = "https://wiki.lineageos.org/gapps"
-recovery = "https://sourceforge.net/projects/haky86/files/SamsungGalaxyA70/Recoveries/crDroid/crDroidAndroid-13.0-20230417-a70q-v9.4.tar/download"
+recovery = "https://sourceforge.net/projects/haky86/files/SamsungGalaxyA70/Recoveries/crDroid/crDroidAndroid-13.0-20230919-a70q-v9.9.tar/download"
 
 [specs]
 cpu = "Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver)"
