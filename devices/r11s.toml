@@ -1,6 +1,6 @@
-brand = "Oppo"
-codename = "R11s"
-name = "R11st"
+brand = "Samsung"
+codename = "r11s"
+name = "Galaxy S23 FE"
 roms = []
 
 [[recoveries]]

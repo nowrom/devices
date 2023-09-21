@@ -1986,6 +1986,11 @@
   },
   {
     "brand": "Acer",
+    "name": "ATABKD1024K",
+    "codename": "ATABKD1024K"
+  },
+  {
+    "brand": "Acer",
     "name": "ATL1021EA",
     "codename": "ATL1021EA"
   },
@@ -18733,6 +18738,16 @@
     "brand": "Blu",
     "name": "M10L",
     "codename": "M0190WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "M10L PLUS",
+    "codename": "M0223"
+  },
+  {
+    "brand": "Blu",
+    "name": "M10L PLUS",
+    "codename": "M0223_EX"
   },
   {
     "brand": "Blu",
@@ -115671,6 +115686,11 @@
   },
   {
     "brand": "Orange",
+    "name": "Orange ES VSB3918",
+    "codename": "m393vsb_osp"
+  },
+  {
+    "brand": "Orange",
     "name": "Orange Neva leaf",
     "codename": "Neva_leaf"
   },
@@ -117538,6 +117558,11 @@
     "brand": "Packard Bell",
     "name": "SILVERSTONE-T11",
     "codename": "SILVERSTONE-T11"
+  },
+  {
+    "brand": "Packard Bell",
+    "name": "SILVERSTONE-T18",
+    "codename": "SILVERSTONE-T18"
   },
   {
     "brand": "Packard Bell",
@@ -129831,7 +129856,7 @@
   },
   {
     "brand": "RoadQuest",
-    "name": "RQ-G",
+    "name": "RoadQuest",
     "codename": "RQ-G"
   },
   {
@@ -141621,6 +141646,31 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy S23 FE",
+    "codename": "r11q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S23 FE",
+    "codename": "r11q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S23 FE",
+    "codename": "r11q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S23 FE",
+    "codename": "r11q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S23 FE",
+    "codename": "r11s"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy S23 Ultra",
     "codename": "SC-52D"
   },
@@ -144196,6 +144246,21 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Tab A9",
+    "codename": "gta9"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A9",
+    "codename": "gta9"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A9",
+    "codename": "gta9"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Tab Active",
     "codename": "rubenslte"
   },
@@ -145106,8 +145171,8 @@
   },
   {
     "brand": "Samsung",
-    "name": "Galaxy Tab S9 FE 5G",
-    "codename": "gts9fe"
+    "name": "Galaxy Tab S9 FE",
+    "codename": "gts9fewifi"
   },
   {
     "brand": "Samsung",
@@ -145123,6 +145188,16 @@
     "brand": "Samsung",
     "name": "Galaxy Tab S9 FE 5G",
     "codename": "gts9fe"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9 FE 5G",
+    "codename": "gts9fe"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9 FE+",
+    "codename": "gts9fepwifi"
   },
   {
     "brand": "Samsung",
@@ -153493,6 +153568,21 @@
     "brand": "Sony",
     "name": "Xperia 5 IV",
     "codename": "XQ-CQ72"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5 V",
+    "codename": "SO-53D"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5 V",
+    "codename": "SOG12"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5 V",
+    "codename": "XQ-DE44"
   },
   {
     "brand": "Sony",
@@ -178498,6 +178588,11 @@
     "brand": "ViewSonic",
     "name": "viewpad7x",
     "codename": "viewpad7x"
+  },
+  {
+    "brand": "ViewSonic",
+    "name": "IFP8652-2",
+    "codename": "IFP8652-2"
   },
   {
     "brand": "ViewSonic",
