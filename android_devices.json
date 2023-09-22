@@ -1066,6 +1066,11 @@
   },
   {
     "brand": "AT&T",
+    "name": "AT&T Calypso® 4",
+    "codename": "U380AA"
+  },
+  {
+    "brand": "AT&T",
     "name": "AT&T Maestro™ Plus",
     "codename": "v350u"
   },
@@ -27161,6 +27166,11 @@
   },
   {
     "brand": "Cricket",
+    "name": "Cricket Debut S2™",
+    "codename": "U380AC"
+  },
+  {
+    "brand": "Cricket",
     "name": "Cricket® Dream 5G",
     "codename": "EC211001"
   },
@@ -33523,6 +33533,11 @@
     "brand": "Dragontouch",
     "name": "Y88X__PLUS",
     "codename": "Y88X__PLUS"
+  },
+  {
+    "brand": "DreamMaker",
+    "name": "DreamMaker",
+    "codename": "DPLAY"
   },
   {
     "brand": "Dreamax",
@@ -43948,6 +43963,11 @@
     "brand": "Go Mobile",
     "name": "X6",
     "codename": "GM"
+  },
+  {
+    "brand": "Go3 Baltics",
+    "name": "Skyworth",
+    "codename": "HP44H"
   },
   {
     "brand": "GoClever",
@@ -65406,6 +65426,21 @@
   },
   {
     "brand": "Hyundai",
+    "name": "HyLine_Plus",
+    "codename": "HY65PB1401NA"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "HyLine_Plus_2",
+    "codename": "HY65PB1401NA"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "HyLine_Pro_X",
+    "codename": "HY65PA1401NA"
+  },
+  {
+    "brand": "Hyundai",
     "name": "HyTab_Plus_10LC2",
     "codename": "HyTab_Plus_10LC2"
   },
@@ -65968,6 +66003,11 @@
     "brand": "IIIF150",
     "name": "B1 Pro",
     "codename": "B1_Pro"
+  },
+  {
+    "brand": "IIIF150",
+    "name": "B2 Ultra",
+    "codename": "B2_Ultra"
   },
   {
     "brand": "IKALL",
@@ -114128,6 +114168,11 @@
     "brand": "Oppo",
     "name": "OPPO Pad Air",
     "codename": "OP5225"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO Reno10 5G",
+    "codename": "OP5655"
   },
   {
     "brand": "Oppo",
