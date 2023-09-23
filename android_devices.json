@@ -45425,6 +45425,11 @@
     "codename": "VE0319"
   },
   {
+    "brand": "HOLO",
+    "name": "X10",
+    "codename": "X10"
+  },
+  {
     "brand": "HOMII",
     "name": "HOMII M6",
     "codename": "M6"
@@ -114261,6 +114266,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO Reno8 T",
+    "codename": "OP5709L1"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO Reno9 Pro 5G",
     "codename": "OP5601"
   },
@@ -117433,6 +117443,11 @@
     "brand": "PRIMA",
     "name": "PRIMA 4K Android TV",
     "codename": "kenton"
+  },
+  {
+    "brand": "PRISMPLUS",
+    "name": "4K Smart TV Plus",
+    "codename": "anaheim"
   },
   {
     "brand": "PRISMPLUS",
@@ -133331,6 +133346,26 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy A05s",
+    "codename": "a05s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A05s",
+    "codename": "a05s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A05s",
+    "codename": "a05s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A05s",
+    "codename": "a05s"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy A10",
     "codename": "a10"
   },
@@ -144303,6 +144338,11 @@
     "brand": "Samsung",
     "name": "Galaxy Tab A9",
     "codename": "gta9"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A9",
+    "codename": "gta9wifi"
   },
   {
     "brand": "Samsung",
@@ -202036,6 +202076,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme 11 5G",
+    "codename": "RE5C6CL1"
+  },
+  {
+    "brand": "realme",
     "name": "realme 11 Pro 5G",
     "codename": "RE58B8L1"
   },
@@ -202043,6 +202088,11 @@
     "brand": "realme",
     "name": "realme 11 Pro+ 5G",
     "codename": "RE58B6L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme 11x 5G",
+    "codename": "RE5C6CL1"
   },
   {
     "brand": "realme",
@@ -202406,6 +202456,16 @@
   },
   {
     "brand": "realme",
+    "name": "realme Pad 2",
+    "codename": "RE5C6EL1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme Pad 2",
+    "codename": "RE5C70L1"
+  },
+  {
+    "brand": "realme",
     "name": "realme Pad X",
     "codename": "RE5496"
   },
@@ -202603,6 +202663,11 @@
     "brand": "realme",
     "name": "realme narzo 60 5G",
     "codename": "RE58B1L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme narzo 60x 5G",
+    "codename": "RE5C6CL1"
   },
   {
     "brand": "realme",

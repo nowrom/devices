@@ -1,0 +1,9 @@
+brand = "Xiaomi"
+codename = "zeus"
+name = "Xiaomi 12 Pro"
+recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
