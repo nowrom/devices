@@ -71516,6 +71516,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel A18s",
+    "codename": "itel-A513W"
+  },
+  {
+    "brand": "Itel",
     "name": "itel A20",
     "codename": "itel-A20"
   },
@@ -114156,6 +114161,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO K11 5G",
+    "codename": "OP591D"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO Pad",
     "codename": "OP5223"
   },
@@ -129063,6 +129073,16 @@
     "brand": "Redmi",
     "name": "Redmi Note 12T Pro",
     "codename": "pearl"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 13 5G",
+    "codename": "gold"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 13 Pro+",
+    "codename": "zircon"
   },
   {
     "brand": "Redmi",
