@@ -6,7 +6,7 @@ recoveries = []
 [[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/16-Jul-2023/"
-recovery = "https://mirrorbits.lineageos.org/full/lancelot/20230906/recovery.img"
+recovery = "https://sourceforge.net/projects/redmi-mt6768-raizel/files/lancelot/Recovery/CrDroid-recovery.img/download"
 
 [[roms]]
 id = "lineageos"
