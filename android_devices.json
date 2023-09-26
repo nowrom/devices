@@ -641,6 +641,11 @@
   },
   {
     "brand": "AGM Mobile",
+    "name": "AGM_H6",
+    "codename": "AGM_H6"
+  },
+  {
+    "brand": "AGM Mobile",
     "name": "AGM_Note_N1",
     "codename": "AGM_Note_N1"
   },
@@ -65333,6 +65338,11 @@
     "brand": "Hyundai",
     "name": "HT10LC1MBKLTM",
     "codename": "HT10LC1MBKLTM"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "HT10LC1MBKLTM01",
+    "codename": "HT10LC1MBKLTM01"
   },
   {
     "brand": "Hyundai",
@@ -180931,6 +180941,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "Y02t",
+    "codename": "V2254"
+  },
+  {
+    "brand": "Vivo",
     "name": "Y100",
     "codename": "V2239"
   },
@@ -199205,6 +199220,11 @@
     "codename": "M815"
   },
   {
+    "brand": "bbox",
+    "name": "bbox",
+    "codename": "bbox-M752A"
+  },
+  {
     "brand": "beafon",
     "name": "Class_C250",
     "codename": "Class_C250"
@@ -199933,6 +199953,11 @@
     "brand": "g-mee",
     "name": "play2",
     "codename": "play2"
+  },
+  {
+    "brand": "galneoscreen",
+    "name": "wende.interaktiv GmbH",
+    "codename": "galneoscreen_V5"
   },
   {
     "brand": "geaneePro",
@@ -202271,6 +202296,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme 10 Pro+",
+    "codename": "RE5854"
+  },
+  {
+    "brand": "realme",
     "name": "realme 10 Pro+ 5G",
     "codename": "RE58A5L1"
   },
@@ -202303,6 +202333,11 @@
     "brand": "realme",
     "name": "realme 11 Pro 5G",
     "codename": "RE58B8L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme 11 Pro+",
+    "codename": "RE5865"
   },
   {
     "brand": "realme",
@@ -202926,11 +202961,6 @@
   },
   {
     "brand": "realme",
-    "name": "真我 11 Pro+",
-    "codename": "RE5865"
-  },
-  {
-    "brand": "realme",
     "name": "真我 GT NEO  3  150W",
     "codename": "RE5489"
   },
@@ -202963,11 +202993,6 @@
     "brand": "realme",
     "name": "真我 V20",
     "codename": "RE584B"
-  },
-  {
-    "brand": "realme",
-    "name": "真我10 Pro+",
-    "codename": "RE5854"
   },
   {
     "brand": "realme",
