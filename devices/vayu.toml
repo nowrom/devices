@@ -32,12 +32,6 @@ recovery = ""
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/vayu/Havoc-OS-v5.7-20220717-vayu-Official-GApps.zip"
 maintainer = "Alisson Grizotti"
@@ -74,12 +68,12 @@ deprecated = true
 [[roms.supported_versions]]
 version_code = "thirteen"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms]]
 id = "pixelextended"
