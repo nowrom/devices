@@ -51,15 +51,13 @@ deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen"
-xda_thread = "https://forum.xda-developers.com/t/rom-13-0-walleye-pixel-experience-aosp-beta.4511417/"
 stable = true
-deprecated = true
+deprecated = false
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
-xda_thread = "https://forum.xda-developers.com/t/rom-13-0-walleye-pixel-experience-aosp-beta.4511417/"
 stable = true
-deprecated = true
+deprecated = false
 
 [[roms]]
 id = "revengeos"

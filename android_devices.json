@@ -2006,6 +2006,11 @@
   },
   {
     "brand": "Acer",
+    "name": "ATAB10KB24E",
+    "codename": "ATAB10KB24E"
+  },
+  {
+    "brand": "Acer",
     "name": "ATAB1422E",
     "codename": "ATAB1422E"
   },
@@ -2108,6 +2113,11 @@
     "brand": "Acer",
     "name": "Acer_A61L",
     "codename": "Acer_A61L"
+  },
+  {
+    "brand": "Acer",
+    "name": "Acer_One_10_T9-1212L",
+    "codename": "Acer_One_10_T9-1212L"
   },
   {
     "brand": "Acer",
@@ -114526,6 +114536,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO Reno10 Pro 5G",
+    "codename": "OP561F"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO Reno10 Pro+ 5G",
     "codename": "OP564B"
   },
@@ -152700,6 +152715,11 @@
     "codename": "HY44J"
   },
   {
+    "brand": "Skyworth",
+    "name": "VGK02",
+    "codename": "HP46D"
+  },
+  {
     "brand": "SledovaniTV",
     "name": "DV8220",
     "codename": "DV8220"
@@ -188458,6 +188478,26 @@
     "brand": "Xiaomi",
     "name": "Xiaomi 13 pro",
     "codename": "nuwa"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 13T",
+    "codename": "XIG04"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 13T",
+    "codename": "aristotle"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 13T Pro",
+    "codename": "corot"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 13T Pro",
+    "codename": "corot"
   },
   {
     "brand": "Xiaomi",
