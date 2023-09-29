@@ -15511,6 +15511,11 @@
   },
   {
     "brand": "BenQ",
+    "name": "RP8604",
+    "codename": "RP8604"
+  },
+  {
+    "brand": "BenQ",
     "name": "Smart TV",
     "codename": "longshan"
   },
@@ -77811,6 +77816,11 @@
   },
   {
     "brand": "Kyocera",
+    "name": "TORQUE G06",
+    "codename": "KY23M-RG100"
+  },
+  {
+    "brand": "Kyocera",
     "name": "TORQUE(KC-S701)",
     "codename": "KC-S701"
   },
@@ -99813,6 +99823,11 @@
     "brand": "MobiOcean",
     "name": "MOT102",
     "codename": "MOT102"
+  },
+  {
+    "brand": "MobiVista",
+    "name": "VisioTab_10",
+    "codename": "VisioTab_10"
   },
   {
     "brand": "Mobicell",
@@ -202523,11 +202538,6 @@
     "brand": "realme",
     "name": "RMX3710",
     "codename": "REE2ADL1"
-  },
-  {
-    "brand": "realme",
-    "name": "RMX3771",
-    "codename": "RE58B8L1"
   },
   {
     "brand": "realme",

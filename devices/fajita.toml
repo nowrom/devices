@@ -55,14 +55,14 @@ id = "pixelextended"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.2"
-developer = "SevralT"
+version = "v2.9"
+developer = "coderzstas"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v2.9"
-developer = "coderzstas"
+version = "v5.2"
+developer = "SevralT"
 
 [specs]
 cpu = "Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)"
