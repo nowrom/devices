@@ -1,0 +1,8 @@
+brand = "Samsung"
+codename = "m31"
+name = "Galaxy M31"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = true

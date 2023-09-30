@@ -12,7 +12,7 @@ photo = "https://fdn2.gsmarena.com/vv/bigpic/realme-x7-max-5g.jpg"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/Gwolf2u/"
 recovery = ""
 
 [specs]
