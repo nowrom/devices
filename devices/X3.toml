@@ -13,6 +13,11 @@ maintainer = "Adithya (ghostrider_reborn) and EdwardWu"
 changelog = "ROM: Sync with latest sources."
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/flamegapps/files/arm64/canary/android-13/"
+recovery = "https://drive.google.com/uc?id=1LEc6lISIcu5XuaFFrtI0pI_Z3JxjWZwd&export=download"
+
+[[roms]]
 id = "legionos"
 active = true
 maintainer = "Patriot06"

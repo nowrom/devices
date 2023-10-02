@@ -1,0 +1,8 @@
+brand = "Nothing"
+codename = "Pong"
+name = "Nothing Phone (2)"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = true
