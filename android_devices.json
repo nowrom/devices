@@ -197696,6 +197696,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade V50 Vita",
+    "codename": "P606F09"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade V770",
     "codename": "P852F52"
   },
