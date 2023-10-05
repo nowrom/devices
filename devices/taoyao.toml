@@ -1,0 +1,9 @@
+brand = "Xiaomi"
+codename = "taoyao"
+name = "Xiaomi 12 Lite"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-12-taoyao-teamwin-recovery-project-for-xiaomi-12-lite.4520817/"
+maintainer = "erwinabs"
