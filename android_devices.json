@@ -45680,6 +45680,11 @@
     "codename": "OC101_EEA"
   },
   {
+    "brand": "HIKVISION",
+    "name": "DS-D5C65RB_A",
+    "codename": "DS_D5C65RB_A"
+  },
+  {
     "brand": "HIMADE",
     "name": "HIMADE",
     "codename": "shilin"
@@ -55808,6 +55813,11 @@
     "brand": "Honda",
     "name": "Gathers",
     "codename": "pl0a"
+  },
+  {
+    "brand": "Honda",
+    "name": "Gathers",
+    "codename": "pr3a_arm64"
   },
   {
     "brand": "Honda",
@@ -145123,6 +145133,11 @@
     "brand": "Samsung",
     "name": "Galaxy Tab A9",
     "codename": "gta9wifi"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab A9+",
+    "codename": "gta9pwifi"
   },
   {
     "brand": "Samsung",

@@ -22,7 +22,6 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Adithya (ghostrider_reborn)"
-changelog = "- Enabled proximity check on wake for touchscreen gestures\r\n- Disabled proximity sensor usage during doze"
 
 [[roms]]
 id = "blissroms"

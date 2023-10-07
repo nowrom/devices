@@ -12,6 +12,11 @@ id = "arrowos"
 maintainer = "surblazer"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/16-Jul-2023/"
+recovery = "https://mirrorbits.lineageos.org/full/merlinx/20230929/recovery.img"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
