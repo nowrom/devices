@@ -171,8 +171,18 @@
   },
   {
     "brand": "A1",
+    "name": "A1 Hrvatska B866V2F02",
+    "codename": "A1_B866V2F02"
+  },
+  {
+    "brand": "A1",
     "name": "A1 Smart N9",
     "codename": "VFD720"
+  },
+  {
+    "brand": "A1",
+    "name": "A1-Smart-Box-DV9161",
+    "codename": "DV9161-KBA"
   },
   {
     "brand": "A1",
@@ -4178,6 +4188,11 @@
     "brand": "Aiwa",
     "name": "JA3-TBA1005",
     "codename": "JA3-TBA1005"
+  },
+  {
+    "brand": "Aiwa",
+    "name": "JA3-TBA1007",
+    "codename": "JA3-TBA1007"
   },
   {
     "brand": "Aiwa",
@@ -18866,6 +18881,11 @@
   },
   {
     "brand": "Blu",
+    "name": "J8L",
+    "codename": "J0170"
+  },
+  {
+    "brand": "Blu",
     "name": "J9L",
     "codename": "J0080WW"
   },
@@ -25035,6 +25055,11 @@
     "codename": "Qtab10"
   },
   {
+    "brand": "Compaq",
+    "name": "Qtab10Plus",
+    "codename": "Qtab10Plus"
+  },
+  {
     "brand": "Concord",
     "name": "A10",
     "codename": "A10"
@@ -29760,6 +29785,11 @@
     "codename": "DH-B301K"
   },
   {
+    "brand": "Daelim_System",
+    "name": "Daelim System_IFPD",
+    "codename": "Daelim_System_RK3588"
+  },
+  {
     "brand": "Daewoo",
     "name": "4K Smart TV",
     "codename": "pioneer"
@@ -34416,8 +34446,18 @@
   },
   {
     "brand": "EKO",
+    "name": "EKO 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "EKO",
     "name": "EKO 4K Google TV",
     "codename": "keoneae"
+  },
+  {
+    "brand": "EKO",
+    "name": "EKO Google TV",
+    "codename": "bandra"
   },
   {
     "brand": "EKO",
@@ -35813,6 +35853,11 @@
     "brand": "Elink",
     "name": "Winnovo",
     "codename": "T7"
+  },
+  {
+    "brand": "Elisa",
+    "name": "B866V2F01",
+    "codename": "STB_ELISA_B866V2F01"
   },
   {
     "brand": "Elitelux",
@@ -74626,6 +74671,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "ADSUN",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
     "name": "AP",
     "codename": "stanford"
   },
@@ -74711,8 +74761,28 @@
   },
   {
     "brand": "KTCtv",
+    "name": "DREAMVIEW",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "DYANORA",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "DYANORA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
     "name": "ELEMENT",
     "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "ESLEY",
+    "codename": "hongkong"
   },
   {
     "brand": "KTCtv",
@@ -74802,6 +74872,16 @@
   {
     "brand": "KTCtv",
     "name": "INNOVA",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "KIUNIT",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "KIUNIT",
     "codename": "zhongshan"
   },
   {
@@ -93943,6 +94023,11 @@
     "brand": "M4tel",
     "name": "R2 Plus",
     "codename": "R2_Plus"
+  },
+  {
+    "brand": "MAG",
+    "name": "MAG",
+    "codename": "lavender"
   },
   {
     "brand": "MAG",
@@ -120781,6 +120866,11 @@
   },
   {
     "brand": "Philips",
+    "name": "Philips Google TV TA2",
+    "codename": "PH1M_WW_9972"
+  },
+  {
+    "brand": "Philips",
     "name": "Philips Google TV TA6",
     "codename": "kujo"
   },
@@ -127662,6 +127752,11 @@
   {
     "brand": "RCA",
     "name": "RCA",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "RCA",
+    "name": "RCA",
     "codename": "lavender"
   },
   {
@@ -129833,6 +129928,16 @@
     "brand": "Redmi",
     "name": "Redmi Note 13 5G",
     "codename": "gold"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 13 Pro",
+    "codename": "garnet"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 13 Pro",
+    "codename": "garnet"
   },
   {
     "brand": "Redmi",
@@ -166666,6 +166771,11 @@
   },
   {
     "brand": "TCT (Alcatel)",
+    "name": "TCL 40 XE 5G",
+    "codename": "Encore_TF"
+  },
+  {
+    "brand": "TCT (Alcatel)",
     "name": "TCL 4X 5G",
     "codename": "Bremen_TF"
   },
@@ -189041,6 +189151,16 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Xiaomi Watch 2 Pro",
+    "codename": "axolotl"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Watch 2 Pro",
+    "codename": "axolotlte"
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Xiaomi civi 3",
     "codename": "yuechu"
   },
@@ -202572,6 +202692,11 @@
   {
     "brand": "innos",
     "name": "innos 4K Google TV",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "innos",
+    "name": "innos 4K Google TV-A",
     "codename": "keoneae"
   },
   {
