@@ -311,6 +311,11 @@
   },
   {
     "brand": "ACE France",
+    "name": "BUZZ 4Lite",
+    "codename": "BUZZ_4Lite"
+  },
+  {
+    "brand": "ACE France",
     "name": "BUZZ 4Pro",
     "codename": "BUZZ_4Pro"
   },
@@ -6633,6 +6638,11 @@
     "brand": "Aocwei",
     "name": "X500_EEA",
     "codename": "X500_EEA"
+  },
+  {
+    "brand": "Aocwei",
+    "name": "X500_T_EEA",
+    "codename": "X500_T_EEA"
   },
   {
     "brand": "Aocwei",
@@ -13701,6 +13711,21 @@
   },
   {
     "brand": "BMobile",
+    "name": "BL53",
+    "codename": "Bmobile_BL53_TG05"
+  },
+  {
+    "brand": "BMobile",
+    "name": "BL53",
+    "codename": "Bmobile_BL53_TG06"
+  },
+  {
+    "brand": "BMobile",
+    "name": "BL53",
+    "codename": "Bmobile_BL53_TG07"
+  },
+  {
+    "brand": "BMobile",
     "name": "BL54Pro",
     "codename": "Bmobile_BL54Pro"
   },
@@ -15086,6 +15111,11 @@
   },
   {
     "brand": "BYYBUO",
+    "name": "SmartPad_A10_L",
+    "codename": "SmartPad_A10_L"
+  },
+  {
+    "brand": "BYYBUO",
     "name": "SmartPad_A70W",
     "codename": "SmartPad_A70W"
   },
@@ -15678,6 +15708,16 @@
     "brand": "Beneve",
     "name": "M51",
     "codename": "M51"
+  },
+  {
+    "brand": "Beneve",
+    "name": "M51S",
+    "codename": "M51S"
+  },
+  {
+    "brand": "Beneve",
+    "name": "M51S_EEA",
+    "codename": "M51S_EEA"
   },
   {
     "brand": "Beneve",
@@ -22163,6 +22203,11 @@
     "brand": "Casper",
     "name": "VIA M30 Plus",
     "codename": "VIA_M30_Plus"
+  },
+  {
+    "brand": "Casper",
+    "name": "VIA M35",
+    "codename": "VIA_M35"
   },
   {
     "brand": "Casper",
@@ -29353,6 +29398,11 @@
     "brand": "DIADEM",
     "name": "CUTE_5",
     "codename": "CUTE_5"
+  },
+  {
+    "brand": "DIALN",
+    "name": "G10",
+    "codename": "G10"
   },
   {
     "brand": "DIALN",
@@ -38238,6 +38288,11 @@
     "brand": "FEONAL",
     "name": "K104",
     "codename": "K104"
+  },
+  {
+    "brand": "FEONAL",
+    "name": "K110_EEA",
+    "codename": "K110_EEA"
   },
   {
     "brand": "FEONAL",
@@ -66486,6 +66541,11 @@
   },
   {
     "brand": "IIIF150",
+    "name": "B2",
+    "codename": "B2"
+  },
+  {
+    "brand": "IIIF150",
     "name": "B2 Ultra",
     "codename": "B2_Ultra"
   },
@@ -74066,6 +74126,11 @@
   },
   {
     "brand": "KEMPLER STRAUSS",
+    "name": "11PRO",
+    "codename": "ZKEMPLER_11PRO"
+  },
+  {
+    "brand": "KEMPLER STRAUSS",
     "name": "4K Smart TV",
     "codename": "gangbyeon"
   },
@@ -74158,6 +74223,16 @@
     "brand": "KEMPLER STRAUSS",
     "name": "ZKEMPLER_PLUS",
     "codename": "ZKEMPLER_PLUS"
+  },
+  {
+    "brand": "KENSHI",
+    "name": "E17_RU",
+    "codename": "E17"
+  },
+  {
+    "brand": "KENSHI",
+    "name": "E18_RU",
+    "codename": "E18"
   },
   {
     "brand": "KENSHI",
@@ -77283,6 +77358,11 @@
     "brand": "Kruger&Matz",
     "name": "Eagle_1074",
     "codename": "KM1074"
+  },
+  {
+    "brand": "Kruger&Matz",
+    "name": "Eagle_1075",
+    "codename": "KM1075"
   },
   {
     "brand": "Kruger&Matz",
@@ -85621,6 +85701,11 @@
   },
   {
     "brand": "LT_Mobile",
+    "name": "LT_9902",
+    "codename": "LT_9902"
+  },
+  {
+    "brand": "LT_Mobile",
     "name": "LT_mobile_S22",
     "codename": "LT_mobile_S22"
   },
@@ -85783,6 +85868,11 @@
     "brand": "LW",
     "name": "LW788",
     "codename": "LW788"
+  },
+  {
+    "brand": "LYOTECH_LABS",
+    "name": "LFi_ONE_EEA",
+    "codename": "LFi_ONE"
   },
   {
     "brand": "Laiq",
@@ -96601,6 +96691,11 @@
   },
   {
     "brand": "Maze_speed",
+    "name": "M1586K",
+    "codename": "M1586K"
+  },
+  {
+    "brand": "Maze_speed",
     "name": "M1587K",
     "codename": "M1587K"
   },
@@ -100446,6 +100541,11 @@
   },
   {
     "brand": "Mobicell",
+    "name": "IX-1",
+    "codename": "IX-1"
+  },
+  {
+    "brand": "Mobicell",
     "name": "Icon",
     "codename": "Mobicel_Icon"
   },
@@ -100588,6 +100688,11 @@
     "brand": "Mobicell",
     "name": "PX12",
     "codename": "PX12"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "Q10",
+    "codename": "Q10"
   },
   {
     "brand": "Mobicell",
@@ -117196,12 +117301,32 @@
   },
   {
     "brand": "Oukitel",
+    "name": "S105B_RU",
+    "codename": "S105B"
+  },
+  {
+    "brand": "Oukitel",
+    "name": "S109_RU",
+    "codename": "S109"
+  },
+  {
+    "brand": "Oukitel",
     "name": "S115_EEA",
     "codename": "S115"
   },
   {
     "brand": "Oukitel",
+    "name": "S115_RU",
+    "codename": "S115"
+  },
+  {
+    "brand": "Oukitel",
     "name": "S118_EEA",
+    "codename": "S118"
+  },
+  {
+    "brand": "Oukitel",
+    "name": "S118_RU",
     "codename": "S118"
   },
   {
@@ -117538,6 +117663,11 @@
     "brand": "Oysters",
     "name": "T72HMs 3G",
     "codename": "T72HM3G"
+  },
+  {
+    "brand": "PAITANRY",
+    "name": "R16",
+    "codename": "R16"
   },
   {
     "brand": "PALSONIC",
@@ -121418,6 +121548,11 @@
     "brand": "Pixus",
     "name": "Pixus_Blast",
     "codename": "Pixus_Blast"
+  },
+  {
+    "brand": "Pixus",
+    "name": "Pixus_Drive",
+    "codename": "Pixus_Drive"
   },
   {
     "brand": "Pixus",
@@ -152056,6 +152191,11 @@
   },
   {
     "brand": "Siragon",
+    "name": "Siragon_SP_7300",
+    "codename": "Siragon_SP_7300"
+  },
+  {
+    "brand": "Siragon",
     "name": "TB-5300",
     "codename": "TB-5300"
   },
@@ -153643,6 +153783,16 @@
     "brand": "Smartfren",
     "name": "NEWAD688G",
     "codename": "NEWAD688G"
+  },
+  {
+    "brand": "Smarti",
+    "name": "Smarti T2 plus",
+    "codename": "Smarti_T2_plus"
+  },
+  {
+    "brand": "Smarti",
+    "name": "Smarti_Gen_1",
+    "codename": "Smarti_Gen_1"
   },
   {
     "brand": "Smartron",
@@ -157221,8 +157371,18 @@
   },
   {
     "brand": "SparX",
+    "name": "Neo 5 Pro",
+    "codename": "Neo_5_Pro"
+  },
+  {
+    "brand": "SparX",
     "name": "Neo 7 Plus",
     "codename": "Neo_5_Plus"
+  },
+  {
+    "brand": "SparX",
+    "name": "Neo 7 Ultra",
+    "codename": "Neo_7_Ultra"
   },
   {
     "brand": "SparX",
@@ -174901,6 +175061,11 @@
   },
   {
     "brand": "Ulefone",
+    "name": "Armor 22",
+    "codename": "Armor_22"
+  },
+  {
+    "brand": "Ulefone",
     "name": "Armor 2S",
     "codename": "Armor_2S"
   },
@@ -174946,6 +175111,11 @@
   },
   {
     "brand": "Ulefone",
+    "name": "Armor Pad Lite",
+    "codename": "ArmorPadLite"
+  },
+  {
+    "brand": "Ulefone",
     "name": "Armor X",
     "codename": "Armor_X"
   },
@@ -174958,6 +175128,21 @@
     "brand": "Ulefone",
     "name": "Armor X10 Pro",
     "codename": "Armor_X10_Pro"
+  },
+  {
+    "brand": "Ulefone",
+    "name": "Armor X12",
+    "codename": "Armor_X12"
+  },
+  {
+    "brand": "Ulefone",
+    "name": "Armor X12 Pro",
+    "codename": "Armor_X12_Pro"
+  },
+  {
+    "brand": "Ulefone",
+    "name": "Armor X13",
+    "codename": "Armor_X12_Pro"
   },
   {
     "brand": "Ulefone",
@@ -184971,6 +185156,11 @@
   },
   {
     "brand": "Walton",
+    "name": "WALPAD 10H Pro",
+    "codename": "WALPAD_10H_Pro"
+  },
+  {
+    "brand": "Walton",
     "name": "WALPAD 10P",
     "codename": "10P"
   },
@@ -187223,6 +187413,11 @@
     "brand": "X-TIGI",
     "name": "A55",
     "codename": "X-TIGI_A55"
+  },
+  {
+    "brand": "X-TIGI",
+    "name": "A90S",
+    "codename": "A90S"
   },
   {
     "brand": "X-TIGI",
@@ -200251,6 +200446,11 @@
   },
   {
     "brand": "benco",
+    "name": "benco S1 Plus",
+    "codename": "AEOP513"
+  },
+  {
+    "brand": "benco",
     "name": "benco V62",
     "codename": "AE9150"
   },
@@ -201863,6 +202063,16 @@
     "brand": "iHunt",
     "name": "iHunt S22  ULTRA",
     "codename": "iHuntS22ULTRA"
+  },
+  {
+    "brand": "iHunt",
+    "name": "iHunt S24 PLUS",
+    "codename": "iHunt_S24_PLUS"
+  },
+  {
+    "brand": "iHunt",
+    "name": "iHunt S24 ULTRA",
+    "codename": "iHunt_S24_ULTRA"
   },
   {
     "brand": "iHunt",
