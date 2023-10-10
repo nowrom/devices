@@ -1320,6 +1320,11 @@
     "codename": "AVA-RM-RX1"
   },
   {
+    "brand": "AVA(USA)",
+    "name": "AVA-RM-RX2-US",
+    "codename": "AVA-RM-RX2-US"
+  },
+  {
     "brand": "AVANGARD",
     "name": "R3",
     "codename": "R3"
@@ -28415,6 +28420,11 @@
     "codename": "BS703_EEA"
   },
   {
+    "brand": "DEPLAY",
+    "name": "BS801",
+    "codename": "BS801_EEA"
+  },
+  {
     "brand": "DEXP",
     "name": "A.350",
     "codename": "A350"
@@ -38130,6 +38140,16 @@
     "codename": "Q5_US"
   },
   {
+    "brand": "FACETEL",
+    "name": "W3_T_EEA",
+    "codename": "W3_T_EEA"
+  },
+  {
+    "brand": "FACETEL",
+    "name": "W3_T_US",
+    "codename": "W3_T_US"
+  },
+  {
     "brand": "FACILOTAB",
     "name": "Facilotab_L_Rubis",
     "codename": "Facilotab_L_Rubis"
@@ -38462,6 +38482,11 @@
   {
     "brand": "FOSSiBOT",
     "name": "F102",
+    "codename": "F102"
+  },
+  {
+    "brand": "FOSSiBOT",
+    "name": "F102 ROW",
     "codename": "F102"
   },
   {
@@ -41896,6 +41921,11 @@
   },
   {
     "brand": "GREATASIA",
+    "name": "E720_EEA",
+    "codename": "E720_EEA"
+  },
+  {
+    "brand": "GREATASIA",
     "name": "E9863",
     "codename": "E9863"
   },
@@ -42921,6 +42951,11 @@
   },
   {
     "brand": "Ghia",
+    "name": "GVPNT",
+    "codename": "GVPNT"
+  },
+  {
+    "brand": "Ghia",
     "name": "I1",
     "codename": "I1"
   },
@@ -43243,6 +43278,11 @@
     "brand": "Gigaset",
     "name": "GS5 Senior",
     "codename": "GS5_Senior"
+  },
+  {
+    "brand": "Gigaset",
+    "name": "GS6_PRO",
+    "codename": "GS6_PRO"
   },
   {
     "brand": "Gigaset",
@@ -72751,8 +72791,18 @@
   },
   {
     "brand": "JREN",
+    "name": "J10PLUS",
+    "codename": "J10PLUS"
+  },
+  {
+    "brand": "JREN",
     "name": "J10PRO",
     "codename": "J10PRO"
+  },
+  {
+    "brand": "JREN",
+    "name": "J11PLUS",
+    "codename": "J11PLUS"
   },
   {
     "brand": "JREN",
@@ -75201,6 +75251,11 @@
   },
   {
     "brand": "KYASTER",
+    "name": "KPad_U2_P",
+    "codename": "KPad_U2_P"
+  },
+  {
+    "brand": "KYASTER",
     "name": "KPad_U2_Pro",
     "codename": "KPad_U2_Pro"
   },
@@ -75703,6 +75758,11 @@
     "brand": "Karbonn",
     "name": "Platinum P9 Pro",
     "codename": "Platinum_P9_Pro"
+  },
+  {
+    "brand": "Karbonn",
+    "name": "ST101",
+    "codename": "ST101"
   },
   {
     "brand": "Karbonn",
@@ -92281,6 +92341,11 @@
   },
   {
     "brand": "Lexibook",
+    "name": "LT10",
+    "codename": "LT10"
+  },
+  {
+    "brand": "Lexibook",
     "name": "\"LexiTab 10\"\"\"",
     "codename": "MFC512"
   },
@@ -100053,6 +100118,11 @@
     "brand": "Miramage",
     "name": "MF3D2211",
     "codename": "MF3D2211"
+  },
+  {
+    "brand": "Miramage",
+    "name": "MTJ-X43FLS",
+    "codename": "barking"
   },
   {
     "brand": "Miramage",
@@ -111326,6 +111396,11 @@
   },
   {
     "brand": "Nuu",
+    "name": "A23 Plus",
+    "codename": "S6304LA"
+  },
+  {
+    "brand": "Nuu",
     "name": "A25",
     "codename": "S6703LA"
   },
@@ -114971,6 +115046,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO A1 5G",
+    "codename": "OP561D"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO A33",
     "codename": "OP4EEA"
   },
@@ -115023,6 +115103,11 @@
     "brand": "Oppo",
     "name": "OPPO K11 5G",
     "codename": "OP591D"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO K11x 5G",
+    "codename": "OP5925"
   },
   {
     "brand": "Oppo",
@@ -117653,6 +117738,11 @@
     "brand": "OwnMobile",
     "name": "Smart Plus Lte",
     "codename": "SMART_PLUS_LTE"
+  },
+  {
+    "brand": "Oxygen.id",
+    "name": "B866V2FA V3.4",
+    "codename": "B866V2FA"
   },
   {
     "brand": "Oysters",
@@ -121773,6 +121863,11 @@
     "brand": "Plimpton",
     "name": "Kids_10",
     "codename": "Kids_10"
+  },
+  {
+    "brand": "Plimpton",
+    "name": "Kids_10_EEA",
+    "codename": "Kids_10_EEA"
   },
   {
     "brand": "Plimpton",
@@ -152386,6 +152481,11 @@
   },
   {
     "brand": "Sky Devices",
+    "name": "Elite A63Max",
+    "codename": "Elite_A63MUS"
+  },
+  {
+    "brand": "Sky Devices",
     "name": "Elite B5",
     "codename": "Elite_B5"
   },
@@ -181741,6 +181841,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "V29e 5G",
+    "codename": "V2317"
+  },
+  {
+    "brand": "Vivo",
     "name": "V3",
     "codename": "PD1524"
   },
@@ -182048,6 +182153,11 @@
     "brand": "Vivo",
     "name": "Y17s",
     "codename": "V2310"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y200 5G",
+    "codename": "V2307"
   },
   {
     "brand": "Vivo",
@@ -184048,6 +184158,11 @@
     "brand": "Vortex",
     "name": "V50LTE",
     "codename": "V50LTE"
+  },
+  {
+    "brand": "Vortex",
+    "name": "VORTEX CM62",
+    "codename": "CM62"
   },
   {
     "brand": "Vortex",
@@ -190093,6 +190208,16 @@
     "brand": "YesTeL",
     "name": "X8_EEA",
     "codename": "X8_EEA"
+  },
+  {
+    "brand": "YesTeL",
+    "name": "X9_EEA",
+    "codename": "X9_EEA"
+  },
+  {
+    "brand": "YesTeL",
+    "name": "X9_US",
+    "codename": "X9_US"
   },
   {
     "brand": "Yettel",
@@ -200246,6 +200371,11 @@
   },
   {
     "brand": "Zuum",
+    "name": "STELLAR_M5",
+    "codename": "STELLAR_M5"
+  },
+  {
+    "brand": "Zuum",
     "name": "Stellar Max",
     "codename": "Stellar_Max"
   },
@@ -202228,6 +202358,11 @@
     "brand": "iMESH",
     "name": "IM-560",
     "codename": "IM-560"
+  },
+  {
+    "brand": "iMin",
+    "name": "D4 Pro",
+    "codename": "D4Pro"
   },
   {
     "brand": "iMin",
