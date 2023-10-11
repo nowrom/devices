@@ -4156,6 +4156,11 @@
   },
   {
     "brand": "Aiwa",
+    "name": "Aiwa",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "Aiwa",
     "name": "Android TV",
     "codename": "ikebukuro"
   },
@@ -21046,6 +21051,11 @@
   },
   {
     "brand": "CHAINWAY",
+    "name": "P80_B",
+    "codename": "P80_PRO"
+  },
+  {
+    "brand": "CHAINWAY",
     "name": "P80_EEA",
     "codename": "P80"
   },
@@ -25110,6 +25120,16 @@
     "codename": "Qtab10Plus"
   },
   {
+    "brand": "Compaq",
+    "name": "Venezuela",
+    "codename": "marina"
+  },
+  {
+    "brand": "Compaq",
+    "name": "Venezuela",
+    "codename": "nagata"
+  },
+  {
     "brand": "Concord",
     "name": "A10",
     "codename": "A10"
@@ -25877,6 +25897,11 @@
   {
     "brand": "Continental Edison",
     "name": "ContinentalEdison 4K Android",
+    "codename": "kenton"
+  },
+  {
+    "brand": "Continental Edison",
+    "name": "ContinentalEdison 4K Android TV",
     "codename": "kenton"
   },
   {
@@ -45821,7 +45846,7 @@
   },
   {
     "brand": "HIKVISION",
-    "name": "DS-D5C65RB_A",
+    "name": "DS-D5C65RB/A",
     "codename": "DS_D5C65RB_A"
   },
   {
@@ -50672,6 +50697,11 @@
   {
     "brand": "Haier",
     "name": "Haier MatrixTV CE",
+    "codename": "deto"
+  },
+  {
+    "brand": "Haier",
+    "name": "Haier MatrixTV CS",
     "codename": "deto"
   },
   {
@@ -75021,6 +75051,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "Leading Smart TV",
+    "codename": "minami"
+  },
+  {
+    "brand": "KTCtv",
     "name": "LikeMe",
     "codename": "zhongshan"
   },
@@ -75128,6 +75163,11 @@
     "brand": "KTCtv",
     "name": "SKY-ONE",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "STAR-TRACK",
+    "codename": "lavender"
   },
   {
     "brand": "KTCtv",
@@ -118540,6 +118580,11 @@
     "codename": "keoneae"
   },
   {
+    "brand": "PROTON",
+    "name": "PROTON Google TV",
+    "codename": "bandra"
+  },
+  {
     "brand": "PS_Mobile",
     "name": "Neo_Pro",
     "codename": "Neo_Pro"
@@ -131463,6 +131508,11 @@
     "brand": "SAELITE",
     "name": "MD1063B",
     "codename": "MD1063B"
+  },
+  {
+    "brand": "SAELITE",
+    "name": "SAELITE",
+    "codename": "mountbaker"
   },
   {
     "brand": "SAGI",
@@ -149025,6 +149075,11 @@
     "codename": "uguisudani"
   },
   {
+    "brand": "Seleco",
+    "name": "Seleco 4K Smart TV",
+    "codename": "barking"
+  },
+  {
     "brand": "Selectron",
     "name": "T856G",
     "codename": "T856G"
@@ -158063,6 +158118,11 @@
     "brand": "Steren",
     "name": "INTV 1000",
     "codename": "INTV"
+  },
+  {
+    "brand": "Steren",
+    "name": "INTV-ASIST",
+    "codename": "INTV_ASIST"
   },
   {
     "brand": "Steren",
@@ -174571,6 +174631,11 @@
   },
   {
     "brand": "TrueIDTV",
+    "name": "CHMT52",
+    "codename": "GIU7AG0D"
+  },
+  {
+    "brand": "TrueIDTV",
     "name": "T3AMX3",
     "codename": "SEI600TID"
   },
@@ -178483,6 +178548,11 @@
     "brand": "VerD",
     "name": "E2",
     "codename": "E2"
+  },
+  {
+    "brand": "Verizon",
+    "name": "Fios TV",
+    "codename": "SCSIP02"
   },
   {
     "brand": "Verizon",
