@@ -117656,6 +117656,11 @@
   },
   {
     "brand": "Oukitel",
+    "name": "WP27_RU",
+    "codename": "WP27"
+  },
+  {
+    "brand": "Oukitel",
     "name": "WP5",
     "codename": "WP5"
   },
@@ -129566,6 +129571,16 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi 12 5G",
+    "codename": "XIG03"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi 12 5G",
+    "codename": "river"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi 12C",
     "codename": "aether"
   },
@@ -132152,6 +132167,11 @@
   {
     "brand": "SMART Technologies",
     "name": "AM60 series",
+    "codename": "komodo"
+  },
+  {
+    "brand": "SMART Technologies",
+    "name": "SMART AMG series",
     "codename": "komodo"
   },
   {
@@ -181838,6 +181858,11 @@
     "brand": "Vivo",
     "name": "V2220A",
     "codename": "PD2220"
+  },
+  {
+    "brand": "Vivo",
+    "name": "V2279A",
+    "codename": "PD2279J"
   },
   {
     "brand": "Vivo",

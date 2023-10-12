@@ -50,5 +50,5 @@ xda_thread = "https://forum.xda-developers.com/t/rom-13-0-munch-official-pixel-e
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.3"
+version = "v6.7"
 developer = "erwinabs"

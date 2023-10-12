@@ -15,6 +15,11 @@ maintainer = "dianlujitao"
 id = "cherishos"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/wsa-mtg/files/arm64/20230920/MindTheGapps-13.0.0-arm64-20230920.zip/download"
+recovery = ""
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

@@ -1,6 +1,6 @@
-brand = "Motorola"
+brand = "Redmi"
 codename = "river"
-name = "moto g(7)"
+name = "Redmi 12 5G"
 
 [[recoveries]]
 id = "twrp"
