@@ -2086,6 +2086,16 @@
   },
   {
     "brand": "Acer",
+    "name": "Acer",
+    "codename": "anglelake"
+  },
+  {
+    "brand": "Acer",
+    "name": "Acer",
+    "codename": "waiawa"
+  },
+  {
+    "brand": "Acer",
     "name": "Acer Chromebook 11 (C740)",
     "codename": "paine_cheets"
   },
@@ -28146,6 +28156,11 @@
   },
   {
     "brand": "Cubot",
+    "name": "TAB 50",
+    "codename": "TAB_50"
+  },
+  {
+    "brand": "Cubot",
     "name": "TAB KINGKONG",
     "codename": "TAB_KINGKONG"
   },
@@ -38531,6 +38546,11 @@
   },
   {
     "brand": "FOXXD",
+    "name": "C10",
+    "codename": "C10"
+  },
+  {
+    "brand": "FOXXD",
     "name": "FOXXD C65",
     "codename": "FOXXD_C65"
   },
@@ -44983,6 +45003,16 @@
     "brand": "Google",
     "name": "Pixel 7a",
     "codename": "lynx"
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel 8",
+    "codename": "shiba"
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel 8 Pro",
+    "codename": "husky"
   },
   {
     "brand": "Google",
@@ -68581,6 +68611,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "Infinix SMART 8",
+    "codename": "Infinix-X6525"
+  },
+  {
+    "brand": "Infinix",
     "name": "Infinix X5010",
     "codename": "Infinix-X5010"
   },
@@ -71603,6 +71638,11 @@
     "brand": "Itel",
     "name": "A62",
     "codename": "itel-A62"
+  },
+  {
+    "brand": "Itel",
+    "name": "A70",
+    "codename": "itel-A665L"
   },
   {
     "brand": "Itel",
@@ -86898,6 +86938,16 @@
     "brand": "Lava",
     "name": "BLAZE 5G",
     "codename": "LXX503"
+  },
+  {
+    "brand": "Lava",
+    "name": "Blaze 2 Pro",
+    "codename": "LZX406"
+  },
+  {
+    "brand": "Lava",
+    "name": "Blaze Pro 5G",
+    "codename": "LXX506"
   },
   {
     "brand": "Lava",
@@ -130032,6 +130082,11 @@
   {
     "brand": "Redmi",
     "name": "Redmi Note 11 Pro",
+    "codename": "vida"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 11 Pro",
     "codename": "viva"
   },
   {
@@ -171571,6 +171626,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO",
+    "codename": "TECNO-BG6"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO AX8",
     "codename": "TECNO-AX8"
   },
@@ -180378,6 +180438,11 @@
     "brand": "Visual Land",
     "name": "Elite10QH",
     "codename": "Elite10QH"
+  },
+  {
+    "brand": "Visual Land",
+    "name": "Elite10QHPro",
+    "codename": "Elite10QHPro"
   },
   {
     "brand": "Visual Land",
@@ -201068,6 +201133,11 @@
     "brand": "du (UAE)",
     "name": "IPBS9520",
     "codename": "IPBS9520"
+  },
+  {
+    "brand": "du (UAE)",
+    "name": "du TV",
+    "codename": "f515"
   },
   {
     "brand": "duraMOBI",
