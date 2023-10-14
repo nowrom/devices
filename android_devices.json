@@ -112136,6 +112136,11 @@
   },
   {
     "brand": "OMIX",
+    "name": "X4",
+    "codename": "OMIX_X4"
+  },
+  {
+    "brand": "OMIX",
     "name": "X400",
     "codename": "X400"
   },
@@ -146558,6 +146563,11 @@
     "brand": "Samsung",
     "name": "Galaxy Tab S9 FE+",
     "codename": "gts9fepwifi"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S9 FE+ 5G",
+    "codename": "SCT22"
   },
   {
     "brand": "Samsung",
