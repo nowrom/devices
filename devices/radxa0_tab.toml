@@ -1,6 +1,6 @@
 brand = "Radxa"
-codename = "radxa0"
-name = "Zero (Android TV)"
+codename = "radxa0_tab"
+name = "Zero (Tablet)"
 recoveries = []
 
 [[roms]]

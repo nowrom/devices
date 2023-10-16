@@ -1,6 +1,6 @@
 brand = "HardKernel"
 codename = "odroidc4"
-name = "ODROID-C4"
+name = "ODROID-C4 (Android TV)"
 recoveries = []
 
 [[roms]]

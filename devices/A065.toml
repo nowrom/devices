@@ -1,8 +1,0 @@
-brand = "Micromax"
-codename = "A065"
-name = "Bolt"
-roms = []
-
-[[recoveries]]
-id = "orangefox"
-supported = false
