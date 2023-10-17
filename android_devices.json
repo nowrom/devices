@@ -4261,6 +4261,11 @@
   },
   {
     "brand": "Aiwa",
+    "name": "TAB-1100",
+    "codename": "TAB-1100"
+  },
+  {
+    "brand": "Aiwa",
     "name": "TAB-1102",
     "codename": "TAB-1102"
   },
@@ -129636,6 +129641,11 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi 12 5G",
+    "codename": "river"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi 12C",
     "codename": "aether"
   },
@@ -159398,6 +159408,11 @@
     "brand": "SwissMobility",
     "name": "Z9",
     "codename": "Z9"
+  },
+  {
+    "brand": "Swisscom",
+    "name": "TV-Box5",
+    "codename": "IP2300"
   },
   {
     "brand": "Swisstone",

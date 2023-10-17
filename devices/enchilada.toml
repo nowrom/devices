@@ -24,7 +24,7 @@ id = "cherishos"
 [[roms]]
 id = "crdroid"
 gapps = "https://nikgapps.com/Terminator-J"
-recovery = "https://sourceforge.net/projects/crdroid/files/enchilada/9.x/crDroidAndroid-13.0-20230903-enchilada-v9.8_boot.img/download"
+recovery = "https://sourceforge.net/projects/crdroid/files/enchilada/9.x/crDroidAndroid-13.0-20231015-enchilada-v9.9_boot.img/download"
 
 [[roms]]
 id = "dotos"
