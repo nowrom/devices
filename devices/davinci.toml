@@ -26,11 +26,6 @@ id = "blissroms"
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
-recovery = "https://miracle.girlswithout.top/recoveries/TWRP/fbev2/twrp_davinci-3.6.2p-061022.img"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

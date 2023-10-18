@@ -6866,6 +6866,11 @@
   },
   {
     "brand": "Arcelik",
+    "name": "Arcelik Google TV UHD+",
+    "codename": "wanchai"
+  },
+  {
+    "brand": "Arcelik",
     "name": "B55L 9682 5AS",
     "codename": "arcelik_eu"
   },
@@ -15422,6 +15427,11 @@
   {
     "brand": "Beko",
     "name": "Beko Google TV",
+    "codename": "wanchai"
+  },
+  {
+    "brand": "Beko",
+    "name": "Beko Google TV UHD+",
     "codename": "wanchai"
   },
   {
@@ -45416,6 +45426,11 @@
   },
   {
     "brand": "Grundig",
+    "name": "Grundig Google TV UHD+",
+    "codename": "wanchai"
+  },
+  {
+    "brand": "Grundig",
     "name": "Grundig UHD Android TV",
     "codename": "kunyang"
   },
@@ -66675,6 +66690,11 @@
     "codename": "N5"
   },
   {
+    "brand": "IMAGO",
+    "name": "AIOS",
+    "codename": "AIOS"
+  },
+  {
     "brand": "IMARFLEX",
     "name": "IMARFLEX 2K Android TV",
     "codename": "lasalle"
@@ -66801,8 +66821,18 @@
   },
   {
     "brand": "INNOVA",
+    "name": "INNOVA 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "INNOVA",
     "name": "INNOVA 4K Android TV",
     "codename": "kenton"
+  },
+  {
+    "brand": "INNOVA",
+    "name": "INNOVA 4K Google TV",
+    "codename": "keoneae"
   },
   {
     "brand": "INOI",
@@ -74471,6 +74501,11 @@
   },
   {
     "brand": "KONKA",
+    "name": "HK Google TV-A",
+    "codename": "bandra"
+  },
+  {
+    "brand": "KONKA",
     "name": "HYUNDAI 4K Google TV-E",
     "codename": "keoneae"
   },
@@ -74907,6 +74942,11 @@
   {
     "brand": "KTCtv",
     "name": "CHIMEI",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "CHIMEI",
     "codename": "zhongshan"
   },
   {
@@ -75171,6 +75211,16 @@
   },
   {
     "brand": "KTCtv",
+    "name": "QRIOM",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "QRIOM",
+    "codename": "lavender"
+  },
+  {
+    "brand": "KTCtv",
     "name": "RENYA",
     "codename": "mountbaker"
   },
@@ -75208,6 +75258,11 @@
     "brand": "KTCtv",
     "name": "SKY-ONE",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "STAR-TRACK",
+    "codename": "lavender"
   },
   {
     "brand": "KTCtv",
@@ -132181,6 +132236,11 @@
   },
   {
     "brand": "SK broadband",
+    "name": "BKO-UC500",
+    "codename": "K1100UA"
+  },
+  {
+    "brand": "SK broadband",
     "name": "PlayZ",
     "codename": "BIP-EB100"
   },
@@ -149171,6 +149231,11 @@
   },
   {
     "brand": "Seleco",
+    "name": "Seleco 2K Smart TV",
+    "codename": "beaudry"
+  },
+  {
+    "brand": "Seleco",
     "name": "Seleco 4K Smart TV",
     "codename": "barking"
   },
@@ -157953,6 +158018,11 @@
     "brand": "Star-X",
     "name": "United Arab Emirates",
     "codename": "martin"
+  },
+  {
+    "brand": "StarBoard",
+    "name": "Starboard Solution Inc",
+    "codename": "TE_YL"
   },
   {
     "brand": "StarHub",
@@ -189107,6 +189177,11 @@
   {
     "brand": "Xiaomi",
     "name": "MiTV",
+    "codename": "irobot"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MiTV",
     "codename": "machuca"
   },
   {
@@ -189133,6 +189208,21 @@
     "brand": "Xiaomi",
     "name": "MiTV",
     "codename": "tarzan"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MiTV",
+    "codename": "venom"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MiTV",
+    "codename": "venom"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MiTV",
+    "codename": "venom"
   },
   {
     "brand": "Xiaomi",
@@ -189553,6 +189643,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi 13T",
     "codename": "aristotle"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 13T Pro",
+    "codename": "corot"
   },
   {
     "brand": "Xiaomi",
@@ -203233,6 +203328,11 @@
     "brand": "innos",
     "name": "innos 4K Google TV-A",
     "codename": "keoneae"
+  },
+  {
+    "brand": "innos",
+    "name": "innos Google TV",
+    "codename": "bandra"
   },
   {
     "brand": "intelkom",
