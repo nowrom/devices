@@ -45072,6 +45072,11 @@
   {
     "brand": "Google",
     "name": "Pixel Watch 2",
+    "codename": "aurora"
+  },
+  {
+    "brand": "Google",
+    "name": "Pixel Watch 2",
     "codename": "eos"
   },
   {
@@ -51588,6 +51593,11 @@
     "brand": "Hi-online",
     "name": "HMR5450",
     "codename": "HMR5450"
+  },
+  {
+    "brand": "HiMedia",
+    "name": "RES102",
+    "codename": "Station"
   },
   {
     "brand": "HiMedia",
@@ -75218,6 +75228,11 @@
     "brand": "KTCtv",
     "name": "QRIOM",
     "codename": "lavender"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "QRIOM",
+    "codename": "mountbaker"
   },
   {
     "brand": "KTCtv",
@@ -112163,6 +112178,11 @@
     "brand": "OLAX",
     "name": "Magic_Q8",
     "codename": "Magic_Q8"
+  },
+  {
+    "brand": "OLAX",
+    "name": "Ocean K8",
+    "codename": "Ocean_K8"
   },
   {
     "brand": "OLAX",
@@ -171686,6 +171706,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "SPARK Go 2024",
+    "codename": "TECNO-BG6"
+  },
+  {
+    "brand": "Tecno",
     "name": "SPARK Go Plus",
     "codename": "TECNO-BB4k"
   },
@@ -189168,6 +189193,11 @@
     "brand": "Xiaomi",
     "name": "MiTV",
     "codename": "hermano"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MiTV",
+    "codename": "irobot"
   },
   {
     "brand": "Xiaomi",
