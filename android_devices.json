@@ -131146,8 +131146,23 @@
   },
   {
     "brand": "Rhino",
+    "name": "nova",
+    "codename": "nova"
+  },
+  {
+    "brand": "Rhino",
     "name": "portal",
     "codename": "portal"
+  },
+  {
+    "brand": "Rhino",
+    "name": "scout",
+    "codename": "scout"
+  },
+  {
+    "brand": "Rhino",
+    "name": "scoutxl",
+    "codename": "scoutxl"
   },
   {
     "brand": "RiksTV",
