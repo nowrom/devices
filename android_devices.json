@@ -15646,6 +15646,11 @@
   },
   {
     "brand": "BenQ",
+    "name": "RM6504",
+    "codename": "RM6504"
+  },
+  {
+    "brand": "BenQ",
     "name": "RM7504",
     "codename": "RM7504"
   },
@@ -18738,6 +18743,11 @@
     "brand": "Blu",
     "name": "G61S",
     "codename": "G0630WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "G63",
+    "codename": "G0860"
   },
   {
     "brand": "Blu",
@@ -28377,6 +28387,11 @@
   {
     "brand": "DABLIU",
     "name": "E13R",
+    "codename": "E13R_B100G"
+  },
+  {
+    "brand": "DABLIU",
+    "name": "E13R",
     "codename": "E13R_B75G"
   },
   {
@@ -29473,6 +29488,11 @@
     "brand": "DIALN",
     "name": "G65",
     "codename": "G65"
+  },
+  {
+    "brand": "DIALN",
+    "name": "Neo",
+    "codename": "NeoA"
   },
   {
     "brand": "DIALN",
@@ -72148,6 +72168,11 @@
     "brand": "Itel",
     "name": "itel 4K TV",
     "codename": "SW4H"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel A04",
+    "codename": "itel-A632W"
   },
   {
     "brand": "Itel",
@@ -149570,6 +149595,11 @@
     "codename": "hht8b"
   },
   {
+    "brand": "Shaks",
+    "name": "Gretzky",
+    "codename": "TSA"
+  },
+  {
     "brand": "Sharp",
     "name": "SH7218T",
     "codename": "SH7218T"
@@ -152698,6 +152728,11 @@
     "brand": "Sky Devices",
     "name": "Elite 5T",
     "codename": "Elite_5T_GT"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "Elite 6Max",
+    "codename": "Elite_6Max"
   },
   {
     "brand": "Sky Devices",
