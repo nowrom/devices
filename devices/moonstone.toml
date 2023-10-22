@@ -1,0 +1,9 @@
+brand = "Xiaomi"
+codename = "moonstone"
+name = "Xiaomi Poco X5 5G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://forum.xda-developers.com/t/recovery-12-13-moonstone-sunstone-teamwin-recovery-project-for-xiaomi-poco-x5-redmi-note-12-5g.4632979/"
+maintainer = "erwinabs"

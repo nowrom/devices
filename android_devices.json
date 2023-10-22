@@ -68711,6 +68711,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "Infinix ZERO 30",
+    "codename": "Infinix-X6731B"
+  },
+  {
+    "brand": "Infinix",
     "name": "Infinix ZERO 5G",
     "codename": "Infinix-X6815B"
   },
@@ -68828,11 +68833,6 @@
     "brand": "Infinix",
     "name": "NOTE 30i",
     "codename": "Infinix-X6716"
-  },
-  {
-    "brand": "Infinix",
-    "name": "NOTE 30i",
-    "codename": "Infinix-X6731B"
   },
   {
     "brand": "Infinix",
@@ -183563,6 +183563,11 @@
     "brand": "Vivo",
     "name": "vivo Y77",
     "codename": "PD2219"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo Y78t",
+    "codename": "PD2312"
   },
   {
     "brand": "Vivo",
