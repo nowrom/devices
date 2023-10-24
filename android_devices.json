@@ -13771,6 +13771,11 @@
   },
   {
     "brand": "BMobile",
+    "name": "BL55",
+    "codename": "Bmobile_BL55"
+  },
+  {
+    "brand": "BMobile",
     "name": "BL55_PRO_MV12",
     "codename": "Bmobile_BL55_PRO_MV12"
   },
@@ -30943,6 +30948,11 @@
     "brand": "Denver Electronics",
     "name": "TIQ_1048",
     "codename": "TIQ_1048"
+  },
+  {
+    "brand": "Detco",
+    "name": "Detco 4K Google TV",
+    "codename": "keoneae"
   },
   {
     "brand": "Deutsche Telekom",
@@ -113496,6 +113506,11 @@
   },
   {
     "brand": "OnePlus",
+    "name": "Open",
+    "codename": "OP5973L1"
+  },
+  {
+    "brand": "OnePlus",
     "name": "PHP110",
     "codename": "OP5927"
   },
@@ -115038,6 +115053,11 @@
     "brand": "Oppo",
     "name": "Find N2 Flip 中国版",
     "codename": "OP5605"
+  },
+  {
+    "brand": "Oppo",
+    "name": "Find N3",
+    "codename": "OP56BBL1"
   },
   {
     "brand": "Oppo",
@@ -161141,6 +161161,11 @@
   },
   {
     "brand": "TCL",
+    "name": "TCL 502",
+    "codename": "Rio_CAN"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL A3X",
     "codename": "Delhi_TF"
   },
@@ -170507,6 +170532,11 @@
   {
     "brand": "Teclast",
     "name": "T40HD_ROW",
+    "codename": "T40HD_ROW"
+  },
+  {
+    "brand": "Teclast",
+    "name": "T40HD_ROW",
     "codename": "T40HD_T"
   },
   {
@@ -172113,6 +172143,16 @@
     "brand": "Tecno",
     "name": "TECNO SPARK 10C",
     "codename": "TECNO-KI5m"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 20",
+    "codename": "TECNO-KJ5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 20",
+    "codename": "TECNO-KJ5n"
   },
   {
     "brand": "Tecno",
@@ -203363,6 +203403,11 @@
     "brand": "imiia",
     "name": "i-217D1",
     "codename": "YUL"
+  },
+  {
+    "brand": "imiia",
+    "name": "imiia 4K Google TV-Y",
+    "codename": "keoneae"
   },
   {
     "brand": "imose",
