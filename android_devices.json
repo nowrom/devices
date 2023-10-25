@@ -51245,6 +51245,11 @@
     "codename": "HelloGenius"
   },
   {
+    "brand": "Hami TV",
+    "name": "HamiVideo",
+    "codename": "HamiVideo"
+  },
+  {
     "brand": "Hamic",
     "name": "MIELS",
     "codename": "MIELS"
@@ -75096,6 +75101,16 @@
   },
   {
     "brand": "KTCtv",
+    "name": "FOL",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "FOL",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
     "name": "FPS",
     "codename": "hongkong"
   },
@@ -75123,6 +75138,11 @@
     "brand": "KTCtv",
     "name": "Golbal",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "HARMON-TEC",
+    "codename": "hongkong"
   },
   {
     "brand": "KTCtv",
@@ -75328,6 +75348,11 @@
     "brand": "KTCtv",
     "name": "Smart TV",
     "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "VEIRA",
+    "codename": "lavender"
   },
   {
     "brand": "KTCtv",
@@ -105281,6 +105306,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "motorola edge 2023",
+    "codename": "aion"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola edge 2023",
+    "codename": "aion"
+  },
+  {
+    "brand": "Motorola",
     "name": "motorola edge 30",
     "codename": "dubai"
   },
@@ -111128,6 +111163,11 @@
     "brand": "Nokia",
     "name": "Nokia T21",
     "codename": "AGTA"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia TV",
+    "codename": "marina"
   },
   {
     "brand": "Nokia",
@@ -139683,6 +139723,11 @@
     "brand": "Samsung",
     "name": "Galaxy Jump2",
     "codename": "m33x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Jump3",
+    "codename": "m44x"
   },
   {
     "brand": "Samsung",
