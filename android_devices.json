@@ -51151,6 +51151,11 @@
   },
   {
     "brand": "Haier",
+    "name": "Tablet_P20",
+    "codename": "Tablet_P20"
+  },
+  {
+    "brand": "Haier",
     "name": "Titan T3 Pro",
     "codename": "Titan_T3_Pro"
   },
@@ -56761,6 +56766,16 @@
   },
   {
     "brand": "Honor",
+    "name": "HONOR Magic6 Lite 5G",
+    "codename": "HNALI-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR Magic6 Lite 5G",
+    "codename": "HNALI-Q"
+  },
+  {
+    "brand": "Honor",
     "name": "HONOR Pad 8",
     "codename": "HNHEY-Q"
   },
@@ -56938,6 +56953,11 @@
     "brand": "Honor",
     "name": "HONOR X9a 5G",
     "codename": "HNRMO-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X9b 5G",
+    "codename": "HNALI-Q"
   },
   {
     "brand": "Honor",
@@ -86056,6 +86076,11 @@
   },
   {
     "brand": "LUNA",
+    "name": "LUNA V6 4GB",
+    "codename": "LUNA_V6_4GB"
+  },
+  {
+    "brand": "LUNA",
     "name": "LUNA_G6",
     "codename": "G6"
   },
@@ -86653,6 +86678,11 @@
     "brand": "Lanix",
     "name": "NA",
     "codename": "stanford"
+  },
+  {
+    "brand": "Lanix",
+    "name": "RX7_v3",
+    "codename": "RX7_v3"
   },
   {
     "brand": "Lanix",
@@ -113931,6 +113961,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "A18",
+    "codename": "OP575DL1"
+  },
+  {
+    "brand": "Oppo",
     "name": "A1k",
     "codename": "OP486C"
   },
@@ -114048,6 +114083,11 @@
     "brand": "Oppo",
     "name": "A37tm",
     "codename": "A37"
+  },
+  {
+    "brand": "Oppo",
+    "name": "A38",
+    "codename": "OP5759L1"
   },
   {
     "brand": "Oppo",
@@ -114408,6 +114448,16 @@
     "brand": "Oppo",
     "name": "A79",
     "codename": "A79"
+  },
+  {
+    "brand": "Oppo",
+    "name": "A79 5G",
+    "codename": "OP573DL1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "A79 5G",
+    "codename": "OP573DL1"
   },
   {
     "brand": "Oppo",
@@ -115097,7 +115147,22 @@
   {
     "brand": "Oppo",
     "name": "Find N3",
+    "codename": "OP55F3L1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "Find N3",
     "codename": "OP56BBL1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "Find N3 Flip",
+    "codename": "OP5607L1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "Find N3 Flip",
+    "codename": "OP56CFL1"
   },
   {
     "brand": "Oppo",
@@ -131330,6 +131395,11 @@
     "codename": "NovaTab_R10"
   },
   {
+    "brand": "Rizzen",
+    "name": "X1",
+    "codename": "X1"
+  },
+  {
     "brand": "RoadQuest",
     "name": "RoadQuest",
     "codename": "RQ-G"
@@ -133138,6 +133208,11 @@
     "brand": "SSmooth",
     "name": "Smooth 5.5 MAX",
     "codename": "Smooth_5_5_MAX"
+  },
+  {
+    "brand": "SSmooth",
+    "name": "Smooth 6.0",
+    "codename": "Smooth_6_0"
   },
   {
     "brand": "SSmooth",
@@ -151071,6 +151146,16 @@
   },
   {
     "brand": "Sharp",
+    "name": "FK1",
+    "codename": "mongkok"
+  },
+  {
+    "brand": "Sharp",
+    "name": "FK1",
+    "codename": "mongkok"
+  },
+  {
+    "brand": "Sharp",
     "name": "FS8014",
     "codename": "SE3"
   },
@@ -153503,6 +153588,11 @@
     "brand": "Sky Devices",
     "name": "SKY KID1",
     "codename": "SKY_KID1"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "SKY KID1",
+    "codename": "SKY_KID1us"
   },
   {
     "brand": "Sky Devices",
