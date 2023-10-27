@@ -15661,6 +15661,11 @@
   },
   {
     "brand": "BenQ",
+    "name": "RM8604",
+    "codename": "RM8604"
+  },
+  {
+    "brand": "BenQ",
     "name": "RP8604",
     "codename": "RP8604"
   },
@@ -77451,6 +77456,11 @@
   },
   {
     "brand": "Korea Telecom",
+    "name": "KG3100",
+    "codename": "KG3100"
+  },
+  {
+    "brand": "Korea Telecom",
     "name": "KG4100",
     "codename": "KG4100"
   },
@@ -77473,6 +77483,11 @@
     "brand": "Korea Telecom",
     "name": "MA4100",
     "codename": "MA4100"
+  },
+  {
+    "brand": "Korea Telecom",
+    "name": "MAR4510C",
+    "codename": "MAR4510C"
   },
   {
     "brand": "Krik Krak",
@@ -125840,6 +125855,11 @@
     "codename": "TL49B11G"
   },
   {
+    "brand": "Prestigio_Solutions",
+    "name": "Virtuoso PSTA101",
+    "codename": "HE10A3L"
+  },
+  {
     "brand": "Prime",
     "name": "O9",
     "codename": "PRIME_O9"
@@ -172271,6 +172291,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO SPARK 10 Pro",
+    "codename": "TECNO-KI7"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO SPARK 10C",
     "codename": "TECNO-KI5k"
   },
@@ -201428,6 +201453,11 @@
     "brand": "care.ai",
     "name": "AIM H1",
     "codename": "AIM-H1"
+  },
+  {
+    "brand": "careai",
+    "name": "AMS-R2O",
+    "codename": "AMS_R2O"
   },
   {
     "brand": "carp(IN)",

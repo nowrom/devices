@@ -17,7 +17,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Immanuel_Raj(@iamimmanuelraj)"
-changelog = "Testing New Hals & 64 Bit only and New Blobs"
+changelog = "FIxed FP"
 
 [[roms]]
 id = "blissroms"

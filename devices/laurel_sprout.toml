@@ -36,14 +36,14 @@ id = "pixelextended"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.6"
+version = "v4.9"
 developer = "magicxavi"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.7"
-developer = "HarukeyUA"
+version = "v6.6"
+developer = "magicxavi"
 
 [[roms]]
 id = "syberia"
@@ -54,8 +54,8 @@ developer = "magicxavi"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
-developer = "magicxavi"
+version = "v3.7"
+developer = "HarukeyUA"
 
 [specs]
 cpu = "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)"
