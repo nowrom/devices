@@ -189467,6 +189467,11 @@
   {
     "brand": "Xiaomi",
     "name": "MiTV",
+    "codename": "irobot"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "MiTV",
     "codename": "machuca"
   },
   {
