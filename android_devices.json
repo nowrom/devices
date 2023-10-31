@@ -41956,6 +41956,11 @@
   },
   {
     "brand": "GOtv",
+    "name": "GO700FR",
+    "codename": "GoFreeTV"
+  },
+  {
+    "brand": "GOtv",
     "name": "SEI600GO",
     "codename": "HND"
   },
@@ -42223,6 +42228,16 @@
     "brand": "Galexia",
     "name": "GL9002",
     "codename": "GL9002"
+  },
+  {
+    "brand": "Gangnam",
+    "name": "GANGNAM",
+    "codename": "anglelake"
+  },
+  {
+    "brand": "Gangnam",
+    "name": "Gangnam",
+    "codename": "waiawa"
   },
   {
     "brand": "Garad",
@@ -182822,6 +182837,11 @@
   {
     "brand": "Vivo",
     "name": "Y36",
+    "codename": "PD2318"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y36",
     "codename": "V2247"
   },
   {
@@ -182833,6 +182853,11 @@
     "brand": "Vivo",
     "name": "Y36 5G",
     "codename": "V2248"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y36m",
+    "codename": "PD2318"
   },
   {
     "brand": "Vivo",
@@ -198831,6 +198856,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade A34",
+    "codename": "P963F94_A"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade A3v",
     "codename": "Z5157"
   },
@@ -198963,6 +198993,11 @@
     "brand": "ZTE",
     "name": "ZTE Blade A531",
     "codename": "P932F10"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A54",
+    "codename": "P963F64"
   },
   {
     "brand": "ZTE",
