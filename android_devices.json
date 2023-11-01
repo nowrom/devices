@@ -13836,6 +13836,11 @@
   },
   {
     "brand": "BMobile",
+    "name": "BL63",
+    "codename": "Bmobile_BL63"
+  },
+  {
+    "brand": "BMobile",
     "name": "BL63Pro",
     "codename": "Bmobile_BL63Pro"
   },
@@ -20766,6 +20771,11 @@
   },
   {
     "brand": "CAIXUN",
+    "name": "Caixun TV",
+    "codename": "marina"
+  },
+  {
+    "brand": "CAIXUN",
     "name": "Canada",
     "codename": "yeongdeungpo"
   },
@@ -20833,6 +20843,11 @@
     "brand": "CAIXUN",
     "name": "Mexico",
     "codename": "yeongdeungpo"
+  },
+  {
+    "brand": "CAIXUN",
+    "name": "Newal 4K SMART TV",
+    "codename": "marina"
   },
   {
     "brand": "CAIXUN",
@@ -38653,6 +38668,11 @@
     "brand": "FOXXD",
     "name": "T8Pro",
     "codename": "T8Pro"
+  },
+  {
+    "brand": "FPD",
+    "name": "FPD",
+    "codename": "hongkong"
   },
   {
     "brand": "FPT Telecom",
@@ -65786,6 +65806,11 @@
   },
   {
     "brand": "Hyundai",
+    "name": "BOLIVIA",
+    "codename": "nagata"
+  },
+  {
+    "brand": "Hyundai",
     "name": "BS5002",
     "codename": "redwood"
   },
@@ -68561,6 +68586,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "Infinix HOT 40",
+    "codename": "Infinix-X6836"
+  },
+  {
+    "brand": "Infinix",
     "name": "Infinix HOT 6X",
     "codename": "Infinix-X623"
   },
@@ -68732,6 +68762,11 @@
   {
     "brand": "Infinix",
     "name": "Infinix SMART 8",
+    "codename": "Infinix-X6525"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix SMART 8 HD",
     "codename": "Infinix-X6525"
   },
   {
@@ -75186,6 +75221,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "HARMON-TEC",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
     "name": "ICE",
     "codename": "stanford"
   },
@@ -75193,6 +75233,11 @@
     "brand": "KTCtv",
     "name": "ICE",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "IMMER",
+    "codename": "hongkong"
   },
   {
     "brand": "KTCtv",
@@ -106726,6 +106771,11 @@
   },
   {
     "brand": "Multilaser",
+    "name": "M9_WIFI",
+    "codename": "ML_JI0U_M9_WIFI"
+  },
+  {
+    "brand": "Multilaser",
     "name": "ML-JI-M7_3G_PLUS",
     "codename": "ML-JI-M7_3G_PLUS"
   },
@@ -133311,6 +133361,11 @@
   },
   {
     "brand": "STARSHINE",
+    "name": "STARSHINE",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "STARSHINE",
     "name": "STARSHINE 2K Google TV",
     "codename": "capitolhill"
   },
@@ -145931,6 +145986,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Tab A9+ 5G",
+    "codename": "gta9p"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Tab Active",
     "codename": "rubenslte"
   },
@@ -151903,6 +151963,11 @@
     "brand": "Sharp",
     "name": "Sharp",
     "codename": "ewha"
+  },
+  {
+    "brand": "Sharp",
+    "name": "Sharp",
+    "codename": "kaitak"
   },
   {
     "brand": "Sharp",
@@ -177186,6 +177251,16 @@
   },
   {
     "brand": "Umidigi",
+    "name": "UMIDIGI G5C",
+    "codename": "UMIDIGI_G5C"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "UMIDIGI G5C EEA",
+    "codename": "UMIDIGI_G5C"
+  },
+  {
+    "brand": "Umidigi",
     "name": "UMIDIGI X",
     "codename": "UMIDIGI_X"
   },
@@ -195611,6 +195686,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "P601",
+    "codename": "P963F80"
+  },
+  {
+    "brand": "ZTE",
     "name": "P609",
     "codename": "P609"
   },
@@ -199763,6 +199843,11 @@
     "brand": "Zebra",
     "name": "ET5X",
     "codename": "ET55T"
+  },
+  {
+    "brand": "Zebra",
+    "name": "ET65",
+    "codename": "ET65"
   },
   {
     "brand": "Zebra",
