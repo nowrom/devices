@@ -1,7 +1,10 @@
 brand = "Redmi"
 codename = "spes"
 name = "Redmi Note 11"
-recoveries = []
+
+[[recoveries]]
+id = "orangefox"
+supported = true
 
 [[roms]]
 id = "crdroid"
