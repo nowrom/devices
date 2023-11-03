@@ -50831,6 +50831,11 @@
   },
   {
     "brand": "Haier",
+    "name": "Haier MatrixTV CN",
+    "codename": "deto"
+  },
+  {
+    "brand": "Haier",
     "name": "Haier MatrixTV CS",
     "codename": "deto"
   },
@@ -76123,6 +76128,11 @@
     "brand": "Karbonn",
     "name": "Titanium_S9_Plus",
     "codename": "Karbonn_Titanium_S9_Plus"
+  },
+  {
+    "brand": "Karbonn",
+    "name": "X23",
+    "codename": "X23"
   },
   {
     "brand": "Karma",
@@ -123516,6 +123526,11 @@
   },
   {
     "brand": "Positivo",
+    "name": "T800",
+    "codename": "T800M"
+  },
+  {
+    "brand": "Positivo",
     "name": "T810",
     "codename": "T810"
   },
@@ -150903,6 +150918,16 @@
     "brand": "Sharp",
     "name": "AQUOS sense7 plus",
     "codename": "Quattro"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS sense8",
+    "codename": "SH-54D"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS sense8",
+    "codename": "XIJ"
   },
   {
     "brand": "Sharp",
@@ -199868,6 +199893,16 @@
     "brand": "Zebra",
     "name": "ET65",
     "codename": "ET65"
+  },
+  {
+    "brand": "Zebra",
+    "name": "HC20",
+    "codename": "TC22"
+  },
+  {
+    "brand": "Zebra",
+    "name": "HC50",
+    "codename": "TC22"
   },
   {
     "brand": "Zebra",

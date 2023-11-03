@@ -16,6 +16,12 @@ ram = "4/6 GB"
 wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
+id = "lineageos"
+cpu = "Kryo 470"
+ram = "4/6 GB"
+wifi = "802.11 a/b/g/n/ac"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_motorola_liber","device_motorola_sm6150-common","vendor_motorola_liber","vendor_motorola_sm6150-common","kernel_motorola_sm6150"]
 
