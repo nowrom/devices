@@ -18962,6 +18962,11 @@
   {
     "brand": "Blu",
     "name": "J10L",
+    "codename": "J0140"
+  },
+  {
+    "brand": "Blu",
+    "name": "J10L",
     "codename": "J0150"
   },
   {
@@ -45911,6 +45916,11 @@
   },
   {
     "brand": "HEADWOLF",
+    "name": "H5",
+    "codename": "Hpad5"
+  },
+  {
+    "brand": "HEADWOLF",
     "name": "HPAD1A",
     "codename": "HPAD1A"
   },
@@ -68608,6 +68618,11 @@
     "brand": "Infinix",
     "name": "Infinix HOT 40i",
     "codename": "Infinix-X6528"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 40i",
+    "codename": "Infinix-X6528B"
   },
   {
     "brand": "Infinix",
@@ -94796,6 +94811,11 @@
   },
   {
     "brand": "MEO(Portugal)",
+    "name": "MEO TV Box 4K",
+    "codename": "DV8985-MEO"
+  },
+  {
+    "brand": "MEO(Portugal)",
     "name": "MEO TV Box 4K (DIW3930)",
     "codename": "DIW3930-MEO"
   },
@@ -94963,6 +94983,11 @@
     "brand": "MIRAY",
     "name": "TPM4G_E108_A",
     "codename": "TPM4G_E108_A"
+  },
+  {
+    "brand": "MIRAY",
+    "name": "TPM4G_E9863",
+    "codename": "TPM4G_E9863"
   },
   {
     "brand": "MITSUSHIBA",
@@ -96801,6 +96826,11 @@
   },
   {
     "brand": "Maxwest",
+    "name": "ASTRO A65",
+    "codename": "MX-A65"
+  },
+  {
+    "brand": "Maxwest",
     "name": "ASTRO_10",
     "codename": "MX-A10WW"
   },
@@ -96973,6 +97003,16 @@
     "brand": "Maxwest",
     "name": "MX-A4R",
     "codename": "MX-A4R"
+  },
+  {
+    "brand": "Maxwest",
+    "name": "MX-N62",
+    "codename": "MX-NN62WW01"
+  },
+  {
+    "brand": "Maxwest",
+    "name": "MX-N62",
+    "codename": "MX-NN62WW01"
   },
   {
     "brand": "Maxwest",
@@ -102098,6 +102138,11 @@
     "brand": "Mobvoi",
     "name": "Ticwatch S Smartwatch; Ticwatch E Smartwatch",
     "codename": "mooneye"
+  },
+  {
+    "brand": "MobyData",
+    "name": "M72",
+    "codename": "M72"
   },
   {
     "brand": "Mode1",
@@ -112643,6 +112688,11 @@
     "brand": "OSCAL",
     "name": "Pad_10_EEA",
     "codename": "Pad_10_EEA"
+  },
+  {
+    "brand": "OSCAL",
+    "name": "Pad_10_NEU",
+    "codename": "Pad_10_NEU"
   },
   {
     "brand": "OSCAL",
@@ -152896,6 +152946,11 @@
   },
   {
     "brand": "Sky (CH)",
+    "name": "Elite OctaPLus",
+    "codename": "Elite_Octa_Plus"
+  },
+  {
+    "brand": "Sky (CH)",
     "name": "Elite OctaPlus",
     "codename": "Elite_OctaPlus4us"
   },
@@ -153093,6 +153148,11 @@
     "brand": "Sky Devices",
     "name": "Elite C55",
     "codename": "Elite_C55US"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "Elite C63",
+    "codename": "Elite_C63"
   },
   {
     "brand": "Sky Devices",
@@ -153736,6 +153796,11 @@
   },
   {
     "brand": "Sky Devices",
+    "name": "SKY PAD10",
+    "codename": "SKY_PAD10"
+  },
+  {
+    "brand": "Sky Devices",
     "name": "SKY PAD10Max",
     "codename": "SKY_PAD10MaxNUS"
   },
@@ -153748,6 +153813,11 @@
     "brand": "Sky Devices",
     "name": "SKY PAD10Max",
     "codename": "SKY_PADMaxNAL"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "SKY PAD8",
+    "codename": "SKY_PAD8"
   },
   {
     "brand": "Sky Devices",
@@ -178026,6 +178096,11 @@
   },
   {
     "brand": "VETOO",
+    "name": "T4GB10",
+    "codename": "T4GB10"
+  },
+  {
+    "brand": "VETOO",
     "name": "V10",
     "codename": "V10"
   },
@@ -201336,6 +201411,11 @@
   },
   {
     "brand": "benco",
+    "name": "benco V91",
+    "codename": "AE9310"
+  },
+  {
+    "brand": "benco",
     "name": "benco Y11",
     "codename": "AH9110"
   },
@@ -202573,6 +202653,11 @@
     "brand": "iCraig",
     "name": "CMP_773",
     "codename": "ICRAIG_CMP_773"
+  },
+  {
+    "brand": "iData",
+    "name": "K3S",
+    "codename": "K3S"
   },
   {
     "brand": "iData",
