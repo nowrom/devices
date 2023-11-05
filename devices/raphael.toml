@@ -8,8 +8,7 @@ supported = false
 
 [[recoveries]]
 id = "twrp"
-xdathread = "https://forum.xda-developers.com/k20-pro/development/recovery-unofficial-twrp-xiaomi-redmi-t3944363"
-maintainer = "Mauronofrio"
+maintainer = "Helium-Studio"
 
 [[roms]]
 id = "ancientos"

@@ -2166,6 +2166,11 @@
   },
   {
     "brand": "Acer",
+    "name": "Acer_A60L",
+    "codename": "Acer_A60L"
+  },
+  {
+    "brand": "Acer",
     "name": "Acer_A61L",
     "codename": "Acer_A61L"
   },
@@ -110206,6 +110211,11 @@
   },
   {
     "brand": "Newland",
+    "name": "NLS-MT93",
+    "codename": "NLS-MT93"
+  },
+  {
+    "brand": "Newland",
     "name": "NLS-NFT10",
     "codename": "NLS-NFT10-GL"
   },
@@ -149793,6 +149803,11 @@
     "brand": "Senwa",
     "name": "Senwa_LS5018F",
     "codename": "Senwa_LS5018F"
+  },
+  {
+    "brand": "Senwa",
+    "name": "Senwa_S40",
+    "codename": "Senwa_S40"
   },
   {
     "brand": "Senwa",
@@ -200793,6 +200808,11 @@
     "brand": "Zonko",
     "name": "K118",
     "codename": "K118"
+  },
+  {
+    "brand": "Zonko",
+    "name": "K150",
+    "codename": "K150"
   },
   {
     "brand": "Zonko",

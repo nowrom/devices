@@ -5,8 +5,7 @@ roms = []
 
 [[recoveries]]
 id = "twrp"
-xdathread = "https://forum.xda-developers.com/k20-pro/development/recovery-unofficial-twrp-xiaomi-redmi-t3944363"
-maintainer = "Mauronofrio"
+maintainer = "Helium-Studio"
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"
