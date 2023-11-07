@@ -71901,6 +71901,11 @@
   },
   {
     "brand": "Itel",
+    "name": "Orange Nola fun 3",
+    "codename": "Nola_fun_3"
+  },
+  {
+    "brand": "Itel",
     "name": "P11",
     "codename": "itel_P11"
   },
@@ -101011,6 +101016,11 @@
   },
   {
     "brand": "Mobicell",
+    "name": "IX PRO",
+    "codename": "IX_PRO"
+  },
+  {
+    "brand": "Mobicell",
     "name": "IX-1",
     "codename": "IX-1"
   },
@@ -120613,6 +120623,11 @@
     "brand": "Panavox",
     "name": "50 google tv/58 google tv/65 google tv/75 google tv",
     "codename": "songshan"
+  },
+  {
+    "brand": "Panavox",
+    "name": "fushan_panavox",
+    "codename": "hamamatsucho"
   },
   {
     "brand": "Panavox",
@@ -182651,6 +182666,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "X100 Pro",
+    "codename": "PD2324"
+  },
+  {
+    "brand": "Vivo",
     "name": "X5",
     "codename": "X5"
   },
@@ -203068,6 +203088,11 @@
     "brand": "iHunt",
     "name": "iHunt S90 Apex",
     "codename": "S90_Apex"
+  },
+  {
+    "brand": "iHunt",
+    "name": "iHunt Tablet PC 11 Ultra",
+    "codename": "Tablet_PC_11_Ultra"
   },
   {
     "brand": "iHunt",
