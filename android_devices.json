@@ -4520,6 +4520,11 @@
     "codename": "R4_GTV"
   },
   {
+    "brand": "Alhafidh",
+    "name": "vileparle",
+    "codename": "vileparle"
+  },
+  {
     "brand": "Aligator",
     "name": "'Aligator_S5550",
     "codename": "Aligator_S5550"
@@ -20353,6 +20358,11 @@
     "brand": "Brandt",
     "name": "R4_GTV",
     "codename": "R4_GTV"
+  },
+  {
+    "brand": "Brandt",
+    "name": "vileparle",
+    "codename": "vileparle"
   },
   {
     "brand": "Brantel",
@@ -41378,6 +41388,11 @@
     "brand": "G-Guard",
     "name": "fushan_Guard",
     "codename": "hamamatsucho"
+  },
+  {
+    "brand": "G-Guard",
+    "name": "vileparle",
+    "codename": "vileparle"
   },
   {
     "brand": "G-Guard",
@@ -149186,6 +149201,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "心系天下 三星 W23",
+    "codename": "v4q"
+  },
+  {
+    "brand": "Samsung",
     "name": "心系天下 三星 W23 Flip",
     "codename": "e4q"
   },
@@ -160855,6 +160875,11 @@
     "codename": "TL1B_68"
   },
   {
+    "brand": "TAMBOARD",
+    "name": "TB_GH",
+    "codename": "TB_GH"
+  },
+  {
     "brand": "TASKPHONE",
     "name": "T20",
     "codename": "T20P"
@@ -161483,6 +161508,11 @@
     "brand": "TCL",
     "name": "TCL 40 XE 5G",
     "codename": "Encore_Spectrum"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 40 XE 5G",
+    "codename": "Encore_USCC"
   },
   {
     "brand": "TCL",
