@@ -17,7 +17,7 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Immanuel_Raj(@iamimmanuelraj)"
-changelog = "FIxed FP"
+changelog = "Initial Release\r\nInstall Instructions HERE: https://wiki.pixelexperience.org/devices/jasmine_sprout/install/"
 
 [[roms]]
 id = "blissroms"

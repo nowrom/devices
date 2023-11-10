@@ -1035,6 +1035,11 @@
     "codename": "yeongdeungpo"
   },
   {
+    "brand": "ARRQW",
+    "name": "Smart TV",
+    "codename": "longshan"
+  },
+  {
     "brand": "ARTRAN",
     "name": "ARTRAN _EI101F",
     "codename": "ARTRAN_EI101F"
@@ -14063,6 +14068,11 @@
     "brand": "BPL",
     "name": "BPL UHD TV",
     "codename": "OD0M_EA_T32"
+  },
+  {
+    "brand": "BPL",
+    "name": "Smart TV",
+    "codename": "redwood"
   },
   {
     "brand": "BQru",
@@ -29793,6 +29803,11 @@
     "brand": "DNA",
     "name": "DNA Hubi 2.0",
     "codename": "m393gena"
+  },
+  {
+    "brand": "DNA",
+    "name": "DNA Hubi Soundbox",
+    "codename": "m393vsb_dna"
   },
   {
     "brand": "DNA",
@@ -52473,6 +52488,11 @@
     "brand": "Hisense",
     "name": "55H6SG",
     "codename": "Vision"
+  },
+  {
+    "brand": "Hisense",
+    "name": "65MR6DE",
+    "codename": "huanghe"
   },
   {
     "brand": "Hisense",
@@ -77425,6 +77445,11 @@
     "codename": "longshan"
   },
   {
+    "brand": "Kolin",
+    "name": "Smart TV",
+    "codename": "redwood"
+  },
+  {
     "brand": "Komu",
     "name": "K22",
     "codename": "K22"
@@ -95923,6 +95948,11 @@
     "brand": "MagentaTV",
     "name": "OTT-G1",
     "codename": "DV6067Y"
+  },
+  {
+    "brand": "MagentaTV",
+    "name": "One (2. Generation)",
+    "codename": "SEI804DT"
   },
   {
     "brand": "Majestic",
@@ -114653,6 +114683,11 @@
     "brand": "Oppo",
     "name": "A79",
     "codename": "A79"
+  },
+  {
+    "brand": "Oppo",
+    "name": "A79 5G",
+    "codename": "OP573DL1"
   },
   {
     "brand": "Oppo",
@@ -151037,6 +151072,11 @@
   {
     "brand": "Sharp",
     "name": "AQUOS sense8",
+    "codename": "Quess"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS sense8",
     "codename": "SH-54D"
   },
   {
@@ -152348,6 +152388,11 @@
     "brand": "Shenzhen SEI Robotics",
     "name": "SEI103V",
     "codename": "SEI103"
+  },
+  {
+    "brand": "Shenzhen SEI Robotics",
+    "name": "Sensa Box 4K",
+    "codename": "SEI700PTS"
   },
   {
     "brand": "Shuttle",
@@ -171856,6 +171901,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "POP 8",
+    "codename": "TECNO-BG6h"
+  },
+  {
+    "brand": "Tecno",
     "name": "POP1",
     "codename": "TECNO-F3"
   },
@@ -172578,6 +172628,11 @@
     "brand": "Tecno",
     "name": "TECNO SPARK 20",
     "codename": "TECNO-KJ5n"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 20C",
+    "codename": "TECNO-BG7n"
   },
   {
     "brand": "Tecno",
@@ -178260,6 +178315,11 @@
     "codename": "VIMOQ-A512WS"
   },
   {
+    "brand": "VIOMI",
+    "name": "Smart TV",
+    "codename": "longshan"
+  },
+  {
     "brand": "VIPER",
     "name": "SZ11MK1",
     "codename": "SZ11MK1"
@@ -181231,6 +181291,11 @@
   },
   {
     "brand": "Vivax",
+    "name": "Smart TV",
+    "codename": "longshan"
+  },
+  {
+    "brand": "Vivax",
     "name": "TPC-102_4G_eea",
     "codename": "TPC-102_4G"
   },
@@ -182651,6 +182716,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "V29e",
+    "codename": "V2303"
+  },
+  {
+    "brand": "Vivo",
     "name": "V29e 5G",
     "codename": "V2317"
   },
@@ -183231,6 +183301,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "Y79+",
+    "codename": "PD2313"
+  },
+  {
+    "brand": "Vivo",
     "name": "Y79A",
     "codename": "PD1708"
   },
@@ -183313,6 +183388,16 @@
     "brand": "Vivo",
     "name": "iQOO 11S",
     "codename": "PD2304"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO 12",
+    "codename": "PD2307"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO 12 Pro",
+    "codename": "PD2329"
   },
   {
     "brand": "Vivo",
@@ -190243,6 +190328,16 @@
     "brand": "Xiaomi",
     "name": "Xiaomi 13T Pro",
     "codename": "corot"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 14",
+    "codename": "houji"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 14 Pro",
+    "codename": "shennong"
   },
   {
     "brand": "Xiaomi",
