@@ -1205,6 +1205,11 @@
     "codename": "APD3"
   },
   {
+    "brand": "ATEL",
+    "name": "A68EL",
+    "codename": "A68EL"
+  },
+  {
     "brand": "ATID",
     "name": "AT908",
     "codename": "AT908"
@@ -11908,6 +11913,11 @@
     "brand": "Azeyou",
     "name": "AT_701B",
     "codename": "AT_701B"
+  },
+  {
+    "brand": "Azeyou",
+    "name": "M87QF6-4G",
+    "codename": "M87QF6-4G"
   },
   {
     "brand": "Azumi",
@@ -22681,6 +22691,11 @@
   },
   {
     "brand": "Celkon",
+    "name": "C10STAR",
+    "codename": "C10STAR"
+  },
+  {
+    "brand": "Celkon",
     "name": "CliQ 2",
     "codename": "c707_ym_n_37m35"
   },
@@ -23273,6 +23288,11 @@
     "brand": "Cherry Mobile",
     "name": "A1130",
     "codename": "A1130"
+  },
+  {
+    "brand": "Cherry Mobile",
+    "name": "A1240",
+    "codename": "A1240"
   },
   {
     "brand": "Cherry Mobile",
@@ -35460,6 +35480,11 @@
     "codename": "SEI800MOBI"
   },
   {
+    "brand": "EVOPRO",
+    "name": "EVOPRO",
+    "codename": "SEI500EV"
+  },
+  {
     "brand": "EVVO",
     "name": "Android TV",
     "codename": "R1"
@@ -37013,6 +37038,11 @@
     "brand": "Estar",
     "name": "BEAUTY 2 HD Quad core",
     "codename": "MID7378"
+  },
+  {
+    "brand": "Estar",
+    "name": "Digni-Smart",
+    "codename": "Digni-Smart"
   },
   {
     "brand": "Estar",
@@ -71016,6 +71046,11 @@
   },
   {
     "brand": "Ipro",
+    "name": "Y300",
+    "codename": "Mobilephone"
+  },
+  {
+    "brand": "Ipro",
     "name": "Zafiro",
     "codename": "Zafiro"
   },
@@ -86246,6 +86281,11 @@
   },
   {
     "brand": "LUNA",
+    "name": "LUNA V10",
+    "codename": "LUNA_V10"
+  },
+  {
+    "brand": "LUNA",
     "name": "LUNA V6",
     "codename": "LUNA_V6"
   },
@@ -94131,6 +94171,11 @@
   },
   {
     "brand": "Logicom",
+    "name": "Solar Pro",
+    "codename": "Solar_Pro"
+  },
+  {
+    "brand": "Logicom",
     "name": "TAB76",
     "codename": "TAB76"
   },
@@ -94868,6 +94913,11 @@
     "brand": "MEFERI",
     "name": "ME40M",
     "codename": "ME40K_M"
+  },
+  {
+    "brand": "MEFERI",
+    "name": "ME61",
+    "codename": "ME61"
   },
   {
     "brand": "MEO(Portugal)",
@@ -97083,6 +97133,11 @@
     "brand": "Maxwest",
     "name": "MX-N62",
     "codename": "MX-NN62WW01"
+  },
+  {
+    "brand": "Maxwest",
+    "name": "NITRO 55M",
+    "codename": "MX-N55MWW"
   },
   {
     "brand": "Maxwest",
@@ -101118,6 +101173,11 @@
     "brand": "Mobicell",
     "name": "METRO2",
     "codename": "METRO2"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "MX1",
+    "codename": "MX1"
   },
   {
     "brand": "Mobicell",
@@ -107561,6 +107621,11 @@
   },
   {
     "brand": "Myphone",
+    "name": "HAMMER IRON V",
+    "codename": "HS2302x"
+  },
+  {
+    "brand": "Myphone",
     "name": "Hammer AXE M LTE",
     "codename": "AXE_M_LTE_OPM"
   },
@@ -112891,6 +112956,11 @@
   },
   {
     "brand": "OWXMobile",
+    "name": "W50s",
+    "codename": "W50s"
+  },
+  {
+    "brand": "OWXMobile",
     "name": "W77",
     "codename": "W77"
   },
@@ -114003,6 +114073,11 @@
     "brand": "OpelMobile",
     "name": "Smart X6",
     "codename": "SmartX6"
+  },
+  {
+    "brand": "OpelMobile",
+    "name": "Smart55Q",
+    "codename": "OMS55Q23B"
   },
   {
     "brand": "OpelMobile",
@@ -119130,6 +119205,11 @@
     "codename": "P10"
   },
   {
+    "brand": "PYUR",
+    "name": "PYUR TV BOX",
+    "codename": "m377genb_pyur"
+  },
+  {
     "brand": "Packard Bell",
     "name": "A4000",
     "codename": "A4000"
@@ -121988,6 +122068,11 @@
     "brand": "Phoenix Note",
     "name": "PPS2022-P156",
     "codename": "PPS2022-P156"
+  },
+  {
+    "brand": "Phone Max",
+    "name": "M10",
+    "codename": "M10"
   },
   {
     "brand": "Phone Max",
@@ -131648,6 +131733,11 @@
     "brand": "Rizzen",
     "name": "NovaTab_R10",
     "codename": "NovaTab_R10"
+  },
+  {
+    "brand": "Rizzen",
+    "name": "S1",
+    "codename": "S1"
   },
   {
     "brand": "Rizzen",
@@ -153911,6 +154001,11 @@
   },
   {
     "brand": "Sky Devices",
+    "name": "SKY PAD10",
+    "codename": "SKY_PAX10US"
+  },
+  {
+    "brand": "Sky Devices",
     "name": "SKY PAD10Max",
     "codename": "SKY_PAD10MaxNUS"
   },
@@ -154983,6 +155078,11 @@
     "brand": "Sony",
     "name": "BRAVIA VH1",
     "codename": "BRAVIA_VH1"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA VH2",
+    "codename": "BRAVIA_VH2"
   },
   {
     "brand": "Sony",
@@ -177891,6 +177991,11 @@
   },
   {
     "brand": "UnoPhone",
+    "name": "Premier5Max",
+    "codename": "Premier5Max"
+  },
+  {
+    "brand": "UnoPhone",
     "name": "Premier8",
     "codename": "Premier8"
   },
@@ -178223,6 +178328,11 @@
     "brand": "VENSTAR",
     "name": "VENSTAR2050",
     "codename": "VENSTAR2050"
+  },
+  {
+    "brand": "VETOO",
+    "name": "T4GB07",
+    "codename": "T4GB07"
   },
   {
     "brand": "VETOO",
@@ -201176,6 +201286,11 @@
   },
   {
     "brand": "Zuum",
+    "name": "Aura M1",
+    "codename": "Aura_M1"
+  },
+  {
+    "brand": "Zuum",
     "name": "COVET",
     "codename": "COVET"
   },
@@ -201418,6 +201533,16 @@
     "brand": "Zuum",
     "name": "ZUUM PAD Lightyear",
     "codename": "ZUUM_PAD_Lightyear"
+  },
+  {
+    "brand": "abxylute",
+    "name": "abxylute_one",
+    "codename": "abxylute_one"
+  },
+  {
+    "brand": "abxylute",
+    "name": "abxylute_one",
+    "codename": "abxylute_one"
   },
   {
     "brand": "afriphone",
@@ -204488,11 +204613,6 @@
     "brand": "realme",
     "name": "RMX3268",
     "codename": "RED8D7"
-  },
-  {
-    "brand": "realme",
-    "name": "RMX3612",
-    "codename": "RE588DL1"
   },
   {
     "brand": "realme",
