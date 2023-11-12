@@ -1,12 +1,7 @@
 brand = "Realme"
 codename = "lunaa"
-name = "Realme GT Master Editon"
+name = "GT Master Edition"
 recoveries = []
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T"
-recovery = ""
 
 [[roms]]
 id = "evolutionx"

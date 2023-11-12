@@ -25,8 +25,8 @@ changelog = "- msm_irqbalance config: Do not balance msm_drm and kgsl-3d0 IRQs\r
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/08-Sep-2022/"
-recovery = "https://dl.akr-developers.com/?file=skkk/TWRP/A12/v6.3_A12/%5BBOOT%5D3.6.2_12-RedmiK40-POCOF3-Mi11X_v6.3_A12-alioth-skkk_a616ae6b.zip"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/07-Nov-2023/"
+recovery = "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/alioth/"
 
 [[roms]]
 id = "evolutionx"

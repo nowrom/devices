@@ -11,11 +11,6 @@ maintainer = "bigbiff"
 id = "calyxos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://downloads.codefi.re/jdcteam/javelinanddart/gapps"
-recovery = "https://sabina.amyrom.tech/redfin/crDroid90/"
-
-[[roms]]
 id = "evolutionx"
 
 [[roms]]

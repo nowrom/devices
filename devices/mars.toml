@@ -8,11 +8,6 @@ xdathread = "https://forum.xda-developers.com/t/recovery-11-star-mars-official-t
 maintainer = "Nebrassy"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://wiki.lineageos.org/gapps"
-recovery = "https://sourceforge.net/projects/crdroid/files/mars/9.x/recovery/"
-
-[[roms]]
 id = "evolutionx"
 
 [[roms]]

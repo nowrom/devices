@@ -11,11 +11,6 @@ id = "twrp"
 maintainer = "0xCAFEBABE"
 
 [[roms]]
-id = "crdroid"
-gapps = ""
-recovery = "https://twrp.me/xiaomi/xiaomimimax2.html"
-
-[[roms]]
 id = "pixelexperience"
 repostories = ["device_xiaomi_oxygen","kernel_xiaomi_oxygen","vendor_xiaomi_oxygen"]
 

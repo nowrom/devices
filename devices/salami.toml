@@ -1,9 +1,0 @@
-brand = "OnePlus"
-codename = "salami"
-name = "OnePlus 11 5G"
-recoveries = []
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/Gwolf2u/NikGapps-T/"
-recovery = ""

@@ -4,11 +4,6 @@ name = "Smart TV"
 recoveries = []
 
 [[roms]]
-id = "crdroid"
-gapps = "https://nikgapps.com/"
-recovery = "https://sourceforge.net/projects/crdroid/files/redwood/9.x/recovery/"
-
-[[roms]]
 id = "evolutionx"
 
 [[roms]]

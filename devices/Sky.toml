@@ -1,9 +1,0 @@
-brand = "Navon"
-codename = "Sky"
-name = "SKY"
-recoveries = []
-
-[[roms]]
-id = "crdroid"
-gapps = "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.4/BiTGApps-arm64-13.0.0-v2.4-MINI.zip"
-recovery = "https://github.com/pjgowtham/recovery_device_xiaomi_sky/releases/"

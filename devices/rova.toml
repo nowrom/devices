@@ -1,12 +1,5 @@
-brand = "Redmi"
 codename = "rova"
-name = "Redmi 4A/5A"
 recoveries = []
-
-[[roms]]
-id = "crdroid"
-gapps = "https://nikgapps.com/downloads"
-recovery = "https://github.com/iusmac/recovery_rova/releases"
 
 [[roms]]
 id = "revengeos"

@@ -72801,6 +72801,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel P55+",
+    "codename": "itel-P663L"
+  },
+  {
+    "brand": "Itel",
     "name": "itel Prime 4",
     "codename": "itel_Prime4"
   },
@@ -111751,6 +111756,11 @@
   },
   {
     "brand": "Nomu",
+    "name": "G200",
+    "codename": "G200"
+  },
+  {
+    "brand": "Nomu",
     "name": "M8",
     "codename": "M8"
   },
@@ -131616,43 +131626,53 @@
   },
   {
     "brand": "Rhino",
-    "name": "Atom",
-    "codename": "atom"
-  },
-  {
-    "brand": "Rhino",
     "name": "C10",
     "codename": "Rhino_C10"
   },
   {
     "brand": "Rhino",
-    "name": "M10p_001",
+    "name": "RHINO C10",
+    "codename": "Rhino_C10"
+  },
+  {
+    "brand": "Rhino",
+    "name": "RHINO C6",
+    "codename": "nova"
+  },
+  {
+    "brand": "Rhino",
+    "name": "RHINO M10p",
     "codename": "Rhino_M10p"
+  },
+  {
+    "brand": "Rhino",
+    "name": "RHINO PACE A1",
+    "codename": "portal"
+  },
+  {
+    "brand": "Rhino",
+    "name": "RHINO T100",
+    "codename": "scoutxl"
+  },
+  {
+    "brand": "Rhino",
+    "name": "RHINO T5se",
+    "codename": "atom"
+  },
+  {
+    "brand": "Rhino",
+    "name": "RHINO T8",
+    "codename": "Rhino_T8"
+  },
+  {
+    "brand": "Rhino",
+    "name": "RHINO T80",
+    "codename": "scout"
   },
   {
     "brand": "Rhino",
     "name": "T8",
     "codename": "Rhino_T8"
-  },
-  {
-    "brand": "Rhino",
-    "name": "nova",
-    "codename": "nova"
-  },
-  {
-    "brand": "Rhino",
-    "name": "portal",
-    "codename": "portal"
-  },
-  {
-    "brand": "Rhino",
-    "name": "scout",
-    "codename": "scout"
-  },
-  {
-    "brand": "Rhino",
-    "name": "scoutxl",
-    "codename": "scoutxl"
   },
   {
     "brand": "RiksTV",

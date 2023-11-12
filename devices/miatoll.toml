@@ -25,11 +25,6 @@ maintainer = "SonalSingh"
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
-recovery = "https://orangefox.download/release/6423f4eb3b7efd4549c74604"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

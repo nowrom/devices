@@ -16,11 +16,6 @@ id = "arrowos"
 maintainer = "madmax7896"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://wiki.lineageos.org/gapps"
-recovery = "https://orangefox.download/device/munch"
-
-[[roms]]
 id = "evolutionx"
 
 [[roms]]

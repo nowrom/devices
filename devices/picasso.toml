@@ -17,11 +17,6 @@ maintainer = "Lynnrin"
 changelog = "- Block FPC fingerprint key event"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
-recovery = "https://orangefox.download/device/picasso"
-
-[[roms]]
 id = "legionos"
 active = true
 maintainer = "masemoel"

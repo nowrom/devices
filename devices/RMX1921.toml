@@ -19,11 +19,6 @@ photo = "https://fdn2.gsmarena.com/vv/pics/realme/realme-xt.jpg"
 id = "blissroms"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T"
-recovery = ""
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

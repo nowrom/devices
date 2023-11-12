@@ -15,11 +15,6 @@ maintainer = "TH779"
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
-recovery = "https://dl.akr-developers.com/?file=skkk/TWRP/A12/v3.6.1_A12/3.6.2_12-RedmiK30Pro_v3.6.1_A12-lmi-skkk_763e8812.img"
-
-[[roms]]
 id = "legionos"
 active = true
 maintainer = "ZenkaBestia"

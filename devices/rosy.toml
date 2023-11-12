@@ -16,11 +16,6 @@ id = "arrowos"
 maintainer = "Shriiyansh Pandey"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/08-Sep-2022/"
-recovery = "https://forum.xda-developers.com/t/recovery-12-rosy-twrp-recovery-3-7-0_12-unofficial.4209233"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

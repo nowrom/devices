@@ -27,11 +27,6 @@ changelog = "Please check <a href=\"https://kubersharma001.com/index-arrowos-rap
 id = "blissroms"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
-recovery = "https://sourceforge.net/projects/crdroid/files/raphael/9.x/recovery/"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

@@ -7,11 +7,6 @@ id = "orangefox"
 supported = true
 
 [[roms]]
-id = "crdroid"
-gapps = ""
-recovery = ""
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

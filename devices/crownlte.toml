@@ -15,11 +15,6 @@ maintainer = "Baddar90"
 id = "blissroms"
 
 [[roms]]
-id = "crdroid"
-gapps = ""
-recovery = "https://drive.google.com/file/d/1FN8B3eMFTy3Q89Km8B3bSyLzGRib44OC/view?usp=sharing"
-
-[[roms]]
 id = "evolutionx"
 
 [[roms]]

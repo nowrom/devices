@@ -31,11 +31,6 @@ id = "blissroms"
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
-recovery = ""
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

@@ -4,11 +4,6 @@ name = "Redmi 9 Prime"
 recoveries = []
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/16-Jul-2023/"
-recovery = "https://sourceforge.net/projects/redmi-mt6768-raizel/files/lancelot/Recovery/CrDroid-recovery.img/download"
-
-[[roms]]
 id = "lineageos"
 cpu = "Cortex-A75 & Cortex-A55"
 ram = "3/4/6 GB"

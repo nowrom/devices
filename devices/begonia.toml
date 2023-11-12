@@ -20,8 +20,8 @@ id = "blissroms"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/wsa-mtg/files/arm64/"
-recovery = "https://drive.google.com/file/d/1i491MVtCRM1lKFrJKLR7gr4uba67lIHk/view"
+gapps = "https://sourceforge.net/projects/nikgapps"
+recovery = "https://devuploads.com/7d97o9v8e75n"
 
 [[roms]]
 id = "dotos"

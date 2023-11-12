@@ -8,11 +8,6 @@ xdathread = "https://forum.xda-developers.com/t/official-tests-twrp-for-the-leno
 maintainer = "ThEMarD"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Config-Releases/NikGapps-T/14-Aug-2023/NikGapps-chematelegram-arm64-13-20230814.zip/download"
-recovery = "https://www.androidfilehost.com/?fid=4279422670115709052"
-
-[[roms]]
 id = "evolutionx"
 
 [[roms]]

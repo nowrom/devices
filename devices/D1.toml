@@ -12,11 +12,6 @@ id = "ancientos"
 photo = "https://wiki.lineageos.org/images/devices/d1.png"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://androidfilehost.com/?w=files&flid=322935&sort_by=name&sort_dir=DESC"
-recovery = "https://sourceforge.net/projects/crdroid/files/d1/9.x/recovery/recovery-20231016.img/download"
-
-[[roms]]
 id = "lineageos"
 cpu = "Exynos M4 & Cortex-A75 & Cortex-A55"
 ram = "8 GB"

@@ -1,15 +1,10 @@
-brand = "Asus"
+brand = "ASUS"
 codename = "X00QD"
-name = "Asus ZenFone 5"
+name = "ZenFone 5"
 
 [[recoveries]]
 id = "orangefox"
 supported = true
-
-[[roms]]
-id = "crdroid"
-gapps = "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v1.8/BiTGApps-arm64-13.0.0-v1.8_signed.zip"
-recovery = "https://orangefox.download/device/x00qd"
 
 [[roms]]
 id = "dotos"

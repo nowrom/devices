@@ -29,11 +29,6 @@ id = "blissroms"
 id = "cherishos"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/"
-recovery = "https://sourceforge.net/projects/heimerdinger-files/files/Recoverys/lavender/A13-OrangeFox-lavender-stable%40R11.1_5.zip/download"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

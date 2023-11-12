@@ -4,11 +4,6 @@ name = "Pixel 7 Pro"
 recoveries = []
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
-recovery = "https://s.go.ro/554vnsqp"
-
-[[roms]]
 id = "evolutionx"
 
 [[roms]]

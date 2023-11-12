@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "beyond1lte"
-name = "Galaxy S10"
+name = "Samsung Galaxy S10"
 
 [[recoveries]]
 id = "twrp"
@@ -14,11 +14,6 @@ photo = "https://wiki.lineageos.org/images/devices/beyond2lte.png"
 [[roms]]
 id = "AOSPK"
 xda_thread = ""
-
-[[roms]]
-id = "crdroid"
-gapps = "https://androidfilehost.com/?w=files&flid=322935&sort_by=name&sort_dir=DESC"
-recovery = "https://sourceforge.net/projects/crdroid/files/beyond1lte/9.x/recovery/recovery-20231016.img/download"
 
 [[roms]]
 id = "lineageos"

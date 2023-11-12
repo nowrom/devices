@@ -25,11 +25,6 @@ maintainer = "danielml3"
 changelog = "Use the ArrowOS recovery when installing the ROM for avoiding issues: https://files.danielml.dev/android/sweet/arrow-13.1/arrow-recovery.img"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/Gwolf2u/NikGapps-T/"
-recovery = ""
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

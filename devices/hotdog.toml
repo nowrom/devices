@@ -12,11 +12,6 @@ xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-r
 maintainer = "Unmaintained"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/Gwolf2u/NikGapps-T/"
-recovery = "https://sourceforge.net/projects/crdroid/files/hotdog/9.x/recovery/"
-
-[[roms]]
 id = "dotos"
 
 [[roms]]

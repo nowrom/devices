@@ -19,11 +19,6 @@ maintainer = "lamjiidii1"
 id = "blissroms"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/"
-recovery = "https://sourceforge.net/projects/cepheus/files/recovery/"
-
-[[roms]]
 id = "evolutionx"
 
 [[roms]]

@@ -9,8 +9,8 @@ maintainer = "Nebrassy"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/Gwolf2u/"
-recovery = "https://sourceforge.net/projects/crdroid/files/lemonade/9.x/recovery/"
+gapps = "https://sourceforge.net/projects/crdroid/files/other/"
+recovery = "https://sourceforge.net/projects/crdroid/files/lemonade/10.x/recovery/"
 
 [[roms]]
 id = "evolutionx"

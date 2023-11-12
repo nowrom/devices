@@ -25,8 +25,8 @@ maintainer = "K001droid and raghavt20"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/Gwolf2u/NikGapps-T/"
-recovery = ""
+gapps = "https://sourceforge.net/projects/crdroid/files/other/"
+recovery = "https://orangefox.download/device/vayu"
 
 [[roms]]
 id = "dotos"

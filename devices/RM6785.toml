@@ -1,12 +1,7 @@
 brand = "Realme"
 codename = "RM6785"
-name = "Realme RM6785"
+name = "RM6785"
 recoveries = []
-
-[[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/litegapps/files/litegapps/arm64/33/core/v2.8/%5BRECOVERY%5DLiteGapps_Core_arm64_13.0_v2.8_official.zip/download"
-recovery = ""
 
 [[roms]]
 id = "pixelexperience"

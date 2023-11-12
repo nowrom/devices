@@ -8,11 +8,6 @@ xdathread = "https://forum.xda-developers.com/t/recovery-11-official-teamwin-rec
 maintainer = "Nebrassy"
 
 [[roms]]
-id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/16-Jul-2023/"
-recovery = "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/haydn/"
-
-[[roms]]
 id = "lineageos"
 cpu = "Kryo 680"
 ram = "8/12 GB"

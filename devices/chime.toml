@@ -1,9 +1,0 @@
-brand = "Xiaomi"
-codename = "chime"
-name = "POCO M3 & Redmi 9T"
-recoveries = []
-
-[[roms]]
-id = "crdroid"
-gapps = "https://downloads.codefi.re/jdcteam/javelinanddart/gapps/MindTheGapps-13.0.0-arm64-20221025_100653.zip"
-recovery = ""
