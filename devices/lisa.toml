@@ -13,6 +13,11 @@ maintainer = "ALKALiKong"
 changelog = "- Merged upstream QuicksliveR kernel changes (Thanks to ghostrider_reborn for his work on lisa!)\r\n- Enabled Secure NFC for CN variant\r\n- Fixed DC Dimming issue (Updated DC Dimming node)\r\n- Lowered default screen density to 400 dpi"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://drive.google.com/file/d/1BsmTsxLzYgIo4_8uN2oAriQr7OUXIakU/view?usp=drive_link"
+recovery = "https://sourceforge.net/projects/crdroid/files/lisa/10.x/recovery"
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]

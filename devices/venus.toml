@@ -8,6 +8,11 @@ xdathread = "https://forum.xda-developers.com/t/recovery-11-official-teamwin-rec
 maintainer = "Nebrassy"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://github.com/MindTheGapps/14.0.0-arm64/releases"
+recovery = "https://sourceforge.net/projects/crdroid/files/venus/10.x/recovery/"
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]

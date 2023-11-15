@@ -4,6 +4,11 @@ name = "moto g52"
 recoveries = []
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 265"
 ram = "4/6 GB LPDDR4X"

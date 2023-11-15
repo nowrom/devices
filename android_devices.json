@@ -15706,6 +15706,11 @@
   },
   {
     "brand": "BenQ",
+    "name": "RP7504",
+    "codename": "RP7504"
+  },
+  {
+    "brand": "BenQ",
     "name": "RP8604",
     "codename": "RP8604"
   },
@@ -35056,6 +35061,11 @@
   },
   {
     "brand": "EPIC",
+    "name": "EPIC 2K Android TV",
+    "codename": "martin"
+  },
+  {
+    "brand": "EPIC",
     "name": "Guatemala/Honduras",
     "codename": "patrick"
   },
@@ -53236,6 +53246,11 @@
   },
   {
     "brand": "Hisense",
+    "name": "HLTE243E",
+    "codename": "HLTE243E"
+  },
+  {
+    "brand": "Hisense",
     "name": "HLTE300E_ 02",
     "codename": "HS8937QC"
   },
@@ -53781,6 +53796,11 @@
   },
   {
     "brand": "Hisense",
+    "name": "Hisense E33",
+    "codename": "HLTE243E_01"
+  },
+  {
+    "brand": "Hisense",
     "name": "Hisense E40",
     "codename": "HLTE229E"
   },
@@ -53928,6 +53948,11 @@
     "brand": "Hisense",
     "name": "Hisense E70",
     "codename": "HLTE262E"
+  },
+  {
+    "brand": "Hisense",
+    "name": "Hisense E70",
+    "codename": "HLTE262E_01"
   },
   {
     "brand": "Hisense",
@@ -54293,6 +54318,11 @@
     "brand": "Hisense",
     "name": "Hisense U70 Pro",
     "codename": "HLTE109E"
+  },
+  {
+    "brand": "Hisense",
+    "name": "Hisense U70 Pro",
+    "codename": "HLTE109E_01"
   },
   {
     "brand": "Hisense",
@@ -75221,6 +75251,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "COLORVIEW",
+    "codename": "lavender"
+  },
+  {
+    "brand": "KTCtv",
     "name": "CONTINUUS",
     "codename": "stanford"
   },
@@ -75398,6 +75433,11 @@
     "brand": "KTCtv",
     "name": "INNOVA",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "IQWORLD",
+    "codename": "lavender"
   },
   {
     "brand": "KTCtv",
@@ -77463,6 +77503,11 @@
     "brand": "Kogan",
     "name": "Kogan G5",
     "codename": "nagata"
+  },
+  {
+    "brand": "Kogan",
+    "name": "Kogan G7",
+    "codename": "cottongreen"
   },
   {
     "brand": "Kogan",
@@ -118916,6 +118961,11 @@
   },
   {
     "brand": "POCO",
+    "name": "POCO C65",
+    "codename": "gust"
+  },
+  {
+    "brand": "POCO",
     "name": "POCO F2 Pro",
     "codename": "lmi"
   },
@@ -128691,6 +128741,11 @@
   },
   {
     "brand": "RCA",
+    "name": "RCA 2K Google TV-E",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "RCA",
     "name": "RCA 2K SMART TV",
     "codename": "nagata"
   },
@@ -128702,6 +128757,11 @@
   {
     "brand": "RCA",
     "name": "RCA 4K Google TV",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "RCA",
+    "name": "RCA 4K Google TV-E",
     "codename": "keoneae"
   },
   {
@@ -130238,6 +130298,16 @@
     "brand": "Redmi",
     "name": "Redmi 12C",
     "codename": "earth"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi 13C",
+    "codename": "gale"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi 13C",
+    "codename": "gale"
   },
   {
     "brand": "Redmi",
@@ -151238,6 +151308,16 @@
     "brand": "Sharp",
     "name": "AQUOS wish3",
     "codename": "SH-53D"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS wish3",
+    "codename": "SX3"
+  },
+  {
+    "brand": "Sharp",
+    "name": "AQUOS wish3",
+    "codename": "SX3"
   },
   {
     "brand": "Sharp",
@@ -178656,6 +178736,11 @@
   },
   {
     "brand": "VOXelectronics",
+    "name": "VOXELECTRONICS",
+    "codename": "lavender"
+  },
+  {
+    "brand": "VOXelectronics",
     "name": "VOXelectronics 2K Android TV",
     "codename": "lasalle"
   },
@@ -201406,6 +201491,11 @@
   },
   {
     "brand": "Zuum",
+    "name": "MAGNO C2",
+    "codename": "MAGNO_C2"
+  },
+  {
+    "brand": "Zuum",
     "name": "MAGNO MINI",
     "codename": "MAGNO_MINI"
   },
@@ -203541,6 +203631,11 @@
   },
   {
     "brand": "iMin",
+    "name": "Swan 1 Pro",
+    "codename": "Swan1Pro"
+  },
+  {
+    "brand": "iMin",
     "name": "Swift 1",
     "codename": "I22M01"
   },
@@ -204646,6 +204741,11 @@
   },
   {
     "brand": "realme",
+    "name": "RMX3782",
+    "codename": "RE5C6CL1"
+  },
+  {
+    "brand": "realme",
     "name": "Smart TV",
     "codename": "mateo"
   },
@@ -205358,11 +205458,6 @@
     "brand": "realme",
     "name": "realme narzo 60 5G",
     "codename": "RE58B1L1"
-  },
-  {
-    "brand": "realme",
-    "name": "realme narzo 60x 5G",
-    "codename": "RE5C6CL1"
   },
   {
     "brand": "realme",
