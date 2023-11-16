@@ -78491,6 +78491,11 @@
   },
   {
     "brand": "Kyocera",
+    "name": "DuraSport 5G",
+    "codename": "KY21L-RG100"
+  },
+  {
+    "brand": "Kyocera",
     "name": "Echo",
     "codename": "KSP8000"
   },
@@ -118698,6 +118703,11 @@
     "brand": "PCD Argentina",
     "name": "P60_CA",
     "codename": "P60_CA"
+  },
+  {
+    "brand": "PCD Argentina",
+    "name": "P63L",
+    "codename": "P63L_PR"
   },
   {
     "brand": "PCD Argentina",

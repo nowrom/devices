@@ -1,0 +1,10 @@
+brand = "POCO"
+codename = "stone"
+name = "POCO M5"
+recoveries = []
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"

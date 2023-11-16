@@ -1,6 +1,6 @@
-brand = "Xiaomi"
-codename = "moonstone"
-name = "Xiaomi Poco X5 5G & Redmi Note 12 5G"
+brand = "Redmi"
+codename = "sunstone"
+name = "Redmi Note 12 5G"
 roms = []
 
 [[recoveries]]
