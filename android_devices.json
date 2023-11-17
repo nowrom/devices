@@ -4112,6 +4112,11 @@
   {
     "brand": "Aiwa",
     "name": "AIWA",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Aiwa",
+    "name": "AIWA",
     "codename": "stanford"
   },
   {
@@ -102076,6 +102081,11 @@
   },
   {
     "brand": "Mobiwire",
+    "name": "MobiTab",
+    "codename": "WM26"
+  },
+  {
+    "brand": "Mobiwire",
     "name": "MobiWire Halona",
     "codename": "Halona"
   },
@@ -110433,6 +110443,11 @@
     "brand": "Newline",
     "name": "Q23",
     "codename": "rk3588_t"
+  },
+  {
+    "brand": "Newline",
+    "name": "WB55860W",
+    "codename": "WB55860W"
   },
   {
     "brand": "Newsday",
@@ -173276,6 +173291,11 @@
   },
   {
     "brand": "Tecno Mobile",
+    "name": "SPARK Go 2024",
+    "codename": "TECNO-Mobile-BG6"
+  },
+  {
+    "brand": "Tecno Mobile",
     "name": "TECNO SPARK 10",
     "codename": "TECNO-Mobile-KI5q"
   },
@@ -181263,6 +181283,11 @@
     "brand": "Vision",
     "name": "B866V2",
     "codename": "MediaBox_B866V2"
+  },
+  {
+    "brand": "Vision",
+    "name": "B866V2F",
+    "codename": "B866V2F"
   },
   {
     "brand": "Vision",
@@ -192978,6 +193003,11 @@
     "brand": "ZTE",
     "name": "A202ZT",
     "codename": "Z6575S"
+  },
+  {
+    "brand": "ZTE",
+    "name": "A302ZT",
+    "codename": "Z6561S"
   },
   {
     "brand": "ZTE",
