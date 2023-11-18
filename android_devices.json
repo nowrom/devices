@@ -102871,6 +102871,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "4K TV",
+    "codename": "songshan"
+  },
+  {
+    "brand": "Motorola",
+    "name": "4K TV",
+    "codename": "songshan"
+  },
+  {
+    "brand": "Motorola",
     "name": "Android TV",
     "codename": "redwood"
   },
@@ -114818,6 +114828,11 @@
     "brand": "Oppo",
     "name": "A77 5G",
     "codename": "OP52F3L1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "A78",
+    "codename": "OP5745L1"
   },
   {
     "brand": "Oppo",
@@ -174733,6 +174748,11 @@
     "brand": "Toshiba",
     "name": "4K TV",
     "codename": "songshan"
+  },
+  {
+    "brand": "Toshiba",
+    "name": "65Z870MS",
+    "codename": "hengshan"
   },
   {
     "brand": "Toshiba",

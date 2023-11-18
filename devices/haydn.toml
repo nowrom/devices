@@ -8,6 +8,11 @@ xdathread = "https://forum.xda-developers.com/t/recovery-11-official-teamwin-rec
 maintainer = "Nebrassy"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/07-Nov-2023/NikGapps-core-arm64-14-20231107-signed.zip/download"
+recovery = ""
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 680"
 ram = "8/12 GB"

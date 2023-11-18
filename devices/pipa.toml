@@ -1,0 +1,9 @@
+brand = "Xiaomi"
+codename = "pipa"
+name = "Xiaomi pad 6"
+recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = "https://github.com/MindTheGapps/14.0.0-arm64/releases/tag/MindTheGapps-14.0.0-arm64-20231025_234300"
+recovery = ""
