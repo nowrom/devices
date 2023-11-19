@@ -405,6 +405,11 @@
     "codename": "ADVAN_TAB_A8"
   },
   {
+    "brand": "ADVAN",
+    "name": "VX_LITE",
+    "codename": "ADVAN_TAB_VX_LITE"
+  },
+  {
     "brand": "AEEZO",
     "name": "TK701",
     "codename": "TK701"
@@ -5641,6 +5646,11 @@
   },
   {
     "brand": "Alldocube",
+    "name": "KidzPad Pro",
+    "codename": "KidzPad_Pro"
+  },
+  {
+    "brand": "Alldocube",
     "name": "Smile_1",
     "codename": "Smile_1"
   },
@@ -5766,6 +5776,11 @@
   },
   {
     "brand": "Alldocube",
+    "name": "iPlay50",
+    "codename": "T1030X"
+  },
+  {
+    "brand": "Alldocube",
     "name": "iPlay50 Pro",
     "codename": "T1030M"
   },
@@ -5773,6 +5788,11 @@
     "brand": "Alldocube",
     "name": "iPlay50 Pro",
     "codename": "T1030M"
+  },
+  {
+    "brand": "Alldocube",
+    "name": "iPlay50S",
+    "codename": "T1029TA"
   },
   {
     "brand": "Alldocube",
@@ -34295,6 +34315,11 @@
     "codename": "RSE"
   },
   {
+    "brand": "E-LEAD",
+    "name": "RSE",
+    "codename": "RSE"
+  },
+  {
     "brand": "E-TACHI",
     "name": "A10_SMART",
     "codename": "A10_SMART"
@@ -46118,6 +46143,11 @@
     "brand": "HKC Elec",
     "name": "4K Smart TV",
     "codename": "pioneer"
+  },
+  {
+    "brand": "HKC Elec",
+    "name": "Google TV",
+    "codename": "lakeside"
   },
   {
     "brand": "HKC Elec",
@@ -74686,6 +74716,11 @@
   },
   {
     "brand": "KENSHI",
+    "name": "E28",
+    "codename": "E28"
+  },
+  {
+    "brand": "KENSHI",
     "name": "H38",
     "codename": "H38"
   },
@@ -77938,6 +77973,11 @@
     "brand": "Kruger&Matz",
     "name": "Eagle_702",
     "codename": "Eagle_702"
+  },
+  {
+    "brand": "Kruger&Matz",
+    "name": "Eagle_807",
+    "codename": "KM0807"
   },
   {
     "brand": "Kruger&Matz",
@@ -93516,6 +93556,11 @@
   },
   {
     "brand": "Logicom",
+    "name": "Five Pro",
+    "codename": "Five_Pro"
+  },
+  {
+    "brand": "Logicom",
     "name": "ID bot 53",
     "codename": "IDbot53"
   },
@@ -94066,6 +94111,11 @@
   },
   {
     "brand": "Logicom",
+    "name": "Le_Link",
+    "codename": "Le_Link"
+  },
+  {
+    "brand": "Logicom",
     "name": "Le_Pulse",
     "codename": "Le_Pulse"
   },
@@ -94108,6 +94158,11 @@
     "brand": "Logicom",
     "name": "Logikids_6",
     "codename": "Logikids_6"
+  },
+  {
+    "brand": "Logicom",
+    "name": "Luma",
+    "codename": "Luma"
   },
   {
     "brand": "Logicom",
@@ -94448,6 +94503,11 @@
     "brand": "Lyf",
     "name": "LS-6001",
     "codename": "LS-6001"
+  },
+  {
+    "brand": "Lyf",
+    "name": "LS1602UW",
+    "codename": "LYF"
   },
   {
     "brand": "Lyf",
@@ -97336,6 +97396,11 @@
   },
   {
     "brand": "Maze_speed",
+    "name": "M1582C MAX",
+    "codename": "M1582C_MAX"
+  },
+  {
+    "brand": "Maze_speed",
     "name": "M1586K",
     "codename": "M1586K"
   },
@@ -97403,6 +97468,11 @@
     "brand": "Maze_speed",
     "name": "SSB8T323",
     "codename": "SSB8T323"
+  },
+  {
+    "brand": "Me_Mobile",
+    "name": "Grace 9",
+    "codename": "Grace_9"
   },
   {
     "brand": "MeanIT",
@@ -106551,6 +106621,11 @@
   },
   {
     "brand": "Multilaser",
+    "name": "M10 3G",
+    "codename": "ML_SO0Q_M10_3G"
+  },
+  {
+    "brand": "Multilaser",
     "name": "M10 4G",
     "codename": "ML-JI0A-M10-4G"
   },
@@ -114061,6 +114136,11 @@
   },
   {
     "brand": "Onn (Walmart)",
+    "name": "M17QF21M",
+    "codename": "M17QF21M"
+  },
+  {
+    "brand": "Onn (Walmart)",
     "name": "ONA19TB002",
     "codename": "ONA19TB002"
   },
@@ -117901,6 +117981,11 @@
   },
   {
     "brand": "Oukitel",
+    "name": "C36_EEA",
+    "codename": "C36"
+  },
+  {
+    "brand": "Oukitel",
     "name": "C6 Pro",
     "codename": "C6_Pro"
   },
@@ -118938,6 +119023,11 @@
     "brand": "PIXART",
     "name": "Pixart_P20",
     "codename": "Pixart_P20"
+  },
+  {
+    "brand": "PIXART",
+    "name": "SZ10M68",
+    "codename": "SZ10M68"
   },
   {
     "brand": "PIXPRO",
@@ -132481,6 +132571,16 @@
   },
   {
     "brand": "SEBBE",
+    "name": "S22-EEA",
+    "codename": "S22-EEA"
+  },
+  {
+    "brand": "SEBBE",
+    "name": "S22-US",
+    "codename": "S22-US"
+  },
+  {
+    "brand": "SEBBE",
     "name": "S22_EEA",
     "codename": "S22_EEA"
   },
@@ -133043,6 +133143,11 @@
     "brand": "SOHO STYLE",
     "name": "S1582C",
     "codename": "S1582C"
+  },
+  {
+    "brand": "SOHO STYLE",
+    "name": "S1586K",
+    "codename": "S1586K"
   },
   {
     "brand": "SOHO STYLE",
@@ -153826,6 +153931,11 @@
   },
   {
     "brand": "Sky Devices",
+    "name": "Elite_PAD8USA",
+    "codename": "Elite_PAD8USA"
+  },
+  {
+    "brand": "Sky Devices",
     "name": "Elite_Q55",
     "codename": "Elite_Q55"
   },
@@ -154212,6 +154322,11 @@
   {
     "brand": "Sky Devices",
     "name": "SKY_PAD10Max",
+    "codename": "SKY_PAD10MXUSK2"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "SKY_PAD10Max",
     "codename": "SKY_PAD10Maxk1"
   },
   {
@@ -154273,6 +154388,11 @@
     "brand": "Sky Devices",
     "name": "X2",
     "codename": "Xmobile_X2_US"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "X63Max",
+    "codename": "X63Max"
   },
   {
     "brand": "Sky Devices",
@@ -171227,6 +171347,16 @@
   {
     "brand": "Teclast",
     "name": "T40HD_EEA",
+    "codename": "T40HD_EEA"
+  },
+  {
+    "brand": "Teclast",
+    "name": "T40HD_EEA",
+    "codename": "T40HD_EEA"
+  },
+  {
+    "brand": "Teclast",
+    "name": "T40HD_EEA",
     "codename": "T40HD_T"
   },
   {
@@ -185916,6 +186046,11 @@
   },
   {
     "brand": "Walton",
+    "name": "NEXG N71",
+    "codename": "NEXG_N71"
+  },
+  {
+    "brand": "Walton",
     "name": "Orbit M20",
     "codename": "OrbitM20"
   },
@@ -186498,6 +186633,11 @@
     "brand": "Walton",
     "name": "Walton Primo X5",
     "codename": "Primo_X5"
+  },
+  {
+    "brand": "Walton",
+    "name": "XANON X20",
+    "codename": "XANON_X20"
   },
   {
     "brand": "Wansa",
@@ -188356,6 +188496,11 @@
   },
   {
     "brand": "Wiseasy",
+    "name": "P5_EEA",
+    "codename": "P5"
+  },
+  {
+    "brand": "Wiseasy",
     "name": "T2",
     "codename": "T2"
   },
@@ -188433,6 +188578,11 @@
     "brand": "Wishtel",
     "name": "IRA_S2",
     "codename": "IRA_S2"
+  },
+  {
+    "brand": "Wishtel",
+    "name": "T811",
+    "codename": "T811"
   },
   {
     "brand": "Wismann",

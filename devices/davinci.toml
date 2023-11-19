@@ -45,19 +45,19 @@ photo = "https://avatars.githubusercontent.com/u/16484432?v=4"
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 470"
+ram = "6 GB"
+wifi = "802.11 a/b/g/n/ac"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 470"
+ram = "6 GB"
+wifi = "802.11 a/b/g/n/ac"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 470"
 ram = "6/8 GB"
-wifi = "802.11 a/b/g/n/ac"
-
-[[roms]]
-id = "lineageos"
-cpu = "Kryo 470"
-ram = "6 GB"
-wifi = "802.11 a/b/g/n/ac"
-
-[[roms]]
-id = "lineageos"
-cpu = "Kryo 470"
-ram = "6 GB"
 wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
@@ -112,13 +112,13 @@ download = "https://downloads.spark-os.live/?dir=davinci/"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.0"
+version = "v4.9"
 developer = "svb22"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v5.0"
 developer = "svb22"
 
 [specs]
