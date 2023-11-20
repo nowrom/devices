@@ -1,6 +1,6 @@
 brand = "Lenovo"
 codename = "A6020"
-name = "Vibe K5"
+name = "Vibe K5 Plus"
 
 [[recoveries]]
 id = "orangefox"

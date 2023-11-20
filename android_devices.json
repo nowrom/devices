@@ -401,6 +401,11 @@
   },
   {
     "brand": "ADVAN",
+    "name": "Sketsa3",
+    "codename": "ADVAN_SKETSA3"
+  },
+  {
+    "brand": "ADVAN",
     "name": "TAB A8",
     "codename": "ADVAN_TAB_A8"
   },
@@ -3043,6 +3048,11 @@
     "brand": "Achate",
     "name": "Kids Tab 1",
     "codename": "KidsTab1_EEA"
+  },
+  {
+    "brand": "Achate",
+    "name": "KidsTab3_EEA",
+    "codename": "KidsTab3_EEA"
   },
   {
     "brand": "Aconatic",
@@ -5791,8 +5801,23 @@
   },
   {
     "brand": "Alldocube",
+    "name": "iPlay50 Upgraded",
+    "codename": "T1030T"
+  },
+  {
+    "brand": "Alldocube",
     "name": "iPlay50S",
     "codename": "T1029TA"
+  },
+  {
+    "brand": "Alldocube",
+    "name": "iPlay50_Lite",
+    "codename": "U1030"
+  },
+  {
+    "brand": "Alldocube",
+    "name": "iPlay50_Mini_Lite",
+    "codename": "U807"
   },
   {
     "brand": "Alldocube",
@@ -15211,6 +15236,11 @@
   },
   {
     "brand": "BYYBUO",
+    "name": "SmartPad_A10_EU",
+    "codename": "SmartPad_A10_EU"
+  },
+  {
+    "brand": "BYYBUO",
     "name": "SmartPad_A10_L",
     "codename": "SmartPad_A10_L"
   },
@@ -16772,6 +16802,11 @@
   {
     "brand": "Blackview",
     "name": "Active 6",
+    "codename": "Active6_EEA"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Active 6",
     "codename": "Active6_RU"
   },
   {
@@ -17468,6 +17503,11 @@
     "brand": "Blackview",
     "name": "Tab16_RU",
     "codename": "Tab16_RU"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Tab50WiFi_EEA",
+    "codename": "Tab50WiFi"
   },
   {
     "brand": "Blackview",
@@ -29636,6 +29676,11 @@
   },
   {
     "brand": "DIALN",
+    "name": "X62",
+    "codename": "X62B"
+  },
+  {
+    "brand": "DIALN",
     "name": "X65",
     "codename": "X65"
   },
@@ -29643,6 +29688,16 @@
     "brand": "DIALN",
     "name": "X65",
     "codename": "X65A"
+  },
+  {
+    "brand": "DIALN",
+    "name": "X65",
+    "codename": "X65B"
+  },
+  {
+    "brand": "DIALN",
+    "name": "X65",
+    "codename": "X65C"
   },
   {
     "brand": "DIALN",
@@ -36791,6 +36846,11 @@
   },
   {
     "brand": "Entity",
+    "name": "ENTG1011",
+    "codename": "ENTG1011"
+  },
+  {
+    "brand": "Entity",
     "name": "HW304_HW291",
     "codename": "HW304_HW291"
   },
@@ -38313,6 +38373,11 @@
     "brand": "FACETEL",
     "name": "A12",
     "codename": "A12"
+  },
+  {
+    "brand": "FACETEL",
+    "name": "Q10-EEA",
+    "codename": "Q10-EEA"
   },
   {
     "brand": "FACETEL",
@@ -42063,6 +42128,11 @@
     "brand": "GOODTEL",
     "name": "G10_US",
     "codename": "G10_US"
+  },
+  {
+    "brand": "GOODTEL",
+    "name": "G2-EEA",
+    "codename": "G2-EEA"
   },
   {
     "brand": "GOODTEL",
@@ -73301,6 +73371,11 @@
   },
   {
     "brand": "JUSYEA",
+    "name": "J5_EEA",
+    "codename": "J5_EEA"
+  },
+  {
+    "brand": "JUSYEA",
     "name": "J5_M",
     "codename": "J5_M"
   },
@@ -97091,6 +97166,11 @@
   },
   {
     "brand": "Maxwest",
+    "name": "ASTRO_A63",
+    "codename": "MX-A63"
+  },
+  {
+    "brand": "Maxwest",
     "name": "ASTRO 8R",
     "codename": "MX-A81RWW"
   },
@@ -112761,6 +112841,11 @@
   },
   {
     "brand": "OMIX",
+    "name": "MixTab Pro 2",
+    "codename": "MixTab_Pro_2"
+  },
+  {
+    "brand": "OMIX",
     "name": "X3",
     "codename": "X3"
   },
@@ -128148,6 +128233,11 @@
     "brand": "Qsmart",
     "name": "Mark 2",
     "codename": "MARK_2"
+  },
+  {
+    "brand": "Qsmart",
+    "name": "QSmart Blaze",
+    "codename": "Blaze"
   },
   {
     "brand": "Qsmart",
@@ -153116,6 +153206,11 @@
   },
   {
     "brand": "SimiMobile",
+    "name": "S10Y",
+    "codename": "S10Y"
+  },
+  {
+    "brand": "SimiMobile",
     "name": "S501",
     "codename": "S501"
   },
@@ -153806,6 +153901,11 @@
   },
   {
     "brand": "Sky Devices",
+    "name": "Elite T10",
+    "codename": "Elite_T10A"
+  },
+  {
+    "brand": "Sky Devices",
     "name": "Elite T4",
     "codename": "Elite_T4"
   },
@@ -154273,6 +154373,11 @@
     "brand": "Sky Devices",
     "name": "SKY PAD8",
     "codename": "SKY_PAD8"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "SKY PAD8PRO",
+    "codename": "SKY_PAD8PROUSON"
   },
   {
     "brand": "Sky Devices",
@@ -169970,6 +170075,11 @@
     "codename": "T_mini"
   },
   {
+    "brand": "TRUE_SLIM",
+    "name": "T1586K",
+    "codename": "T1586K"
+  },
+  {
     "brand": "TSUNAMi",
     "name": "Tablet Tsunami TSTA080D1",
     "codename": "MG080D1T"
@@ -170198,6 +170308,16 @@
     "brand": "Tabi_by_T_GO",
     "name": "TGO_TB1001_4R",
     "codename": "TGO_TB1001_4R"
+  },
+  {
+    "brand": "Tabi_by_T_GO",
+    "name": "TGO_TB780i",
+    "codename": "TGO_TB780i"
+  },
+  {
+    "brand": "Tabi_by_T_GO",
+    "name": "TGO_TB780ik",
+    "codename": "TGO_TB780ik"
   },
   {
     "brand": "TabletKiosk",
@@ -176381,6 +176501,11 @@
   },
   {
     "brand": "Ulefone",
+    "name": "Armor 24",
+    "codename": "Armor_24"
+  },
+  {
+    "brand": "Ulefone",
     "name": "Armor 2S",
     "codename": "Armor_2S"
   },
@@ -181068,6 +181193,11 @@
     "brand": "Vgo Tel",
     "name": "NEW 15",
     "codename": "NEW_15"
+  },
+  {
+    "brand": "Vgo Tel",
+    "name": "NEW 24",
+    "codename": "NEW_24"
   },
   {
     "brand": "Vgo Tel",
@@ -191566,6 +191696,11 @@
   },
   {
     "brand": "YesTeL",
+    "name": "X2_US",
+    "codename": "X2_US"
+  },
+  {
+    "brand": "YesTeL",
     "name": "X3",
     "codename": "X3"
   },
@@ -200001,6 +200136,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade X10 II",
+    "codename": "P616T03_AC"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade X10 Pro",
     "codename": "P963T02C"
   },
@@ -204573,6 +204713,11 @@
     "brand": "kiddoboo",
     "name": "KB101",
     "codename": "KB101"
+  },
+  {
+    "brand": "kiddoboo",
+    "name": "KB101B",
+    "codename": "KB101B"
   },
   {
     "brand": "kiddoboo",
