@@ -29651,6 +29651,11 @@
   },
   {
     "brand": "DIALN",
+    "name": "Nova",
+    "codename": "NovaA"
+  },
+  {
+    "brand": "DIALN",
     "name": "S8",
     "codename": "S8"
   },
@@ -114531,6 +114536,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "A2x 5G",
+    "codename": "OP5A0D"
+  },
+  {
+    "brand": "Oppo",
     "name": "A3",
     "codename": "CPH1837"
   },
@@ -117623,6 +117633,11 @@
     "brand": "Orange",
     "name": "Orange Nola play",
     "codename": "Nola_play"
+  },
+  {
+    "brand": "Orange",
+    "name": "Orange Nola play plus",
+    "codename": "Nola_play_plus"
   },
   {
     "brand": "Orange",
@@ -131583,6 +131598,11 @@
     "brand": "Reeder",
     "name": "S19 Max Pro S",
     "codename": "S19_Max_Pro_S"
+  },
+  {
+    "brand": "Reeder",
+    "name": "S19 Max Pro S Zoom",
+    "codename": "S19_Max_Pro_S_Zoom"
   },
   {
     "brand": "Reeder",
@@ -173118,6 +173138,11 @@
     "brand": "Tecno",
     "name": "TECNO SPARK 20",
     "codename": "TECNO-KJ5n"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 20 Pro",
+    "codename": "TECNO-KJ6"
   },
   {
     "brand": "Tecno",
