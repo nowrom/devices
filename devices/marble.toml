@@ -4,6 +4,11 @@ name = "Redmi Note 12 Turbo"
 recoveries = []
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/"
+recovery = ""
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]

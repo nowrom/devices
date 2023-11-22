@@ -54541,6 +54541,11 @@
   },
   {
     "brand": "Hisense",
+    "name": "Hisense U964",
+    "codename": "HS7731ESP"
+  },
+  {
+    "brand": "Hisense",
     "name": "Hisense U965",
     "codename": "HS6580MT"
   },
@@ -72943,6 +72948,11 @@
     "brand": "Itel",
     "name": "itel P55+",
     "codename": "itel-P663L"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel P55T",
+    "codename": "itel-P665L"
   },
   {
     "brand": "Itel",
@@ -162086,6 +162096,16 @@
   },
   {
     "brand": "TCL",
+    "name": "TCL 406i",
+    "codename": "Civic_S_Refresh"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 406s",
+    "codename": "Civic_S"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL 408",
     "codename": "Civic_Plus"
   },
@@ -162502,6 +162522,11 @@
   {
     "brand": "TCL",
     "name": "TCL TAB10 Gen2",
+    "codename": "Gaia"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL TAB10 Gen2 LTE",
     "codename": "Gaia"
   },
   {
@@ -171686,6 +171711,11 @@
   },
   {
     "brand": "Teclast",
+    "name": "TLG01_EEA",
+    "codename": "TLG01_EEA"
+  },
+  {
+    "brand": "Teclast",
     "name": "X_EEA",
     "codename": "X_EEA"
   },
@@ -175408,6 +175438,11 @@
     "brand": "Toush",
     "name": "4K FF SMART TV",
     "codename": "SW6H"
+  },
+  {
+    "brand": "Toyota",
+    "name": "Toyota",
+    "codename": "TSA"
   },
   {
     "brand": "Tpad",
@@ -183333,6 +183368,11 @@
     "brand": "Vivo",
     "name": "V9 Pro",
     "codename": "1851"
+  },
+  {
+    "brand": "Vivo",
+    "name": "X100",
+    "codename": "PD2309"
   },
   {
     "brand": "Vivo",
