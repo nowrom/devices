@@ -25006,6 +25006,11 @@
   },
   {
     "brand": "Coby",
+    "name": "Dorado",
+    "codename": "Dorado"
+  },
+  {
+    "brand": "Coby",
     "name": "MID7052",
     "codename": "MID7052"
   },
@@ -29648,6 +29653,11 @@
     "brand": "DIALN",
     "name": "Neo",
     "codename": "NeoA"
+  },
+  {
+    "brand": "DIALN",
+    "name": "Nova",
+    "codename": "Nova"
   },
   {
     "brand": "DIALN",
@@ -51828,6 +51838,11 @@
     "brand": "Helio",
     "name": "S25",
     "codename": "HelioS25"
+  },
+  {
+    "brand": "HemiltonPro",
+    "name": "Tab1000",
+    "codename": "Tab1000"
   },
   {
     "brand": "Hercls",
@@ -91376,6 +91391,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo Tab M11",
+    "codename": "TB330FU"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo Tab M7",
     "codename": "7305F"
   },
@@ -92793,6 +92813,11 @@
     "brand": "Lenovo",
     "name": "联想平板电脑 启天K10",
     "codename": "X6C6NBX"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "联想平板电脑 启天K10c",
+    "codename": "TB330FU"
   },
   {
     "brand": "Lenovo",
@@ -205073,6 +205098,11 @@
     "brand": "onn.",
     "name": "onn. 4k TV",
     "codename": "sti6140d360"
+  },
+  {
+    "brand": "onn.",
+    "name": "onn_2k_gtv",
+    "codename": "XNA"
   },
   {
     "brand": "pendo",
