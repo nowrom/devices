@@ -6941,6 +6941,11 @@
   },
   {
     "brand": "Arcelik",
+    "name": "Arcelik Google TV QLED",
+    "codename": "wanchai"
+  },
+  {
+    "brand": "Arcelik",
     "name": "Arcelik Google TV UHD+",
     "codename": "wanchai"
   },
@@ -15527,6 +15532,11 @@
   {
     "brand": "Beko",
     "name": "Beko Google TV",
+    "codename": "wanchai"
+  },
+  {
+    "brand": "Beko",
+    "name": "Beko Google TV QLED",
     "codename": "wanchai"
   },
   {
@@ -45711,6 +45721,11 @@
   },
   {
     "brand": "Grundig",
+    "name": "Grundig Google TV QLED",
+    "codename": "wanchai"
+  },
+  {
+    "brand": "Grundig",
     "name": "Grundig Google TV UHD+",
     "codename": "wanchai"
   },
@@ -69148,11 +69163,6 @@
     "brand": "Infinix",
     "name": "NOTE 12",
     "codename": "Infinix-X670"
-  },
-  {
-    "brand": "Infinix",
-    "name": "NOTE 12 PRO",
-    "codename": "Infinix-X676B"
   },
   {
     "brand": "Infinix",
@@ -102143,6 +102153,11 @@
     "brand": "Mobiwire",
     "name": "Altice E55",
     "codename": "E55"
+  },
+  {
+    "brand": "Mobiwire",
+    "name": "Benin",
+    "codename": "H6681_Pro"
   },
   {
     "brand": "Mobiwire",
@@ -172486,11 +172501,6 @@
   },
   {
     "brand": "Tecno",
-    "name": "POVA 4",
-    "codename": "TECNO-LG7n"
-  },
-  {
-    "brand": "Tecno",
     "name": "POVA 5",
     "codename": "TECNO-LH7n"
   },
@@ -172941,6 +172951,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO CAMON 20s Pro 5G",
+    "codename": "TECNO-CK8nB"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO CAMON iACE 2",
     "codename": "TECNO-KB2"
   },
@@ -173198,6 +173213,11 @@
     "brand": "Tecno",
     "name": "TECNO SPARK 20 Pro",
     "codename": "TECNO-KJ6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 20C",
+    "codename": "TECNO-BG7"
   },
   {
     "brand": "Tecno",
@@ -183711,6 +183731,16 @@
   },
   {
     "brand": "Vivo",
+    "name": "Y27s",
+    "codename": "V2247"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y27s",
+    "codename": "V2247"
+  },
+  {
+    "brand": "Vivo",
     "name": "Y28",
     "codename": "Y28"
   },
@@ -184948,6 +184978,11 @@
     "brand": "Vmobile",
     "name": "A15",
     "codename": "A15"
+  },
+  {
+    "brand": "Vocal",
+    "name": "v0",
+    "codename": "v0"
   },
   {
     "brand": "Vodafone",

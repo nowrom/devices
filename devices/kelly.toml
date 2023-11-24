@@ -1,0 +1,9 @@
+brand = "ZTE"
+codename = "kelly"
+name = "ZTE Fanfare 3"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://xdaforums.com/t/recovery-official-twrp-recovery-for-tecno-spark-8c-kg5j-kelly.4642352/"
+maintainer = "kelexine"
