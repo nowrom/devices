@@ -21226,6 +21226,11 @@
   },
   {
     "brand": "CHAINWAY",
+    "name": "MC62",
+    "codename": "MC62"
+  },
+  {
+    "brand": "CHAINWAY",
     "name": "MC95",
     "codename": "MC95"
   },
@@ -67071,6 +67076,11 @@
   },
   {
     "brand": "IKALL",
+    "name": "K510",
+    "codename": "K510"
+  },
+  {
+    "brand": "IKALL",
     "name": "N4",
     "codename": "N4"
   },
@@ -75043,6 +75053,11 @@
     "brand": "KONKA",
     "name": "Konka android tv",
     "codename": "hanyang"
+  },
+  {
+    "brand": "KONKA",
+    "name": "M27S",
+    "codename": "M27S"
   },
   {
     "brand": "KONKA",
@@ -93531,6 +93546,11 @@
   },
   {
     "brand": "Logic Mobility",
+    "name": "LOGIC_L66M",
+    "codename": "LOGIC_L66M"
+  },
+  {
+    "brand": "Logic Mobility",
     "name": "LOGIC_X40",
     "codename": "LOGIC_X40"
   },
@@ -106228,6 +106248,11 @@
     "brand": "Motorola Solutions",
     "name": "LEX L10ig",
     "codename": "lexl10ig"
+  },
+  {
+    "brand": "Motorola Solutions",
+    "name": "LEX L11",
+    "codename": "lexl11g_64"
   },
   {
     "brand": "Motorola Solutions",

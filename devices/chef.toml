@@ -7,6 +7,11 @@ id = "twrp"
 maintainer = "Rohan Hasabe"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://github.com/MindTheGapps/14.0.0-arm64/releases/latest"
+recovery = "https://dl.twrp.me/chef/"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 260"
 ram = "4/6 GB LPDDR4X"
