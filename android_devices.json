@@ -266,6 +266,11 @@
   },
   {
     "brand": "ACE (Global)",
+    "name": "BUZZ 4 Ultra",
+    "codename": "BUZZ_4_Ultra"
+  },
+  {
+    "brand": "ACE (Global)",
     "name": "CLEVER 3",
     "codename": "CLEVER_3"
   },
@@ -6753,6 +6758,11 @@
     "brand": "Aocwei",
     "name": "X700_EEA",
     "codename": "X700_EEA"
+  },
+  {
+    "brand": "Aocwei",
+    "name": "X900-US",
+    "codename": "X900-US"
   },
   {
     "brand": "Aocwei",
@@ -17346,6 +17356,11 @@
   },
   {
     "brand": "Blackview",
+    "name": "Tab 3 Kids",
+    "codename": "Tab3Kids"
+  },
+  {
+    "brand": "Blackview",
     "name": "Tab 50 WiFi",
     "codename": "Tab50WiFi"
   },
@@ -17353,6 +17368,11 @@
     "brand": "Blackview",
     "name": "Tab 60",
     "codename": "Tab60"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Tab 60 Kids",
+    "codename": "Tab60Kids_EEA"
   },
   {
     "brand": "Blackview",
@@ -21528,6 +21548,16 @@
     "brand": "COOKIE",
     "name": "YS-CK0001",
     "codename": "YS-CK0001"
+  },
+  {
+    "brand": "COOLFAN",
+    "name": "OC106",
+    "codename": "OC106"
+  },
+  {
+    "brand": "COOLFAN",
+    "name": "OC106",
+    "codename": "OC106_EEA"
   },
   {
     "brand": "COOP",
@@ -29708,6 +29738,11 @@
     "brand": "DIALN",
     "name": "X62",
     "codename": "X62B"
+  },
+  {
+    "brand": "DIALN",
+    "name": "X62",
+    "codename": "X62C"
   },
   {
     "brand": "DIALN",
@@ -38416,6 +38451,11 @@
   },
   {
     "brand": "FACETEL",
+    "name": "Q10-US",
+    "codename": "Q10-US"
+  },
+  {
+    "brand": "FACETEL",
     "name": "Q10_EEA",
     "codename": "Q10_EEA"
   },
@@ -38453,6 +38493,11 @@
     "brand": "FACETEL",
     "name": "Q5_US",
     "codename": "Q5_US"
+  },
+  {
+    "brand": "FACETEL",
+    "name": "Q6_US",
+    "codename": "Q6_US"
   },
   {
     "brand": "FACETEL",
@@ -51840,6 +51885,11 @@
     "codename": "JS550"
   },
   {
+    "brand": "Helgi",
+    "name": "HXxx10",
+    "codename": "rk3588_t"
+  },
+  {
     "brand": "Helio",
     "name": "Helio S5",
     "codename": "Helio_S5"
@@ -57397,6 +57447,11 @@
   {
     "brand": "Hot Pepper",
     "name": "Chilaca",
+    "codename": "HPPL60A"
+  },
+  {
+    "brand": "Hot Pepper",
+    "name": "Chilaca Plus",
     "codename": "HPPL60A"
   },
   {
@@ -73351,6 +73406,11 @@
   },
   {
     "brand": "JREN",
+    "name": "J11",
+    "codename": "J11"
+  },
+  {
+    "brand": "JREN",
     "name": "J11PLUS",
     "codename": "J11PLUS"
   },
@@ -74848,6 +74908,16 @@
     "brand": "KENSHI",
     "name": "H38",
     "codename": "H38"
+  },
+  {
+    "brand": "KENSHI",
+    "name": "Kenshi KP10",
+    "codename": "KP10"
+  },
+  {
+    "brand": "KENSHI",
+    "name": "Kenshi KP11",
+    "codename": "KP11"
   },
   {
     "brand": "KEP-Tech",
@@ -112961,6 +113031,11 @@
   },
   {
     "brand": "OMIX",
+    "name": "X6",
+    "codename": "X6"
+  },
+  {
+    "brand": "OMIX",
     "name": "X600",
     "codename": "X600"
   },
@@ -113383,6 +113458,11 @@
     "brand": "Oangcc",
     "name": "A13_US",
     "codename": "A13_US"
+  },
+  {
+    "brand": "Oangcc",
+    "name": "A9-EEA",
+    "codename": "A9-EEA"
   },
   {
     "brand": "Oangcc",
@@ -118611,6 +118691,11 @@
   },
   {
     "brand": "Oukitel",
+    "name": "WP30_Pro_EEA",
+    "codename": "WP30_Pro"
+  },
+  {
+    "brand": "Oukitel",
     "name": "WP5",
     "codename": "WP5"
   },
@@ -122673,6 +122758,11 @@
     "brand": "Pixus",
     "name": "Pixus_Drive",
     "codename": "Pixus_Drive"
+  },
+  {
+    "brand": "Pixus",
+    "name": "Pixus_Folio",
+    "codename": "Pixus_Folio"
   },
   {
     "brand": "Pixus",
@@ -132948,6 +133038,16 @@
     "brand": "SGIN",
     "name": "C8",
     "codename": "C8"
+  },
+  {
+    "brand": "SGIN",
+    "name": "M1046W",
+    "codename": "M1046W"
+  },
+  {
+    "brand": "SGIN",
+    "name": "M806BW6",
+    "codename": "M806BW6"
   },
   {
     "brand": "SGIN",
@@ -154451,6 +154551,11 @@
   },
   {
     "brand": "Sky Devices",
+    "name": "SKY PAD10MAX",
+    "codename": "SKY_PAD10MAXEXUS"
+  },
+  {
+    "brand": "Sky Devices",
     "name": "SKY PAD10Max",
     "codename": "SKY_PAD10MaxNUS"
   },
@@ -158783,6 +158888,11 @@
     "brand": "SparX",
     "name": "NEO_6",
     "codename": "NEO_6"
+  },
+  {
+    "brand": "SparX",
+    "name": "Neo 11",
+    "codename": "Neo_11"
   },
   {
     "brand": "SparX",
@@ -170046,6 +170156,16 @@
   },
   {
     "brand": "TOSCIDO",
+    "name": "T181",
+    "codename": "T181"
+  },
+  {
+    "brand": "TOSCIDO",
+    "name": "T181-EEA",
+    "codename": "T181-EEA"
+  },
+  {
+    "brand": "TOSCIDO",
     "name": "T20-EEA",
     "codename": "T20-EEA"
   },
@@ -170313,6 +170433,11 @@
     "brand": "TVPLUS",
     "name": "TV PLUS 4K BOX",
     "codename": "DV6069Y_TVPLUS"
+  },
+  {
+    "brand": "TVT(A)",
+    "name": "TVT-T108",
+    "codename": "TVT-T108"
   },
   {
     "brand": "TVUp",
@@ -176681,6 +176806,11 @@
   },
   {
     "brand": "Ulefone",
+    "name": "Armor Pad 2",
+    "codename": "Armor_Pad_2"
+  },
+  {
+    "brand": "Ulefone",
     "name": "Armor Pad Lite",
     "codename": "ArmorPadLite"
   },
@@ -178503,6 +178633,11 @@
     "brand": "Unnion Technologies",
     "name": "HH25",
     "codename": "HH25"
+  },
+  {
+    "brand": "Unnion Technologies",
+    "name": "UN-CT101",
+    "codename": "UN-CT101"
   },
   {
     "brand": "Unnion Technologies",
@@ -186331,6 +186466,11 @@
   },
   {
     "brand": "Walton",
+    "name": "NEXG N71 Plus",
+    "codename": "NEXG_N71_Plus"
+  },
+  {
+    "brand": "Walton",
     "name": "Orbit M20",
     "codename": "OrbitM20"
   },
@@ -191208,6 +191348,11 @@
     "brand": "Xmobile",
     "name": "X8Max",
     "codename": "X8Max"
+  },
+  {
+    "brand": "Xmobile",
+    "name": "X8Pro",
+    "codename": "X8Pronus"
   },
   {
     "brand": "Xmobile",
@@ -200291,6 +200436,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade X10 II Pro+",
+    "codename": "P618T01C"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade X10 Pro",
     "codename": "P963T02C"
   },
@@ -200298,6 +200448,16 @@
     "brand": "ZTE",
     "name": "ZTE Blade X10s",
     "codename": "P963T01C"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade X8 II Pro",
+    "codename": "P616T02_AC"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade X8 Pro",
+    "codename": "P616T01C"
   },
   {
     "brand": "ZTE",
@@ -200443,6 +200603,21 @@
     "brand": "ZTE",
     "name": "ZTE_Blade_V1000",
     "codename": "P671F20"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE_Blade_X10_II_Pro",
+    "codename": "P616T03C"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE_Blade_X10_II_Pro+",
+    "codename": "P618T01C"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE_Blade_X8_II_Pro",
+    "codename": "P616T02C"
   },
   {
     "brand": "ZTE",
