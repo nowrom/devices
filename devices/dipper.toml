@@ -16,6 +16,11 @@ id = "ancientos"
 photo = "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi8-4.jpg"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/"
+recovery = "https://dl.twrp.me/dipper/"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
