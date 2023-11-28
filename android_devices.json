@@ -21191,6 +21191,11 @@
   },
   {
     "brand": "CHAINWAY",
+    "name": "C61",
+    "codename": "C61P"
+  },
+  {
+    "brand": "CHAINWAY",
     "name": "C66",
     "codename": "C66"
   },
@@ -135751,6 +135756,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy A05s",
+    "codename": "a05s"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy A10",
     "codename": "a10"
   },
@@ -179071,6 +179081,11 @@
   },
   {
     "brand": "VIMOQ",
+    "name": "A662LS",
+    "codename": "VIMOQ-A662LS"
+  },
+  {
+    "brand": "VIMOQ",
     "name": "VIMOQ  AC50",
     "codename": "VIMOQ-A507LD"
   },
@@ -205996,6 +206011,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme Q5",
+    "codename": "RE547D"
+  },
+  {
+    "brand": "realme",
     "name": "realme Q5 Pro",
     "codename": "RE5477"
   },
@@ -206203,11 +206223,6 @@
     "brand": "realme",
     "name": "真我 Q3 Pro 5G",
     "codename": "RMX2205CN"
-  },
-  {
-    "brand": "realme",
-    "name": "真我 Q5",
-    "codename": "RE547D"
   },
   {
     "brand": "realme",
