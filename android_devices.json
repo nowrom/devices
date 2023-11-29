@@ -2316,6 +2316,16 @@
   },
   {
     "brand": "Acer",
+    "name": "Battlezone LTE",
+    "codename": "Battlezone_LTE"
+  },
+  {
+    "brand": "Acer",
+    "name": "Battlezone LTE",
+    "codename": "Battlezone_LTE"
+  },
+  {
+    "brand": "Acer",
     "name": "Baymax",
     "codename": "Baymax"
   },
@@ -6963,6 +6973,11 @@
     "brand": "Arcelik",
     "name": "B55L 9682 5AS",
     "codename": "arcelik_eu"
+  },
+  {
+    "brand": "Arcelik",
+    "name": "Turkey",
+    "codename": "martin"
   },
   {
     "brand": "Archos",
@@ -15841,6 +15856,11 @@
   },
   {
     "brand": "BenQ",
+    "name": "TEY2A",
+    "codename": "TEY2A"
+  },
+  {
+    "brand": "BenQ",
     "name": "laoshan_BenQ",
     "codename": "laoshan"
   },
@@ -17861,6 +17881,11 @@
   },
   {
     "brand": "Blaupunkt",
+    "name": "Blaupunkt 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "Blaupunkt",
     "name": "Blaupunkt 4K Google TV",
     "codename": "keoneae"
   },
@@ -18541,6 +18566,11 @@
   },
   {
     "brand": "Blu",
+    "name": "C6L MAX",
+    "codename": "C0200"
+  },
+  {
+    "brand": "Blu",
     "name": "C6x",
     "codename": "C090P"
   },
@@ -18743,6 +18773,11 @@
     "brand": "Blu",
     "name": "G33",
     "codename": "G0892"
+  },
+  {
+    "brand": "Blu",
+    "name": "G33",
+    "codename": "G0892_SP"
   },
   {
     "brand": "Blu",
@@ -37733,6 +37768,11 @@
     "brand": "Everpad",
     "name": "SC730",
     "codename": "EVERPAD-SC730"
+  },
+  {
+    "brand": "Everpad",
+    "name": "VORTEX_V10",
+    "codename": "VORTEX_V10"
   },
   {
     "brand": "Evertek",
@@ -73036,6 +73076,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel P55",
+    "codename": "itel-A666L"
+  },
+  {
+    "brand": "Itel",
     "name": "itel P55 5G",
     "codename": "itel-P661N"
   },
@@ -107122,6 +107167,11 @@
   {
     "brand": "Multilaser",
     "name": "M7 WIFI",
+    "codename": "ML_SO0S_M7_WIFI"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "M7 WIFI",
     "codename": "ML_SO1E_M7_Wifi"
   },
   {
@@ -112448,6 +112498,11 @@
     "brand": "Nuu",
     "name": "B20",
     "codename": "N6501LA"
+  },
+  {
+    "brand": "Nuu",
+    "name": "B30 Pro",
+    "codename": "S6702XA"
   },
   {
     "brand": "Nuu",
@@ -124228,6 +124283,11 @@
     "brand": "Positivo",
     "name": "T810C",
     "codename": "T810C"
+  },
+  {
+    "brand": "Positivo",
+    "name": "TL10",
+    "codename": "TL10"
   },
   {
     "brand": "Positivo",
@@ -186488,6 +186548,11 @@
     "brand": "Walton",
     "name": "NEXG N71 Plus",
     "codename": "NEXG_N71_Plus"
+  },
+  {
+    "brand": "Walton",
+    "name": "NEXG N8",
+    "codename": "NEXG_N8"
   },
   {
     "brand": "Walton",
