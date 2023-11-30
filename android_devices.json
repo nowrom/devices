@@ -25131,6 +25131,11 @@
   },
   {
     "brand": "CoinComputers",
+    "name": "1200AS_plus",
+    "codename": "1200AS_plus"
+  },
+  {
+    "brand": "CoinComputers",
     "name": "TF10EA2",
     "codename": "TF10EA2_5"
   },
@@ -74938,6 +74943,11 @@
     "brand": "KEMPLER STRAUSS",
     "name": "ZKEMPLER_PLUS",
     "codename": "ZKEMPLER_PLUS"
+  },
+  {
+    "brand": "KENSHI",
+    "name": "Armor_P1s",
+    "codename": "Armor_P1s"
   },
   {
     "brand": "KENSHI",
@@ -177153,6 +177163,11 @@
     "brand": "Ulefone",
     "name": "Note 15",
     "codename": "Note_15"
+  },
+  {
+    "brand": "Ulefone",
+    "name": "Note 16 Pro",
+    "codename": "GQ3106"
   },
   {
     "brand": "Ulefone",
