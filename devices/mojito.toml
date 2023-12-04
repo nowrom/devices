@@ -1,4 +1,4 @@
-brand = "Xiaomi"
+brand = "Redmi"
 codename = "mojito"
 name = "Redmi Note 10"
 
@@ -26,6 +26,11 @@ changelog = "- Based on MIUI 14 FW\r\n- Powered by NetErnels kernel!\r\n\r\nArro
 
 [[roms]]
 id = "cherishos"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://eu.dl.twrp.me/mojito/"
 
 [[roms]]
 id = "dotos"

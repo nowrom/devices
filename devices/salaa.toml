@@ -1,0 +1,8 @@
+brand = "realme"
+codename = "salaa"
+name = "realme 7/Narzo 20 Pro/Narzo 30 4G"
+recoveries = []
+
+[[roms]]
+id = "arrowos"
+maintainer = "TG_DEVICE_MAINTAINER"

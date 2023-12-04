@@ -25,7 +25,7 @@ changelog = "- msm_irqbalance config: Do not balance msm_drm and kgsl-3d0 IRQs\r
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/07-Nov-2023/"
+gapps = "https://nikgapps.com/crdroid-official"
 recovery = "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/alioth/"
 
 [[roms]]

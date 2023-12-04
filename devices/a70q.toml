@@ -1,12 +1,16 @@
 brand = "Samsung"
 codename = "a70q"
 name = "Galaxy A70"
-roms = []
 
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-pre-official-twrp-3-4-0-0-for-samsung-galaxy-a70.4194039/"
 maintainer = "Haky86"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://wiki.lineageos.org/gapps"
+recovery = "https://sourceforge.net/projects/haky86/files/SamsungGalaxyA70/Recoveries/crDroid/14.x/crDroidAndroid-14.0-20231202-a70q-v10.0-BETA.tar/download"
 
 [specs]
 cpu = "Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver)"

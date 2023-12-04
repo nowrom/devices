@@ -35560,6 +35560,11 @@
     "codename": "Trinity_T900"
   },
   {
+    "brand": "ESOL",
+    "name": "HCB_5186",
+    "codename": "Interactive_White_Board"
+  },
+  {
     "brand": "ETERNITY",
     "name": "HERO-SP001",
     "codename": "HERO-SP001"
@@ -69181,6 +69186,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "Infinix SMART 8 Plus",
+    "codename": "Infinix-X6526"
+  },
+  {
+    "brand": "Infinix",
     "name": "Infinix X5010",
     "codename": "Infinix-X5010"
   },
@@ -72348,6 +72358,11 @@
     "brand": "Itel",
     "name": "P51",
     "codename": "P51"
+  },
+  {
+    "brand": "Itel",
+    "name": "Pad  1 mini",
+    "codename": "itel-IKP-31"
   },
   {
     "brand": "Itel",
@@ -113588,6 +113603,11 @@
     "brand": "Octopus",
     "name": "Octopus_One",
     "codename": "Octopus_One"
+  },
+  {
+    "brand": "Odido",
+    "name": "4K TV Box",
+    "codename": "SEI800TFAS"
   },
   {
     "brand": "Odotpad",
@@ -175295,6 +175315,11 @@
     "codename": "N8_KIDS"
   },
   {
+    "brand": "Topwise",
+    "name": "SK210",
+    "codename": "SK210"
+  },
+  {
     "brand": "Torex",
     "name": "Rugged_tablets",
     "codename": "Torex8plus"
@@ -176841,6 +176866,11 @@
   },
   {
     "brand": "Ulefone",
+    "name": "Armor 23 Ultra",
+    "codename": "Armor_23_Ultra"
+  },
+  {
+    "brand": "Ulefone",
     "name": "Armor 24",
     "codename": "Armor_24"
   },
@@ -177173,6 +177203,11 @@
     "brand": "Ulefone",
     "name": "Note 16 Pro",
     "codename": "Note_16_Pro"
+  },
+  {
+    "brand": "Ulefone",
+    "name": "Note 17 Pro",
+    "codename": "Note_17_Pro"
   },
   {
     "brand": "Ulefone",
@@ -178923,6 +178958,11 @@
     "brand": "Urovo",
     "name": "RT40",
     "codename": "SQ47"
+  },
+  {
+    "brand": "Urovo",
+    "name": "RT40S",
+    "codename": "RT40S"
   },
   {
     "brand": "Urovo",
@@ -184001,6 +184041,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "Y28 5G",
+    "codename": "V2315"
+  },
+  {
+    "brand": "Vivo",
     "name": "Y30 5G",
     "codename": "2160"
   },
@@ -187998,6 +188043,11 @@
     "brand": "Wiko",
     "name": "T10",
     "codename": "W-V673"
+  },
+  {
+    "brand": "Wiko",
+    "name": "T20",
+    "codename": "T20"
   },
   {
     "brand": "Wiko",
@@ -205523,6 +205573,11 @@
     "brand": "realme",
     "name": "RMX3710",
     "codename": "REE2ADL1"
+  },
+  {
+    "brand": "realme",
+    "name": "RMX3771",
+    "codename": "RE58B8L1"
   },
   {
     "brand": "realme",

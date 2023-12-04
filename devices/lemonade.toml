@@ -9,7 +9,7 @@ maintainer = "Nebrassy"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/crdroid/files/other/"
+gapps = "https://nikgapps.com/crdroid-official"
 recovery = "https://sourceforge.net/projects/crdroid/files/lemonade/10.x/recovery/"
 
 [[roms]]
