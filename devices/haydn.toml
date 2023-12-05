@@ -13,6 +13,12 @@ gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/07-
 recovery = ""
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 680"
 ram = "8/12 GB"
