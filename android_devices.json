@@ -4161,6 +4161,11 @@
   },
   {
     "brand": "Aiwa",
+    "name": "AIWA TV",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "Aiwa",
     "name": "AW790",
     "codename": "AW790"
   },
@@ -4353,6 +4358,11 @@
     "brand": "Akai",
     "name": "AKAI",
     "codename": "stanford"
+  },
+  {
+    "brand": "Akai",
+    "name": "AKAI 4K SMART TV",
+    "codename": "SW6H"
   },
   {
     "brand": "Akai",
@@ -20038,6 +20048,11 @@
     "brand": "Blu",
     "name": "X22",
     "codename": "X0010WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "X5",
+    "codename": "X0020"
   },
   {
     "brand": "Bluboo",
@@ -51186,6 +51201,16 @@
   },
   {
     "brand": "Haier",
+    "name": "Haier TV",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "Haier",
+    "name": "Haier TV FF",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "Haier",
     "name": "Haier Titan T5",
     "codename": "Titan_T5"
   },
@@ -54578,6 +54603,11 @@
     "brand": "Hisense",
     "name": "Hisense U70 Pro",
     "codename": "HLTE109E_01"
+  },
+  {
+    "brand": "Hisense",
+    "name": "Hisense U70 Pro",
+    "codename": "HLTE109E_02"
   },
   {
     "brand": "Hisense",
@@ -75536,6 +75566,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "AKAI",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
     "name": "AP",
     "codename": "stanford"
   },
@@ -75588,6 +75623,11 @@
     "brand": "KTCtv",
     "name": "COLORVIEW",
     "codename": "lavender"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "COLORVIEW",
+    "codename": "mountbaker"
   },
   {
     "brand": "KTCtv",
@@ -86785,6 +86825,11 @@
     "codename": "LW788"
   },
   {
+    "brand": "LYNKNEX",
+    "name": "LYNKNEX PX5",
+    "codename": "LYNKNEX-PX5"
+  },
+  {
     "brand": "LYOTECH_LABS",
     "name": "LFi_ONE_EEA",
     "codename": "LFi_ONE"
@@ -96746,6 +96791,11 @@
   },
   {
     "brand": "MarQ",
+    "name": "MarQ 4K SMART TV",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "MarQ",
     "name": "MarQ_M3",
     "codename": "GIONEE_MAX"
   },
@@ -99068,6 +99118,11 @@
     "brand": "Meizu",
     "name": "meizu 20 Pro",
     "codename": "meizu20Pro"
+  },
+  {
+    "brand": "Meizu",
+    "name": "meizu 21",
+    "codename": "meizu21"
   },
   {
     "brand": "Meizu",
@@ -111185,6 +111240,16 @@
     "codename": "sunnyvale"
   },
   {
+    "brand": "NobleSkiodo",
+    "name": "NSTV",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "NobleSkiodo",
+    "name": "NSTV FF",
+    "codename": "SW6H"
+  },
+  {
     "brand": "Noblex",
     "name": "A50",
     "codename": "A50UNS"
@@ -117228,6 +117293,11 @@
     "brand": "Oppo",
     "name": "Reno",
     "codename": "OP47DDL1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "Reno 10",
+    "codename": "OP5ABFL1"
   },
   {
     "brand": "Oppo",
@@ -124033,6 +124103,11 @@
     "brand": "Posiflex",
     "name": "MK_1000",
     "codename": "MK_1000"
+  },
+  {
+    "brand": "Posiflex",
+    "name": "MT-6208A",
+    "codename": "Opera"
   },
   {
     "brand": "Positivo",
@@ -155161,11 +155236,6 @@
   },
   {
     "brand": "Smart-Tech TV",
-    "name": "Europe",
-    "codename": "nagata"
-  },
-  {
-    "brand": "Smart-Tech TV",
     "name": "France",
     "codename": "tamachi"
   },
@@ -174686,12 +174756,22 @@
   },
   {
     "brand": "Tesla",
+    "name": "TESLA 4K GSMART TV FF",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "Tesla",
     "name": "TESLA 4K SMART TV",
     "codename": "SW6H"
   },
   {
     "brand": "Tesla",
     "name": "TESLA 4K SMART TV FF",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "Tesla",
+    "name": "TESLA 4K TV FF",
     "codename": "SW6H"
   },
   {
@@ -181751,6 +181831,11 @@
   },
   {
     "brand": "Vida",
+    "name": "S63Plus",
+    "codename": "S63Plus"
+  },
+  {
+    "brand": "Vida",
     "name": "V401",
     "codename": "VIDA_V401"
   },
@@ -183993,6 +184078,11 @@
     "brand": "Vivo",
     "name": "Y17",
     "codename": "1902D"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y17s",
+    "codename": "V2310"
   },
   {
     "brand": "Vivo",
@@ -191717,6 +191807,11 @@
   {
     "brand": "Xtreme",
     "name": "Xtreme 4K Smart TV",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "Xtreme",
+    "name": "Xtreme 4K Smart TV FF",
     "codename": "SW6H"
   },
   {
