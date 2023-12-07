@@ -23047,6 +23047,11 @@
   {
     "brand": "Cello",
     "name": "Cello",
+    "codename": "sadang"
+  },
+  {
+    "brand": "Cello",
+    "name": "Cello",
     "codename": "tabata"
   },
   {
@@ -56076,6 +56081,11 @@
   },
   {
     "brand": "Hisense",
+    "name": "emeishan",
+    "codename": "hirano"
+  },
+  {
+    "brand": "Hisense",
     "name": "fushan_2",
     "codename": "hamamatsucho"
   },
@@ -57143,6 +57153,11 @@
     "brand": "Honeywell",
     "name": "Thor VM3A",
     "codename": "VM3A-L0-P"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR 100 Pro",
+    "codename": "HNMAP"
   },
   {
     "brand": "Honor",
@@ -149631,6 +149646,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Z Flip5",
+    "codename": "b5q"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Z Fold2 5G",
     "codename": "f2q"
   },
@@ -180155,6 +180175,11 @@
     "codename": "VeidooT30_EEA"
   },
   {
+    "brand": "Veld",
+    "name": "Veld Board",
+    "codename": "Veld_Board"
+  },
+  {
     "brand": "Venso",
     "name": "CX-508",
     "codename": "CX-508"
@@ -184453,6 +184478,11 @@
     "brand": "Vivo",
     "name": "iQOO 11S",
     "codename": "PD2304"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO 12",
+    "codename": "I2220"
   },
   {
     "brand": "Vivo",
