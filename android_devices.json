@@ -54597,6 +54597,11 @@
   {
     "brand": "Hisense",
     "name": "Hisense U605",
+    "codename": "HS7731ESP"
+  },
+  {
+    "brand": "Hisense",
+    "name": "Hisense U605",
     "codename": "Hisense"
   },
   {
@@ -106456,6 +106461,11 @@
   },
   {
     "brand": "Motorola",
+    "name": "motorola razr 40s",
+    "codename": "lynkco"
+  },
+  {
+    "brand": "Motorola",
     "name": "motorola razr 5G",
     "codename": "smith"
   },
@@ -110123,6 +110133,16 @@
     "brand": "Natcom",
     "name": "X1LTE",
     "codename": "X1LTE"
+  },
+  {
+    "brand": "Nautilus",
+    "name": "Digital Experience",
+    "codename": "belford"
+  },
+  {
+    "brand": "Nautilus",
+    "name": "Digital Experience",
+    "codename": "belford"
   },
   {
     "brand": "Nautilus",
@@ -131976,6 +131996,11 @@
   },
   {
     "brand": "Reeder",
+    "name": "S19 Max Pro S Edge",
+    "codename": "S19MaxProSEdge"
+  },
+  {
+    "brand": "Reeder",
     "name": "S19 Max Pro S Zoom",
     "codename": "S19_Max_Pro_S_Zoom"
   },
@@ -144361,6 +144386,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy S23 FE",
+    "codename": "r11s"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy S23 Ultra",
     "codename": "SC-52D"
   },
@@ -149773,6 +149803,11 @@
     "brand": "Samsung",
     "name": "Galaxy Z Fold5",
     "codename": "SCG22"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Z Fold5",
+    "codename": "q5q"
   },
   {
     "brand": "Samsung",
@@ -174028,6 +174063,11 @@
     "brand": "Tecno Mobile",
     "name": "SPARK Go 2024",
     "codename": "TECNO-Mobile-BG6"
+  },
+  {
+    "brand": "Tecno Mobile",
+    "name": "TECNO Mobile SPARK 20C",
+    "codename": "TECNO-Mobile-BG7n"
   },
   {
     "brand": "Tecno Mobile",
@@ -205628,6 +205668,11 @@
     "brand": "onn.",
     "name": "MID8016",
     "codename": "mid8016_mk_32"
+  },
+  {
+    "brand": "onn.",
+    "name": "PM82T",
+    "codename": "PM82T"
   },
   {
     "brand": "onn.",
