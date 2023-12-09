@@ -33,13 +33,13 @@ id = "revengeos"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.7"
+version = "v5.6"
 developer = "lupesoltec"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.6"
+version = "v6.7"
 developer = "lupesoltec"
 
 [[roms]]

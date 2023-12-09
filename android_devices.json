@@ -18586,6 +18586,11 @@
   },
   {
     "brand": "Blu",
+    "name": "C6L MAX",
+    "codename": "C0210"
+  },
+  {
+    "brand": "Blu",
     "name": "C6x",
     "codename": "C090P"
   },
@@ -73171,6 +73176,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel P55",
+    "codename": "itel-A666LN"
+  },
+  {
+    "brand": "Itel",
     "name": "itel P55 5G",
     "codename": "itel-P661N"
   },
@@ -91648,6 +91658,11 @@
     "brand": "Lenovo",
     "name": "Lenovo Tab M11",
     "codename": "TB330FU"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo Tab M11",
+    "codename": "TB330XU"
   },
   {
     "brand": "Lenovo",
@@ -174066,6 +174081,11 @@
   },
   {
     "brand": "Tecno Mobile",
+    "name": "TECNO Mobile SPARK 20",
+    "codename": "TECNO-Mobile-KJ5n"
+  },
+  {
+    "brand": "Tecno Mobile",
     "name": "TECNO Mobile SPARK 20C",
     "codename": "TECNO-Mobile-BG7n"
   },
@@ -183893,6 +183913,11 @@
     "brand": "Vivo",
     "name": "X100 Pro",
     "codename": "PD2324"
+  },
+  {
+    "brand": "Vivo",
+    "name": "X100 Pro",
+    "codename": "V2309"
   },
   {
     "brand": "Vivo",
@@ -206283,6 +206308,11 @@
     "brand": "realme",
     "name": "realme GT5 240W",
     "codename": "RE5C33"
+  },
+  {
+    "brand": "realme",
+    "name": "realme GT5 Pro",
+    "codename": "RE5C37"
   },
   {
     "brand": "realme",
