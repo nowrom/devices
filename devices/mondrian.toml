@@ -1,0 +1,8 @@
+brand = "Redmi"
+codename = "mondrian"
+name = "Redmi K60"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = true

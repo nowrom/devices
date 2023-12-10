@@ -4,6 +4,12 @@ name = "Galaxy A73 5G"
 recoveries = []
 
 [[roms]]
+id = "lineageos"
+cpu = "Kryo 670"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac/ax"
+
+[[roms]]
 id = "pixelexperience"
 repostories = ["device_samsung_a73xq","device_samsung_sm7325-common","kernel_samsung_sm7325","vendor_samsung_sm7325-common","vendor_samsung_a73xq"]
 
