@@ -26,7 +26,7 @@ changelog = "Use the ArrowOS recovery when installing the ROM for avoiding issue
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/crdroid/files/other/"
+gapps = "https://nikgapps.com/crdroid-official"
 recovery = ""
 
 [[roms]]

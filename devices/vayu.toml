@@ -25,7 +25,7 @@ maintainer = "K001droid and raghavt20"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/crdroid/files/other/"
+gapps = "https://nikgapps.com/crdroid-official"
 recovery = "https://orangefox.download/device/vayu"
 
 [[roms]]
