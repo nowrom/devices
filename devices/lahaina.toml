@@ -1,0 +1,8 @@
+brand = "qcom"
+codename = "lahaina"
+name = "QRD8350"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "snnbyyds"

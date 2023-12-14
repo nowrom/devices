@@ -106121,6 +106121,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "moto g84 5G",
+    "codename": "bangkk"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g84 5G",
+    "codename": "bangkk"
+  },
+  {
+    "brand": "Motorola",
     "name": "moto p30",
     "codename": "robusta"
   },
@@ -106298,6 +106308,16 @@
     "brand": "Motorola",
     "name": "motorola edge 40",
     "codename": "lyriq"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola edge 40 neo",
+    "codename": "manaus"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola edge 40 neo",
+    "codename": "manaus"
   },
   {
     "brand": "Motorola",
@@ -182621,6 +182641,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "I2017",
+    "codename": "2017"
+  },
+  {
+    "brand": "Vivo",
     "name": "I2127",
     "codename": "I2127"
   },
@@ -182946,6 +182971,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "V1955A",
+    "codename": "PD1955"
+  },
+  {
+    "brand": "Vivo",
     "name": "V1962A",
     "codename": "PD1962"
   },
@@ -183056,8 +183086,18 @@
   },
   {
     "brand": "Vivo",
+    "name": "V2024A",
+    "codename": "PD2024"
+  },
+  {
+    "brand": "Vivo",
     "name": "V2025",
     "codename": "2025"
+  },
+  {
+    "brand": "Vivo",
+    "name": "V2025A",
+    "codename": "PD2024"
   },
   {
     "brand": "Vivo",
@@ -183643,6 +183683,11 @@
     "brand": "Vivo",
     "name": "V2135A",
     "codename": "PD2133"
+  },
+  {
+    "brand": "Vivo",
+    "name": "V2136A",
+    "codename": "PD2136"
   },
   {
     "brand": "Vivo",
@@ -184643,31 +184688,6 @@
     "brand": "Vivo",
     "name": "iQOO 12 Pro",
     "codename": "PD2329"
-  },
-  {
-    "brand": "Vivo",
-    "name": "iQOO 3",
-    "codename": "PD1955"
-  },
-  {
-    "brand": "Vivo",
-    "name": "iQOO 5",
-    "codename": "PD2024"
-  },
-  {
-    "brand": "Vivo",
-    "name": "iQOO 5 Pro",
-    "codename": "PD2024"
-  },
-  {
-    "brand": "Vivo",
-    "name": "iQOO 8",
-    "codename": "PD2136"
-  },
-  {
-    "brand": "Vivo",
-    "name": "iQOO 8 Legend",
-    "codename": "2017"
   },
   {
     "brand": "Vivo",
