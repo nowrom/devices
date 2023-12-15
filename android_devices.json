@@ -20710,6 +20710,11 @@
     "codename": "M8047IU"
   },
   {
+    "brand": "Brisanet",
+    "name": "brisaboxTV",
+    "codename": "IMTM4000RA"
+  },
+  {
     "brand": "Britania",
     "name": "Britania Smart TV",
     "codename": "sunnyvale"
@@ -25438,6 +25443,11 @@
     "brand": "Compaq",
     "name": "QTab8_LTE",
     "codename": "QTab8_LTE"
+  },
+  {
+    "brand": "Compaq",
+    "name": "QTabPro",
+    "codename": "Qtab"
   },
   {
     "brand": "Compaq",
@@ -132586,6 +132596,11 @@
   },
   {
     "brand": "Rizzen",
+    "name": "NovaTab_R10s",
+    "codename": "NovaTab_R10s"
+  },
+  {
+    "brand": "Rizzen",
     "name": "S1",
     "codename": "S1"
   },
@@ -136106,11 +136121,6 @@
   },
   {
     "brand": "Samsung",
-    "name": "Galaxy A05s",
-    "codename": "a05s"
-  },
-  {
-    "brand": "Samsung",
     "name": "Galaxy A10",
     "codename": "a10"
   },
@@ -136388,6 +136398,56 @@
     "brand": "Samsung",
     "name": "Galaxy A14 5G",
     "codename": "a14xm"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A15",
+    "codename": "a15"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A15",
+    "codename": "a15"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A15 5G",
+    "codename": "a15x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A15 5G",
+    "codename": "a15x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A15 5G",
+    "codename": "a15x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A15 5G",
+    "codename": "a15x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A15 5G",
+    "codename": "a15x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A15 5G",
+    "codename": "a15x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A15 5G",
+    "codename": "a15x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A15 5G",
+    "codename": "a15x"
   },
   {
     "brand": "Samsung",
@@ -139163,6 +139223,11 @@
     "brand": "Samsung",
     "name": "Galaxy F13",
     "codename": "m13"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy F14",
+    "codename": "a05s"
   },
   {
     "brand": "Samsung",
@@ -169976,6 +170041,11 @@
   },
   {
     "brand": "TELE System",
+    "name": "ON T2 HD",
+    "codename": "ONT2HD"
+  },
+  {
+    "brand": "TELE System",
     "name": "UPT24K",
     "codename": "UPT24K"
   },
@@ -184761,8 +184831,18 @@
   },
   {
     "brand": "Vivo",
+    "name": "iQOO Neo9",
+    "codename": "PD2338"
+  },
+  {
+    "brand": "Vivo",
     "name": "iQOO Pad",
     "codename": "DPD2307"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Pad Air",
+    "codename": "DPD2305"
   },
   {
     "brand": "Vivo",

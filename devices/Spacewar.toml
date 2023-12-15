@@ -9,6 +9,11 @@ maintainer = "hiper25"
 changelog = "- May patch.\r\n- Update the vibration motor feel.\r\n- System stability.\r\n\r\nbased ROM: 1.5.3"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/crdroid-official"
+recovery = "https://sourceforge.net/projects/darkjoker360-developements/files/Nothing/Phone1/ROM/crdroid/v10.x/recovery/"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 670"
 ram = "8/12 GB"
