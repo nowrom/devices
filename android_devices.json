@@ -6116,6 +6116,11 @@
   },
   {
     "brand": "Altice",
+    "name": "Stream V2",
+    "codename": "DIW377AUSA"
+  },
+  {
+    "brand": "Altice",
     "name": "T10",
     "codename": "T10"
   },
@@ -39050,6 +39055,11 @@
     "codename": "hongkong"
   },
   {
+    "brand": "FPD",
+    "name": "FPD",
+    "codename": "lavender"
+  },
+  {
     "brand": "FPT Telecom",
     "name": "FPT ATV Play Box",
     "codename": "DV8236"
@@ -57341,6 +57351,11 @@
   },
   {
     "brand": "Honor",
+    "name": "HONOR Pad X9",
+    "codename": "HNELN-Q"
+  },
+  {
+    "brand": "Honor",
     "name": "HONOR X5",
     "codename": "HNVNA-M"
   },
@@ -57478,6 +57493,21 @@
     "brand": "Honor",
     "name": "HONOR X8a 5G",
     "codename": "HNRBN-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X8b",
+    "codename": "HNLLY-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X8b",
+    "codename": "HNLLY-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X8b",
+    "codename": "HNLLY-Q"
   },
   {
     "brand": "Honor",
@@ -76103,6 +76133,11 @@
     "brand": "KTCtv",
     "name": "VOXELECTRONICS",
     "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "WYBOR",
+    "codename": "lavender"
   },
   {
     "brand": "KTCtv",
@@ -178207,6 +178242,11 @@
   {
     "brand": "Umidigi",
     "name": "Active T1",
+    "codename": "Active_T1"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "Active T1 EEA",
     "codename": "Active_T1"
   },
   {
