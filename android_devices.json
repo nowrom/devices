@@ -141311,6 +141311,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy M14",
+    "codename": "a05s"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy M14 5G",
     "codename": "m14x"
   },
