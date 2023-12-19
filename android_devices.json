@@ -3940,6 +3940,21 @@
     "codename": "AIM75-WIFI"
   },
   {
+    "brand": "Advantech",
+    "name": "DLT-V7310AP",
+    "codename": "dlt_v7310"
+  },
+  {
+    "brand": "Advantech",
+    "name": "DLT-V7312AP",
+    "codename": "dlt_v7312"
+  },
+  {
+    "brand": "Advantech",
+    "name": "DLT-V7312AP+",
+    "codename": "dlt_v7312plus"
+  },
+  {
     "brand": "Aelion",
     "name": "i8",
     "codename": "Aelion_i8"
@@ -73268,6 +73283,11 @@
     "brand": "Itel",
     "name": "itel P55+",
     "codename": "itel-P663L"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel P55+",
+    "codename": "itel-P663LN"
   },
   {
     "brand": "Itel",
@@ -206546,6 +206566,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme GT Neo 5 SE",
+    "codename": "RE58D1L1"
+  },
+  {
+    "brand": "realme",
     "name": "realme GT Neo2 5G",
     "codename": "RE879AL1"
   },
@@ -206826,11 +206851,6 @@
   },
   {
     "brand": "realme",
-    "name": "真我 10 Pro",
-    "codename": "RE5869"
-  },
-  {
-    "brand": "realme",
     "name": "真我 GT NEO  3  150W",
     "codename": "RE5489"
   },
@@ -206858,6 +206878,11 @@
     "brand": "realme",
     "name": "真我 V20",
     "codename": "RE584B"
+  },
+  {
+    "brand": "realme",
+    "name": "真我11 Pro",
+    "codename": "RE5869"
   },
   {
     "brand": "realme",
@@ -206903,6 +206928,16 @@
     "brand": "realme",
     "name": "真我V13 5G",
     "codename": "RE5081"
+  },
+  {
+    "brand": "realme",
+    "name": "真我V50",
+    "codename": "RE5C34"
+  },
+  {
+    "brand": "realme",
+    "name": "真我V50s",
+    "codename": "RE5C34"
   },
   {
     "brand": "redfox",
