@@ -25446,6 +25446,11 @@
   },
   {
     "brand": "Compaq",
+    "name": "Q6",
+    "codename": "Q6"
+  },
+  {
+    "brand": "Compaq",
     "name": "QTAB",
     "codename": "QTAB"
   },
@@ -46401,7 +46406,7 @@
   },
   {
     "brand": "HIKVISION",
-    "name": "DS-D5C65RB/A",
+    "name": "DS-D5C",
     "codename": "DS_D5C65RB_A"
   },
   {
@@ -70648,6 +70653,11 @@
     "brand": "Inrico",
     "name": "IRC200EU",
     "codename": "IRC200EU"
+  },
+  {
+    "brand": "Inrico",
+    "name": "S350",
+    "codename": "S350"
   },
   {
     "brand": "Insignia",
@@ -95528,6 +95538,11 @@
     "brand": "MEDER",
     "name": "m60",
     "codename": "m60"
+  },
+  {
+    "brand": "MEFERI",
+    "name": "ME10",
+    "codename": "ME10"
   },
   {
     "brand": "MEFERI",
@@ -127660,6 +127675,11 @@
     "codename": "uiw4020pxm"
   },
   {
+    "brand": "Proximus",
+    "name": "Proximus TV",
+    "codename": "uiw4068pxm"
+  },
+  {
     "brand": "Punos",
     "name": "Punos X10",
     "codename": "PTX1022G"
@@ -136171,11 +136191,6 @@
   },
   {
     "brand": "Samsung",
-    "name": "Galaxy A05s",
-    "codename": "a05s"
-  },
-  {
-    "brand": "Samsung",
     "name": "Galaxy A10",
     "codename": "a10"
   },
@@ -136763,6 +136778,41 @@
     "brand": "Samsung",
     "name": "Galaxy A24",
     "codename": "a24"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A25 5G",
+    "codename": "a25x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A25 5G",
+    "codename": "a25x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A25 5G",
+    "codename": "a25x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A25 5G",
+    "codename": "a25x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A25 5G",
+    "codename": "a25x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A25 5G",
+    "codename": "a25x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A25 5G",
+    "codename": "a25x"
   },
   {
     "brand": "Samsung",
@@ -185388,6 +185438,11 @@
     "brand": "Vivo",
     "name": "vivo S17e",
     "codename": "PD2285"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo S18e",
+    "codename": "PD2334"
   },
   {
     "brand": "Vivo",
