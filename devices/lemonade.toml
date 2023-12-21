@@ -35,6 +35,12 @@ romtype = "OFFICIAL"
 version = "v6.7"
 developer = "DennySPb"
 
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v7.0"
+developer = "DennySPb"
+
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680"
 weight = "197 g (6.95 oz)"

@@ -119960,6 +119960,11 @@
     "codename": "P9001"
   },
   {
+    "brand": "POS Terminal",
+    "name": "ACT",
+    "codename": "POS"
+  },
+  {
     "brand": "POSSAFE",
     "name": "OrderGo5_EEA",
     "codename": "OrderGo5"
@@ -184417,6 +184422,11 @@
   {
     "brand": "Vivo",
     "name": "Y100",
+    "codename": "PD2313"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y100",
     "codename": "V2239"
   },
   {
@@ -184768,11 +184778,6 @@
     "brand": "Vivo",
     "name": "Y78m",
     "codename": "PD2278"
-  },
-  {
-    "brand": "Vivo",
-    "name": "Y79+",
-    "codename": "PD2313"
   },
   {
     "brand": "Vivo",
@@ -185438,6 +185443,11 @@
     "brand": "Vivo",
     "name": "vivo S17e",
     "codename": "PD2285"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo S18",
+    "codename": "PD2323"
   },
   {
     "brand": "Vivo",
@@ -190423,6 +190433,16 @@
     "brand": "XPLORE",
     "name": "XPLORE X7U",
     "codename": "X7U"
+  },
+  {
+    "brand": "XPPen",
+    "name": "XPPen_Magic_Drawing_Pad",
+    "codename": "Titan_XPPen"
+  },
+  {
+    "brand": "XPPen",
+    "name": "XPPen_Magic_Drawing_Pad_RU",
+    "codename": "Titan_XPPen"
   },
   {
     "brand": "XTRATECH_IGUANAPAD",
@@ -203078,6 +203098,11 @@
     "brand": "aoson",
     "name": "aoson",
     "codename": "M815"
+  },
+  {
+    "brand": "axs+",
+    "name": "AXS B866V2FA",
+    "codename": "B866V2FA_AXS"
   },
   {
     "brand": "bbox",
