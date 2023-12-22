@@ -28496,6 +28496,11 @@
   },
   {
     "brand": "Cubot",
+    "name": "TAB  60",
+    "codename": "TAB_60"
+  },
+  {
+    "brand": "Cubot",
     "name": "TAB 10",
     "codename": "TAB_10"
   },
@@ -74076,6 +74081,11 @@
   },
   {
     "brand": "JVC",
+    "name": "KR",
+    "codename": "expo"
+  },
+  {
+    "brand": "JVC",
     "name": "LT-32N3115A",
     "codename": "ikebukuro"
   },
@@ -119220,6 +119230,11 @@
     "codename": "B866V2FA"
   },
   {
+    "brand": "Oxygen.id",
+    "name": "SEI700MRT",
+    "codename": "SEI700MRT"
+  },
+  {
     "brand": "Oysters",
     "name": "T72HM3G",
     "codename": "T72HM3G"
@@ -119623,6 +119638,11 @@
     "brand": "PEAQ",
     "name": "PET_8040_H464S",
     "codename": "PET_8040_H464S"
+  },
+  {
+    "brand": "PEOTV",
+    "name": "SEI300SLT",
+    "codename": "SEI300SLT"
   },
   {
     "brand": "PERSONA",
@@ -185835,6 +185855,11 @@
     "codename": "v0"
   },
   {
+    "brand": "Vocal",
+    "name": "v1",
+    "codename": "v1"
+  },
+  {
     "brand": "Vodafone",
     "name": "785",
     "codename": "Vodafone_785"
@@ -203535,7 +203560,7 @@
     "codename": "AIM-H1"
   },
   {
-    "brand": "careai",
+    "brand": "care.ai",
     "name": "AMS-R2O",
     "codename": "AMS_R2O"
   },
