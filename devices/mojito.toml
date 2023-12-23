@@ -29,7 +29,7 @@ id = "cherishos"
 
 [[roms]]
 id = "crdroid"
-gapps = ""
+gapps = "https://nikgapps.com/crdroid-official"
 recovery = "https://eu.dl.twrp.me/mojito/"
 
 [[roms]]

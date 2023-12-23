@@ -4,6 +4,16 @@ name = "Realme 6 PRO"
 recoveries = []
 
 [[roms]]
+id = "crdroid"
+gapps = "https://wiki.lineageos.org/gapps"
+recovery = "https://sourceforge.net/projects/crdroid/files/toco/10.x/recovery/recovery-20231222.img/download"
+
+[[roms]]
+id = "crdroid"
+gapps = "https://wiki.lineageos.org/gapps"
+recovery = "https://sourceforge.net/projects/crdroid/files/toco/10.x/recovery/recovery-20231222.img/download"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

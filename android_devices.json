@@ -46190,6 +46190,11 @@
     "codename": "Betacrux"
   },
   {
+    "brand": "H819E",
+    "name": "MINTAKA",
+    "codename": "MINTAKA"
+  },
+  {
     "brand": "HAKO",
     "name": "HAKO mini",
     "codename": "GMP"
@@ -69363,6 +69368,11 @@
     "brand": "Infinix",
     "name": "Infinix SMART 8 Plus",
     "codename": "Infinix-X6526"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix SMART 8 Pro",
+    "codename": "Infinix-X6525B"
   },
   {
     "brand": "Infinix",
@@ -97601,6 +97611,11 @@
   },
   {
     "brand": "Maxwest",
+    "name": "ASTRO A64",
+    "codename": "MX-A64"
+  },
+  {
+    "brand": "Maxwest",
     "name": "ASTRO A65",
     "codename": "MX-A65"
   },
@@ -102628,6 +102643,11 @@
     "brand": "Mobiwire",
     "name": "Hotah",
     "codename": "Hotah"
+  },
+  {
+    "brand": "Mobiwire",
+    "name": "IKOSORA+",
+    "codename": "IKOSORA_Plus"
   },
   {
     "brand": "Mobiwire",

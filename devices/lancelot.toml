@@ -4,6 +4,11 @@ name = "Redmi 9 Prime"
 recoveries = []
 
 [[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/crdroid-official"
+recovery = ""
+
+[[roms]]
 id = "lineageos"
 cpu = "Cortex-A75 & Cortex-A55"
 ram = "3/4/6 GB"

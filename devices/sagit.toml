@@ -15,6 +15,11 @@ maintainer = "Parth Bhatia (TheStrix), Mauronofrio"
 id = "blissroms"
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://sourceforge.net/projects/crdroid/files/sagit/10.x/recovery.img/download"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 280"
 ram = "4/6 GB"
