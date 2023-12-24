@@ -25,6 +25,11 @@ id = "blissroms"
 id = "cherishos"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/crdroid-official"
+recovery = "https://sourceforge.net/projects/crdroid/files/violet/10.x/recovery/recovery.img/download"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

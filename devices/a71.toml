@@ -1,0 +1,9 @@
+brand = "Samsung"
+codename = "a71"
+name = "Galaxy A71"
+recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = "https://wiki.lineageos.org/gapps"
+recovery = "https://sourceforge.net/projects/haky86/files/SamsungGalaxyA71/Recoveries/crDroid/14.x/crDroidAndroid-14.0-20231220-a71-v10.0-BETA.tar/download"
