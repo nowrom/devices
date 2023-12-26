@@ -1,7 +1,11 @@
 brand = "Motorola"
 codename = "rhode"
 name = "moto g52"
-recoveries = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://xdaforums.com/t/twrp-for-motorola-moto-g52-rhode.4647336/"
+maintainer = "HemanthJabalpuri"
 
 [[roms]]
 id = "crdroid"

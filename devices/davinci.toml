@@ -29,12 +29,6 @@ id = "cherishos"
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "legionos"
 active = true
 maintainer = "markkey014"

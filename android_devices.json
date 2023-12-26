@@ -21041,6 +21041,11 @@
   },
   {
     "brand": "CAIXUN",
+    "name": "Dreamstar 2K SMART TV",
+    "codename": "nagata"
+  },
+  {
+    "brand": "CAIXUN",
     "name": "EXPRESS",
     "codename": "marina"
   },
@@ -21093,6 +21098,11 @@
     "brand": "CAIXUN",
     "name": "Mexico",
     "codename": "yeongdeungpo"
+  },
+  {
+    "brand": "CAIXUN",
+    "name": "Newal 2K SMART TV",
+    "codename": "nagata"
   },
   {
     "brand": "CAIXUN",
@@ -38443,6 +38453,16 @@
     "brand": "F&U (Fandu)",
     "name": "EU、UK、AP",
     "codename": "martin"
+  },
+  {
+    "brand": "F&U (Fandu)",
+    "name": "FU 2K SMART TV",
+    "codename": "nagata"
+  },
+  {
+    "brand": "F&U (Fandu)",
+    "name": "Greece",
+    "codename": "marina"
   },
   {
     "brand": "F&U (Fandu)",
@@ -67476,6 +67496,11 @@
   },
   {
     "brand": "INFINITON",
+    "name": "INFINITON 2K SMART TV",
+    "codename": "nagata"
+  },
+  {
+    "brand": "INFINITON",
     "name": "Infiniton",
     "codename": "bruno"
   },
@@ -78068,6 +78093,11 @@
     "brand": "Kogan",
     "name": "Smart TV",
     "codename": "longshan"
+  },
+  {
+    "brand": "Kolin",
+    "name": "KOLIN",
+    "codename": "hongkong"
   },
   {
     "brand": "Kolin",
@@ -173938,6 +173968,11 @@
     "brand": "Tecno",
     "name": "TECNO SPARK 10 Pro",
     "codename": "TECNO-KI7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 10 Pro",
+    "codename": "TECNO-KI7s"
   },
   {
     "brand": "Tecno",
