@@ -7,6 +7,11 @@ id = "orangefox"
 supported = true
 
 [[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/crdroid-official"
+recovery = "https://sourceforge.net/projects/crdroid/files/spes/10.x/recovery/boot-crdroid-v10-spes-20231225.img/download"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

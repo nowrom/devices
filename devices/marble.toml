@@ -7,3 +7,9 @@ recoveries = []
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/"
 recovery = ""
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
