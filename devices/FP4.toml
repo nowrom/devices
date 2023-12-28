@@ -1,7 +1,10 @@
 brand = "Fairphone"
 codename = "FP4"
 name = "Fairphone4"
-recoveries = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "z3ntu"
 
 [[roms]]
 id = "lineageos"

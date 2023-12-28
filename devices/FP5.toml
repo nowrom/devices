@@ -1,0 +1,8 @@
+brand = "Fairphone"
+codename = "FP5"
+name = "Fairphone 5 5G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "z3ntu"
