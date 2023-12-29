@@ -19056,6 +19056,11 @@
   },
   {
     "brand": "Blu",
+    "name": "G73L",
+    "codename": "G0930"
+  },
+  {
+    "brand": "Blu",
     "name": "G8",
     "codename": "G0160LL"
   },
@@ -56473,6 +56478,11 @@
     "brand": "Homatics",
     "name": "Global",
     "codename": "YQB"
+  },
+  {
+    "brand": "Homatics",
+    "name": "Kickpi",
+    "codename": "YYZ"
   },
   {
     "brand": "Homatics",
@@ -147541,6 +147551,31 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy Tab Active5",
+    "codename": "gtactive5wifi"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab Active5 5G",
+    "codename": "gtactive5"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab Active5 5G",
+    "codename": "gtactive5"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab Active5 5G",
+    "codename": "gtactive5"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab Active5 5G",
+    "codename": "gtactive5"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Tab Advanced2",
     "codename": "gtaxladwifikx"
   },
@@ -152748,6 +152783,11 @@
     "brand": "Sharp",
     "name": "FK1",
     "codename": "mongkok"
+  },
+  {
+    "brand": "Sharp",
+    "name": "FQ",
+    "codename": "sandiego"
   },
   {
     "brand": "Sharp",
@@ -159648,6 +159688,16 @@
     "brand": "SparX",
     "name": "Sparx Neo 7 Pro",
     "codename": "Neo_7_Pro"
+  },
+  {
+    "brand": "SparX",
+    "name": "Sparx Neo 8 Plus",
+    "codename": "Neo_8_Plus"
+  },
+  {
+    "brand": "SparX",
+    "name": "Sparx Neo 8 Pro",
+    "codename": "Neo_8_Pro"
   },
   {
     "brand": "Spark",
@@ -173823,6 +173873,11 @@
     "brand": "Tecno",
     "name": "TECNO K9",
     "codename": "TECNO-K9"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO Mobile SPARK 20 Pro",
+    "codename": "TECNO-Mobile-KJ6"
   },
   {
     "brand": "Tecno",
