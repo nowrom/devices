@@ -6,7 +6,7 @@ recoveries = []
 [[roms]]
 id = "arrowos"
 maintainer = "Adithya (ghostrider_reborn)"
-changelog = "- Workaround front camera issues with 5G NSA too\r\n- Updated kernel to latest CLO tag\r\n- Misc performance improvements"
+changelog = "- Updated kernel to latest CLO tag\r\n- Fixed manual network selection\r\n- Disabled broken color inversion"
 
 [[roms]]
 id = "lineageos"

@@ -4,13 +4,13 @@ name = "ODIN"
 
 [[recoveries]]
 id = "twrp"
-xdathread = "https://forum.xda-developers.com/xperia-zl/orig-development/ub-twrp-v3-2-1-xperia-zl-t3720156"
-maintainer = "CyberWalkMaN"
+xdathread = "https://forum.xda-developers.com/t/recovery-11-official-teamwin-recovery-project.4374117/"
+maintainer = "Nebrassy"
 
 [[recoveries]]
 id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-11-official-teamwin-recovery-project.4374117/"
-maintainer = "Nebrassy"
+xdathread = "https://forum.xda-developers.com/xperia-zl/orig-development/ub-twrp-v3-2-1-xperia-zl-t3720156"
+maintainer = "CyberWalkMaN"
 
 [[roms]]
 id = "lineageos"

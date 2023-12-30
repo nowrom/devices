@@ -120100,6 +120100,11 @@
     "codename": "POS"
   },
   {
+    "brand": "POS Terminal",
+    "name": "PMGLRR99",
+    "codename": "POS"
+  },
+  {
     "brand": "POSSAFE",
     "name": "OrderGo5_EEA",
     "codename": "OrderGo5"
@@ -133298,6 +133303,11 @@
     "brand": "SAIET",
     "name": "STS600",
     "codename": "STS600"
+  },
+  {
+    "brand": "SAIET",
+    "name": "STS601",
+    "codename": "STS601"
   },
   {
     "brand": "SAKAISIO",
@@ -170500,6 +170510,11 @@
     "codename": "EOS_Pro"
   },
   {
+    "brand": "TIANYU",
+    "name": "S4",
+    "codename": "S40"
+  },
+  {
     "brand": "TIGO",
     "name": "ONEtv",
     "codename": "uiw4054mil"
@@ -176823,6 +176838,26 @@
     "brand": "Trio",
     "name": "Stealth-G4-7.85",
     "codename": "Trio-Stealth-G4-785"
+  },
+  {
+    "brand": "True",
+    "name": "20721400",
+    "codename": "Tablet"
+  },
+  {
+    "brand": "True",
+    "name": "20725300",
+    "codename": "Tablet"
+  },
+  {
+    "brand": "True",
+    "name": "20726600",
+    "codename": "Tablet"
+  },
+  {
+    "brand": "True",
+    "name": "20728200",
+    "codename": "Tablet"
   },
   {
     "brand": "True",
