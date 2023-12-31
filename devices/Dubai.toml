@@ -12,7 +12,7 @@ changelog = "- Updated kernel to latest CLO tag\r\n- Fixed manual network select
 id = "lineageos"
 cpu = "Kryo 670"
 ram = "6/8 GB LPDDR5 (uMPC5)"
-wifi = "802.11 a/b/g/n/ac"
+wifi = "802.11 a/b/g/n/ac/ax"
 
 [[roms]]
 id = "pixelexperience"
