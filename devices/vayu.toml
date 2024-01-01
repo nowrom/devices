@@ -32,6 +32,12 @@ recovery = "https://orangefox.download/device/vayu"
 id = "dotos"
 
 [[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/vayu/Havoc-OS-v5.7-20220717-vayu-Official-GApps.zip"
 maintainer = "Alisson Grizotti"

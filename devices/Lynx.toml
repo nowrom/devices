@@ -4,6 +4,11 @@ name = "Lynx"
 recoveries = []
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://sourceforge.net/projects/crdroid/files/lynx/10.x/recovery/"
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]
