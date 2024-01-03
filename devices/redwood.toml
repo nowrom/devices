@@ -6,7 +6,7 @@ recoveries = []
 [[roms]]
 id = "crdroid"
 gapps = "https://nikgapps.com/"
-recovery = "https://www.pling.com/p/2107386/"
+recovery = "https://sourceforge.net/projects/crdroid/files/redwood/10.x/recovery/"
 
 [[roms]]
 id = "evolutionx"

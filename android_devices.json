@@ -5256,6 +5256,11 @@
   },
   {
     "brand": "AllView",
+    "name": "V10 Viper Lite",
+    "codename": "V10_Viper_Lite"
+  },
+  {
+    "brand": "AllView",
     "name": "V2 Viper",
     "codename": "V2_Viper"
   },
@@ -26257,6 +26262,11 @@
   {
     "brand": "Continental Edison",
     "name": "CDI SMART TV",
+    "codename": "cottongreen"
+  },
+  {
+    "brand": "Continental Edison",
+    "name": "CDI SMART TV",
     "codename": "marina"
   },
   {
@@ -35681,6 +35691,11 @@
   },
   {
     "brand": "ESOL",
+    "name": "CCBEK",
+    "codename": "rk3588_t"
+  },
+  {
+    "brand": "ESOL",
     "name": "HCB_5186",
     "codename": "Interactive_White_Board"
   },
@@ -39193,6 +39208,16 @@
     "brand": "FPT Trading",
     "name": "X50",
     "codename": "FPT_X50"
+  },
+  {
+    "brand": "FUEGO",
+    "name": "FUEGO 2K SMART TV",
+    "codename": "nagata"
+  },
+  {
+    "brand": "FUEGO",
+    "name": "FUEGO 4K SMART TV",
+    "codename": "marina"
   },
   {
     "brand": "FUNKER",
@@ -99411,6 +99436,11 @@
   },
   {
     "brand": "Meizu",
+    "name": "meizu 21 PRO",
+    "codename": "meizu21Pro"
+  },
+  {
+    "brand": "Meizu",
     "name": "meizu C9",
     "codename": "meizuC9"
   },
@@ -113048,6 +113078,11 @@
     "brand": "Nuu",
     "name": "Tab 10",
     "codename": "T1001LA"
+  },
+  {
+    "brand": "Nuu",
+    "name": "Tab 10 Plus",
+    "codename": "T1005LAV1"
   },
   {
     "brand": "Nuu",
@@ -133948,6 +133983,11 @@
     "brand": "SKY_Brasil",
     "name": "Sky Brazil",
     "codename": "usw8052skb"
+  },
+  {
+    "brand": "SMART Technologies",
+    "name": "AM60 series",
+    "codename": "komodo"
   },
   {
     "brand": "SMART Technologies",
@@ -170516,7 +170556,7 @@
   },
   {
     "brand": "TIANYU",
-    "name": "S4",
+    "name": "S40",
     "codename": "S40"
   },
   {
@@ -185201,6 +185241,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "iQOO Neo9 Pro",
+    "codename": "PD2339"
+  },
+  {
+    "brand": "Vivo",
     "name": "iQOO Pad",
     "codename": "DPD2307"
   },
@@ -185828,6 +185873,11 @@
     "brand": "Vivo",
     "name": "vivo X9s Plus",
     "codename": "PD1635"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo Y100i长续航版",
+    "codename": "PD2312"
   },
   {
     "brand": "Vivo",
@@ -195411,6 +195461,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "Blade A3 SE",
+    "codename": "Z3101T"
+  },
+  {
+    "brand": "ZTE",
     "name": "Blade A30",
     "codename": "Z3052T"
   },
@@ -201057,6 +201112,11 @@
   {
     "brand": "ZTE",
     "name": "ZTE Blade A34",
+    "codename": "P963F94"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade A34",
     "codename": "P963F94_A"
   },
   {
@@ -201246,6 +201306,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade A73",
+    "codename": "P606F07"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade A7s",
     "codename": "P662F02"
   },
@@ -201373,6 +201438,11 @@
     "brand": "ZTE",
     "name": "ZTE Blade V41 Smart",
     "codename": "P606F05"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade V50 Design",
+    "codename": "P606F08"
   },
   {
     "brand": "ZTE",
