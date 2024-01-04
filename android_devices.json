@@ -4391,6 +4391,11 @@
   },
   {
     "brand": "Akai",
+    "name": "AKAI SMART TV",
+    "codename": "umeda"
+  },
+  {
+    "brand": "Akai",
     "name": "FZ101",
     "codename": "FZ101"
   },
@@ -30825,6 +30830,11 @@
     "codename": "SW6H"
   },
   {
+    "brand": "Dawlance",
+    "name": "DAWLANCE GSMART 4KTV",
+    "codename": "anaheim"
+  },
+  {
     "brand": "DayMark",
     "name": "IT119345",
     "codename": "IT119345"
@@ -45853,6 +45863,11 @@
     "brand": "Green House",
     "name": "4K Smart TV",
     "codename": "pioneer"
+  },
+  {
+    "brand": "Green House",
+    "name": "GREEN HOUSE 2K SMART",
+    "codename": "umeda"
   },
   {
     "brand": "Green House",
@@ -72791,6 +72806,11 @@
   },
   {
     "brand": "Itel",
+    "name": "WOW TV",
+    "codename": "umeda"
+  },
+  {
+    "brand": "Itel",
     "name": "it1355",
     "codename": "itel_it1355"
   },
@@ -74178,6 +74198,11 @@
     "brand": "JVC",
     "name": "JVC 4K Smart TV NZ",
     "codename": "SW6H"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC 4K Smart TV Plus",
+    "codename": "anaheim"
   },
   {
     "brand": "JVC",
@@ -93961,6 +93986,11 @@
   },
   {
     "brand": "Logic Mobility",
+    "name": "L55S",
+    "codename": "L55S"
+  },
+  {
+    "brand": "Logic Mobility",
     "name": "L55SCLARO",
     "codename": "L55SCLARO"
   },
@@ -97098,6 +97128,11 @@
     "brand": "MarQ",
     "name": "MarQ 4K SMART TV",
     "codename": "SW6H"
+  },
+  {
+    "brand": "MarQ",
+    "name": "MarQ SMART TV",
+    "codename": "umeda"
   },
   {
     "brand": "MarQ",
@@ -104158,6 +104193,11 @@
     "brand": "Motorola",
     "name": "MOTOROLA",
     "codename": "zhongshan"
+  },
+  {
+    "brand": "Motorola",
+    "name": "MOTOROLA SMART TV",
+    "codename": "umeda"
   },
   {
     "brand": "Motorola",
@@ -117671,11 +117711,6 @@
   },
   {
     "brand": "Oppo",
-    "name": "Reno 10",
-    "codename": "OP5ABFL1"
-  },
-  {
-    "brand": "Oppo",
     "name": "Reno 10x Room",
     "codename": "OP4847L1"
   },
@@ -117708,6 +117743,11 @@
     "brand": "Oppo",
     "name": "Reno 10倍变焦版",
     "codename": "OP46C3"
+  },
+  {
+    "brand": "Oppo",
+    "name": "Reno 11",
+    "codename": "OP5ABFL1"
   },
   {
     "brand": "Oppo",
@@ -120141,7 +120181,7 @@
   },
   {
     "brand": "POS Terminal",
-    "name": "PMGLRR99",
+    "name": "MINT",
     "codename": "POS"
   },
   {
@@ -120463,6 +120503,11 @@
     "brand": "Panasonic",
     "name": "4KTV-3SUF",
     "codename": "SW6H"
+  },
+  {
+    "brand": "Panasonic",
+    "name": "4KTV-4SUH",
+    "codename": "anaheim"
   },
   {
     "brand": "Panasonic",
@@ -122350,6 +122395,11 @@
     "codename": "ETBA0604"
   },
   {
+    "brand": "Pepperl_Fuchs",
+    "name": "Smart Ex-03",
+    "codename": "Smart-Ex03"
+  },
+  {
     "brand": "Performance",
     "name": "\tT7",
     "codename": "T7"
@@ -122468,6 +122518,11 @@
     "brand": "Philco",
     "name": "Philco",
     "codename": "stanford"
+  },
+  {
+    "brand": "Philco",
+    "name": "Philco Smart Plus TV",
+    "codename": "anaheim"
   },
   {
     "brand": "Philco",
@@ -135541,6 +135596,11 @@
   },
   {
     "brand": "SWTV",
+    "name": "SWTV-22COL-4K",
+    "codename": "anaheim"
+  },
+  {
+    "brand": "SWTV",
     "name": "SWTV-22HK-4K NF",
     "codename": "anaheim"
   },
@@ -135567,6 +135627,11 @@
   {
     "brand": "SWTV",
     "name": "SWTV-22TGS-4K",
+    "codename": "anaheim"
+  },
+  {
+    "brand": "SWTV",
+    "name": "SWTV-22TW-4K",
     "codename": "anaheim"
   },
   {
@@ -152631,6 +152696,11 @@
   },
   {
     "brand": "Sharp",
+    "name": "AQUOS-TVL23B",
+    "codename": "umeda"
+  },
+  {
+    "brand": "Sharp",
     "name": "Android One S1",
     "codename": "kaleido_sprout"
   },
@@ -153471,6 +153541,11 @@
   },
   {
     "brand": "Sharp",
+    "name": "SHARP 2K TV",
+    "codename": "umeda"
+  },
+  {
+    "brand": "Sharp",
     "name": "SHARP A2 Lite",
     "codename": "SJ3"
   },
@@ -154263,6 +154338,11 @@
     "brand": "Singer",
     "name": "Singer 4K GSMART TV",
     "codename": "SW6H"
+  },
+  {
+    "brand": "Singer",
+    "name": "Singer 4K GSMART TV FF",
+    "codename": "anaheim"
   },
   {
     "brand": "Singer",
@@ -170901,6 +170981,11 @@
   },
   {
     "brand": "TORNADO",
+    "name": "TORNADO 2K SMART TV",
+    "codename": "umeda"
+  },
+  {
+    "brand": "TORNADO",
     "name": "TORNADO 4K SmartTV",
     "codename": "SW6H"
   },
@@ -182791,6 +182876,11 @@
   },
   {
     "brand": "Vision",
+    "name": "VISION GSMART 4KTV FF",
+    "codename": "anaheim"
+  },
+  {
+    "brand": "Vision",
     "name": "VISION SMART TV",
     "codename": "SW4H"
   },
@@ -188043,6 +188133,11 @@
     "brand": "Walton",
     "name": "WALTON GSMART 4KTV FF",
     "codename": "SW6H"
+  },
+  {
+    "brand": "Walton",
+    "name": "WALTON GSMART 4KTV FF",
+    "codename": "anaheim"
   },
   {
     "brand": "Walton",
@@ -206413,6 +206508,11 @@
     "brand": "preo",
     "name": "PTAB_P8",
     "codename": "PTAB_P8"
+  },
+  {
+    "brand": "prowise",
+    "name": "Prowise Touchscreen Ultra",
+    "codename": "ifpd"
   },
   {
     "brand": "qunyiCO",

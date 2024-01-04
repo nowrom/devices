@@ -12,6 +12,11 @@ id = "arrowos"
 maintainer = "surblazer"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/crdroid-official"
+recovery = ""
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
