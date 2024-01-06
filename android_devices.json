@@ -9921,7 +9921,7 @@
   },
   {
     "brand": "Asus",
-    "name": "ROG Phone 6D series",
+    "name": "ROG Phone 6D Ultimate",
     "codename": "ASUS_AI2203"
   },
   {
@@ -50868,6 +50868,11 @@
     "brand": "Hafury",
     "name": "M20",
     "codename": "M20"
+  },
+  {
+    "brand": "Hafury",
+    "name": "MEET",
+    "codename": "MEET"
   },
   {
     "brand": "Hafury",
@@ -136746,6 +136751,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy A15",
+    "codename": "a15"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy A15 5G",
     "codename": "a15x"
   },
@@ -162751,6 +162761,11 @@
   },
   {
     "brand": "TCL",
+    "name": "TBD",
+    "codename": "ScarabLite_TMO"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL 10 5G",
     "codename": "Seattle"
   },
@@ -183178,6 +183193,11 @@
     "brand": "Vivo",
     "name": "1609",
     "codename": "1609"
+  },
+  {
+    "brand": "Vivo",
+    "name": "G2",
+    "codename": "PD2318"
   },
   {
     "brand": "Vivo",
