@@ -14121,6 +14121,11 @@
   },
   {
     "brand": "BMobile",
+    "name": "Bmobile_BM65Plus",
+    "codename": "Bmobile_BM65Plus"
+  },
+  {
+    "brand": "BMobile",
     "name": "Bmoblie AX683",
     "codename": "Bmobile_AX683_MV04"
   },
@@ -203648,6 +203653,11 @@
     "brand": "benco",
     "name": "M700",
     "codename": "M700"
+  },
+  {
+    "brand": "benco",
+    "name": "benco S1 Max",
+    "codename": "AEOP518"
   },
   {
     "brand": "benco",
