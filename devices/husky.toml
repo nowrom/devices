@@ -1,0 +1,10 @@
+brand = "Google"
+codename = "husky"
+name = "Pixel 8 Pro"
+recoveries = []
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"

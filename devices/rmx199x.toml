@@ -4,12 +4,6 @@ name = "Realme X2"
 recoveries = []
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "pixelextended"
 
 [specs]

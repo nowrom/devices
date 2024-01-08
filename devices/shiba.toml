@@ -1,0 +1,10 @@
+brand = "Google"
+codename = "shiba"
+name = "Pixel 8"
+recoveries = []
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
