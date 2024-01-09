@@ -68956,6 +68956,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "HOT 20 5G",
+    "codename": "Infinix-X666"
+  },
+  {
+    "brand": "Infinix",
     "name": "HOT 20 PLAY",
     "codename": "Infinix-X6825"
   },
@@ -69833,6 +69838,11 @@
     "brand": "Infinix",
     "name": "SMART 7  or SMART 7 PLUS",
     "codename": "Infinix-X6517"
+  },
+  {
+    "brand": "Infinix",
+    "name": "SMART 8 Plus",
+    "codename": "Infinix-X6526"
   },
   {
     "brand": "Infinix",
@@ -134233,6 +134243,11 @@
     "brand": "SPC",
     "name": "Discovery Pro",
     "codename": "Discovery_Pro"
+  },
+  {
+    "brand": "SPC",
+    "name": "Discovery SE",
+    "codename": "Discovery_SE"
   },
   {
     "brand": "SPC",
