@@ -1,0 +1,10 @@
+brand = "Google"
+codename = "felix"
+name = "Pixel Fold"
+recoveries = []
+
+[[roms]]
+id = "evolutionx"
+
+[[roms]]
+id = "evolutionx"
