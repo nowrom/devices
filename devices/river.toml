@@ -15,6 +15,11 @@ id = "arrowos"
 maintainer = "Deivid Ignacio"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/07-Nov-2023/NikGapps-core-arm64-14-20231107-signed.zip/download"
+recovery = ""
+
+[[roms]]
 id = "havocos"
 url = "https://download.havoc-os.com/river/Havoc-OS-v4.16-20220422-river-Official-GApps.zip"
 maintainer = "Andrew Hexen"

@@ -5976,6 +5976,11 @@
   },
   {
     "brand": "Altice",
+    "name": "ADOBox 4K (DIW377)",
+    "codename": "DIW377_ALT_DO"
+  },
+  {
+    "brand": "Altice",
     "name": "ALTICE S43",
     "codename": "S43"
   },
@@ -69526,6 +69531,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "Infinix SMART 8 PRO",
+    "codename": "Infinix-X6525B"
+  },
+  {
+    "brand": "Infinix",
     "name": "Infinix SMART 8 Plus",
     "codename": "Infinix-X6526"
   },
@@ -95785,6 +95795,11 @@
     "codename": "ME61"
   },
   {
+    "brand": "MEFERI",
+    "name": "ME65",
+    "codename": "ME65"
+  },
+  {
     "brand": "MEO(Portugal)",
     "name": "MEO TV Box 4K",
     "codename": "DV8555-MEO"
@@ -114721,6 +114736,11 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus Ace 3",
+    "codename": "OP5CF9L1"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus Ace 竞速版",
     "codename": "OP5911"
   },
@@ -133108,6 +133128,16 @@
     "brand": "RuggON",
     "name": "PA501",
     "codename": "PA501BW"
+  },
+  {
+    "brand": "RuggON",
+    "name": "PA501BGR",
+    "codename": "PA501BGR"
+  },
+  {
+    "brand": "RuggON",
+    "name": "PA501BWR",
+    "codename": "PA501BWR"
   },
   {
     "brand": "Ruggear",
