@@ -21,7 +21,7 @@ id = "blissroms"
 [[roms]]
 id = "crdroid"
 gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/07-Nov-2023/"
-recovery = "https://sourceforge.net/projects/cepheus/files/recovery/OrangeFox-Unofficial-cepheus-A14retrofit-27Dec2023.zip/download"
+recovery = "https://sourceforge.net/projects/cepheus/files/recovery/OrangeFox-Unofficial-cepheus-A14retrofit-02Jan2024.zip/download"
 
 [[roms]]
 id = "evolutionx"

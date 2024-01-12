@@ -39070,6 +39070,16 @@
     "codename": "S9"
   },
   {
+    "brand": "FMC",
+    "name": "Digital Experience",
+    "codename": "belford"
+  },
+  {
+    "brand": "FMC",
+    "name": "Digital Experience",
+    "codename": "belford"
+  },
+  {
     "brand": "FOLG",
     "name": "KS20",
     "codename": "KS20"
@@ -58088,6 +58098,11 @@
     "brand": "Hotwav",
     "name": "T5 Pro",
     "codename": "T5_Pro"
+  },
+  {
+    "brand": "Hotwav",
+    "name": "T7 EEA",
+    "codename": "T7"
   },
   {
     "brand": "Hotwav",
@@ -106971,6 +106986,16 @@
   },
   {
     "brand": "Motorola Solutions",
+    "name": "MOTOTRBO ION",
+    "codename": "mkz_sdm660_64"
+  },
+  {
+    "brand": "Motorola Solutions",
+    "name": "MOTOTRBO ION",
+    "codename": "mkz_sdm660_64"
+  },
+  {
+    "brand": "Motorola Solutions",
     "name": "TC55",
     "codename": "TC55"
   },
@@ -110578,16 +110603,6 @@
     "brand": "Natcom",
     "name": "X1LTE",
     "codename": "X1LTE"
-  },
-  {
-    "brand": "Nautilus",
-    "name": "Digital Experience",
-    "codename": "belford"
-  },
-  {
-    "brand": "Nautilus",
-    "name": "Digital Experience",
-    "codename": "belford"
   },
   {
     "brand": "Nautilus",
@@ -139726,6 +139741,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy F04",
+    "codename": "m04"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy F12",
     "codename": "f12"
   },
@@ -141703,11 +141723,6 @@
     "brand": "Samsung",
     "name": "Galaxy M02s",
     "codename": "a02q"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy M04",
-    "codename": "m04"
   },
   {
     "brand": "Samsung",
@@ -177861,6 +177876,11 @@
   },
   {
     "brand": "Ulefone",
+    "name": "Armor 26 Ultra",
+    "codename": "Armor_26_Ultra"
+  },
+  {
+    "brand": "Ulefone",
     "name": "Armor 2S",
     "codename": "Armor_2S"
   },
@@ -179123,6 +179143,11 @@
     "brand": "Umidigi",
     "name": "G3 Plus EEA",
     "codename": "G3_Plus"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "G3_Tab_Ultra",
+    "codename": "G3_Tab_Ultra"
   },
   {
     "brand": "Umidigi",

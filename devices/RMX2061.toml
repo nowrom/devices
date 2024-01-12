@@ -5,13 +5,13 @@ recoveries = []
 
 [[roms]]
 id = "crdroid"
-gapps = "https://wiki.lineageos.org/gapps"
-recovery = "https://sourceforge.net/projects/crdroid/files/toco/10.x/recovery/recovery-20240104.img/download"
+gapps = "https://mindthegapps.com/download/"
+recovery = "https://sourceforge.net/projects/crdroid/files/toco/10.x/recovery/recovery-20240111.img/download"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://wiki.lineageos.org/gapps"
-recovery = "https://sourceforge.net/projects/crdroid/files/toco/10.x/recovery/recovery-20240104.img/download"
+gapps = "https://mindthegapps.com/download/"
+recovery = "https://sourceforge.net/projects/crdroid/files/toco/10.x/recovery/recovery-20240111.img/download"
 
 [[roms]]
 id = "dotos"
