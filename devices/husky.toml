@@ -4,6 +4,11 @@ name = "Pixel 8 Pro"
 recoveries = []
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = "https://sourceforge.net/projects/crdroid/files/husky/10.x/recovery/"
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]

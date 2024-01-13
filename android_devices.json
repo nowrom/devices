@@ -18686,6 +18686,11 @@
   },
   {
     "brand": "Blu",
+    "name": "C7 MAX",
+    "codename": "C0220"
+  },
+  {
+    "brand": "Blu",
     "name": "C7x",
     "codename": "C290EQ"
   },
@@ -19008,6 +19013,11 @@
     "brand": "Blu",
     "name": "G53",
     "codename": "G0851"
+  },
+  {
+    "brand": "Blu",
+    "name": "G54",
+    "codename": "G0840"
   },
   {
     "brand": "Blu",
@@ -30718,6 +30728,11 @@
     "brand": "Danew",
     "name": "konnect 601",
     "codename": "Konnect_601"
+  },
+  {
+    "brand": "Dangbei",
+    "name": "DBOD02",
+    "codename": "himalaya"
   },
   {
     "brand": "Dany",
@@ -57461,6 +57476,11 @@
   },
   {
     "brand": "Honor",
+    "name": "HONOR Magic V2",
+    "codename": "HNVER"
+  },
+  {
+    "brand": "Honor",
     "name": "HONOR Magic Vs",
     "codename": "HNFRI"
   },
@@ -68358,6 +68378,11 @@
     "brand": "IZZI Telecom",
     "name": "HP2714",
     "codename": "HPH65"
+  },
+  {
+    "brand": "IZZI Telecom",
+    "name": "HP46A",
+    "codename": "HP46A"
   },
   {
     "brand": "IZZI Telecom",
@@ -114478,6 +114503,11 @@
     "brand": "OnePlus",
     "name": "OnePlus 12",
     "codename": "OP5929L1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 12",
+    "codename": "OP595DL1"
   },
   {
     "brand": "OnePlus",
@@ -174643,6 +174673,16 @@
     "brand": "Tecno",
     "name": "TECNO SPARK Go 2022",
     "codename": "TECNO-KG5m"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK Go 2024",
+    "codename": "TECNO-BG6s"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK Go 2024",
+    "codename": "TECNO-BG6s"
   },
   {
     "brand": "Tecno",
