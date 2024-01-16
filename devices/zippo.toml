@@ -8,6 +8,11 @@ xdathread = "https://forum.xda-developers.com/t/official-tests-twrp-for-the-leno
 maintainer = "ThEMarD"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/crdroid-official"
+recovery = "https://sourceforge.net/projects/lenovo-z6-pro/files/OrangeFox/OrangeFox-Unofficial-zippo-retrofit-14Jan2024.zip/download"
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]

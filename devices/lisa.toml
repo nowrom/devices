@@ -14,7 +14,7 @@ changelog = "- Merged upstream QuicksliveR kernel changes (Thanks to ghostrider_
 
 [[roms]]
 id = "crdroid"
-gapps = "https://drive.google.com/file/d/1BsmTsxLzYgIo4_8uN2oAriQr7OUXIakU/view?usp=drive_link"
+gapps = "https://nikgapps.com/crdroid-official"
 recovery = "https://sourceforge.net/projects/crdroid/files/lisa/10.x/recovery"
 
 [[roms]]

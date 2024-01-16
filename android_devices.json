@@ -21990,6 +21990,11 @@
     "codename": "patrick"
   },
   {
+    "brand": "CTOUCH",
+    "name": "CTOUCH Droid OPS Module",
+    "codename": "Droid_OPS_Module"
+  },
+  {
     "brand": "CVTE",
     "name": "edu_v2",
     "codename": "rk3588_t"
@@ -29933,6 +29938,11 @@
     "brand": "DIALN",
     "name": "Nova",
     "codename": "NovaA"
+  },
+  {
+    "brand": "DIALN",
+    "name": "S10",
+    "codename": "S10"
   },
   {
     "brand": "DIALN",
@@ -134796,6 +134806,11 @@
   },
   {
     "brand": "SPECTRA",
+    "name": "Spectra MobileMapper6",
+    "codename": "MobileMapper6"
+  },
+  {
+    "brand": "SPECTRA",
     "name": "TAP-POS",
     "codename": "TAP-POS"
   },
@@ -150026,6 +150041,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy XCover7",
+    "codename": "xcover7"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy Xcover",
     "codename": "GT-S5690"
   },
@@ -161421,6 +161441,21 @@
   },
   {
     "brand": "Sunmi",
+    "name": "L2H_EDLA_GL",
+    "codename": "SUNMI-L2HNFC"
+  },
+  {
+    "brand": "Sunmi",
+    "name": "L2Ks",
+    "codename": "SUNMI-L2KsNFC"
+  },
+  {
+    "brand": "Sunmi",
+    "name": "L2s_PRO",
+    "codename": "SUNMI-L2s_PRO"
+  },
+  {
+    "brand": "Sunmi",
     "name": "Sunmi L2H",
     "codename": "SUNMI-L2HNFC"
   },
@@ -161471,7 +161506,12 @@
   },
   {
     "brand": "Sunmi",
-    "name": "V2sNC",
+    "name": "V2s",
+    "codename": "V2s"
+  },
+  {
+    "brand": "Sunmi",
+    "name": "V2s",
     "codename": "V2sNC"
   },
   {
@@ -161488,6 +161528,16 @@
     "brand": "Sunmi",
     "name": "V2sNC",
     "codename": "V2sNC"
+  },
+  {
+    "brand": "Sunmi",
+    "name": "V2sNC",
+    "codename": "V2sNC"
+  },
+  {
+    "brand": "Sunmi",
+    "name": "V2sPLUS",
+    "codename": "V2sPLUSNC"
   },
   {
     "brand": "Sunmi",
@@ -174336,6 +174386,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO POP 8",
+    "codename": "TECNO-BG6i"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO POP X5",
     "codename": "TECNO-L6502S"
   },
@@ -177133,6 +177188,11 @@
     "brand": "Trimble Navigation",
     "name": "Trimble DUO",
     "codename": "DUO"
+  },
+  {
+    "brand": "Trimble Navigation",
+    "name": "Trimble TDC6",
+    "codename": "TDC6"
   },
   {
     "brand": "Trio",
@@ -202098,6 +202158,11 @@
     "brand": "ZTE",
     "name": "nubia Z50S Pro",
     "codename": "PQ82A02"
+  },
+  {
+    "brand": "ZTE",
+    "name": "nubia Z60 Ultra",
+    "codename": "PQ83A01"
   },
   {
     "brand": "ZTE",

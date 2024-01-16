@@ -9,7 +9,7 @@ photo = "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-11-lite-4g-1.jpg"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://nikgapps.com/"
+gapps = "https://nikgapps.com/crdroid-official"
 recovery = "https://sourceforge.net/projects/crdroid/files/courbet/10.x/recovery.img/download"
 
 [specs]

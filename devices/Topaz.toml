@@ -1,0 +1,8 @@
+brand = "Sico"
+codename = "Topaz"
+name = "Sico Topaz"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = true
