@@ -1621,6 +1621,11 @@
   },
   {
     "brand": "AZPEN",
+    "name": "A1083",
+    "codename": "A1083"
+  },
+  {
+    "brand": "AZPEN",
     "name": "A720",
     "codename": "wing-inet"
   },
@@ -18576,6 +18581,11 @@
   },
   {
     "brand": "Blu",
+    "name": "C5L Max",
+    "codename": "C0176"
+  },
+  {
+    "brand": "Blu",
     "name": "C5L PLUS",
     "codename": "C0130UU"
   },
@@ -19013,6 +19023,11 @@
     "brand": "Blu",
     "name": "G53",
     "codename": "G0850_IW"
+  },
+  {
+    "brand": "Blu",
+    "name": "G53",
+    "codename": "G0850_TIGO"
   },
   {
     "brand": "Blu",
@@ -46840,6 +46855,11 @@
     "codename": "yeongdeungpo"
   },
   {
+    "brand": "HORIZON",
+    "name": "ID65HZA3B1_C",
+    "codename": "Interactive_White_Board"
+  },
+  {
     "brand": "HOT (il)",
     "name": "HOT ONE",
     "codename": "VSB3918_ALT_ME"
@@ -52116,6 +52136,11 @@
   },
   {
     "brand": "HannSpree",
+    "name": "HSD0001",
+    "codename": "Reader"
+  },
+  {
+    "brand": "HannSpree",
     "name": "HSG1279",
     "codename": "HANNSpad"
   },
@@ -52293,6 +52318,11 @@
     "brand": "HexaByte",
     "name": "HB_X7",
     "codename": "HB_X7"
+  },
+  {
+    "brand": "Hezire",
+    "name": "HBook-Prime",
+    "codename": "HBook-Prime"
   },
   {
     "brand": "Hezire",
@@ -56611,6 +56641,11 @@
   },
   {
     "brand": "Homatics",
+    "name": "Nova",
+    "codename": "YYZ"
+  },
+  {
+    "brand": "Homatics",
     "name": "SEI600HM",
     "codename": "HND"
   },
@@ -57478,6 +57513,11 @@
     "brand": "Honor",
     "name": "HONOR 90",
     "codename": "HNREA"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR 90 GT",
+    "codename": "HNMAG"
   },
   {
     "brand": "Honor",
@@ -76341,6 +76381,16 @@
   },
   {
     "brand": "KTCtv",
+    "name": "RZTK",
+    "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "RZTK",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "KTCtv",
     "name": "SA",
     "codename": "hongkong"
   },
@@ -76423,6 +76473,11 @@
     "brand": "KTCtv",
     "name": "VOXELECTRONICS",
     "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "WYBOR",
+    "codename": "hongkong"
   },
   {
     "brand": "KTCtv",
@@ -86848,6 +86903,16 @@
     "brand": "LNMBBS",
     "name": "L60",
     "codename": "L60"
+  },
+  {
+    "brand": "LNMBBS",
+    "name": "L80",
+    "codename": "L80"
+  },
+  {
+    "brand": "LNMBBS",
+    "name": "L80-EEA",
+    "codename": "L80-EEA"
   },
   {
     "brand": "LNMBBS",
@@ -103335,6 +103400,11 @@
     "codename": "SEI530BHT"
   },
   {
+    "brand": "Moka",
+    "name": "POS_Device_Moka_Prime",
+    "codename": "POS_Device"
+  },
+  {
     "brand": "Mola TV",
     "name": "PDBM11ADL",
     "codename": "DV8235_P"
@@ -114526,6 +114596,11 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus 12",
+    "codename": "OP595DL1"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus 6",
     "codename": "OnePlus6"
   },
@@ -119853,6 +119928,11 @@
     "brand": "PCD Argentina",
     "name": "P60_CA",
     "codename": "P60_CA"
+  },
+  {
+    "brand": "PCD Argentina",
+    "name": "P63L",
+    "codename": "P63L_CA"
   },
   {
     "brand": "PCD Argentina",
@@ -132181,8 +132261,28 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi Note 13",
+    "codename": "sapphire"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 13",
+    "codename": "sapphiren"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi Note 13 5G",
     "codename": "gold"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 13 5G",
+    "codename": "gold"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Note 13 5G",
+    "codename": "iron"
   },
   {
     "brand": "Redmi",
@@ -160783,6 +160883,11 @@
     "brand": "Strong",
     "name": "LEAP-S1",
     "codename": "LAS"
+  },
+  {
+    "brand": "Strong",
+    "name": "Leap-S3",
+    "codename": "YDA"
   },
   {
     "brand": "Strong",
@@ -205211,6 +205316,11 @@
   },
   {
     "brand": "iData",
+    "name": "iData P1 mini",
+    "codename": "iData_P1_mini"
+  },
+  {
+    "brand": "iData",
     "name": "iData T1",
     "codename": "T1"
   },
@@ -206866,6 +206976,11 @@
   },
   {
     "brand": "realme",
+    "name": "RMX3612",
+    "codename": "RE588DL1"
+  },
+  {
+    "brand": "realme",
     "name": "RMX3627",
     "codename": "RE58AF"
   },
@@ -207318,6 +207433,11 @@
     "brand": "realme",
     "name": "realme C55",
     "codename": "REE2ADL1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme C67",
+    "codename": "RE5C91L1"
   },
   {
     "brand": "realme",
@@ -207958,6 +208078,11 @@
     "brand": "tecmobile",
     "name": "OmnisOne",
     "codename": "OmnisOne"
+  },
+  {
+    "brand": "thehaam",
+    "name": "THEHAAM",
+    "codename": "hongkong"
   },
   {
     "brand": "trueslim",
