@@ -18636,6 +18636,11 @@
   },
   {
     "brand": "Blu",
+    "name": "C6L",
+    "codename": "C0190"
+  },
+  {
+    "brand": "Blu",
     "name": "C6L 2020",
     "codename": "C0090WW"
   },
@@ -18893,6 +18898,11 @@
     "brand": "Blu",
     "name": "G33",
     "codename": "G0892"
+  },
+  {
+    "brand": "Blu",
+    "name": "G33",
+    "codename": "G0892_MXT"
   },
   {
     "brand": "Blu",
@@ -20368,6 +20378,16 @@
     "brand": "Bluebird",
     "name": "RT103",
     "codename": "RT103"
+  },
+  {
+    "brand": "Bluebird",
+    "name": "S50",
+    "codename": "S50"
+  },
+  {
+    "brand": "Bluebird",
+    "name": "S70",
+    "codename": "S70"
   },
   {
     "brand": "Bluebird",
@@ -50980,6 +51000,11 @@
     "codename": "NOTE_10"
   },
   {
+    "brand": "Hafury",
+    "name": "V1",
+    "codename": "V1"
+  },
+  {
     "brand": "Haier",
     "name": "2K Haier TV",
     "codename": "umeda"
@@ -57576,6 +57601,11 @@
   },
   {
     "brand": "Honor",
+    "name": "HONOR Magic6",
+    "codename": "HNBVL-AN00"
+  },
+  {
+    "brand": "Honor",
     "name": "HONOR Magic6 Lite 5G",
     "codename": "HNALI-Q"
   },
@@ -57583,6 +57613,11 @@
     "brand": "Honor",
     "name": "HONOR Magic6 Lite 5G",
     "codename": "HNALI-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR Magic6 Pro",
+    "codename": "HNBVL"
   },
   {
     "brand": "Honor",
@@ -68431,6 +68466,11 @@
   },
   {
     "brand": "IZZI Telecom",
+    "name": "B866V2FI",
+    "codename": "B866V2Fi"
+  },
+  {
+    "brand": "IZZI Telecom",
     "name": "HP2714",
     "codename": "HPH65"
   },
@@ -69563,6 +69603,16 @@
     "brand": "Infinix",
     "name": "Infinix NOTE 30 5G",
     "codename": "Infinix-X6711"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix NOTE 40",
+    "codename": "Infinix-X6853"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix NOTE 40 Pro",
+    "codename": "Infinix-X6850"
   },
   {
     "brand": "Infinix",
@@ -94206,6 +94256,11 @@
   },
   {
     "brand": "Logic Mobility",
+    "name": "L66 PRO",
+    "codename": "L66_PRO"
+  },
+  {
+    "brand": "Logic Mobility",
     "name": "L68",
     "codename": "LOGIC_L68"
   },
@@ -107148,6 +107203,11 @@
     "brand": "Moveby",
     "name": "LINNEX",
     "codename": "LX50"
+  },
+  {
+    "brand": "Movfast",
+    "name": "Ranger2",
+    "codename": "MFT1522"
   },
   {
     "brand": "Movic",
@@ -184973,6 +185033,11 @@
     "brand": "Vivo",
     "name": "X100",
     "codename": "PD2309"
+  },
+  {
+    "brand": "Vivo",
+    "name": "X100",
+    "codename": "V2308"
   },
   {
     "brand": "Vivo",
