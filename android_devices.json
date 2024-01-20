@@ -17877,6 +17877,11 @@
   {
     "brand": "Blaupunkt",
     "name": "BLAUPUNKT",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "BLAUPUNKT",
     "codename": "stanford"
   },
   {
@@ -18913,6 +18918,11 @@
     "brand": "Blu",
     "name": "G33",
     "codename": "G0892_SYN"
+  },
+  {
+    "brand": "Blu",
+    "name": "G33",
+    "codename": "G0894"
   },
   {
     "brand": "Blu",
@@ -35102,6 +35112,11 @@
   {
     "brand": "EKO",
     "name": "EKO",
+    "codename": "lavender"
+  },
+  {
+    "brand": "EKO",
+    "name": "EKO",
     "codename": "shilin"
   },
   {
@@ -35363,6 +35378,11 @@
     "brand": "ELO Touch",
     "name": "I-Series 3.0 for Android",
     "codename": "Elo-i3-22Std"
+  },
+  {
+    "brand": "ELO Touch",
+    "name": "\"I-Series Pay 7\"\"\"",
+    "codename": "7in-I-Series-Pay"
   },
   {
     "brand": "ELO Touch",
@@ -79318,6 +79338,11 @@
     "brand": "Kyocera",
     "name": "DuraForce",
     "codename": "E6762"
+  },
+  {
+    "brand": "Kyocera",
+    "name": "DuraForce EX",
+    "codename": "KY-51D"
   },
   {
     "brand": "Kyocera",
@@ -145391,6 +145416,96 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy S24",
+    "codename": "e1q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24",
+    "codename": "e1q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24",
+    "codename": "e1q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24",
+    "codename": "e1q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24",
+    "codename": "e1s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24",
+    "codename": "e1s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24 Ultra",
+    "codename": "e3q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24 Ultra",
+    "codename": "e3q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24 Ultra",
+    "codename": "e3q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24 Ultra",
+    "codename": "e3q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24 Ultra",
+    "codename": "e3q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24 Ultra",
+    "codename": "e3q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24+",
+    "codename": "e2q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24+",
+    "codename": "e2q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24+",
+    "codename": "e2q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24+",
+    "codename": "e2q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24+",
+    "codename": "e2s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24+",
+    "codename": "e2s"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy S3",
     "codename": "SC-03E"
   },
@@ -179241,6 +179356,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "BISON X20",
+    "codename": "BISON_X20"
+  },
+  {
+    "brand": "Umidigi",
     "name": "BISON_GT",
     "codename": "BISON_GT"
   },
@@ -179986,6 +180106,11 @@
   },
   {
     "brand": "Unitech",
+    "name": "EA660",
+    "codename": "EA660"
+  },
+  {
+    "brand": "Unitech",
     "name": "HT330",
     "codename": "HT330"
   },
@@ -180013,6 +180138,11 @@
     "brand": "Unitech",
     "name": "PA768",
     "codename": "PA768"
+  },
+  {
+    "brand": "Unitech",
+    "name": "RT112",
+    "codename": "RT112"
   },
   {
     "brand": "Unitech",
