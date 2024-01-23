@@ -33361,6 +33361,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "R10",
+    "codename": "PT1"
+  },
+  {
+    "brand": "Doogee",
     "name": "S100",
     "codename": "M22"
   },
@@ -55013,6 +55018,11 @@
     "brand": "Hisense",
     "name": "Hisense U964",
     "codename": "HLTE106E_01"
+  },
+  {
+    "brand": "Hisense",
+    "name": "Hisense U964",
+    "codename": "HLTE106E_02"
   },
   {
     "brand": "Hisense",
@@ -114691,6 +114701,21 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus 12R",
+    "codename": "OP5D35L1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 12R",
+    "codename": "OP5D35L1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 12R",
+    "codename": "OP5D35L1"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus 6",
     "codename": "OnePlus6"
   },
@@ -120173,6 +120198,11 @@
     "brand": "PEAQ",
     "name": "PET_8040_H464S",
     "codename": "PET_8040_H464S"
+  },
+  {
+    "brand": "PEL (PAK)",
+    "name": "PEL",
+    "codename": "lavender"
   },
   {
     "brand": "PEOTV",
