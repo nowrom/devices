@@ -77246,6 +77246,11 @@
   },
   {
     "brand": "Karbonn",
+    "name": "ST102",
+    "codename": "ST102"
+  },
+  {
+    "brand": "Karbonn",
     "name": "Sparkle V",
     "codename": "Sparkle_V_sprout"
   },
@@ -103151,6 +103156,11 @@
   },
   {
     "brand": "Mobiwire",
+    "name": "H5111",
+    "codename": "H5111"
+  },
+  {
+    "brand": "Mobiwire",
     "name": "H6511",
     "codename": "H6511"
   },
@@ -103368,6 +103378,11 @@
     "brand": "Mobiwire",
     "name": "Telstra Lite Plus",
     "codename": "Telstra_Lite_Plus"
+  },
+  {
+    "brand": "Mobiwire",
+    "name": "V Smart 2",
+    "codename": "V_Smart_2"
   },
   {
     "brand": "Mobiwire",
@@ -114636,6 +114651,36 @@
   },
   {
     "brand": "OnePlus",
+    "name": "12",
+    "codename": "OP595DL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "12",
+    "codename": "OP595DL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "12",
+    "codename": "OP595DL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "12R",
+    "codename": "OP5D35L1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "12R",
+    "codename": "OP5D35L1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "12R",
+    "codename": "OP5D35L1"
+  },
+  {
+    "brand": "OnePlus",
     "name": "2",
     "codename": "OnePlus2"
   },
@@ -114773,26 +114818,6 @@
     "brand": "OnePlus",
     "name": "OnePlus 12",
     "codename": "OP5929L1"
-  },
-  {
-    "brand": "OnePlus",
-    "name": "OnePlus 12",
-    "codename": "OP595DL1"
-  },
-  {
-    "brand": "OnePlus",
-    "name": "OnePlus 12",
-    "codename": "OP595DL1"
-  },
-  {
-    "brand": "OnePlus",
-    "name": "OnePlus 12R",
-    "codename": "OP5D35L1"
-  },
-  {
-    "brand": "OnePlus",
-    "name": "OnePlus 12R",
-    "codename": "OP5D35L1"
   },
   {
     "brand": "OnePlus",
@@ -161995,6 +162020,11 @@
     "codename": "V2sPLUSNC"
   },
   {
+    "brand": "Sunmi",
+    "name": "V3 MIX",
+    "codename": "V3_MIX"
+  },
+  {
     "brand": "Sunny",
     "name": "SN01DNGL300",
     "codename": "YQB"
@@ -174943,6 +174973,11 @@
     "brand": "Tecno",
     "name": "TECNO SPARK 20",
     "codename": "TECNO-KJ5n"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 20",
+    "codename": "TECNO-KJ5s"
   },
   {
     "brand": "Tecno",
@@ -195473,6 +195508,11 @@
     "brand": "ZTE",
     "name": "A302ZT",
     "codename": "Z6561S"
+  },
+  {
+    "brand": "ZTE",
+    "name": "A303ZT",
+    "codename": "Z6576S"
   },
   {
     "brand": "ZTE",

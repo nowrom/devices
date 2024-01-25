@@ -1,0 +1,9 @@
+brand = "Redmi"
+codename = "sweet_k6a"
+name = "Redmi Note 12 Pro 4G"
+recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/07-Nov-2023/NikGapps-core-arm64-14-20231107-signed.zip/download"
+recovery = "https://sourceforge.net/projects/crdroid/files/sweet_k6a/10.x/recovery.img/download"
