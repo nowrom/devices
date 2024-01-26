@@ -49,13 +49,13 @@ wifi = "802.11 a/b/g/n/ac/ax"
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 585"
-ram = "6/8/12 GB"
+ram = "6/8 GB"
 wifi = "802.11 a/b/g/n/ac/ax"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 585"
-ram = "6/8 GB"
+ram = "6/8/12 GB"
 wifi = "802.11 a/b/g/n/ac/ax"
 
 [[roms]]
@@ -105,7 +105,7 @@ download = "https://downloads.spark-os.live/?dir=alioth/"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.6"
+version = "v6.2"
 developer = "DennySPb"
 
 [[roms]]
@@ -117,7 +117,7 @@ developer = "mdeejay"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.2"
+version = "v5.6"
 developer = "DennySPb"
 
 [specs]

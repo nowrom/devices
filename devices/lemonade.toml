@@ -32,13 +32,13 @@ xda_thread = "https://forum.xda-developers.com/t/rom-official-oos-cam-pixel-exte
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.7"
+version = "v7.0"
 developer = "DennySPb"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v7.0"
+version = "v6.7"
 developer = "DennySPb"
 
 [specs]

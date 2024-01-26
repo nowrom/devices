@@ -24,19 +24,19 @@ id = "dotos"
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 570"
-ram = "6/8 GB"
-wifi = "802.11 a/b/g/n/ac"
-
-[[roms]]
-id = "lineageos"
-cpu = "Kryo 570"
-ram = "6/8 GB"
-wifi = "802.11 a/b/g/n/ac"
-
-[[roms]]
-id = "lineageos"
-cpu = "Kryo 570"
 ram = "6 GB"
+wifi = "802.11 a/b/g/n/ac"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 570"
+ram = "6/8 GB"
+wifi = "802.11 a/b/g/n/ac"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 570"
+ram = "6/8 GB"
 wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]

@@ -17952,6 +17952,11 @@
   {
     "brand": "Blaupunkt",
     "name": "Blaupunkt",
+    "codename": "ewha"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "Blaupunkt",
     "codename": "expo"
   },
   {
@@ -20998,6 +21003,11 @@
     "brand": "Bush",
     "name": "5 android",
     "codename": "ac50cpl"
+  },
+  {
+    "brand": "Bush",
+    "name": "BUSH",
+    "codename": "ewha"
   },
   {
     "brand": "Bush",
@@ -35966,22 +35976,22 @@
   },
   {
     "brand": "EVOFORCE1",
-    "name": "USA",
+    "name": "MOBI-Buckeye",
     "codename": "SEI800MOBI"
   },
   {
     "brand": "EVOFORCE1",
-    "name": "USA",
+    "name": "MOBI-Buckeye",
     "codename": "SEI800MOBI"
   },
   {
     "brand": "EVOFORCE1",
-    "name": "USA&Canada",
+    "name": "MOBI-SECTV",
     "codename": "SEI800MOBI"
   },
   {
     "brand": "EVOFORCE1",
-    "name": "USA&Canada",
+    "name": "MOBI-SECTV",
     "codename": "SEI800MOBI"
   },
   {
@@ -39308,6 +39318,11 @@
     "brand": "FPD",
     "name": "FPD",
     "codename": "hongkong"
+  },
+  {
+    "brand": "FPD",
+    "name": "FPD",
+    "codename": "lavender"
   },
   {
     "brand": "FPD",
@@ -74317,6 +74332,11 @@
   {
     "brand": "JVC",
     "name": "JVC",
+    "codename": "bruno"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
     "codename": "expo"
   },
   {
@@ -76218,6 +76238,11 @@
     "brand": "KTCtv",
     "name": "CONTINUUS",
     "codename": "stanford"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "DAIWA",
+    "codename": "lavender"
   },
   {
     "brand": "KTCtv",
@@ -123171,6 +123196,11 @@
   },
   {
     "brand": "Philips",
+    "name": "PHILIPS",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Philips",
     "name": "PHILIPS TV",
     "codename": "cocina"
   },
@@ -124868,6 +124898,11 @@
     "brand": "Polaroid",
     "name": "Polaroid",
     "codename": "bruno"
+  },
+  {
+    "brand": "Polaroid",
+    "name": "Polaroid",
+    "codename": "ewha"
   },
   {
     "brand": "Polaroid",
@@ -128478,6 +128513,11 @@
     "brand": "QBell",
     "name": "Italy",
     "codename": "yeongdeungpo"
+  },
+  {
+    "brand": "QBell",
+    "name": "QBELL",
+    "codename": "lavender"
   },
   {
     "brand": "QBell",
@@ -133823,6 +133863,11 @@
     "brand": "S Vision",
     "name": "S android TV",
     "codename": "hanyang"
+  },
+  {
+    "brand": "S Vision",
+    "name": "SVISION",
+    "codename": "lavender"
   },
   {
     "brand": "S Vision",
@@ -176108,6 +176153,11 @@
     "brand": "Tesco",
     "name": "Hudl HT7S3",
     "codename": "ht7s3"
+  },
+  {
+    "brand": "Tesco",
+    "name": "Technika",
+    "codename": "ewha"
   },
   {
     "brand": "Tesco",
