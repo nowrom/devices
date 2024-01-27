@@ -9941,53 +9941,53 @@
   },
   {
     "brand": "Asus",
-    "name": "ROG Phone 7 series",
-    "codename": "ASUS_AI2205"
-  },
-  {
-    "brand": "Asus",
-    "name": "ROG Phone 7 series",
-    "codename": "ASUS_AI2205"
-  },
-  {
-    "brand": "Asus",
-    "name": "ROG Phone 8 series",
-    "codename": "ASUS_AI2401"
-  },
-  {
-    "brand": "Asus",
-    "name": "ROG Phone 8 series",
-    "codename": "ASUS_AI2401"
-  },
-  {
-    "brand": "Asus",
-    "name": "ROG Phone 8 series",
-    "codename": "ASUS_AI2401"
-  },
-  {
-    "brand": "Asus",
-    "name": "ROG Phone II",
-    "codename": "ASUS_I001_1"
-  },
-  {
-    "brand": "Asus",
-    "name": "ROG Phone II",
-    "codename": "ASUS_I001_1"
-  },
-  {
-    "brand": "Asus",
-    "name": "ROG Phone II",
-    "codename": "ASUS_I001_1"
-  },
-  {
-    "brand": "Asus",
-    "name": "ROG Phone II",
-    "codename": "ASUS_I001_1"
-  },
-  {
-    "brand": "Asus",
-    "name": "ROG6 天玑系列",
+    "name": "ROG Phone 6D series",
     "codename": "ASUS_AI2203"
+  },
+  {
+    "brand": "Asus",
+    "name": "ROG Phone 7 series",
+    "codename": "ASUS_AI2205"
+  },
+  {
+    "brand": "Asus",
+    "name": "ROG Phone 7 series",
+    "codename": "ASUS_AI2205"
+  },
+  {
+    "brand": "Asus",
+    "name": "ROG Phone 8 series",
+    "codename": "ASUS_AI2401"
+  },
+  {
+    "brand": "Asus",
+    "name": "ROG Phone 8 series",
+    "codename": "ASUS_AI2401"
+  },
+  {
+    "brand": "Asus",
+    "name": "ROG Phone 8 series",
+    "codename": "ASUS_AI2401"
+  },
+  {
+    "brand": "Asus",
+    "name": "ROG Phone II",
+    "codename": "ASUS_I001_1"
+  },
+  {
+    "brand": "Asus",
+    "name": "ROG Phone II",
+    "codename": "ASUS_I001_1"
+  },
+  {
+    "brand": "Asus",
+    "name": "ROG Phone II",
+    "codename": "ASUS_I001_1"
+  },
+  {
+    "brand": "Asus",
+    "name": "ROG Phone II",
+    "codename": "ASUS_I001_1"
   },
   {
     "brand": "Asus",
@@ -56765,6 +56765,11 @@
     "codename": "HND"
   },
   {
+    "brand": "Homatics",
+    "name": "SEI700HMG",
+    "codename": "SEI700HMG"
+  },
+  {
     "brand": "Home Elite",
     "name": "Android TV",
     "codename": "R1"
@@ -68585,6 +68590,16 @@
     "codename": "HY40A1"
   },
   {
+    "brand": "Ice",
+    "name": "ICE",
+    "codename": "stanford"
+  },
+  {
+    "brand": "Ice",
+    "name": "ICE",
+    "codename": "zhongshan"
+  },
+  {
     "brand": "Ice Phone",
     "name": "Mini",
     "codename": "ice_phone_mini"
@@ -76381,16 +76396,6 @@
   },
   {
     "brand": "KTCtv",
-    "name": "ICE",
-    "codename": "stanford"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "ICE",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
     "name": "IMMER",
     "codename": "hongkong"
   },
@@ -76506,18 +76511,8 @@
   },
   {
     "brand": "KTCtv",
-    "name": "POWER GREEN",
-    "codename": "zhongshan"
-  },
-  {
-    "brand": "KTCtv",
     "name": "POWEROLOGY",
     "codename": "hongkong"
-  },
-  {
-    "brand": "KTCtv",
-    "name": "POWER_GREEN",
-    "codename": "stanford"
   },
   {
     "brand": "KTCtv",
@@ -125958,6 +125953,16 @@
     "brand": "Positivo BGH",
     "name": "Ypy Kids",
     "codename": "YPY_L700"
+  },
+  {
+    "brand": "Power Green",
+    "name": "POWER GREEN",
+    "codename": "zhongshan"
+  },
+  {
+    "brand": "Power Green",
+    "name": "POWER_GREEN",
+    "codename": "stanford"
   },
   {
     "brand": "Powerway",
