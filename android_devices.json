@@ -9236,6 +9236,11 @@
   },
   {
     "brand": "Aspera",
+    "name": "AS-10",
+    "codename": "AS-10"
+  },
+  {
+    "brand": "Aspera",
     "name": "AS5",
     "codename": "AS5"
   },
@@ -39423,6 +39428,11 @@
     "brand": "FUNKER",
     "name": "E500i",
     "codename": "E500i"
+  },
+  {
+    "brand": "FUSE4K",
+    "name": "FUSE 4K",
+    "codename": "SEI700L"
   },
   {
     "brand": "FUSE4K",
@@ -86996,8 +87006,18 @@
   },
   {
     "brand": "LLA",
+    "name": "Gasobi region",
+    "codename": "SEI700L"
+  },
+  {
+    "brand": "LLA",
     "name": "Orion",
     "codename": "SEI500L"
+  },
+  {
+    "brand": "LLA",
+    "name": "Panama",
+    "codename": "SEI700L"
   },
   {
     "brand": "LLA",
@@ -106623,6 +106643,16 @@
     "brand": "Motorola",
     "name": "moto g32",
     "codename": "devon"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g34 5G",
+    "codename": "fogos"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g34 5G",
+    "codename": "fogos"
   },
   {
     "brand": "Motorola",
@@ -154858,6 +154888,11 @@
     "brand": "Silver line",
     "name": "SL1022",
     "codename": "SL1022"
+  },
+  {
+    "brand": "Silver line",
+    "name": "SL1046",
+    "codename": "SL1046"
   },
   {
     "brand": "Silver line",
