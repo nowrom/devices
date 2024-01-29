@@ -26,7 +26,7 @@ maintainer = "K001droid and raghavt20"
 [[roms]]
 id = "crdroid"
 gapps = "https://nikgapps.com/crdroid-official"
-recovery = "https://orangefox.download/device/vayu"
+recovery = "https://sourceforge.net/projects/crdroid/files/vayu/10.x/recovery/recovery-20240128.img/download"
 
 [[roms]]
 id = "dotos"

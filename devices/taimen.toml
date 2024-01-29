@@ -18,6 +18,11 @@ id = "blissroms"
 id = "calyxos"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com"
+recovery = "https://sourceforge.net/projects/crdroid/files/taimen/10.x/recovery"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]

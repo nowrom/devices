@@ -27,7 +27,7 @@ changelog = "Use the ArrowOS recovery when installing the ROM for avoiding issue
 [[roms]]
 id = "crdroid"
 gapps = "https://nikgapps.com/crdroid-official"
-recovery = ""
+recovery = "https://sourceforge.net/projects/crdroid/files/sweet/10.x/recovery/recovery-20240128.img/download"
 
 [[roms]]
 id = "dotos"
