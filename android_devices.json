@@ -110231,6 +110231,11 @@
   },
   {
     "brand": "NELATECH",
+    "name": "TAB8V1",
+    "codename": "TAB8V1"
+  },
+  {
+    "brand": "NELATECH",
     "name": "V22S1",
     "codename": "V22S1"
   },
@@ -111743,6 +111748,11 @@
     "brand": "Newland",
     "name": "NLS-MT93",
     "codename": "NLS-MT93"
+  },
+  {
+    "brand": "Newland",
+    "name": "NLS-MT95",
+    "codename": "NLS-MT95"
   },
   {
     "brand": "Newland",
@@ -177221,6 +177231,11 @@
   },
   {
     "brand": "Toshiba",
+    "name": "TD-E757TS",
+    "codename": "ligen"
+  },
+  {
+    "brand": "Toshiba",
     "name": "Thrive 7",
     "codename": "tostab04"
   },
@@ -185396,6 +185411,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "V30 SE",
+    "codename": "V2327"
+  },
+  {
+    "brand": "Vivo",
     "name": "V3Lite",
     "codename": "V3Lite"
   },
@@ -185418,6 +185438,11 @@
     "brand": "Vivo",
     "name": "V3Max A",
     "codename": "PD1523"
+  },
+  {
+    "brand": "Vivo",
+    "name": "V40 SE 5G",
+    "codename": "V2327"
   },
   {
     "brand": "Vivo",
@@ -185743,6 +185768,11 @@
     "brand": "Vivo",
     "name": "Y200 5G",
     "codename": "V2307"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y200e 5G",
+    "codename": "V2327"
   },
   {
     "brand": "Vivo",
