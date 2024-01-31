@@ -30881,6 +30881,11 @@
   },
   {
     "brand": "Datalogic",
+    "name": "Memor 30/30X",
+    "codename": "nebula_pda"
+  },
+  {
+    "brand": "Datalogic",
     "name": "Memor K",
     "codename": "memor_k"
   },
@@ -39313,6 +39318,11 @@
     "brand": "FOXXD",
     "name": "T8Pro",
     "codename": "T8Pro"
+  },
+  {
+    "brand": "FPD",
+    "name": "FPD",
+    "codename": "hongkong"
   },
   {
     "brand": "FPD",
@@ -76267,6 +76277,11 @@
   {
     "brand": "KTCtv",
     "name": "DAIWA",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "DAIWA",
     "codename": "lavender"
   },
   {
@@ -89718,6 +89733,11 @@
     "brand": "Legamaster",
     "name": "EVOLVE2",
     "codename": "ETX"
+  },
+  {
+    "brand": "Legamaster",
+    "name": "NAVIGATOR",
+    "codename": "NAV_RK"
   },
   {
     "brand": "LegendComfortable",
@@ -103201,6 +103221,11 @@
   },
   {
     "brand": "Mobiwire",
+    "name": "H5112",
+    "codename": "H5112"
+  },
+  {
+    "brand": "Mobiwire",
     "name": "H6511",
     "codename": "H6511"
   },
@@ -103323,6 +103348,11 @@
     "brand": "Mobiwire",
     "name": "MobiWire Kosumi",
     "codename": "Kosumi"
+  },
+  {
+    "brand": "Mobiwire",
+    "name": "Mobiwire Verda",
+    "codename": "Verda"
   },
   {
     "brand": "Mobiwire",
@@ -112792,6 +112822,11 @@
   {
     "brand": "Nokia",
     "name": "Nokia G11",
+    "codename": "SCTA_sprout"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia G11",
     "codename": "SCT_sprout"
   },
   {
@@ -119138,6 +119173,11 @@
     "brand": "Ordissimo",
     "name": "Celia",
     "codename": "Celia"
+  },
+  {
+    "brand": "Ordissimo",
+    "name": "LeNumero2Mini EEA",
+    "codename": "LeNumero2Mini"
   },
   {
     "brand": "Ordissimo",
@@ -136463,6 +136503,11 @@
     "brand": "Sagemcom",
     "name": "Wibox",
     "codename": "dtiw384wb"
+  },
+  {
+    "brand": "Sagemcom",
+    "name": "polsat soundbox 4K",
+    "codename": "m391_polsat"
   },
   {
     "brand": "Saltillo",
@@ -179421,6 +179466,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "A15T EEA",
+    "codename": "A15T"
+  },
+  {
+    "brand": "Umidigi",
     "name": "A3",
     "codename": "A3"
   },
@@ -207436,6 +207486,16 @@
   },
   {
     "brand": "onn.",
+    "name": "Tablet Gen 4",
+    "codename": "100135923"
+  },
+  {
+    "brand": "onn.",
+    "name": "Tablet Gen 4",
+    "codename": "100135925"
+  },
+  {
+    "brand": "onn.",
     "name": "onn. 4K Streaming Box",
     "codename": "YOC"
   },
@@ -207698,6 +207758,11 @@
     "brand": "realme",
     "name": "realme 11x 5G",
     "codename": "RE5C6CL1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme 12 Pro+ 5G",
+    "codename": "RE5C82L1"
   },
   {
     "brand": "realme",
