@@ -15201,6 +15201,11 @@
   },
   {
     "brand": "BTC Mobile",
+    "name": "S5548",
+    "codename": "S5548"
+  },
+  {
+    "brand": "BTC Mobile",
     "name": "Touch",
     "codename": "Touch"
   },
@@ -67991,6 +67996,11 @@
   },
   {
     "brand": "INOI",
+    "name": "INOI A34",
+    "codename": "INOI_A34"
+  },
+  {
+    "brand": "INOI",
     "name": "INOI A52 Lite 32GB",
     "codename": "A150"
   },
@@ -115433,6 +115443,11 @@
     "brand": "OnePlus",
     "name": "Y Series",
     "codename": "shibuya"
+  },
+  {
+    "brand": "OneScreen",
+    "name": "OPS LF with Android",
+    "codename": "OneScreen-OPS-LF"
   },
   {
     "brand": "Onix",
@@ -175033,6 +175048,11 @@
     "brand": "Tecno",
     "name": "TECNO POVA 5G",
     "codename": "TECNO-LE8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO POVA 6 Pro 5G",
+    "codename": "TECNO-LI9"
   },
   {
     "brand": "Tecno",

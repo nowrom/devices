@@ -10,7 +10,7 @@ photo = "https://raw.githubusercontent.com/ancient-devices/ancient_official_devi
 [[roms]]
 id = "arrowos"
 maintainer = "ALKALiKong"
-changelog = "- Merged upstream QuicksliveR kernel changes (Thanks to ghostrider_reborn for his work on lisa!)\r\n- Enabled Secure NFC for CN variant\r\n- Fixed DC Dimming issue (Updated DC Dimming node)\r\n- Lowered default screen density to 400 dpi"
+changelog = "- Switched to libperfmgr\r\n- Disable backpressure propagation in SF\r\n- Switch hwcomposer to foreground CPU set\r\n- Set max network scan search time to 254"
 
 [[roms]]
 id = "crdroid"

@@ -6,7 +6,6 @@ recoveries = []
 [[roms]]
 id = "arrowos"
 maintainer = "Adithya (ghostrider_reborn)"
-changelog = "- Updated kernel to latest CLO tag\r\n- Fixed manual network selection\r\n- Disabled broken color inversion"
 
 [[roms]]
 id = "lineageos"
