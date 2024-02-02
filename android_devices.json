@@ -103241,6 +103241,11 @@
   },
   {
     "brand": "Mobiwire",
+    "name": "H6682",
+    "codename": "H6682"
+  },
+  {
+    "brand": "Mobiwire",
     "name": "H6821",
     "codename": "H6821"
   },
@@ -106683,6 +106688,11 @@
     "brand": "Motorola",
     "name": "moto g32",
     "codename": "devon"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g34",
+    "codename": "fogos"
   },
   {
     "brand": "Motorola",
@@ -113421,6 +113431,11 @@
   },
   {
     "brand": "Nuu",
+    "name": "A14",
+    "codename": "S6007LA"
+  },
+  {
+    "brand": "Nuu",
     "name": "A15",
     "codename": "S6512LA"
   },
@@ -113503,6 +113518,11 @@
     "brand": "Nuu",
     "name": "A9L",
     "codename": "S6303LA"
+  },
+  {
+    "brand": "Nuu",
+    "name": "A9L",
+    "codename": "S6303LAT_Go"
   },
   {
     "brand": "Nuu",
@@ -163126,6 +163146,11 @@
   },
   {
     "brand": "Symphony",
+    "name": "innova20",
+    "codename": "innova20"
+  },
+  {
+    "brand": "Symphony",
     "name": "roarV95",
     "codename": "roarV95"
   },
@@ -177296,6 +177321,11 @@
   },
   {
     "brand": "Toshiba",
+    "name": "TD-E657TS",
+    "codename": "xinnong"
+  },
+  {
+    "brand": "Toshiba",
     "name": "TD-E757TS",
     "codename": "ligen"
   },
@@ -179722,6 +179752,11 @@
   {
     "brand": "Umidigi",
     "name": "BISON X20",
+    "codename": "BISON_X20"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "BISON X20 EEA",
     "codename": "BISON_X20"
   },
   {

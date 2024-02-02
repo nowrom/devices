@@ -24,7 +24,7 @@ id = "cherishos"
 [[roms]]
 id = "crdroid"
 gapps = "https://nikgapps.com/crdroid-official"
-recovery = "https://sourceforge.net/projects/crdroid/files/enchilada/10.x/crDroidAndroid-14.0-20231231-enchilada-v10.0_boot.img/download"
+recovery = "https://sourceforge.net/projects/crdroid/files/enchilada/10.x/crDroidAndroid-14.0-20240121-enchilada-v10.1_boot.img/download"
 
 [[roms]]
 id = "dotos"
