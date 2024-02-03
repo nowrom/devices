@@ -103466,6 +103466,11 @@
   },
   {
     "brand": "Mobiwire",
+    "name": "V Lite 2",
+    "codename": "V_Lite_2"
+  },
+  {
+    "brand": "Mobiwire",
     "name": "V Smart 2",
     "codename": "V_Smart_2"
   },
@@ -120373,6 +120378,11 @@
     "brand": "PCD Argentina",
     "name": "PL620",
     "codename": "PL620"
+  },
+  {
+    "brand": "PCD LLC",
+    "name": "Bengal_Max",
+    "codename": "Bengal_Max"
   },
   {
     "brand": "PCD LLC",
