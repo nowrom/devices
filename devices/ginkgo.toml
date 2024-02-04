@@ -22,7 +22,6 @@ xda_thread = ""
 [[roms]]
 id = "arrowos"
 maintainer = "Adithya (ghostrider_reborn)"
-changelog = "- Updated kernel to latest CLO tag\r\n- Fixed miui camera issues from last few builds\r\n- Misc performance improvements"
 
 [[roms]]
 id = "blissroms"
