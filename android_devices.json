@@ -55107,6 +55107,11 @@
   {
     "brand": "Hisense",
     "name": "Hisense U964",
+    "codename": "HLTE106E_01"
+  },
+  {
+    "brand": "Hisense",
+    "name": "Hisense U964",
     "codename": "HLTE106E_02"
   },
   {
@@ -73843,6 +73848,11 @@
     "brand": "Itel",
     "name": "itel S23+",
     "codename": "itel-S681LN"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel S24",
+    "codename": "itel-S667LN"
   },
   {
     "brand": "Itel",

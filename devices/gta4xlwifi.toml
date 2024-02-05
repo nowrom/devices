@@ -4,6 +4,11 @@ name = "Galaxy Tab S6 Lite"
 recoveries = []
 
 [[roms]]
+id = "crdroid"
+gapps = "https://github.com/MindTheGapps/14.0.0-arm64/releases/"
+recovery = "https://sourceforge.net/projects/crdroid/files/gta4xlwifi/10.x/recovery/recovery-20240203.img/download"
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]

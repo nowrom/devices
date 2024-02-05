@@ -6,7 +6,6 @@ recoveries = []
 [[roms]]
 id = "arrowos"
 maintainer = "EdwardWu"
-changelog = "ROM: Sync with latest sources."
 
 [[roms]]
 id = "blissroms"
