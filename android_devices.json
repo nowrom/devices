@@ -145687,6 +145687,11 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S23 FE",
+    "codename": "SCG24"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S23 FE",
     "codename": "r11q"
   },
   {
@@ -175658,6 +175663,11 @@
     "brand": "Tecno Mobile",
     "name": "TECNO Mobile SPARK 20",
     "codename": "TECNO-Mobile-KJ5n"
+  },
+  {
+    "brand": "Tecno Mobile",
+    "name": "TECNO Mobile SPARK 20 Pro+",
+    "codename": "TECNO-Mobile-KJ7"
   },
   {
     "brand": "Tecno Mobile",
