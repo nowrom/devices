@@ -765,6 +765,11 @@
     "codename": "TG996"
   },
   {
+    "brand": "AKUVOX",
+    "name": "S567",
+    "codename": "S567"
+  },
+  {
     "brand": "ALBADEEL",
     "name": "B725050U",
     "codename": "samseong"
@@ -11978,6 +11983,11 @@
     "brand": "Avvio",
     "name": "Q503",
     "codename": "Avvio_Q503"
+  },
+  {
+    "brand": "Axen",
+    "name": "AXEN 2K Google TV",
+    "codename": "capitolhill"
   },
   {
     "brand": "Axioo",
@@ -30886,11 +30896,6 @@
   },
   {
     "brand": "Datalogic",
-    "name": "Memor 30/30X",
-    "codename": "nebula_pda"
-  },
-  {
-    "brand": "Datalogic",
     "name": "Memor K",
     "codename": "memor_k"
   },
@@ -33078,6 +33083,11 @@
     "brand": "DishTV-NZ",
     "name": "SV11",
     "codename": "ICN"
+  },
+  {
+    "brand": "DishTV-NZ",
+    "name": "SV11HD",
+    "codename": "IAD"
   },
   {
     "brand": "Disney",
@@ -36228,6 +36238,11 @@
     "brand": "Echo Mobiles",
     "name": "Stellar 4G",
     "codename": "Stellar_4G"
+  },
+  {
+    "brand": "Echolink",
+    "name": "ENOVA STICK",
+    "codename": "IAD"
   },
   {
     "brand": "Echolink",
@@ -46787,6 +46802,16 @@
   {
     "brand": "HKC Elec",
     "name": "Google TV",
+    "codename": "lakeside"
+  },
+  {
+    "brand": "HKC Elec",
+    "name": "Google TV",
+    "codename": "nagai"
+  },
+  {
+    "brand": "HKC Elec",
+    "name": "Google TV",
     "codename": "nagai"
   },
   {
@@ -56756,6 +56781,11 @@
   },
   {
     "brand": "Homatics",
+    "name": "Box HD",
+    "codename": "MIA"
+  },
+  {
+    "brand": "Homatics",
     "name": "Box Q",
     "codename": "HND"
   },
@@ -56798,6 +56828,11 @@
     "brand": "Homatics",
     "name": "SEI700HMG",
     "codename": "SEI700HMG"
+  },
+  {
+    "brand": "Homatics",
+    "name": "Stick HD",
+    "codename": "IAD"
   },
   {
     "brand": "Home Elite",
@@ -99891,6 +99926,11 @@
   },
   {
     "brand": "Meizu",
+    "name": "Polestar Phone",
+    "codename": "PolestarPhone"
+  },
+  {
+    "brand": "Meizu",
     "name": "meizu 16Xs",
     "codename": "meizu16Xs"
   },
@@ -100078,6 +100118,11 @@
     "brand": "MiTAC",
     "name": "N672",
     "codename": "hera_pro"
+  },
+  {
+    "brand": "MiTAC",
+    "name": "phaeton",
+    "codename": "phaeton"
   },
   {
     "brand": "MicroTouch",
@@ -112961,6 +113006,11 @@
   },
   {
     "brand": "Nokia",
+    "name": "Nokia Streaming Stick 800",
+    "codename": "IAD"
+  },
+  {
+    "brand": "Nokia",
     "name": "Nokia T10",
     "codename": "PGN"
   },
@@ -113868,6 +113918,11 @@
     "brand": "ODS Corporation",
     "name": "TA2C-DR94G",
     "codename": "TA2C-DR94G"
+  },
+  {
+    "brand": "ODS Corporation",
+    "name": "TA2C-NF8",
+    "codename": "TA2C-NF8"
   },
   {
     "brand": "ODYS",
@@ -136456,6 +136511,11 @@
   },
   {
     "brand": "SYLVOX",
+    "name": "SYLVOX Google TV-A",
+    "codename": "bandra"
+  },
+  {
+    "brand": "SYLVOX",
     "name": "Smart TV 2K",
     "codename": "lasalle"
   },
@@ -157401,6 +157461,11 @@
   },
   {
     "brand": "Sony",
+    "name": "BRAVIA_BF1",
+    "codename": "BRAVIA_BF1"
+  },
+  {
+    "brand": "Sony",
     "name": "BRAVIA_VH21",
     "codename": "BRAVIA_VH21"
   },
@@ -162253,6 +162318,11 @@
     "brand": "Sunny",
     "name": "SN7032",
     "codename": "SN7032"
+  },
+  {
+    "brand": "Sunny",
+    "name": "SUNNY 2K Google TV",
+    "codename": "capitolhill"
   },
   {
     "brand": "Sunstech",
@@ -180811,6 +180881,11 @@
   },
   {
     "brand": "Urovo",
+    "name": "P8100P",
+    "codename": "P8100P"
+  },
+  {
+    "brand": "Urovo",
     "name": "RT40",
     "codename": "SQ47"
   },
@@ -189178,6 +189253,11 @@
     "brand": "Walton",
     "name": "WALTON GSMART 4KTV FF",
     "codename": "anaheim"
+  },
+  {
+    "brand": "Walton",
+    "name": "WAS2KA11",
+    "codename": "IAD"
   },
   {
     "brand": "Walton",
@@ -204565,6 +204645,11 @@
     "codename": "smart_S5"
   },
   {
+    "brand": "aigo",
+    "name": "A18",
+    "codename": "A18"
+  },
+  {
     "brand": "alter",
     "name": "MIG",
     "codename": "MIG"
@@ -206565,6 +206650,11 @@
     "codename": "I22M01"
   },
   {
+    "brand": "iMin",
+    "name": "Swift 2 Pro",
+    "codename": "Swift2Pro"
+  },
+  {
     "brand": "iMuz",
     "name": "4K Smart TV",
     "codename": "pioneer"
@@ -207178,6 +207268,11 @@
     "brand": "imiia",
     "name": "i-217D1",
     "codename": "YUL"
+  },
+  {
+    "brand": "imiia",
+    "name": "imiia 2k stick",
+    "codename": "IAD"
   },
   {
     "brand": "imiia",
@@ -208938,6 +209033,11 @@
     "brand": "videocon",
     "name": "Starr 100",
     "codename": "V406018"
+  },
+  {
+    "brand": "waiputv",
+    "name": "Hybrid Stick",
+    "codename": "SEI730WP"
   },
   {
     "brand": "waiputv",

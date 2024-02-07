@@ -1,0 +1,9 @@
+brand = "Realme"
+codename = "samurai"
+name = "Realme X2 Pro"
+recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/crdroid-official"
+recovery = ""
