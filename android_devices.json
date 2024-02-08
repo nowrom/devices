@@ -58101,6 +58101,11 @@
   },
   {
     "brand": "Hot Pepper",
+    "name": "AJI",
+    "codename": "AJI"
+  },
+  {
+    "brand": "Hot Pepper",
     "name": "AP17",
     "codename": "AP17"
   },
@@ -58313,6 +58318,11 @@
     "brand": "Hotwav",
     "name": "Magic_5_Plus",
     "codename": "Magic_5_Plus"
+  },
+  {
+    "brand": "Hotwav",
+    "name": "Note 15 EEA",
+    "codename": "Note_15"
   },
   {
     "brand": "Hotwav",
@@ -160860,6 +160870,16 @@
     "codename": "VC92"
   },
   {
+    "brand": "Spectralink",
+    "name": "Versity 9740",
+    "codename": "Versity"
+  },
+  {
+    "brand": "Spectralink",
+    "name": "Versity 9753",
+    "codename": "Versity"
+  },
+  {
     "brand": "Speedata",
     "name": "FG50",
     "codename": "FG50"
@@ -204813,6 +204833,11 @@
     "brand": "benco",
     "name": "benco S1 Plus",
     "codename": "AEOP513"
+  },
+  {
+    "brand": "benco",
+    "name": "benco S1 Pro",
+    "codename": "AE9260"
   },
   {
     "brand": "benco",

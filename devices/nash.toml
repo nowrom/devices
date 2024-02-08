@@ -9,13 +9,13 @@ maintainer = "kaneawk, erfanoabdi"
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 280"
-ram = "6 GB LPDDR4X"
+ram = "4/6 GB LPDDR4X"
 wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo 280"
-ram = "4/6 GB LPDDR4X"
+ram = "6 GB LPDDR4X"
 wifi = "802.11 a/b/g/n/ac"
 
 [specs]
