@@ -4,8 +4,8 @@ name = "OnePlus 9 Pro"
 
 [[recoveries]]
 id = "twrp"
-xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project.4294289/"
-maintainer = "Nebrassy"
+xdathread = "https://xdaforums.com/t/recovery-3-7-0_12-10-unofficial-unified-twrp-with-a12-a14-encryption-support.4523857/"
+maintainer = "der_akinator"
 
 [[roms]]
 id = "ancientos"

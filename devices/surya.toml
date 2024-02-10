@@ -18,7 +18,7 @@ changelog = "- props: Disable redir_party_num\r\n- Modified QDCM Display Configs
 
 [[roms]]
 id = "crdroid"
-gapps = "https://nikgapps.com/"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/"
 recovery = "https://t.me/gtrcraft_surya/74568"
 
 [[roms]]
