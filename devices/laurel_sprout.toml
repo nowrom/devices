@@ -36,13 +36,7 @@ id = "pixelextended"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.5"
-developer = "magicxavi"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
-version = "v4.9"
+version = "v6.6"
 developer = "magicxavi"
 
 [[roms]]
@@ -54,7 +48,13 @@ developer = "HarukeyUA"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.6"
+version = "v5.5"
+developer = "magicxavi"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v4.9"
 developer = "magicxavi"
 
 [specs]

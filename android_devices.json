@@ -79556,6 +79556,11 @@
   },
   {
     "brand": "Kyocera",
+    "name": "DuraForce EX",
+    "codename": "KY23L-RG100"
+  },
+  {
+    "brand": "Kyocera",
     "name": "DuraForce PRO",
     "codename": "E6820"
   },
@@ -88131,6 +88136,11 @@
   },
   {
     "brand": "Lanix",
+    "name": "M5e",
+    "codename": "M5e"
+  },
+  {
+    "brand": "Lanix",
     "name": "NA",
     "codename": "stanford"
   },
@@ -88993,6 +89003,11 @@
     "brand": "Lava",
     "name": "Y50",
     "codename": "AF9020"
+  },
+  {
+    "brand": "Lava",
+    "name": "YUVA 3",
+    "codename": "LZX415"
   },
   {
     "brand": "Lava",
@@ -138228,6 +138243,46 @@
     "brand": "Samsung",
     "name": "Galaxy A34 5G",
     "codename": "a34x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A35 5G",
+    "codename": "a35x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A35 5G",
+    "codename": "a35x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A35 5G",
+    "codename": "a35x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A35 5G",
+    "codename": "a35x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A35 5G",
+    "codename": "a35x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A35 5G",
+    "codename": "a35x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A35 5G",
+    "codename": "a35x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A35 5G",
+    "codename": "a35x"
   },
   {
     "brand": "Samsung",
@@ -187671,6 +187726,11 @@
   },
   {
     "brand": "Volvo",
+    "name": "EX30",
+    "codename": "habanero"
+  },
+  {
+    "brand": "Volvo",
     "name": "Volvo",
     "codename": "ihu_abl_car"
   },
@@ -203376,6 +203436,11 @@
   },
   {
     "brand": "Zebra",
+    "name": "HC50",
+    "codename": "TC22"
+  },
+  {
+    "brand": "Zebra",
     "name": "MC18",
     "codename": "MC18"
   },
@@ -203463,6 +203528,11 @@
     "brand": "Zebra",
     "name": "TC21",
     "codename": "TC21"
+  },
+  {
+    "brand": "Zebra",
+    "name": "TC22",
+    "codename": "TC22"
   },
   {
     "brand": "Zebra",

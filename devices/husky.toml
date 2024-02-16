@@ -13,3 +13,9 @@ id = "evolutionx"
 
 [[roms]]
 id = "evolutionx"
+
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-X3 & Cortex-A715 & Cortex-A510"
+ram = "12 GB"
+wifi = "802.11 a/b/g/n/ac/ax/be"

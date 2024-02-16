@@ -1,6 +1,6 @@
 brand = "NVIDIA"
 codename = "foster_tab"
-name = "Jetson TX1 [Tablet]"
+name = "Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) [Tablet]"
 recoveries = []
 
 [[roms]]

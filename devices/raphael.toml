@@ -97,7 +97,7 @@ download = "https://downloads.spark-os.live/?dir=raphael/"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
+version = "v5.5"
 developer = "NATO666613"
 
 [[roms]]
@@ -115,7 +115,7 @@ developer = "NATO666613"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.5"
+version = "v4.9"
 developer = "NATO666613"
 
 [specs]
