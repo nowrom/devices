@@ -92296,6 +92296,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo Tab K11",
+    "codename": "TB330FUP"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo Tab K8",
     "codename": "TB-8506F"
   },
@@ -92433,6 +92438,11 @@
     "brand": "Lenovo",
     "name": "Lenovo Tab M10 Plus 3rd Gen",
     "codename": "TB128XU"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo Tab M10a 5G",
+    "codename": "LET02"
   },
   {
     "brand": "Lenovo",

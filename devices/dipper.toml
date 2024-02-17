@@ -17,8 +17,8 @@ photo = "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi8-4.jpg"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/"
-recovery = "https://sourceforge.net/projects/zhullyb/files/dipper/14.0/TWRP/TWRP_3.7.0-12.1_dipper_system-ext_zhullyb_20231203.img/download"
+gapps = "https://nikgapps.com/crdroid-official"
+recovery = "https://sourceforge.net/projects/crdroid/files/dipper/10.x/recovery.img/download"
 
 [[roms]]
 id = "dotos"
