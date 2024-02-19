@@ -4,6 +4,11 @@ name = "POCO M5s"
 recoveries = []
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps"
+recovery = "https://devuploads.com/an6rivl62feq"
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]

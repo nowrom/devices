@@ -80180,6 +80180,11 @@
     "codename": "osaki"
   },
   {
+    "brand": "LEXA",
+    "name": "Uruguay",
+    "codename": "nagata"
+  },
+  {
     "brand": "LEYO",
     "name": "EY-TAB8161G",
     "codename": "EY-TAB8161G"
@@ -171970,6 +171975,16 @@
     "codename": "T847_EEA"
   },
   {
+    "brand": "TOKYO",
+    "name": "Paraguay",
+    "codename": "marina"
+  },
+  {
+    "brand": "TOKYO",
+    "name": "Paraguay",
+    "codename": "nagata"
+  },
+  {
     "brand": "TONE",
     "name": "TONE e20",
     "codename": "TONE_e20"
@@ -207916,6 +207931,11 @@
   },
   {
     "brand": "realme",
+    "name": "RMX3834",
+    "codename": "RE5C9F"
+  },
+  {
+    "brand": "realme",
     "name": "Smart TV",
     "codename": "mateo"
   },
@@ -208061,7 +208081,17 @@
   },
   {
     "brand": "realme",
+    "name": "realme 12 Pro 5G",
+    "codename": "RE5C84L1"
+  },
+  {
+    "brand": "realme",
     "name": "realme 12 Pro+ 5G",
+    "codename": "RE5C82L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme 12 Pro+5G",
     "codename": "RE5C82L1"
   },
   {
@@ -208438,6 +208468,11 @@
     "brand": "realme",
     "name": "realme Narzo 30 Pro 5G",
     "codename": "RMX2117L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme Note 50",
+    "codename": "RE5C9F"
   },
   {
     "brand": "realme",

@@ -1,6 +1,6 @@
 brand = "ASUS"
 codename = "X00TD"
-name = "Zenfone Max Pro M1"
+name = "Asus Zenfone Max Pro M1"
 
 [[recoveries]]
 id = "twrp"
