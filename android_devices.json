@@ -936,6 +936,11 @@
   },
   {
     "brand": "AOC",
+    "name": "AOC",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "AOC",
     "name": "AOC Android TV",
     "codename": "PH0M_EA_T32"
   },
@@ -17898,6 +17903,11 @@
     "brand": "Blaupunkt",
     "name": "BLAUPUNKT",
     "codename": "bruno"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "BLAUPUNKT",
+    "codename": "hongkong"
   },
   {
     "brand": "Blaupunkt",
@@ -35172,6 +35182,11 @@
   {
     "brand": "EKO",
     "name": "EKO",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "EKO",
+    "name": "EKO",
     "codename": "kaitak"
   },
   {
@@ -39106,6 +39121,11 @@
   },
   {
     "brand": "FFFSMARTLIFE",
+    "name": "F3T10WD4",
+    "codename": "F3T10WD4"
+  },
+  {
+    "brand": "FFFSMARTLIFE",
     "name": "F3T7B1",
     "codename": "F3T7B1"
   },
@@ -39368,6 +39388,11 @@
     "brand": "FPD",
     "name": "FPD",
     "codename": "lavender"
+  },
+  {
+    "brand": "FPD",
+    "name": "FPD",
+    "codename": "mountbaker"
   },
   {
     "brand": "FPD",
@@ -58171,6 +58196,11 @@
   },
   {
     "brand": "Hot Pepper",
+    "name": "ROJO",
+    "codename": "ROJO"
+  },
+  {
+    "brand": "Hot Pepper",
     "name": "Serrano",
     "codename": "HPP-L55"
   },
@@ -68411,6 +68441,11 @@
   },
   {
     "brand": "IRA (explore more)",
+    "name": "IRADUO_PRO",
+    "codename": "IRA_DUO_PRO"
+  },
+  {
+    "brand": "IRA (explore more)",
     "name": "IRA_DUO_PLUS",
     "codename": "IRA_DUO_PLUS"
   },
@@ -76688,6 +76723,11 @@
     "brand": "KTCtv",
     "name": "STAR-TRACK",
     "codename": "lavender"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "SVISION",
+    "codename": "hongkong"
   },
   {
     "brand": "KTCtv",
@@ -99931,6 +99971,11 @@
   },
   {
     "brand": "Meizu",
+    "name": "MEIZU 20 Inf.sat",
+    "codename": "meizu20Infsat"
+  },
+  {
+    "brand": "Meizu",
     "name": "Meizu 6T",
     "codename": "Meizu6T"
   },
@@ -110688,6 +110733,11 @@
     "brand": "NGM Italia SRL",
     "name": "Smart5Plus",
     "codename": "Smart5Plus"
+  },
+  {
+    "brand": "NIKAI_PRO",
+    "name": "NIKAI_PRO",
+    "codename": "hongkong"
   },
   {
     "brand": "NOA Mobile",
@@ -123437,6 +123487,11 @@
   {
     "brand": "Philips",
     "name": "PHILIPS",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Philips",
+    "name": "PHILIPS",
     "codename": "lavender"
   },
   {
@@ -124648,6 +124703,11 @@
     "brand": "Point Mobile",
     "name": "PM80",
     "codename": "pm80"
+  },
+  {
+    "brand": "Point Mobile",
+    "name": "PM84",
+    "codename": "PM84"
   },
   {
     "brand": "Point Mobile",
@@ -128763,6 +128823,11 @@
     "brand": "QBell",
     "name": "Italy",
     "codename": "yeongdeungpo"
+  },
+  {
+    "brand": "QBell",
+    "name": "QBELL",
+    "codename": "hongkong"
   },
   {
     "brand": "QBell",
@@ -135113,6 +135178,11 @@
     "brand": "SPC",
     "name": "GRAVITY_3_SE",
     "codename": "GRAVITY_3_SE"
+  },
+  {
+    "brand": "SPC",
+    "name": "GRAVITY_5_SE_EEA",
+    "codename": "GRAVITY_5_SE_EEA"
   },
   {
     "brand": "SPC",
@@ -180983,6 +181053,11 @@
     "brand": "Urovo",
     "name": "DT50 5G",
     "codename": "DT50_5G"
+  },
+  {
+    "brand": "Urovo",
+    "name": "DT66",
+    "codename": "DT66"
   },
   {
     "brand": "Urovo",

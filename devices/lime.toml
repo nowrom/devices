@@ -10,9 +10,9 @@ repostories = ["device_xiaomi_chime","device_xiaomi_lime","kernel_xiaomi_chime",
 [[roms.supported_versions]]
 version_code = "thirteen"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 stable = true
-deprecated = false
+deprecated = true

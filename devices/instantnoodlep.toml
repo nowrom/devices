@@ -39,13 +39,13 @@ deprecated = true
 version_code = "thirteen"
 xda_thread = ""
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 xda_thread = ""
 stable = true
-deprecated = false
+deprecated = true
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"

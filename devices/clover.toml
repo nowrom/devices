@@ -25,12 +25,12 @@ repostories = ["device_xiaomi_clover","kernel_xiaomi_clover","vendor_xiaomi_clov
 [[roms.supported_versions]]
 version_code = "thirteen"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 stable = true
-deprecated = false
+deprecated = true
 
 [specs]
 cpu = "Not found"
