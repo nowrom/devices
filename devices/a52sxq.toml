@@ -25,10 +25,10 @@ repostories = ["device_samsung_a52sxq","device_samsung_sm7325-common","kernel_sa
 version_code = "thirteen"
 xda_thread = "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/"
 stable = true
-deprecated = true
+deprecated = false
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 xda_thread = "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/"
 stable = true
-deprecated = true
+deprecated = false

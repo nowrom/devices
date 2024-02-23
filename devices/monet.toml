@@ -43,13 +43,13 @@ deprecated = true
 version_code = "thirteen"
 xda_thread = "https://forum.xda-developers.com/t/4378865/"
 stable = true
-deprecated = true
+deprecated = false
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 xda_thread = "https://forum.xda-developers.com/t/4378865/"
 stable = true
-deprecated = true
+deprecated = false
 
 [[roms]]
 id = "revengeos"

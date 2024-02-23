@@ -20,13 +20,13 @@ repostories = ["device_motorola_berlin","device_motorola_sm7325-common","kernel_
 version_code = "thirteen"
 stable = true
 xda_thread = "https://forum.xda-developers.com/t/rom-13-motorola-edge-20-berlin-pixelexperience-aosp.4605369/"
-deprecated = true
+deprecated = false
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 stable = true
 xda_thread = "https://forum.xda-developers.com/t/rom-13-motorola-edge-20-berlin-pixelexperience-aosp.4605369/"
-deprecated = true
+deprecated = false
 
 [specs]
 cpu = "Octa-core (4x2.4 GHz Kryo 670 & 4x1.9 GHz Kryo 670)"

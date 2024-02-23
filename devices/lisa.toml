@@ -48,12 +48,12 @@ repostories = ["device_xiaomi_lisa","kernel_xiaomi_lisa","vendor_xiaomi_lisa","v
 [[roms.supported_versions]]
 version_code = "thirteen"
 stable = true
-deprecated = true
+deprecated = false
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 stable = true
-deprecated = true
+deprecated = false
 
 [specs]
 cpu = "Octa-core (4x2.4 GHz Kryo 670 & 4x1.8 GHz Kryo 670)"

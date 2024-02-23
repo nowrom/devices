@@ -20,12 +20,12 @@ repostories = ["device_nokia_DRG","device_nokia_sdm660-common","vendor_nokia_DRG
 [[roms.supported_versions]]
 version_code = "thirteen"
 stable = true
-deprecated = true
+deprecated = false
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 stable = true
-deprecated = true
+deprecated = false
 
 [specs]
 cpu = "Not found"

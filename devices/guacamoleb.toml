@@ -31,13 +31,13 @@ deprecated = true
 version_code = "thirteen"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-1-guacamoleb-pixelexperience-aosp-official.4465935/"
 stable = true
-deprecated = true
+deprecated = false
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-12-1-guacamoleb-pixelexperience-aosp-official.4465935/"
 stable = true
-deprecated = true
+deprecated = false
 
 [specs]
 cpu = "Quad-core 2.34 GHz (2x Hurricane + 2x Zephyr)"

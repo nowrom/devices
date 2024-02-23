@@ -37,13 +37,13 @@ deprecated = true
 version_code = "thirteen"
 xda_thread = "https://forum.xda-developers.com/t/4434401/"
 stable = true
-deprecated = true
+deprecated = false
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 xda_thread = "https://forum.xda-developers.com/t/4434401/"
 stable = true
-deprecated = true
+deprecated = false
 
 [specs]
 cpu = "Octa-core (2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver)"

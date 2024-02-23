@@ -98,12 +98,12 @@ stable = false
 
 [[roms.supported_versions]]
 version_code = "thirteen"
-deprecated = true
+deprecated = false
 stable = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
-deprecated = true
+deprecated = false
 stable = true
 
 [[roms]]

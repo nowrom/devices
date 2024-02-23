@@ -941,6 +941,11 @@
   },
   {
     "brand": "AOC",
+    "name": "AOC",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "AOC",
     "name": "AOC Android TV",
     "codename": "PH0M_EA_T32"
   },
@@ -11500,6 +11505,11 @@
     "codename": "Magic_1"
   },
   {
+    "brand": "Attila",
+    "name": "WTATTRW2",
+    "codename": "WTATTRW2"
+  },
+  {
     "brand": "Auchan",
     "name": "AUCHAN",
     "codename": "Q7T9INK"
@@ -17927,6 +17937,11 @@
   {
     "brand": "Blaupunkt",
     "name": "BLAUPUNKT",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "Blaupunkt",
+    "name": "BLAUPUNKT",
     "codename": "stanford"
   },
   {
@@ -19468,6 +19483,11 @@
     "brand": "Blu",
     "name": "M10L Pro",
     "codename": "M0214_ND"
+  },
+  {
+    "brand": "Blu",
+    "name": "M10L Pro",
+    "codename": "M0215_MXT"
   },
   {
     "brand": "Blu",
@@ -31555,6 +31575,21 @@
     "codename": "Lion"
   },
   {
+    "brand": "Deutsche Telekom",
+    "name": "T Phone Pro (2023)",
+    "codename": "Tiger"
+  },
+  {
+    "brand": "Deutsche Telekom",
+    "name": "T Phone （2023）",
+    "codename": "Leopard"
+  },
+  {
+    "brand": "Deutsche Telekom",
+    "name": "T Tablet",
+    "codename": "Hubbs"
+  },
+  {
     "brand": "DiDi (Japan)",
     "name": "DDT-001",
     "codename": "DDT-001"
@@ -35202,6 +35237,11 @@
   {
     "brand": "EKO",
     "name": "EKO",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "EKO",
+    "name": "EKO",
     "codename": "shilin"
   },
   {
@@ -36408,6 +36448,11 @@
     "brand": "Electroland Ghana",
     "name": "NASCO_Allure",
     "codename": "NASCO_Allure"
+  },
+  {
+    "brand": "Electroman",
+    "name": "ELECTROMAN",
+    "codename": "mountbaker"
   },
   {
     "brand": "Electroman",
@@ -38731,6 +38776,11 @@
   },
   {
     "brand": "F-Plus",
+    "name": "R570E",
+    "codename": "R570E"
+  },
+  {
+    "brand": "F-Plus",
     "name": "SA50_21620",
     "codename": "SA50_21620"
   },
@@ -39298,6 +39348,11 @@
     "brand": "FOXXD",
     "name": "A2023",
     "codename": "A2023"
+  },
+  {
+    "brand": "FOXXD",
+    "name": "A56",
+    "codename": "A56"
   },
   {
     "brand": "FOXXD",
@@ -68815,6 +68870,16 @@
     "codename": "IK-1028"
   },
   {
+    "brand": "Ikon",
+    "name": "IKON 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "Ikon",
+    "name": "IKON 4K Google TV",
+    "codename": "keoneae"
+  },
+  {
     "brand": "IkuMobile",
     "name": "A10",
     "codename": "A10"
@@ -71820,6 +71885,11 @@
     "codename": "WE1"
   },
   {
+    "brand": "Inventus",
+    "name": "CT7",
+    "codename": "Aqua"
+  },
+  {
     "brand": "Inverse Net",
     "name": "EP172BZ",
     "codename": "EP172BZ"
@@ -73423,6 +73493,11 @@
     "brand": "Itel",
     "name": "itel  A24",
     "codename": "itel-A507LN"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel  A24 2023",
+    "codename": "itel-A507LX"
   },
   {
     "brand": "Itel",
@@ -94661,6 +94736,11 @@
   },
   {
     "brand": "Logic Mobility",
+    "name": "LOGIC_L66M",
+    "codename": "LOGIC_L66M"
+  },
+  {
+    "brand": "Logic Mobility",
     "name": "LOGIC_X40",
     "codename": "LOGIC_X40"
   },
@@ -96286,6 +96366,11 @@
   },
   {
     "brand": "MEFERI",
+    "name": "CIAO",
+    "codename": "CIAO"
+  },
+  {
+    "brand": "MEFERI",
     "name": "ME10",
     "codename": "ME10"
   },
@@ -96308,6 +96393,11 @@
     "brand": "MEFERI",
     "name": "ME65",
     "codename": "ME65"
+  },
+  {
+    "brand": "MEFERI",
+    "name": "ME74",
+    "codename": "ME74"
   },
   {
     "brand": "MEO(Portugal)",
@@ -107987,6 +108077,11 @@
   {
     "brand": "Mtek",
     "name": "MTEK",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Mtek",
+    "name": "MTEK",
     "codename": "stanford"
   },
   {
@@ -114560,6 +114655,16 @@
     "codename": "S80"
   },
   {
+    "brand": "OSCAL",
+    "name": "TIGER 12",
+    "codename": "Tiger12"
+  },
+  {
+    "brand": "OSCAL",
+    "name": "Tiger 12",
+    "codename": "Tiger12"
+  },
+  {
     "brand": "OSN tv",
     "name": "NGB22-OSN",
     "codename": "HY45N"
@@ -116031,6 +116136,16 @@
   },
   {
     "brand": "Oppo",
+    "name": "A2 5G",
+    "codename": "OP5647"
+  },
+  {
+    "brand": "Oppo",
+    "name": "A2m 5G",
+    "codename": "OP5A0D"
+  },
+  {
+    "brand": "Oppo",
     "name": "A2x 5G",
     "codename": "OP5A0D"
   },
@@ -116413,6 +116528,11 @@
     "brand": "Oppo",
     "name": "A59",
     "codename": "A59"
+  },
+  {
+    "brand": "Oppo",
+    "name": "A59 5G",
+    "codename": "OP5AD5L1"
   },
   {
     "brand": "Oppo",
@@ -120625,6 +120745,11 @@
     "codename": "lavender"
   },
   {
+    "brand": "PEL (PAK)",
+    "name": "PEL",
+    "codename": "mountbaker"
+  },
+  {
     "brand": "PEOTV",
     "name": "SEI300SLT",
     "codename": "SEI300SLT"
@@ -123200,7 +123325,7 @@
     "codename": "ETBA0604"
   },
   {
-    "brand": "Pepperl_Fuchs",
+    "brand": "Pepperl+Fuchs",
     "name": "Smart-Ex 03",
     "codename": "Smart-Ex03"
   },
@@ -123493,6 +123618,16 @@
     "brand": "Philips",
     "name": "PHILIPS",
     "codename": "lavender"
+  },
+  {
+    "brand": "Philips",
+    "name": "PHILIPS",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Philips",
+    "name": "PHILIPS",
+    "codename": "mountbaker"
   },
   {
     "brand": "Philips",
@@ -125623,6 +125758,11 @@
     "brand": "Positivo",
     "name": "T2050C",
     "codename": "T2050C"
+  },
+  {
+    "brand": "Positivo",
+    "name": "T3010D",
+    "codename": "T3010D"
   },
   {
     "brand": "Positivo",
@@ -128833,6 +128973,11 @@
     "brand": "QBell",
     "name": "QBELL",
     "codename": "lavender"
+  },
+  {
+    "brand": "QBell",
+    "name": "QBELL",
+    "codename": "mountbaker"
   },
   {
     "brand": "QBell",
@@ -134187,6 +134332,11 @@
   {
     "brand": "S Vision",
     "name": "SVISION",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "S Vision",
+    "name": "SVISION",
     "codename": "zhongshan"
   },
   {
@@ -135548,6 +135698,11 @@
     "brand": "SPECTRA",
     "name": "tap-POS-AM",
     "codename": "tap-POS-AM"
+  },
+  {
+    "brand": "SPJtv",
+    "name": "Android TV",
+    "codename": "R1"
   },
   {
     "brand": "SPJtv",
@@ -161856,6 +162011,11 @@
   },
   {
     "brand": "Stylo",
+    "name": "MAVERICK",
+    "codename": "MAVERICK"
+  },
+  {
+    "brand": "Stylo",
     "name": "MOSCOW",
     "codename": "MOSCOW"
   },
@@ -163491,6 +163651,21 @@
   },
   {
     "brand": "T-Mobile",
+    "name": "REVVL 6x 5G",
+    "codename": "TorreyPines"
+  },
+  {
+    "brand": "T-Mobile",
+    "name": "REVVL 6x PRO 5G",
+    "codename": "SouthernDunes"
+  },
+  {
+    "brand": "T-Mobile",
+    "name": "REVVL TAB 5G",
+    "codename": "REVVLTAB5G"
+  },
+  {
+    "brand": "T-Mobile",
     "name": "REVVL V",
     "codename": "Newcastle"
   },
@@ -164698,6 +164873,11 @@
     "brand": "TCL",
     "name": "TCL TAB 8 Plus",
     "codename": "Luna_8_4G_VZW"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL TAB 8 SE",
+    "codename": "Luna_8_4G_ATT"
   },
   {
     "brand": "TCL",
@@ -175453,6 +175633,11 @@
     "brand": "Tecno",
     "name": "TECNO SPARK 20 Pro+",
     "codename": "TECNO-KJ7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 20 Pro+",
+    "codename": "TECNO-KJ7s"
   },
   {
     "brand": "Tecno",
@@ -186628,6 +186813,11 @@
     "brand": "Vivo",
     "name": "iQOO Neo9",
     "codename": "PD2338"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Neo9 Pro",
+    "codename": "I2304"
   },
   {
     "brand": "Vivo",
@@ -207522,6 +207712,11 @@
   {
     "brand": "innos",
     "name": "innos 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "innos",
+    "name": "innos 2K Google TV-A",
     "codename": "capitolhill"
   },
   {

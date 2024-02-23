@@ -12,6 +12,11 @@ id = "AOSPK"
 xda_thread = ""
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/NikGapps-U/"
+recovery = "https://sourceforge.net/projects/crdroid/files/hotdogb/10.x/recovery/"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
@@ -46,13 +51,13 @@ deprecated = true
 version_code = "thirteen"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-official-pixel-experience-aosp.4401287/"
 stable = true
-deprecated = true
+deprecated = false
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-0-oneplus-7t-official-pixel-experience-aosp.4401287/"
 stable = true
-deprecated = true
+deprecated = false
 
 [specs]
 cpu = "Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)"
