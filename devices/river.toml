@@ -16,7 +16,7 @@ maintainer = "Deivid Ignacio"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/07-Nov-2023/NikGapps-core-arm64-14-20231107-signed.zip/download"
+gapps = "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm64-14.0.0-v2.7-ROAR.zip"
 recovery = ""
 
 [[roms]]

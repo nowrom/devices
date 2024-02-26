@@ -37,12 +37,12 @@ repostories = ["device_asus_X00TD","kernel_asus_sdm660","vendor_asus_X00TD"]
 [[roms.supported_versions]]
 version_code = "thirteen"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "twelve"

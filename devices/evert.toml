@@ -32,13 +32,13 @@ deprecated = true
 version_code = "thirteen"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-moto-g6-plus-pixelexperience-aosp.4605381/"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-moto-g6-plus-pixelexperience-aosp.4605381/"
 stable = true
-deprecated = false
+deprecated = true
 
 [specs]
 cpu = "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)"

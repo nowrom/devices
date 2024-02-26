@@ -6,7 +6,7 @@ roms = []
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-teamwin-recovery-project-3-6-0-for-motorola-g9-play-guamp.4364415/"
-maintainer = "MD Raza (RazaDroid)"
+maintainer = "MD Raza (DelightReza)"
 
 [specs]
 cpu = "Octa-core (1x2.99 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"

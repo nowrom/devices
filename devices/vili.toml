@@ -6,7 +6,7 @@ recoveries = []
 [[roms]]
 id = "crdroid"
 gapps = "https://nikgapps.com/crdroid-official"
-recovery = "https://sourceforge.net/projects/special-builds-by-swiitchoff/files/LineageOS/Recovery_stuffs/"
+recovery = "https://sourceforge.net/projects/crdroid/files/vili/10.x/recovery/"
 
 [[roms]]
 id = "evolutionx"

@@ -171,6 +171,11 @@
   },
   {
     "brand": "A1",
+    "name": "A1 Bulgaria B866V2F02",
+    "codename": "A1_B866V2F02"
+  },
+  {
+    "brand": "A1",
     "name": "A1 Hrvatska B866V2F02",
     "codename": "A1_B866V2F02"
   },
@@ -139086,6 +139091,21 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy A55 5G",
+    "codename": "a55x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A55 5G",
+    "codename": "a55x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A55 5G",
+    "codename": "a55x"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy A6",
     "codename": "a6elteaio"
   },
@@ -206728,6 +206748,11 @@
     "brand": "iHunt",
     "name": "Like_Hi5",
     "codename": "Like_Hi5"
+  },
+  {
+    "brand": "iHunt",
+    "name": "P8000_Ultra_EEA",
+    "codename": "P8000_Ultra"
   },
   {
     "brand": "iHunt",

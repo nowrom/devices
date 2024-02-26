@@ -34,13 +34,13 @@ repostories = ["device_xiaomi_munch","device_xiaomi_sm8250-common","kernel_xiaom
 version_code = "thirteen"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-munch-pixelexperience-official-aosp.4559383/"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-munch-pixelexperience-official-aosp.4559383/"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms]]
 id = "pixelextended"
