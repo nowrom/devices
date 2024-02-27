@@ -18977,6 +18977,11 @@
   {
     "brand": "Blu",
     "name": "G33",
+    "codename": "G0892_GMOB"
+  },
+  {
+    "brand": "Blu",
+    "name": "G33",
     "codename": "G0892_MXT"
   },
   {
@@ -67911,6 +67916,11 @@
   },
   {
     "brand": "IKALL",
+    "name": "I KALL Z13",
+    "codename": "I_KALL_Z13"
+  },
+  {
+    "brand": "IKALL",
     "name": "IKALL",
     "codename": "IKALL"
   },
@@ -96430,6 +96440,11 @@
     "codename": "DIW377-MEO"
   },
   {
+    "brand": "METHOD_XI",
+    "name": "KW_IWB",
+    "codename": "KW_RK3588"
+  },
+  {
     "brand": "MG Series",
     "name": "Any 302",
     "codename": "TR10CS2_3"
@@ -97093,6 +97108,11 @@
     "brand": "MTC",
     "name": "Infiniton",
     "codename": "komagome"
+  },
+  {
+    "brand": "MTC",
+    "name": "JVC",
+    "codename": "shilin"
   },
   {
     "brand": "MTC",

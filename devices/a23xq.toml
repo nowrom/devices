@@ -1,0 +1,9 @@
+brand = "Samsung"
+codename = "a23xq"
+name = "Galaxy A23 5G UW"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://xdaforums.com/t/unoffical-twrp-3-7-1_12-0-samsung-a23-5-g-sm-a236xq.4651619/"
+maintainer = "Edward0181"
