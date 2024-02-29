@@ -80,6 +80,12 @@ xda_thread = "https://forum.xda-developers.com/t/rom-11-violet-pixel-experience-
 stable = true
 deprecated = true
 
+[[roms.supported_versions]]
+version_code = "fourteen"
+xda_thread = ""
+stable = false
+deprecated = false
+
 [[roms]]
 id = "pixelextended"
 

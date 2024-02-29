@@ -24,3 +24,8 @@ version_code = "thirteen_plus"
 xda_thread = "https://xdaforums.com/t/unofficial-rom-13-0-encryption-pixel-experience-13-plus-edition-for-a52s-5g.4574987/"
 stable = true
 deprecated = true
+
+[[roms.supported_versions]]
+version_code = "fourteen"
+stable = false
+deprecated = false

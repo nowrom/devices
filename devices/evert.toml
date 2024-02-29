@@ -40,6 +40,11 @@ xda_thread = "https://forum.xda-developers.com/t/rom-13-moto-g6-plus-pixelexperi
 stable = true
 deprecated = true
 
+[[roms.supported_versions]]
+version_code = "fourteen"
+stable = false
+deprecated = false
+
 [specs]
 cpu = "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)"
 weight = "201 g (7.09 oz)"

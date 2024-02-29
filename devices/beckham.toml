@@ -40,6 +40,11 @@ xda_thread = "https://forum.xda-developers.com/t/rom-13-moto-g6-plus-pixelexperi
 stable = true
 deprecated = true
 
+[[roms.supported_versions]]
+version_code = "fourteen"
+stable = false
+deprecated = false
+
 [specs]
 cpu = "Not found"
 weight = "Not found"

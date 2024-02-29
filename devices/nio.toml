@@ -34,6 +34,11 @@ version_code = "thirteen_plus"
 stable = true
 deprecated = true
 
+[[roms.supported_versions]]
+version_code = "fourteen"
+stable = false
+deprecated = false
+
 [specs]
 cpu = "Octa-core (4x2.4 GHz Kryo 670 & 4x1.9 GHz Kryo 670)"
 weight = "189 g (6.67 oz)"

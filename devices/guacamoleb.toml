@@ -39,6 +39,12 @@ xda_thread = "https://forum.xda-developers.com/t/rom-12-1-guacamoleb-pixelexperi
 stable = true
 deprecated = true
 
+[[roms.supported_versions]]
+version_code = "fourteen"
+xda_thread = "https://forum.xda-developers.com/t/rom-12-1-guacamoleb-pixelexperience-aosp-official.4465935/"
+stable = false
+deprecated = false
+
 [specs]
 cpu = "Quad-core 2.34 GHz (2x Hurricane + 2x Zephyr)"
 weight = "138 g (4.87 oz)"

@@ -28,6 +28,11 @@ stable = true
 xda_thread = "https://forum.xda-developers.com/t/rom-13-motorola-edge-20-berlin-pixelexperience-aosp.4605369/"
 deprecated = true
 
+[[roms.supported_versions]]
+version_code = "fourteen"
+stable = false
+deprecated = false
+
 [specs]
 cpu = "Octa-core (4x2.4 GHz Kryo 670 & 4x1.9 GHz Kryo 670)"
 weight = "163 g (5.75 oz)"

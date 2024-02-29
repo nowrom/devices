@@ -27476,6 +27476,11 @@
   },
   {
     "brand": "Coolpad",
+    "name": "Cool 20s 5G",
+    "codename": "CP07"
+  },
+  {
+    "brand": "Coolpad",
     "name": "Cool C1",
     "codename": "cool_c1"
   },
@@ -69378,6 +69383,11 @@
     "brand": "Infinix",
     "name": "55X1",
     "codename": "samseong"
+  },
+  {
+    "brand": "Infinix",
+    "name": "APAC",
+    "codename": "kualakai"
   },
   {
     "brand": "Infinix",
@@ -164066,6 +164076,11 @@
   },
   {
     "brand": "TCL",
+    "name": "G10",
+    "codename": "G10"
+  },
+  {
+    "brand": "TCL",
     "name": "GO5c",
     "codename": "U3A_PLUS_4G"
   },
@@ -203498,6 +203513,11 @@
     "brand": "ZTE",
     "name": "nubia Blade A72",
     "codename": "Z6255"
+  },
+  {
+    "brand": "ZTE",
+    "name": "nubia Neo 2 5G",
+    "codename": "P820F03"
   },
   {
     "brand": "ZTE",

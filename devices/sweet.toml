@@ -84,6 +84,12 @@ xda_thread = ""
 stable = true
 deprecated = true
 
+[[roms.supported_versions]]
+version_code = "fourteen"
+xda_thread = ""
+stable = false
+deprecated = false
+
 [[roms]]
 id = "pixelextended"
 
