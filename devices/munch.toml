@@ -42,6 +42,12 @@ xda_thread = "https://forum.xda-developers.com/t/rom-13-munch-pixelexperience-of
 stable = true
 deprecated = true
 
+[[roms.supported_versions]]
+version_code = "fourteen"
+xda_thread = ""
+stable = false
+deprecated = false
+
 [[roms]]
 id = "pixelextended"
 url = "https://sourceforge.net/projects/pixelextended/files/munch/PixelExtended-5.7_munch-13.0-20230420-1507-OFFICIAL.zip/download"

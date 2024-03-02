@@ -65,6 +65,12 @@ xda_thread = "https://forum.xda-developers.com/t/rom-official-stable-13-mido-pix
 stable = true
 deprecated = true
 
+[[roms.supported_versions]]
+version_code = "fourteen"
+xda_thread = "https://forum.xda-developers.com/t/rom-official-stable-13-mido-pixelexperience-aosp.4423487/"
+stable = false
+deprecated = false
+
 [[roms]]
 id = "pixelextended"
 

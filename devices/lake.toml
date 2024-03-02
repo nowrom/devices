@@ -27,7 +27,7 @@ wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_motorola_lake","device_motorola_sdm660-common","vendor_motorola_lake","vendor_motorola_sdm660-common","kernel_motorola_msm8998"]
+repostories = ["device_motorola_lake","device_motorola_sdm660-common","vendor_motorola_lake","vendor_motorola-extra","vendor_motorola_sdm660-common","kernel_motorola_msm8998"]
 
 [[roms.supported_versions]]
 version_code = "eleven"

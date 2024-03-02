@@ -14,7 +14,7 @@ wifi = "802.11 a/b/g/n/ac/ax"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_motorola_berlin","device_motorola_sm7325-common","kernel_motorola_sm7325","vendor_motorola_berlin","vendor_motorola_sm7325-common","wiki_blobs_berlin"]
+repostories = ["device_motorola_berlin","device_motorola_sm7325-common","kernel_motorola_sm7325","vendor_motorola_berlin","vendor_motorola-extra","vendor_motorola_sm7325-common","wiki_blobs_berlin"]
 
 [[roms.supported_versions]]
 version_code = "thirteen"

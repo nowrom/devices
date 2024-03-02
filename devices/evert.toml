@@ -14,7 +14,7 @@ wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_motorola_evert","kernel_motorola_msm8998","vendor_motorola_evert","vendor_motorola_sdm660-common","device_motorola_sdm660-common"]
+repostories = ["device_motorola_evert","kernel_motorola_msm8998","vendor_motorola_evert","vendor_motorola-extra","vendor_motorola_sdm660-common","device_motorola_sdm660-common"]
 
 [[roms.supported_versions]]
 version_code = "eleven"
