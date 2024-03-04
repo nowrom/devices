@@ -27,3 +27,8 @@ deprecated = true
 version_code = "thirteen_plus"
 stable = true
 deprecated = true
+
+[[roms.supported_versions]]
+version_code = "fourteen"
+stable = false
+deprecated = false

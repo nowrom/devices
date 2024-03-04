@@ -115975,6 +115975,11 @@
     "codename": "OneScreen-OPS-LF"
   },
   {
+    "brand": "OneScreen",
+    "name": "OneScreen T7",
+    "codename": "rk3588_t"
+  },
+  {
     "brand": "Onix",
     "name": "AT101-1118",
     "codename": "AT101-1118"
