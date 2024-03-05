@@ -21292,11 +21292,6 @@
   {
     "brand": "CAIXUN",
     "name": "Europe",
-    "codename": "marina"
-  },
-  {
-    "brand": "CAIXUN",
-    "name": "Europe",
     "codename": "martin"
   },
   {
@@ -21308,11 +21303,6 @@
     "brand": "CAIXUN",
     "name": "Europe",
     "codename": "martin"
-  },
-  {
-    "brand": "CAIXUN",
-    "name": "Europe",
-    "codename": "nagata"
   },
   {
     "brand": "CAIXUN",
@@ -23653,6 +23643,11 @@
     "brand": "Challenger",
     "name": "Android TV",
     "codename": "R2"
+  },
+  {
+    "brand": "Challenger",
+    "name": "CHALLENGER",
+    "codename": "lavender"
   },
   {
     "brand": "Challenger",
@@ -30623,6 +30618,11 @@
     "brand": "Daewoo",
     "name": "4K Smart TV",
     "codename": "pioneer"
+  },
+  {
+    "brand": "Daewoo",
+    "name": "DAEWOO",
+    "codename": "lavender"
   },
   {
     "brand": "Daewoo",
@@ -40728,6 +40728,16 @@
     "brand": "Fly_Tech",
     "name": "T101",
     "codename": "T101"
+  },
+  {
+    "brand": "Fobem",
+    "name": "2K SMART TV",
+    "codename": "nagata"
+  },
+  {
+    "brand": "Fobem",
+    "name": "4K SMART TV",
+    "codename": "marina"
   },
   {
     "brand": "Fone Haus",
@@ -76761,6 +76771,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "INNO-HIT",
+    "codename": "lavender"
+  },
+  {
+    "brand": "KTCtv",
     "name": "INNOVA",
     "codename": "hongkong"
   },
@@ -76907,6 +76922,11 @@
   {
     "brand": "KTCtv",
     "name": "REYNA",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "ROOMI",
     "codename": "hongkong"
   },
   {
@@ -112530,6 +112550,11 @@
     "codename": "s810c"
   },
   {
+    "brand": "Nissan",
+    "name": "NissanConnect",
+    "codename": "aivi2_b"
+  },
+  {
     "brand": "Nixon",
     "name": "The Mission",
     "codename": "sculpin"
@@ -143078,6 +143103,16 @@
     "brand": "Samsung",
     "name": "Galaxy M14 5G",
     "codename": "m14x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M15 5G",
+    "codename": "m15x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M15 5G",
+    "codename": "m15x"
   },
   {
     "brand": "Samsung",
@@ -194218,6 +194253,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi TV stick 4K",
     "codename": "soul"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Watch 2",
+    "codename": "axolotlaxie"
   },
   {
     "brand": "Xiaomi",
