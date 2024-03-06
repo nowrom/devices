@@ -4,6 +4,11 @@ name = "Z833"
 recoveries = []
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/"
+recovery = ""
+
+[[roms]]
 id = "pixelextended"
 url = "https://sourceforge.net/projects/pixelextended/files/camellia/PixelExtended-5.10_camellia-13.0-20230815-0639-OFFICIAL.zip/download"
 xda_thread = "https://forum.xda-developers.com/t/rom-13-0-camellia-official-pixel-extended-rom-v5-10-15-08-2023.4594869/"
