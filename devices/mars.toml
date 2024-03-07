@@ -20,7 +20,7 @@ wifi = "802.11 a/b/g/n/ac/ax"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_mars","device_xiaomi_sm8350-common","kernel_xiaomi_sm8350","vendor_xiaomi_mars","vendor_xiaomi_sm8350-common","vendor_xiaomi_mars-firmware","wiki_blobs_mars"]
+repostories = ["device_xiaomi_mars","device_xiaomi_sm8350-common","kernel_xiaomi_sm8350","vendor_xiaomi_mars","vendor_xiaomi_sm8350-common","wiki_blobs_mars"]
 
 [[roms.supported_versions]]
 version_code = "twelve"
@@ -41,6 +41,11 @@ deprecated = true
 version_code = "thirteen_plus"
 stable = true
 deprecated = true
+
+[[roms.supported_versions]]
+version_code = "fourteen"
+stable = false
+deprecated = false
 
 [specs]
 cpu = "Not found"

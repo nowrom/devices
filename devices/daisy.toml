@@ -33,6 +33,12 @@ id = "revengeos"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
+version = "v6.7"
+developer = "lupesoltec"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
 version = "v5.6"
 developer = "lupesoltec"
 
@@ -40,12 +46,6 @@ developer = "lupesoltec"
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v4.9"
-developer = "lupesoltec"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
-version = "v6.7"
 developer = "lupesoltec"
 
 [specs]

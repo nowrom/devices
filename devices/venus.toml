@@ -20,7 +20,7 @@ id = "evolutionx"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_xiaomi_venus","device_xiaomi_sm8350-common","kernel_xiaomi_venus","vendor_xiaomi_venus","vendor_xiaomi_sm8350-common","vendor_xiaomi_venus-firmware","wiki_blobs_venus"]
+repostories = ["device_xiaomi_venus","device_xiaomi_sm8350-common","kernel_xiaomi_sm8350","vendor_xiaomi_venus","vendor_xiaomi_sm8350-common","wiki_blobs_venus"]
 
 [[roms.supported_versions]]
 version_code = "twelve"
@@ -41,6 +41,11 @@ deprecated = true
 version_code = "thirteen_plus"
 stable = true
 deprecated = true
+
+[[roms.supported_versions]]
+version_code = "fourteen"
+stable = false
+deprecated = false
 
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)"

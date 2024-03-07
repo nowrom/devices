@@ -5956,6 +5956,11 @@
   },
   {
     "brand": "Alldocube",
+    "name": "iPlay_50_Pro",
+    "codename": "T1030MAN"
+  },
+  {
+    "brand": "Alldocube",
     "name": "iPlay_60",
     "codename": "T1102T"
   },
@@ -17381,6 +17386,11 @@
   },
   {
     "brand": "Blackview",
+    "name": "BV9300 Pro",
+    "codename": "BV9300_Pro"
+  },
+  {
+    "brand": "Blackview",
     "name": "BV9600",
     "codename": "BV9600"
   },
@@ -20543,6 +20553,11 @@
     "brand": "Bluebird",
     "name": "RT103",
     "codename": "RT103"
+  },
+  {
+    "brand": "Bluebird",
+    "name": "S20",
+    "codename": "S20"
   },
   {
     "brand": "Bluebird",
@@ -33631,6 +33646,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "N50S",
+    "codename": "1918D"
+  },
+  {
+    "brand": "Doogee",
     "name": "N60Pro",
     "codename": "1919"
   },
@@ -33638,6 +33658,11 @@
     "brand": "Doogee",
     "name": "P3Mini Kid",
     "codename": "P3Mini_Kid"
+  },
+  {
+    "brand": "Doogee",
+    "name": "R08",
+    "codename": "PT3"
   },
   {
     "brand": "Doogee",
@@ -33723,6 +33748,11 @@
     "brand": "Doogee",
     "name": "S41T",
     "codename": "M21T"
+  },
+  {
+    "brand": "Doogee",
+    "name": "S41T",
+    "codename": "M21TE"
   },
   {
     "brand": "Doogee",
@@ -36153,6 +36183,11 @@
     "brand": "EUDORA",
     "name": "E10Pro",
     "codename": "E10Pro"
+  },
+  {
+    "brand": "EUDORA",
+    "name": "EudoraE65Pro",
+    "codename": "E65Pro"
   },
   {
     "brand": "EUDORA",
@@ -47043,6 +47078,11 @@
     "brand": "HIKVISION",
     "name": "DS-D5C",
     "codename": "DS_D5C65RB_A"
+  },
+  {
+    "brand": "HIKVISION",
+    "name": "DS-MDT301",
+    "codename": "DS-MDT301"
   },
   {
     "brand": "HIMADE",
@@ -88065,6 +88105,11 @@
     "codename": "LYNKNEX-PX5"
   },
   {
+    "brand": "LYNKNEX",
+    "name": "PX5",
+    "codename": "LYNKNEX-PX5"
+  },
+  {
     "brand": "LYOTECH_LABS",
     "name": "LFi_ONE_EEA",
     "codename": "LFi_ONE"
@@ -98986,8 +99031,18 @@
   },
   {
     "brand": "Maxwest",
+    "name": "Maxwest ASTRO_65T",
+    "codename": "MX-A65T"
+  },
+  {
+    "brand": "Maxwest",
     "name": "NITRO 55M",
     "codename": "MX-N55MWW"
+  },
+  {
+    "brand": "Maxwest",
+    "name": "NITRO N6",
+    "codename": "MX-NN6"
   },
   {
     "brand": "Maxwest",
@@ -108065,6 +108120,11 @@
     "codename": "MFT1522"
   },
   {
+    "brand": "Movfast",
+    "name": "Ranger2K",
+    "codename": "MFT1621"
+  },
+  {
     "brand": "Movic",
     "name": "MOVIC_W5",
     "codename": "MOVIC_W5"
@@ -110915,6 +110975,11 @@
     "codename": "V22S1"
   },
   {
+    "brand": "NELATECH",
+    "name": "X1",
+    "codename": "X1_Pro"
+  },
+  {
     "brand": "NEO",
     "name": "GF214-NEO",
     "codename": "GF214-NEO"
@@ -112446,6 +112511,11 @@
   },
   {
     "brand": "Newland",
+    "name": "NLS-N7",
+    "codename": "NLS-N7"
+  },
+  {
+    "brand": "Newland",
     "name": "NLS-NFT10",
     "codename": "NLS-NFT10-GL"
   },
@@ -112463,6 +112533,11 @@
     "brand": "Newland",
     "name": "Newland NLS-N7",
     "codename": "NLS-N7-GL"
+  },
+  {
+    "brand": "Newland",
+    "name": "Newland NLS-NQuir",
+    "codename": "NLS-NQuire"
   },
   {
     "brand": "Newline",
@@ -113993,6 +114068,11 @@
     "brand": "Nothing",
     "name": "Nothing Phone (2)",
     "codename": "Pong"
+  },
+  {
+    "brand": "Nothing",
+    "name": "Nothing Phone (2a)",
+    "codename": "Pacman"
   },
   {
     "brand": "Nous",
@@ -120613,6 +120693,11 @@
     "brand": "Oukitel",
     "name": "WP30_Pro_EEA",
     "codename": "WP30_Pro"
+  },
+  {
+    "brand": "Oukitel",
+    "name": "WP36_EEA",
+    "codename": "WP36"
   },
   {
     "brand": "Oukitel",
@@ -135178,6 +135263,11 @@
     "brand": "SEWOO",
     "name": "NBP_65",
     "codename": "NBP_65"
+  },
+  {
+    "brand": "SEWOO",
+    "name": "SEWOO NBP-75",
+    "codename": "NBP-75"
   },
   {
     "brand": "SFR",
@@ -161551,6 +161641,11 @@
   },
   {
     "brand": "SparX",
+    "name": "Note_20",
+    "codename": "Note_20"
+  },
+  {
+    "brand": "SparX",
     "name": "S3",
     "codename": "S3"
   },
@@ -181001,6 +181096,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "G6_Tab",
+    "codename": "G6_Tab"
+  },
+  {
+    "brand": "Umidigi",
     "name": "MT02_EEA",
     "codename": "MT02_EEA"
   },
@@ -181608,6 +181708,11 @@
     "brand": "United Group",
     "name": "KSTB6020",
     "codename": "KSTB6020"
+  },
+  {
+    "brand": "UnityWireless",
+    "name": "EPIC E55",
+    "codename": "EPIC-E55"
   },
   {
     "brand": "Unnecto",
@@ -189076,6 +189181,11 @@
   },
   {
     "brand": "Vortex",
+    "name": "VORTEX_K65",
+    "codename": "VORTEX_K65"
+  },
+  {
+    "brand": "Vortex",
     "name": "Vortex Z22",
     "codename": "Z22"
   },
@@ -194578,6 +194688,11 @@
     "brand": "Xmobile",
     "name": "X63Pro",
     "codename": "X63Pro"
+  },
+  {
+    "brand": "Xmobile",
+    "name": "X63Pro",
+    "codename": "X_63_ProA"
   },
   {
     "brand": "Xmobile",
@@ -207196,6 +207311,11 @@
   },
   {
     "brand": "iData",
+    "name": "iData T3 Pro",
+    "codename": "T3_Pro"
+  },
+  {
+    "brand": "iData",
     "name": "iData i2",
     "codename": "i2"
   },
@@ -207708,6 +207828,16 @@
     "brand": "iMACHINE",
     "name": "MobilePOSTerminal",
     "codename": "MobilePOSTerminal"
+  },
+  {
+    "brand": "iMACHINE",
+    "name": "iMachine AP12",
+    "codename": "AP12"
+  },
+  {
+    "brand": "iMACHINE",
+    "name": "iMachine i2",
+    "codename": "i2"
   },
   {
     "brand": "iMESH",

@@ -105,12 +105,6 @@ download = "https://downloads.spark-os.live/?dir=alioth/"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v4.9"
-developer = "mdeejay"
-
-[[roms]]
-id = "syberia"
-romtype = "OFFICIAL"
 version = "v6.2"
 developer = "DennySPb"
 
@@ -119,6 +113,12 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v5.6"
 developer = "DennySPb"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v4.9"
+developer = "mdeejay"
 
 [specs]
 cpu = "Not found"
