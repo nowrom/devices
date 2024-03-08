@@ -10001,6 +10001,11 @@
   },
   {
     "brand": "Asus",
+    "name": "ROG Phone 6D Ultimate",
+    "codename": "ASUS_AI2203"
+  },
+  {
+    "brand": "Asus",
     "name": "ROG Phone 6D series",
     "codename": "ASUS_AI2203"
   },
@@ -36698,6 +36703,11 @@
     "brand": "Element",
     "name": "Element",
     "codename": "bruno"
+  },
+  {
+    "brand": "Element",
+    "name": "Element",
+    "codename": "expo"
   },
   {
     "brand": "Element",
@@ -89506,6 +89516,11 @@
   },
   {
     "brand": "Lava",
+    "name": "Yuva 3 Pro",
+    "codename": "LZX414"
+  },
+  {
+    "brand": "Lava",
     "name": "Z1",
     "codename": "Z1"
   },
@@ -109141,6 +109156,11 @@
   },
   {
     "brand": "Multilaser",
+    "name": "ML_GW0C_M10_4G",
+    "codename": "ML_GW0C_M10_4G"
+  },
+  {
+    "brand": "Multilaser",
     "name": "ML_JI1C_M7S_PLUS",
     "codename": "ML_JI1C_M7S_PLUS"
   },
@@ -124148,6 +124168,11 @@
     "brand": "Philips",
     "name": "PHILIPS",
     "codename": "lavender"
+  },
+  {
+    "brand": "Philips",
+    "name": "PHILIPS",
+    "codename": "mountbaker"
   },
   {
     "brand": "Philips",
@@ -202148,6 +202173,11 @@
     "brand": "ZTE",
     "name": "Z2020N3",
     "codename": "Z8850K"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Z2351N",
+    "codename": "P720F08"
   },
   {
     "brand": "ZTE",
