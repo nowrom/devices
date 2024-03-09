@@ -58,3 +58,9 @@ id = "syberia"
 romtype = "OFFICIAL"
 version = "v6.7"
 developer = "erwinabs"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
+version = "v7.1"
+developer = "erwinabs"

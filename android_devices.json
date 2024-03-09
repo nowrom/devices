@@ -9156,6 +9156,11 @@
   },
   {
     "brand": "Ascom",
+    "name": "AT14",
+    "codename": "AT14"
+  },
+  {
+    "brand": "Ascom",
     "name": "Ascom Myco 3",
     "codename": "ABAA"
   },
@@ -17151,6 +17156,11 @@
   },
   {
     "brand": "Blackview",
+    "name": "BV5300 Plus",
+    "codename": "BV5300_Plus"
+  },
+  {
+    "brand": "Blackview",
     "name": "BV5300 Pro",
     "codename": "BV5300_Pro"
   },
@@ -22208,6 +22218,11 @@
     "brand": "CTOUCH",
     "name": "CTOUCH Droid OPS Module",
     "codename": "Droid_OPS_Module"
+  },
+  {
+    "brand": "CVTE",
+    "name": "CVTE SA12",
+    "codename": "rk3588_t"
   },
   {
     "brand": "CVTE",
@@ -30806,6 +30821,11 @@
   },
   {
     "brand": "Daiwa",
+    "name": "4K DATV",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "Daiwa",
     "name": "4K DATV-Z",
     "codename": "keoneae"
   },
@@ -34026,6 +34046,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "U8 Kid",
+    "codename": "RK3KID"
+  },
+  {
+    "brand": "Doogee",
     "name": "V MAX",
     "codename": "M23H"
   },
@@ -36213,6 +36238,11 @@
     "brand": "EVEREST-EVERPAD",
     "name": "DC-M700",
     "codename": "DC-M700"
+  },
+  {
+    "brand": "EVO FUSE 4K",
+    "name": "EVO FUSE 4K",
+    "codename": "SEI700L"
   },
   {
     "brand": "EVOFORCE1",
@@ -39788,11 +39818,6 @@
     "brand": "FUNKER",
     "name": "E500i",
     "codename": "E500i"
-  },
-  {
-    "brand": "FUSE4K",
-    "name": "FUSE 4K",
-    "codename": "SEI700L"
   },
   {
     "brand": "FUSE4K",
@@ -70236,6 +70261,11 @@
   },
   {
     "brand": "Infinix",
+    "name": "Infinix NOTE 40 Pro 5G",
+    "codename": "Infinix-X6851"
+  },
+  {
+    "brand": "Infinix",
     "name": "Infinix NOTE 5",
     "codename": "Infinix-X604_sprout"
   },
@@ -73091,11 +73121,6 @@
   },
   {
     "brand": "Isafe",
-    "name": "IS540",
-    "codename": "IS540"
-  },
-  {
-    "brand": "Isafe",
     "name": "IS655",
     "codename": "IS655"
   },
@@ -74927,6 +74952,11 @@
   {
     "brand": "JVC",
     "name": "JVC",
+    "codename": "kaitak"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
     "codename": "komagome"
   },
   {
@@ -75203,6 +75233,11 @@
     "brand": "Janam",
     "name": "XM75",
     "codename": "XM75P"
+  },
+  {
+    "brand": "Janam",
+    "name": "XR2",
+    "codename": "XR2"
   },
   {
     "brand": "Janam",
@@ -87571,18 +87606,8 @@
   },
   {
     "brand": "LLA",
-    "name": "Gasobi region",
-    "codename": "SEI700L"
-  },
-  {
-    "brand": "LLA",
     "name": "Orion",
     "codename": "SEI500L"
-  },
-  {
-    "brand": "LLA",
-    "name": "Panama",
-    "codename": "SEI700L"
   },
   {
     "brand": "LLA",
@@ -89143,6 +89168,11 @@
     "brand": "Lava",
     "name": "Iris90",
     "codename": "iris90"
+  },
+  {
+    "brand": "Lava",
+    "name": "LAVA AGNI 2 5G",
+    "codename": "LXX504"
   },
   {
     "brand": "Lava",
@@ -129215,6 +129245,11 @@
     "codename": "rk3399_Android11"
   },
   {
+    "brand": "ProGLP",
+    "name": "SMIG_VI",
+    "codename": "SMIG_VI"
+  },
+  {
     "brand": "Prodigi Connect12",
     "name": "Prodigi Connect 12",
     "codename": "connect"
@@ -152481,6 +152516,21 @@
   },
   {
     "brand": "Samsung",
+    "name": "Samsung Interactive Display",
+    "codename": "SAMSUNG_INTERACTIVE_DISPLAY"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Samsung Interactive Display",
+    "codename": "SAMSUNG_INTERACTIVE_DISPLAY"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Samsung Interactive Display",
+    "codename": "SAMSUNG_INTERACTIVE_DISPLAY"
+  },
+  {
+    "brand": "Samsung",
     "name": "Sidekick",
     "codename": "SGH-T839"
   },
@@ -155853,6 +155903,11 @@
     "brand": "Sigma Mobile",
     "name": "Tab A1020",
     "codename": "TabA1020"
+  },
+  {
+    "brand": "Sigma Mobile",
+    "name": "Tab A1025 X-treme 2",
+    "codename": "Tab_A1025_2"
   },
   {
     "brand": "Sigma Mobile",
@@ -176206,6 +176261,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO POVA 6",
+    "codename": "TECNO-LI7"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO POVA 6 Pro 5G",
     "codename": "TECNO-LI9"
   },
@@ -181278,6 +181338,11 @@
     "brand": "Umidigi",
     "name": "UMIDIGI A15 RU",
     "codename": "UMIDIGI_A15"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "UMIDIGI A15 Ultra",
+    "codename": "A15_Ultra"
   },
   {
     "brand": "Umidigi",
@@ -186728,6 +186793,11 @@
     "brand": "Vivo",
     "name": "V30 Lite 5G",
     "codename": "V2327"
+  },
+  {
+    "brand": "Vivo",
+    "name": "V30 Pro",
+    "codename": "V2319"
   },
   {
     "brand": "Vivo",
@@ -206898,6 +206968,26 @@
     "brand": "i-PLUS",
     "name": "Nu70",
     "codename": "Nu70"
+  },
+  {
+    "brand": "i.safe MOBILE",
+    "name": "IS330",
+    "codename": "IS330"
+  },
+  {
+    "brand": "i.safe MOBILE",
+    "name": "IS530",
+    "codename": "IS530"
+  },
+  {
+    "brand": "i.safe MOBILE",
+    "name": "IS540",
+    "codename": "IS540"
+  },
+  {
+    "brand": "i.safe MOBILE",
+    "name": "IS930",
+    "codename": "IS930"
   },
   {
     "brand": "i5 (dza)",
