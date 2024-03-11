@@ -89,9 +89,8 @@ deprecated = true
 
 [[roms.supported_versions]]
 version_code = "fourteen"
-xda_thread = "https://xdaforums.com/t/rom-official-14-lavender-pixelexperience-aosp.4470689/"
 stable = false
-deprecated = false
+deprecated = true
 
 [[roms]]
 id = "pixelextended"

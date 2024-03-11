@@ -1,0 +1,10 @@
+brand = "ZTE"
+codename = "sif"
+name = "Z850"
+recoveries = []
+
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A57"
+ram = "2 GB"
+wifi = "802.11 a/b/g/n/ac"

@@ -123796,6 +123796,11 @@
   },
   {
     "brand": "Pastigio",
+    "name": "P15",
+    "codename": "M10T2_P15"
+  },
+  {
+    "brand": "Pastigio",
     "name": "SMY_17_M07R6_EEA",
     "codename": "SMY-17-M07R6"
   },
@@ -199338,6 +199343,16 @@
     "brand": "ZTE",
     "name": "Leopard MF800",
     "codename": "roamer2"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Libero Flip",
+    "codename": "Z8888S"
+  },
+  {
+    "brand": "ZTE",
+    "name": "Libero Flip",
+    "codename": "Z8888S"
   },
   {
     "brand": "ZTE",

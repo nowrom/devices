@@ -1,8 +1,12 @@
 brand = "Sico"
 codename = "Topaz"
 name = "Sico Topaz"
-roms = []
 
 [[recoveries]]
 id = "orangefox"
 supported = true
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/crdroid-official"
+recovery = "https://sourceforge.net/projects/crdroid/files/topaz/10.x/recovery/"
