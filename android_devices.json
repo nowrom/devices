@@ -46440,6 +46440,11 @@
     "codename": "bravo"
   },
   {
+    "brand": "Grandstream",
+    "name": "Grandstream WP856",
+    "codename": "WP856"
+  },
+  {
     "brand": "Greatwall",
     "name": "100011886",
     "codename": "tablet"
@@ -108163,6 +108168,11 @@
     "brand": "Movfast",
     "name": "Ranger2",
     "codename": "MFT1522"
+  },
+  {
+    "brand": "Movfast",
+    "name": "Ranger2 Lite",
+    "codename": "MFT1621"
   },
   {
     "brand": "Movfast",
@@ -187081,6 +187091,16 @@
   },
   {
     "brand": "Vivo",
+    "name": "Y03",
+    "codename": "V2333"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y03",
+    "codename": "V2333"
+  },
+  {
+    "brand": "Vivo",
     "name": "Y100",
     "codename": "PD2313"
   },
@@ -187158,6 +187178,11 @@
     "brand": "Vivo",
     "name": "Y17s",
     "codename": "V2310"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y18e",
+    "codename": "V2333"
   },
   {
     "brand": "Vivo",
@@ -187728,6 +187753,11 @@
     "brand": "Vivo",
     "name": "iQOO Z8x",
     "codename": "PD2312"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Z9 5G",
+    "codename": "I2302"
   },
   {
     "brand": "Vivo",

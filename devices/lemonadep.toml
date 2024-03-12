@@ -17,12 +17,6 @@ gapps = "https://nikgapps.com/crdroid-official"
 recovery = "https://sourceforge.net/projects/crdroid/files/lemonadep/10.x/recovery/"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "lineageos"
 cpu = "Kryo 680"
 ram = "8/12GB GB LPDDR5"

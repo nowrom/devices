@@ -51,6 +51,12 @@ xda_thread = "https://forum.xda-developers.com/t/4378865/"
 stable = true
 deprecated = true
 
+[[roms.supported_versions]]
+version_code = "fourteen"
+xda_thread = "https://forum.xda-developers.com/t/4378865/"
+stable = false
+deprecated = false
+
 [[roms]]
 id = "revengeos"
 

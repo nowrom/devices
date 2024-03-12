@@ -4,12 +4,6 @@ name = "Martini"
 recoveries = []
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "lineageos"
 cpu = "Kryo 680"
 ram = "8/12 GB LPDDR5"
