@@ -19587,6 +19587,11 @@
   {
     "brand": "Blu",
     "name": "M10L Pro",
+    "codename": "M0215"
+  },
+  {
+    "brand": "Blu",
+    "name": "M10L Pro",
     "codename": "M0215_MXT"
   },
   {
@@ -19598,6 +19603,11 @@
     "brand": "Blu",
     "name": "M10L Pro",
     "codename": "M0215_NDSK"
+  },
+  {
+    "brand": "Blu",
+    "name": "M10L Pro",
+    "codename": "M0215_SYN"
   },
   {
     "brand": "Blu",
@@ -21923,6 +21933,11 @@
     "brand": "COLORROOM",
     "name": "K12",
     "codename": "K12"
+  },
+  {
+    "brand": "COMBUSTECH",
+    "name": "Customer need debug",
+    "codename": "rk3588_t"
   },
   {
     "brand": "COMPUMAX",
@@ -55076,6 +55091,11 @@
   },
   {
     "brand": "Hisense",
+    "name": "Hisense E70 Pro",
+    "codename": "HLTE263E"
+  },
+  {
+    "brand": "Hisense",
     "name": "Hisense E76MINIM",
     "codename": "HS8937QC"
   },
@@ -68770,6 +68790,11 @@
     "codename": "WH2-9832"
   },
   {
+    "brand": "INUSUAL",
+    "name": "INUTAB21",
+    "codename": "INUTAB21"
+  },
+  {
     "brand": "ION ELECTRONICS",
     "name": "Gravity",
     "codename": "Gravity"
@@ -74713,6 +74738,11 @@
     "brand": "JREN",
     "name": "JR_J7",
     "codename": "JR_J7"
+  },
+  {
+    "brand": "JTWORKS",
+    "name": "JTWORKS-IFPD",
+    "codename": "rk3588_t"
   },
   {
     "brand": "JTYPDA",
@@ -106931,6 +106961,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "moto g play - 2024",
+    "codename": "fogona"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g play - 2024",
+    "codename": "fogona"
+  },
+  {
+    "brand": "Motorola",
     "name": "moto g power",
     "codename": "sofia"
   },
@@ -111470,6 +111510,11 @@
     "codename": "NX-20PRO1"
   },
   {
+    "brand": "NURIBOM",
+    "name": "NRB-IFPD",
+    "codename": "rk3588_t"
+  },
+  {
     "brand": "NVIDIA",
     "name": "SHIELD Android TV",
     "codename": "foster"
@@ -112596,7 +112641,7 @@
   },
   {
     "brand": "Newland",
-    "name": "Newland NLS-NQuir",
+    "name": "Newland NLS-NQuire",
     "codename": "NLS-NQuire"
   },
   {
@@ -132933,6 +132978,11 @@
     "brand": "Redmi",
     "name": "Redmi 12 5G",
     "codename": "XIG03"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi 12 5G",
+    "codename": "river"
   },
   {
     "brand": "Redmi",
@@ -182215,6 +182265,11 @@
     "codename": "DTP9539"
   },
   {
+    "brand": "VECT",
+    "name": "VECT-IFPD",
+    "codename": "rk3588_t"
+  },
+  {
     "brand": "VENSTAR",
     "name": "VENSTAR2050",
     "codename": "VENSTAR2050"
@@ -185588,6 +185643,11 @@
     "brand": "Vivo",
     "name": "T2x 5G",
     "codename": "V2225"
+  },
+  {
+    "brand": "Vivo",
+    "name": "T3 5G",
+    "codename": "V2334"
   },
   {
     "brand": "Vivo",
