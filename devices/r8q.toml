@@ -1,0 +1,9 @@
+brand = "Samsung"
+codename = "r8q"
+name = "Galaxy S20 FE 5G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://xdaforums.com/t/recovery-unofficial-snapdragon-twrp-3-7-0-for-samsung-galaxy-s20-fe-4g-5g.4646593/"
+maintainer = "ata-kaner"

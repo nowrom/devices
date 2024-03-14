@@ -97440,6 +97440,11 @@
     "codename": "P63"
   },
   {
+    "brand": "MPORT",
+    "name": "MPORT-IFPD",
+    "codename": "rk3588_t"
+  },
+  {
     "brand": "MPman",
     "name": "MPDC1006",
     "codename": "MPDC1006"
@@ -114950,6 +114955,11 @@
     "codename": "Q101_EEA"
   },
   {
+    "brand": "OMAX",
+    "name": "OMAX-IFPD",
+    "codename": "rk3588_t"
+  },
+  {
     "brand": "OMIX",
     "name": "MixTab Pro",
     "codename": "MixTab_Pro"
@@ -118371,6 +118381,16 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO Watch X",
+    "codename": "OWWE231"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OnePlus Watch 2",
+    "codename": "OPWWE231"
+  },
+  {
+    "brand": "Oppo",
     "name": "PCRT01",
     "codename": "OP4AB5"
   },
@@ -121493,6 +121513,11 @@
     "brand": "POCO",
     "name": "POCO C55",
     "codename": "earth"
+  },
+  {
+    "brand": "POCO",
+    "name": "POCO C61",
+    "codename": "blue"
   },
   {
     "brand": "POCO",
@@ -133228,6 +133253,21 @@
     "brand": "Redmi",
     "name": "Redmi A2+",
     "codename": "water"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi A3",
+    "codename": "blue"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi A3",
+    "codename": "blue"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi A3",
+    "codename": "blue"
   },
   {
     "brand": "Redmi",
@@ -158287,6 +158327,11 @@
   {
     "brand": "Soneview",
     "name": "SONEVIEW",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "Soneview",
+    "name": "SONEVIEW",
     "codename": "stanford"
   },
   {
@@ -179670,6 +179715,11 @@
     "codename": "redwood"
   },
   {
+    "brand": "UNITRADING",
+    "name": "UNITRADING-IFPD",
+    "codename": "rk3588_t"
+  },
+  {
     "brand": "UNIWA",
     "name": "K626_EEA",
     "codename": "K626"
@@ -194708,6 +194758,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi 14 Pro",
     "codename": "shennong"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 14 Ultra",
+    "codename": "aurora"
   },
   {
     "brand": "Xiaomi",

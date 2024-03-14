@@ -1,18 +1,18 @@
 brand = "NVIDIA"
 codename = "quill_tab"
-name = "Jetson TX2 NX [Tablet]"
+name = "Jetson TX2 [Tablet]"
 recoveries = []
 
 [[roms]]
 id = "lineageos"
 cpu = "Denver 2 & Cortex-A57"
-ram = "4 GB"
+ram = "8 GB"
 wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "lineageos"
 cpu = "Denver 2 & Cortex-A57"
-ram = "8 GB"
+ram = "4 GB"
 wifi = "802.11 a/b/g/n/ac"
 
 [specs]

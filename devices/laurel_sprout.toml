@@ -42,14 +42,14 @@ developer = "magicxavi"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.6"
-developer = "magicxavi"
+version = "v3.7"
+developer = "HarukeyUA"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.7"
-developer = "HarukeyUA"
+version = "v6.6"
+developer = "magicxavi"
 
 [[roms]]
 id = "syberia"
