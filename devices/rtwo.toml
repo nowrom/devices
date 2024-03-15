@@ -1,0 +1,22 @@
+brand = "Motorola"
+codename = "rtwo"
+name = "motorola edge plus 2023"
+recoveries = []
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo"
+ram = "12 GB LPDDR5X"
+wifi = "802.11 a/b/g/n/ac/ax"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo"
+ram = "12 GB LPDDR5X"
+wifi = "802.11 a/b/g/n/ac/ax"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo"
+ram = "8 GB LPDDR5X"
+wifi = "802.11 a/b/g/n/ac/ax"

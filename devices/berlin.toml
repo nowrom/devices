@@ -7,6 +7,11 @@ id = "twrp"
 maintainer = "Dees_Troy"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://github.com/MindTheGapps/14.0.0-arm64/releases/tag/MindTheGapps-14.0.0-arm64-20240225_232108"
+recovery = "https://sourceforge.net/projects/vitor/files/berlin/CrDroid/10.2/"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 670"
 ram = "8 GB LPDDR4X"

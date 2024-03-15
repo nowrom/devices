@@ -1,0 +1,9 @@
+brand = "POCO"
+codename = "sky"
+name = "POCO M6 Pro 5G"
+recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/07-Mar-2024/NikGapps-basic-arm64-14-20240307-signed.zip/download"
+recovery = ""

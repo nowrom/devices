@@ -4206,6 +4206,11 @@
   },
   {
     "brand": "Aiwa",
+    "name": "A8_LTE",
+    "codename": "A8_LTE"
+  },
+  {
+    "brand": "Aiwa",
     "name": "AIWA",
     "codename": "lavender"
   },
@@ -40916,7 +40921,7 @@
   },
   {
     "brand": "Fobem",
-    "name": "4K SMART TV",
+    "name": "Fobem 4K SMART TV",
     "codename": "marina"
   },
   {
@@ -108796,6 +108801,11 @@
   },
   {
     "brand": "Multilaser",
+    "name": "M10 WIFI",
+    "codename": "ML_SO0U_M10_WIFI"
+  },
+  {
+    "brand": "Multilaser",
     "name": "M10-3G",
     "codename": "ML-JI06-M10-3G"
   },
@@ -115656,36 +115666,6 @@
   },
   {
     "brand": "OnePlus",
-    "name": "12",
-    "codename": "OP595DL1"
-  },
-  {
-    "brand": "OnePlus",
-    "name": "12",
-    "codename": "OP595DL1"
-  },
-  {
-    "brand": "OnePlus",
-    "name": "12",
-    "codename": "OP595DL1"
-  },
-  {
-    "brand": "OnePlus",
-    "name": "12R",
-    "codename": "OP5D35L1"
-  },
-  {
-    "brand": "OnePlus",
-    "name": "12R",
-    "codename": "OP5D35L1"
-  },
-  {
-    "brand": "OnePlus",
-    "name": "12R",
-    "codename": "OP5D35L1"
-  },
-  {
-    "brand": "OnePlus",
     "name": "2",
     "codename": "OnePlus2"
   },
@@ -115823,6 +115803,31 @@
     "brand": "OnePlus",
     "name": "OnePlus 12",
     "codename": "OP5929L1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 12",
+    "codename": "OP595DL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 12",
+    "codename": "OP595DL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 12",
+    "codename": "OP595DL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 12R",
+    "codename": "OP5D35L1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus 12R",
+    "codename": "OP5D35L1"
   },
   {
     "brand": "OnePlus",
@@ -155538,6 +155543,16 @@
     "brand": "Sharp",
     "name": "SH825wi",
     "codename": "SH825Wi"
+  },
+  {
+    "brand": "Sharp",
+    "name": "SHARP",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Sharp",
+    "name": "SHARP",
+    "codename": "mountbaker"
   },
   {
     "brand": "Sharp",
