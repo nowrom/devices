@@ -5990,6 +5990,11 @@
     "codename": "SEI700ALLG"
   },
   {
+    "brand": "Allente",
+    "name": "PrimeOne",
+    "codename": "PrimeOne"
+  },
+  {
     "brand": "Allfine",
     "name": "M721",
     "codename": "86S"
@@ -11458,6 +11463,11 @@
     "brand": "Athesi",
     "name": "Athesi professional AP5705S",
     "codename": "AP5705S"
+  },
+  {
+    "brand": "Athesi",
+    "name": "E55",
+    "codename": "E55"
   },
   {
     "brand": "Athesi",
@@ -43933,6 +43943,11 @@
     "brand": "Geoelectron",
     "name": "P9IV_Handheld_EEA",
     "codename": "P9IV_Handheld"
+  },
+  {
+    "brand": "Gertec",
+    "name": "SK-210",
+    "codename": "SK-210"
   },
   {
     "brand": "Gesellschaft für SMK mBH",
@@ -80650,6 +80665,16 @@
     "codename": "LAMZIEN_P2"
   },
   {
+    "brand": "LANDI",
+    "name": "M20",
+    "codename": "M20"
+  },
+  {
+    "brand": "LANDI",
+    "name": "M20SE",
+    "codename": "M20SE"
+  },
+  {
     "brand": "LARVAND",
     "name": "M863TabH8",
     "codename": "M863TabH8"
@@ -112586,6 +112611,11 @@
   },
   {
     "brand": "Newland",
+    "name": "N950",
+    "codename": "SmartPOS"
+  },
+  {
+    "brand": "Newland",
     "name": "NLS-MT6550-AM",
     "codename": "NLS-MT6550-AM"
   },
@@ -115110,6 +115140,11 @@
     "codename": "QuartzT10-3"
   },
   {
+    "brand": "ONYX",
+    "name": "TabBoox",
+    "codename": "TabBoox"
+  },
+  {
     "brand": "ORBYS",
     "name": "F20",
     "codename": "F20"
@@ -116303,6 +116338,11 @@
     "brand": "OnePlus",
     "name": "OnePlus Pad",
     "codename": "OP59BCL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus Watch 2",
+    "codename": "OPWWE231"
   },
   {
     "brand": "OnePlus",
@@ -118408,11 +118448,6 @@
     "brand": "Oppo",
     "name": "OPPO Watch X",
     "codename": "OWWE231"
-  },
-  {
-    "brand": "Oppo",
-    "name": "OnePlus Watch 2",
-    "codename": "OPWWE231"
   },
   {
     "brand": "Oppo",
@@ -172840,6 +172875,11 @@
     "codename": "S40"
   },
   {
+    "brand": "TIANYU",
+    "name": "S40E",
+    "codename": "S40"
+  },
+  {
     "brand": "TIGO",
     "name": "ONEtv",
     "codename": "uiw4054mil"
@@ -179271,6 +179311,11 @@
   },
   {
     "brand": "True",
+    "name": "20721400E_EEA",
+    "codename": "Tablet"
+  },
+  {
+    "brand": "True",
     "name": "20725300",
     "codename": "Tablet"
   },
@@ -179282,6 +179327,11 @@
   {
     "brand": "True",
     "name": "20728200",
+    "codename": "Tablet"
+  },
+  {
+    "brand": "True",
+    "name": "20728200E_EEA",
     "codename": "Tablet"
   },
   {
@@ -208188,6 +208238,11 @@
     "brand": "iMin",
     "name": "Swift 2 Pro",
     "codename": "Swift2Pro"
+  },
+  {
+    "brand": "iMin",
+    "name": "Swift2_GL",
+    "codename": "Swift2"
   },
   {
     "brand": "iMuz",
