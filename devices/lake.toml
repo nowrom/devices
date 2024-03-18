@@ -12,6 +12,11 @@ id = "AOSPK"
 xda_thread = ""
 
 [[roms]]
+id = "crdroid"
+gapps = "https://wiki.lineageos.org/gapps"
+recovery = "https://sourceforge.net/projects/motorola-sdm660-platform/files/fourteen/lake/recoverys/boot-cr14.img/download"
+
+[[roms]]
 id = "legionos"
 active = false
 maintainer = "VitorSSSouza"

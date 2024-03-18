@@ -7,6 +7,11 @@ id = "twrp"
 maintainer = "kaneawk, erfanoabdi"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://wiki.lineageos.org/gapps"
+recovery = "https://sourceforge.net/projects/motorola-sdm660-platform/files/fourteen/beckham/recoverys/boot-cr14.img/download"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 260"
 ram = "4/6 GB LPDDR4X"
