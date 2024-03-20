@@ -2236,6 +2236,11 @@
   },
   {
     "brand": "Acer",
+    "name": "Acer education whiteboard",
+    "codename": "DT3K_F"
+  },
+  {
+    "brand": "Acer",
     "name": "Acer_A60",
     "codename": "Acer_A60"
   },
@@ -20578,6 +20583,11 @@
     "brand": "Bluebird",
     "name": "HF550",
     "codename": "HF550"
+  },
+  {
+    "brand": "Bluebird",
+    "name": "HF550X",
+    "codename": "EF550"
   },
   {
     "brand": "Bluebird",
@@ -47222,6 +47232,11 @@
   {
     "brand": "HKC Elec",
     "name": "Google TV",
+    "codename": "lakeside"
+  },
+  {
+    "brand": "HKC Elec",
+    "name": "Google TV",
     "codename": "nagai"
   },
   {
@@ -52018,6 +52033,11 @@
     "brand": "Haier",
     "name": "Haier MatrixTV AEL",
     "codename": "irvine"
+  },
+  {
+    "brand": "Haier",
+    "name": "Haier MatrixTV AR",
+    "codename": "yongchun"
   },
   {
     "brand": "Haier",
@@ -116351,6 +116371,11 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus Nord N30 SE 5G",
+    "codename": "OP5955L1"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus Nord2 5G",
     "codename": "OP515BL1"
   },
@@ -118276,6 +118301,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO A18",
+    "codename": "OP575DL1"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO A33",
     "codename": "OP4EEA"
   },
@@ -118283,6 +118313,11 @@
     "brand": "Oppo",
     "name": "OPPO A35",
     "codename": "OP4E7B"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO A38",
+    "codename": "OP5759L1"
   },
   {
     "brand": "Oppo",
@@ -134771,6 +134806,11 @@
   },
   {
     "brand": "RockTek",
+    "name": "Gretzky",
+    "codename": "TSA"
+  },
+  {
+    "brand": "RockTek",
     "name": "RT-G1",
     "codename": "RTBox"
   },
@@ -143806,6 +143846,26 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy M55 5G",
+    "codename": "m55xq"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M55 5G",
+    "codename": "m55xq"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M55 5G",
+    "codename": "m55xq"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M55 5G",
+    "codename": "m55xq"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy M62",
     "codename": "m62"
   },
@@ -150388,6 +150448,11 @@
     "brand": "Samsung",
     "name": "Galaxy Tab S6 Lite",
     "codename": "gta4xl"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S6 Lite",
+    "codename": "gta4xls"
   },
   {
     "brand": "Samsung",
@@ -176286,6 +176351,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO CAMON 30 Pro 5G",
+    "codename": "TECNO-CL8"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO CAMON iACE 2",
     "codename": "TECNO-KB2"
   },
@@ -176478,6 +176548,11 @@
     "brand": "Tecno",
     "name": "TECNO POVA 6",
     "codename": "TECNO-LI7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO POVA 6 Neo",
+    "codename": "TECNO-LI6"
   },
   {
     "brand": "Tecno",
@@ -190118,6 +190193,11 @@
     "brand": "Walton",
     "name": "NEXG N71 Plus",
     "codename": "NEXG_N71_Plus"
+  },
+  {
+    "brand": "Walton",
+    "name": "NEXG N73",
+    "codename": "NEXG_N73"
   },
   {
     "brand": "Walton",
@@ -209436,7 +209516,7 @@
   },
   {
     "brand": "realme",
-    "name": "NARZO 70 Pro",
+    "name": "NARZO 70 Pro 5G",
     "codename": "RE5C86L1"
   },
   {
