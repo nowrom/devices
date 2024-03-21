@@ -58161,6 +58161,16 @@
   },
   {
     "brand": "Honor",
+    "name": "HONOR 90 Smart",
+    "codename": "HNCLK-M1"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR 90 Smart",
+    "codename": "HNCLK-M1"
+  },
+  {
+    "brand": "Honor",
     "name": "HONOR Magic V2",
     "codename": "HNVER"
   },
@@ -58368,6 +58378,16 @@
     "brand": "Honor",
     "name": "HONOR X7b",
     "codename": "HNCLK-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X7b 5G",
+    "codename": "HNCLK-M1"
+  },
+  {
+    "brand": "Honor",
+    "name": "HONOR X7b 5G",
+    "codename": "HNCLK-M1"
   },
   {
     "brand": "Honor",
@@ -70603,6 +70623,11 @@
     "brand": "Infinix",
     "name": "NOTE 4 Pro",
     "codename": "Infinix-X571"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 40 Pro+ 5G",
+    "codename": "Infinix-X6851B"
   },
   {
     "brand": "Infinix",
@@ -103246,6 +103271,11 @@
   },
   {
     "brand": "Mobicell",
+    "name": "IX",
+    "codename": "IX"
+  },
+  {
+    "brand": "Mobicell",
     "name": "IX PRO",
     "codename": "IX_PRO"
   },
@@ -114786,6 +114816,11 @@
   },
   {
     "brand": "OASYS",
+    "name": "TEG9300-4A",
+    "codename": "TEG9300-4A"
+  },
+  {
+    "brand": "OASYS",
     "name": "TEG9300-5",
     "codename": "TEG9300-5"
   },
@@ -116388,6 +116423,11 @@
     "brand": "OnePlus",
     "name": "OnePlus Pad",
     "codename": "OP59BCL1"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus Pad Go",
+    "codename": "OP5DA6L1"
   },
   {
     "brand": "OnePlus",
@@ -118388,6 +118428,11 @@
     "brand": "Oppo",
     "name": "OPPO Pad Air",
     "codename": "OP5225"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO Pad Neo",
+    "codename": "OP5DA3L1"
   },
   {
     "brand": "Oppo",
@@ -209711,11 +209756,6 @@
   },
   {
     "brand": "realme",
-    "name": "realme 12 Pro+",
-    "codename": "RE5C3B"
-  },
-  {
-    "brand": "realme",
     "name": "realme 12 Pro+ 5G",
     "codename": "RE5C82L1"
   },
@@ -210388,6 +210428,16 @@
     "brand": "realme",
     "name": "真我11 Pro",
     "codename": "RE5869"
+  },
+  {
+    "brand": "realme",
+    "name": "真我12 Pro",
+    "codename": "RE5C3C"
+  },
+  {
+    "brand": "realme",
+    "name": "真我12 Pro+",
+    "codename": "RE5C3B"
   },
   {
     "brand": "realme",
