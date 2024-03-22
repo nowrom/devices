@@ -5561,6 +5561,11 @@
   },
   {
     "brand": "AllView",
+    "name": "X10_Soul_Lite",
+    "codename": "X10_Soul_Lite"
+  },
+  {
+    "brand": "AllView",
     "name": "X2 Soul Lite",
     "codename": "X2_Soul_Lite"
   },
@@ -92426,6 +92431,11 @@
   },
   {
     "brand": "Lenovo",
+    "name": "Lenovo Legion Tab",
+    "codename": "TB320FC"
+  },
+  {
+    "brand": "Lenovo",
     "name": "Lenovo Mirage Solo",
     "codename": "vega"
   },
@@ -95248,6 +95258,11 @@
     "brand": "Logic Mobility",
     "name": "LOGIC L63",
     "codename": "LOGIC_L63"
+  },
+  {
+    "brand": "Logic Mobility",
+    "name": "LOGIC L63M",
+    "codename": "LOGIC_L63M"
   },
   {
     "brand": "Logic Mobility",
@@ -103161,6 +103176,11 @@
   },
   {
     "brand": "Mobicell",
+    "name": "EPIC MAX",
+    "codename": "EPIC_MAX"
+  },
+  {
+    "brand": "Mobicell",
     "name": "EPIC PRO 1",
     "codename": "EPIC_PRO_1"
   },
@@ -103471,6 +103491,11 @@
   },
   {
     "brand": "Mobicell",
+    "name": "R6_PLUS",
+    "codename": "R6_PLUS"
+  },
+  {
+    "brand": "Mobicell",
     "name": "R7",
     "codename": "R7"
   },
@@ -103553,6 +103578,11 @@
     "brand": "Mobicell",
     "name": "RX PRO",
     "codename": "RX_PRO"
+  },
+  {
+    "brand": "Mobicell",
+    "name": "RX Plus",
+    "codename": "RX_Plus"
   },
   {
     "brand": "Mobicell",
@@ -156933,6 +156963,11 @@
     "brand": "Sky Devices",
     "name": "Elite A55",
     "codename": "Elite_A55"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "Elite A55Max",
+    "codename": "Elite_A55Max"
   },
   {
     "brand": "Sky Devices",
