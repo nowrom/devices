@@ -7121,6 +7121,11 @@
   },
   {
     "brand": "Arcelik",
+    "name": "R4",
+    "codename": "R4"
+  },
+  {
+    "brand": "Arcelik",
     "name": "Turkey",
     "codename": "martin"
   },
@@ -15818,6 +15823,11 @@
     "brand": "Beko",
     "name": "Beko UHD Android TV",
     "codename": "kunyang"
+  },
+  {
+    "brand": "Beko",
+    "name": "R4",
+    "codename": "R4"
   },
   {
     "brand": "Beko",
@@ -46016,6 +46026,11 @@
   },
   {
     "brand": "Google",
+    "name": "Google Automotive Emulator",
+    "codename": "emulator_car64_x86_64"
+  },
+  {
+    "brand": "Google",
     "name": "Google Play Games on PC",
     "codename": "vsoc_kiwi_x86_64"
   },
@@ -46688,6 +46703,11 @@
     "brand": "Grundig",
     "name": "Grundig UHD Android TV",
     "codename": "kunyang"
+  },
+  {
+    "brand": "Grundig",
+    "name": "R4",
+    "codename": "R4"
   },
   {
     "brand": "Grundig",
@@ -79476,6 +79496,11 @@
   },
   {
     "brand": "Korea Telecom",
+    "name": "KG2100",
+    "codename": "KG2100"
+  },
+  {
+    "brand": "Korea Telecom",
     "name": "KG3100",
     "codename": "KG3100"
   },
@@ -89321,6 +89346,11 @@
   },
   {
     "brand": "Lava",
+    "name": "LAVA LZX414",
+    "codename": "LZX414"
+  },
+  {
+    "brand": "Lava",
     "name": "LAVA Z66",
     "codename": "Z66"
   },
@@ -89683,11 +89713,6 @@
     "brand": "Lava",
     "name": "YUVA 3",
     "codename": "LZX415"
-  },
-  {
-    "brand": "Lava",
-    "name": "Yuva 3 Pro",
-    "codename": "LZX414"
   },
   {
     "brand": "Lava",
@@ -116506,6 +116531,11 @@
   },
   {
     "brand": "OnePlus",
+    "name": "Oneplus Ace 2 Pro",
+    "codename": "OP5943L1"
+  },
+  {
+    "brand": "OnePlus",
     "name": "Oneplus_Dosa_IN",
     "codename": "Oneplus_Dosa_IN"
   },
@@ -141121,6 +141151,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy C55 5G",
+    "codename": "m55xq"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy C7",
     "codename": "c7ltechn"
   },
@@ -141738,6 +141773,11 @@
     "brand": "Samsung",
     "name": "Galaxy F54 5G",
     "codename": "m54x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy F55 5G",
+    "codename": "m55xq"
   },
   {
     "brand": "Samsung",
@@ -143918,16 +143958,6 @@
     "brand": "Samsung",
     "name": "Galaxy M54 5G",
     "codename": "m54x"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy M55 5G",
-    "codename": "m55xq"
-  },
-  {
-    "brand": "Samsung",
-    "name": "Galaxy M55 5G",
-    "codename": "m55xq"
   },
   {
     "brand": "Samsung",
@@ -156697,6 +156727,11 @@
   {
     "brand": "Siragon",
     "name": "SIRAGON",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Siragon",
+    "name": "SIRAGON",
     "codename": "stanford"
   },
   {
@@ -158572,6 +158607,11 @@
   {
     "brand": "Soneview",
     "name": "SONEVIEW",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Soneview",
+    "name": "SONEVIEW",
     "codename": "mountbaker"
   },
   {
@@ -158933,6 +158973,11 @@
     "brand": "Sony",
     "name": "NWZ-ZX1",
     "codename": "icx1240"
+  },
+  {
+    "brand": "Sony",
+    "name": "PDT-FP1",
+    "codename": "PDT-FP1"
   },
   {
     "brand": "Sony",
@@ -165583,6 +165628,11 @@
     "brand": "TCL",
     "name": "TCL 40XL",
     "codename": "Sonata_Pro_OM"
+  },
+  {
+    "brand": "TCL",
+    "name": "TCL 50 5G",
+    "codename": "Dragonfly"
   },
   {
     "brand": "TCL",
@@ -176428,6 +176478,11 @@
     "brand": "Tecno",
     "name": "TECNO CAMON 30",
     "codename": "TECNO-CL6k"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO CAMON 30 5G",
+    "codename": "TECNO-CL7"
   },
   {
     "brand": "Tecno",
@@ -187573,6 +187628,16 @@
     "brand": "Vivo",
     "name": "Y200 5G",
     "codename": "V2307"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y200 Pro 5G",
+    "codename": "V2303"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y200 Pro 5G",
+    "codename": "V2303"
   },
   {
     "brand": "Vivo",
@@ -206508,6 +206573,11 @@
     "brand": "benco",
     "name": "AE9950",
     "codename": "AE9950"
+  },
+  {
+    "brand": "benco",
+    "name": "AEOP519",
+    "codename": "AEOP519"
   },
   {
     "brand": "benco",
