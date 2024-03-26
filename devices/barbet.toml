@@ -37,12 +37,12 @@ deprecated = true
 [[roms.supported_versions]]
 version_code = "thirteen"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 stable = true
-deprecated = false
+deprecated = true
 
 [specs]
 cpu = "Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver)"

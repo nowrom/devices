@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "beyond1lte"
-name = "Samsung Galaxy S10"
+name = "Galaxy S10"
 
 [[recoveries]]
 id = "twrp"

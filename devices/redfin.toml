@@ -27,7 +27,7 @@ wifi = "802.11 a/b/g/n/ac"
 
 [[roms]]
 id = "pixelexperience"
-repostories = ["device_google_redfin","device_google_redbull","vendor_google_redfin","kernel_google_redbull","wiki_blobs_redbull"]
+repostories = ["device_google_gs_common","device_google_redfin","device_google_redbull","vendor_google_redfin","vendor_google-extra","kernel_google_redbull","wiki_blobs_redbull"]
 
 [[roms.supported_versions]]
 version_code = "twelve"
@@ -42,11 +42,16 @@ deprecated = true
 [[roms.supported_versions]]
 version_code = "thirteen"
 stable = true
-deprecated = false
+deprecated = true
 
 [[roms.supported_versions]]
 version_code = "thirteen_plus"
 stable = true
+deprecated = true
+
+[[roms.supported_versions]]
+version_code = "fourteen"
+stable = false
 deprecated = false
 
 [specs]

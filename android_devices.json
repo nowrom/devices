@@ -124526,6 +124526,16 @@
   },
   {
     "brand": "Philips",
+    "name": "PHILIPS S6210",
+    "codename": "PHILIPS-S6210"
+  },
+  {
+    "brand": "Philips",
+    "name": "PHILIPS S6310",
+    "codename": "PHILIPS-S6310"
+  },
+  {
+    "brand": "Philips",
     "name": "PHILIPS TV",
     "codename": "cocina"
   },
@@ -158803,6 +158813,11 @@
     "brand": "Sony",
     "name": "BRAVIA AE M6L",
     "codename": "BRAVIA_AE_M6L"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA AE2",
+    "codename": "BRAVIA_AE2"
   },
   {
     "brand": "Sony",
