@@ -1,0 +1,8 @@
+brand = "Redmi"
+codename = "pissarropro"
+name = "Redmi Note 11 Pro+ 5G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Samrth Singh"

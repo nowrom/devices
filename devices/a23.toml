@@ -1,0 +1,9 @@
+brand = "Samsung"
+codename = "a23"
+name = "Galaxy A23"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = "https://xdaforums.com/t/recovery-unoffical-twrp-recovery-v3-7-1-12-1-samsung-a23.4638432/"
+maintainer = "MRX7014"

@@ -1,0 +1,8 @@
+brand = "Xiaomi"
+codename = "pissarroin"
+name = "Xiaomi 11i"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Samrth Singh"

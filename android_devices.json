@@ -47281,6 +47281,11 @@
   },
   {
     "brand": "HKC Elec",
+    "name": "Google TV",
+    "codename": "nagai"
+  },
+  {
+    "brand": "HKC Elec",
     "name": "Smart Monitor",
     "codename": "mateo"
   },
@@ -69701,6 +69706,11 @@
   },
   {
     "brand": "IndiHome",
+    "name": "B866F V1.1",
+    "codename": "B866FV1_1"
+  },
+  {
+    "brand": "IndiHome",
     "name": "HG680_FJ",
     "codename": "HG680"
   },
@@ -69818,6 +69828,11 @@
     "brand": "Infinix",
     "name": "GT 10 Pro",
     "codename": "Infinix-X6739"
+  },
+  {
+    "brand": "Infinix",
+    "name": "GT 20 Pro",
+    "codename": "Infinix-X6871"
   },
   {
     "brand": "Infinix",
@@ -150572,6 +150587,11 @@
   {
     "brand": "Samsung",
     "name": "Galaxy Tab S6 Lite",
+    "codename": "gta4xlswifi"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Tab S6 Lite",
     "codename": "gta4xlve"
   },
   {
@@ -153738,6 +153758,11 @@
     "brand": "Seuic",
     "name": "CRUISE2 5G",
     "codename": "d740"
+  },
+  {
+    "brand": "Seuic",
+    "name": "CRUISE2 5GA",
+    "codename": "d740p"
   },
   {
     "brand": "Seuic",
@@ -176498,6 +176523,11 @@
     "brand": "Tecno",
     "name": "TECNO CAMON 30 5G",
     "codename": "TECNO-CL7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO CAMON 30 Premier 5G",
+    "codename": "TECNO-CL9"
   },
   {
     "brand": "Tecno",

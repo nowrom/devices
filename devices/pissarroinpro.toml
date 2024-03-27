@@ -1,0 +1,8 @@
+brand = "Xiaomi"
+codename = "pissarroinpro"
+name = "Xiaomi 11i HyperCharge"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "Samrth Singh"
