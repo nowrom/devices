@@ -58281,6 +58281,11 @@
   },
   {
     "brand": "Honor",
+    "name": "HONOR Pad 9",
+    "codename": "HNHEY2-Q"
+  },
+  {
+    "brand": "Honor",
     "name": "HONOR Pad X8",
     "codename": "HNAGM3"
   },
@@ -74473,6 +74478,11 @@
     "brand": "Itel",
     "name": "itel PrimeTab 1",
     "codename": "itel-W7002P"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel RS4",
+    "codename": "itel-S666LN"
   },
   {
     "brand": "Itel",
@@ -187361,6 +187371,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "X Fold3 Pro",
+    "codename": "PD2337"
+  },
+  {
+    "brand": "Vivo",
     "name": "X100",
     "codename": "PD2309"
   },
@@ -188678,6 +188693,11 @@
     "brand": "Vivo",
     "name": "vivo X Fold2",
     "codename": "PD2266"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo X Fold3",
+    "codename": "PD2303"
   },
   {
     "brand": "Vivo",
@@ -204813,6 +204833,11 @@
     "brand": "ZTE",
     "name": "nubia Blade A72",
     "codename": "Z6255"
+  },
+  {
+    "brand": "ZTE",
+    "name": "nubia Flip 5G",
+    "codename": "Z8888S"
   },
   {
     "brand": "ZTE",
