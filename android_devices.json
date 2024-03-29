@@ -21976,7 +21976,7 @@
   },
   {
     "brand": "COMBUSTECH",
-    "name": "Customer need debug",
+    "name": "COMBUSTECH-IFPD",
     "codename": "rk3588_t"
   },
   {
@@ -58513,6 +58513,11 @@
     "brand": "Honor",
     "name": "PORSCHE DESIGN HONOR Magic V2 RSR",
     "codename": "HNVER"
+  },
+  {
+    "brand": "Honor",
+    "name": "PORSCHE DESIGN HONOR Magic6 RSR",
+    "codename": "HNBVL"
   },
   {
     "brand": "Honor",
