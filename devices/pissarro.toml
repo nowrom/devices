@@ -4,5 +4,9 @@ name = "Redmi Note 11 Pro"
 roms = []
 
 [[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
 id = "twrp"
 maintainer = "Samrth Singh"

@@ -2036,6 +2036,11 @@
   },
   {
     "brand": "Acer",
+    "name": "ACER ALTOS EZA",
+    "codename": "AKREI13"
+  },
+  {
+    "brand": "Acer",
     "name": "ACTAB1021_A",
     "codename": "ACTAB1021_A"
   },
@@ -30773,6 +30778,11 @@
     "brand": "Daewoo",
     "name": "DAEWOO",
     "codename": "lavender"
+  },
+  {
+    "brand": "Daewoo",
+    "name": "DAEWOO",
+    "codename": "mountbaker"
   },
   {
     "brand": "Daewoo",
@@ -77161,6 +77171,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "INNO-HIT",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
     "name": "INNOVA",
     "codename": "hongkong"
   },
@@ -96945,6 +96960,11 @@
     "codename": "SSB700T"
   },
   {
+    "brand": "MCTV",
+    "name": "MCIFPD",
+    "codename": "rk3588_t"
+  },
+  {
     "brand": "MDC Store",
     "name": "Grand",
     "codename": "Grand"
@@ -108808,6 +108828,11 @@
     "brand": "Mtek",
     "name": "MTEK",
     "codename": "lavender"
+  },
+  {
+    "brand": "Mtek",
+    "name": "MTEK",
+    "codename": "mountbaker"
   },
   {
     "brand": "Mtek",
@@ -187306,6 +187331,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "V30 Lite",
+    "codename": "V2342"
+  },
+  {
+    "brand": "Vivo",
     "name": "V30 Lite 5G",
     "codename": "V2327"
   },
@@ -187613,6 +187643,11 @@
     "brand": "Vivo",
     "name": "Y100",
     "codename": "V2239"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y100",
+    "codename": "V2342"
   },
   {
     "brand": "Vivo",
@@ -188633,6 +188668,11 @@
     "brand": "Vivo",
     "name": "vivo Pad2",
     "codename": "DPD2221"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo Pad3 Pro",
+    "codename": "DPD2329"
   },
   {
     "brand": "Vivo",
@@ -205366,6 +205406,11 @@
   },
   {
     "brand": "Zebra",
+    "name": "TC73",
+    "codename": "TC73T"
+  },
+  {
+    "brand": "Zebra",
     "name": "TC75x",
     "codename": "TC75x"
   },
@@ -205378,6 +205423,11 @@
     "brand": "Zebra",
     "name": "TC78",
     "codename": "TC78"
+  },
+  {
+    "brand": "Zebra",
+    "name": "TC78",
+    "codename": "TC78T"
   },
   {
     "brand": "Zebra",
