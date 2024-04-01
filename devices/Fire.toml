@@ -1,0 +1,8 @@
+brand = "Tech 4u"
+codename = "Fire"
+name = "Fire"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "AntarcticShaurant"
