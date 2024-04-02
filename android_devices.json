@@ -95316,6 +95316,11 @@
   },
   {
     "brand": "Logic Mobility",
+    "name": "L68 Ultra",
+    "codename": "L68_Ultra"
+  },
+  {
+    "brand": "Logic Mobility",
     "name": "LOGIC L50T",
     "codename": "LOGIC_L50T"
   },
@@ -103098,6 +103103,11 @@
     "brand": "MobiVista",
     "name": "VisioTab_10",
     "codename": "VisioTab_10"
+  },
+  {
+    "brand": "Mobicel",
+    "name": "P5",
+    "codename": "P5"
   },
   {
     "brand": "Mobicell",
@@ -155066,6 +155076,11 @@
   },
   {
     "brand": "Sharp",
+    "name": "BASIO active2",
+    "codename": "ZKO"
+  },
+  {
+    "brand": "Sharp",
     "name": "BASIO2 SHV36",
     "codename": "SHV36"
   },
@@ -163028,6 +163043,11 @@
     "brand": "Strong",
     "name": "SRT41",
     "codename": "YYT"
+  },
+  {
+    "brand": "Strong",
+    "name": "SRT420",
+    "codename": "ZRH"
   },
   {
     "brand": "Strong",
