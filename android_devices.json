@@ -1060,6 +1060,11 @@
     "codename": "HT10"
   },
   {
+    "brand": "ARGUEST",
+    "name": "Arguest Android UHD TV",
+    "codename": "kunyang"
+  },
+  {
     "brand": "ARMADILOS",
     "name": "Listo22",
     "codename": "Listo22"
@@ -2191,6 +2196,11 @@
   },
   {
     "brand": "Acer",
+    "name": "Acer Iconia T10-21M",
+    "codename": "Acer_Iconia_T10-21M"
+  },
+  {
+    "brand": "Acer",
     "name": "Acer One 10 T4-129L",
     "codename": "AcerO10T4129L"
   },
@@ -3023,6 +3033,11 @@
     "brand": "Acer",
     "name": "N3-2200",
     "codename": "da2"
+  },
+  {
+    "brand": "Acer",
+    "name": "P11",
+    "codename": "P11"
   },
   {
     "brand": "Acer",
@@ -4218,6 +4233,11 @@
     "brand": "Aiwa",
     "name": "A8_LTE",
     "codename": "A8_LTE"
+  },
+  {
+    "brand": "Aiwa",
+    "name": "AIWA",
+    "codename": "hongkong"
   },
   {
     "brand": "Aiwa",
@@ -36346,6 +36366,11 @@
   },
   {
     "brand": "EVOFORCE1",
+    "name": "FRC1-Eastlink",
+    "codename": "SEI800ESTL"
+  },
+  {
+    "brand": "EVOFORCE1",
     "name": "FRC1-MDCOM",
     "codename": "SEI800MDCOM"
   },
@@ -46123,6 +46148,11 @@
     "brand": "Google",
     "name": "Intel Kaby Lake U Chromebook",
     "codename": "nami_cheets"
+  },
+  {
+    "brand": "Google",
+    "name": "Intel Meteorlake-U Chromebook",
+    "codename": "rex_cheets"
   },
   {
     "brand": "Google",
@@ -69841,11 +69871,6 @@
   },
   {
     "brand": "Infinix",
-    "name": "APAC",
-    "codename": "kualakai"
-  },
-  {
-    "brand": "Infinix",
     "name": "GT 10 Pro",
     "codename": "Infinix-X6739"
   },
@@ -70178,6 +70203,11 @@
     "brand": "Infinix",
     "name": "Hot 4 Pro",
     "codename": "Infinix-X5511-13M"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix Google TV",
+    "codename": "kualakai"
   },
   {
     "brand": "Infinix",
@@ -76526,6 +76556,11 @@
   },
   {
     "brand": "KONKA",
+    "name": "HK 4K Google TV-D",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "KONKA",
     "name": "HK Google TV-A",
     "codename": "bandra"
   },
@@ -77162,6 +77197,11 @@
   {
     "brand": "KTCtv",
     "name": "IMMER",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "INNO-HIT",
     "codename": "hongkong"
   },
   {
@@ -108833,6 +108873,11 @@
     "brand": "Mswipe",
     "name": "WiseposGo",
     "codename": "L200"
+  },
+  {
+    "brand": "Mtek",
+    "name": "MTEK",
+    "codename": "hongkong"
   },
   {
     "brand": "Mtek",
@@ -190483,6 +190528,11 @@
     "brand": "Walton",
     "name": "NEXG_N25",
     "codename": "NEXG_N25"
+  },
+  {
+    "brand": "Walton",
+    "name": "ORBIT Y12",
+    "codename": "ORBIT_Y12"
   },
   {
     "brand": "Walton",
