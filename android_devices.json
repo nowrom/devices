@@ -39695,6 +39695,11 @@
     "codename": "F102"
   },
   {
+    "brand": "FOSSiBOT",
+    "name": "F106 Pro ROW",
+    "codename": "F106_Pro"
+  },
+  {
     "brand": "FOXX",
     "name": "T8C",
     "codename": "T8C"
@@ -67903,6 +67908,11 @@
     "brand": "Hyundai",
     "name": "Hyundai Koral_7XL",
     "codename": "HT0701L16"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "Hyundai Smartboard",
+    "codename": "HDIT_IFPD"
   },
   {
     "brand": "Hyundai",
@@ -116478,6 +116488,11 @@
     "brand": "OnePlus",
     "name": "OnePlus Nord CE 5G",
     "codename": "OnePlusNordCE"
+  },
+  {
+    "brand": "OnePlus",
+    "name": "OnePlus Nord CE4",
+    "codename": "OP5D3FL1"
   },
   {
     "brand": "OnePlus",
