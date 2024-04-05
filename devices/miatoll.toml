@@ -33,12 +33,6 @@ recovery = "https://orangefox.download/release/654f97eec41248a5cdacb832"
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "legionos"
 active = true
 maintainer = "RajKale"

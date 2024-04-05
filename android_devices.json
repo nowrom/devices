@@ -147322,6 +147322,16 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S24",
+    "codename": "SC-51E"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24",
+    "codename": "SCG25"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24",
     "codename": "e1q"
   },
   {
@@ -147348,6 +147358,16 @@
     "brand": "Samsung",
     "name": "Galaxy S24",
     "codename": "e1s"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24 Ultra",
+    "codename": "SC-52E"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24 Ultra",
+    "codename": "SCG26"
   },
   {
     "brand": "Samsung",
@@ -190183,6 +190203,11 @@
     "brand": "Vu Televisions",
     "name": "50CLED/55CLED/65CLED",
     "codename": "songshan"
+  },
+  {
+    "brand": "Vu Televisions",
+    "name": "55QMP",
+    "codename": "hengshan"
   },
   {
     "brand": "Vu Televisions",
