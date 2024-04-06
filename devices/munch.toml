@@ -56,11 +56,11 @@ xda_thread = "https://forum.xda-developers.com/t/rom-13-0-munch-official-pixel-e
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v6.7"
+version = "v7.1"
 developer = "erwinabs"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v7.1"
+version = "v6.7"
 developer = "erwinabs"

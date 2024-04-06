@@ -12,11 +12,11 @@ wifi = "802.11 a/b/g/n/ac/ax"
 [[roms]]
 id = "lineageos"
 cpu = "Kryo"
-ram = "12 GB LPDDR5X"
+ram = "8 GB LPDDR5X"
 wifi = "802.11 a/b/g/n/ac/ax"
 
 [[roms]]
 id = "lineageos"
 cpu = "Kryo"
-ram = "8 GB LPDDR5X"
+ram = "12 GB LPDDR5X"
 wifi = "802.11 a/b/g/n/ac/ax"

@@ -82,13 +82,13 @@ active = true
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v5.6"
+version = "v3.9"
 developer = "DennySPb"
 
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
-version = "v3.9"
+version = "v5.6"
 developer = "DennySPb"
 
 [[roms]]
