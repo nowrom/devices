@@ -5,7 +5,7 @@ recoveries = []
 
 [[roms]]
 id = "crdroid"
-gapps = "Inbuilt"
+gapps = ""
 recovery = "https://sourceforge.net/projects/crdroid/files/lynx/10.x/recovery/"
 
 [[roms]]

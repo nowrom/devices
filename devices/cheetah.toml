@@ -5,7 +5,7 @@ recoveries = []
 
 [[roms]]
 id = "crdroid"
-gapps = "inbuilt"
+gapps = ""
 recovery = "https://sourceforge.net/projects/crdroid/files/cheetah/10.x/recovery/"
 
 [[roms]]
