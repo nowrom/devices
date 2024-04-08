@@ -16,7 +16,7 @@ maintainer = "Deivid Ignacio"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm64-14.0.0-v2.7-ROAR.zip"
+gapps = "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-14.0.0-v3.0-CORE.zip"
 recovery = ""
 
 [[roms]]

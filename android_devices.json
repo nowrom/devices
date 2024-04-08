@@ -3311,6 +3311,11 @@
   },
   {
     "brand": "Adreamer (Shenzhen)",
+    "name": "KidsPad10X",
+    "codename": "KidsPad10X"
+  },
+  {
+    "brand": "Adreamer (Shenzhen)",
     "name": "KidsPad_7",
     "codename": "KidsPad_7"
   },
@@ -12201,6 +12206,11 @@
   },
   {
     "brand": "Azeyou",
+    "name": "AT1016BBK",
+    "codename": "AT1016BBK"
+  },
+  {
+    "brand": "Azeyou",
     "name": "AT1031E",
     "codename": "AT1031E"
   },
@@ -19526,6 +19536,11 @@
   },
   {
     "brand": "Blu",
+    "name": "J5",
+    "codename": "J0210"
+  },
+  {
+    "brand": "Blu",
     "name": "J6L",
     "codename": "J0110"
   },
@@ -19563,6 +19578,11 @@
     "brand": "Blu",
     "name": "J9L",
     "codename": "J0092WW"
+  },
+  {
+    "brand": "Blu",
+    "name": "K10",
+    "codename": "K0110"
   },
   {
     "brand": "Blu",
@@ -57172,6 +57192,11 @@
   {
     "brand": "Hisense",
     "name": "lushan",
+    "codename": "lushan"
+  },
+  {
+    "brand": "Hisense",
+    "name": "lushan-NF",
     "codename": "lushan"
   },
   {
@@ -97933,6 +97958,11 @@
     "brand": "MTC",
     "name": "chile",
     "codename": "S2000"
+  },
+  {
+    "brand": "MTN",
+    "name": "S5012",
+    "codename": "S5012"
   },
   {
     "brand": "MTN Group",
@@ -163783,6 +163813,16 @@
     "brand": "Sunbrite",
     "name": "huangshan_sunbrite",
     "codename": "huangshan"
+  },
+  {
+    "brand": "Sunelan",
+    "name": "Mountain M8",
+    "codename": "Mountain_M8"
+  },
+  {
+    "brand": "Sunelan",
+    "name": "River X3",
+    "codename": "River_X3"
   },
   {
     "brand": "Sunmi",
