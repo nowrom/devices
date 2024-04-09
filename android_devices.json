@@ -176701,6 +176701,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO CAMON 30",
+    "codename": "TECNO-CL6s"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO CAMON 30 5G",
     "codename": "TECNO-CL7"
   },
@@ -209883,6 +209888,11 @@
     "brand": "preo",
     "name": "PTAB_P8",
     "codename": "PTAB_P8"
+  },
+  {
+    "brand": "prowise",
+    "name": "Prowise Touchscreen Ten",
+    "codename": "ifpd"
   },
   {
     "brand": "prowise",
