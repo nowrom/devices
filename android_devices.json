@@ -21,6 +21,11 @@
   },
   {
     "brand": "1&1",
+    "name": "1&1 TV BOX",
+    "codename": "DIW377-1u1"
+  },
+  {
+    "brand": "1&1",
     "name": "1&1 TV Box",
     "codename": "diw387_1u1"
   },
@@ -6573,6 +6578,11 @@
     "brand": "Andersson",
     "name": "TBX10",
     "codename": "TBX10"
+  },
+  {
+    "brand": "AngelTech",
+    "name": "E109GCM",
+    "codename": "E109GCM"
   },
   {
     "brand": "AngelTech",
@@ -21448,6 +21458,11 @@
     "brand": "CAIXUN",
     "name": "Dreamstar 2K SMART TV",
     "codename": "nagata"
+  },
+  {
+    "brand": "CAIXUN",
+    "name": "Dreamstar 4K SMART TV",
+    "codename": "marina"
   },
   {
     "brand": "CAIXUN",
@@ -102956,6 +102971,11 @@
   },
   {
     "brand": "Miramage",
+    "name": "Miramage Smart Display",
+    "codename": "beaudry"
+  },
+  {
+    "brand": "Miramage",
     "name": "TV3223HDA11SMARTG",
     "codename": "beaudry"
   },
@@ -135691,6 +135711,11 @@
   },
   {
     "brand": "SCHNEIDER",
+    "name": "SCHNEIDER AndroidTV",
+    "codename": "beaudry"
+  },
+  {
+    "brand": "SCHNEIDER",
     "name": "Wave 3",
     "codename": "Wave_3"
   },
@@ -141906,6 +141931,11 @@
   },
   {
     "brand": "Samsung",
+    "name": "Galaxy F15 5G",
+    "codename": "m15x"
+  },
+  {
+    "brand": "Samsung",
     "name": "Galaxy F22",
     "codename": "f22"
   },
@@ -147382,6 +147412,11 @@
   {
     "brand": "Samsung",
     "name": "Galaxy S24",
+    "codename": "e1q"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24",
     "codename": "e1s"
   },
   {
@@ -147398,6 +147433,11 @@
     "brand": "Samsung",
     "name": "Galaxy S24 Ultra",
     "codename": "SCG26"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy S24 Ultra",
+    "codename": "e3q"
   },
   {
     "brand": "Samsung",
@@ -184741,6 +184781,11 @@
   },
   {
     "brand": "Vertu",
+    "name": "METAFLIP",
+    "codename": "VTL-202302"
+  },
+  {
+    "brand": "Vertu",
     "name": "Signature Touch",
     "codename": "odin"
   },
@@ -197776,6 +197821,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "5G UG Phone U23",
+    "codename": "P720F02"
+  },
+  {
+    "brand": "ZTE",
     "name": "901ZT",
     "codename": "P450A01"
   },
@@ -200991,6 +201041,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "Nubia Flip 5G",
+    "codename": "P745F01"
+  },
+  {
+    "brand": "ZTE",
     "name": "Nubia N11",
     "codename": "P731F50"
   },
@@ -201403,6 +201458,11 @@
     "brand": "ZTE",
     "name": "REDMAGIC 7Pro",
     "codename": "NX709J-UN"
+  },
+  {
+    "brand": "ZTE",
+    "name": "REDMAGIC 9",
+    "codename": "NX769J"
   },
   {
     "brand": "ZTE",
@@ -203136,6 +203196,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "Z6561J",
+    "codename": "Z6561S"
+  },
+  {
+    "brand": "ZTE",
     "name": "Z660G",
     "codename": "nice"
   },
@@ -204011,6 +204076,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Axon 60",
+    "codename": "P616F02"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE B2017",
     "codename": "msm8952_64"
   },
@@ -204396,6 +204466,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "ZTE Blade A35 Lite",
+    "codename": "P963F10"
+  },
+  {
+    "brand": "ZTE",
     "name": "ZTE Blade A3v",
     "codename": "Z5157"
   },
@@ -204713,6 +204788,11 @@
     "brand": "ZTE",
     "name": "ZTE Blade V41 Smart",
     "codename": "P606F05"
+  },
+  {
+    "brand": "ZTE",
+    "name": "ZTE Blade V50 Design",
+    "codename": "P606F08"
   },
   {
     "brand": "ZTE",
@@ -205041,6 +205121,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "nubia Music",
+    "codename": "P963F11"
+  },
+  {
+    "brand": "ZTE",
     "name": "nubia Neo 2 5G",
     "codename": "P820F03"
   },
@@ -205061,6 +205146,11 @@
   },
   {
     "brand": "ZTE",
+    "name": "nubia V50 Vita",
+    "codename": "P606F09"
+  },
+  {
+    "brand": "ZTE",
     "name": "nubia Z5",
     "codename": "NX501"
   },
@@ -205078,6 +205168,11 @@
     "brand": "ZTE",
     "name": "nubia Z60 Ultra",
     "codename": "PQ83A01"
+  },
+  {
+    "brand": "ZTE",
+    "name": "nubia Z60 Ultra",
+    "codename": "PQ83F01"
   },
   {
     "brand": "ZTE",
