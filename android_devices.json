@@ -4795,6 +4795,11 @@
     "codename": "S5710"
   },
   {
+    "brand": "Alited",
+    "name": "PA650",
+    "codename": "PA650"
+  },
+  {
     "brand": "AllCall",
     "name": "AllCall_Madrid",
     "codename": "AllCall_Madrid"
@@ -24955,6 +24960,11 @@
     "codename": "P1150"
   },
   {
+    "brand": "CignalPlayTV",
+    "name": "CIGSEI100",
+    "codename": "CIGSEI100"
+  },
+  {
     "brand": "Ciontek",
     "name": "CS20",
     "codename": "CS20"
@@ -29168,6 +29178,11 @@
     "brand": "Cyrus",
     "name": "CS45XA_EEA",
     "codename": "CS45XA_EEA"
+  },
+  {
+    "brand": "Cyrus",
+    "name": "ORSY_Controller",
+    "codename": "ORSY_Controller"
   },
   {
     "brand": "D-Tech",
@@ -47553,6 +47568,11 @@
     "brand": "HORIZON",
     "name": "ID65HZA3B1_C",
     "codename": "Interactive_White_Board"
+  },
+  {
+    "brand": "HORIZON",
+    "name": "IFPD",
+    "codename": "65W72B"
   },
   {
     "brand": "HOT (il)",
@@ -97158,6 +97178,11 @@
     "brand": "MEFERI",
     "name": "ME74",
     "codename": "ME74"
+  },
+  {
+    "brand": "MEO(Portugal)",
+    "name": "AVATAR 3",
+    "codename": "VSB3918-MEO"
   },
   {
     "brand": "MEO(Portugal)",
@@ -163298,6 +163323,11 @@
     "brand": "Stylo",
     "name": "BRAVE",
     "codename": "BRAVE"
+  },
+  {
+    "brand": "Stylo",
+    "name": "Comet",
+    "codename": "Comet"
   },
   {
     "brand": "Stylo",
