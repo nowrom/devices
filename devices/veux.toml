@@ -11,7 +11,7 @@ changelog = "<h4>Supported devices:</h4>\r\n<ul><li>POCO X4 Pro 5G (Global/India
 [[roms]]
 id = "crdroid"
 gapps = "https://nikgapps.com/crdroid-official"
-recovery = ""
+recovery = "https://sourceforge.net/projects/crdroid/files/veux/10.x/recovery/"
 
 [[roms]]
 id = "evolutionx"

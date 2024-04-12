@@ -60,6 +60,11 @@
     "codename": "G2"
   },
   {
+    "brand": "2E (ERC)",
+    "name": "2E 4K Google TV",
+    "codename": "keoneae"
+  },
+  {
     "brand": "3222222 Satelital",
     "name": "G706",
     "codename": "G706"
@@ -1253,6 +1258,11 @@
     "brand": "ATEAM",
     "name": "A801",
     "codename": "A801"
+  },
+  {
+    "brand": "ATEC",
+    "name": "A8GC",
+    "codename": "ATEC_IWB"
   },
   {
     "brand": "ATEC",
@@ -6040,11 +6050,6 @@
     "codename": "SEI700ALLG"
   },
   {
-    "brand": "Allente",
-    "name": "PrimeOne",
-    "codename": "PrimeOne"
-  },
-  {
     "brand": "Allfine",
     "name": "M721",
     "codename": "86S"
@@ -6058,6 +6063,11 @@
     "brand": "Alliance",
     "name": "DTP9731",
     "codename": "DTP9731"
+  },
+  {
+    "brand": "Allnet",
+    "name": "PrimeOne",
+    "codename": "PrimeOne"
   },
   {
     "brand": "Allouette",
@@ -25926,6 +25936,11 @@
   },
   {
     "brand": "Compaq",
+    "name": "Q5 PRO",
+    "codename": "Q5_PRO"
+  },
+  {
+    "brand": "Compaq",
     "name": "Q6",
     "codename": "Q6"
   },
@@ -32148,6 +32163,11 @@
     "brand": "DigiKing",
     "name": "Digiking 2K Google TV",
     "codename": "capitolhill"
+  },
+  {
+    "brand": "DigiKing",
+    "name": "Digiking 4K Google TV-A",
+    "codename": "keoneae"
   },
   {
     "brand": "DigiLand",
@@ -68542,6 +68562,11 @@
   {
     "brand": "IMARFLEX",
     "name": "imarflex 4K Google TV",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "IMARFLEX",
+    "name": "imarflex 4K Google TV-A",
     "codename": "keoneae"
   },
   {
@@ -117161,11 +117186,6 @@
   },
   {
     "brand": "Oppo",
-    "name": "A2m 5G",
-    "codename": "OP5A0D"
-  },
-  {
-    "brand": "Oppo",
     "name": "A2x 5G",
     "codename": "OP5A0D"
   },
@@ -117798,6 +117818,11 @@
     "brand": "Oppo",
     "name": "AX7",
     "codename": "CPH1903"
+  },
+  {
+    "brand": "Oppo",
+    "name": "A系列",
+    "codename": "OP5A0D"
   },
   {
     "brand": "Oppo",
@@ -134206,6 +134231,11 @@
   },
   {
     "brand": "Redmi",
+    "name": "Redmi Note 13 Pro+ 5G",
+    "codename": "zircon"
+  },
+  {
+    "brand": "Redmi",
     "name": "Redmi Note 7",
     "codename": "lavender"
   },
@@ -135028,6 +135058,11 @@
     "brand": "Rindo",
     "name": "R-32B6600",
     "codename": "ikebukuro"
+  },
+  {
+    "brand": "Rindo",
+    "name": "RINDO 2K Android TV",
+    "codename": "lasalle"
   },
   {
     "brand": "Rindo",
@@ -195443,6 +195478,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi 14 Pro",
     "codename": "shennong"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 14 Ultra",
+    "codename": "aurora"
   },
   {
     "brand": "Xiaomi",
