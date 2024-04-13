@@ -67847,6 +67847,11 @@
   {
     "brand": "Hyundai",
     "name": "HYUNDAI",
+    "codename": "bruno"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "HYUNDAI",
     "codename": "stanford"
   },
   {
@@ -77288,6 +77293,11 @@
     "brand": "KTCtv",
     "name": "HARMON-TEC",
     "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "IBG",
+    "codename": "lavender"
   },
   {
     "brand": "KTCtv",
@@ -116521,6 +116531,11 @@
   },
   {
     "brand": "OnePlus",
+    "name": "OnePlus Ace 3V",
+    "codename": "OP5CFBL1"
+  },
+  {
+    "brand": "OnePlus",
     "name": "OnePlus Ace 竞速版",
     "codename": "OP5911"
   },
@@ -134363,6 +134378,21 @@
     "brand": "Redmi",
     "name": "Redmi Pad",
     "codename": "yunluo"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Pad Pro",
+    "codename": "dizi"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Pad Pro",
+    "codename": "dizi"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Pad SE",
+    "codename": "xun"
   },
   {
     "brand": "Redmi",
@@ -155926,6 +155956,11 @@
   },
   {
     "brand": "Sharp",
+    "name": "Leitz Phone 3",
+    "codename": "KamilleL"
+  },
+  {
+    "brand": "Sharp",
     "name": "Leitz Phone1",
     "codename": "JudauL"
   },
@@ -163993,6 +164028,11 @@
     "brand": "Sunmi",
     "name": "Sunmi V2s",
     "codename": "V2s"
+  },
+  {
+    "brand": "Sunmi",
+    "name": "T3 PRO MAX",
+    "codename": "T3_PRO"
   },
   {
     "brand": "Sunmi",
@@ -186311,6 +186351,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "S18 Pro",
+    "codename": "PD2344"
+  },
+  {
+    "brand": "Vivo",
     "name": "T1",
     "codename": "V2154"
   },
@@ -187581,6 +187626,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "V30",
+    "codename": "V2318"
+  },
+  {
+    "brand": "Vivo",
     "name": "V30 Lite",
     "codename": "V2317"
   },
@@ -187973,6 +188023,11 @@
     "brand": "Vivo",
     "name": "Y17s",
     "codename": "V2310"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y18",
+    "codename": "V2333"
   },
   {
     "brand": "Vivo",
@@ -211013,6 +211068,11 @@
     "brand": "realme",
     "name": "真我GT Neo",
     "codename": "RMX3031CN"
+  },
+  {
+    "brand": "realme",
+    "name": "真我GT Neo6 SE",
+    "codename": "RE5C39L1"
   },
   {
     "brand": "realme",
