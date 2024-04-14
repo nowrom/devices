@@ -103226,6 +103226,11 @@
   },
   {
     "brand": "MobiIoT",
+    "name": "MobiGo",
+    "codename": "WM19"
+  },
+  {
+    "brand": "MobiIoT",
     "name": "MobiGo 2+",
     "codename": "MobiGo2P"
   },
@@ -155473,6 +155478,11 @@
     "brand": "Sharp",
     "name": "EQ3/DN5",
     "codename": "banqiao"
+  },
+  {
+    "brand": "Sharp",
+    "name": "EU",
+    "codename": "sindang"
   },
   {
     "brand": "Sharp",
