@@ -1,0 +1,9 @@
+brand = "Redmi"
+codename = "chopin"
+name = "Redmi Note 10 pro"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+xdathread = ""
+maintainer = "Anta1014"
