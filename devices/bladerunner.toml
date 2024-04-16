@@ -1,7 +1,12 @@
 brand = "Realme"
 codename = "bladerunner"
-name = "X50 Pro 5G"
+name = "Realme X50 Pro 5G"
 recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/crdroid-official"
+recovery = "https://devuploads.com/bc14pym5o4je"
 
 [[roms]]
 id = "evolutionx"

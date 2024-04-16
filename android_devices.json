@@ -112651,7 +112651,7 @@
   },
   {
     "brand": "Nebula",
-    "name": "Nebula_Capsule_2_V2",
+    "name": "Nebula_Capsule_3",
     "codename": "taihang"
   },
   {
@@ -117613,6 +117613,11 @@
     "brand": "Oppo",
     "name": "A59tm",
     "codename": "A59"
+  },
+  {
+    "brand": "Oppo",
+    "name": "A60",
+    "codename": "OP5AE7L1"
   },
   {
     "brand": "Oppo",
@@ -166011,6 +166016,11 @@
   },
   {
     "brand": "TCL",
+    "name": "TCL 50 SE",
+    "codename": "Ladybird"
+  },
+  {
+    "brand": "TCL",
     "name": "TCL 502",
     "codename": "Rio_CAN"
   },
@@ -191573,6 +191583,11 @@
     "brand": "Westgate Resorts",
     "name": "T803",
     "codename": "T803"
+  },
+  {
+    "brand": "Westgate Resorts",
+    "name": "T805",
+    "codename": "T805"
   },
   {
     "brand": "Westinghouse",
