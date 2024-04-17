@@ -195571,6 +195571,11 @@
   },
   {
     "brand": "Xiaomi",
+    "name": "Xiaomi 14 Ultra",
+    "codename": "aurora"
+  },
+  {
+    "brand": "Xiaomi",
     "name": "Xiaomi Civi",
     "codename": "mona"
   },

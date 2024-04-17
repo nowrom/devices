@@ -14,12 +14,6 @@ changelog = "Firmware and vendor require lastest MIUI Stable V12.2.10\r\n\r\n- S
 [[roms]]
 id = "cherishos"
 
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
 [specs]
 cpu = "Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585)"
 weight = "218 g (7.69 oz)"

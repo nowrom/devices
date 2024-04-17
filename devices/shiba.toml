@@ -9,12 +9,6 @@ gapps = ""
 recovery = "https://sourceforge.net/projects/crdroid/files/shiba/10.x/recovery/"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "lineageos"
 cpu = "Cortex-X3 & Cortex-A715 & Cortex-A510"
 ram = "8 GB"

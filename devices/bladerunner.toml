@@ -7,9 +7,3 @@ recoveries = []
 id = "crdroid"
 gapps = "https://nikgapps.com/crdroid-official"
 recovery = "https://devuploads.com/bc14pym5o4je"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"

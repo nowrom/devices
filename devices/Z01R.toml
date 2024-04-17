@@ -14,12 +14,6 @@ id = "blissroms"
 id = "cherishos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "lineageos"
 cpu = "Kryo 385"
 ram = "4/6/8 GB LPDDR4X"
