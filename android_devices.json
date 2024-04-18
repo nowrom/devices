@@ -35510,6 +35510,11 @@
     "codename": "P803"
   },
   {
+    "brand": "EGOBOO",
+    "name": "EB101",
+    "codename": "EB101"
+  },
+  {
     "brand": "EGOTEK",
     "name": "Mars8",
     "codename": "Mars8"
@@ -43268,6 +43273,11 @@
     "brand": "GP-electronic",
     "name": "YC-83T",
     "codename": "YC-83T"
+  },
+  {
+    "brand": "GPOA",
+    "name": "UAI PRO",
+    "codename": "UAI_PRO"
   },
   {
     "brand": "GREATASIA",
@@ -109031,6 +109041,11 @@
   },
   {
     "brand": "Multilaser",
+    "name": "DI01_M7_WIFI",
+    "codename": "DI01_M7_WIFI"
+  },
+  {
+    "brand": "Multilaser",
     "name": "Discovery",
     "codename": "Discovery"
   },
@@ -134401,8 +134416,8 @@
   },
   {
     "brand": "Redmi",
-    "name": "Redmi Pad SE",
-    "codename": "xun"
+    "name": "Redmi Pad Pro 5G",
+    "codename": "ruan"
   },
   {
     "brand": "Redmi",
@@ -134413,6 +134428,16 @@
     "brand": "Redmi",
     "name": "Redmi Pad SE",
     "codename": "xun"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Pad SE",
+    "codename": "xun"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi Turbo 3",
+    "codename": "peridot"
   },
   {
     "brand": "Redmi",
@@ -158598,6 +158623,11 @@
     "brand": "SmartPad",
     "name": "Smartpad-V10",
     "codename": "Smartpad-V10"
+  },
+  {
+    "brand": "Smart_Touch",
+    "name": "ST IR13",
+    "codename": "STG_IR13"
   },
   {
     "brand": "Smartab",
@@ -195583,6 +195613,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi Civi 1S",
     "codename": "zijin"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi Civi 4",
+    "codename": "chenfeng"
   },
   {
     "brand": "Xiaomi",
