@@ -11611,6 +11611,11 @@
   },
   {
     "brand": "Atozee",
+    "name": "P10",
+    "codename": "P10"
+  },
+  {
+    "brand": "Atozee",
     "name": "P70W",
     "codename": "P70W"
   },
@@ -17201,6 +17206,11 @@
   },
   {
     "brand": "Blackview",
+    "name": "BL9000 Pro",
+    "codename": "BL9000_Pro"
+  },
+  {
+    "brand": "Blackview",
     "name": "BV4000",
     "codename": "BV4000"
   },
@@ -17208,6 +17218,11 @@
     "brand": "Blackview",
     "name": "BV4000Pro_RU",
     "codename": "BV4000Pro"
+  },
+  {
+    "brand": "Blackview",
+    "name": "BV4800",
+    "codename": "BV4800"
   },
   {
     "brand": "Blackview",
@@ -17611,8 +17626,18 @@
   },
   {
     "brand": "Blackview",
+    "name": "COLOR 8",
+    "codename": "COLOR_8"
+  },
+  {
+    "brand": "Blackview",
     "name": "E7S",
     "codename": "E7s"
+  },
+  {
+    "brand": "Blackview",
+    "name": "HERO 10",
+    "codename": "HERO10"
   },
   {
     "brand": "Blackview",
@@ -17711,6 +17736,16 @@
   },
   {
     "brand": "Blackview",
+    "name": "Tab 16 Pro",
+    "codename": "Tab16_Pro"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Tab 16_Pro",
+    "codename": "Tab16_Pro"
+  },
+  {
+    "brand": "Blackview",
     "name": "Tab 3 Kids",
     "codename": "Tab3Kids"
   },
@@ -17758,6 +17793,11 @@
     "brand": "Blackview",
     "name": "Tab 80",
     "codename": "Tab80_RU"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Tab 9 WiFi",
+    "codename": "Tab_9_WiFi"
   },
   {
     "brand": "Blackview",
@@ -22013,6 +22053,11 @@
     "brand": "CMCC",
     "name": "M811",
     "codename": "m811hk"
+  },
+  {
+    "brand": "COCOMM",
+    "name": "COCOMM F900B",
+    "codename": "F900BN0101"
   },
   {
     "brand": "COCOMM",
@@ -30356,6 +30401,16 @@
   },
   {
     "brand": "DIALN",
+    "name": "NEO2024",
+    "codename": "NEO2024"
+  },
+  {
+    "brand": "DIALN",
+    "name": "NOVA2024",
+    "codename": "NOVA2024"
+  },
+  {
+    "brand": "DIALN",
     "name": "Neo",
     "codename": "Neo"
   },
@@ -30418,6 +30473,11 @@
     "brand": "DIALN",
     "name": "X62",
     "codename": "X62C"
+  },
+  {
+    "brand": "DIALN",
+    "name": "X62S",
+    "codename": "X62S"
   },
   {
     "brand": "DIALN",
@@ -34171,8 +34231,18 @@
   },
   {
     "brand": "Doogee",
+    "name": "T30 Mini",
+    "codename": "P3MiniTE_2"
+  },
+  {
+    "brand": "Doogee",
     "name": "T30Pro",
     "codename": "P3Pro"
+  },
+  {
+    "brand": "Doogee",
+    "name": "T30S",
+    "codename": "P3D_2"
   },
   {
     "brand": "Doogee",
@@ -34558,6 +34628,11 @@
     "brand": "Doopro",
     "name": "P4_Pro",
     "codename": "P4_Pro"
+  },
+  {
+    "brand": "Doopro",
+    "name": "Play 10 Pro",
+    "codename": "P3_Mini_TE"
   },
   {
     "brand": "Dopo",
@@ -40353,6 +40428,11 @@
     "brand": "Firehawk",
     "name": "FP-600",
     "codename": "FP-600"
+  },
+  {
+    "brand": "Firehawk",
+    "name": "Firehawk",
+    "codename": "ToughDroid_Pro"
   },
   {
     "brand": "Firehawk",
@@ -67862,6 +67942,11 @@
   {
     "brand": "Hyundai",
     "name": "HYUNDAI",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "HYUNDAI",
     "codename": "stanford"
   },
   {
@@ -73455,6 +73540,11 @@
     "codename": "IS930"
   },
   {
+    "brand": "Isafe",
+    "name": "IS940",
+    "codename": "IS940"
+  },
+  {
     "brand": "Iskon",
     "name": "Iskon.Play TV",
     "codename": "HY44G"
@@ -74408,6 +74498,11 @@
     "brand": "Itel",
     "name": "itel A49 Play",
     "codename": "itel-A631L"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel A50",
+    "codename": "itel-A667L"
   },
   {
     "brand": "Itel",
@@ -95031,6 +95126,11 @@
   },
   {
     "brand": "Lexibook",
+    "name": "LT10EN_09",
+    "codename": "LT10EN_09"
+  },
+  {
+    "brand": "Lexibook",
     "name": "\"LexiTab 10\"\"\"",
     "codename": "MFC512"
   },
@@ -115616,6 +115716,11 @@
   },
   {
     "brand": "OSCAL",
+    "name": "MODERN 8",
+    "codename": "MODERN_8"
+  },
+  {
+    "brand": "OSCAL",
     "name": "Pad 15",
     "codename": "Pad15"
   },
@@ -115626,8 +115731,18 @@
   },
   {
     "brand": "OSCAL",
+    "name": "Pad 16",
+    "codename": "Pad16"
+  },
+  {
+    "brand": "OSCAL",
     "name": "Pad 70",
     "codename": "Pad70_NEU"
+  },
+  {
+    "brand": "OSCAL",
+    "name": "Pad 80 WiFi",
+    "codename": "Pad_80_WiFi"
   },
   {
     "brand": "OSCAL",
@@ -124631,6 +124746,11 @@
   },
   {
     "brand": "Philco",
+    "name": "TP10A464",
+    "codename": "TP10A464"
+  },
+  {
+    "brand": "Philco",
     "name": "TP10F",
     "codename": "TP10F"
   },
@@ -125781,8 +125901,18 @@
   },
   {
     "brand": "Plimpton",
+    "name": "P70_14",
+    "codename": "P70_14"
+  },
+  {
+    "brand": "Plimpton",
     "name": "P8",
     "codename": "P8"
+  },
+  {
+    "brand": "Plimpton",
+    "name": "P8ProA14",
+    "codename": "P8ProA14"
   },
   {
     "brand": "Plimpton",
@@ -127473,6 +127603,11 @@
     "brand": "Positivo",
     "name": "quattro",
     "codename": "X435"
+  },
+  {
+    "brand": "Positivo BGH",
+    "name": "BGH Series Q10",
+    "codename": "M16QF1XMT8183"
   },
   {
     "brand": "Positivo BGH",
@@ -137208,6 +137343,11 @@
     "brand": "STARSHINE",
     "name": "STARSHINE 2K Google TV",
     "codename": "capitolhill"
+  },
+  {
+    "brand": "STE (A)",
+    "name": "S11",
+    "codename": "S11"
   },
   {
     "brand": "STF Mobile",
@@ -153328,6 +153468,11 @@
     "brand": "Samsung",
     "name": "领世旗舰8",
     "codename": "venenoltechn"
+  },
+  {
+    "brand": "Samtech",
+    "name": "MID_M1023",
+    "codename": "MID_M1023"
   },
   {
     "brand": "Samtech",
@@ -175641,6 +175786,16 @@
   },
   {
     "brand": "Teclast",
+    "name": "T50HD_EEA",
+    "codename": "T50HD"
+  },
+  {
+    "brand": "Teclast",
+    "name": "T50HD_ROW",
+    "codename": "T50HD"
+  },
+  {
+    "brand": "Teclast",
     "name": "T50Pro_W_EEA",
     "codename": "T50Pro_W_EEA"
   },
@@ -179101,6 +179256,11 @@
   },
   {
     "brand": "Topsand",
+    "name": "M8_U",
+    "codename": "M8_U"
+  },
+  {
+    "brand": "Topsand",
     "name": "N10",
     "codename": "N10_T"
   },
@@ -182226,6 +182386,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "UMIDIGI A16 Pro",
+    "codename": "A16_Pro"
+  },
+  {
+    "brand": "Umidigi",
     "name": "UMIDIGI C1",
     "codename": "UMIDIGI_C1"
   },
@@ -182303,6 +182468,16 @@
     "brand": "Umidigi",
     "name": "UMIDIGI G5C EEA",
     "codename": "UMIDIGI_G5C"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "UMIDIGI G7_5G",
+    "codename": "G7_5G"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "UMIDIGI G7_EEA",
+    "codename": "G7"
   },
   {
     "brand": "Umidigi",
@@ -183046,6 +183221,11 @@
   },
   {
     "brand": "VASOUN",
+    "name": "L10_A03",
+    "codename": "L10_A03"
+  },
+  {
+    "brand": "VASOUN",
     "name": "M7",
     "codename": "M7"
   },
@@ -183151,8 +183331,18 @@
   },
   {
     "brand": "VILLAON",
+    "name": "V20 SE",
+    "codename": "VILLAON_V20_SE"
+  },
+  {
+    "brand": "VILLAON",
     "name": "V30 RS",
     "codename": "VILLAON-V30-RS"
+  },
+  {
+    "brand": "VILLAON",
+    "name": "VILLAON V30",
+    "codename": "VILLAON-V30"
   },
   {
     "brand": "VIMOQ",
@@ -190125,6 +190315,11 @@
     "codename": "DV8220"
   },
   {
+    "brand": "Voo",
+    "name": "VOO Box",
+    "codename": "SEI700TMM"
+  },
+  {
     "brand": "Vorago",
     "name": "PAD-7",
     "codename": "PAD-7"
@@ -191568,6 +191763,11 @@
     "brand": "WeTek",
     "name": "WeTek",
     "codename": "wh220"
+  },
+  {
+    "brand": "Webee",
+    "name": "Webee_Tab_8",
+    "codename": "Webee_Tab_8"
   },
   {
     "brand": "Webfleet Solutions",
@@ -206441,6 +206641,11 @@
   },
   {
     "brand": "Zonko",
+    "name": "D105",
+    "codename": "D105"
+  },
+  {
+    "brand": "Zonko",
     "name": "D106",
     "codename": "D106"
   },
@@ -211273,6 +211478,11 @@
     "brand": "simpliTV",
     "name": "Strong-SRT4250",
     "codename": "HY43X"
+  },
+  {
+    "brand": "sincoole",
+    "name": "PAD-A7",
+    "codename": "Rugged_Tablet-A7"
   },
   {
     "brand": "sincoole",
