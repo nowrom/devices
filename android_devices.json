@@ -161,6 +161,11 @@
   },
   {
     "brand": "8849",
+    "name": "TANK MINI 1",
+    "codename": "TANK_MINI_1"
+  },
+  {
+    "brand": "8849",
     "name": "TANK2",
     "codename": "TANK2"
   },
@@ -1313,6 +1318,16 @@
     "brand": "ATM (Brazil)",
     "name": "R5_Pro",
     "codename": "R5_Pro"
+  },
+  {
+    "brand": "ATMPC",
+    "name": "IT_701A",
+    "codename": "IT_701A"
+  },
+  {
+    "brand": "ATMPC",
+    "name": "IT_701A_EEA",
+    "codename": "IT_701A_EEA"
   },
   {
     "brand": "ATOL",
@@ -4061,13 +4076,38 @@
   },
   {
     "brand": "Aermoo",
+    "name": "CM08",
+    "codename": "PT3_2"
+  },
+  {
+    "brand": "Aermoo",
+    "name": "DF10",
+    "codename": "M22PE"
+  },
+  {
+    "brand": "Aermoo",
     "name": "DF10 Pro",
     "codename": "M22G_2"
   },
   {
     "brand": "Aermoo",
+    "name": "PF10",
+    "codename": "M23HE_2"
+  },
+  {
+    "brand": "Aermoo",
+    "name": "PF20",
+    "codename": "ZN133SE"
+  },
+  {
+    "brand": "Aermoo",
     "name": "PF20 Pro",
     "codename": "ZN133TE"
+  },
+  {
+    "brand": "Aermoo",
+    "name": "RG Mini",
+    "codename": "ZN137E"
   },
   {
     "brand": "Aermoo",
@@ -6618,6 +6658,11 @@
     "brand": "Andersson",
     "name": "TBX10",
     "codename": "TBX10"
+  },
+  {
+    "brand": "AngelLira",
+    "name": "ALFP200",
+    "codename": "ALFP200"
   },
   {
     "brand": "AngelTech",
@@ -17241,6 +17286,11 @@
   },
   {
     "brand": "Blackview",
+    "name": "BL9000",
+    "codename": "BL9000"
+  },
+  {
+    "brand": "Blackview",
     "name": "BL9000 Pro",
     "codename": "BL9000_Pro"
   },
@@ -17501,6 +17551,11 @@
   },
   {
     "brand": "Blackview",
+    "name": "BV8900 Pro",
+    "codename": "BV8900_Pro"
+  },
+  {
+    "brand": "Blackview",
     "name": "BV9000",
     "codename": "BV9000"
   },
@@ -17678,6 +17733,11 @@
     "brand": "Blackview",
     "name": "MAX1",
     "codename": "MAX1"
+  },
+  {
+    "brand": "Blackview",
+    "name": "MEGA 1",
+    "codename": "MEGA_1"
   },
   {
     "brand": "Blackview",
@@ -25131,6 +25191,11 @@
   },
   {
     "brand": "Cipherlab",
+    "name": "RS38",
+    "codename": "RS38"
+  },
+  {
+    "brand": "Cipherlab",
     "name": "RS51_HS",
     "codename": "RS51_HS"
   },
@@ -26946,6 +27011,11 @@
   },
   {
     "brand": "Contixo",
+    "name": "V10M",
+    "codename": "V10M"
+  },
+  {
+    "brand": "Contixo",
     "name": "V10S",
     "codename": "V10S"
   },
@@ -26958,6 +27028,11 @@
     "brand": "Contixo",
     "name": "V11",
     "codename": "V11"
+  },
+  {
+    "brand": "Contixo",
+    "name": "V8",
+    "codename": "V8_A"
   },
   {
     "brand": "Contixo",
@@ -31365,6 +31440,11 @@
     "codename": "Signature-S8"
   },
   {
+    "brand": "Daria",
+    "name": "zahedan",
+    "codename": "zahedan"
+  },
+  {
     "brand": "Datalogic",
     "name": "Datalogic MEMOR 10",
     "codename": "dl35"
@@ -33961,6 +34041,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "N50 Plus",
+    "codename": "1918P"
+  },
+  {
+    "brand": "Doogee",
     "name": "N50S",
     "codename": "1918D"
   },
@@ -33993,6 +34078,11 @@
     "brand": "Doogee",
     "name": "R10",
     "codename": "PT1"
+  },
+  {
+    "brand": "Doogee",
+    "name": "R20",
+    "codename": "PT2"
   },
   {
     "brand": "Doogee",
@@ -34391,6 +34481,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "V Max Pro",
+    "codename": "M23HC"
+  },
+  {
+    "brand": "Doogee",
     "name": "V10",
     "codename": "V10"
   },
@@ -34426,6 +34521,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "V30Pro",
+    "codename": "M23U"
+  },
+  {
+    "brand": "Doogee",
     "name": "V30T",
     "codename": "M23T"
   },
@@ -34433,6 +34533,11 @@
     "brand": "Doogee",
     "name": "V31GT",
     "codename": "M23S"
+  },
+  {
+    "brand": "Doogee",
+    "name": "V40",
+    "codename": "ZN138"
   },
   {
     "brand": "Doogee",
@@ -34713,6 +34818,16 @@
     "brand": "Doopro",
     "name": "C1_Pro",
     "codename": "C1_Pro"
+  },
+  {
+    "brand": "Doopro",
+    "name": "G11",
+    "codename": "P4_2"
+  },
+  {
+    "brand": "Doopro",
+    "name": "G20",
+    "codename": "P1TE"
   },
   {
     "brand": "Doopro",
@@ -36133,6 +36248,16 @@
     "brand": "ELO Touch",
     "name": "\"I-Series Pay 7\"\"\"",
     "codename": "7in-I-Series-Pay"
+  },
+  {
+    "brand": "ELO Touch",
+    "name": "M100",
+    "codename": "M100"
+  },
+  {
+    "brand": "ELO Touch",
+    "name": "M100C",
+    "codename": "M100C"
   },
   {
     "brand": "ELO Touch",
@@ -40041,8 +40166,18 @@
   },
   {
     "brand": "FOXXD",
+    "name": "A65M",
+    "codename": "A65M"
+  },
+  {
+    "brand": "FOXXD",
     "name": "A65Plus",
     "codename": "A65Plus"
+  },
+  {
+    "brand": "FOXXD",
+    "name": "A6_Plus",
+    "codename": "A6_Plus"
   },
   {
     "brand": "FOXXD",
@@ -43445,6 +43580,11 @@
     "codename": "DongleTV1"
   },
   {
+    "brand": "GOMDUSA",
+    "name": "X23",
+    "codename": "X23"
+  },
+  {
     "brand": "GOODTEL",
     "name": "G10_EEA",
     "codename": "G10_EEA"
@@ -46170,6 +46310,11 @@
     "codename": "SEI700STL"
   },
   {
+    "brand": "Goally",
+    "name": "P3_8",
+    "codename": "P3_8"
+  },
+  {
     "brand": "Gobox",
     "name": "T2",
     "codename": "T2"
@@ -47862,6 +48007,11 @@
   {
     "brand": "HORIZON",
     "name": "ID65HZA3B1_C",
+    "codename": "Interactive_White_Board"
+  },
+  {
+    "brand": "HORIZON",
+    "name": "ID75HZA3B1_C",
     "codename": "Interactive_White_Board"
   },
   {
@@ -76796,6 +76946,11 @@
   },
   {
     "brand": "KEMPLER STRAUSS",
+    "name": "ZKEMPLERMAX",
+    "codename": "ZKEMPLERMAX"
+  },
+  {
+    "brand": "KEMPLER STRAUSS",
     "name": "ZKEMPLER_11",
     "codename": "ZKEMPLER_11"
   },
@@ -76806,8 +76961,23 @@
   },
   {
     "brand": "KENSHI",
+    "name": "Armor H1s",
+    "codename": "Armor_H1s"
+  },
+  {
+    "brand": "KENSHI",
     "name": "Armor I1 Slim",
     "codename": "Armor_I1_Slim"
+  },
+  {
+    "brand": "KENSHI",
+    "name": "Armor I1w",
+    "codename": "Armor_I1w"
+  },
+  {
+    "brand": "KENSHI",
+    "name": "Armor_C1w_RU",
+    "codename": "Armor_C1w"
   },
   {
     "brand": "KENSHI",
@@ -97646,6 +97816,11 @@
   },
   {
     "brand": "MINDEO",
+    "name": "M50_EEA",
+    "codename": "M50_EEA"
+  },
+  {
+    "brand": "MINDEO",
     "name": "MS8389",
     "codename": "MS8389"
   },
@@ -99783,6 +99958,11 @@
     "brand": "Maxwest",
     "name": "MX-N62",
     "codename": "MX-NN62WW01"
+  },
+  {
+    "brand": "Maxwest",
+    "name": "MX-N63",
+    "codename": "MX-N63"
   },
   {
     "brand": "Maxwest",
@@ -114846,6 +115026,11 @@
   },
   {
     "brand": "Nomu",
+    "name": "G300",
+    "codename": "G300"
+  },
+  {
+    "brand": "Nomu",
     "name": "G500",
     "codename": "G500"
   },
@@ -115968,6 +116153,11 @@
     "brand": "OSCAL",
     "name": "Pad 16",
     "codename": "Pad16"
+  },
+  {
+    "brand": "OSCAL",
+    "name": "Pad 7",
+    "codename": "Pad_7"
   },
   {
     "brand": "OSCAL",
@@ -121416,6 +121606,11 @@
   },
   {
     "brand": "Oukitel",
+    "name": "RT3_T_EEA",
+    "codename": "RT3"
+  },
+  {
+    "brand": "Oukitel",
     "name": "RT5_EEA",
     "codename": "RT5"
   },
@@ -121423,6 +121618,16 @@
     "brand": "Oukitel",
     "name": "RT6_EEA",
     "codename": "RT6"
+  },
+  {
+    "brand": "Oukitel",
+    "name": "RT6_NFC_EEA",
+    "codename": "RT6"
+  },
+  {
+    "brand": "Oukitel",
+    "name": "RT8_EEA",
+    "codename": "RT8"
   },
   {
     "brand": "Oukitel",
@@ -121666,8 +121871,18 @@
   },
   {
     "brand": "Oukitel",
+    "name": "WP33_Pro_EEA",
+    "codename": "WP33_Pro"
+  },
+  {
+    "brand": "Oukitel",
     "name": "WP36_EEA",
     "codename": "WP36"
+  },
+  {
+    "brand": "Oukitel",
+    "name": "WP38_EEA",
+    "codename": "WP38"
   },
   {
     "brand": "Oukitel",
@@ -122158,6 +122373,11 @@
     "brand": "PCD LLC",
     "name": "P41PR",
     "codename": "P41PR"
+  },
+  {
+    "brand": "PCD LLC",
+    "name": "P62",
+    "codename": "P62"
   },
   {
     "brand": "PCD LLC",
@@ -125166,6 +125386,11 @@
   },
   {
     "brand": "Philips",
+    "name": "PHILIPS S7710",
+    "codename": "PHILIPS-S7710"
+  },
+  {
+    "brand": "Philips",
     "name": "PHILIPS TV",
     "codename": "cocina"
   },
@@ -126116,6 +126341,11 @@
   },
   {
     "brand": "Plimpton",
+    "name": "Kids20_EEA",
+    "codename": "Kids20_EEA"
+  },
+  {
+    "brand": "Plimpton",
     "name": "Kids_10",
     "codename": "Kids_10"
   },
@@ -126158,6 +126388,11 @@
     "brand": "Plimpton",
     "name": "P8ProA14",
     "codename": "P8ProA14"
+  },
+  {
+    "brand": "Plimpton",
+    "name": "P8Pro_EEA",
+    "codename": "P8Pro_EEA"
   },
   {
     "brand": "Plimpton",
@@ -130021,6 +130256,11 @@
   },
   {
     "brand": "Pritom",
+    "name": "M10_A06_EEA",
+    "codename": "M10_A06_EEA"
+  },
+  {
+    "brand": "Pritom",
     "name": "M10_Air",
     "codename": "M10_Air"
   },
@@ -130041,13 +130281,28 @@
   },
   {
     "brand": "Pritom",
+    "name": "M10_B02",
+    "codename": "M10_B02"
+  },
+  {
+    "brand": "Pritom",
     "name": "M10_B02_EEA",
     "codename": "M10_B02_EEA"
   },
   {
     "brand": "Pritom",
+    "name": "M10_B03",
+    "codename": "M10_B03"
+  },
+  {
+    "brand": "Pritom",
     "name": "M10_B03_EEA",
     "codename": "M10_B03_EEA"
+  },
+  {
+    "brand": "Pritom",
+    "name": "M10_C04_EEA",
+    "codename": "M10_C04_EEA"
   },
   {
     "brand": "Pritom",
@@ -136118,6 +136373,11 @@
     "brand": "SAIET",
     "name": "STS601",
     "codename": "STS601"
+  },
+  {
+    "brand": "SAIET",
+    "name": "STS602",
+    "codename": "STS602"
   },
   {
     "brand": "SAKAISIO",
@@ -157822,7 +158082,17 @@
   {
     "brand": "Sky Devices",
     "name": "Elite A63Max",
+    "codename": "Elite_A63B_Max_B"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "Elite A63Max",
     "codename": "Elite_A63MUS"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "Elite A63Max",
+    "codename": "Elite_A63_D_Max_D"
   },
   {
     "brand": "Sky Devices",
@@ -182086,6 +182356,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "A15_Pro",
+    "codename": "A15_Pro"
+  },
+  {
+    "brand": "Umidigi",
     "name": "A15_Pro_EEA",
     "codename": "A15_Pro"
   },
@@ -182471,6 +182746,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "G1_Tab_Mini_EEA",
+    "codename": "G1_Tab_Mini_EEA"
+  },
+  {
+    "brand": "Umidigi",
     "name": "G2",
     "codename": "UMIDIGI_G2"
   },
@@ -182533,6 +182813,11 @@
     "brand": "Umidigi",
     "name": "G6_Tab",
     "codename": "G6_Tab"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "G6_Tab_EEA",
+    "codename": "G6_Tab_EEA"
   },
   {
     "brand": "Umidigi",
@@ -182793,6 +183078,11 @@
     "brand": "Umidigi",
     "name": "UMIDIGI G6",
     "codename": "G6"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "UMIDIGI G6 5G",
+    "codename": "G6_5G"
   },
   {
     "brand": "Umidigi",
@@ -183873,6 +184163,11 @@
     "brand": "VOLIA",
     "name": "VOL001",
     "codename": "VOL001"
+  },
+  {
+    "brand": "VORCOM",
+    "name": "AVALON",
+    "codename": "AVALON"
   },
   {
     "brand": "VORCOM",
@@ -188523,6 +188818,11 @@
     "brand": "Vivo",
     "name": "Y100",
     "codename": "V2239"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y100",
+    "codename": "V2342"
   },
   {
     "brand": "Vivo",
@@ -193836,6 +194136,11 @@
   },
   {
     "brand": "Wise-Tech",
+    "name": "P55",
+    "codename": "P55"
+  },
+  {
+    "brand": "Wise-Tech",
     "name": "Tech_A1_Plus",
     "codename": "Tech_A1_Plus"
   },
@@ -194586,6 +194891,11 @@
   },
   {
     "brand": "X-mobile",
+    "name": "X63Pro",
+    "codename": "X_63_B_ProB"
+  },
+  {
+    "brand": "X-mobile",
     "name": "XW",
     "codename": "XW"
   },
@@ -194708,6 +195018,11 @@
     "brand": "Xelex",
     "name": "Gama_Tab_X8",
     "codename": "Gama_Tab_X8"
+  },
+  {
+    "brand": "Xgody",
+    "name": "N02_A",
+    "codename": "N02_A"
   },
   {
     "brand": "Xgody",
@@ -209581,6 +209896,11 @@
   },
   {
     "brand": "iMACHINE",
+    "name": "iMACHINE AP02 PLUS",
+    "codename": "AP02_PLUS"
+  },
+  {
+    "brand": "iMACHINE",
     "name": "iMachine AP12",
     "codename": "AP12"
   },
@@ -209593,6 +209913,11 @@
     "brand": "iMESH",
     "name": "IM-560",
     "codename": "IM-560"
+  },
+  {
+    "brand": "iMin",
+    "name": "Crane1-16",
+    "codename": "Crane1"
   },
   {
     "brand": "iMin",
