@@ -61,6 +61,11 @@
   },
   {
     "brand": "2E (ERC)",
+    "name": "2E 2K Google TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "2E (ERC)",
     "name": "2E 4K Google TV",
     "codename": "keoneae"
   },
@@ -22248,6 +22253,11 @@
     "brand": "COOKIE",
     "name": "YS-CK0001",
     "codename": "YS-CK0001"
+  },
+  {
+    "brand": "COOLFAN",
+    "name": "C107",
+    "codename": "C107"
   },
   {
     "brand": "COOLFAN",
@@ -68292,6 +68302,21 @@
   {
     "brand": "Hyundai",
     "name": "HYUNDAI",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "HYUNDAI",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "HYUNDAI",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "HYUNDAI",
     "codename": "lavender"
   },
   {
@@ -75866,6 +75891,11 @@
   },
   {
     "brand": "JVC",
+    "name": "JVC G24 TV",
+    "codename": "anaheim"
+  },
+  {
+    "brand": "JVC",
     "name": "JVC J20",
     "codename": "Cunda"
   },
@@ -77778,6 +77808,11 @@
     "brand": "KTCtv",
     "name": "IBG",
     "codename": "lavender"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "IHOME",
+    "codename": "hongkong"
   },
   {
     "brand": "KTCtv",
@@ -80453,6 +80488,16 @@
     "brand": "Kruger&Matz",
     "name": "Flow_9_EEA",
     "codename": "Flow_9"
+  },
+  {
+    "brand": "Kruger&Matz",
+    "name": "KM 2K TV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "Kruger&Matz",
+    "name": "KM 4K TV",
+    "codename": "keoneae"
   },
   {
     "brand": "Kruger&Matz",
@@ -116101,6 +116146,11 @@
   },
   {
     "brand": "ORION",
+    "name": "Doshisha 2K Smart TV",
+    "codename": "umeda"
+  },
+  {
+    "brand": "ORION",
     "name": "Smart TV",
     "codename": "longshan"
   },
@@ -132746,6 +132796,16 @@
   },
   {
     "brand": "RCA",
+    "name": "RCA TV 2K-A",
+    "codename": "lasalle"
+  },
+  {
+    "brand": "RCA",
+    "name": "RCA TV 4K G",
+    "codename": "keoneae"
+  },
+  {
+    "brand": "RCA",
     "name": "RCARENO5011619",
     "codename": "RCARENO5011619"
   },
@@ -138652,6 +138712,11 @@
   {
     "brand": "SWTV",
     "name": "SWTV-22COL-4K",
+    "codename": "anaheim"
+  },
+  {
+    "brand": "SWTV",
+    "name": "SWTV-22HK-4K",
     "codename": "anaheim"
   },
   {
@@ -156906,6 +156971,26 @@
   },
   {
     "brand": "Sharp",
+    "name": "SHARP 4K TV",
+    "codename": "anaheim"
+  },
+  {
+    "brand": "Sharp",
+    "name": "SHARP 4K TVH",
+    "codename": "anaheim"
+  },
+  {
+    "brand": "Sharp",
+    "name": "SHARP 4K TVT",
+    "codename": "anaheim"
+  },
+  {
+    "brand": "Sharp",
+    "name": "SHARP 4K TVT",
+    "codename": "anaheim"
+  },
+  {
+    "brand": "Sharp",
     "name": "SHARP A2 Lite",
     "codename": "SJ3"
   },
@@ -159698,6 +159783,11 @@
     "brand": "Solone",
     "name": "W1452",
     "codename": "W1452"
+  },
+  {
+    "brand": "Soneview",
+    "name": "SONEVIEW",
+    "codename": "hongkong"
   },
   {
     "brand": "Soneview",
@@ -165198,6 +165288,11 @@
     "brand": "Syinix",
     "name": "Glory TV",
     "codename": "SW6H"
+  },
+  {
+    "brand": "Syinix",
+    "name": "Glory TV",
+    "codename": "umeda"
   },
   {
     "brand": "Syinix",
@@ -211158,6 +211253,11 @@
     "brand": "realme",
     "name": "RMX3834",
     "codename": "RE5C9F"
+  },
+  {
+    "brand": "realme",
+    "name": "RMX3998",
+    "codename": "RE5C94L1"
   },
   {
     "brand": "realme",
