@@ -830,6 +830,11 @@
     "codename": "A97GT_Pro"
   },
   {
+    "brand": "ALPINE",
+    "name": "Intelligent vehicle network system",
+    "codename": "INE-AW409S"
+  },
+  {
     "brand": "ALT(IN)",
     "name": "ODIN Kids Phone",
     "codename": "odin"
@@ -47045,6 +47050,11 @@
     "codename": "bravo"
   },
   {
+    "brand": "Graetz",
+    "name": "GRAETZ",
+    "codename": "lavender"
+  },
+  {
     "brand": "Grandstream",
     "name": "Grandstream WP856",
     "codename": "WP856"
@@ -56048,6 +56058,11 @@
     "brand": "Hisense",
     "name": "Hisense U50",
     "codename": "HLTE233E_10"
+  },
+  {
+    "brand": "Hisense",
+    "name": "Hisense U605",
+    "codename": "HS7731ESP"
   },
   {
     "brand": "Hisense",
@@ -207831,6 +207846,11 @@
   },
   {
     "brand": "Zuum",
+    "name": "SENS_CURVE",
+    "codename": "SENS_CURVE"
+  },
+  {
+    "brand": "Zuum",
     "name": "STELLAR",
     "codename": "STELLAR"
   },
@@ -211256,6 +211276,11 @@
   },
   {
     "brand": "realme",
+    "name": "RMX3997",
+    "codename": "RE5C9AL1"
+  },
+  {
+    "brand": "realme",
     "name": "RMX3998",
     "codename": "RE5C94L1"
   },
@@ -211411,6 +211436,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme 12 Lite",
+    "codename": "RE5C91L1"
+  },
+  {
+    "brand": "realme",
     "name": "realme 12 Pro 5G",
     "codename": "RE5C84L1"
   },
@@ -211423,6 +211453,11 @@
     "brand": "realme",
     "name": "realme 12+ 5G",
     "codename": "RE5C86L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme 12x 5G",
+    "codename": "RE5C9AL1"
   },
   {
     "brand": "realme",
@@ -211721,6 +211756,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme C65",
+    "codename": "RE5C42"
+  },
+  {
+    "brand": "realme",
     "name": "realme C67",
     "codename": "RE5C91L1"
   },
@@ -211808,6 +211848,16 @@
     "brand": "realme",
     "name": "realme Note 50",
     "codename": "RE5C9F"
+  },
+  {
+    "brand": "realme",
+    "name": "realme P1 5G",
+    "codename": "RE5C86L1"
+  },
+  {
+    "brand": "realme",
+    "name": "realme P1 Pro 5G",
+    "codename": "RE5C84L1"
   },
   {
     "brand": "realme",
@@ -212098,6 +212148,11 @@
     "brand": "realme",
     "name": "真我12 Pro+",
     "codename": "RE5C3B"
+  },
+  {
+    "brand": "realme",
+    "name": "真我12x",
+    "codename": "RE5C3F"
   },
   {
     "brand": "realme",

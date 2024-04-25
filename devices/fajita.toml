@@ -16,7 +16,7 @@ id = "cherishos"
 [[roms]]
 id = "crdroid"
 gapps = "https://nikgapps.com/crdroid-official"
-recovery = "https://sourceforge.net/projects/crdroid/files/fajita/10.x/crDroidAndroid-14.0-20240215-fajita-v10.2_boot.img/download"
+recovery = "https://sourceforge.net/projects/crdroid/files/fajita/10.x/crDroidAndroid-14.0-20240423-fajita-v10.2_boot.img/download"
 
 [[roms]]
 id = "dotos"
