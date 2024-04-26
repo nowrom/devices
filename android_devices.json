@@ -421,6 +421,11 @@
   },
   {
     "brand": "ADOC",
+    "name": "D40",
+    "codename": "D40"
+  },
+  {
+    "brand": "ADOC",
     "name": "M3",
     "codename": "M3"
   },
@@ -22266,6 +22271,11 @@
   },
   {
     "brand": "COOLFAN",
+    "name": "C107_EEA",
+    "codename": "C107"
+  },
+  {
+    "brand": "COOLFAN",
     "name": "OC106",
     "codename": "OC106"
   },
@@ -25750,6 +25760,11 @@
     "codename": "OTTTAB2"
   },
   {
+    "brand": "Cloud_Mobile",
+    "name": "Stratus_C8",
+    "codename": "Stratus_C8"
+  },
+  {
     "brand": "Clout",
     "name": "Hind 5.1",
     "codename": "Hind_5_1"
@@ -26118,6 +26133,21 @@
     "brand": "Compaq",
     "name": "QTAB",
     "codename": "QTAB"
+  },
+  {
+    "brand": "Compaq",
+    "name": "QTAB10_1",
+    "codename": "QTAB10_1"
+  },
+  {
+    "brand": "Compaq",
+    "name": "QTAB10_1",
+    "codename": "QTAB10_1"
+  },
+  {
+    "brand": "Compaq",
+    "name": "QTAB8",
+    "codename": "QTAB8"
   },
   {
     "brand": "Compaq",
@@ -31636,6 +31666,11 @@
   },
   {
     "brand": "Dcode",
+    "name": "DS_BD4_Pro",
+    "codename": "DS_BD4_Pro"
+  },
+  {
+    "brand": "Dcode",
     "name": "DS_CL1",
     "codename": "DS_CL1"
   },
@@ -31648,6 +31683,16 @@
     "brand": "Dcode",
     "name": "DS_CL2_Pro",
     "codename": "DS_CL2_Pro"
+  },
+  {
+    "brand": "Dcode",
+    "name": "DS_CL4_Lite_C",
+    "codename": "DS_CL4_Lite"
+  },
+  {
+    "brand": "Dcode",
+    "name": "DS_CL4_Pro",
+    "codename": "DS_CL4_Pro"
   },
   {
     "brand": "Dcolor",
@@ -39741,6 +39786,11 @@
   },
   {
     "brand": "FACETEL",
+    "name": "Q10_T_US",
+    "codename": "Q10_T_US"
+  },
+  {
+    "brand": "FACETEL",
     "name": "Q3-EEA",
     "codename": "Q3-EEA"
   },
@@ -43628,6 +43678,11 @@
     "brand": "GOODTEL",
     "name": "G2_EEA",
     "codename": "G2_EEA"
+  },
+  {
+    "brand": "GOODTEL",
+    "name": "G2_U_EEA",
+    "codename": "G2_U_EEA"
   },
   {
     "brand": "GOODTEL",
@@ -47696,6 +47751,11 @@
   },
   {
     "brand": "HEADWOLF",
+    "name": "W5A",
+    "codename": "W5A"
+  },
+  {
+    "brand": "HEADWOLF",
     "name": "WPAD2",
     "codename": "WPAD2"
   },
@@ -47758,6 +47818,11 @@
     "brand": "HIMADE",
     "name": "UHD Android TV",
     "codename": "sindorim"
+  },
+  {
+    "brand": "HISORL",
+    "name": "TAB10_EEA",
+    "codename": "TAB10_EEA"
   },
   {
     "brand": "HKC",
@@ -53336,6 +53401,11 @@
   },
   {
     "brand": "HannSpree",
+    "name": "HSD0001A",
+    "codename": "Reader"
+  },
+  {
+    "brand": "HannSpree",
     "name": "HSG1279",
     "codename": "HANNSpad"
   },
@@ -53798,6 +53868,11 @@
     "brand": "Hiking",
     "name": "A44",
     "codename": "A44"
+  },
+  {
+    "brand": "Hiking",
+    "name": "A45",
+    "codename": "A45"
   },
   {
     "brand": "Hiking",
@@ -57953,6 +58028,11 @@
     "brand": "Hometech",
     "name": "ALFA_10BT",
     "codename": "ALFA_10BT"
+  },
+  {
+    "brand": "Hometech",
+    "name": "ALFA_10BT_V2",
+    "codename": "ALFA_10BT_V2"
   },
   {
     "brand": "Hometech",
@@ -67845,6 +67925,11 @@
     "codename": "DV8038"
   },
   {
+    "brand": "Hyper",
+    "name": "Hera",
+    "codename": "Hyper"
+  },
+  {
     "brand": "Hytel",
     "name": "HOT MINI",
     "codename": "HOT_MINI"
@@ -69428,6 +69513,16 @@
     "brand": "INOI",
     "name": "INOI_7i",
     "codename": "INOI_7i"
+  },
+  {
+    "brand": "INOI",
+    "name": "INOI_A14",
+    "codename": "INOI_A14"
+  },
+  {
+    "brand": "INOI",
+    "name": "INOI_A14E",
+    "codename": "INOI_A14"
   },
   {
     "brand": "INOI",
@@ -74181,6 +74276,11 @@
   },
   {
     "brand": "Itel",
+    "name": "A58 lite",
+    "codename": "itel-A631W"
+  },
+  {
+    "brand": "Itel",
     "name": "A62",
     "codename": "itel-A62"
   },
@@ -74336,6 +74436,11 @@
   },
   {
     "brand": "Itel",
+    "name": "Pad-2",
+    "codename": "itel-Pad-2"
+  },
+  {
+    "brand": "Itel",
     "name": "Pad1",
     "codename": "itel-P10001L"
   },
@@ -74446,6 +74551,16 @@
   },
   {
     "brand": "Itel",
+    "name": "VIMOQ A19S",
+    "codename": "VIMOQ-A507LA"
+  },
+  {
+    "brand": "Itel",
+    "name": "VIMOQ A19S",
+    "codename": "VIMOQ-A507LT"
+  },
+  {
+    "brand": "Itel",
     "name": "Vision 3",
     "codename": "itel-S661LP"
   },
@@ -74468,6 +74583,11 @@
     "brand": "Itel",
     "name": "Vision1Pro",
     "codename": "itel-L6502"
+  },
+  {
+    "brand": "Itel",
+    "name": "W4001S",
+    "codename": "itel-W4001S"
   },
   {
     "brand": "Itel",
@@ -74651,6 +74771,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel  A48",
+    "codename": "itel-L6006F"
+  },
+  {
+    "brand": "Itel",
     "name": "itel  A58 Lite",
     "codename": "itel-A631W-R2"
   },
@@ -74678,6 +74803,11 @@
     "brand": "Itel",
     "name": "itel A04",
     "codename": "itel-A632WM"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel A04s",
+    "codename": "itel-A632L"
   },
   {
     "brand": "Itel",
@@ -74792,6 +74922,11 @@
   {
     "brand": "Itel",
     "name": "itel A24",
+    "codename": "itel-A507LN"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel A24",
     "codename": "itel-A507LS"
   },
   {
@@ -74803,6 +74938,11 @@
     "brand": "Itel",
     "name": "itel A24 2023",
     "codename": "itel-A507LC"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel A24 2023",
+    "codename": "itel-A507LNP"
   },
   {
     "brand": "Itel",
@@ -74966,6 +75106,11 @@
   },
   {
     "brand": "Itel",
+    "name": "itel A58 lite",
+    "codename": "itel-A631W-R2"
+  },
+  {
+    "brand": "Itel",
     "name": "itel A60",
     "codename": "itel-A662L"
   },
@@ -74976,13 +75121,28 @@
   },
   {
     "brand": "Itel",
+    "name": "itel A60S",
+    "codename": "itel-A662LM"
+  },
+  {
+    "brand": "Itel",
     "name": "itel A60s",
     "codename": "itel-A662LM"
   },
   {
     "brand": "Itel",
+    "name": "itel A662L",
+    "codename": "itel-A662L"
+  },
+  {
+    "brand": "Itel",
     "name": "itel AC12",
     "codename": "itel-A14"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel AC13",
+    "codename": "itel-W4001"
   },
   {
     "brand": "Itel",
@@ -75002,7 +75162,17 @@
   {
     "brand": "Itel",
     "name": "itel AC50",
+    "codename": "itel-A507LMO"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel AC50",
     "codename": "itel-L5007D"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel AC50 Pro",
+    "codename": "itel-A507LMO"
   },
   {
     "brand": "Itel",
@@ -75201,6 +75371,16 @@
   },
   {
     "brand": "Itel",
+    "name": "itel V52 lite",
+    "codename": "itel-A507LV"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel V52A",
+    "codename": "itel-A507LX"
+  },
+  {
+    "brand": "Itel",
     "name": "itel V52LTE",
     "codename": "itel-A507LV"
   },
@@ -75328,6 +75508,11 @@
     "brand": "Itel",
     "name": "itel-L5007S",
     "codename": "itel-L5007S"
+  },
+  {
+    "brand": "Itel",
+    "name": "itel-Pad-2",
+    "codename": "itel-Pad-2"
   },
   {
     "brand": "Itworks",
@@ -77038,6 +77223,11 @@
     "brand": "KENSHI",
     "name": "Armor_P1s",
     "codename": "Armor_P1s"
+  },
+  {
+    "brand": "KENSHI",
+    "name": "E10",
+    "codename": "E10"
   },
   {
     "brand": "KENSHI",
@@ -78805,6 +78995,16 @@
     "codename": "KA7Q3"
   },
   {
+    "brand": "KateMedia",
+    "name": "KT-2-EEA",
+    "codename": "KT-2-EEA"
+  },
+  {
+    "brand": "KateMedia",
+    "name": "KT-2-other",
+    "codename": "KT-2-other"
+  },
+  {
     "brand": "Kbro",
     "name": "A0_S905X2",
     "codename": "sti6160d19"
@@ -79971,6 +80171,11 @@
   },
   {
     "brand": "Kogan",
+    "name": "KATB21064CPA",
+    "codename": "KATB21064CPA"
+  },
+  {
+    "brand": "Kogan",
     "name": "Kogan 4K Android TV",
     "codename": "SW4H"
   },
@@ -80493,6 +80698,16 @@
     "brand": "Kruger&Matz",
     "name": "FLOW7",
     "codename": "FLOW7"
+  },
+  {
+    "brand": "Kruger&Matz",
+    "name": "FLOW_11_EEA",
+    "codename": "FLOW_11"
+  },
+  {
+    "brand": "Kruger&Matz",
+    "name": "FLOW_11_NF_EEA",
+    "codename": "FLOW_11"
   },
   {
     "brand": "Kruger&Matz",
@@ -97946,6 +98161,11 @@
   },
   {
     "brand": "MIRAY",
+    "name": "TM4G_1006",
+    "codename": "TM4G_1006"
+  },
+  {
+    "brand": "MIRAY",
     "name": "TPM4G_105",
     "codename": "TPM4G_105"
   },
@@ -101655,6 +101875,11 @@
     "codename": "Mengaltab_Echague_anzatech"
   },
   {
+    "brand": "Mengdash",
+    "name": "M_Q58_EEA",
+    "codename": "M_Q58_EEA"
+  },
+  {
     "brand": "Metro",
     "name": "E2",
     "codename": "E2"
@@ -101721,6 +101946,16 @@
   },
   {
     "brand": "MiTAC",
+    "name": "hera_pro",
+    "codename": "hera_pro"
+  },
+  {
+    "brand": "MiTAC",
+    "name": "hera_pro_eea",
+    "codename": "hera_pro"
+  },
+  {
+    "brand": "MiTAC",
     "name": "phaeton",
     "codename": "phaeton"
   },
@@ -101728,6 +101963,16 @@
     "brand": "MicroTouch",
     "name": "IDC_Series",
     "codename": "IDC_Series"
+  },
+  {
+    "brand": "MicroTouch",
+    "name": "M1_IC0_N702",
+    "codename": "MACH_10"
+  },
+  {
+    "brand": "MicroTouch",
+    "name": "M1_IC1_N700_4G",
+    "codename": "IDC_Series_4G"
   },
   {
     "brand": "Micromax",
@@ -112205,6 +112450,11 @@
     "codename": "NexaN5a"
   },
   {
+    "brand": "NEXWIN",
+    "name": "interactive flat panel display",
+    "codename": "IFPD_RK3588"
+  },
+  {
     "brand": "NGM Italia SRL",
     "name": "Android TV",
     "codename": "R1"
@@ -114118,6 +114368,11 @@
     "brand": "Nobrand",
     "name": "Nobrand",
     "codename": "stanford"
+  },
+  {
+    "brand": "Noel",
+    "name": "MBW100",
+    "codename": "MBW100"
   },
   {
     "brand": "Nokia",
@@ -116575,6 +116830,11 @@
     "codename": "Octopus_One"
   },
   {
+    "brand": "Odea",
+    "name": "S11_ROW",
+    "codename": "S11_ROW"
+  },
+  {
     "brand": "Odido",
     "name": "4K TV Box",
     "codename": "SEI800TFAS"
@@ -118996,6 +119256,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "F25 Pro 5G",
+    "codename": "OP5A0BL1"
+  },
+  {
+    "brand": "Oppo",
     "name": "F7",
     "codename": "CPH1819"
   },
@@ -120446,6 +120711,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "Reno11 F 5G",
+    "codename": "OP5A0BL1"
+  },
+  {
+    "brand": "Oppo",
     "name": "Reno11 Pro",
     "codename": "OP59EFL1"
   },
@@ -121001,6 +121271,16 @@
   },
   {
     "brand": "Orange",
+    "name": "Orange Nola XL",
+    "codename": "Nola-ultra"
+  },
+  {
+    "brand": "Orange",
+    "name": "Orange Nola fun 3",
+    "codename": "Nola_fun_3"
+  },
+  {
+    "brand": "Orange",
     "name": "Orange Nola play",
     "codename": "Nola_play"
   },
@@ -121153,6 +121433,11 @@
     "brand": "Orbic",
     "name": "Magic",
     "codename": "R678EL"
+  },
+  {
+    "brand": "Orbic",
+    "name": "O4S231AZ",
+    "codename": "Fun2"
   },
   {
     "brand": "Orbic",
@@ -128618,6 +128903,11 @@
     "brand": "Premio",
     "name": "X76",
     "codename": "X76"
+  },
+  {
+    "brand": "Premio",
+    "name": "X77",
+    "codename": "X77"
   },
   {
     "brand": "Premio",
@@ -136660,6 +136950,11 @@
     "codename": "S23_US_B"
   },
   {
+    "brand": "SEBBE",
+    "name": "S23_U_US",
+    "codename": "S23_U_US"
+  },
+  {
     "brand": "SED Wireless",
     "name": "GPH-650R",
     "codename": "SPH_650R"
@@ -138448,6 +138743,11 @@
     "brand": "SUNMAX",
     "name": "Tab_6",
     "codename": "Tab_6"
+  },
+  {
+    "brand": "SUNPHONE",
+    "name": "L4",
+    "codename": "L4"
   },
   {
     "brand": "SUNWIND",
@@ -142208,6 +142508,11 @@
     "brand": "Samsung",
     "name": "Galaxy Buddy2",
     "codename": "m23xq"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy Buddy3",
+    "codename": "a15x"
   },
   {
     "brand": "Samsung",
@@ -157471,6 +157776,11 @@
   },
   {
     "brand": "Sigma Mobile",
+    "name": "Tab_A1033_X_treme",
+    "codename": "Tab_A1033_X-treme"
+  },
+  {
+    "brand": "Sigma Mobile",
     "name": "X-Style S5502",
     "codename": "X-Style_S5502"
   },
@@ -164896,6 +165206,11 @@
   },
   {
     "brand": "Sunmi",
+    "name": "T3 PRO",
+    "codename": "T3_PRO"
+  },
+  {
+    "brand": "Sunmi",
     "name": "T3 PRO MAX",
     "codename": "T3_PRO"
   },
@@ -165746,8 +166061,18 @@
   },
   {
     "brand": "Symphony",
+    "name": "Z42_pro",
+    "codename": "Z42_pro"
+  },
+  {
+    "brand": "Symphony",
     "name": "Z45",
     "codename": "Z45"
+  },
+  {
+    "brand": "Symphony",
+    "name": "Z55",
+    "codename": "Z55"
   },
   {
     "brand": "Symphony",
@@ -165766,6 +166091,11 @@
   },
   {
     "brand": "Symphony",
+    "name": "Z70",
+    "codename": "Z70"
+  },
+  {
+    "brand": "Symphony",
     "name": "ZVII",
     "codename": "ZVII"
   },
@@ -165773,6 +166103,16 @@
     "brand": "Symphony",
     "name": "ZVIII",
     "codename": "ZVIII"
+  },
+  {
+    "brand": "Symphony",
+    "name": "helio_30",
+    "codename": "helio_30"
+  },
+  {
+    "brand": "Symphony",
+    "name": "helio_80",
+    "codename": "helio_80"
   },
   {
     "brand": "Symphony",
@@ -165901,6 +166241,11 @@
   },
   {
     "brand": "Symphony",
+    "name": "i96",
+    "codename": "i96"
+  },
+  {
+    "brand": "Symphony",
     "name": "i97",
     "codename": "i97"
   },
@@ -165923,6 +166268,11 @@
     "brand": "Symphony",
     "name": "innova20",
     "codename": "innova20"
+  },
+  {
+    "brand": "Symphony",
+    "name": "innova30",
+    "codename": "innova30"
   },
   {
     "brand": "Symphony",
@@ -175881,6 +176231,11 @@
   },
   {
     "brand": "Teclast",
+    "name": "M50-EEA",
+    "codename": "M50-EEA"
+  },
+  {
+    "brand": "Teclast",
     "name": "M50Pro_EEA",
     "codename": "M50Pro_EEA"
   },
@@ -176091,6 +176446,11 @@
   },
   {
     "brand": "Teclast",
+    "name": "P30_ROW",
+    "codename": "P30"
+  },
+  {
+    "brand": "Teclast",
     "name": "P40HD_EEA",
     "codename": "P40HD_EEA"
   },
@@ -176123,6 +176483,11 @@
     "brand": "Teclast",
     "name": "P40HD_T_ROW",
     "codename": "P40HD_T_ROW"
+  },
+  {
+    "brand": "Teclast",
+    "name": "P50S_EEA",
+    "codename": "P50S_EEA"
   },
   {
     "brand": "Teclast",
@@ -182941,6 +183306,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "G7_Tab_Mini",
+    "codename": "G7_Tab_Mini"
+  },
+  {
+    "brand": "Umidigi",
     "name": "MT02_EEA",
     "codename": "MT02_EEA"
   },
@@ -183866,6 +184236,11 @@
   },
   {
     "brand": "V7",
+    "name": "BUV7TBLT10A",
+    "codename": "BUV7TBLT10A"
+  },
+  {
+    "brand": "V7",
     "name": "IFPXX03-V7PRO",
     "codename": "rk3588_t"
   },
@@ -184086,8 +184461,18 @@
   },
   {
     "brand": "VIMOQ",
+    "name": "A18",
+    "codename": "VIMOQ-A512WS"
+  },
+  {
+    "brand": "VIMOQ",
     "name": "A662LS",
     "codename": "VIMOQ-A662LS"
+  },
+  {
+    "brand": "VIMOQ",
+    "name": "SE668S",
+    "codename": "VIMOQ-P662LO"
   },
   {
     "brand": "VIMOQ",
@@ -184096,8 +184481,43 @@
   },
   {
     "brand": "VIMOQ",
+    "name": "VIMOQ A20 Core",
+    "codename": "VIMOQ-A632WS"
+  },
+  {
+    "brand": "VIMOQ",
+    "name": "VIMOQ A40",
+    "codename": "Nola-ultra"
+  },
+  {
+    "brand": "VIMOQ",
+    "name": "VIMOQ A40",
+    "codename": "VIMOQ-A662LMO"
+  },
+  {
+    "brand": "VIMOQ",
+    "name": "VIMOQ A40",
+    "codename": "VIMOQ-A662LMS"
+  },
+  {
+    "brand": "VIMOQ",
+    "name": "VIMOQ A40",
+    "codename": "VIMOQ-A662LO"
+  },
+  {
+    "brand": "VIMOQ",
     "name": "VIMOQ A40",
     "codename": "VIMOQ-A662LS"
+  },
+  {
+    "brand": "VIMOQ",
+    "name": "VIMOQ A49 Play",
+    "codename": "VIMOQ-A631LO"
+  },
+  {
+    "brand": "VIMOQ",
+    "name": "VIMOQ A49 Play",
+    "codename": "VIMOQ-A631LS"
   },
   {
     "brand": "VIMOQ",
@@ -184113,6 +184533,11 @@
     "brand": "VIMOQ",
     "name": "VIMOQ Vision 3",
     "codename": "VIMOQ-S661LS"
+  },
+  {
+    "brand": "VIMOQ",
+    "name": "VIMOQ-A661WS",
+    "codename": "VIMOQ-A661WS"
   },
   {
     "brand": "VIMOQ",
@@ -189222,6 +189647,11 @@
   {
     "brand": "Vivo",
     "name": "Y36m",
+    "codename": "PD2318"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y36s",
     "codename": "PD2318"
   },
   {
@@ -209896,6 +210326,11 @@
   },
   {
     "brand": "iHunt",
+    "name": "iHunt_P15000_EEA",
+    "codename": "iHunt_P15000"
+  },
+  {
+    "brand": "iHunt",
     "name": "iHunt_S60_Discovery_Pro_2020",
     "codename": "iHunt_S60_Discovery_Pro_2020"
   },
@@ -211038,6 +211473,11 @@
     "brand": "okayseamedia",
     "name": "TK708_EEA",
     "codename": "TK708_EEA"
+  },
+  {
+    "brand": "okulaku",
+    "name": "UKD30",
+    "codename": "UKD30"
   },
   {
     "brand": "okulaku",
