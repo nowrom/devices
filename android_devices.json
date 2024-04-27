@@ -13425,6 +13425,11 @@
     "codename": "I9_Plus_WLAN_EEA"
   },
   {
+    "brand": "BMAX",
+    "name": "I9_Plus_Wlanonly_EEA",
+    "codename": "I9_Plus_Wlanonly_EEA"
+  },
+  {
     "brand": "BMPRO",
     "name": "BMPRO7DI",
     "codename": "BMPRO7DI"
@@ -18188,6 +18193,11 @@
     "brand": "Blackview",
     "name": "Tab_7_WiFi_NEU",
     "codename": "Tab_7_WiFi_NEU"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Tab_90_WiFi_NEU",
+    "codename": "Tab_90_WiFi"
   },
   {
     "brand": "Blaupunkt",
@@ -35465,6 +35475,11 @@
     "codename": "DMX-ST7A"
   },
   {
+    "brand": "Dreamstar",
+    "name": "Nova",
+    "codename": "YYZ"
+  },
+  {
     "brand": "Dtac",
     "name": "Phone M2",
     "codename": "dtacPhoneM2"
@@ -43683,6 +43698,11 @@
     "brand": "GOODTEL",
     "name": "G2_U_EEA",
     "codename": "G2_U_EEA"
+  },
+  {
+    "brand": "GOODTEL",
+    "name": "G2_U_US",
+    "codename": "G2_U_US"
   },
   {
     "brand": "GOODTEL",
@@ -57942,11 +57962,6 @@
   {
     "brand": "Homatics",
     "name": "Kickpi",
-    "codename": "YYZ"
-  },
-  {
-    "brand": "Homatics",
-    "name": "Nova",
     "codename": "YYZ"
   },
   {
@@ -105726,6 +105741,16 @@
   },
   {
     "brand": "Mookia",
+    "name": "M-764",
+    "codename": "M-764"
+  },
+  {
+    "brand": "Mookia",
+    "name": "MM-35_EEA",
+    "codename": "MM-35_EEA"
+  },
+  {
+    "brand": "Mookia",
     "name": "MM10A",
     "codename": "MM10A"
   },
@@ -120716,6 +120741,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "Reno11 F 5G/Reno11 A",
+    "codename": "OP5A0BL1"
+  },
+  {
+    "brand": "Oppo",
     "name": "Reno11 Pro",
     "codename": "OP59EFL1"
   },
@@ -122883,6 +122913,11 @@
     "brand": "PIXART",
     "name": "SZ10M68",
     "codename": "SZ10M68"
+  },
+  {
+    "brand": "PIXPEAK",
+    "name": "Tablet",
+    "codename": "Tablet"
   },
   {
     "brand": "PIXPRO",
@@ -189476,6 +189511,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "Y200i",
+    "codename": "PD2354"
+  },
+  {
+    "brand": "Vivo",
     "name": "Y21",
     "codename": "Y21"
   },
@@ -197828,6 +197868,11 @@
     "brand": "YesTeL",
     "name": "T13_US",
     "codename": "T13_US"
+  },
+  {
+    "brand": "YesTeL",
+    "name": "T15_U_US",
+    "codename": "T15_U_US"
   },
   {
     "brand": "YesTeL",
@@ -209028,6 +209073,11 @@
     "brand": "duraMOBI",
     "name": "DK66",
     "codename": "DK66"
+  },
+  {
+    "brand": "e10 ETPad",
+    "name": "ETPad",
+    "codename": "ETPad"
   },
   {
     "brand": "e4u(A)",
