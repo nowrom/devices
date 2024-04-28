@@ -26,7 +26,7 @@ id = "cherishos"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://nikgapps.com/crdroid-official"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U"
 recovery = "https://sourceforge.net/projects/crdroid/files/violet/10.x/recovery/recovery.img/download"
 
 [[roms]]

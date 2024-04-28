@@ -3,6 +3,10 @@ codename = "tissot"
 name = "Mi A1"
 
 [[recoveries]]
+id = "orangefox"
+supported = true
+
+[[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/mi-a1/development/recovery-twrp-3-1-1-0-touch-recovery-t3688472"
 maintainer = "nicknitewolf"

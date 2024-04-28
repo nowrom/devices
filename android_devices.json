@@ -34176,6 +34176,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "S108",
+    "codename": "M22G"
+  },
+  {
+    "brand": "Doogee",
     "name": "S110",
     "codename": "M22P"
   },
@@ -119466,6 +119471,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "Find X7 Ultra 卫星通信版",
+    "codename": "OP5660L1"
+  },
+  {
+    "brand": "Oppo",
     "name": "Find5",
     "codename": "FIND5"
   },
@@ -176523,6 +176533,11 @@
     "brand": "Teclast",
     "name": "P50S_EEA",
     "codename": "P50S_EEA"
+  },
+  {
+    "brand": "Teclast",
+    "name": "P50S_ROW",
+    "codename": "P50S_ROW"
   },
   {
     "brand": "Teclast",
