@@ -22221,6 +22221,11 @@
   },
   {
     "brand": "COLORROOM",
+    "name": "C5",
+    "codename": "C5"
+  },
+  {
+    "brand": "COLORROOM",
     "name": "K12",
     "codename": "K12"
   },
@@ -77221,6 +77226,11 @@
   },
   {
     "brand": "KENSHI",
+    "name": "Armor C1s",
+    "codename": "Armor_C1s"
+  },
+  {
+    "brand": "KENSHI",
     "name": "Armor H1s",
     "codename": "Armor_H1s"
   },
@@ -97238,6 +97248,11 @@
     "brand": "Logicom",
     "name": "Volt-R",
     "codename": "Volt-R"
+  },
+  {
+    "brand": "Logicom",
+    "name": "Wave 2",
+    "codename": "Wave_2"
   },
   {
     "brand": "Logicom",
@@ -118136,6 +118151,11 @@
   },
   {
     "brand": "Oppo",
+    "name": "A3 Pro 5G",
+    "codename": "OP59FB"
+  },
+  {
+    "brand": "Oppo",
     "name": "A31",
     "codename": "A31t"
   },
@@ -119488,6 +119508,11 @@
     "brand": "Oppo",
     "name": "K1",
     "codename": "PBCM30"
+  },
+  {
+    "brand": "Oppo",
+    "name": "K12 5G",
+    "codename": "OP5A15L1"
   },
   {
     "brand": "Oppo",
@@ -155196,6 +155221,11 @@
   },
   {
     "brand": "Seuic",
+    "name": "AUTOIDQ9",
+    "codename": "D360"
+  },
+  {
+    "brand": "Seuic",
     "name": "AUTOIDQ9G",
     "codename": "d550"
   },
@@ -158552,7 +158582,17 @@
   {
     "brand": "Sky Devices",
     "name": "Elite A63Max",
+    "codename": "Elite_A63CMaxC"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "Elite A63Max",
     "codename": "Elite_A63MUS"
+  },
+  {
+    "brand": "Sky Devices",
+    "name": "Elite A63Max",
+    "codename": "Elite_A63_A_MaxA"
   },
   {
     "brand": "Sky Devices",
@@ -197933,6 +197973,11 @@
     "brand": "YesTeL",
     "name": "X2_US",
     "codename": "X2_US"
+  },
+  {
+    "brand": "YesTeL",
+    "name": "X2_U_US",
+    "codename": "X2_U_US"
   },
   {
     "brand": "YesTeL",
