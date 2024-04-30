@@ -19261,6 +19261,11 @@
   },
   {
     "brand": "Blu",
+    "name": "E15",
+    "codename": "E0010"
+  },
+  {
+    "brand": "Blu",
     "name": "E20",
     "codename": "E20"
   },
@@ -26146,6 +26151,11 @@
   },
   {
     "brand": "Compaq",
+    "name": "QT10",
+    "codename": "Compaq_QT10"
+  },
+  {
+    "brand": "Compaq",
     "name": "QTAB",
     "codename": "QTAB"
   },
@@ -31018,6 +31028,11 @@
     "brand": "DSIC",
     "name": "RD86QE",
     "codename": "RD86QE"
+  },
+  {
+    "brand": "DSTechnology",
+    "name": "MATE ONE",
+    "codename": "MO_Pro"
   },
   {
     "brand": "DTC products",
@@ -67961,6 +67976,11 @@
   },
   {
     "brand": "Hytel",
+    "name": "M15A",
+    "codename": "M15A"
+  },
+  {
+    "brand": "Hytel",
     "name": "M30A",
     "codename": "M30A"
   },
@@ -77353,6 +77373,11 @@
     "brand": "KISA phone",
     "name": "KPAU04",
     "codename": "KPAU04"
+  },
+  {
+    "brand": "KJ_Board",
+    "name": "KJG IR13",
+    "codename": "KJG_IR13"
   },
   {
     "brand": "KNC (LK)",
@@ -108858,6 +108883,16 @@
     "brand": "Motorola",
     "name": "moto g62 5G",
     "codename": "rhodei"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g64 5G",
+    "codename": "cancunf"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g64 5G",
+    "codename": "cancunf"
   },
   {
     "brand": "Motorola",
@@ -159840,6 +159875,11 @@
     "codename": "STG_IR13"
   },
   {
+    "brand": "Smart_Touch",
+    "name": "WTC Series",
+    "codename": "WTC_Pro"
+  },
+  {
     "brand": "Smartab",
     "name": "SRF79",
     "codename": "SRF79"
@@ -189533,6 +189573,11 @@
     "brand": "Vivo",
     "name": "Y17s",
     "codename": "V2310"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y18",
+    "codename": "V2333"
   },
   {
     "brand": "Vivo",
