@@ -3651,6 +3651,11 @@
   },
   {
     "brand": "Advan digital",
+    "name": "TAB_A8_PLUS",
+    "codename": "ADVAN_TAB_A8_PLUS"
+  },
+  {
+    "brand": "Advan digital",
     "name": "X7 Max",
     "codename": "X7_Max"
   },
@@ -9548,6 +9553,11 @@
     "brand": "Astro",
     "name": "Nova_Phab_M9",
     "codename": "Nova_Phab_M9"
+  },
+  {
+    "brand": "Astro",
+    "name": "sooka-TV-v1",
+    "codename": "sooka-TV_v1"
   },
   {
     "brand": "Astro Queo",
@@ -52103,6 +52113,11 @@
     "brand": "HTC",
     "name": "desire x",
     "codename": "protou"
+  },
+  {
+    "brand": "HTC",
+    "name": "enodugls_00709",
+    "codename": "htc_enodugls"
   },
   {
     "brand": "HTC",
@@ -137540,6 +137555,11 @@
     "codename": "groundhog"
   },
   {
+    "brand": "SMART Technologies",
+    "name": "SMART Board® RX Series",
+    "codename": "groundhog"
+  },
+  {
     "brand": "SMART_KASSEL",
     "name": "ARGENTINA",
     "codename": "SK3402"
@@ -197968,6 +197988,11 @@
     "brand": "YesTeL",
     "name": "T13_US",
     "codename": "T13_US"
+  },
+  {
+    "brand": "YesTeL",
+    "name": "T15_U_EEA",
+    "codename": "T15_U_EEA"
   },
   {
     "brand": "YesTeL",

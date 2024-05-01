@@ -7,6 +7,11 @@ recoveries = []
 id = "calyxos"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/NikGapps-U/"
+recovery = "https://sourceforge.net/projects/crdroid/files/bramble/10.x/recovery"
+
+[[roms]]
 id = "grapheneos"
 
 [[roms]]
