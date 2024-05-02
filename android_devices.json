@@ -1286,13 +1286,13 @@
   },
   {
     "brand": "ATEC",
-    "name": "A8GC",
-    "codename": "ATEC_IWB"
+    "name": "APD3",
+    "codename": "APD3"
   },
   {
     "brand": "ATEC",
-    "name": "APD3",
-    "codename": "APD3"
+    "name": "ATEC GRANDE",
+    "codename": "ATEC_IWB"
   },
   {
     "brand": "ATEL",
@@ -16211,6 +16211,11 @@
   },
   {
     "brand": "BenQ",
+    "name": "RE04_series",
+    "codename": "RE04_series"
+  },
+  {
+    "brand": "BenQ",
     "name": "RM6504",
     "codename": "RM6504"
   },
@@ -22233,6 +22238,11 @@
     "brand": "COEX",
     "name": "COEX 4K Smart TV FF",
     "codename": "SW6H"
+  },
+  {
+    "brand": "COLORROOM",
+    "name": "C3_Pro_ROW",
+    "codename": "C3_Pro_ROW"
   },
   {
     "brand": "COLORROOM",
@@ -30738,6 +30748,11 @@
     "brand": "DIAMANT",
     "name": "EU",
     "codename": "yeongdeungpo"
+  },
+  {
+    "brand": "DIDIK_TAB",
+    "name": "DT24",
+    "codename": "DT24"
   },
   {
     "brand": "DIFRNCE",
@@ -48157,6 +48172,11 @@
   {
     "brand": "HORIZON",
     "name": "ID75HZA3B1_C",
+    "codename": "Interactive_White_Board"
+  },
+  {
+    "brand": "HORIZON",
+    "name": "ID86HZA3B1_C",
     "codename": "Interactive_White_Board"
   },
   {
@@ -67981,7 +68001,7 @@
   },
   {
     "brand": "Hyper",
-    "name": "Hera",
+    "name": "Hyper Board",
     "codename": "Hyper"
   },
   {
@@ -76062,6 +76082,11 @@
   {
     "brand": "JVC",
     "name": "JVC",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "JVC",
+    "name": "JVC",
     "codename": "seocho"
   },
   {
@@ -78086,8 +78111,18 @@
   },
   {
     "brand": "KTCtv",
+    "name": "IBG",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
     "name": "IHOME",
     "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "IHOME",
+    "codename": "mountbaker"
   },
   {
     "brand": "KTCtv",
@@ -79206,6 +79241,11 @@
   },
   {
     "brand": "Kenwood",
+    "name": "KENWOOD",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "Kenwood",
     "name": "KWSA80K",
     "codename": "XP8800"
   },
@@ -79613,6 +79653,11 @@
     "brand": "Kiowa",
     "name": "A5_CRISTAL",
     "codename": "A5_CRISTAL"
+  },
+  {
+    "brand": "Kiowa",
+    "name": "KIOWA",
+    "codename": "mountbaker"
   },
   {
     "brand": "Kiowa",
@@ -97766,6 +97811,11 @@
   },
   {
     "brand": "MAG",
+    "name": "MAG",
+    "codename": "mountbaker"
+  },
+  {
+    "brand": "MAG",
     "name": "MAG425A",
     "codename": "MAG425A"
   },
@@ -98053,6 +98103,11 @@
     "brand": "MEFERI",
     "name": "ME74",
     "codename": "ME74"
+  },
+  {
+    "brand": "MEIZE",
+    "name": "D105",
+    "codename": "D105"
   },
   {
     "brand": "MEO(Portugal)",
@@ -116926,6 +116981,16 @@
   },
   {
     "brand": "Odea",
+    "name": "A10_EEA",
+    "codename": "A10_EEA"
+  },
+  {
+    "brand": "Odea",
+    "name": "A10_ROW",
+    "codename": "A10_ROW"
+  },
+  {
+    "brand": "Odea",
     "name": "S11_ROW",
     "codename": "S11_ROW"
   },
@@ -122048,6 +122113,11 @@
     "brand": "Oukitel",
     "name": "OT5_EEA",
     "codename": "OT5"
+  },
+  {
+    "brand": "Oukitel",
+    "name": "OT5_S_EEA",
+    "codename": "OT5_S"
   },
   {
     "brand": "Oukitel",
@@ -137783,6 +137853,11 @@
     "brand": "SPC",
     "name": "GRAVITY_5_EEA",
     "codename": "GRAVITY_5_EEA"
+  },
+  {
+    "brand": "SPC",
+    "name": "GRAVITY_5_PRO",
+    "codename": "GRAVITY_5_PRO"
   },
   {
     "brand": "SPC",
@@ -155051,6 +155126,11 @@
   },
   {
     "brand": "Semeakoko",
+    "name": "S-764",
+    "codename": "S-764"
+  },
+  {
+    "brand": "Semeakoko",
     "name": "SS1010",
     "codename": "SS1010"
   },
@@ -159895,11 +159975,6 @@
     "codename": "STG_IR13"
   },
   {
-    "brand": "Smart_Touch",
-    "name": "WTC Series",
-    "codename": "WTC_Pro"
-  },
-  {
     "brand": "Smartab",
     "name": "SRF79",
     "codename": "SRF79"
@@ -159998,6 +160073,11 @@
     "brand": "Smartec",
     "name": "SmartabS4",
     "codename": "SmartabS4"
+  },
+  {
+    "brand": "Smartedu_Touch",
+    "name": "WTC Series",
+    "codename": "WTC_Pro"
   },
   {
     "brand": "Smartek",
@@ -210688,6 +210768,11 @@
     "brand": "iMin",
     "name": "Swift 2 Pro",
     "codename": "Swift2Pro"
+  },
+  {
+    "brand": "iMin",
+    "name": "Swift1Pro",
+    "codename": "Swift1Pro"
   },
   {
     "brand": "iMin",
