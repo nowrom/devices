@@ -5,7 +5,7 @@ recoveries = []
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/NikGapps-U/20-Apr-2024/NikGapps-crdroid-official-arm64-14-20240420-signed.zip/download"
 recovery = ""
 
 [[roms]]
