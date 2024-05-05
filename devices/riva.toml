@@ -7,9 +7,6 @@ id = "orangefox"
 supported = false
 
 [[roms]]
-id = "pixyos"
-
-[[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
 version = "v3.9"

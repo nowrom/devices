@@ -25,9 +25,6 @@ photo = "https://avatars.githubusercontent.com/u/47271737?v=4"
 id = "pixelextended"
 
 [[roms]]
-id = "pixyos"
-
-[[roms]]
 id = "revengeos"
 
 [specs]

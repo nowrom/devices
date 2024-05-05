@@ -12,9 +12,6 @@ id = "arrowos"
 maintainer = "kubersharma001, weimerd"
 changelog = "-"
 
-[[roms]]
-id = "pixyos"
-
 [specs]
 cpu = "Quad-core 2.5 GHz Krait 400"
 weight = "179 g (6.31 oz)"

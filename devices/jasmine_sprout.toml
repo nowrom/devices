@@ -73,9 +73,6 @@ url = "https://sourceforge.net/projects/pixelextended/files/jasmine_sprout/Pixel
 xda_thread = "https://xdaforums.com/t/rom-official-pixel-extended-mi-a2-jasmine_sprout.4550155/"
 
 [[roms]]
-id = "pixyos"
-
-[[roms]]
 id = "sakura"
 xda_thread = ""
 maintainer_url = "null"
