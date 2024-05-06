@@ -33,12 +33,6 @@ recovery = "https://sourceforge.net/projects/crdroid/files/violet/10.x/recovery/
 id = "dotos"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "legionos"
 active = true
 maintainer = "Tamizh_Arasan"
