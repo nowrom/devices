@@ -12140,6 +12140,11 @@
     "codename": "Vantage"
   },
   {
+    "brand": "AvidPad",
+    "name": "A30PRO",
+    "codename": "A30PRO"
+  },
+  {
     "brand": "Avion",
     "name": "Avion A10",
     "codename": "Avion_A10"
@@ -99330,6 +99335,11 @@
     "codename": "TAB_918_PRO_4G"
   },
   {
+    "brand": "Majestic",
+    "name": "TAB_920_PLUS_4G",
+    "codename": "TAB_920_PLUS_4G"
+  },
+  {
     "brand": "Making Life Simple",
     "name": "Brace",
     "codename": "iQM801"
@@ -121303,6 +121313,11 @@
     "brand": "Opticon",
     "name": "H-35",
     "codename": "H-35"
+  },
+  {
+    "brand": "Optoma",
+    "name": "IFP5Gen3",
+    "codename": "rk3588_t"
   },
   {
     "brand": "Oraimo",
@@ -181000,6 +181015,11 @@
     "codename": "TM-MID811A"
   },
   {
+    "brand": "Touchview Interactive",
+    "name": "TVULTRA98_G5",
+    "codename": "TVULTRA98_G5"
+  },
+  {
     "brand": "Toughshield",
     "name": "R200",
     "codename": "R200"
@@ -183528,6 +183548,16 @@
     "brand": "Umidigi",
     "name": "G5 Mecha RU",
     "codename": "G5_Mecha"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "G5_Tab",
+    "codename": "G5_Tab"
+  },
+  {
+    "brand": "Umidigi",
+    "name": "G5_Tab_EEA",
+    "codename": "G5_Tab_EEA"
   },
   {
     "brand": "Umidigi",
@@ -189898,6 +189928,11 @@
     "brand": "Vivo",
     "name": "Y36s",
     "codename": "PD2318"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y38 5G",
+    "codename": "V2343"
   },
   {
     "brand": "Vivo",
@@ -198128,6 +198163,11 @@
     "brand": "YesTeL",
     "name": "X2_US",
     "codename": "X2_US"
+  },
+  {
+    "brand": "YesTeL",
+    "name": "X2_U_EEA",
+    "codename": "X2_U_EEA"
   },
   {
     "brand": "YesTeL",
@@ -207075,6 +207115,11 @@
     "codename": "P720S11"
   },
   {
+    "brand": "ZTLEKE",
+    "name": "S8Plus",
+    "codename": "S8Plus"
+  },
+  {
     "brand": "ZUKU",
     "name": "A151",
     "codename": "A155"
@@ -207488,6 +207533,11 @@
     "brand": "Zebra",
     "name": "TC53A",
     "codename": "TC53"
+  },
+  {
+    "brand": "Zebra",
+    "name": "TC53E",
+    "codename": "TC53E"
   },
   {
     "brand": "Zebra",
@@ -211450,6 +211500,11 @@
     "codename": "G4i"
   },
   {
+    "brand": "inefi",
+    "name": "SlimPOS319",
+    "codename": "SlimPOS319"
+  },
+  {
     "brand": "innos",
     "name": "Android TV",
     "codename": "R2"
@@ -211858,6 +211913,11 @@
     "brand": "onn.",
     "name": "onn. 4k TV",
     "codename": "sti6140d360"
+  },
+  {
+    "brand": "onn.",
+    "name": "onn. Streaming Device 4K pro",
+    "codename": "SNA"
   },
   {
     "brand": "onn.",
