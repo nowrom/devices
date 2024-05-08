@@ -1,0 +1,9 @@
+brand = "Motorola"
+codename = "cypfq"
+name = "moto g51 5G"
+recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/crdroid-official"
+recovery = ""

@@ -1,0 +1,9 @@
+brand = "Xiaomi"
+codename = "mayfly"
+name = "Xiaomi 12S"
+recoveries = []
+
+[[roms]]
+id = "crdroid"
+gapps = "https://github.com/MindTheGapps/14.0.0-arm64/releases"
+recovery = "https://sourceforge.net/projects/crdroid/files/mayfly/10.x/recovery/"

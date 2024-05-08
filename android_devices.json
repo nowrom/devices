@@ -4371,6 +4371,11 @@
   },
   {
     "brand": "Aiwa",
+    "name": "AIWA TV",
+    "codename": "SW6H"
+  },
+  {
+    "brand": "Aiwa",
     "name": "AW790",
     "codename": "AW790"
   },
@@ -21903,6 +21908,16 @@
     "brand": "CGV (France)",
     "name": "Ultimate T8",
     "codename": "Ultimate_T8"
+  },
+  {
+    "brand": "CHAINWAY",
+    "name": "C5_EEA",
+    "codename": "C5"
+  },
+  {
+    "brand": "CHAINWAY",
+    "name": "C5_GL",
+    "codename": "C5"
   },
   {
     "brand": "CHAINWAY",
@@ -52146,11 +52161,6 @@
   },
   {
     "brand": "HTC",
-    "name": "enodugls_00709",
-    "codename": "htc_enodugls"
-  },
-  {
-    "brand": "HTC",
     "name": "first",
     "codename": "mystul"
   },
@@ -53378,6 +53388,11 @@
     "brand": "Hammer",
     "name": "Hammer Explorer Pro",
     "codename": "Hammer_Expl_Pro"
+  },
+  {
+    "brand": "Hammer",
+    "name": "Hammer_Iron_Va_EEA",
+    "codename": "HS2401x"
   },
   {
     "brand": "Handheld Group",
@@ -59253,6 +59268,16 @@
     "brand": "Honor",
     "name": "HONOR X9b 5G",
     "codename": "HNALI-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "Honor 200 Lite",
+    "codename": "HNLLY-M1"
+  },
+  {
+    "brand": "Honor",
+    "name": "Honor 200 Lite",
+    "codename": "HNLLY-M1"
   },
   {
     "brand": "Honor",
@@ -76718,6 +76743,11 @@
     "brand": "Jumper",
     "name": "EZpad_M11_Pro",
     "codename": "EZpad_M11_Pro"
+  },
+  {
+    "brand": "Jumper",
+    "name": "Z1",
+    "codename": "Z1"
   },
   {
     "brand": "Juniper Systems",
@@ -99130,6 +99160,11 @@
     "codename": "yeongdeungpo"
   },
   {
+    "brand": "MUNGYO",
+    "name": "MUNGYO MGEB",
+    "codename": "MGEB"
+  },
+  {
     "brand": "Mach Speed",
     "name": "xtreme",
     "codename": "X_treme_Play_Tab"
@@ -116411,6 +116446,11 @@
   },
   {
     "brand": "OMAX",
+    "name": "7PAN",
+    "codename": "7PAN"
+  },
+  {
+    "brand": "OMAX",
     "name": "OMAX-IFPD",
     "codename": "rk3588_t"
   },
@@ -116493,6 +116533,11 @@
     "brand": "ONDA TLC",
     "name": "T9 S",
     "codename": "T9S"
+  },
+  {
+    "brand": "ONERugged",
+    "name": "M86XE",
+    "codename": "M86XE"
   },
   {
     "brand": "ONERugged",
@@ -122603,6 +122648,11 @@
     "brand": "PALSONIC",
     "name": "Android TV",
     "codename": "R1"
+  },
+  {
+    "brand": "PANORAMA",
+    "name": "Smart TV",
+    "codename": "kualakai"
   },
   {
     "brand": "PAPAGO",
@@ -211493,6 +211543,11 @@
     "brand": "imose",
     "name": "SEMPE",
     "codename": "SEMPE"
+  },
+  {
+    "brand": "imozen",
+    "name": "TC605AN",
+    "codename": "TC605"
   },
   {
     "brand": "indigi",
