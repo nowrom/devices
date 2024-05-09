@@ -29640,6 +29640,11 @@
     "codename": "BS801_EEA"
   },
   {
+    "brand": "DEPLAY",
+    "name": "E108GCM",
+    "codename": "E108GCM"
+  },
+  {
     "brand": "DEWSOD",
     "name": "C9",
     "codename": "C9"
@@ -115650,6 +115655,11 @@
     "codename": "NT-S10"
   },
   {
+    "brand": "Noryox",
+    "name": "Handheld_POS",
+    "codename": "Handheld_POS"
+  },
+  {
     "brand": "Nothing",
     "name": "Nothing Phone (1)",
     "codename": "Spacewar"
@@ -116703,6 +116713,11 @@
     "brand": "OSCAL",
     "name": "Pad 70",
     "codename": "Pad70_NEU"
+  },
+  {
+    "brand": "OSCAL",
+    "name": "Pad 70 WiFi",
+    "codename": "Pad_70_WiFi"
   },
   {
     "brand": "OSCAL",
@@ -127273,6 +127288,11 @@
     "brand": "Point Mobile",
     "name": "PM90",
     "codename": "pm90"
+  },
+  {
+    "brand": "Point Mobile",
+    "name": "PM95",
+    "codename": "PM95"
   },
   {
     "brand": "Point of view",
@@ -178416,6 +178436,11 @@
   },
   {
     "brand": "Tecno",
+    "name": "TECNO CAMON 30 5G",
+    "codename": "TECNO-CL7s"
+  },
+  {
+    "brand": "Tecno",
     "name": "TECNO CAMON 30 Premier 5G",
     "codename": "TECNO-CL9"
   },
@@ -190376,6 +190401,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "iQOO Z9 Turbo",
+    "codename": "PD2352"
+  },
+  {
+    "brand": "Vivo",
     "name": "vivo  1907",
     "codename": "1907"
   },
@@ -197313,6 +197343,11 @@
     "brand": "Xiaomi",
     "name": "Xiaomi 13T Pro",
     "codename": "corot"
+  },
+  {
+    "brand": "Xiaomi",
+    "name": "Xiaomi 14",
+    "codename": "houji"
   },
   {
     "brand": "Xiaomi",
@@ -207488,6 +207523,11 @@
     "brand": "Zebra",
     "name": "MC9400",
     "codename": "MC9400"
+  },
+  {
+    "brand": "Zebra",
+    "name": "MC9450",
+    "codename": "MC9450"
   },
   {
     "brand": "Zebra",
