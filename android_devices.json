@@ -7131,6 +7131,11 @@
   },
   {
     "brand": "Apolosign",
+    "name": "K109_Pro",
+    "codename": "K109_Pro"
+  },
+  {
+    "brand": "Apolosign",
     "name": "K709A",
     "codename": "K709A"
   },
@@ -43906,6 +43911,11 @@
   },
   {
     "brand": "GREATASIA",
+    "name": "TK-P86",
+    "codename": "TK-P86"
+  },
+  {
+    "brand": "GREATASIA",
     "name": "Z8",
     "codename": "Z8"
   },
@@ -59286,6 +59296,11 @@
   },
   {
     "brand": "Honor",
+    "name": "Honor X9b 5G",
+    "codename": "HNALI-Q"
+  },
+  {
+    "brand": "Honor",
     "name": "PORSCHE DESIGN HONOR Magic V2 RSR",
     "codename": "HNVER"
   },
@@ -59298,6 +59313,11 @@
     "brand": "Honor",
     "name": "RBN-NX1",
     "codename": "HNRBN-Q"
+  },
+  {
+    "brand": "Honor",
+    "name": "荣耀V Purse",
+    "codename": "HNVCA-Q"
   },
   {
     "brand": "Hoozo",
@@ -97961,6 +97981,11 @@
   },
   {
     "brand": "MARVUE",
+    "name": "M15",
+    "codename": "M15"
+  },
+  {
+    "brand": "MARVUE",
     "name": "M8",
     "codename": "M8"
   },
@@ -116056,6 +116081,11 @@
   },
   {
     "brand": "Nuu",
+    "name": "X7 Plus",
+    "codename": "S6601LA"
+  },
+  {
+    "brand": "Nuu",
     "name": "Z8",
     "codename": "Z8"
   },
@@ -116543,6 +116573,11 @@
     "brand": "ONDA TLC",
     "name": "T9 S",
     "codename": "T9S"
+  },
+  {
+    "brand": "ONERugged",
+    "name": "M195T",
+    "codename": "M195T"
   },
   {
     "brand": "ONERugged",
@@ -120962,11 +120997,6 @@
   {
     "brand": "Oppo",
     "name": "Reno11 F 5G",
-    "codename": "OP5A0BL1"
-  },
-  {
-    "brand": "Oppo",
-    "name": "Reno11 F 5G/Reno11 A",
     "codename": "OP5A0BL1"
   },
   {
@@ -145608,6 +145638,11 @@
     "brand": "Samsung",
     "name": "Galaxy M34 5G",
     "codename": "m34x"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy M35 5G",
+    "codename": "m35x"
   },
   {
     "brand": "Samsung",
@@ -175583,6 +175618,11 @@
     "brand": "TRUE_SLIM",
     "name": "T1586K",
     "codename": "T1586K"
+  },
+  {
+    "brand": "TRUFON",
+    "name": "TRUFON FLEX",
+    "codename": "TRUFON_FLEX"
   },
   {
     "brand": "TSUNAMi",
@@ -209461,6 +209501,11 @@
   },
   {
     "brand": "eNOVA",
+    "name": "N50E",
+    "codename": "N50"
+  },
+  {
+    "brand": "eNOVA",
     "name": "TAE08N10",
     "codename": "TAE08N10"
   },
@@ -211508,6 +211553,11 @@
     "brand": "iWaylink",
     "name": "TC603B_P",
     "codename": "TC603B_GWL"
+  },
+  {
+    "brand": "iYOU",
+    "name": "A10",
+    "codename": "A10"
   },
   {
     "brand": "iYOU",

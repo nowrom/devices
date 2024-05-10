@@ -1,6 +1,6 @@
-brand = "Samsung"
-codename = "a10"
-name = "Galaxy A10"
+brand = "iYOU"
+codename = "A10"
+name = "A10"
 
 [[recoveries]]
 id = "orangefox"
