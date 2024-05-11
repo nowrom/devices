@@ -105,6 +105,12 @@ download = "https://downloads.spark-os.live/?dir=alioth/"
 [[roms]]
 id = "syberia"
 romtype = "OFFICIAL"
+version = "v7.1"
+developer = "erwinabs"
+
+[[roms]]
+id = "syberia"
+romtype = "OFFICIAL"
 version = "v6.2"
 developer = "DennySPb"
 
