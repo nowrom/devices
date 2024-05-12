@@ -17186,6 +17186,11 @@
   },
   {
     "brand": "Blackview",
+    "name": "A52 Pro",
+    "codename": "A52Pro"
+  },
+  {
+    "brand": "Blackview",
     "name": "A53",
     "codename": "A53"
   },
@@ -34603,6 +34608,11 @@
     "brand": "Doogee",
     "name": "T20Mini",
     "codename": "P3Mini"
+  },
+  {
+    "brand": "Doogee",
+    "name": "T20Mini Pro",
+    "codename": "P3MiniS"
   },
   {
     "brand": "Doogee",
@@ -77505,6 +77515,11 @@
     "codename": "KP11"
   },
   {
+    "brand": "KENSHI",
+    "name": "O8",
+    "codename": "O8"
+  },
+  {
     "brand": "KEP-Tech",
     "name": "K-S18",
     "codename": "K-S18"
@@ -78883,6 +78898,11 @@
     "brand": "Kammunica",
     "name": "Kammunica_XD",
     "codename": "Kammunica_XD"
+  },
+  {
+    "brand": "KanDao",
+    "name": "Kandao Meeting Ultra",
+    "codename": "MT1001"
   },
   {
     "brand": "Kanji",
@@ -104376,6 +104396,11 @@
   },
   {
     "brand": "Mobicel",
+    "name": "IX PLUS",
+    "codename": "IX_PLUS"
+  },
+  {
+    "brand": "Mobicel",
     "name": "P5",
     "codename": "P5"
   },
@@ -108458,6 +108483,16 @@
     "brand": "Motorola",
     "name": "moto g 5G - 2023",
     "codename": "pnangn"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g 5G - 2024",
+    "codename": "fogo"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g 5G - 2024",
+    "codename": "fogo"
   },
   {
     "brand": "Motorola",
@@ -116931,6 +116966,11 @@
   },
   {
     "brand": "OSCAL",
+    "name": "TIGER 10",
+    "codename": "Tiger10"
+  },
+  {
+    "brand": "OSCAL",
     "name": "TIGER 12",
     "codename": "Tiger12"
   },
@@ -122347,6 +122387,11 @@
   {
     "brand": "Oukitel",
     "name": "P07_EEA",
+    "codename": "P07"
+  },
+  {
+    "brand": "Oukitel",
+    "name": "P07_NFC_EEA",
     "codename": "P07"
   },
   {
@@ -130897,6 +130942,11 @@
   {
     "brand": "Pritom",
     "name": "K7",
+    "codename": "K7_A04"
+  },
+  {
+    "brand": "Pritom",
+    "name": "K7",
     "codename": "K7_A04_EEA"
   },
   {
@@ -130908,6 +130958,11 @@
     "brand": "Pritom",
     "name": "K7",
     "codename": "K7_A103_EEA"
+  },
+  {
+    "brand": "Pritom",
+    "name": "K7_A03",
+    "codename": "K7_A03"
   },
   {
     "brand": "Pritom",
@@ -131138,6 +131193,11 @@
     "brand": "Pritom",
     "name": "M10_PRO_EEA",
     "codename": "M10_PRO_EEA"
+  },
+  {
+    "brand": "Pritom",
+    "name": "M10_R01",
+    "codename": "M10_R01"
   },
   {
     "brand": "Pritom",
@@ -183386,6 +183446,11 @@
   },
   {
     "brand": "Umidigi",
+    "name": "A15_Pro_5G",
+    "codename": "A15_Pro_5G"
+  },
+  {
+    "brand": "Umidigi",
     "name": "A15_Pro_5G_EEA",
     "codename": "A15_Pro_5G"
   },
@@ -184961,6 +185026,11 @@
   },
   {
     "brand": "VETOO",
+    "name": "TWIFIB07",
+    "codename": "TWIFIB07"
+  },
+  {
+    "brand": "VETOO",
     "name": "V10",
     "codename": "V10"
   },
@@ -185913,6 +185983,11 @@
     "brand": "Veidoo",
     "name": "VEIDOO_T30_PLUS\t",
     "codename": "VEIDOO_T30_PLUS"
+  },
+  {
+    "brand": "Veidoo",
+    "name": "VEIDOO_T30_PLUS_EEA",
+    "codename": "VEIDOO_T30_PLUS_EEA"
   },
   {
     "brand": "Veidoo",
@@ -190046,6 +190121,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "Y200 GT",
+    "codename": "PD2361"
+  },
+  {
+    "brand": "Vivo",
     "name": "Y200 Pro 5G",
     "codename": "V2303"
   },
@@ -190633,6 +190713,16 @@
     "brand": "Vivo",
     "name": "iQOO Z8x",
     "codename": "PD2312"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Z9",
+    "codename": "PD2361"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Z9 5G",
+    "codename": "I2218"
   },
   {
     "brand": "Vivo",
@@ -192653,6 +192743,11 @@
     "brand": "WHOOP",
     "name": "TAB_8US1",
     "codename": "TAB_8US1"
+  },
+  {
+    "brand": "WIDE",
+    "name": "WD_PL",
+    "codename": "WD_PL"
   },
   {
     "brand": "WIIGO",
@@ -210838,6 +210933,16 @@
     "brand": "iHunt",
     "name": "Like_Hi5",
     "codename": "Like_Hi5"
+  },
+  {
+    "brand": "iHunt",
+    "name": "P25000 Pro",
+    "codename": "P25000_Pro"
+  },
+  {
+    "brand": "iHunt",
+    "name": "P32000_Ultra_EEA",
+    "codename": "P32000_Ultra"
   },
   {
     "brand": "iHunt",
