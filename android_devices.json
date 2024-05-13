@@ -231,6 +231,11 @@
   },
   {
     "brand": "AAUW",
+    "name": "T60PRO",
+    "codename": "T60PRO_ROW"
+  },
+  {
+    "brand": "AAUW",
     "name": "T60Pro",
     "codename": "T60Pro"
   },
@@ -268,6 +273,11 @@
     "brand": "ABCTECH",
     "name": "X5",
     "codename": "X5"
+  },
+  {
+    "brand": "ACE (Global)",
+    "name": "AS0224",
+    "codename": "BUZZ_5_Prime"
   },
   {
     "brand": "ACE (Global)",
@@ -14502,6 +14512,11 @@
   {
     "brand": "BMobile",
     "name": "Ultra",
+    "codename": "Bmobile_ULTRA"
+  },
+  {
+    "brand": "BMobile",
+    "name": "Ultra",
     "codename": "Bmobile_ULTRA_TG07"
   },
   {
@@ -25496,6 +25511,11 @@
   },
   {
     "brand": "ClearTouch",
+    "name": "UX Pro Edge",
+    "codename": "rk3588_t"
+  },
+  {
+    "brand": "ClearTouch",
     "name": "six_zero_XXAplus",
     "codename": "rk3588_t"
   },
@@ -31338,6 +31358,11 @@
     "brand": "Daiwa",
     "name": "4K DATV-Z",
     "codename": "keoneae"
+  },
+  {
+    "brand": "Danew",
+    "name": "D809ProPlus",
+    "codename": "D809ProPlus"
   },
   {
     "brand": "Danew",
@@ -44896,6 +44921,11 @@
   },
   {
     "brand": "Ghia",
+    "name": "GA8N2",
+    "codename": "GA8N2"
+  },
+  {
+    "brand": "Ghia",
     "name": "GHIA",
     "codename": "stanford"
   },
@@ -47775,6 +47805,11 @@
     "codename": "GMP"
   },
   {
+    "brand": "HANDELSON",
+    "name": "H14",
+    "codename": "H14"
+  },
+  {
     "brand": "HANET",
     "name": "T432",
     "codename": "SmartEdu"
@@ -48023,6 +48058,11 @@
     "brand": "HISORL",
     "name": "TAB10_EEA",
     "codename": "TAB10_EEA"
+  },
+  {
+    "brand": "HISORL",
+    "name": "TAB_10",
+    "codename": "TAB_10"
   },
   {
     "brand": "HKC",
@@ -52198,6 +52238,11 @@
     "brand": "HTC",
     "name": "Wildfire E3 lite",
     "codename": "Wildfire_E3_lite"
+  },
+  {
+    "brand": "HTC",
+    "name": "Wildfire E4",
+    "codename": "Wildfire_E4"
   },
   {
     "brand": "HTC",
@@ -59466,6 +59511,11 @@
   },
   {
     "brand": "Hoozo",
+    "name": "MID",
+    "codename": "MID"
+  },
+  {
+    "brand": "Hoozo",
     "name": "MR768",
     "codename": "MR768"
   },
@@ -59778,6 +59828,11 @@
     "brand": "Hotwav",
     "name": "Note 15 EEA",
     "codename": "Note_15"
+  },
+  {
+    "brand": "Hotwav",
+    "name": "Pad 11",
+    "codename": "Pad_11_EEA"
   },
   {
     "brand": "Hotwav",
@@ -70328,6 +70383,11 @@
     "brand": "Ikon",
     "name": "IKON 4K Google TV",
     "codename": "keoneae"
+  },
+  {
+    "brand": "Ikon",
+    "name": "IK_WA024",
+    "codename": "IK_WA024"
   },
   {
     "brand": "IkuMobile",
@@ -96516,6 +96576,11 @@
   },
   {
     "brand": "Logic Mobility",
+    "name": "LOGIC  L55V  PLUS",
+    "codename": "LOGIC_L55V_PLUS"
+  },
+  {
+    "brand": "Logic Mobility",
     "name": "LOGIC L50T",
     "codename": "LOGIC_L50T"
   },
@@ -100781,6 +100846,11 @@
   },
   {
     "brand": "Maze_speed",
+    "name": "SM4T",
+    "codename": "SM4T"
+  },
+  {
+    "brand": "Maze_speed",
     "name": "SSB1000T",
     "codename": "SSB1000T"
   },
@@ -104403,6 +104473,16 @@
     "brand": "Mobicel",
     "name": "P5",
     "codename": "P5"
+  },
+  {
+    "brand": "Mobicel",
+    "name": "RX",
+    "codename": "RX"
+  },
+  {
+    "brand": "Mobicel",
+    "name": "VX21",
+    "codename": "VX21"
   },
   {
     "brand": "Mobicell",
@@ -108928,6 +109008,26 @@
     "brand": "Motorola",
     "name": "moto g(9) power",
     "codename": "cebu"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g04",
+    "codename": "lion"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g04",
+    "codename": "lion"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g04s",
+    "codename": "lion"
+  },
+  {
+    "brand": "Motorola",
+    "name": "moto g04s",
+    "codename": "lion"
   },
   {
     "brand": "Motorola",
@@ -122191,6 +122291,16 @@
   },
   {
     "brand": "Oukitel",
+    "name": "C37_EEA",
+    "codename": "C37"
+  },
+  {
+    "brand": "Oukitel",
+    "name": "C38_EEA",
+    "codename": "C38"
+  },
+  {
+    "brand": "Oukitel",
     "name": "C6 Pro",
     "codename": "C6_Pro"
   },
@@ -126970,6 +127080,11 @@
     "codename": "Pixus_Touch_7_3G"
   },
   {
+    "brand": "Pixus",
+    "name": "Pixus_Wing",
+    "codename": "Pixus_Wing"
+  },
+  {
     "brand": "Plaisio",
     "name": "A2",
     "codename": "Turbo-X_A2"
@@ -131610,6 +131725,16 @@
     "codename": "uiw4068pxm"
   },
   {
+    "brand": "Pulsaris",
+    "name": "Fresh",
+    "codename": "Fresh"
+  },
+  {
+    "brand": "Pulsaris",
+    "name": "Pluma",
+    "codename": "Pluma"
+  },
+  {
     "brand": "Punos",
     "name": "Punos X10",
     "codename": "PTX1022G"
@@ -131728,6 +131853,11 @@
     "brand": "QBell",
     "name": "Qbell android TV",
     "codename": "hanyang"
+  },
+  {
+    "brand": "QCELL",
+    "name": "Qsmart",
+    "codename": "QSmart"
   },
   {
     "brand": "QFX USA",
@@ -139773,6 +139903,11 @@
     "brand": "Safaricom",
     "name": "Safaricom ET Kimem",
     "codename": "Safaricom_ET_Kimem"
+  },
+  {
+    "brand": "SafeGear_Mobile",
+    "name": "SG390",
+    "codename": "SG390"
   },
   {
     "brand": "Sagemcom",
@@ -164201,6 +164336,11 @@
   },
   {
     "brand": "SparX",
+    "name": "Note 12",
+    "codename": "Note_12"
+  },
+  {
+    "brand": "SparX",
     "name": "Note_20",
     "codename": "Note_20"
   },
@@ -182160,6 +182300,11 @@
     "codename": "T90_NEW"
   },
   {
+    "brand": "UAUU",
+    "name": "U10_RU",
+    "codename": "U10"
+  },
+  {
     "brand": "UBCtv",
     "name": "Vietnam",
     "codename": "tamachi"
@@ -192876,6 +193021,11 @@
   },
   {
     "brand": "Walton",
+    "name": "Customer need debug",
+    "codename": "NEXG_N9"
+  },
+  {
+    "brand": "Walton",
     "name": "EXPRESS",
     "codename": "guandu"
   },
@@ -192898,6 +193048,11 @@
     "brand": "Walton",
     "name": "NEXG N71 Plus",
     "codename": "NEXG_N71_Plus"
+  },
+  {
+    "brand": "Walton",
+    "name": "NEXG N72",
+    "codename": "NEXG_N72"
   },
   {
     "brand": "Walton",
@@ -196268,6 +196423,11 @@
     "brand": "Xelex",
     "name": "Gama_Tab_X8",
     "codename": "Gama_Tab_X8"
+  },
+  {
+    "brand": "Xgody",
+    "name": "N02",
+    "codename": "N02"
   },
   {
     "brand": "Xgody",

@@ -9,12 +9,6 @@ gapps = "https://sourceforge.net/projects/nikgapps"
 recovery = "https://devuploads.com/an6rivl62feq"
 
 [[roms]]
-id = "evolutionx"
-
-[[roms]]
-id = "evolutionx"
-
-[[roms]]
 id = "lineageos"
 cpu = "Cortex-A76 & Cortex-A55"
 ram = "4/6/8 GB"
