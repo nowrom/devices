@@ -10,4 +10,4 @@ maintainer = "G Raghu Varma"
 [[roms]]
 id = "crdroid"
 gapps = "https://nikgapps.com/crdroid-official"
-recovery = ""
+recovery = "https://sourceforge.net/projects/crdroid/files/hanoip/10.x/recovery/"

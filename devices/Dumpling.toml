@@ -23,6 +23,11 @@ changelog = "- Partial sync with LOS tree\r\n- Misc fixes and upstream changes."
 id = "blissroms"
 
 [[roms]]
+id = "crdroid"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Config-Releases/NikGapps-U/06-May-2024/NikGapps-Zed_Restore-arm64-14-20240506-unofficial.zip/download"
+recovery = "https://dl.twrp.me/cheeseburger_dumpling/twrp-3.7.0_12-2-cheeseburger_dumpling.img"
+
+[[roms]]
 id = "dotos"
 
 [[roms]]
