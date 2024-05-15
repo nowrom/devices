@@ -1,0 +1,8 @@
+brand = "Motorola"
+codename = "fogos"
+name = "moto g34 5G"
+roms = []
+
+[[recoveries]]
+id = "twrp"
+maintainer = "PrintHelloPeople, lazycodebuilder"

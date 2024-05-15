@@ -5,5 +5,5 @@ roms = []
 
 [[recoveries]]
 id = "twrp"
-xdathread = ""
+xdathread = "https://xdaforums.com/t/recovery-11-chopin-teamwin-recovery-project-for-poco-x3-gt-redmi-note-10-pro-5g.4669665/"
 maintainer = "Anta1014"

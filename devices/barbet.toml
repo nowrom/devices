@@ -8,7 +8,7 @@ id = "calyxos"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/NikGapps-U/"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Config-Releases/NikGapps-U/13-May-2024/NikGapps-crDroid-redbull-arm64-14-20240513-unofficial.zip"
 recovery = "https://sourceforge.net/projects/crdroid/files/barbet/10.x/recovery"
 
 [[roms]]

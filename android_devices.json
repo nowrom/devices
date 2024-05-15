@@ -29206,6 +29206,11 @@
   },
   {
     "brand": "Cubot",
+    "name": "KINGKONG X",
+    "codename": "KINGKONG_X"
+  },
+  {
+    "brand": "Cubot",
     "name": "KINGKONG_MINI",
     "codename": "KINGKONG_MINI"
   },
@@ -37983,6 +37988,11 @@
     "brand": "Emdoor",
     "name": "EM_I8180",
     "codename": "em_i8180"
+  },
+  {
+    "brand": "Emerson",
+    "name": "EID-1400",
+    "codename": "EID-1400"
   },
   {
     "brand": "Emerson",
@@ -126845,6 +126855,11 @@
     "codename": "X1_Pro"
   },
   {
+    "brand": "PicassoTab",
+    "name": "PicassoTab_X11",
+    "codename": "X11"
+  },
+  {
     "brand": "Pioneer",
     "name": "AV Receiver",
     "codename": "AVH_W4400NEX"
@@ -179621,6 +179636,11 @@
   },
   {
     "brand": "Tecno Mobile",
+    "name": "TECNO Mobile POVA 6 Neo",
+    "codename": "TECNO-Mobile-LI6"
+  },
+  {
+    "brand": "Tecno Mobile",
     "name": "TECNO Mobile SPARK 20",
     "codename": "TECNO-Mobile-KJ5n"
   },
@@ -189951,6 +189971,16 @@
   },
   {
     "brand": "Vivo",
+    "name": "X100 Ultra",
+    "codename": "PD2366"
+  },
+  {
+    "brand": "Vivo",
+    "name": "X100 Ultra",
+    "codename": "PD2366"
+  },
+  {
+    "brand": "Vivo",
     "name": "X5",
     "codename": "X5"
   },
@@ -190257,6 +190287,11 @@
   {
     "brand": "Vivo",
     "name": "Y18e",
+    "codename": "V2333"
+  },
+  {
+    "brand": "Vivo",
+    "name": "Y18s",
     "codename": "V2333"
   },
   {
