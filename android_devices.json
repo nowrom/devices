@@ -1721,6 +1721,11 @@
   },
   {
     "brand": "AZPEN",
+    "name": "A1080G",
+    "codename": "A1080G"
+  },
+  {
+    "brand": "AZPEN",
     "name": "A1083",
     "codename": "A1083"
   },
@@ -9541,6 +9546,11 @@
   },
   {
     "brand": "Aspera",
+    "name": "Buzz",
+    "codename": "Buzz"
+  },
+  {
+    "brand": "Aspera",
     "name": "GEM",
     "codename": "GEM"
   },
@@ -11688,6 +11698,16 @@
     "brand": "Atozee",
     "name": "AT10K",
     "codename": "AT10K"
+  },
+  {
+    "brand": "Atozee",
+    "name": "AT11K",
+    "codename": "AT11K"
+  },
+  {
+    "brand": "Atozee",
+    "name": "AT12K",
+    "codename": "AT12K"
   },
   {
     "brand": "Atozee",
@@ -17946,6 +17966,11 @@
   },
   {
     "brand": "Blackview",
+    "name": "Tab 50 Kids",
+    "codename": "Tab50Kids_TUR"
+  },
+  {
+    "brand": "Blackview",
     "name": "Tab 50 WiFi",
     "codename": "Tab50WiFi"
   },
@@ -17957,7 +17982,17 @@
   {
     "brand": "Blackview",
     "name": "Tab 60 Kids",
+    "codename": "Tab60Kids"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Tab 60 Kids",
     "codename": "Tab60Kids_EEA"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Tab 60 Kids",
+    "codename": "Tab60Kids_RU"
   },
   {
     "brand": "Blackview",
@@ -27156,6 +27191,11 @@
   },
   {
     "brand": "Contixo",
+    "name": "K103A",
+    "codename": "K103A"
+  },
+  {
+    "brand": "Contixo",
     "name": "K4",
     "codename": "K4"
   },
@@ -31351,6 +31391,11 @@
   },
   {
     "brand": "Daiwa",
+    "name": "2K DATV",
+    "codename": "capitolhill"
+  },
+  {
+    "brand": "Daiwa",
     "name": "4K DATV",
     "codename": "keoneae"
   },
@@ -34611,6 +34656,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "T10Plus",
+    "codename": "P1T"
+  },
+  {
+    "brand": "Doogee",
     "name": "T10Pro",
     "codename": "P1_2"
   },
@@ -34701,6 +34751,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "U10 Pro",
+    "codename": "RK1S"
+  },
+  {
+    "brand": "Doogee",
     "name": "U10KID",
     "codename": "RK1KID"
   },
@@ -34718,6 +34773,16 @@
     "brand": "Doogee",
     "name": "U8 Kid",
     "codename": "RK3KID"
+  },
+  {
+    "brand": "Doogee",
+    "name": "U9",
+    "codename": "RK2"
+  },
+  {
+    "brand": "Doogee",
+    "name": "U9 Kid",
+    "codename": "RK2KID"
   },
   {
     "brand": "Doogee",
@@ -39841,6 +39906,11 @@
   },
   {
     "brand": "F-Plus",
+    "name": "RT800",
+    "codename": "RT800"
+  },
+  {
+    "brand": "F-Plus",
     "name": "SA50_21620",
     "codename": "SA50_21620"
   },
@@ -40401,6 +40471,11 @@
   },
   {
     "brand": "FOSSiBOT",
+    "name": "F101 P",
+    "codename": "F101_P"
+  },
+  {
+    "brand": "FOSSiBOT",
     "name": "F101 Pro",
     "codename": "F101_Pro"
   },
@@ -40443,6 +40518,11 @@
     "brand": "FOXXD",
     "name": "A5Pro",
     "codename": "A5Pro"
+  },
+  {
+    "brand": "FOXXD",
+    "name": "A62",
+    "codename": "A62"
   },
   {
     "brand": "FOXXD",
@@ -44981,6 +45061,26 @@
   },
   {
     "brand": "Ghia",
+    "name": "GK133M3",
+    "codename": "GK133M3"
+  },
+  {
+    "brand": "Ghia",
+    "name": "GK133N3",
+    "codename": "GK133N3"
+  },
+  {
+    "brand": "Ghia",
+    "name": "GK133S3",
+    "codename": "GK133S3"
+  },
+  {
+    "brand": "Ghia",
+    "name": "GK133T3",
+    "codename": "GK133T3"
+  },
+  {
+    "brand": "Ghia",
     "name": "GPND133",
     "codename": "GPND133"
   },
@@ -47111,6 +47211,11 @@
   },
   {
     "brand": "Google",
+    "name": "Pixel 8a",
+    "codename": "akita"
+  },
+  {
+    "brand": "Google",
     "name": "Pixel C",
     "codename": "dragon"
   },
@@ -48063,6 +48168,11 @@
     "brand": "HIMADE",
     "name": "UHD Android TV",
     "codename": "sindorim"
+  },
+  {
+    "brand": "HISORL",
+    "name": "T10P",
+    "codename": "T10P"
   },
   {
     "brand": "HISORL",
@@ -68722,6 +68832,11 @@
   {
     "brand": "Hyundai",
     "name": "HYUNDAI",
+    "codename": "lavender"
+  },
+  {
+    "brand": "Hyundai",
+    "name": "HYUNDAI",
     "codename": "stanford"
   },
   {
@@ -78366,6 +78481,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "INCLO",
+    "codename": "hongkong"
+  },
+  {
+    "brand": "KTCtv",
     "name": "INNO-HIT",
     "codename": "hongkong"
   },
@@ -78598,6 +78718,11 @@
     "brand": "KTCtv",
     "name": "Smart TV",
     "codename": "mountbaker"
+  },
+  {
+    "brand": "KTCtv",
+    "name": "THEUHD",
+    "codename": "hongkong"
   },
   {
     "brand": "KTCtv",
@@ -80523,6 +80648,11 @@
     "brand": "Kogan",
     "name": "KALED32RH9210STA",
     "codename": "ikebukuro"
+  },
+  {
+    "brand": "Kogan",
+    "name": "KATB1064WGRY",
+    "codename": "KATB1064WGRY"
   },
   {
     "brand": "Kogan",
@@ -94673,6 +94803,11 @@
     "brand": "Lenovo",
     "name": "Lenovo Tab P12 Pro",
     "codename": "Q706Z"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Lenovo Tab Plus",
+    "codename": "TB351FU"
   },
   {
     "brand": "Lenovo",
@@ -110842,6 +110977,11 @@
   {
     "brand": "Multilaser",
     "name": "M8 4G",
+    "codename": "ML_SO0V_M8_4G"
+  },
+  {
+    "brand": "Multilaser",
+    "name": "M8 4G",
     "codename": "ML_SO1J_M8_4G"
   },
   {
@@ -122556,6 +122696,11 @@
   },
   {
     "brand": "Oukitel",
+    "name": "RT7_TITAN_EEA",
+    "codename": "RT7_TITAN"
+  },
+  {
+    "brand": "Oukitel",
     "name": "RT8_EEA",
     "codename": "RT8"
   },
@@ -122798,6 +122943,11 @@
     "brand": "Oukitel",
     "name": "WP30_Pro_EEA",
     "codename": "WP30_Pro"
+  },
+  {
+    "brand": "Oukitel",
+    "name": "WP32_EEA",
+    "codename": "WP32"
   },
   {
     "brand": "Oukitel",
@@ -127291,6 +127441,11 @@
   },
   {
     "brand": "Plimpton",
+    "name": "Kids20",
+    "codename": "Kids20"
+  },
+  {
+    "brand": "Plimpton",
     "name": "Kids20_EEA",
     "codename": "Kids20_EEA"
   },
@@ -131236,6 +131391,11 @@
   },
   {
     "brand": "Pritom",
+    "name": "M10_A06",
+    "codename": "M10_A06"
+  },
+  {
+    "brand": "Pritom",
     "name": "M10_A06_EEA",
     "codename": "M10_A06_EEA"
   },
@@ -132938,6 +133098,11 @@
     "brand": "Qsmart",
     "name": "QSmart Rocket",
     "codename": "Rocket"
+  },
+  {
+    "brand": "Qsmart",
+    "name": "QSmart Ultra",
+    "codename": "Ultra"
   },
   {
     "brand": "Qsmart",
@@ -160397,6 +160562,11 @@
   {
     "brand": "Smart-Tech TV",
     "name": "Contex TV",
+    "codename": "cottongreen"
+  },
+  {
+    "brand": "Smart-Tech TV",
+    "name": "Contex TV",
     "codename": "nagata"
   },
   {
@@ -161421,6 +161591,11 @@
   },
   {
     "brand": "Sony",
+    "name": "Xperia 1 VI",
+    "codename": "SO-51E"
+  },
+  {
+    "brand": "Sony",
     "name": "Xperia 10",
     "codename": "I3113"
   },
@@ -161573,6 +161748,11 @@
     "brand": "Sony",
     "name": "Xperia 10 V",
     "codename": "XQ-DC72"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 VI",
+    "codename": "SO-52E"
   },
   {
     "brand": "Sony",
@@ -176966,6 +177146,11 @@
   },
   {
     "brand": "Teclast",
+    "name": "M50HD_ROW",
+    "codename": "M50HD_T"
+  },
+  {
+    "brand": "Teclast",
     "name": "M50Pro_EEA",
     "codename": "M50Pro_EEA"
   },
@@ -177173,6 +177358,11 @@
     "brand": "Teclast",
     "name": "P30S_W_ROW",
     "codename": "P30S_W_ROW"
+  },
+  {
+    "brand": "Teclast",
+    "name": "P30T_EEA",
+    "codename": "P30T"
   },
   {
     "brand": "Teclast",
@@ -177553,6 +177743,16 @@
     "brand": "Teclast",
     "name": "T40_ROW",
     "codename": "T40"
+  },
+  {
+    "brand": "Teclast",
+    "name": "T45HD_EEA",
+    "codename": "T45HD_T"
+  },
+  {
+    "brand": "Teclast",
+    "name": "T45HD_ROW",
+    "codename": "T45HD_T"
   },
   {
     "brand": "Teclast",
@@ -185365,6 +185565,11 @@
     "codename": "longshan"
   },
   {
+    "brand": "VIOS",
+    "name": "VTAB7",
+    "codename": "VTAB7"
+  },
+  {
     "brand": "VIPER",
     "name": "SZ11MK1",
     "codename": "SZ11MK1"
@@ -189891,6 +190096,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "V30e",
+    "codename": "V2339"
+  },
+  {
+    "brand": "Vivo",
     "name": "V3Lite",
     "codename": "V3Lite"
   },
@@ -189913,6 +190123,16 @@
     "brand": "Vivo",
     "name": "V3Max A",
     "codename": "PD1523"
+  },
+  {
+    "brand": "Vivo",
+    "name": "V40 Lite",
+    "codename": "V2339"
+  },
+  {
+    "brand": "Vivo",
+    "name": "V40 Lite",
+    "codename": "V2339"
   },
   {
     "brand": "Vivo",
@@ -189978,6 +190198,16 @@
     "brand": "Vivo",
     "name": "X100 Ultra",
     "codename": "PD2366"
+  },
+  {
+    "brand": "Vivo",
+    "name": "X100s",
+    "codename": "PD2309"
+  },
+  {
+    "brand": "Vivo",
+    "name": "X100s Pro",
+    "codename": "PD2324"
   },
   {
     "brand": "Vivo",
@@ -192478,6 +192708,11 @@
     "brand": "Vortex",
     "name": "V50LTE",
     "codename": "V50LTE"
+  },
+  {
+    "brand": "Vortex",
+    "name": "VORTEX BTAB10",
+    "codename": "BTAB10"
   },
   {
     "brand": "Vortex",
@@ -209583,6 +209818,11 @@
     "brand": "benco",
     "name": "benco V91",
     "codename": "AE9310"
+  },
+  {
+    "brand": "benco",
+    "name": "benco V92",
+    "codename": "AEOP517"
   },
   {
     "brand": "benco",

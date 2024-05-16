@@ -1,6 +1,6 @@
 brand = "Samsung"
 codename = "espresso3g"
-name = "Galaxy Tab 2 10.1 (GSM)"
+name = "Galaxy Tab 2 7.0 (GSM)"
 
 [[recoveries]]
 id = "twrp"

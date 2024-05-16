@@ -1,6 +1,6 @@
 brand = "Xiaomi"
 codename = "Mi8937"
-name = "Redmi 3S"
+name = "Redmi 4X"
 
 [[recoveries]]
 id = "twrp"
@@ -12,18 +12,6 @@ id = "cherishos"
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
-ram = "2 / 3 GB"
-wifi = "802.11 b/g/n"
-
-[[roms]]
-id = "lineageos"
-cpu = "Cortex-A53 & Cortex-A53"
-ram = "3 / 4 GB"
-wifi = "802.11 b/g/n"
-
-[[roms]]
-id = "lineageos"
-cpu = "Cortex-A53 & Cortex-A53"
 ram = "2 / 3 / 4 GB"
 wifi = "802.11 b/g/n"
 
@@ -36,13 +24,25 @@ wifi = "802.11 b/g/n"
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
-ram = "2 / 3 / 4 GB"
+ram = "3 / 4 GB"
 wifi = "802.11 b/g/n"
 
 [[roms]]
 id = "lineageos"
 cpu = "Cortex-A53 & Cortex-A53"
 ram = "2 GB"
+wifi = "802.11 b/g/n"
+
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A53 & Cortex-A53"
+ram = "2 / 3 GB"
+wifi = "802.11 b/g/n"
+
+[[roms]]
+id = "lineageos"
+cpu = "Cortex-A53 & Cortex-A53"
+ram = "2 / 3 / 4 GB"
 wifi = "802.11 b/g/n"
 
 [specs]
