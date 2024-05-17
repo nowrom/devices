@@ -40511,6 +40511,11 @@
   },
   {
     "brand": "FOXXD",
+    "name": "A55",
+    "codename": "A55"
+  },
+  {
+    "brand": "FOXXD",
     "name": "A56",
     "codename": "A56"
   },
@@ -78596,6 +78601,11 @@
   },
   {
     "brand": "KTCtv",
+    "name": "NEXUS",
+    "codename": "lavender"
+  },
+  {
+    "brand": "KTCtv",
     "name": "OZON",
     "codename": "stanford"
   },
@@ -114753,6 +114763,11 @@
     "brand": "Nissan",
     "name": "NissanConnect",
     "codename": "aivi2_b"
+  },
+  {
+    "brand": "Nissan",
+    "name": "NissanConnect",
+    "codename": "aivi2_n_full"
   },
   {
     "brand": "Nixon",
@@ -161592,7 +161607,32 @@
   {
     "brand": "Sony",
     "name": "Xperia 1 VI",
+    "codename": "A401SO"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 VI",
     "codename": "SO-51E"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 VI",
+    "codename": "SOG13"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 VI",
+    "codename": "XQ-EC44"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 VI",
+    "codename": "XQ-EC54"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 VI",
+    "codename": "XQ-EC72"
   },
   {
     "brand": "Sony",
@@ -181568,6 +181608,11 @@
     "brand": "Toshiba",
     "name": "Toshiba Chromebook 2 (2015 Edition)",
     "codename": "gandof_cheets"
+  },
+  {
+    "brand": "Toshiba",
+    "name": "ToshibaTV",
+    "codename": "hayward"
   },
   {
     "brand": "Toshiba",

@@ -6,4 +6,4 @@ recoveries = []
 [[roms]]
 id = "crdroid"
 gapps = "https://nikgapps.com/crdroid-official"
-recovery = ""
+recovery = "https://sourceforge.net/projects/crdroid/files/cypfq/10.x/recovery/"
