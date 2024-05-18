@@ -25546,6 +25546,11 @@
   },
   {
     "brand": "ClearTouch",
+    "name": "NEXT_TDED",
+    "codename": "rk3588_t"
+  },
+  {
+    "brand": "ClearTouch",
     "name": "UX Pro Edge",
     "codename": "rk3588_t"
   },
@@ -48176,6 +48181,11 @@
   },
   {
     "brand": "HISORL",
+    "name": "P80-ROW",
+    "codename": "P80-ROW"
+  },
+  {
+    "brand": "HISORL",
     "name": "T10P",
     "codename": "T10P"
   },
@@ -48218,6 +48228,11 @@
     "brand": "HKC Elec",
     "name": "4K Smart TV",
     "codename": "pioneer"
+  },
+  {
+    "brand": "HKC Elec",
+    "name": "Google TV",
+    "codename": "burbank"
   },
   {
     "brand": "HKC Elec",
@@ -105976,6 +105991,11 @@
   },
   {
     "brand": "Mobiwire",
+    "name": "V Pro 2 4G",
+    "codename": "V_Pro_2"
+  },
+  {
+    "brand": "Mobiwire",
     "name": "V Smart 2",
     "codename": "V_Smart_2"
   },
@@ -142297,6 +142317,16 @@
   {
     "brand": "Samsung",
     "name": "Galaxy A55 5G",
+    "codename": "SC-53E"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A55 5G",
+    "codename": "SCG27"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A55 5G",
     "codename": "a55x"
   },
   {
@@ -156173,6 +156203,16 @@
     "brand": "Sharp",
     "name": "4T-C**EN2/EL1/EQ2/FN2/FL1",
     "codename": "tcvenruj"
+  },
+  {
+    "brand": "Sharp",
+    "name": "4T-C**GP1/GS1/GQ1/GN1",
+    "codename": "tcmar1uj"
+  },
+  {
+    "brand": "Sharp",
+    "name": "4T-C**GP2/GQ2/GN2",
+    "codename": "tcmar1uj"
   },
   {
     "brand": "Sharp",
@@ -176738,6 +176778,11 @@
     "brand": "Technicolor",
     "name": "Agile TV",
     "codename": "dwt765mm"
+  },
+  {
+    "brand": "Technicolor",
+    "name": "Agile TV",
+    "codename": "uzw4060mm"
   },
   {
     "brand": "Technicolor",
