@@ -1,7 +1,10 @@
 brand = "Redmi"
 codename = "curtana"
 name = "Redmi Note 9S"
-recoveries = []
+
+[[recoveries]]
+id = "orangefox"
+supported = false
 
 [[roms]]
 id = "ancientos"

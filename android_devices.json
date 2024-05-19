@@ -34231,6 +34231,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "F10S",
+    "codename": "F1C"
+  },
+  {
+    "brand": "Doogee",
     "name": "MIX",
     "codename": "t766_dg_n_mix"
   },
@@ -109996,6 +110001,11 @@
   },
   {
     "brand": "Motorola Solutions",
+    "name": "LEX L11",
+    "codename": "lexl11g_64"
+  },
+  {
+    "brand": "Motorola Solutions",
     "name": "MOTOTRBO ION",
     "codename": "mkz_sdm660_64"
   },
@@ -177236,6 +177246,11 @@
   },
   {
     "brand": "Teclast",
+    "name": "M50Mini_ROW",
+    "codename": "M50Mini_ROW"
+  },
+  {
+    "brand": "Teclast",
     "name": "M50Pro_EEA",
     "codename": "M50Pro_EEA"
   },
@@ -177503,6 +177518,11 @@
     "brand": "Teclast",
     "name": "P50S_ROW",
     "codename": "P50S_ROW"
+  },
+  {
+    "brand": "Teclast",
+    "name": "P50_EEA",
+    "codename": "P50_EEA"
   },
   {
     "brand": "Teclast",

@@ -12,8 +12,8 @@ photo = "https://fdn2.gsmarena.com/vv/bigpic/nokia-6-2018.jpg"
 
 [[roms]]
 id = "crdroid"
-gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/NikGapps-U/07-Mar-2024/NikGapps-crdroid-official-arm64-14-20240307-signed.zip/download"
-recovery = "https://sourceforge.net/projects/crdroid/files/PL2/10.x/recovery/boot-20240408.img/download"
+gapps = "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/NikGapps-U/20-Apr-2024/NikGapps-crdroid-official-arm64-14-20240420-signed.zip/download"
+recovery = "https://sourceforge.net/projects/crdroid/files/PL2/10.x/recovery/boot-20240517.img/download"
 
 [[roms]]
 id = "evolutionx"
