@@ -167280,6 +167280,11 @@
     "codename": "rk3588_t"
   },
   {
+    "brand": "Synetech",
+    "name": "Synetech_Elite_Taurus",
+    "codename": "rk3588_t"
+  },
+  {
     "brand": "T-Mobile",
     "name": "REVVL 2",
     "codename": "A30ATMO"
