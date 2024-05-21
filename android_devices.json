@@ -21816,16 +21816,6 @@
   },
   {
     "brand": "CAIXUN",
-    "name": "Newal 2K SMART TV",
-    "codename": "nagata"
-  },
-  {
-    "brand": "CAIXUN",
-    "name": "Newal 4K SMART TV",
-    "codename": "marina"
-  },
-  {
-    "brand": "CAIXUN",
     "name": "Sgamer",
     "codename": "cottongreen"
   },
@@ -29478,6 +29468,11 @@
     "brand": "Cubot",
     "name": "X70",
     "codename": "X70"
+  },
+  {
+    "brand": "Cubot",
+    "name": "X90",
+    "codename": "X90"
   },
   {
     "brand": "Cubot",
@@ -109721,6 +109716,16 @@
   },
   {
     "brand": "Motorola",
+    "name": "motorola edge 50 ultra",
+    "codename": "ctwo"
+  },
+  {
+    "brand": "Motorola",
+    "name": "motorola edge 50 ultra",
+    "codename": "ctwo"
+  },
+  {
+    "brand": "Motorola",
     "name": "motorola edge 5G UW (2021)",
     "codename": "berlna"
   },
@@ -114453,6 +114458,16 @@
     "brand": "NewBridge",
     "name": "NBTB102",
     "codename": "NBTB102"
+  },
+  {
+    "brand": "Newal",
+    "name": "Newal 2K SMART TV",
+    "codename": "nagata"
+  },
+  {
+    "brand": "Newal",
+    "name": "Newal 4K SMART TV",
+    "codename": "marina"
   },
   {
     "brand": "Newings",
@@ -212303,6 +212318,11 @@
     "brand": "iSWAG",
     "name": "iSWAG ACTIV",
     "codename": "iSWAG_ACTIV"
+  },
+  {
+    "brand": "iSolution",
+    "name": "OPS_RK3588_B",
+    "codename": "AKMEI14"
   },
   {
     "brand": "iTab XPLUS",
