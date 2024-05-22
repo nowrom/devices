@@ -1596,6 +1596,16 @@
   },
   {
     "brand": "AWOW",
+    "name": "Funtab_1001",
+    "codename": "Funtab_1001"
+  },
+  {
+    "brand": "AWOW",
+    "name": "Funtab_1001_EEA",
+    "codename": "Funtab_1001_EEA"
+  },
+  {
+    "brand": "AWOW",
     "name": "Funtab_801_I",
     "codename": "Funtab_801_I"
   },
@@ -2113,6 +2123,11 @@
     "brand": "Acer",
     "name": "ACER ALTOS EZA",
     "codename": "AKREI13"
+  },
+  {
+    "brand": "Acer",
+    "name": "ACER_ALTOS_EZB",
+    "codename": "AKMEI14"
   },
   {
     "brand": "Acer",
@@ -8203,6 +8218,11 @@
     "brand": "Archos",
     "name": "ARCHOST963G",
     "codename": "ARCHOST963G"
+  },
+  {
+    "brand": "Archos",
+    "name": "AT101FHD2WF_EEA",
+    "codename": "act101fhd2wf"
   },
   {
     "brand": "Archos",
@@ -17963,6 +17983,11 @@
     "brand": "Blackview",
     "name": "Tab 3 Kids",
     "codename": "Tab3Kids"
+  },
+  {
+    "brand": "Blackview",
+    "name": "Tab 50 Kids",
+    "codename": "Tab50Kids"
   },
   {
     "brand": "Blackview",
@@ -40456,6 +40481,11 @@
   },
   {
     "brand": "FOSSiBOT",
+    "name": "DT1 Lite",
+    "codename": "DT1_Lite"
+  },
+  {
+    "brand": "FOSSiBOT",
     "name": "DT1_Lite",
     "codename": "DT1_Lite"
   },
@@ -45088,6 +45118,11 @@
     "brand": "Ghia",
     "name": "GK133T3",
     "codename": "GK133T3"
+  },
+  {
+    "brand": "Ghia",
+    "name": "GK133V3",
+    "codename": "GK133V3"
   },
   {
     "brand": "Ghia",
@@ -102256,6 +102291,11 @@
   },
   {
     "brand": "Meizu",
+    "name": "MEIZU 21 Note",
+    "codename": "Meizu21Note"
+  },
+  {
+    "brand": "Meizu",
     "name": "Meizu 6T",
     "codename": "Meizu6T"
   },
@@ -117176,6 +117216,11 @@
   },
   {
     "brand": "OSCAL",
+    "name": "Pad 15",
+    "codename": "Pad15_RU"
+  },
+  {
+    "brand": "OSCAL",
     "name": "Pad 16",
     "codename": "Pad16"
   },
@@ -123573,6 +123618,11 @@
     "brand": "PEAQ",
     "name": "PET-1081-LH332S",
     "codename": "PET-1081-LH332S"
+  },
+  {
+    "brand": "PEAQ",
+    "name": "PET-10980-F628E",
+    "codename": "PET-10980-F628E"
   },
   {
     "brand": "PEAQ",
@@ -176161,6 +176211,11 @@
   },
   {
     "brand": "TOSCIDO",
+    "name": "T21-EEA",
+    "codename": "T21-EEA"
+  },
+  {
+    "brand": "TOSCIDO",
     "name": "T211-EEA",
     "codename": "T211-EEA"
   },
@@ -177091,6 +177146,11 @@
   },
   {
     "brand": "Techpad",
+    "name": "X9",
+    "codename": "X9_PLUS"
+  },
+  {
+    "brand": "Techpad",
     "name": "i700",
     "codename": "i700"
   },
@@ -177261,6 +177321,11 @@
   },
   {
     "brand": "Teclast",
+    "name": "M50HD_EEA",
+    "codename": "M50HD_T"
+  },
+  {
+    "brand": "Teclast",
     "name": "M50HD_ROW",
     "codename": "M50HD_T"
   },
@@ -177278,6 +177343,16 @@
     "brand": "Teclast",
     "name": "M50Pro_ROW",
     "codename": "M50Pro_ROW"
+  },
+  {
+    "brand": "Teclast",
+    "name": "M50_EEA",
+    "codename": "M50_T"
+  },
+  {
+    "brand": "Teclast",
+    "name": "M50_ROW",
+    "codename": "M50_T"
   },
   {
     "brand": "Teclast",
@@ -198586,6 +198661,11 @@
   },
   {
     "brand": "Xsmart",
+    "name": "CORE_X",
+    "codename": "CORE_X"
+  },
+  {
+    "brand": "Xsmart",
     "name": "Mate_10",
     "codename": "Mate_10"
   },
@@ -210335,6 +210415,11 @@
     "codename": "dazen_6E"
   },
   {
+    "brand": "denver",
+    "name": "TIO_80",
+    "codename": "TIO_80"
+  },
+  {
     "brand": "digITS",
     "name": "T1",
     "codename": "T1"
@@ -211501,6 +211586,11 @@
   },
   {
     "brand": "iHunt",
+    "name": "P11000 Pro",
+    "codename": "P11000_Pro"
+  },
+  {
+    "brand": "iHunt",
     "name": "P25000 Pro",
     "codename": "P25000_Pro"
   },
@@ -211563,6 +211653,11 @@
     "brand": "iHunt",
     "name": "Strong Tablet P15000 Pro",
     "codename": "Tablet_P15000"
+  },
+  {
+    "brand": "iHunt",
+    "name": "Strong Tablet P15000 Ultra",
+    "codename": "P15000_Ultra"
   },
   {
     "brand": "iHunt",
@@ -212320,11 +212415,6 @@
     "codename": "iSWAG_ACTIV"
   },
   {
-    "brand": "iSolution",
-    "name": "OPS_RK3588_B",
-    "codename": "AKMEI14"
-  },
-  {
     "brand": "iTab XPLUS",
     "name": "ITAB_X38T",
     "codename": "ITAB_X38T"
@@ -213053,6 +213143,11 @@
     "brand": "realme",
     "name": "4K Smart TV",
     "codename": "gangbyeon"
+  },
+  {
+    "brand": "realme",
+    "name": "NARZO 70 5G",
+    "codename": "RE5C86L1"
   },
   {
     "brand": "realme",
@@ -213901,6 +213996,11 @@
   },
   {
     "brand": "realme",
+    "name": "realme note 50",
+    "codename": "RE5C9F"
+  },
+  {
+    "brand": "realme",
     "name": "realme pad",
     "codename": "RE54C1L1"
   },
@@ -213993,6 +214093,11 @@
     "brand": "realme",
     "name": "真我GT Neo",
     "codename": "RMX3031CN"
+  },
+  {
+    "brand": "realme",
+    "name": "真我GT Neo6",
+    "codename": "RE5C46L1"
   },
   {
     "brand": "realme",
