@@ -1,8 +1,13 @@
 brand = "Fairphone"
 codename = "FP5"
 name = "Fairphone 5 5G"
-roms = []
 
 [[recoveries]]
 id = "twrp"
 maintainer = "z3ntu"
+
+[[roms]]
+id = "lineageos"
+cpu = "Kryo 670"
+ram = "8 GB LPDDR4X"
+wifi = "802.11 a/b/g/n/ac/ax"
