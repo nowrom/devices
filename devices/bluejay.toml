@@ -4,6 +4,11 @@ name = "Pixel 6a"
 recoveries = []
 
 [[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
+
+[[roms]]
 id = "evolutionx"
 
 [[roms]]
