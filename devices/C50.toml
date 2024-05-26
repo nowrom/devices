@@ -1,6 +1,6 @@
-brand = "LGE"
-codename = "c50"
-name = "LG Tribute 2™"
+brand = "Oukitel"
+codename = "C50"
+name = "C50_EEA"
 roms = []
 
 [[recoveries]]
