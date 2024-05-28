@@ -34431,6 +34431,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "DK10",
+    "codename": "ZN138"
+  },
+  {
+    "brand": "Doogee",
     "name": "F10",
     "codename": "F1"
   },
@@ -34538,6 +34543,41 @@
     "brand": "Doogee",
     "name": "N50S",
     "codename": "1918D"
+  },
+  {
+    "brand": "Doogee",
+    "name": "N53",
+    "codename": "1928D"
+  },
+  {
+    "brand": "Doogee",
+    "name": "N55",
+    "codename": "1928"
+  },
+  {
+    "brand": "Doogee",
+    "name": "N56",
+    "codename": "1928E"
+  },
+  {
+    "brand": "Doogee",
+    "name": "N56 Max",
+    "codename": "1928N"
+  },
+  {
+    "brand": "Doogee",
+    "name": "N56 Plus",
+    "codename": "1928P"
+  },
+  {
+    "brand": "Doogee",
+    "name": "N56 Plus",
+    "codename": "1928P"
+  },
+  {
+    "brand": "Doogee",
+    "name": "N56 Pro",
+    "codename": "1928T"
   },
   {
     "brand": "Doogee",
@@ -34931,6 +34971,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "T30 Max",
+    "codename": "P3T"
+  },
+  {
+    "brand": "Doogee",
     "name": "T30 Mini",
     "codename": "P3MiniTE_2"
   },
@@ -34938,6 +34983,11 @@
     "brand": "Doogee",
     "name": "T30 Mini Pro",
     "codename": "P3MiniT"
+  },
+  {
+    "brand": "Doogee",
+    "name": "T30 SE",
+    "codename": "P3C"
   },
   {
     "brand": "Doogee",
@@ -76385,6 +76435,11 @@
     "codename": "sti6260d195"
   },
   {
+    "brand": "JAV Smart-box",
+    "name": "Smart-box",
+    "codename": "rk3588_t"
+  },
+  {
     "brand": "JAY-TECH",
     "name": "TPC-G1010",
     "codename": "TPC-G1010_EEA"
@@ -79363,6 +79418,11 @@
     "brand": "Kaicom",
     "name": "KAICOM W660",
     "codename": "W660"
+  },
+  {
+    "brand": "Kaliho",
+    "name": "H3",
+    "codename": "H3"
   },
   {
     "brand": "Kalley",
@@ -120961,6 +121021,16 @@
   },
   {
     "brand": "Oppo",
+    "name": "OPPO Reno12",
+    "codename": "OP5A29L1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "OPPO Reno12 Pro",
+    "codename": "OP5A2BL1"
+  },
+  {
+    "brand": "Oppo",
     "name": "OPPO Reno5 A",
     "codename": "OP4F2BL1"
   },
@@ -124680,6 +124750,11 @@
     "codename": "P10"
   },
   {
+    "brand": "PTCL SHOQ TV",
+    "name": "PTCL B866V2F",
+    "codename": "PTCLBox_B866V2F"
+  },
+  {
     "brand": "PYUR",
     "name": "PYUR TV BOX",
     "codename": "m377genb_pyur"
@@ -128103,6 +128178,11 @@
     "brand": "Plimpton",
     "name": "Kids20",
     "codename": "Kids20"
+  },
+  {
+    "brand": "Plimpton",
+    "name": "Kids20A14",
+    "codename": "Kids20A14"
   },
   {
     "brand": "Plimpton",
@@ -136338,6 +136418,16 @@
     "brand": "Redmi",
     "name": "Redmi A3",
     "codename": "blue"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi A3x",
+    "codename": "klein"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi A3x",
+    "codename": "klein"
   },
   {
     "brand": "Redmi",
@@ -210143,6 +210233,11 @@
     "brand": "Zonko",
     "name": "D105",
     "codename": "D105"
+  },
+  {
+    "brand": "Zonko",
+    "name": "D105_EEA",
+    "codename": "D105_EEA"
   },
   {
     "brand": "Zonko",

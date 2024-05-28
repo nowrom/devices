@@ -1,0 +1,8 @@
+brand = "Redmi"
+codename = "garnet"
+name = "Redmi Note 13 Pro 5G"
+roms = []
+
+[[recoveries]]
+id = "orangefox"
+supported = true

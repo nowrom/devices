@@ -1,11 +1,16 @@
 brand = "OnePlus"
 codename = "guacamoleb"
-name = "7"
+name = "OnePlus 7"
 
 [[recoveries]]
 id = "twrp"
 xdathread = "https://forum.xda-developers.com/t/recovery-11-unofficial-teamwin-recovery-project.4289455/"
 maintainer = "Nebrassy"
+
+[[roms]]
+id = "crdroid"
+gapps = ""
+recovery = ""
 
 [[roms]]
 id = "lineageos"
