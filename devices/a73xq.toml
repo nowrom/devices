@@ -4,6 +4,11 @@ name = "Galaxy A73 5G"
 recoveries = []
 
 [[roms]]
+id = "crdroid"
+gapps = "https://nikgapps.com/crdroid-official"
+recovery = "https://sourceforge.net/projects/crdroid/files/a73xq/10.x/recovery.img/download"
+
+[[roms]]
 id = "lineageos"
 cpu = "Kryo 670"
 ram = "6/8 GB"

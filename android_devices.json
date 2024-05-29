@@ -4201,6 +4201,16 @@
   },
   {
     "brand": "Aermoo",
+    "name": "CM10",
+    "codename": "PT1E_2"
+  },
+  {
+    "brand": "Aermoo",
+    "name": "CM20",
+    "codename": "PT2_1"
+  },
+  {
+    "brand": "Aermoo",
     "name": "DF10",
     "codename": "M22PE"
   },
@@ -4213,6 +4223,11 @@
     "brand": "Aermoo",
     "name": "PF10",
     "codename": "M23HE_2"
+  },
+  {
+    "brand": "Aermoo",
+    "name": "PF10 Pro",
+    "codename": "M23HT_2"
   },
   {
     "brand": "Aermoo",
@@ -5843,6 +5858,11 @@
     "brand": "AllView",
     "name": "X2 Soul Xtreme",
     "codename": "X2_Soul_Xtreme"
+  },
+  {
+    "brand": "AllView",
+    "name": "X20_Soul_EEA",
+    "codename": "X20_Soul"
   },
   {
     "brand": "AllView",
@@ -34916,6 +34936,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "T10 Pro",
+    "codename": "P1S_2"
+  },
+  {
+    "brand": "Doogee",
     "name": "T10E",
     "codename": "P4"
   },
@@ -34941,6 +34966,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "T10W",
+    "codename": "P1TC"
+  },
+  {
+    "brand": "Doogee",
     "name": "T20",
     "codename": "P2"
   },
@@ -34948,6 +34978,11 @@
     "brand": "Doogee",
     "name": "T20",
     "codename": "P2_2"
+  },
+  {
+    "brand": "Doogee",
+    "name": "T20 Pro",
+    "codename": "P2TE"
   },
   {
     "brand": "Doogee",
@@ -35061,6 +35096,11 @@
   },
   {
     "brand": "Doogee",
+    "name": "U9Pro",
+    "codename": "T1"
+  },
+  {
+    "brand": "Doogee",
     "name": "V MAX",
     "codename": "M23H"
   },
@@ -35073,6 +35113,11 @@
     "brand": "Doogee",
     "name": "V Max",
     "codename": "M23HR"
+  },
+  {
+    "brand": "Doogee",
+    "name": "V Max Plus",
+    "codename": "M23HT"
   },
   {
     "brand": "Doogee",
@@ -35416,6 +35461,11 @@
   },
   {
     "brand": "Doopro",
+    "name": "G10",
+    "codename": "T1_2"
+  },
+  {
+    "brand": "Doopro",
     "name": "G11",
     "codename": "P4_2"
   },
@@ -35428,6 +35478,11 @@
     "brand": "Doopro",
     "name": "G8",
     "codename": "RK3_2"
+  },
+  {
+    "brand": "Doopro",
+    "name": "G8 Kid",
+    "codename": "RK3KID_2"
   },
   {
     "brand": "Doopro",
@@ -121021,16 +121076,6 @@
   },
   {
     "brand": "Oppo",
-    "name": "OPPO Reno12",
-    "codename": "OP5A29L1"
-  },
-  {
-    "brand": "Oppo",
-    "name": "OPPO Reno12 Pro",
-    "codename": "OP5A2BL1"
-  },
-  {
-    "brand": "Oppo",
     "name": "OPPO Reno5 A",
     "codename": "OP4F2BL1"
   },
@@ -122088,6 +122133,16 @@
     "brand": "Oppo",
     "name": "Reno11 Pro",
     "codename": "OP59EFL1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "Reno12",
+    "codename": "OP5A29L1"
+  },
+  {
+    "brand": "Oppo",
+    "name": "Reno12 Pro",
+    "codename": "OP5A2BL1"
   },
   {
     "brand": "Oppo",
@@ -136418,6 +136473,11 @@
     "brand": "Redmi",
     "name": "Redmi A3",
     "codename": "blue"
+  },
+  {
+    "brand": "Redmi",
+    "name": "Redmi A3x",
+    "codename": "klein"
   },
   {
     "brand": "Redmi",
@@ -165855,6 +165915,11 @@
     "codename": "TE_YL"
   },
   {
+    "brand": "StarBoard",
+    "name": "TE_QS",
+    "codename": "TE_QS"
+  },
+  {
     "brand": "StarHub",
     "name": "Android TV Set-Top Box",
     "codename": "KM_SH368AT"
@@ -191896,6 +191961,11 @@
   },
   {
     "brand": "Vivo",
+    "name": "Y58 5G",
+    "codename": "V2355"
+  },
+  {
+    "brand": "Vivo",
     "name": "Y66",
     "codename": "PD1621"
   },
@@ -192133,6 +192203,11 @@
     "brand": "Vivo",
     "name": "iQOO Pad Air",
     "codename": "DPD2305"
+  },
+  {
+    "brand": "Vivo",
+    "name": "iQOO Pad2",
+    "codename": "DPD2345"
   },
   {
     "brand": "Vivo",
@@ -192598,6 +192673,11 @@
     "brand": "Vivo",
     "name": "vivo Pad2",
     "codename": "DPD2221"
+  },
+  {
+    "brand": "Vivo",
+    "name": "vivo Pad3",
+    "codename": "DPD2345"
   },
   {
     "brand": "Vivo",
@@ -215533,6 +215613,11 @@
     "brand": "waiputv",
     "name": "waipu tv stick",
     "codename": "SEI700WP"
+  },
+  {
+    "brand": "weelikeit",
+    "name": "C19W",
+    "codename": "C19W"
   },
   {
     "brand": "weelikeit",
